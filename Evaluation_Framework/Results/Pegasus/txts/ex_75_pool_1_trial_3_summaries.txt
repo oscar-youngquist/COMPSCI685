@@ -1,0 +1,15 @@
+Document:
+north_dakota
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+North Dakota has a continental climate with warm summers and cold winters .<n>For decades, North Dakota's annual murder rate and the violent crime rate was regularly the lowest in the United States .<n>The state is the fourth least-populous state in the country; only Alaska, Vermont, and Wyoming have fewer residents .
+
+GT:
+North Dakota has a continental climate with warm summers and cold winters. The temperature differences are significant because of its far inland position and being in the center of the Northern Hemisphere, with roughly equal distances to the North Pole and the Equator. But a period of higher rainfall ended, and many migrants weren't successful in the arid conditions. Throughout Native American history, powwows were held, usually in the spring, to rejoice at the beginning of new life and the end of the winter cold. Ice fishing, skiing, and snowmobiling are also popular during the winter months. Canola is suited to the cold winters and it matures fast. In North Dakota soybeans have to mature fast, because of the comparatively short growing season. A unique feature of the North Dakota Interstate Highway system is virtually all of it is paved in concrete, not blacktop, because of the extreme weather conditions it must endure.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16883116883116883, 0.48148148148148145, 0.25, 0.15624999999999997]
+[0.09803921568627451, 0.2830188679245283, 0.14563106796116504, 0.09101941747572816]
+[0.14935064935064934, 0.42592592592592593, 0.22115384615384615, 0.13822115384615383]

@@ -1,0 +1,15 @@
+Document:
+virginia
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+The geography and climate of the Commonwealth are shaped by the Blue Ridge Mountains and the Chesapeake Bay .<n>The Blue Ridge Mountains are a physiographic province of the Appalachian Mountains with the highest points in the commonwealth .<n>The commonwealth's carbonate rock is filled with more than 4,000 caves, ten of which are open for tourism .
+
+GT:
+The commonwealth's carbonate rock is filled with more than 4,000 caves, ten of which are open for tourism, including the popular Luray Caverns and Skyline Caverns. The state was eighth nationwide in domestic travel spending in 2018, with Arlington County the top tourist destination in the state by domestic spending, followed by Fairfax County, Loudoun County, and Virginia Beach. The Virginia State Fair is held at the Meadow Event Park every September. The Virginia Lake Festival is held during the third weekend in July in Clarksville. Wolf Trap hosts the Wolf Trap Opera Company, which produces an opera festival every summer. Each September, Bay Days celebrates the Chesapeake Bay as well as Hampton's 400-year history since 1610, and Isle of Wight County holds a County Fair on the second week of September as well. The Shenandoah Apple Blossom Festival is a six-day festival held annually in Winchester which includes parades and bluegrass concerts. Two important film festivals, the Virginia Film Festival and the VCU French Film Festival, are held annually in Charlottesville and Richmond, respectively. The Eastern Shore of Virginia is the site of Wallops Flight Facility, a rocket testing center owned by NASA, and the Mid-Atlantic Regional Spaceport, a commercial spaceport.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1875, 0.6610169491525424, 0.29213483146067415, 0.18258426966292132]
+[0.1111111111111111, 0.39655172413793105, 0.17358490566037732, 0.10849056603773585]
+[0.09615384615384616, 0.3389830508474576, 0.149812734082397, 0.09363295880149813]

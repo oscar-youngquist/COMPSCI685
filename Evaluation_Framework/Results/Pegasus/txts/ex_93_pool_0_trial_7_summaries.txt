@@ -1,0 +1,15 @@
+Document:
+hawaii
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Hawaii was an independent republic from 1894 until 1898, when it officially became a territory of the United States .<n>British explorer James Cook was the first known non-Polynesian to discover the archipelago in 1778 .
+
+GT:
+Hawaiʻi was admitted as a US state on August 21, 1959. The 1778 arrival of British explorer Captain James Cook marked the first documented contact by a European explorer with Hawaiʻi. After negotiations in June 1897, Secretary of State John Sherman agreed to a treaty of annexation with these representatives of the Republic of Hawaiʻi. In 1900, Hawaiʻi was granted self-governance and retained ʻIolani Palace as the territorial capitol building. Oʻahu was the target of a surprise attack on Pearl Harbor by Imperial Japan on December 7, 1941. In March 1959, Congress passed the Hawaiʻi Admissions Act, which US President Dwight D. Eisenhower signed into law.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1592920353982301, 0.5, 0.24161073825503354, 0.15100671140939598]
+[0.044642857142857144, 0.14285714285714285, 0.06802721088435375, 0.04251700680272109]
+[0.10619469026548672, 0.3333333333333333, 0.16107382550335572, 0.10067114093959731]

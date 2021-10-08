@@ -1,0 +1,15 @@
+Document:
+maine
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Maine has a humid continental climate (Kppen climate classification Dfb)<n>Winters are especially severe in the Northern and Western parts of Maine .<n>Most severe thunderstorms and tornadoes occur in the Sebago Lakes & Foothills region of the state .
+
+GT:
+Maine has a humid continental climate (Köppen climate classification Dfb), with warm and sometimes humid summers, and long, cold and very snowy winters. Winters are especially severe in the Northern and Western parts of Maine, while coastal areas are moderated slightly by the Atlantic Ocean, resulting in marginally milder winters and cooler summers than inland regions. The state's record high temperature is 105 °F (41 °C), set in July 1911, at North Bridgton.Precipitation in Maine is evenly distributed year-round, but with a slight summer maximum in northern/northwestern Maine and a slight late-fall or early-winter maximum along the coast due to "nor'easters" or intense cold-season rain and snowstorms. In coastal Maine, the late spring and summer months are usually driest—a rarity across the Eastern United States. Maine has fewer days of thunderstorms than any other state east of the Rockies, with most of the state averaging fewer than twenty days of thunderstorms a year. In January 2009, a new record low temperature for the state was set at Big Black River of −50 °F (−46 °C), tying the New England record. Annual precipitation varies from 909 mm (35.8 in) in Presque Isle, to 1,441 mm (56.7 in) in Acadia National Park.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14084507042253522, 0.7692307692307693, 0.2380952380952381, 0.14880952380952384]
+[0.09433962264150944, 0.5263157894736842, 0.16, 0.1]
+[0.1267605633802817, 0.6923076923076923, 0.21428571428571425, 0.13392857142857142]

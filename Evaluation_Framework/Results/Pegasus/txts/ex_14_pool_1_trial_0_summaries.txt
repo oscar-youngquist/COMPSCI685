@@ -1,0 +1,15 @@
+Document:
+new_york
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+The state of New York covers 54,555 square miles (141,300 km2)<n>New York was the 11th state to ratify the United States Constitution, on July 26, 1788 .<n>The state is bordered by New Jersey and Pennsylvania to the south, Connecticut, Massachusetts, and Vermont to the east .
+
+GT:
+Two-thirds of the state's population lives in the New York metropolitan area. New York was the only colony not to vote for independence, as the delegates were not authorized to do so. Of New York State's total area, 13.6% consists of water. New York is the only state that includes within its borders parts of the Great Lakes and the Atlantic Ocean. New York is home to the largest African American population and the second largest Asian-American population (after California) in the United States. As many as 800 languages are spoken in New York City, making it the most linguistically diverse city in the world. However, in 2013, the multi-state, New York City-centered metropolitan statistical area produced a gross metropolitan product (GMP) of nearly $1.4 trillion, while in 2012, the corresponding combined statistical area generated a GMP of over $1.7 trillion, both ranking first nationally by a wide margin and behind the GDP of only nine nations.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1566265060240964, 0.52, 0.24074074074074076, 0.150462962962963]
+[0.05454545454545454, 0.1836734693877551, 0.08411214953271028, 0.052570093457943924]
+[0.1144578313253012, 0.38, 0.17592592592592593, 0.1099537037037037]

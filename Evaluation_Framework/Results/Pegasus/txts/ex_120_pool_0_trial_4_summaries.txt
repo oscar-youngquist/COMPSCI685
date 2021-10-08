@@ -1,0 +1,15 @@
+Document:
+michigan
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+After France's defeat in the French and Indian War in 1762, the region came under British rule.<n>Britain ceded the territory to the newly independent United States after Britain's defeat in the American Revolutionary War.<n>Michigan Territory was formed in 1805, but some of the northern border with Canada was not agreed upon until after the War of 1812.
+
+GT:
+The first Europeans to reach what became Michigan were those of Étienne Brûlé's expedition in 1622. In 1701, French explorer and army officer Antoine de la Mothe Cadillac founded Fort Pontchartrain du Détroit or "Fort Pontchartrain on-the-Strait" on the strait, known as the Detroit River, between lakes Saint Clair and Erie. During the War of 1812, the United States forces at Fort Detroit surrendered Michigan Territory (effectively consisting of Detroit and the surrounding area) after a nearly bloodless siege in 1812. Michigan Territory governor and judges established the University of Michigan in 1817, as the Catholepistemiad, or the University of Michigania. A Constitutional Convention of Assent, led by Gershom Mott Williams, was held to lead the territory to statehood.In October 1835 the people approved the Constitution of 1835, thereby forming a state government, although Congressional recognition was delayed pending resolution of a boundary dispute with Ohio known as the Toledo War. Ford's development of the moving assembly line in Highland Park marked a new era in transportation.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1781609195402299, 0.49206349206349204, 0.2616033755274262, 0.16350210970464135]
+[0.046242774566473986, 0.12903225806451613, 0.06808510638297871, 0.0425531914893617]
+[0.11494252873563218, 0.31746031746031744, 0.16877637130801687, 0.10548523206751055]

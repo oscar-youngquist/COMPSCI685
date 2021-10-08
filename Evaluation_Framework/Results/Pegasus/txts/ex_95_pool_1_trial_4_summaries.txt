@@ -1,0 +1,15 @@
+Document:
+west_virginia
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+The state is noted for its mountains and rolling hills, its logging and coal mining industries, and its political and labor history .<n>West Virginia is also one of the cloudiest states in the nation, with the cities of Elkins and Beckley ranking 9th and 10th in the US respectively for the number of cloudy days per year (over 210)
+
+GT:
+It is also known for a wide range of outdoor recreational opportunities, including skiing, whitewater rafting, fishing, hiking, backpacking, mountain biking, rock climbing, and hunting. Many ancient man-made earthen mounds from various prehistoric mound builder cultures survive, especially in the areas of present-day Moundsville, South Charleston, and Romney. The artifacts uncovered in these give evidence of village societies. Spruce Knob lies within the Monongahela National Forest and is a part of the Spruce Knob-Senatorca Rocks National Recreation Area. Outside the forest to the south, the New River Gorge is a canyon 1,000 feet (300 m) deep, carved by the New River. The National Park Service manages a portion of the gorge and river that has been designated as the New River Gorge National Park and Preserve. Canaan Valley is popular for winter sports, Senatorca Rocks is one of the premier rock climbing destinations in the eastern US, the New River Gorge/Fayetteville area draws rock climbers as well as whitewater rafting enthusiasts, and the Monongahela National Forest is popular with hikers, backpackers, hunters, and anglers. West Virginia is the site of the National Radio Astronomy Observatory, which features the Green Bank Telescope.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15306122448979592, 0.5, 0.23437499999999997, 0.146484375]
+[0.041025641025641026, 0.13559322033898305, 0.06299212598425197, 0.03937007874015748]
+[0.09693877551020408, 0.31666666666666665, 0.1484375, 0.0927734375]

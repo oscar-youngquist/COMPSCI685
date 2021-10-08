@@ -1,0 +1,15 @@
+Document:
+minnesota
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Minnesota was admitted as the 32nd US state on May 11, 1858 .<n>The state was created from the eastern half of the Minnesota Territory .<n>The founding population was so overwhelmingly of New England origins that the state was dubbed "the New England of the West"
+
+GT:
+Minnesota was admitted as the 32nd US state on May 11, 1858, created from the eastern half of the Minnesota Territory. Minnesota's first state park, Itasca State Park, was established in 1891, and is the source of the Mississippi River. The construction of Fort Snelling followed between 1819 and 1825. Engineering Research Associates was formed in 1946 to develop computers for the United States Navy. Saint Paul, in east-central Minnesota along the banks of the Mississippi River, has been Minnesota's capital city since 1849, first as capital of the Territory of Minnesota, and then as the state capital since 1858. In a state of 5.5 million people, there were more than 1.8 million visitors to the fair in 2014, setting a new attendance record. On October 1, 2007, Minnesota became the 17th state to enact the Freedom to Breathe Act, a statewide smoking ban in restaurants and bars. One of the Minnesota Legislature's first acts when it opened in 1858 was the creation of a normal school in Winona.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.19428571428571428, 0.723404255319149, 0.3063063063063063, 0.19144144144144143]
+[0.1206896551724138, 0.45652173913043476, 0.19090909090909092, 0.11931818181818184]
+[0.17142857142857143, 0.6382978723404256, 0.27027027027027023, 0.16891891891891891]

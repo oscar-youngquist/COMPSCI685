@@ -1,0 +1,15 @@
+Document:
+california
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+In 2016, California's K–12 public school per-pupil spending was ranked 22nd in the nation ($11,500 per student vs. $11,800 for the US average).<n>California has the third highest per capita spending on welfare among the states, as well as the highest spending on welfare at $6.67 billion.
+
+GT:
+The state government also adopted the California Master Plan for Higher Education in 1960 to develop a highly efficient system of public education. Public secondary education consists of high schools that teach elective courses in trades, languages, and liberal arts with tracks for gifted, college-bound and industrial arts students. California's public educational system is supported by a unique constitutional amendment that requires a minimum annual funding level for grades K–12 and community colleges that grow with the economy and student enrollment figures. In 2016, California's K–12 public school per-pupil spending was ranked 22nd in the nation ($11,500 per student vs. $11,800 for the US average). A 2007 study concluded that California's public school system was "broken" in that it suffered from over-regulation. California is also home to such notable private universities as Stanford University, the University of Southern California, the California Institute of Technology, and the Claremont Colleges. California has twinning arrangements with the region of Catalonia in Spainand with the Province of Alberta in Canada.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.19886363636363635, 0.6481481481481481, 0.30434782608695654, 0.19021739130434784]
+[0.1657142857142857, 0.5471698113207547, 0.2543859649122807, 0.15899122807017543]
+[0.18181818181818182, 0.5925925925925926, 0.2782608695652174, 0.17391304347826086]

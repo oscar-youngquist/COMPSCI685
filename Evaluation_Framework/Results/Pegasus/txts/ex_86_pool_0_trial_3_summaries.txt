@@ -1,0 +1,15 @@
+Document:
+alaska
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Alaska is the only non-contiguous US state on continental North America .<n>At 663,268 square miles (1,717,856 km2) in area, Alaska is more than twice the size of the second-largest US state, Texas .<n>In 2010, Alaska ranked as the 47th state by population, ahead of North Dakota, Vermont, and Wyoming (and Washington, D.C.)
+
+GT:
+Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined, and the seventh-largest subnational division in the world. The Russians were the first Europeans to settle the area beginning in the 18th century, eventually establishing Russian America, which spanned most of the current state. The expense and difficulty of maintaining this distant possession prompted its sale to the US in 1867 for US$7.2 million, or approximately two cents per acre ($4.74/km2). While it has one of the smallest state economies in the country, Alaska's per capita income is among the highest, owing to a diversified economy dominated by fishing, natural gas, and oil, all of which it has in abundance. Alaska's indigenous population is proportionally the highest of any US state, at over 15 percent. Numerous indigenous peoples occupied Alaska for thousands of years before the arrival of European peoples to the area. Linguistic and DNA studies done here have provided evidence for the settlement of North America by way of the Bering land bridge.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1657754010695187, 0.5166666666666667, 0.2510121457489879, 0.15688259109311742]
+[0.04838709677419355, 0.15254237288135594, 0.07346938775510205, 0.04591836734693878]
+[0.10695187165775401, 0.3333333333333333, 0.16194331983805665, 0.10121457489878544]

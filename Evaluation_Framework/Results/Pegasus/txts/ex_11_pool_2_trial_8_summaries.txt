@@ -1,0 +1,15 @@
+Document:
+indiana
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Most children in Indiana attend public schools, but nearly ten percent attend private schools and parochial schools .<n>In 2017, the Indiana Department of Education reported that the state's overall graduation rates were 87.19% for waivered graduations and 80.10% for non-waiver graduations .<n>The state has several universities ranked among the best in 2013 rankings of the US News & World Report .
+
+GT:
+Indiana's 1816 constitution was the first in the country to implement a state-funded public school system. In the 1840s, Caleb Mills pressed the need for tax-supported schools, and in 1851 his advice was included in the new state constitution. Modern, public school standards, have been implemented all throughout the state. These new standards were adopted in April 2014. The overall goal of these new state standards is to ensure Indiana students have the necessary skills and requirements needed to enter college or the workforce upon high school graduation. State standards can be found for nearly every major subject taught in Indiana public schools. Mathematics, English/Language Arts, Science, and Social Studies are among the top, prioritized standards. The largest educational institution is Indiana University, the flagship campus of which was endorsed as Indiana Seminary in 1820. The state's community college system, Ivy Tech Community College of Indiana, serves nearly 200,000 students annually, making it the state's largest public post-secondary educational institution and the nation's largest singly accredited statewide community college system. In 2008, the Indiana University system agreed to shift most of its associate (2-year) degrees to the Ivy Tech Community College System. The state has several universities ranked among the best in 2013 rankings of the US News & World Report.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.18636363636363637, 0.6307692307692307, 0.28771929824561404, 0.17982456140350878]
+[0.1050228310502283, 0.359375, 0.16254416961130744, 0.10159010600706714]
+[0.14545454545454545, 0.49230769230769234, 0.2245614035087719, 0.14035087719298245]

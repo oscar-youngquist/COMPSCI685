@@ -1,0 +1,15 @@
+Document:
+indiana
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Indiana has a total area of 36,418 square miles (94,320 km2), the 38th largest state in size .<n>Muncie has produced the most per capita of any American city, with two other Indiana cities in the top ten .<n>About half of all college students in Indiana are enrolled in state-supported four-year schools .
+
+GT:
+Property is subject to taxation by a variety of taxing units (schools, counties, townships, municipalities, and libraries), making the total tax rate the sum of the tax rates imposed by all taxing units in which a property is located. However, a "circuit breaker" law enacted on March 19, 2008 limits property taxes to 1% of assessed value for homeowners, 2% for rental properties and farmland, and 3% for businesses. Indiana's 1816 constitution was the first in the country to implement a state-funded public school system. Modern, public school standards, have been implemented all throughout the state. The overall goal of these new state standards is to ensure Indiana students have the necessary skills and requirements needed to enter college or the workforce upon high school graduation. State standards can be found for nearly every major subject taught in Indiana public schools. Mathematics, English/Language Arts, Science, and Social Studies are among the top, prioritized standards. In 2017, the Indiana Department of Education reported that the state's overall graduation rates were 87.19% for waivered graduations and 80.10% for non-waiver graduations. Many of Indiana's private colleges and universities are affiliated with religious groups. The state's community college system, Ivy Tech Community College of Indiana, serves nearly 200,000 students annually, making it the state's largest public post-secondary educational institution and the nation's largest singly accredited statewide community college system. The state has several universities ranked among the best in 2013 rankings of the US News & World Report.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1015625, 0.45614035087719296, 0.16613418530351437, 0.10383386581469647]
+[0.011764705882352941, 0.05357142857142857, 0.01929260450160772, 0.012057877813504824]
+[0.0625, 0.2807017543859649, 0.10223642172523961, 0.06389776357827476]

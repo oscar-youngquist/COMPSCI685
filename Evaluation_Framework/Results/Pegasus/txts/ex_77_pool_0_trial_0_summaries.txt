@@ -1,0 +1,15 @@
+Document:
+idaho
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+The state's north, the relatively isolated Idaho Panhandle, is closely linked with Eastern Washington .<n> Industries significant for the state economy include manufacturing, agriculture, mining, forestry, and tourism .<n>The state has snow-capped mountain ranges, rapids, vast lakes and steep canyons .
+
+GT:
+The state's capital and largest city is Boise. The vast majority of Idaho's population lives in the Snake River Plain, a valley running from across the entirety of southern Idaho from east to west. The valley contains the major cities of Boise, Meridian, Nampa, Caldwell, Twin Falls, Idaho Falls, and Pocatello. Idaho's highest point is Borah Peak, 12,662 ft (3,859 m), in the Lost River Range north of Mackay. Central Idaho is home to one of North America's oldest ski resorts, Sun Valley, where the world's first chairlift was installed in 1936. Other noted outdoor sites include Hells Canyon, the Salmon River, and its embarkation point of Riggins. The Boise Open professional golf tournament has been played at Hillcrest Country Club since 1990 as part of the Web.com Tour. High school sports are overseen by the Idaho High School Activities Association (IHSAA).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10666666666666667, 0.37209302325581395, 0.16580310880829016, 0.10362694300518134]
+[0.013422818791946308, 0.047619047619047616, 0.020942408376963352, 0.013089005235602092]
+[0.07333333333333333, 0.2558139534883721, 0.11398963730569948, 0.07124352331606217]

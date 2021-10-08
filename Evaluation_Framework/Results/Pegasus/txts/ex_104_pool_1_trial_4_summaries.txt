@@ -1,0 +1,15 @@
+Document:
+oregon
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Most of Malheur County is in the Mountain Time Zone, while the rest of the state lies in the Pacific Time Zone .<n>Most of Oregon has a generally mild climate, though there is significant variation given the variety of landscapes .<n>The eastern two thirds of Oregon, which largely comprise high desert, have cold, snowy winters and very dry summers .
+
+GT:
+Most of Oregon has a generally mild climate, though there is significant variation given the variety of landscapes across the state. Western Oregon's climate is heavily influenced by the Pacific Ocean; the western third of Oregon is very wet in the winter, moderately to very wet during the spring and fall, and dry during the summer. The relative humidity of Western Oregon is high except during summer days, which are semi-dry to semi-humid; Eastern Oregon typically sees low humidity year-round. The state's southwestern portion, particularly the Rogue Valley, has a Mediterranean climate with drier and sunnier winters and hotter summers, similar to Northern California. Oregon's northeastern portion has a steppe climate, and its high terrain regions have a subarctic climate. Like Western Europe, Oregon, and the Pacific Northwest in general, is considered warm for its latitude, and the state has far milder winters at a given elevation than comparable latitudes elsewhere in North America, such as the Upper Midwest, Ontario, Quebec and New England. The eastern two thirds of Oregon, which largely comprise high desert, have cold, snowy winters and very dry summers. Most of Oregon receives significant snowfall, but the Willamette Valley, where 60 percent of the population lives, has considerably milder winters for its latitude and typically sees only light snowfall.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2237442922374429, 0.8032786885245902, 0.35, 0.21875]
+[0.1834862385321101, 0.6666666666666666, 0.28776978417266186, 0.17985611510791366]
+[0.1689497716894977, 0.6065573770491803, 0.2642857142857143, 0.1651785714285714]

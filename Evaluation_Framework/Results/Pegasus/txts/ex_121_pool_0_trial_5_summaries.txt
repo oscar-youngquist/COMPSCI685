@@ -1,0 +1,15 @@
+Document:
+maryland
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Earthquakes in Maryland are infrequent and small due to the state's distance from seismic/earthquake zones.<n>Maryland averages around 30–40 days of thunderstorms a year, and averages around six tornado strikes annually.<n>Annual rainfall ranges from 35 to 45 inches (890 to 1,140 mm) with more in higher elevations.
+
+GT:
+Maryland has a wide array of climates, due to local variances in elevation, proximity to water, and protection from colder weather due to downslope winds. The eastern half of Maryland—which includes the cities of Ocean City, Salisbury, Annapolis, and the southern and eastern suburbs of Washington, D.C. and Baltimore—lies on the Atlantic Coastal Plain, with flat topography and sandy or muddy soil. This region has a humid subtropical climate (Köppen Cfa), with hot, humid summers and a short, mild to cool winter; it falls under USDA Hardiness zone 8a. The Piedmont region—which includes northern and western greater Baltimore, Westminster, Gaithersburg, Frederick, and Hagerstown—has average seasonal snowfall totals generally exceeding 20 inches (51 cm) and, as part of USDA Hardiness zones 7b and 7a, temperatures below 10 °F (−12 °C) are less rare. From the Cumberland Valley on westward, the climate begins to transition to a humid continental climate (Köppen Dfa). In western Maryland, the higher elevations of Allegany and Garrett counties—including the cities of Cumberland, Frostburg, and Oakland—display more characteristics of the humid continental zone, due in part to elevation. They fall under USDA Hardiness zones 6b and below. Precipitation in the state is characteristic of the East Coast. Annual rainfall ranges from 35 to 45 inches (890 to 1,140 mm) with more in higher elevations. Average annual snowfall varies from 9 inches (23 cm) in the coastal areas to over 100 inches (250 cm) in the western mountains of the state. Because of its location near the Atlantic Coast, Maryland is somewhat vulnerable to tropical cyclones, although the Delmarva Peninsula and the outer banks of North Carolina provide a large buffer, such that strikes from major hurricanes (category 3 or above) occur infrequently. More often, Maryland gets the remnants of a tropical system which has already come ashore and released most of its energy. Maryland averages around 30–40 days of thunderstorms a year, and averages around six tornado strikes annually.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13855421686746988, 0.8518518518518519, 0.2383419689119171, 0.1489637305699482]
+[0.10574018126888217, 0.660377358490566, 0.18229166666666666, 0.11393229166666666]
+[0.08433734939759036, 0.5185185185185185, 0.14507772020725387, 0.09067357512953365]

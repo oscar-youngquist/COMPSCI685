@@ -1,0 +1,15 @@
+Document:
+texas
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Between 2006 and 2007, Texas spent $7,275 per pupil, ranking it below the national average of $9,389 .<n>The pupil/teacher ratio was 14.9, below the national average of 15.3 .<n>The state's two most widely recognized flagship universities are The University of Texas at Austin and Texas A&M University .
+
+GT:
+Texas modernized and expanded its system of higher education through the 1960s. The state created a comprehensive plan for higher education, funded in large part by oil revenues, and a central state apparatus designed to manage state institutions more efficiently. Between 2006 and 2007, Texas spent $7,275 per pupil, ranking it below the national average of $9,389. The pupil/teacher ratio was 14.9, below the national average of 15.3. Texas paid instructors $41,744, below the national average of $46,593. Texas has over 1,000 school districts; all districts except the Stafford Municipal School District are independent from municipal government and many cross city boundaries. The state's two most widely recognized flagship universities are The University of Texas at Austin and Texas A&M University, ranked as the 21st and 41st best universities in the nation according to 2020's latest Center for World University Rankings report, respectively. Texas's controversial alternative affirmative action plan, Texas House Bill 588, guarantees Texas students who graduated in the top 10 percent of their high school class automatic admission to state-funded universities. The University of Texas Health Science Center is another highly ranked research and educational institution in San Antonio.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2647058823529412, 0.9642857142857143, 0.41538461538461535, 0.2596153846153846]
+[0.2512315270935961, 0.9272727272727272, 0.39534883720930236, 0.24709302325581398]
+[0.2647058823529412, 0.9642857142857143, 0.41538461538461535, 0.2596153846153846]

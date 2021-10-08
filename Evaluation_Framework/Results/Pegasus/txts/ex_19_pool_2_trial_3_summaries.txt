@@ -1,0 +1,15 @@
+Document:
+utah
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+The primary source of precipitation for the state is the Pacific Ocean .<n>Temperature inversions are a common phenomenon across Utah's low basins and valleys .<n>Utah's temperatures are extreme, with cold temperatures in winter due to its elevation, and very hot summers statewide .
+
+GT:
+Utah features a dry, semi-arid to desert climate, although its many mountains feature a large variety of climates, with the highest points in the Uinta Mountains being above the timberline. The dry weather is a result of the state's location in the rain shadow of the Sierra Nevada in California. The eastern half of the state lies in the rain shadow of the Wasatch Mountains. The primary source of precipitation for the state is the Pacific Ocean, with the state usually lying in the path of large Pacific storms from October to May. In summer, the state, especially southern and eastern Utah, lies in the path of monsoon moisture from the Gulf of California. Utah's temperatures are extreme, with cold temperatures in winter due to its elevation, and very hot summers statewide (with the exception of mountain areas and high mountain valleys). Utah is usually protected from major blasts of cold air by mountains lying north and east of the state, although major Arctic blasts can occasionally reach the state. Average January high temperatures range from around 30 °F (−1 °C) in some northern valleys to almost 55 °F (13 °C) in St. George. Temperatures dropping below 0 °F (−18 °C) should be expected on occasion in most areas of the state most years, although some areas see it often (for example, the town of Randolph averages about fifty days per year with temperatures that low). In July, average highs range from about 85 to 100 °F (29 to 38 °C). However, the low humidity and high elevation typically leads to large temperature variations, leading to cool nights most summer days. Utah, like most of the western United States, has few days of thunderstorms.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13240418118466898, 0.8260869565217391, 0.22822822822822822, 0.14264264264264265]
+[0.10139860139860139, 0.6444444444444445, 0.17522658610271905, 0.1095166163141994]
+[0.11149825783972125, 0.6956521739130435, 0.19219219219219222, 0.12012012012012012]

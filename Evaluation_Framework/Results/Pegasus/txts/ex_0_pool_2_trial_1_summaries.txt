@@ -1,0 +1,15 @@
+Document:
+utah
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Utah is the only state where every county contains some national forest .<n>State sales tax has a base rate of 6.45 percent, with cities and counties levying additional local sales taxes .<n>Utah has the third most national parks of any state after Alaska and California .
+
+GT:
+Most Utahns are of Northern European descent. In 2011 one-third of Utah's workforce was reported to be bilingual, developed through a program of acquisition of second languages beginning in elementary school, and related to Mormonism's missionary goals for its young people. Utah has seven universities that compete in Division I of the NCAA. Three of the schools have football programs that participate in the top-level Football Bowl Subdivision: Utah in the Pac-12 Conference, Utah State in the Mountain West Conference, and BYU as an independent (although BYU competes in the non-football West Coast Conference for most other sports). In addition, Weber State and Southern Utah (SUU) compete in the Big Sky Conference of the FCS. Dixie State, with an FCS football program, and Utah Valley, with no football program, are members of the Western Athletic Conference (WAC). Dixie State began a four-year transition to Division I in 2020. Since the WAC has been a non-football conference since 2013, Dixie State football plays as an FCS independent.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10344827586206896, 0.375, 0.16216216216216217, 0.10135135135135137]
+[0.005780346820809248, 0.02127659574468085, 0.00909090909090909, 0.005681818181818182]
+[0.06321839080459771, 0.22916666666666666, 0.0990990990990991, 0.061936936936936936]

@@ -1,0 +1,15 @@
+Document:
+missouri
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+In 2005, Missouri received 16,695,000 visitors to its national parks and other recreational areas totaling 101,000 acres (410 km2), giving it $7.41 million in annual revenues, 26.6% of its operating expenditures.<n>The largest counties by size are Texas (1,179 square miles) and Shannon (1,004 square miles)
+
+GT:
+The state is named for the Missouri River, which was named after the indigenous Missouri Indians, a Siouan-language tribe. The official state motto is Latin: "Salus Populi Suprema Lex Esto", which means "Let the welfare of the people be the supreme law." Missouri is ranked 6th in the nation for the production of hogs and 7th for cattle. Missouri is the only state in the Union to have two Federal Reserve Banks: one in Kansas City (serving western Missouri, Kansas, Nebraska, Oklahoma, Colorado, northern New Mexico, and Wyoming) and one in St. Louis (serving eastern Missouri, southern Illinois, southern Indiana, western Kentucky, western Tennessee, northern Mississippi, and all of Arkansas). Oil wells in Missouri produced 120,000 barrels of crude oil in fiscal 2012. Missouri has been known for its population's generally "stalwart, conservative, noncredulous" attitude toward regulatory regimes, which is one of the origins of the state's unofficial nickname, the "Show-Me State". Missouri law makes it "an improper employment practice" for an employer to refuse to hire, to fire, or otherwise to disadvantage any person because that person lawfully uses alcohol and/or tobacco products when he or she is not at work. As for tobacco (as of July 2016), Missouri has the lowest cigarette excise taxes in the United States, at 17 cents per pack, and the state electorate voted in 2002, 2006, 2012, and twice in 2016 to keep it that way. In 2007, Forbes named Missouri's largest metropolitan area, St. Louis, America's "best city for smokers". In 2014, a Republican-led legislature and Democratic governor Jay Nixon enacted a series of laws to partially decriminalize possession of cannabis by making first-time possession of up to 10 grams no longer punishable with jail time and legalizing CBD oil. Many well-known musicians were born or have lived in Missouri. Missouri is the native state of Mark Twain. Filmmaker, animator, and businessman Walt Disney spent part of his childhood in the Linn County town of Marceline before settling in Kansas City.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.047058823529411764, 0.2962962962962963, 0.08121827411167513, 0.050761421319796954]
+[0.0, 0.0, 0.0, 0.0]
+[0.03235294117647059, 0.2037037037037037, 0.05583756345177666, 0.03489847715736041]

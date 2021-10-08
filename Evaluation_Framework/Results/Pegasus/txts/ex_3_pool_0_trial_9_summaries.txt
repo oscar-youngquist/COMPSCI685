@@ -1,0 +1,15 @@
+Document:
+south_dakota
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Average annual precipitation in South Dakota ranges from semi-arid conditions in the northwestern part of the state (around 15 inches or 380 mm) to semi-humid around the southeast portion of the state (around 25 inches or 640 mm)<n>South Dakota has several sites administered by the National Park Service .<n>The structure of the state government is laid out in the Constitution of South Dakota, the highest law in the state .
+
+GT:
+Contemporary political issues in South Dakota include the costs and benefits of the state lottery, South Dakota's relatively low rankings in education spending (particularly teacher pay—recently the State Sales Tax was increased from 4% to 4.5% to finance an increase in teacher pay), and recent legislative and electoral attempts to ban abortion in the state. As of 2006, South Dakota has a total primary and secondary school enrollment of 136,872, with 120,278 of these students being educated in the public school system. There are 703 public schools in 168 school districts, giving South Dakota the highest number of schools per capita in the United States. The current high school graduation rate is 89.9%, and the average ACT score is 21.8, slightly above the national average of 21.1. 89.8% of the adult population has earned at least a high school diploma, and 25.8% has earned a bachelor's degree or higher. South Dakota's 2008 average public school teacher salary of $36,674 was the lowest in the nation (national average was $52,308). In 2007 South Dakota passed legislation modeled after Montana's Indian Education for All Act (1999), mandating education about Native American tribal history, culture, and heritage in all the schools, from pre-school through college, in an effort to increase knowledge and appreciation about Indian culture among all residents of the state, as well as to reinforce Indian students' understanding of their own cultures' contributions.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14919354838709678, 0.5, 0.2298136645962733, 0.14363354037267081]
+[0.0728744939271255, 0.2465753424657534, 0.11249999999999999, 0.07031249999999999]
+[0.10887096774193548, 0.36486486486486486, 0.16770186335403725, 0.10481366459627328]

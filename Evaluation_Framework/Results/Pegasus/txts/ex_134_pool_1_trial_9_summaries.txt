@@ -1,0 +1,15 @@
+Document:
+pennsylvania
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+It was the second state to ratify the United States Constitution, on December 12, 1787.<n>During the American Civil War, the Battle of Gettysburg was fought in the south central region of the state.<n>"The Coal State", "The Oil State", "The Chocolate State", and "The Steel State" were adopted when those were the state's greatest industries.
+
+GT:
+The state is one of the 13 original founding states of the United States; it came into being in 1681 as a result of a royal land grant to William Penn, the son of the state's namesake. Part of Pennsylvania (along the Delaware River), together with the present State of Delaware, had earlier been organized as the Colony of New Sweden. It was the second state to ratify the United States Constitution, on December 12, 1787. Independence Hall, where the United States Declaration of Independence and United States Constitution were drafted, is located in Philadelphia, the state's largest city. During the American Civil War, the Battle of Gettysburg was fought in the south central region of the state. Valley Forge near Philadelphia was General Washington's headquarters during the bitter winter of 1777–78.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.34558823529411764, 0.7966101694915254, 0.482051282051282, 0.30128205128205127]
+[0.2518518518518518, 0.5862068965517241, 0.3523316062176165, 0.22020725388601034]
+[0.25735294117647056, 0.5932203389830508, 0.3589743589743589, 0.22435897435897434]

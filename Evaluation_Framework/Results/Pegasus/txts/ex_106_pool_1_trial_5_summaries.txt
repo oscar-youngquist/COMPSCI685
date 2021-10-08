@@ -1,0 +1,15 @@
+Document:
+vermont
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+The state capital is Montpelier, the least-populous state capital in the U.S.<n>The state's economic activity of $34 billion in 2018 ranked 52nd on the list of US states and territories by GDP .<n>The state receives between 2,200 and 2,400 hours of sunshine annually .
+
+GT:
+Vermont ( (listen)) is a northeastern state in the New England region of the United States. Between 8500 and 7000 BCE, at the time of the Champlain Sea, Native Americans inhabited and hunted in present-day Vermont. During colonial times, where encounters and settlement were initiated by French colonists, the territory was occupied mainly by an Abenaki tribe known as the Sokoki, or Missisquois. In addition to the increased intensity and flooding caused by climate change, the state has suffered several extreme natural disasters in the 20th and 21st centuries related to hurricanes, and extensive rain and flooding. Some of the largest ski areas in New England are located in Vermont. In winter, Nordic and backcountry skiers visit to travel the length of the state on the Catamount Trail. In 2008, there were 35,000 members of 138 snowmobiling clubs in Vermont. Winter sports are popular in New England, and Vermont's winter sports attractions are a big part of Vermont tourism. Some well known attractions include Burke Mountain ski area, Jay Peak Resort, Killington Ski Resort, Stowe Mountain Resort, the Quechee Club Ski Area, and Smugglers' Notch Resort. Currently the highest-ranked teams in basketball representing Vermont are the NCAA's Vermont Catamounts—male and female.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12135922330097088, 0.49019607843137253, 0.19455252918287938, 0.1215953307392996]
+[0.01951219512195122, 0.08, 0.03137254901960784, 0.0196078431372549]
+[0.07281553398058252, 0.29411764705882354, 0.11673151750972761, 0.07295719844357976]

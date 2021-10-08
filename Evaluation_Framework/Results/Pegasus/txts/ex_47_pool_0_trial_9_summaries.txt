@@ -1,0 +1,15 @@
+Document:
+rhode_island
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+The state takes its name from Rhode Island; however, most of the state is located on the mainland .<n>Rhode Island covers an area of 1,214 square miles (3,144 km2)
+
+GT:
+It is mostly flat with no real mountains, and the state's highest natural point is Jerimoth Hill, 812 feet (247 m) above sea level. Narragansett Bay is a major feature of the state's topography. There are more than 30 islands within the bay; the largest is Aquidneck Island which holds the municipalities of Newport, Middletown, and Portsmouth. The second-largest island is Conanicut, and the third is Prudence. Block Island lies about 12 miles (19 km) off the southern coast of the mainland and separates Block Island Sound and the Atlantic Ocean proper. Notable villages include Kingston in the town of South Kingstown, which houses the University of Rhode Island; Wickford in the town of North Kingstown, the site of an annual international art festival; and Wakefield where the Town Hall is located for the Town of South Kingstown. It houses the Rhode Island Charter granted by King Charles II in 1663, the Brown University charter, and other state treasures. The First Baptist Church of Providence is the oldest Baptist church in the Americas, founded by Roger Williams in 1638. There are many historic mansions in the seaside city of Newport, including The Breakers, Marble House, and Belcourt Castle. Also located there is the Touro Synagogue, dedicated on December 2, 1763, considered by locals to be the first synagogue within the United States (see below for information on New York City's claim), and still serving. The Newport Casino is a National Historic Landmark building complex that presently houses the International Tennis Hall of Fame and features an active grass-court tennis club. Scenic Route 1A (known locally as Ocean Road) is in Narragansett. "The Towers" is also located in Narragansett featuring a large stone arch.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.059027777777777776, 0.53125, 0.10624999999999998, 0.06640625]
+[0.024390243902439025, 0.22580645161290322, 0.04402515723270441, 0.02751572327044025]
+[0.041666666666666664, 0.375, 0.075, 0.046875]

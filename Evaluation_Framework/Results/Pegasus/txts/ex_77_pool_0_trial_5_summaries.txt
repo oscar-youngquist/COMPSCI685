@@ -1,0 +1,15 @@
+Document:
+virginia
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+The geography and climate of the Commonwealth are shaped by the Blue Ridge Mountains and the Chesapeake Bay .<n>The largest areas of wilderness are along the Atlantic coast and in the western mountains .<n>The state's diverse array of fish species is attributable to its varied and humid climate, physiography, river system interconnections, and lack of Pleistocene glaciers .
+
+GT:
+The state government does fund some institutions, including the Virginia Museum of Fine Arts and the Science Museum of Virginia. The Harrison Opera House, in Norfolk, is home of the Virginia Opera. The Virginia Symphony Orchestra operates in and around Hampton Roads. Virginia has launched many award-winning traditional musical artists and internationally successful popular music acts, as well as Hollywood actors. The Virginia State Fair is held at the Meadow Event Park every September. Also in September is the Neptune Festival in Virginia Beach, which celebrates the city, the waterfront, and regional artists. A proposed arena in Virginia Beach designed for an NBA franchise became the latest unsuccessful sports initiative when the city council there ended support in 2017.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15, 0.3, 0.2, 0.125]
+[0.025210084033613446, 0.05084745762711865, 0.03370786516853933, 0.021067415730337078]
+[0.10833333333333334, 0.21666666666666667, 0.14444444444444446, 0.09027777777777779]

@@ -1,0 +1,15 @@
+Document:
+colorado
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+The Front Range includes Denver, Boulder, Fort Collins, Loveland, Castle Rock, Colorado Springs, Pueblo, Greeley, and other townships and municipalities in between .<n>The Western Slope includes the cities of Grand Junction, Durango, and Montrose .<n>Most villages and towns in this region boast both a water tower and a grain elevator .
+
+GT:
+Grand Junction is also along the major railroad of the Western Slope, the Union Pacific. The Four Corners Monument in the southwest corner of Colorado marks the common boundary of Colorado, New Mexico, Arizona, and Utah; the only such place in the United States. There are also a number of established film festivals in Colorado, including Aspen Shortsfest, Boulder International Film Festival, Castle Rock Film Festival, Denver Film Festival, Festivus Film Festival (ended in 2013), Mile High Horror Film Festival, Moondance International Film Festival, Mountainfilm in Telluride, Rocky Mountain Women's Film Festival, and Telluride Film Festival. The Food & Wine Classic is held annually each June in Aspen, Colorado. The Pikes Peak International Hill Climb is a major hillclimbing motor race held at the Pikes Peak Highway. Denver International Airport (DIA) is the fifth-busiest domestic US airport and twentieth busiest airport in the world by passenger traffic. Colorado is home to 4 national parks, 8 national monuments, 2 national recreation areas, 2 national historic sites, 3 national historic trails, a national scenic trail, 11 national forests, 2 national grasslands, 42 national wilderness areas, 2 national conservation areas, 8 national wildlife refuges, 44 state parks, 307 state wildlife areas, and numerous other scenic, historic, and recreational areas.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11594202898550725, 0.46153846153846156, 0.18532818532818535, 0.11583011583011585]
+[0.019417475728155338, 0.0784313725490196, 0.0311284046692607, 0.019455252918287935]
+[0.06280193236714976, 0.25, 0.1003861003861004, 0.06274131274131274]

@@ -1,0 +1,15 @@
+Document:
+minnesota
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+With 86,943 square miles (225,180 km2), Minnesota is the 12th-largest state.<n>The majority of Minnesotans are Protestants, owing to the state's largely Northern European ethnic makeup.<n>The state is the nation's largest producer of sugar beets, sweet corn, and peas for processing, and farm-raised turkeys.
+
+GT:
+The state is known as the "Land of 10,000 Lakes". The word Minnesota comes from the Dakota name for the Minnesota River, which got its name from one of two words in Dakota: "mní sóta", which means "clear blue water", or "Mníssota", which means "cloudy water". Minnesota experiences temperature extremes characteristic of its continental climate, with cold winters and hot summers. The lowest temperature recorded was −60 °F (−51 °C) at Tower on February 2, 1996, and the highest was 114 °F (46 °C) at Moorhead on July 6, 1936. Minnesota's first state park, Itasca State Park, was established in 1891, and is the source of the Mississippi River. From fewer than 6,120 white settlers in 1850, Minnesota's official population grew to over 1.7 million by 1900. Stereotypical traits of Minnesotans include "Minnesota nice", Lutheranism, a strong sense of community and shared culture, and a distinctive brand of North Central American English sprinkled with Scandinavian expressions. The Minnesota State Fair, advertised as The Great Minnesota Get-Together, is an icon of state culture. Minnesota has professional men's teams in all major sports. There are almost 20,000 miles (32,000 km) of snowmobile trails statewide.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11822660098522167, 0.4528301886792453, 0.1875, 0.11718749999999999]
+[0.019801980198019802, 0.07692307692307693, 0.031496062992125984, 0.01968503937007874]
+[0.06896551724137931, 0.2641509433962264, 0.10937500000000001, 0.06835937500000001]

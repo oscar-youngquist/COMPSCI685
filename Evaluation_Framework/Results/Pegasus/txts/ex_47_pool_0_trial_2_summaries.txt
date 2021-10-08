@@ -1,0 +1,15 @@
+Document:
+maine
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Maine is the northernmost state in New England and the largest .<n>It is the only state to border only one other state .<n>The state is a major producer of potatoes, wild blueberries, apples, maple syrup and sweet corn .
+
+GT:
+Maine is known for its jagged, rocky coastline; low, rolling mountains; heavily forested interior; picturesque waterways; and its seafood cuisine, especially lobster and clams. Maine's Moosehead Lake is the largest lake wholly in New England, since Lake Champlain is located between Vermont, New York and Québec. Mount Katahdin is the northern terminus of the Appalachian Trail, which extends southerly to Springer Mountain, Georgia, and the southern terminus of the new International Appalachian Trail which, when complete, will run to Belle Isle, Newfoundland and Labrador. Machias Seal Island and North Rock, off the state's Downeast coast, are claimed by both Canada and the American town of Cutler, and are within one of four areas between the two countries whose sovereignty is still in dispute, but it is the only one of the disputed areas containing land. Also in this easternmost area in the Bay of Fundy is the Old Sow, the largest tidal whirlpool in the Western Hemisphere. Prominent glacial features include Somes Sound and Bubble Rock, both part of Acadia National Park on Mount Desert Island. Bubble Rock, a glacial erratic, is a large boulder perched on the edge of Bubble Mountain in Acadia National Park. Acadia National Park is the only national park in New England.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10476190476190476, 0.55, 0.17600000000000002, 0.11000000000000001]
+[0.05741626794258373, 0.3076923076923077, 0.0967741935483871, 0.06048387096774194]
+[0.08095238095238096, 0.425, 0.136, 0.085]

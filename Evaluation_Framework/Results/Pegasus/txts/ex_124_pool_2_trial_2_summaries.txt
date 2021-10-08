@@ -1,0 +1,15 @@
+Document:
+minnesota
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Minnesota is a state in the Upper Midwest, Great Lakes, and northern region of the United States .<n>The state's high point is Eagle Mountain at 2,301 feet (701 m), only 13 miles (21 km) away from the low point of 601 feet (183 m) at the shore of Lake Superior .<n>Minnesota has some of the earth's oldest rocks, gneisses that are about 3.6 billion years old (80% as old as the planet)
+
+GT:
+Minnesota experiences temperature extremes characteristic of its continental climate, with cold winters and hot summers. The lowest temperature recorded was −60 °F (−51 °C) at Tower on February 2, 1996, and the highest was 114 °F (46 °C) at Moorhead on July 6, 1936. Meteorological events include rain, snow, blizzards, thunderstorms, hail, derechos, tornadoes, and high-velocity straight-line winds. The growing season varies from 90 days in the far northeast to 160 days in southeast Minnesota near the Mississippi River, and average temperatures range from 37 to 49 °F (3 to 9 °C). Average summer dewpoints range from about 58 °F (14 °C) in the south to about 48 °F (9 °C) in the north. Average annual precipitation ranges from 19 to 35 inches (48 to 89 cm), and droughts occur every 10 to 50 years.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15328467153284672, 0.2692307692307692, 0.19534883720930235, 0.12209302325581398]
+[0.007352941176470588, 0.012987012987012988, 0.009389671361502348, 0.005868544600938969]
+[0.08759124087591241, 0.15384615384615385, 0.1116279069767442, 0.06976744186046512]

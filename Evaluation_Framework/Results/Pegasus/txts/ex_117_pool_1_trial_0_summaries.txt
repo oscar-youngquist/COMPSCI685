@@ -1,0 +1,15 @@
+Document:
+nevada
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Nevada has 172 mountain summits with 2,000 feet (610 m) of prominence .<n>It is bordered by Oregon to the northwest, Idaho to the northeast, California to the west, Arizona to the southeast, and Utah to the east .<n>There are 68 designated wilderness areas in Nevada, protecting some 6,579,014 acres (2,662,433 ha)
+
+GT:
+Clark County is the most populous county in Nevada, accounting for nearly three-quarters of its residents. There are 68 designated wilderness areas in Nevada, protecting some 6,579,014 acres (2,662,433 ha) under the jurisdiction of the National Park Service, US Forest Service, and Bureau of Land Management. There are 24 state park units, including Van Sickle Bi-State Park which opened in July 2011 and is operated in partnership with the state of California. Resort areas like Las Vegas, Reno, Lake Tahoe, and Laughlin attract visitors from around the nation and world. The Las Vegas Valley is home to the Vegas Golden Knights of the National Hockey League who began to play in the 2017–18 NHL season at T-Mobile Arena on the Las Vegas Strip in Paradise, Nevada, the Las Vegas Raiders of the National Football League who began play at Allegiant Stadium in Las Vegas in 2020 after moving from Oakland, California, and the Las Vegas Aces of the WNBA who began playing in 2018 at Mandalay Bay Events Center. The state is also home to the Las Vegas Motor Speedway, which hosts NASCAR's Pennzoil 400 and South Point 400. The PBR World Finals, operated by the bull riding-only Professional Bull Riders, was also held at the Thomas & Mack Center before moving to T-Mobile Arena in 2016. Area 51 is near Groom Lake, a dry salt lake bed.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14285714285714285, 0.5862068965517241, 0.22972972972972971, 0.14358108108108106]
+[0.08016877637130802, 0.3333333333333333, 0.1292517006802721, 0.08078231292517007]
+[0.08403361344537816, 0.3448275862068966, 0.13513513513513514, 0.08445945945945947]

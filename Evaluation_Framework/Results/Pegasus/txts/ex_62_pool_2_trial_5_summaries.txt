@@ -1,0 +1,15 @@
+Document:
+massachusetts
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Massachusetts was the first state to pass compulsory education laws .<n>The Bay State ranked number one in education, number two in healthcare, and number five in the handling of the economy .<n>In 2004, Massachusetts became the first state to allow same-sex marriage .
+
+GT:
+In 1852, Massachusetts became the first state to pass compulsory education laws. In 2018, Massachusetts's overall educational system was ranked the top among all fifty US states by US News & World Report. Massachusetts was the first state in North America to require municipalities to appoint a teacher or establish a grammar school with the passage of the Massachusetts Education Law of 1647, and 19th century reforms pushed by Horace Mann laid much of the groundwork for contemporary universal public education which was established in 1852. Massachusetts is home to the oldest school in continuous existence in North America (The Roxbury Latin School, founded in 1645), as well as the country's oldest public elementary school (The Mather School, founded in 1639), its oldest high school (Boston Latin School, founded in 1635), its oldest continuously operating boarding school (The Governor's Academy, founded in 1763), its oldest college (Harvard University, founded in 1636), and its oldest women's college (Mount Holyoke College, founded in 1837). Massachusetts is also home to the highest ranked private high school in the United States, Phillips Academy in Andover, Massachusetts, which was founded in 1778. Harvard University and the Massachusetts Institute of Technology, both located in Cambridge, consistently rank among the world's best private universities and universities in general. In addition to Harvard and MIT, several other Massachusetts universities currently rank in the top 50 at the undergraduate level nationally in the widely cited rankings of US News and World Report: Tufts University (#27), Boston College (#32), Brandeis University (#34), Boston University (#37) and Northeastern University (#40). Massachusetts is also home to three of the top five US News and World Report's best Liberal Arts Colleges: Williams College (#1), Amherst College (#2), and Wellesley College (#4). The public University of Massachusetts (nicknamed UMass) features five campuses in the state, with its flagship campus in Amherst, which enrolls more than 25,000.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09119496855345911, 0.6444444444444445, 0.15977961432506885, 0.09986225895316804]
+[0.0473186119873817, 0.3409090909090909, 0.08310249307479226, 0.05193905817174515]
+[0.07232704402515723, 0.5111111111111111, 0.12672176308539945, 0.07920110192837465]

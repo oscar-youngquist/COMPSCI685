@@ -1,0 +1,15 @@
+Document:
+tennessee
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+The Great Smoky Mountains National Park is located in the eastern part of the state .<n>Most of the state has a subtropical humid climate .<n>The Gulf of Mexico is the dominant factor in the climate of Tennessee .
+
+GT:
+Most of the state has a humid subtropical climate, with the exception of some of the higher elevations in the Appalachians, which are classified as having a mountain temperate or humid continental climate due to cooler temperatures. The Gulf of Mexico is the dominant factor in the climate of Tennessee, with winds from the south being responsible for most of the state's annual precipitation. Generally, the state has hot summers and mild to cool winters with generous precipitation throughout the year, with highest average monthly precipitation generally in the winter and spring months, between December and April. The driest months, on average, are August to October. On average the state receives 50 inches (130 cm) of precipitation annually. Snowfall ranges from 5 inches (13 cm) in West Tennessee to over 80 inches (200 cm) in the highest mountains in East Tennessee. Summers in the state are generally hot and humid, with most of the state averaging a high of around 90 °F (32 °C) during the summer months. Winters tend to be mild to cool, increasing in coolness at higher elevations. Generally, for areas outside the highest mountains, the average overnight lows are near freezing for most of the state. The highest recorded temperature is 113 °F (45 °C) at Perryville on August 9, 1930, while the lowest recorded temperature is −32 °F (−36 °C) at Mountain City on December 30, 1917. While the state is far enough from the coast to avoid any direct impact from a hurricane, the location of the state makes it likely to be impacted from the remnants of tropical cyclones which weaken over land and can cause significant rainfall, such as Tropical Storm Chris in 1982 and Hurricane Opal in 1995. The state averages about fifty days of thunderstorms per year, some of which can be severe with large hail and damaging winds. Tornadoes are possible throughout the state, with West and Middle Tennessee the most vulnerable. Occasionally, strong or violent tornadoes occur, such as the devastating April 2011 tornadoes that killed twenty people in North Georgia and Southeast Tennessee. On average, the state has 15 tornadoes per year. Tornadoes in Tennessee can be severe, and Tennessee leads the nation in the percentage of total tornadoes which have fatalities. Winter storms are an occasional problem, such as the infamous Blizzard of 1993, although ice storms are a more likely occurrence. Fog is a persistent problem in parts of the state, especially in East Tennessee.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08029197080291971, 0.8461538461538461, 0.14666666666666667, 0.09166666666666667]
+[0.05121951219512195, 0.5526315789473685, 0.09374999999999999, 0.05859374999999999]
+[0.0535279805352798, 0.5641025641025641, 0.09777777777777777, 0.061111111111111116]

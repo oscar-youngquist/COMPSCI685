@@ -1,0 +1,15 @@
+Document:
+south_dakota
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+State has 83,609 miles (134,556 km) of highways, roads, and streets, along with 679 miles (1,093 km) of interstate highways .<n>Black Hills mammals include deer, elk (wapiti), bighorn sheep, mountain goats, pine marten, and mountain lions .<n>Annual events celebrating the state's ethnic and historical heritage take place around the state .
+
+GT:
+Wind Cave National Park, established in 1903 in the Black Hills, has an extensive cave network and is home to a large herd of bison. Badlands National Park was established in 1978, and features an eroded, brightly colored landscape surrounded by semi-arid grasslands. Mount Rushmore National Memorial in the Black Hills was established in 1925. Other areas managed by the National Park Service include Jewel Cave National Monument near Custer, the Lewis and Clark National Historic Trail, the Minuteman Missile National Historic Site, which features a decommissioned nuclear missile silo and a separate missile control area several miles away, and the Missouri National Recreational River. The Crazy Horse Memorial is a large mountainside sculpture near Mount Rushmore being built using private funds. The Mammoth Site near Hot Springs is another privately owned attraction in the Black Hills.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08695652173913043, 0.21428571428571427, 0.12371134020618556, 0.07731958762886598]
+[0.0072992700729927005, 0.01818181818181818, 0.010416666666666668, 0.006510416666666666]
+[0.07246376811594203, 0.17857142857142858, 0.10309278350515463, 0.06443298969072164]

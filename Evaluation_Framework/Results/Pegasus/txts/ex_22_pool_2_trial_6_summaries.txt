@@ -1,0 +1,15 @@
+Document:
+connecticut
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Northern Connecticut generally experiences a climate with cold winters with moderate snowfall and hot, humid summers .<n>Early spring (April) can range from slightly cool (40s to low 50s F) to warm (65 to 70 F), while mid and late spring (late April/May) is warm.<n>By late May, the building Bermuda High creates a southerly flow of warm and humid tropical air, bringing hot weather conditions throughout the state .
+
+GT:
+Connecticut lies at the rough transition zone between the southern end of the humid continental climate, and the northern portion of the humid subtropical climate. Northern Connecticut generally experiences a climate with cold winters with moderate snowfall and hot, humid summers. Connecticut sees a fairly even precipitation pattern with rainfall/snowfall spread throughout the 12 months. Connecticut averages 56% of possible sunshine (higher than the US national average), averaging 2,400 hours of sunshine annually. Weather commonly associated with the fall season typically begins in October and lasts to the first days of December. By December daytime highs are in the 40s °F for much of the state, and average overnight lows are below freezing. Winters (December through mid-March) are generally cold from south to north in Connecticut. Connecticut's record high temperature is 106 °F (41 °C) which occurred in Danbury on July 15, 1995; the record low is −32 °F (−36 °C) which occurred in the Northwest Hills Falls Village on February 16, 1943, and Coventry on January 22, 1961.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2138728323699422, 0.5211267605633803, 0.30327868852459017, 0.18954918032786888]
+[0.09883720930232558, 0.24285714285714285, 0.14049586776859505, 0.0878099173553719]
+[0.1329479768786127, 0.323943661971831, 0.1885245901639344, 0.11782786885245901]

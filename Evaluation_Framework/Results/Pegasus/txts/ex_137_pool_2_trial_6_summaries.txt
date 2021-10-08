@@ -1,0 +1,15 @@
+Document:
+nevada
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Nevada does not have a continuous interstate highway linking its two major population centers .<n>Resort areas like Las Vegas, Reno, Lake Tahoe, and Laughlin attract visitors from around the nation and world .<n>The state is ranked just below California, Texas, Florida, and New York in the total number of rooms .
+
+GT:
+There are 24 state park units, including Van Sickle Bi-State Park which opened in July 2011 and is operated in partnership with the state of California. Resort areas like Las Vegas, Reno, Lake Tahoe, and Laughlin attract visitors from around the nation and world. College teams in the state include the Nevada Wolf Pack (representing the University of Nevada, Reno) and the UNLV Rebels (representing the University of Nevada, Las Vegas), both in the Mountain West Conference (MW). The Big Sky Conference, after decades of holding its men's and women's conference tournaments at campus sites, began holding both tournaments in Reno in 2016. The Mandalay Bay Events Center and MGM Grand Garden Arena are among some of the more popular venues for fighting events such as MMA and have hosted several UFC and other MMA title fights. The state is also home to the Las Vegas Motor Speedway, which hosts NASCAR's Pennzoil 400 and South Point 400.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.18633540372670807, 0.5769230769230769, 0.2816901408450704, 0.17605633802816897]
+[0.125, 0.39215686274509803, 0.18957345971563982, 0.11848341232227488]
+[0.14906832298136646, 0.46153846153846156, 0.22535211267605634, 0.14084507042253525]

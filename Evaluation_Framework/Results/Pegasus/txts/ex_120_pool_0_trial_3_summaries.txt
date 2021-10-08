@@ -1,0 +1,15 @@
+Document:
+new_hampshire
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+In January 1776, it became the first of the British North American colonies to establish a government independent of the Kingdom of Great Britain's authority .<n>In June 1788, it was the ninth state to ratify the United States Constitution .<n>New Hampshire was a Jacksonian stronghold; the state sent Franklin Pierce to the White House in the election of 1852 .
+
+GT:
+New Hampshire was one of the thirteen colonies that rebelled against British rule during the American Revolution. The only battle fought in New Hampshire was the raid on Fort William and Mary, December 14, 1774, in Portsmouth Harbor, which netted the rebellion sizable quantities of gunpowder, small arms and cannon. The United States Constitution was ratified by New Hampshire on June 21, 1788, when New Hampshire became the ninth state to do so. Starting in 1952, New Hampshire gained national and international attention for its presidential primary held early in every presidential election year. The Peterborough Players have performed every summer in Peterborough since 1933. Funspot, the world's largest video arcade (now termed a museum), is in Laconia.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2773109243697479, 0.532258064516129, 0.36464088397790057, 0.22790055248618785]
+[0.09322033898305085, 0.18032786885245902, 0.1229050279329609, 0.07681564245810055]
+[0.16806722689075632, 0.3225806451612903, 0.22099447513812157, 0.138121546961326]

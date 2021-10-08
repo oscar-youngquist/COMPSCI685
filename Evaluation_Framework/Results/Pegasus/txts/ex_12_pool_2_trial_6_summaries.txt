@@ -1,0 +1,15 @@
+Document:
+nevada
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Nevada ranks second in the United States by the number of mountains, behind Alaska .<n>There are 68 designated wilderness areas in Nevada .<n>Resort areas like Las Vegas, Reno, Lake Tahoe, and Laughlin attract visitors from around the nation and world .
+
+GT:
+The Humboldt River crosses the state from east to west across the northern part of the state, draining into the Humboldt Sink near Lovelock. The southern third of the state, where the Las Vegas area is situated, is within the Mojave Desert. The largest mountain range in the southern portion of the state is the Spring Mountain Range, just west of Las Vegas. There are 68 designated wilderness areas in Nevada, protecting some 6,579,014 acres (2,662,433 ha) under the jurisdiction of the National Park Service, US Forest Service, and Bureau of Land Management. There are 24 state park units, including Van Sickle Bi-State Park which opened in July 2011 and is operated in partnership with the state of California. Resort areas like Las Vegas, Reno, Lake Tahoe, and Laughlin attract visitors from around the nation and world. Prostitution is legal in parts of Nevada in licensed brothels, but only counties with populations under 400,000 have the option to legalize it.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.20481927710843373, 0.8095238095238095, 0.32692307692307687, 0.20432692307692304]
+[0.15151515151515152, 0.6097560975609756, 0.24271844660194178, 0.15169902912621358]
+[0.18674698795180722, 0.7380952380952381, 0.2980769230769231, 0.18629807692307693]

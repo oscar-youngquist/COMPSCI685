@@ -1,0 +1,15 @@
+Document:
+maryland
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+The state's history as a border state has led it to exhibit characteristics of both the Northern and the Southern regions of the United States .<n>The Appalachian Mountains of western Maryland are home to Appalachian-Blue Ridge forests .<n>Maryland's history as a border state has led it to exhibit characteristics of both the Northern and the Southern regions of the United States .
+
+GT:
+The state's largest city is Baltimore, and its capital is Annapolis. Sixteen of Maryland's twenty-three counties, as well as the city of Baltimore, border the tidal waters of the Chesapeake Bay estuary and its many tributaries, which combined total more than 4,000 miles of shoreline. It ranges from sandy dunes dotted with seagrass in the east, to low marshlands teeming with wildlife and large bald cypress near the Chesapeake Bay, to gently rolling hills of oak forests in the Piedmont Region, and pine groves in the Maryland mountains to the west. Many tourists visit Baltimore, the beaches of the Eastern Shore, and the nature of western Maryland. Attractions in Baltimore include the Harborplace, the Baltimore Aquarium, Fort McHenry, as well as the Camden Yards baseball stadium.Ocean City on the Atlantic Coast has been a popular beach destination in summer, particularly since the Chesapeake Bay Bridge was built in 1952 connecting the Eastern Shore to the more populated Maryland cities. The state capital of Annapolis offers sites such as the state capitol building, the historic district, and the waterfront.Maryland also has several sites of interest to military history, given Maryland's role in the American Civil War and in the War of 1812. Other attractions include the historic and picturesque towns along the Chesapeake Bay, such as Saint Mary's, Maryland's first colonial settlement and original capital.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15879828326180256, 0.5606060606060606, 0.24749163879598662, 0.15468227424749162]
+[0.03879310344827586, 0.13846153846153847, 0.06060606060606061, 0.03787878787878788]
+[0.12017167381974249, 0.42424242424242425, 0.18729096989966554, 0.11705685618729096]

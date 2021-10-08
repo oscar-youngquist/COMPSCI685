@@ -1,0 +1,15 @@
+Document:
+iowa
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+It is home to the Iowa State Capitol, Drake University, Des Moines Art Center, Greater Des Moines Botanical Garden, Principal Riverwalk, the Iowa State Fair, Terrace Hill, and the World Food Prize .<n>Other communities with vibrant historic downtown areas include Newton, Indianola, Pella, Knoxville, Marshalltown, Perry, and Story City .<n>The Iowa Great Lakes is made up of multiple small towns, such as Spirit Lake, Arnolds Park, Milford, and Okoboji .
+
+GT:
+The Clint Eastwood movie The Bridges of Madison County, based on the popular novel of the same name, took place and was filmed in Madison County. What's Eating Gilbert Grape, based on the Peter Hedges novel of the same name, is set in the fictional Iowa town of Endora. In football, Iowa State University and the University of Iowa compete in the Football Bowl Subdivision (FBS), whereas the University of Northern Iowa and Drake University compete in the Football Championship Subdivision (FCS). In NCAA FBS, the University of Iowa Hawkeyes play in the Big Ten Conference and the Iowa State University Cyclones compete in the Big 12 Conference. Des Moines is home to the Iowa Wild, who are affiliated with the Minnesota Wild and are members of the American Hockey League. The Iowa Speedway oval track has hosted auto racing championships such as the IndyCar Series, NASCAR Nationwide Series and NASCAR Truck Series since 2006.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16025641025641027, 0.352112676056338, 0.2202643171806168, 0.13766519823788548]
+[0.07741935483870968, 0.17142857142857143, 0.10666666666666666, 0.06666666666666665]
+[0.10897435897435898, 0.23943661971830985, 0.1497797356828194, 0.09361233480176213]

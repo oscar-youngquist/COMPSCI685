@@ -1,0 +1,15 @@
+Document:
+massachusetts
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Most of Massachusetts has a humid continental climate, with cold winters and warm summers .<n>Boston is quite representative for the commonwealth, characterized by summer highs of around 81 F (27 C) and winter highs of 35 F (2 C)<n>Due to its location near the Atlantic, Massachusetts is vulnerable to nor'easters, hurricanes and tropical storms .
+
+GT:
+Most of Massachusetts has a humid continental climate, with cold winters and warm summers. Far southeast coastal areas are the broad transition zone to Humid Subtropical climates. The warm to hot summers render the oceanic climate rare in this transition, only applying to exposed coastal areas such as on the peninsula of Barnstable County. The climate of Boston is quite representative for the commonwealth, characterized by summer highs of around 81 °F (27 °C) and winter highs of 35 °F (2 °C), and is quite wet. Frosts are frequent all winter, even in coastal areas due to prevailing inland winds. Due to its location near the Atlantic, Massachusetts is vulnerable to nor'easters, hurricanes and tropical storms.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.47863247863247865, 0.9655172413793104, 0.64, 0.39999999999999997]
+[0.45689655172413796, 0.9298245614035088, 0.6127167630057804, 0.38294797687861276]
+[0.47863247863247865, 0.9655172413793104, 0.64, 0.39999999999999997]

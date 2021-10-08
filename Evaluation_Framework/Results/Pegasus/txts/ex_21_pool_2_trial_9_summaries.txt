@@ -1,0 +1,15 @@
+Document:
+new_york
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+The next four most populous cities in the state are Buffalo, Rochester, Yonkers, and Syracuse, while the state capital is Albany .<n>The state is bordered by New Jersey and Pennsylvania to the south and Connecticut, Massachusetts, and Vermont to the east .<n>The state has a maritime border with Rhode Island, east of Long Island, as well as an international border with the Canadian provinces of Quebec to the north and Ontario to the northwest .
+
+GT:
+Two-thirds of the state's population lives in the New York metropolitan area. Many landmarks in New York are well known, including four of the world's ten most-visited tourist attractions in 2013: Times Square, Central Park, Niagara Falls, and Grand Central Terminal. New York is home to the Statue of Liberty. On September 11, 2001, two of four hijacked planes were flown into the Twin Towers of the original World Trade Center in Lower Manhattan, and the towers collapsed. 7 World Trade Center also collapsed due to damage from fires. The collapse of the Twin Towers caused extensive damage and resulted in the deaths of 2,753 victims, including 147 aboard the two planes. A memorial at the site, the National September 11 Memorial & Museum, was opened to the public on September 11, 2011. On March 1, 2020, New York had its first confirmed case of COVID-19. Since March 28, New York had the highest number of confirmed cases of any state in the United States. Niagara Falls State Park, established in 1885, is the oldest state park in the United States and the first to be created via eminent domain. The Stonewall riots were a series of spontaneous, violent demonstrations by members of the gay community against a police raid that took place in the early morning hours of June 28, 1969, at the Stonewall Inn in the Greenwich Village neighborhood within Lower Manhattan. Anchored by Wall Street in the Financial District of Lower Manhattan, New York City has been called both the most economically powerful city and the leading financial center of the world. I Love New York (stylized I ❤ NY) is a slogan, a logo and state song that are the basis of an advertising campaign and has been used since 1977 to promote tourism in the state of New York, including New York City. Although the New York Giants and New York Jets represent the New York metropolitan area and were previously located in New York City, they play in MetLife Stadium, located in East Rutherford, New Jersey. The National Baseball Hall of Fame and Museum is located in Cooperstown, Otsego County.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11388888888888889, 0.5394736842105263, 0.18807339449541283, 0.11754587155963303]
+[0.016713091922005572, 0.08, 0.027649769585253458, 0.017281105990783408]
+[0.06944444444444445, 0.32894736842105265, 0.11467889908256883, 0.0716743119266055]

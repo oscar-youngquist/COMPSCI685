@@ -1,0 +1,15 @@
+Document:
+maryland
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Maryland borders Virginia, West Virginia, and the District of Columbia to its south and west; Pennsylvania to its north; and Delaware and the Atlantic Ocean to its east .<n>16 of Maryland's twenty-three counties border the tidal waters of the Chesapeake Bay estuary .<n>Most of the state's waterways are part of the Chesapeake Bay watershed .<n>Forbes.com rated Maryland as the fifth "Greenest" state in the country behind three of the Pacific States and Vermont .
+
+GT:
+Although one of the smallest states in the US, it features a variety of climates and topographical features that have earned it the moniker of America in Miniature. As of 2015, Maryland had the highest median household income of any state, owing in large part to its proximity to Washington, D.C. and a highly diversified economy spanning manufacturing, services, higher education, and biotechnology. The state's central role in US history is reflected by its hosting of some of the highest numbers of historic landmarks per capita. So prominent is the Chesapeake in Maryland's geography and economic life that there has been periodic agitation to change the state's official nickname to the "Bay State", a nickname that has been used by Massachusetts for decades. Maryland's reptile and amphibian population includes the diamondback terrapin turtle, which was adopted as the mascot of University of Maryland, College Park, as well as the threatened Eastern box turtle. In 2007, Forbes.com rated Maryland as the fifth "Greenest" state in the country behind three of the Pacific States and Vermont. Maryland ranks 40th in total energy consumption nationwide, and it managed less toxic waste per capita than all but six states in 2005. Maryland was one of the thirteen colonies that revolted against British rule in the American Revolution. The National Road (US Hwy 40 today) was authorized in 1817 and ran from Baltimore to St. Louis—the first federal highway. The Baltimore and Ohio Railroad (B&O) was the first chartered railroad in the United States. A new state constitution in 1864 abolished slavery and Maryland was first recognized as a "Free State" in that context. Also, the state's poverty rate of 7.8 percent is the lowest in the country. Baltimore City is among the top 15 largest ports in the nation, and was one of six major US ports that were part of the February 2006 controversy over the Dubai Ports World deal.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14678899082568808, 0.6, 0.23587223587223588, 0.14742014742014742]
+[0.08895705521472393, 0.3670886075949367, 0.14320987654320988, 0.08950617283950618]
+[0.12232415902140673, 0.5, 0.19656019656019658, 0.12285012285012285]

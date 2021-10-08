@@ -1,0 +1,15 @@
+Document:
+utah
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Utah is the 30th-most-populous and 11th-least-densely populated state in the U.S.<n>It is a rugged and geographically diverse state at the convergence of three distinct geological regions .<n>Utah's population is concentrated in two areas, the Wasatch Front in the north-central part of the state, and Washington County in the south .
+
+GT:
+The territory of modern Utah has been inhabited by various indigenous groups for thousands of years, including the ancient Puebloans, the Navajo and the Ute. A little more than half of all Utahns are Mormons, the vast majority of whom are members of the Church of Jesus Christ of Latter-day Saints (LDS Church), which has its world headquarters in Salt Lake City. The name Utah is said to derive from the name of the Ute tribe, meaning "people of the mountains". One of Utah's defining characteristics is the variety of its terrain. Utah is home to more than 600 vertebrate animals as well as numerous invertebrates and insects. Utah ranks among the highest in total fertility rate, 47th in teenage pregnancy, lowest in percentage of births out of wedlock, lowest in number of abortions per capita, and lowest in percentage of teen pregnancies terminated in abortion. Utah has the highest total birth rate and accordingly, the youngest population of any US state. With five national parks (Arches, Bryce Canyon, Canyonlands, Capitol Reef, and Zion), Utah has the third most national parks of any state after Alaska and California. In addition, Utah features eight national monuments (Cedar Breaks, Dinosaur, Grand Staircase-Escalante, Hovenweep, Natural Bridges, Bears Ears, Rainbow Bridge, and Timpanogos Cave), two national recreation areas (Flaming Gorge and Glen Canyon), seven national forests (Ashley, Caribou-Targhee, Dixie, Fishlake, Manti-La Sal, Sawtooth, and Uinta-Wasatch-Cache), and numerous state parks and monuments. In March 2018, Utah passed America's first "free-range parenting" bill. Utah is an alcoholic beverage control state. Utah is the second-least populous US state to have a major professional sports league franchise, after the Vegas Golden Knights joined the National Hockey League in 2017. Utah is the setting of or the filming location for many books, films, television series, music videos, and video games.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10932475884244373, 0.576271186440678, 0.1837837837837838, 0.11486486486486484]
+[0.012903225806451613, 0.06896551724137931, 0.021739130434782608, 0.01358695652173913]
+[0.06752411575562701, 0.3559322033898305, 0.11351351351351352, 0.07094594594594594]

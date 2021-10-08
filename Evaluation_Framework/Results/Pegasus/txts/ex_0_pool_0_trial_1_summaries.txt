@@ -1,0 +1,15 @@
+Document:
+delaware
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+The state is divided into three counties, having the lowest number of any state .<n>New Castle County elects a substantial majority of the legislature .<n>Franchise taxes on Delaware corporations supply about a fifth of the state's revenue .
+
+GT:
+At the time, state law prohibited money raised from white taxpayers from being used to support the state's schools for black children. Appalled by the condition of the black schools, du Pont donated four million dollars to construct 86 new school buildings. Unlike many states, Delaware's educational system is centralized in a state Superintendent of Education, with local school boards retaining control over taxation and some curriculum decisions. This centralized system, combined with the small size of the state, likely contributed to Delaware becoming the first state, after completion of a three-year, $30 million program ending in 1999, to wire every K-12 classroom in the state to the Internet. All teachers in the State's public school districts are unionized. As of January 2012, none of the State's charter schools are members of a teachers union. One of the State's teachers' unions is Delaware State Education Association (DSEA), whose President as of January 2012 is Frederika Jenner.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10429447852760736, 0.425, 0.16748768472906403, 0.10467980295566502]
+[0.030864197530864196, 0.1282051282051282, 0.04975124378109452, 0.031094527363184077]
+[0.08588957055214724, 0.35, 0.13793103448275862, 0.08620689655172414]

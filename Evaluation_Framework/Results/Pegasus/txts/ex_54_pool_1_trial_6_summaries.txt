@@ -1,0 +1,15 @@
+Document:
+oregon
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+In 1843, an autonomous government was formed in the Oregon Country .<n>In 1848, Oregon was annexed by the United States and a territorial government was established .<n>Oregon became the 33rd state of the U.S. on February 14, 1859 .
+
+GT:
+In 1592, Juan de Fuca undertook detailed mapping and studies of ocean currents in the Pacific Northwest, including the Oregon coast as well as the strait now bearing his name. In 1843, an autonomous government was formed in the Oregon Country, and the Oregon Territory was created in 1848. Oregon became the 33rd state of the US on February 14, 1859. Oregon became a state on February 14, 1859, and as of 2015 has more than four million residents. The first Europeans to visit Oregon were Spanish explorers led by Juan Rodríguez Cabrillo, who sighted southern Oregon off the Pacific coast in 1543. The Oregon Territory was officially organized on August 13, 1848. In December 1844, Oregon passed its Black Exclusion Law, which prohibited African Americans from entering the territory while simultaneously prohibiting slavery. Oregon was admitted to the Union on February 14, 1859, though no one in Oregon knew it, until March 15. On May 5, 1945, six civilians were killed by a Japanese balloon bomb that exploded on Gearhart Mountain near Bly. Oregon City, at the end of the Oregon Trail, was the Oregon Territory's first incorporated city, and was its first capital from 1848 until 1852, when the capital was moved to Salem.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16346153846153846, 0.8292682926829268, 0.27309236947791166, 0.1706827309236948]
+[0.10628019323671498, 0.55, 0.17813765182186234, 0.11133603238866396]
+[0.125, 0.6341463414634146, 0.20883534136546184, 0.13052208835341367]

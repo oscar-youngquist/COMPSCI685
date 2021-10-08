@@ -1,0 +1,15 @@
+Document:
+michigan
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Michigan has the longest freshwater coastline of any political subdivision in the world, bordered by four of the five Great Lakes .<n>The Lower Peninsula is a center of manufacturing, forestry, agriculture, services, and high-tech industry .<n>The state has 11,037 inland lakes—totaling 1,305 square miles (3,380 km2) of inland water—in addition to 38,575 square miles (99,910 km2) of Great Lakes waters .
+
+GT:
+Michigan has a continental climate, although there are two distinct regions. The southern and central parts of the Lower Peninsula (south of Saginaw Bay and from the Grand Rapids area southward) have a warmer climate (Köppen climate classification Dfa) with hot summers and cold winters. The northern part of Lower Peninsula and the entire Upper Peninsula has a more severe climate (Köppen Dfb), with warm, but shorter summers and longer, cold to very cold winters. Some parts of the state average high temperatures below freezing from December through February, and into early March in the far northern parts. During the winter through the middle of February, the state is frequently subjected to heavy lake-effect snow. The state averages from 30 to 40 inches (76 to 102 cm) of precipitation annually; however, some areas in the northern lower peninsula and the upper peninsula average almost 160 inches (4,100 mm) of snowfall per year. Michigan's highest recorded temperature is 112 °F (44 °C) at Mio on July 13, 1936, and the coldest recorded temperature is −51 °F (−46 °C) at Vanderbilt on February 9, 1934. The state averages 30 days of thunderstorm activity per year. These can be severe, especially in the southern part of the state. The state averages 17 tornadoes per year, which are more common in the state's extreme southern section. Portions of the southern border have been almost as vulnerable historically as states further west and in Tornado Alley. For this reason, many communities in the very southern portions of the state have tornado sirens to warn residents of approaching tornadoes. Farther north, in Central Michigan, Northern Michigan, and the Upper Peninsula, tornadoes are rare.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08833922261484099, 0.35714285714285715, 0.14164305949008496, 0.08852691218130311]
+[0.02127659574468085, 0.08695652173913043, 0.034188034188034185, 0.021367521367521368]
+[0.0706713780918728, 0.2857142857142857, 0.11331444759206799, 0.0708215297450425]

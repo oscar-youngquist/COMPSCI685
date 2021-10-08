@@ -1,0 +1,15 @@
+Document:
+pennsylvania
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Pennsylvania is located in the Mid-Atlantic, Appalachian, and Great Lakes regions of the Northeastern United States .<n>It is the 33rd-largest state in the United States .<n>The state has five geographical regions, namely the Allegheny Plateau, Ridge and Valley, Atlantic Coastal Plain, Piedmont, and the Erie Plain .
+
+GT:
+Pennsylvania's diverse topography also produces a variety of climates, though the entire state experiences cold winters and humid summers. Straddling two major zones, the majority of the state, except for the southeastern corner, has a humid continental climate (Köppen climate classification Dfa). The southern portion of the state has a humid subtropical climate. The largest city, Philadelphia, has some characteristics of the humid subtropical climate (Köppen Cfa) that covers much of Delaware and Maryland to the south. Summers are generally hot and humid. Moving toward the mountainous interior of the state, the winter climate becomes colder, the number of cloudy days increases, and snowfall amounts are greater. Western areas of the state, particularly locations near Lake Erie, can receive over 100 inches (250 cm) of snowfall annually, and the entire state receives plentiful precipitation throughout the year. The state may be subject to severe weather from spring through summer into autumn. Tornadoes occur annually in the state, sometimes in large numbers, such as 30 recorded tornadoes in 2011; generally speaking, these tornadoes do not cause significant damage.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12777777777777777, 0.46, 0.2, 0.125]
+[0.027932960893854747, 0.10204081632653061, 0.043859649122807015, 0.027412280701754384]
+[0.08888888888888889, 0.32, 0.1391304347826087, 0.08695652173913043]

@@ -1,0 +1,15 @@
+Document:
+idaho
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+In the early 19th century, Idaho was considered part of the Oregon Country .<n>It officially became US territory with the signing of the Oregon Treaty of 1846 .<n>A separate Idaho Territory was not organized until 1863, instead being included for periods in Oregon Territory and Washington Territory .
+
+GT:
+In the early 19th century, Idaho was considered part of the Oregon Country, an area disputed between the United States and the British Empire. It officially became US territory with the signing of the Oregon Treaty of 1846, but a separate Idaho Territory was not organized until 1863, instead being included for periods in Oregon Territory and Washington Territory. Idaho was eventually admitted to the Union on July 3, 1890, becoming the 43rd state. Humans may have been present in the Idaho area as long as 14,500 years ago. Based on evidence found at the site, first people lived in this area 15,300 to 16,600 years ago, predating the Beringia land bridge by about a thousand years. An early presence of French-Canadian trappers is visible in names and toponyms: Nez Percé, Cœur d'Alène, Boisé, Payette, some preexisting the Lewis and Clark and Astorian expeditions which themselves included significant numbers of French and Métis guides recruited for their familiarity with the terrain. The first non-indigenous settlement was Kullyspell House, established on the shore of Lake Pend Oreille for fur trading in 1809 by David Thompson of the North West Company. In 1864, Clinton DeWitt Smith removed the territorial seal and the state constitution from a locked safe, and took them to Boise. This effectively moved the capital from where they were stored (Lewiston, Idaho) to the current capital Boise.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.19831223628691982, 0.9591836734693877, 0.32867132867132864, 0.20541958041958042]
+[0.1864406779661017, 0.9166666666666666, 0.3098591549295775, 0.1936619718309859]
+[0.19831223628691982, 0.9591836734693877, 0.32867132867132864, 0.20541958041958042]

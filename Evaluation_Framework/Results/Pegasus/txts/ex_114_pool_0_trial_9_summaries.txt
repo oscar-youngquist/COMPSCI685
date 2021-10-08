@@ -1,0 +1,15 @@
+Document:
+florida
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+The climate varies from subtropical in the north to tropical in the south .<n>With an average daily temperature of 70.7 F (21.5 C), it is the warmest state in the U.S.
+
+GT:
+The climate of Florida is tempered somewhat by the fact that no part of the state is distant from the ocean. North of Lake Okeechobee, the prevalent climate is humid subtropical (Köppen: Cfa), while areas south of the lake (including the Florida Keys) have a true tropical climate (Köppen: Aw, Am, and Af). Mean high temperatures for late July are primarily in the low 90s Fahrenheit (32–34 °C). Mean low temperatures for early to mid January range from the low 40s Fahrenheit (4–7 °C) in north Florida to above 60 °F (16 °C) from Miami on southward. With an average daily temperature of 70.7 °F (21.5 °C), it is the warmest state in the US In the summer, high temperatures in the state rarely exceed 100 °F (37.8 °C). Several record cold maxima have been in the 30s °F (−1 to 4 °C) and record lows have been in the 10s (−12 to −7 °C). These temperatures normally extend at most a few days at a time in the northern and central parts of Florida. South Florida, however, rarely encounters below freezing temperatures. Due to its subtropical and tropical climate, Florida rarely receives measurable snowfall. However, on rare occasions, a combination of cold moisture and freezing temperatures can result in snowfall in the farthest northern regions like Jacksonville, Gainesville or Pensacola. Frost, which is more common than snow, sometimes occurs in the panhandle. Fog also occurs all over the state or climate of Florida. Florida's nickname is the "Sunshine State", but severe weather is a common occurrence in the state. Central Florida is known as the lightning capital of the United States, as it experiences more lightning strikes than anywhere else in the country. Florida has one of the highest average precipitation levels of any state, in large part because afternoon thunderstorms are common in much of the state from late spring until early autumn. A narrow eastern part of the state including Orlando and Jacksonville receives between 2,400 and 2,800 hours of sunshine annually. Florida leads the United States in tornadoes per area (when including waterspouts), but they do not typically reach the intensity of those in the Midwest and Great Plains. Hail often accompanies the most severe thunderstorms. Florida is the most hurricane-prone state, with subtropical or tropical water on a lengthy coastline.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08080808080808081, 0.9142857142857143, 0.14849187935034805, 0.09280742459396754]
+[0.053164556962025315, 0.6176470588235294, 0.0979020979020979, 0.061188811188811185]
+[0.0707070707070707, 0.8, 0.12993039443155452, 0.08120649651972157]

@@ -1,0 +1,15 @@
+Document:
+nevada
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Nevada became the 36th state on October 31, 1864, as the second of two states added to the Union during the Civil War .<n>The state is home to the Las Vegas Motor Speedway, which hosts NASCAR's Pennzoil 400 and South Point 400 .<n>Nevada is the only U.S. state where prostitution is legal .
+
+GT:
+Nevada is officially known as the "Silver State" because of the importance of silver to its history and economy. It is also known as the "Battle Born State" because it achieved statehood during the Civil War (the words "Battle Born" also appear on the state flag); as the "Sagebrush State", for the native plant of the same name; and as the "Sage-hen State". Nevada is the only US state where prostitution is legal, though it is illegal in its most populated regions – Clark County (Las Vegas), Washoe County (Reno) and Carson City (which, as an independent city, is not within the boundaries of any county). The name "Nevada" comes from the Spanish nevada [neˈβaða], meaning "snow-covered". Nevada is the driest state in the United States. Church attendance in Nevada is among the lowest of all US states. Nevada's early reputation as a "divorce haven" arose from the fact that before the no-fault divorce revolution in the 1970s, divorces were difficult to obtain in the United States. Nevada has no personal income tax or corporate income tax. Nevada is the only US state to have a none of the above option available on its ballots.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.165, 0.5892857142857143, 0.2578125, 0.1611328125]
+[0.06532663316582915, 0.23636363636363636, 0.10236220472440945, 0.0639763779527559]
+[0.12, 0.42857142857142855, 0.1875, 0.1171875]

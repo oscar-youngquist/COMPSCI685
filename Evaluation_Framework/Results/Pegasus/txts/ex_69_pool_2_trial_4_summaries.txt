@@ -1,0 +1,15 @@
+Document:
+texas
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Less than ten percent of Texas's land area is desert .<n>The state experiences the most tornadoes in the United States, an average of 139 a year .<n>El Paso lies on the state's western tip at 32 N and the Rio Grande .
+
+GT:
+With 10 climatic regions, 14 soil regions and 11 distinct ecological regions, regional classification becomes problematic with differences in soils, topography, geology, rainfall, and plant and animal communities. The large size of Texas and its location at the intersection of multiple climate zones gives the state highly variable weather. The Panhandle of the state has colder winters than North Texas, while the Gulf Coast has mild winters. Texas has wide variations in precipitation patterns. El Paso, on the western end of the state, averages 8.7 inches (220 mm) of annual rainfall, while parts of southeast Texas average as much as 64 inches (1,600 mm) per year. Dallas in the North Central region averages a more moderate 37 inches (940 mm) per year. Snow falls multiple times each winter in the Panhandle and mountainous areas of West Texas, once or twice a year in North Texas, and once every few years in Central and East Texas. Snow falls south of San Antonio or on the coast only in rare circumstances. Maximum temperatures in the summer months average from the 80s °F (26 °C) in the mountains of West Texas and on Galveston Island to around 100 °F (38 °C) in the Rio Grande Valley, but most areas of Texas see consistent summer high temperatures in the 90 °F (32 °C) range. Night-time summer temperatures range from the upper 50s °F (14 °C) in the West Texas mountains to 80 °F (27 °C) in Galveston. The table below consists of averages for August (generally the warmest month) and January (generally the coldest) in selected cities in various regions of the state. Thunderstorms strike Texas often, especially the eastern and northern portions of the state. Tornado Alley covers the northern section of Texas. The state experiences the most tornadoes in the United States, an average of 139 a year. These strike most frequently in North Texas and the Panhandle. Tornadoes in Texas generally occur in the months of April, May, and June. Some of the most destructive hurricanes in US history have impacted Texas.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09302325581395349, 0.7111111111111111, 0.16452442159383035, 0.10282776349614395]
+[0.0641399416909621, 0.5, 0.1136950904392765, 0.07105943152454781]
+[0.06686046511627906, 0.5111111111111111, 0.11825192802056554, 0.07390745501285347]

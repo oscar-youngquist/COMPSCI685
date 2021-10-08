@@ -1,0 +1,15 @@
+Document:
+kentucky
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Kentucky has eight public four-year universities .<n>There are 173 school districts and 1,233 public schools in Kentucky .<n>For the 2010 to 2011 school year, there were approximately 647,827 students enrolled in public school .
+
+GT:
+Kentucky maintains eight public four-year universities. There are two general tiers: major research institutions (the University of Kentucky and the University of Louisville) and regional universities, which encompasses the remaining six schools. The regional schools have specific target counties that many of their programs are targeted towards (such as Forestry at Eastern Kentucky University or Cave Management at Western Kentucky University), however most of their curriculum varies little from any other public university. The state's sixteen public two-year colleges have been governed by the Kentucky Community and Technical College System since the passage of the Postsecondary Education Improvement Act of 1997, commonly referred to as House Bill 1. Before the passage of House Bill 1, most of these colleges were under the control of the University of Kentucky. Berea College, located at the extreme southern edge of the Bluegrass below the Cumberland Plateau, was the first coeducational college in the South to admit both black and white students, doing so from its very establishment in 1855. This policy was successfully challenged in the United States Supreme Court in the case of Berea College v. Kentucky in 1908. This decision effectively segregated Berea until the landmark Brown v. Board of Education in 1954. In 1989 the Kentucky Supreme Court ruled the state's education system was unconstitutional. The response of the General Assembly was passage of the Kentucky Education Reform Act (KERA) the following year. Years later, Kentucky has shown progress, but most agree that further reform is needed.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09163346613545817, 0.6052631578947368, 0.15916955017301038, 0.0994809688581315]
+[0.024, 0.16216216216216217, 0.041811846689895474, 0.026132404181184666]
+[0.06374501992031872, 0.42105263157894735, 0.1107266435986159, 0.06920415224913494]

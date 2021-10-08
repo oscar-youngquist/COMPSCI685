@@ -1,0 +1,15 @@
+Document:
+maryland
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+The highest educational official in the state is the State Superintendent of Schools .<n>Maryland has a broad range of private primary and secondary schools .<n>The first public university in the state is the University of Maryland, Baltimore, founded in 1807 .
+
+GT:
+In 1902, the state regulated conditions in mines; outlawed child laborers under the age of 12; mandated compulsory school attendance; and enacted the nation's first workers' compensation law. The "Bonus Army" marched through the state in 1932 on its way to Washington, D.C. Maryland instituted its first income tax in 1937 to generate revenue for schools and welfare. The highest educational official in the state is the State Superintendent of Schools, who is appointed by the State Board of Education to a four-year term of office. The Maryland General Assembly has given the Superintendent and State Board autonomy to make educationally related decisions, limiting its influence on the day-to-day functions of public education. Each county and county-equivalent in Maryland has a local Board of Education charged with running the public schools in that particular jurisdiction. The budget for education was $5.5 billion in 2009, representing about 40 percent of the state's general fund. In 2003, Maryland law was changed to allow for the creation of publicly funded charter schools, although the charter schools must be approved by their local Board of Education and are not exempt from state laws on education, including collective bargaining laws.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1477832512315271, 0.7142857142857143, 0.2448979591836735, 0.15306122448979592]
+[0.07425742574257425, 0.36585365853658536, 0.12345679012345678, 0.0771604938271605]
+[0.11822660098522167, 0.5714285714285714, 0.19591836734693877, 0.12244897959183673]

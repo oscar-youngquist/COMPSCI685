@@ -1,0 +1,15 @@
+Document:
+new_jersey
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+New Jersey's public school system consistently ranks at or among the top among all fifty US states .<n>The state is ranked second in the nation by the number of places with per capita incomes above national average with 76.4% .<n>In 2015, the state spent more per each public school student than any other US state except New York, Alaska, and Connecticut .
+
+GT:
+As of 2010, there were 605 school districts in the state. Secretary of Education Rick Rosenberg, appointed by Governor Jon Corzine, created the Education Advancement Initiative (EAI) to increase college admission rates by 10% for New Jersey's high school students, decrease dropout rates by 15%, and increase the amount of money devoted to schools by 10%. In 2010, the state government paid all teachers' premiums for health insurance, but currently all NJ public teachers pay a portion of their own health insurance premiums. New Jersey is known for the quality of its education. In 2015, the state spent more per each public school student than any other US state except New York, Alaska, and Connecticut, amounting to $18,235 spent per pupil; over 50% of the expenditure was allocated to student instruction. Princeton University in Princeton, Mercer County, one of the world's most prominent research universities, is often featured at or near the top of various national and global university rankings, topping the 2020 list of US News & World Report. In 2014, New Jersey's school systems were ranked at the top of all fifty US states by financial website Wallethub.com. In 2018, New Jersey's overall educational system was ranked second among all states to Massachusetts by US News & World Report.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.23255813953488372, 0.7692307692307693, 0.3571428571428571, 0.2232142857142857]
+[0.1588785046728972, 0.53125, 0.24460431654676257, 0.1528776978417266]
+[0.14883720930232558, 0.49230769230769234, 0.22857142857142856, 0.14285714285714285]

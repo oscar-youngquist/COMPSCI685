@@ -1,0 +1,15 @@
+Document:
+arizona
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Arizona is part of the Western and the Mountain states .<n>The Grand Canyon is one of the world's seven natural wonders .<n>There are ski resorts in the areas of Flagstaff, Alpine, and Tucson .
+
+GT:
+There are ski resorts in the areas of Flagstaff, Alpine, and Tucson. In addition to the internationally known Grand Canyon National Park, which is one of the world's seven natural wonders, there are several national forests, national parks, and national monuments. Created around 50,000 years ago, the Barringer Meteorite Crater (better known simply as "Meteor Crater") is a gigantic hole in the middle of the high plains of the Colorado Plateau, about 25 miles (40 km) west of Winslow. Phoenix Art Museum, on the historic Central Avenue Corridor in Phoenix, is the Southwest's largest collection of visual art from across the world. State Farm Stadium hosted Super Bowl XLII on February 3, 2008, and Super Bowl XLIX on February 1, 2015. Due to its numerous golf courses, Arizona is home to several stops on the PGA Tour, most notably the Phoenix Open, held at the TPC of Scottsdale, and the WGC-Accenture Match Play Championship at the Ritz-Carlton Golf Club in Marana. The Arizona State Sun Devils and the Arizona Wildcats belong to the Pac-12 Conference while the Northern Arizona Lumberjacks compete in the Big Sky Conference and the Grand Canyon Antelopes compete in the Western Athletic Conference.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15763546798029557, 0.8888888888888888, 0.2677824267782427, 0.16736401673640167]
+[0.12376237623762376, 0.7142857142857143, 0.2109704641350211, 0.13185654008438819]
+[0.09852216748768473, 0.5555555555555556, 0.1673640167364017, 0.10460251046025106]

@@ -1,0 +1,15 @@
+Document:
+wisconsin
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+State sales and use tax rate is 5.0%.<n>Property taxes are the most important tax revenue source for Wisconsin's local governments .<n>Madison has a dual identity as state capital and college town .
+
+GT:
+The state's economy also underwent further transformations towards the close of the 20th century, as heavy industry and manufacturing declined in favor of a service economy based on medicine, education, agribusiness, and tourism. Property taxes are the most important tax revenue source for Wisconsin's local governments, as well as major methods of funding school districts, vocational technical colleges, special purpose districts and tax incremental finance districts. The Bennett Law campaign of 1890 dealt with foreign language teaching in schools. By the start of the 20th century, education in the state advocated the "Wisconsin Idea", which emphasized service to the people of the state. Today, public post-secondary education in Wisconsin includes both the 26-campus University of Wisconsin System, with the flagship university University of Wisconsin–Madison, and the 16-campus Wisconsin Technical College System. Private colleges and universities include Alverno College, Beloit College, Cardinal Stritch University, Carroll University, Carthage College, Concordia University Wisconsin, Edgewood College, Lakeland College, Lawrence University, Marquette University, Medical College of Wisconsin, Milwaukee School of Engineering, Ripon College, St. Norbert College, Wisconsin Lutheran College, Viterbo University, and others.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.125, 0.6388888888888888, 0.20909090909090908, 0.13068181818181818]
+[0.07103825136612021, 0.37142857142857144, 0.11926605504587157, 0.07454128440366972]
+[0.10869565217391304, 0.5555555555555556, 0.1818181818181818, 0.11363636363636363]

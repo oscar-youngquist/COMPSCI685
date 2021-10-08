@@ -1,0 +1,15 @@
+Document:
+massachusetts
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Massachusetts is the 7th-smallest state in the United States.<n>Massachusetts is the second-largest cranberry-producing state in the union after Wisconsin.<n>Massachusetts is one of the states with the largest percentage of Catholics.
+
+GT:
+The entire Commonwealth of Massachusetts has played a powerful scientific, commercial, and cultural role in the history of the United States. Before the American Civil War, Massachusetts was a center for the abolitionist, temperance, and transcendentalist movements. In the late 19th century, the sports of basketball and volleyball were invented in the western Massachusetts cities of Springfield and Holyoke, respectively. Bostonian John Adams, known as the "Atlas of Independence", was highly involved in both separation from Britain and the Constitution of Massachusetts, which effectively (the Elizabeth Freeman and Quock Walker cases as interpreted by William Cushing) made Massachusetts the first state to abolish slavery. In 1966, Massachusetts became the first state to directly elect an African American to the US senate with Edward Brooke. On May 17, 2004, Massachusetts became the first state in the US to legalize same-sex marriage after a Massachusetts Supreme Judicial Court ruling in November 2003 determined that the exclusion of same-sex couples from the right to a civil marriage was unconstitutional. In 2018, Massachusetts's overall educational system was ranked the top among all fifty US states by US News & World Report. Massachusetts is home to 121 institutions of higher education. Harvard University and the Massachusetts Institute of Technology, both located in Cambridge, consistently rank among the world's best private universities and universities in general.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09417040358744394, 0.5675675675675675, 0.16153846153846152, 0.10096153846153845]
+[0.03153153153153153, 0.19444444444444445, 0.05426356589147287, 0.03391472868217055]
+[0.08071748878923767, 0.4864864864864865, 0.13846153846153847, 0.08653846153846154]

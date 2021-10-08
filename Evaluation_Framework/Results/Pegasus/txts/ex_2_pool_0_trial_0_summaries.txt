@@ -1,0 +1,15 @@
+Document:
+north_dakota
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+The state is named after the Lakota and Dakota Sioux Native American tribes .<n>It is the nineteenth largest in area, the fourth least populous, and the fourth most sparsely populated of the 50 states .<n>North Dakota is the only state with a state-owned bank, the Bank of North Dakota in Bismarck .<n>The state is known for the Lewis & Clark Trail and being the winter camp of the Corps of Discovery .
+
+GT:
+It is named after the Lakota and Dakota Sioux Native American tribes, who comprise a large portion of the population and historically dominated the territory. Native American peoples lived in what is now North Dakota for thousands of years before the coming of Europeans. The first European to reach the area was the French-Canadian trader Pierre Gaultier, sieur de La Vérendrye, who led an exploration and trading party to the Mandan villages in 1738. guided by Assiniboine Indians. Harrison directed Secretary of State James G. Blaine to shuffle the papers and obscure from him which he was signing first. The actual order went unrecorded, thus no one knows which of the Dakotas was admitted first. North Dakota is one of the top resettlement locations for refugees proportionally. The western terminus of the North Country National Scenic Trail is on Lake Sakakawea, where it abuts the Lewis and Clark Trail. The state is known for the Lewis & Clark Trail and being the winter camp of the Corps of Discovery. Areas popular with visitors include Theodore Roosevelt National Park in the western part of the state. Today, five federally recognized tribes within the boundaries of North Dakota have independent, sovereign relationships with the federal government and territorial reservations:
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2644230769230769, 0.7432432432432432, 0.3900709219858156, 0.24379432624113476]
+[0.17391304347826086, 0.4931506849315068, 0.2571428571428572, 0.1607142857142857]
+[0.21634615384615385, 0.6081081081081081, 0.3191489361702128, 0.19946808510638298]

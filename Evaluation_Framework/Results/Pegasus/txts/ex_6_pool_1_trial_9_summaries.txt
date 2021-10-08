@@ -1,0 +1,15 @@
+Document:
+pennsylvania
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Pennsylvania came into being in 1681 as a result of a royal land grant to William Penn, the son of the state's namesake.<n>Pennsylvania German is still very vigorous as a first language among Old Order Amish and Old Order Mennonites.<n>Pennsylvania also has a very large Amish population, second only to Ohio among the states.
+
+GT:
+The state is one of the 13 original founding states of the United States; it came into being in 1681 as a result of a royal land grant to William Penn, the son of the state's namesake. Historically, as of 1600, the tribes living in Pennsylvania were the Algonquian Lenape (also Delaware), the Iroquoian Susquehannock, and Petun (also Tionontati, Kentatentonga, Tobacco, Wenro) and the presumably Siouan Monongahela Culture, who may have been the same as a little known tribe called the Calicua, or Cali. Other tribes who entered the region during the colonial era were the Trockwae, Tutelo, Saponi, Shawnee, Nanticoke, Conoy Piscataway, Iroquois Confederacy—likely among others. United Airlines Flight 93 crashed into a field near Shanksville during the September 11th attacks, killing 44. In October 2018, the Tree of Life – Or L'Simcha Congregation experienced the Pittsburgh synagogue shooting. The Asian population swelled by almost 60%, which was fueled by Indian, Vietnamese, and Chinese immigration, as well the many Asian transplants moving to Philadelphia from New York.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.20588235294117646, 0.5932203389830508, 0.3056768558951965, 0.1910480349344978]
+[0.14201183431952663, 0.41379310344827586, 0.21145374449339208, 0.13215859030837004]
+[0.17647058823529413, 0.5084745762711864, 0.26200873362445415, 0.16375545851528384]

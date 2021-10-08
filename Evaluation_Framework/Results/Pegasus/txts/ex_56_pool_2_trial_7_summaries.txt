@@ -1,0 +1,15 @@
+Document:
+minnesota
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Minnesota was admitted as the 32nd US state on May 11, 1858 .<n>The state's geography is defined by western prairies now given over to intensive agriculture .<n>The state's first state park, Itasca State Park, was established in 1891 .
+
+GT:
+The first Europeans to enter the region were French voyageurs, fur traders who arrived in the 17th century. The region was part of Spanish Louisiana from 1762 to 1802. The portion of the state east of the Mississippi River became part of the United States at the end of the American Revolutionary War, when the Second Treaty of Paris was signed. Land west of the Mississippi was acquired with the Louisiana Purchase, though part of the Red River Valley was disputed until the Treaty of 1818. From 1812 to 1821 Minnesota was part of the Territory of Missouri. From 1821 to 1834 it was part of an Unorganized Territory. From 1834 to 1836 Minnesota, Wisconsin, Iowa and half the Dakotas were part of the Territory of Michigan. From 1836 to 1848 Minnesota and Iowa were part of the Territory of Wisconsin. From 1838 to 1846 Minnesota west of the Mississippi River was part of the Territory of Iowa. Minnesota east of the Mississippi was part of Wisconsin until 1848. When Iowa gained statehood western Minnesota was in an Unorganized Territory again. Minnesota Territory was formed on March 3, 1849. Industrial development and the rise of manufacturing caused the population to shift gradually from rural areas to cities during the early 20th century. Minnesota became a center of technology after World War II.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.05855855855855856, 0.30952380952380953, 0.09848484848484848, 0.061553030303030304]
+[0.00904977375565611, 0.04878048780487805, 0.015267175572519083, 0.00954198473282443]
+[0.04054054054054054, 0.21428571428571427, 0.06818181818181819, 0.04261363636363637]

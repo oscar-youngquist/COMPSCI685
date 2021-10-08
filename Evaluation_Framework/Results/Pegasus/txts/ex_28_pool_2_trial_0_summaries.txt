@@ -1,0 +1,15 @@
+Document:
+iowa
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Iowa was a part of French Louisiana and Spanish Louisiana; its state flag is patterned after the flag of France .<n>The southern border is the Des Moines River and a not-quite-straight line along approximately 40 degrees 35 minutes north .<n>Before European settlement, 4 to 6 million acres of the state was covered with wetlands .
+
+GT:
+The first known European explorers to document Iowa were Jacques Marquette and Louis Jolliet who traveled the Mississippi River in 1673 documenting several Indigenous villages on the Iowa side. The area of Iowa was claimed for France and remained a French territory until 1763. In 1800, Napoleon Bonaparte took control of Louisiana from Spain in a treaty. After the 1803 Louisiana Purchase, Congress divided the Louisiana Purchase into two parts—the Territory of Orleans and the District of Louisiana, with present-day Iowa falling in the latter. Fort Madison was built to control trade and establish US dominance over the Upper Mississippi, but it was poorly designed and disliked by the Sauk and Fox, many of whom allied with the British, who had not abandoned claims to the territory. Fort Madison was defeated by British-supported Indigenous people in 1813 during the War of 1812, and Fort Shelby in Prairie du Chien, Wisconsin, also fell to the British. A disputed 1804 treaty between Quashquame and William Henry Harrison that surrendered much of Illinois to the US enraged many Sauk and led to the 1832 Black Hawk War. The first American settlers officially moved to Iowa in June 1833. On July 4, 1838, the US Congress established the Territory of Iowa. President Martin Van Buren appointed Robert Lucas governor of the territory, which at the time had 22 counties and a population of 23,242. On December 28, 1846, Iowa became the 29th state in the Union when President James K. Polk signed Iowa's admission bill into law. The first and second Iowa State Fairs were held in the more developed eastern part of the state at Fairfield. The first fair was held October 25–27, 1854, at a cost of around $323. There were no battles in the state, although the Battle of Athens, Missouri, 1861, was fought just across the Des Moines River from Croton, Iowa, and shots from the battle landed in Iowa. Iowa sent large supplies of food to the armies and the eastern cities. The farm crisis of the 1980s caused a major recession in Iowa, causing poverty not seen since the Depression. After bottoming out in the 1980s, Iowa's economy began to become increasingly less dependent on agriculture.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08, 0.5172413793103449, 0.13856812933025406, 0.08660508083140879]
+[0.02406417112299465, 0.15789473684210525, 0.04176334106728538, 0.026102088167053363]
+[0.050666666666666665, 0.3275862068965517, 0.08775981524249424, 0.05484988452655889]

@@ -1,0 +1,15 @@
+Document:
+alaska
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+At 663,268 square miles (1,717,856 km2) in area, Alaska is by far the largest state in the United States .<n>In 2010, Alaska ranked as the 47th state by population, ahead of North Dakota, Vermont, and Wyoming .<n>Alaska is the only state that has no institutions that are part of NCAA Division I .
+
+GT:
+The Alaska Department of Education and Early Development administers many school districts in Alaska. In addition, the state operates a boarding school, Mt. Edgecumbe High School in Sitka, and provides partial funding for other boarding schools, including Nenana Student Living Center in Nenana and The Galena Interior Learning Academy in Galena. There are more than a dozen colleges and universities in Alaska. Accredited universities in Alaska include the University of Alaska Anchorage, University of Alaska Fairbanks, University of Alaska Southeast, and Alaska Pacific University. Alaska is the only state that has no institutions that are part of NCAA Division I. The Alaska Department of Labor and Workforce Development operates AVTEC, Alaska's Institute of Technology. Campuses in Seward and Anchorage offer one-week to 11-month training programs in areas as diverse as Information Technology, Welding, Nursing, and Mechanics. Alaska has had a problem with a "brain drain". Many of its young people, including most of the highest academic achievers, leave the state after high school graduation and do not return. As of 2013, Alaska did not have a law school or medical school. The University of Alaska has attempted to combat this by offering partial four-year scholarships to the top 10% of Alaska high school graduates, via the Alaska Scholars Program.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14553990610328638, 0.543859649122807, 0.22962962962962963, 0.14351851851851852]
+[0.07547169811320754, 0.2857142857142857, 0.11940298507462686, 0.0746268656716418]
+[0.1267605633802817, 0.47368421052631576, 0.2, 0.125]

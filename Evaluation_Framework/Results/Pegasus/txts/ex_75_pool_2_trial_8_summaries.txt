@@ -1,0 +1,15 @@
+Document:
+arizona
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Northern Arizona features forests of pine, Douglas fir, and spruce trees .<n>The state is less well known for its pine-covered north-central portion of the high country of the Colorado Plateau .<n>Despite the state's aridity, 27% of Arizona is forest .
+
+GT:
+In the lower elevations, the climate is primarily desert, with mild winters and extremely hot summers. Typically, from late fall to early spring, the weather is mild, averaging a minimum of 60 °F (16 °C). November through February are the coldest months, with temperatures typically ranging from 40 to 75 °F (4 to 24 °C), with occasional frosts. About midway through February, the temperatures start to rise, with warm days, and cool, breezy nights. The summer months of June through September bring a dry heat from 90 to 120 °F (32 to 49 °C), with occasional high temperatures exceeding 125 °F (52 °C) having been observed in the desert area. Arizona's all-time record high is 128 °F (53 °C) recorded at Lake Havasu City on June 29, 1994, and July 5, 2007; the all-time record low of −40 °F (−40 °C) was recorded at Hawley Lake on January 7, 1971. Due to the primarily dry climate, large diurnal temperature variations occur in less-developed areas of the desert above 2,500 ft (760 m). The swings can be as large as 83 °F (46 °C) in the summer months. In the state's urban centers, the effects of local warming result in much higher measured night-time lows than in the recent past. Arizona has an average annual rainfall of 12.7 in (323 mm), which comes during two rainy seasons, with cold fronts coming from the Pacific Ocean during the winter and a monsoon in the summer. The monsoon season occurs toward the end of summer. In July or August, the dewpoint rises dramatically for a brief period. During this time, the air contains large amounts of water vapor. Dewpoints as high as 81 °F (27 °C) have been recorded during the Phoenix monsoon season. This hot moisture brings lightning, thunderstorms, wind, and torrential, if usually brief, downpours. These downpours often cause flash floods, which can turn deadly. In an attempt to deter drivers from crossing flooding streams, the Arizona Legislature enacted the Stupid Motorist Law. It is rare for tornadoes or hurricanes to occur in Arizona. Arizona's northern third is a plateau at significantly higher altitudes than the lower desert, and has an appreciably cooler climate, with cold winters and mild summers, though the climate remains semiarid to arid. Extremely cold temperatures are not unknown; cold air systems from the northern states and Canada occasionally push into the state, bringing temperatures below 0 °F (−18 °C) to the state's northern parts.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.05502392344497608, 0.5227272727272727, 0.09956709956709957, 0.06222943722943723]
+[0.009592326139088728, 0.09302325581395349, 0.017391304347826087, 0.010869565217391304]
+[0.03349282296650718, 0.3181818181818182, 0.06060606060606061, 0.03787878787878788]

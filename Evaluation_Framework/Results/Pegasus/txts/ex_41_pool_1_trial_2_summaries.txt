@@ -1,0 +1,15 @@
+Document:
+indiana
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+It is the 38th-largest by area and the 17th-most populous of the 50 United States.<n>With a total area (land and water) of 36,418 square miles (94,320 km2), Indiana ranks as the 38th largest state in size.
+
+GT:
+Before becoming a territory, various indigenous peoples inhabited Indiana for thousands of years. Indiana's name means "Land of the Indians", or simply "Indian Land". A resident of Indiana is officially known as a Hoosier. The etymology of this word is disputed, but the leading theory, advanced by the Indiana Historical Bureau and the Indiana Historical Society, has its origin in Virginia, the Carolinas, and Tennessee (the Upland South) as a term for a backwoodsman, a rough countryman, or a country bumpkin. Indiana's population continued to grow after the war, exceeding five million by the 1970 census. On December 8, 1964, a Convair B-58 carrying nuclear weapons slid off an icy runway on Bunker Hill Air Force Base in Bunker Hill, Indiana and caught fire during a training drill. The five nuclear weapons on board were burned, including one 9-megaton thermonuclear weapon, causing radioactive contamination of the crash area.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1118421052631579, 0.40476190476190477, 0.1752577319587629, 0.10953608247422682]
+[0.013245033112582781, 0.04878048780487805, 0.020833333333333332, 0.013020833333333336]
+[0.07236842105263158, 0.2619047619047619, 0.11340206185567012, 0.07087628865979381]

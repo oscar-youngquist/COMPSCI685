@@ -1,0 +1,15 @@
+Document:
+west_virginia
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+West Virginia was admitted to the Union on June 20, 1863 .<n>It was the only state to form by separating from a Confederate state .<n>It was a key border state during the American Civil War .
+
+GT:
+West Virginia became a state following the Wheeling Conventions of 1861, at the start of the American Civil War. West Virginia was admitted to the Union on June 20, 1863, and was a key border state during the war. While a portion of its residents held slaves, most were yeoman farmers, and the delegates provided for gradual abolition of slavery in the new state Constitution and the state's legislature passed the 13th Amendment that abolished slavery on February 3, 1865. In 1671, General Abraham Wood, at the direction of Royal Governor William Berkeley of the Virginia Colony, sent a party from Fort Henry led by Thomas Batts and Robert Fallam to survey this territory. Shortly before the American Revolutionary War, in 1774 the Crown Governor of Virginia John Murray, 4th Earl of Dunmore, led a force over the mountains. However, Claypool's Rebellion of 1780–1781, in which a group of men refused to pay taxes imposed by the Continental Army, showed war-weariness in what became West Virginia. In Richmond on April 17, 1861, the Virginia Secession Convention of 1861 voted to secede from the Union, but of the 49 delegates from the northwestern corner (which ultimately became West Virginia) only 17 voted in favor of the Ordinance of Secession, while 30 voted against (with two abstentions). During the Civil War, Union General George B. McClellan's forces gained possession of the greater part of the territory in the summer of 1861, culminating at the Battle of Rich Mountain, and Union control was never again seriously threatened. Harpers Ferry was the site of John Brown's 1859 raid on the US Armory and Arsenal.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10869565217391304, 0.8108108108108109, 0.19169329073482427, 0.11980830670926516]
+[0.07272727272727272, 0.5555555555555556, 0.12861736334405144, 0.08038585209003216]
+[0.07608695652173914, 0.5675675675675675, 0.13418530351437702, 0.08386581469648563]

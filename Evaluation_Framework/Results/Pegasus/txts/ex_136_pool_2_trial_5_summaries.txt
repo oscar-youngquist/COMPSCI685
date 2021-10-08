@@ -1,0 +1,15 @@
+Document:
+idaho
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+State borders Montana to the east, Wyoming to the east, Nevada and Utah to the south, and Washington and Oregon to the west .<n>Has a population of 1.7 million and an area of 83,570 square miles (216,400 km2)<n>The state has snow-capped mountain ranges, rapids, vast lakes and steep canyons .<n>Over 25% of the state's revenue and over 70% of the state's exports are from the state .
+
+GT:
+For thousands of years Idaho has been inhabited by Native American peoples. The name's origin remains a mystery. Idaho borders six US states and one Canadian province. The landscape is rugged with some of the largest unspoiled natural areas in the United States. Idaho has two time zones, with the dividing line approximately midway between Canada and Nevada. Humans may have been present in the Idaho area as long as 14,500 years ago. Idaho is an important agricultural state, producing nearly one-third of the potatoes grown in the United States. Today, Idaho's largest industry is the science and technology sector. In 2014, Idaho emerged as the second most small business friendly state, ranking behind Utah, based on a study drawing upon data from more than 12,000 small business owners. As of 2017, the primary energy source in Idaho was hydropower, and the energy companies had a total retail sales of 23,793,790 megawatthours (MWh). Idaho is among the few states in the nation without a major freeway linking its two largest metropolitan areas, Boise in the south and Coeur d'Alene in the north. Central Idaho is home to one of North America's oldest ski resorts, Sun Valley, where the world's first chairlift was installed in 1936.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16279069767441862, 0.4605263157894737, 0.24054982817869416, 0.15034364261168384]
+[0.018691588785046728, 0.05333333333333334, 0.02768166089965398, 0.01730103806228374]
+[0.08837209302325581, 0.25, 0.13058419243986252, 0.08161512027491409]

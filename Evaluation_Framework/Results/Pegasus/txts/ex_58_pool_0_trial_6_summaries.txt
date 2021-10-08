@@ -1,0 +1,15 @@
+Document:
+montana
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Montana became a United States territory (Montana Territory) on May 26, 1864 .<n>The first constitution was drafted by a constitutional convention in 1889, in preparation for statehood .<n>From statehood in 1889 until 1913, Montana was represented in the United States House of Representatives by a single representative .
+
+GT:
+The first gold discovered in Montana was at Gold Creek near present-day Garrison in 1852. In 1855, Washington Territorial Governor Isaac Stevens negotiated the Hellgate treaty between the United States government and the Salish, Pend d'Oreille, and Kootenai people of western Montana, which established boundaries for the tribal nations. While the treaty established what later became the Flathead Indian Reservation, trouble with interpreters and confusion over the terms of the treaty led Whites to believe the Bitterroot Valley was opened to settlement, but the tribal nations disputed those provisions. The first US Army post established in Montana was Camp Cooke in 1866, on the Missouri River, to protect steamboat traffic going to Fort Benton. Major battles occurred in Montana during Red Cloud's War, the Great Sioux War of 1876, and the Nez Perce War and in conflicts with Piegan Blackfeet. The most notable were the Marias Massacre (1870), Battle of the Little Bighorn (1876), Battle of the Big Hole (1877), and Battle of Bear Paw (1877). The last recorded conflict in Montana between the US Army and Native Americans occurred in 1887 during the Battle of Crow Agency in the Big Horn country.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09693877551020408, 0.3877551020408163, 0.15510204081632653, 0.09693877551020408]
+[0.02564102564102564, 0.10416666666666667, 0.0411522633744856, 0.025720164609053495]
+[0.07142857142857142, 0.2857142857142857, 0.1142857142857143, 0.07142857142857142]

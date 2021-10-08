@@ -1,0 +1,15 @@
+Document:
+montana
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Montana's fastest-growing sector is tourism .<n>Nearly 13 million annual tourists visit Glacier National Park .<n>The state has robust recreational lake trout and kokanee salmon fisheries .
+
+GT:
+The western half of Montana contains numerous mountain ranges, while the eastern half is characterized by western prairie terrain and badlands, with more (albeit smaller) mountain ranges found throughout the state. Montana's fastest-growing sector is tourism; nearly 13 million annual tourists visit Glacier National Park, Yellowstone National Park, Beartooth Highway, Flathead Lake, Big Sky Resort, and other attractions. The Absaroka and Beartooth ranges in the state's south-central part are technically part of the Central Rocky Mountains. The Rocky Mountain Front is a significant feature in the state's north-central portion, and isolated island ranges that interrupt the prairie landscape common in the central and eastern parts of the state. Montana's water resources provide for recreation, hydropower, crop and forage irrigation, mining, and water for human consumption. Montana hosts numerous arts and cultural festivals and events every year. Montana provides year-round outdoor recreation opportunities for residents and visitors.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13636363636363635, 0.7241379310344828, 0.22950819672131145, 0.14344262295081966]
+[0.09803921568627451, 0.5357142857142857, 0.16574585635359118, 0.10359116022099446]
+[0.12987012987012986, 0.6896551724137931, 0.21857923497267756, 0.13661202185792348]

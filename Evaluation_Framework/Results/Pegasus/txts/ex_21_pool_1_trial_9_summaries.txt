@@ -1,0 +1,15 @@
+Document:
+oklahoma
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Oklahoma is a state in the South Central region of the United States .<n>The Wichita Mountains are home to black bear, red fox, gray fox, and river otter populations .<n>Of the state's ten largest cities, three are outside the metropolitan areas of Oklahoma City and Tulsa .
+
+GT:
+The state's name is derived from the Choctaw words okla and humma, meaning "red people". It is also known informally by its nickname, "The Sooner State", in reference to the non-Native settlers who staked their claims on land before the official opening date of lands in the western Oklahoma Territory or before the Indian Appropriations Act of 1889, which increased European-American settlement in the eastern Indian Territory. The Oklahoma Mozart Festival in Bartlesville is one of the largest classical music festivals on the southern plains, and Oklahoma City's Festival of the Arts has been named one of the top fine arts festivals in the nation. During a ten-day run in Oklahoma City, the State Fair of Oklahoma attracts roughly one million people along with the annual Festival of the Arts. The Oklahoma City Pride Parade has been held annually in late June since 1987 in the gay district of Oklahoma City on 39th and Penn. The NBA's New Orleans Hornets became the first major league sports franchise based in Oklahoma when the team was forced to relocate to Oklahoma City's Ford Center, now known as Chesapeake Energy Arena, for two seasons following Hurricane Katrina in 2005.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12315270935960591, 0.5102040816326531, 0.19841269841269843, 0.12400793650793653]
+[0.039603960396039604, 0.16666666666666666, 0.064, 0.039999999999999994]
+[0.08374384236453201, 0.3469387755102041, 0.1349206349206349, 0.08432539682539683]

@@ -1,0 +1,15 @@
+Document:
+iowa
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+In the 19th century Iowa was among the earliest states to enact prohibitions against race discrimination .<n>Social and housing discrimination continued against Blacks at state universities until the 1950s .<n>Iowa's schools are credited with the highest graduation rate in the nation as of 2019 .
+
+GT:
+In the 19th century Iowa was among the earliest states to enact prohibitions against race discrimination, especially in education, but was slow to achieve full integration in the 20th century. Iowa was one of the leading states in the high school movement, and continues to be among the top educational performers today. Iowa has 333 school districts, 1,329 school buildings and has the 14th lowest student-to-teacher ratio of 14.2. As of 2015 transportation spending is a significant part of the budgets of rural school districts as many are geographically large and must transport students across vast distances. The Iowa Board of Regents is composed of nine citizen volunteers appointed by the governor to provide policymaking, coordination, and oversight of the state's three public universities, two special K–12 schools, and affiliated centers. The special K–12 schools include the Iowa School for the Deaf in Council Bluffs and the Iowa Braille and Sight Saving School in Vinton.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.18518518518518517, 0.6382978723404256, 0.28708133971291866, 0.17942583732057416]
+[0.10559006211180125, 0.3695652173913043, 0.16425120772946863, 0.10265700483091789]
+[0.16049382716049382, 0.5531914893617021, 0.2488038277511962, 0.15550239234449764]

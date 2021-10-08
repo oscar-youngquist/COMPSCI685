@@ -1,0 +1,15 @@
+Document:
+connecticut
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Half of Connecticut was initially part of the Dutch colony New Netherland .<n>In 1662, the three colonies were merged under a royal charter, making Connecticut a crown colony .<n>Connecticut's official nickname is "The Constitution State"
+
+GT:
+The first European explorer in Connecticut was Dutchman Adriaen Block, who explored the region in 1614. The New Haven Colony had its own constitution called "The Fundamental Agreement of the New Haven Colony", signed on June 4, 1639. Connecticut designated four delegates to the Second Continental Congress who signed the Declaration of Independence: Samuel Huntington, Roger Sherman, William Williams, and Oliver Wolcott. In 1777, the British got word of Continental Army supplies in Danbury, and they landed an expeditionary force of some 2,000 troops in Westport. The state was also the launching site for a number of raids against Long Island orchestrated by Samuel Holden Parsons and Benjamin Tallmadge, and provided men and material for the war effort, especially to Washington's army outside New York City. Connecticut ratified the US Constitution on January 9, 1788, becoming the fifth state. Over the following decade to the doorstep of renewed hostilities with Britain that sparked the War of 1812, Connecticut boatyards constructed close to 1,000 vessels, the most productive stretch of any decade in the 19th century. Connecticut manufacturers played a major role in supplying the Union forces with weapons and supplies during the Civil War. In 1875, the first telephone exchange in the world was established in New Haven. When World War I broke out in 1914, Connecticut became a major supplier of weaponry to the US military; by 1918, 80% of the state's industries were producing goods for the war effort. The state enthusiastically supported the American war effort in 1917 and 1918 with large purchases of war bonds, a further expansion of industry, and an emphasis on increasing food production on the farms. On September 21, 1938, the most destructive storm in New England history struck eastern Connecticut, killing hundreds of people. The advent of lend-lease in support of Britain helped lift Connecticut from the Great Depression, with the state a major production center for weaponry and supplies used in World War II. On May 13, 1940, Igor Sikorsky made an untethered flight of the first practical helicopter. In 1974, Connecticut elected Democratic Governor Ella T. Grasso, who became the first woman in any state to be elected governor without being the wife or widow of a previous governor. On December 14, 2012, Adam Lanza shot and killed 26 people at Sandy Hook Elementary School in Newtown, and then killed himself.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.04785894206549118, 0.5, 0.08735632183908047, 0.05459770114942529]
+[0.005050505050505051, 0.05405405405405406, 0.009237875288683603, 0.005773672055427253]
+[0.037783375314861464, 0.39473684210526316, 0.06896551724137931, 0.04310344827586208]

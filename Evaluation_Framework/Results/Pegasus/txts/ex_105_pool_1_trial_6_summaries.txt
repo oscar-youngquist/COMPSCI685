@@ -1,0 +1,15 @@
+Document:
+vermont
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+The state contains 41 species of reptiles and amphibians, 89 species of fish, of which 12 are non native .<n>The University of Vermont Medical Center is the largest employer in the state .<n>Property taxes are levied by municipalities for the support of education and municipal services .
+
+GT:
+The Vermont Barn Census, organized by a collaboration of educational and nonprofit state and local historic preservation programs, has developed educational and administrative systems for recording the number, condition, and features of barns throughout Vermont. To equitably support education, some towns are required by Act 60 to send some of their collected taxes to be redistributed to school districts lacking adequate support. A political issue has been Act 60, which balances taxation for education funding. This has resulted in the town of Killington trying to secede from Vermont and join New Hampshire due to what the locals say is an unfair tax burden. Most states have a higher bias. In 2017, spending $1.6 billion on education for 76,000 public school children, represents more than $21,000 per student. Vermont has five colleges within the Vermont State Colleges system, University of Vermont (UVM), and thirteen other private, degree-granting colleges, including Bennington College, Champlain College, Goddard College, Marlboro College, Middlebury College, Saint Michael's College, the Vermont Law School, and Norwich University. In 2016, the University of Vermont charged the second highest tuition in the nation for four years, $61,000 for in-state students, to $147,000 for out-of-state students.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12254901960784313, 0.5208333333333334, 0.19841269841269837, 0.12400793650793648]
+[0.029556650246305417, 0.1276595744680851, 0.048, 0.03]
+[0.0784313725490196, 0.3333333333333333, 0.12698412698412698, 0.07936507936507936]

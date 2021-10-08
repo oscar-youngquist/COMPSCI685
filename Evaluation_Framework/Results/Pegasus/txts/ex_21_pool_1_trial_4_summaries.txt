@@ -1,0 +1,15 @@
+Document:
+florida
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Florida is the most populous state in the southeastern United States .<n>The rest of the state, including Miami, receives between 2,800 and 3,200 hours annually .<n>Florida is the third-most diverse state in the union, behind California and Texas .
+
+GT:
+The first European contact was made in 1513 by Spanish explorer Juan Ponce de León, who called it la Florida ([la floˈɾiða] "the land of flowers") upon landing there. Along with Hawaii, Florida is one of only two states that have a tropical climate, and is the only continental state that has both a tropical climate and a coral reef. The Florida Reef is the only living coral barrier reef in the continental United States, and the third-largest coral barrier reef system in the world (after the Great Barrier Reef and Belize Barrier Reef). The Florida Reef is the only living coral barrier reef in the continental United States. It is also the third largest coral barrier reef system in the world, after the Great Barrier Reef and the Belize Barrier Reef. The Walt Disney World Resort is the most visited vacation resort in the world with more than 58 million visitors annually, consisting of four theme parks, 27 themed resort hotels, nine non-Disney hotels, two water parks, four golf courses and other recreational venues. Other major theme parks in the area include Universal Orlando Resort, SeaWorld Orlando and Busch Gardens Tampa. NASCAR (headquartered in Daytona Beach) begins all three of its major auto racing series in Florida at Daytona International Speedway in February, featuring the Daytona 500, and ends all three Series in November at Homestead-Miami Speedway.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1111111111111111, 0.6046511627906976, 0.18772563176895304, 0.11732851985559567]
+[0.034334763948497854, 0.19047619047619047, 0.05818181818181818, 0.03636363636363636]
+[0.0811965811965812, 0.4418604651162791, 0.13718411552346568, 0.08574007220216606]

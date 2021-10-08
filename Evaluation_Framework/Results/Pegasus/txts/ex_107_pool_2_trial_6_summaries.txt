@@ -1,0 +1,15 @@
+Document:
+minnesota
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+With 86,943 square miles (225,180 km2), Minnesota is the 12th-largest state .<n>The state's high point is Eagle Mountain at 2,301 feet (701 m)<n>The state's portion of Lake Superior is the largest at 962,700 acres (389,600 ha)
+
+GT:
+Minnesota experiences temperature extremes characteristic of its continental climate, with cold winters and hot summers. The lowest temperature recorded was −60 °F (−51 °C) at Tower on February 2, 1996, and the highest was 114 °F (46 °C) at Moorhead on July 6, 1936. Meteorological events include rain, snow, blizzards, thunderstorms, hail, derechos, tornadoes, and high-velocity straight-line winds. The growing season varies from 90 days in the far northeast to 160 days in southeast Minnesota near the Mississippi River, and average temperatures range from 37 to 49 °F (3 to 9 °C). Average summer dewpoints range from about 58 °F (14 °C) in the south to about 48 °F (9 °C) in the north. Average annual precipitation ranges from 19 to 35 inches (48 to 89 cm), and droughts occur every 10 to 50 years. Minnesotans have learned to embrace their long, harsh winters in ice sports such as skating, hockey, curling, and broomball, and snow sports such as cross-country skiing, alpine skiing, luge, snowshoeing, and snowmobiling. Many hiking and bike trails are used for cross-country skiing during the winter.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.059782608695652176, 0.23404255319148937, 0.09523809523809525, 0.059523809523809534]
+[0.0, 0.0, 0.0, 0.0]
+[0.03260869565217391, 0.1276595744680851, 0.05194805194805194, 0.032467532467532464]

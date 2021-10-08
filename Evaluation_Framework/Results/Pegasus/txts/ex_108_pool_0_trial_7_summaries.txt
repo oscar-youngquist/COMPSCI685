@@ -1,0 +1,15 @@
+Document:
+new_mexico
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+It is one of the Mountain States and shares the Four Corners region with Utah, Colorado, and Arizona .<n>Due to their geographic locations, northern and eastern New Mexico exhibit a colder, alpine climate .<n>It is the fifth-largest and sixth-least densely populated of the 50 states .
+
+GT:
+Due to their geographic locations, northern and eastern New Mexico exhibit a colder, alpine climate, while western and southern New Mexico exhibit a warmer, arid climate. New Mexico's climate is generally semiarid to arid, though areas of continental and alpine climates exist, and its territory is mostly covered by mountains, high plains, and desert. New Mexico's statewide average precipitation is 12.9 inches (330 mm) a year, with average monthly amounts peaking in the summer, as at Albuquerque, and Las Cruces in the south. The average annual temperatures can range from 65 °F (18 °C) in the southeast to below 40 °F (4 °C) in the northern mountains. During the summer, daytime temperatures can often exceed 100 °F (38 °C) at elevations below 5,000 feet (1,500 m), the average high temperature in July ranges from 99 °F (37 °C) at the lower elevations down to 78 °F (26 °C) at the higher elevations. In the colder months of November to March, many cities in New Mexico can have nighttime temperature lows in the teens above zero, or lower. The highest temperature recorded in New Mexico was 122 °F (50 °C) at the Waste Isolation Pilot Plant (WIPP) near Loving on June 27, 1994, and the lowest recorded temperature is −50 °F (−46 °C) at Gavilan (near Lindrith) on February 1, 1951. Astronomical observatories in New Mexico take advantage of unusually clear skies, including the Apache Point Observatory, the Very Large Array, the Magdalena Ridge Observatory, and others.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11553784860557768, 0.5918367346938775, 0.19333333333333333, 0.12083333333333332]
+[0.056, 0.2916666666666667, 0.09395973154362416, 0.058724832214765106]
+[0.08366533864541832, 0.42857142857142855, 0.13999999999999999, 0.0875]

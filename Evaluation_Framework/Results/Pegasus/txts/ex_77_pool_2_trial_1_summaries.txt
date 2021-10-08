@@ -1,0 +1,15 @@
+Document:
+colorado
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+The "Front Range" includes Denver, Boulder, Fort Collins, Loveland, Castle Rock, Colorado Springs, Pueblo, Greeley, and other townships and municipalities in between.<n>Water flowing out of the Colorado Rocky Mountains is a significant source of water for the farms, towns, and cities of the southwest states of New Mexico, Arizona, Utah, and Nevada, as well as the Midwest, such as Nebraska and Kansas, and the southern states of Oklahoma and Texas.
+
+GT:
+The region has been inhabited by Native Americans for more than 13,000 years, with the Lindenmeier Site containing artifacts dating from approximately 9200 BCE to 1000 BCE; the eastern edge of the Rocky Mountains was a major migration route for early peoples who spread throughout the Americas. The Rocky Mountains within Colorado contain 53 true peaks with a total of 58 that are 14,000 feet (4,267 m) or higher in elevation above sea level, known as fourteeners. Much of the alpine snow melts by mid-August with the exception of a few snow-capped peaks and a few small glaciers. The Western Slope area of Colorado includes the western face of the Rocky Mountains and all of the state to the western border. Just west of the plains and into the foothills, there are a wide variety of climate types. Locations merely a few miles apart can experience entirely different weather depending on the topography.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1518987341772152, 0.3333333333333333, 0.20869565217391306, 0.13043478260869568]
+[0.01910828025477707, 0.04225352112676056, 0.026315789473684213, 0.016447368421052634]
+[0.11392405063291139, 0.25, 0.15652173913043477, 0.09782608695652173]

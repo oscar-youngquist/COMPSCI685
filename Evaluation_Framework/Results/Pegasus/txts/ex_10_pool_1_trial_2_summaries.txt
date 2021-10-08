@@ -1,0 +1,15 @@
+Document:
+mississippi
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+On December 10, 1817, Mississippi became the 20th state admitted to the Union .<n>On January 9, 1861, Mississippi became the second state to declare its secession from the Union .<n>By 1860, Mississippi was the nation's top cotton-producing state and enslaved persons accounted for 55% of the state population .
+
+GT:
+On December 10, 1817, Mississippi became the 20th state admitted to the Union. Mississippi declared its secession from the Union on March 23, 1861, and was one of the seven original Confederate States, which constituted the largest slaveholding states in the nation. Following the Civil War, it was restored to the Union on February 23, 1870. After the Civil War, major floods swept down the valley in 1865, 1867, 1874 and 1882. Flooding overwhelmed northwestern Mississippi in 1912–1913, causing heavy damage to the levee districts. In April 1699, French colonists established the first European settlement at Fort Maurepas (also known as Old Biloxi), built in the vicinity of present-day Ocean Springs on the Gulf Coast. In 1716, the French founded Natchez on the Mississippi River (as Fort Rosalie); it became the dominant town and trading post of the area. After Great Britain's victory in the French and Indian War (Seven Years' War), the French surrendered the Mississippi area to them under the terms of the Treaty of Paris (1763). After the Peace of Paris (1783), the lower third of Mississippi came under Spanish rule as part of West Florida. In 1819 the United States completed the purchase of West Florida and all of East Florida in the Adams–Onís Treaty, and in 1822 both were merged into the Florida Territory. After the American Revolution (1765–83), Britain ceded this area to the new United States of America. The Mississippi Territory was organized on April 7, 1798, from territory ceded by Georgia and South Carolina to the United States. On January 9, 1861, Mississippi became the second state to declare its secession from the Union, and it was one of the founding members of the Confederate States. During Reconstruction, the first Mississippi constitutional convention in 1868, with delegates both black and white, framed a constitution whose major elements would be maintained for 22 years. Under the terms of Reconstruction, Mississippi was restored to the Union on February 23, 1870. On August 17, 1969, Category 5 Hurricane Camille hit the Mississippi coast, killing 248 people and causing US$1.5 billion in damage (1969 dollars).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11484593837535013, 0.7884615384615384, 0.2004889975550122, 0.12530562347188262]
+[0.08426966292134831, 0.5882352941176471, 0.14742014742014742, 0.09213759213759214]
+[0.10084033613445378, 0.6923076923076923, 0.17603911980440098, 0.1100244498777506]

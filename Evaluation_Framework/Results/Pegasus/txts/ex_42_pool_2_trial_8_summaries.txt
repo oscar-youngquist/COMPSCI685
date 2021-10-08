@@ -1,0 +1,15 @@
+Document:
+iowa
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Carter Lake, Iowa, is the only city in the state located west of the Missouri River .<n>Iowa has a humid continental climate throughout the state with extremes of both heat and cold .<n>Daytime temperatures sometimes near 90 F (32 C) and occasionally exceeding 100 F (38 C)
+
+GT:
+Iowa has a humid continental climate throughout the state (Köppen climate classification Dfa) with extremes of both heat and cold. The average annual temperature at Des Moines is 50 °F (10 °C); for some locations in the north, such as Mason City, the figure is about 45 °F (7 °C), while Keokuk, on the Mississippi River, averages 52 °F (11 °C). Snowfall is common, with Des Moines getting about 26 days of snowfall a year, and other places, such as Shenandoah getting about 11 days of snowfall in a year. Spring ushers in the beginning of the severe weather season. Iowa averages about 50 days of thunderstorm activity per year. Iowa summers are known for heat and humidity, with daytime temperatures sometimes near 90 °F (32 °C) and occasionally exceeding 100 °F (38 °C). Average winters in the state have been known to drop well below freezing, even dropping below −18 °F (−28 °C). Iowa's all-time hottest temperature of 118 °F (48 °C) was recorded at Keokuk on July 20, 1934, during a nationwide heat wave; the all-time lowest temperature of −47 °F (−44 °C) was recorded at Washta on January 12, 1912. Iowa has a relatively smooth gradient of varying precipitation across the state, with areas in the southeast of the state receiving an average of over 38 inches (97 cm) of rain annually, and the northwest of the state receiving less than 28 inches (71 cm). The pattern of precipitation across Iowa is seasonal, with more rain falling in the summer months.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16279069767441862, 0.8571428571428571, 0.2736156351791531, 0.1710097719869707]
+[0.12840466926070038, 0.6875, 0.2163934426229508, 0.13524590163934427]
+[0.12015503875968993, 0.6326530612244898, 0.20195439739413681, 0.12622149837133553]

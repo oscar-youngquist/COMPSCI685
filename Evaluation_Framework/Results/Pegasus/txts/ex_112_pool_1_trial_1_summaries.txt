@@ -1,0 +1,15 @@
+Document:
+missouri
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+The University of Missouri System is Missouri's statewide public university system .<n>The flagship institution and largest university in the state is the University of Missouri in Columbia .<n>Lincoln University and Harris–Stowe State University were established in the mid-nineteenth century and are historically black colleges and universities .
+
+GT:
+The Missouri State Board of Education has general authority over all public education in the state of Missouri. It is made up of eight citizens appointed by the governor and confirmed by the Missouri Senatorte. Education is compulsory from ages seven to seventeen. It is required that any parent, guardian, or another person with custody of a child between the ages of seven and seventeen, the compulsory attendance age for the district, must ensure the child is enrolled in and regularly attends public, private, parochial school, home school or a combination of schools for the full term of the school year. Compulsory attendance also ends when children complete sixteen credits in high school. Children in Missouri between the ages of five and seven are not required to be enrolled in school. However, if they are enrolled in a public school, their parent, guardian, or custodian must ensure they regularly attend. Missouri schools are commonly but not exclusively divided into three tiers of primary and secondary education: elementary school, middle school or junior high school and high school. The public school system includes kindergarten to 12th grade. District territories are often complex in structure. In some cases, elementary, middle, and junior high schools of a single district feed into high schools in another district. High school athletics and competitions are governed by the Missouri State High School Activities Association (MSHSAA). Homeschooling is legal in Missouri and is an option to meet the compulsory education requirement. It is neither monitored nor regulated by the state's Department of Elementary and Secondary Education The University of Missouri System is Missouri's statewide public university system. The state funds a $2000, renewable merit-based scholarship, Bright Flight, given to the top three percent of Missouri high school graduates who attend a university in-state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1, 0.5882352941176471, 0.17094017094017097, 0.10683760683760685]
+[0.05016722408026756, 0.3, 0.08595988538681948, 0.05372492836676217]
+[0.06666666666666667, 0.39215686274509803, 0.11396011396011396, 0.07122507122507121]

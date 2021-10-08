@@ -1,0 +1,15 @@
+Document:
+delaware
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Delaware is 96 miles (154 km) long and ranges from 9 miles (14 km) to 35 miles (56 km) across .<n>It is the second-smallest state in the United States after Rhode Island .<n>Dover is the state capital and the second most populous city (38,079)
+
+GT:
+On December 7, 1787, Delaware became the first state to ratify the Constitution of the United States, and has since been known as The First State. Since the turn of the 20th century, Delaware is also a de facto onshore corporate haven, in which by virtue of its corporate laws, the state is the domicile of over 50% of all NYSE-listed business and 60% of the Fortune 500. The only real engagement on Delaware soil was the Battle of Cooch's Bridge, fought on September 3, 1777, at Cooch's Bridge in New Castle County, although there was a minor Loyalist rebellion in 1778. According to a 2013 study by Phoenix Marketing International, Delaware had the ninth-largest number of millionaires per capita in the United States, with a ratio of 6.2 percent. Title 4, chapter 7 of the Delaware Code stipulates that alcoholic liquor be sold only in specifically licensed establishments, and only between 9:00 a.m. and 1:00 a.m. Until 2003, Delaware was among the several states enforcing blue laws and banned the sale of liquor on Sunday. Unlike many states, Delaware's educational system is centralized in a state Superintendent of Education, with local school boards retaining control over taxation and some curriculum decisions. Delaware's sister state in Japan is Miyagi Prefecture. Several ships have been named USDelaware in honor of this state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07327586206896551, 0.3541666666666667, 0.12142857142857143, 0.07589285714285714]
+[0.030303030303030304, 0.14893617021276595, 0.050359712230215826, 0.03147482014388489]
+[0.05603448275862069, 0.2708333333333333, 0.09285714285714285, 0.058035714285714274]

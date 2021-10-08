@@ -1,0 +1,15 @@
+Document:
+wisconsin
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Wisconsin is the 23rd-largest state by total area and the 20th-most populous.<n>The state is one of the nation's leading dairy producers and is known as "America's Dairyland"<n>In 2010 Wisconsin's gross state product was $248.3 billion, making it 21st among US states.
+
+GT:
+Wisconsin does not collect inheritance taxes. There are no toll roads in Wisconsin; highway construction and maintenance are funded in part by motor fuel tax revenues, and the remaining balance is drawn from the State General Fund. Given the large number of lakes and rivers in the state, water recreation is very popular. Wisconsin has no production of oil, gas, or coal. The state has a mandate that ten percent of its electrical energy come from renewable sources by the end of 2015. Madison's suburb, Middleton, was ranked the "Best Place to Live in America" in 2007 by Money Magazine. Drinking has long been considered a significant part of Wisconsin culture, and the state ranks at or near the top of national measures of per-capita alcohol consumption, consumption of alcohol per state, and proportion of drinkers. In Wisconsin, the legal drinking age is 21, except when accompanied by a parent, guardian, or spouse who is at least 21 years old.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1419753086419753, 0.45098039215686275, 0.21596244131455397, 0.13497652582159622]
+[0.012422360248447204, 0.04, 0.01895734597156398, 0.011848341232227486]
+[0.09876543209876543, 0.3137254901960784, 0.15023474178403756, 0.09389671361502347]

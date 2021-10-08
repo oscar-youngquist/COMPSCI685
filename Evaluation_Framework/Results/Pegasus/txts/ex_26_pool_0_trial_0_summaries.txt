@@ -1,0 +1,15 @@
+Document:
+oklahoma
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Oklahoma has the highest enrollment of Native American students in the nation .<n>The state is among the best in pre-kindergarten education .<n>Oklahoma is in the nation's middle percentile in per capita spending on the arts .
+
+GT:
+With an educational system made up of public school districts and independent private institutions, Oklahoma had 638,817 students enrolled in 1,845 public primary, secondary, and vocational schools in 533 school districts as of 2008. Oklahoma has the highest enrollment of Native American students in the nation with 126,078 students in the 2009–10 school year. Oklahoma spent $7,755 for each student in 2008, and was 47th in the nation in expenditures per student, though its growth of total education expenditures between 1992 and 2002 ranked 22nd. The state is among the best in pre-kindergarten education, and the National Institute for Early Education Research rated it first in the United States with regard to standards, quality, and access to pre-kindergarten education in 2004, calling it a model for early childhood schooling. High school dropout rate decreased from 3.1 to 2.5 percent between 2007 and 2008 with Oklahoma ranked among 18 other states with 3 percent or less dropout rate. In 2004, the state ranked 36th in the nation for the relative number of adults with high school diplomas, though at 85.2 percent, it had the highest rate among Southern states. According to a study conducted by the Pell Institute, Oklahoma ranks 48th in college-participation for low-income students. Oklahoma City University School of Law, University of Oklahoma College of Law, and University of Tulsa College of Law are the state's only ABA-accredited institutions. Oklahoma holds eleven public regional universities, including Northeastern State University, the second-oldest institution of higher education west of the Mississippi River, also containing the only College of Optometry in Oklahoma and the largest enrollment of Native American students in the nation by percentage and amount. According to the National Education Association, teachers in Oklahoma had ranked 49th out of the 50 states in terms of teacher pay in 2016. The Oklahoma Legislature had passed a measure a week earlier to raise teacher salaries by $6,100, but it fell short of the $10,000 raise for teachers, $5,000 raise for other school employees, and $200 million increase in extra education funding many had sought. The Cherokee Nation instigated a ten-year plan in 2005 that involved growing new speakers of the Cherokee language from childhood as well as speaking it exclusively at home.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07712082262210797, 0.7692307692307693, 0.14018691588785048, 0.08761682242990654]
+[0.05670103092783505, 0.5789473684210527, 0.10328638497652583, 0.06455399061032864]
+[0.07455012853470437, 0.7435897435897436, 0.1355140186915888, 0.08469626168224301]

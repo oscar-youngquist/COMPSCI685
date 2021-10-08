@@ -1,0 +1,15 @@
+Document:
+iowa
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Iowa derives its name from the Ioway people, one of the many Native American nations whose territory comprised the future state at the time of European colonization .<n>Once admitted to the Union, the state's boundary issues resolved, and most of its land purchased from Natives .<n>The state has a great number of Reformed denominations .
+
+GT:
+In colonial times, Iowa was a part of French Louisiana and Spanish Louisiana; its state flag is patterned after the flag of France. After the Louisiana Purchase, people laid the foundation for an agriculture-based economy in the heart of the Corn Belt. In the latter half of the 20th century, Iowa's agricultural economy made the transition to a diversified economy of advanced manufacturing, processing, financial services, information technology, biotechnology, and green energy production. Iowa is the 26th most extensive in total area and the 30th most populous of the 50 US states. The first American settlers officially moved to Iowa in June 1833. Iowa supported the Union during the Civil War, voting heavily for Abraham Lincoln, though there was an antiwar "Copperhead" movement in the state, caused partially by a drop in crop prices caused by the war. There were no battles in the state, although the Battle of Athens, Missouri, 1861, was fought just across the Des Moines River from Croton, Iowa, and shots from the battle landed in Iowa. Iowa sent large supplies of food to the armies and the eastern cities. Following the Civil War, Iowa's population continued to grow dramatically, from 674,913 people in 1860 to 1,624,615 in 1880. The American Civil War briefly brought higher profits. After bottoming out in the 1980s, Iowa's economy began to become increasingly less dependent on agriculture. By the early 21st century, it was characterized by a mix of manufacturing, biotechnology, finance and insurance services, and government services. The population of Iowa has increased at a faster rate than the US as a whole, and Iowa now has a predominantly urban population. The Iowa Economic Development Authority, created in 2011 has replaced the Iowa Department of Economic Development and its annual reports are a source of economic information.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10491803278688525, 0.5614035087719298, 0.17679558011049723, 0.11049723756906077]
+[0.023026315789473683, 0.125, 0.03888888888888889, 0.024305555555555556]
+[0.06885245901639345, 0.3684210526315789, 0.11602209944751382, 0.07251381215469614]

@@ -1,0 +1,15 @@
+Document:
+iowa
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Iowa was a part of French Louisiana and Spanish Louisiana .<n>On July 4, 1838, the US Congress established the Territory of Iowa .<n>On December 28, 1846, Iowa became the 29th state in the Union .
+
+GT:
+The area of Iowa was claimed for France and remained a French territory until 1763. In 1800, Napoleon Bonaparte took control of Louisiana from Spain in a treaty. After the 1803 Louisiana Purchase, Congress divided the Louisiana Purchase into two parts—the Territory of Orleans and the District of Louisiana, with present-day Iowa falling in the latter. The first American settlers officially moved to Iowa in June 1833. On July 4, 1838, the US Congress established the Territory of Iowa. On December 28, 1846, Iowa became the 29th state in the Union when President James K. Polk signed Iowa's admission bill into law. Iowa supported the Union during the Civil War, voting heavily for Abraham Lincoln, though there was an antiwar "Copperhead" movement in the state, caused partially by a drop in crop prices caused by the war. The Great Depression and World War II accelerated the shift away from smallholder farming to larger farms, and began a trend of urbanization. The farm crisis of the 1980s caused a major recession in Iowa, causing poverty not seen since the Depression.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1813186813186813, 0.9166666666666666, 0.30275229357798167, 0.18922018348623854]
+[0.1270718232044199, 0.6571428571428571, 0.21296296296296297, 0.13310185185185186]
+[0.17032967032967034, 0.8611111111111112, 0.2844036697247706, 0.17775229357798164]

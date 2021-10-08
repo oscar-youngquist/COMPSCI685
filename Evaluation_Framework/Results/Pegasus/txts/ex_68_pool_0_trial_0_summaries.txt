@@ -1,0 +1,15 @@
+Document:
+wisconsin
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+British gradually took over Wisconsin during the French and Indian War .<n>The first permanent settlers, mostly French Canadians, arrived in Wisconsin while it was under British control .<n>A free state from its foundation, Wisconsin became a center of northern abolitionism .
+
+GT:
+Later, between 1000 and 1500 CE, the Mississippian and Oneota cultures built substantial settlements including the fortified village at Aztalan in southeast Wisconsin. The first European to visit what became Wisconsin was probably the French explorer Jean Nicolet. The British gradually took over Wisconsin during the French and Indian War, taking control of Green Bay in 1761 and gaining control of all of Wisconsin in 1763. Wisconsin became a territorial possession of the United States in 1783 after the American Revolutionary War. The Winnebago War of 1827 and the Black Hawk War of 1832 culminated in the forced removal of Native Americans from most parts of the state. The growing population allowed Wisconsin to gain statehood on May 29, 1848, as the 30th state. In a trial stemming from the incident, the Wisconsin Supreme Court ultimately declared the Fugitive Slave Law unconstitutional. The Republican Party, founded on March 20, 1854, by anti-slavery expansion activists in Ripon, Wisconsin, grew to dominate state politics in the aftermath of these events. Beginning in the 1890s, farmers in Wisconsin shifted from wheat to dairy production in order to make more sustainable and profitable use of their land. Between 1901 and 1914, Progressive Republicans in Wisconsin created the nation's first comprehensive statewide primary election system, the first effective workplace injury compensation law, and the first state income tax, making taxation proportional to actual earnings. Later, UW economics professors John R. Commons and Harold Groves helped Wisconsin create the first unemployment compensation program in the United States in 1932. Wisconsin took part in several political extremes in the mid to late 20th century, ranging from the anti-communist crusades of Senatortor Joseph McCarthy in the 1950s to the radical antiwar protests at UW-Madison that culminated in the Sterling Hall bombing in August 1970. The Green Bay Packers are one of the most successful small-market professional sports franchises in the world and have won 13 NFL championships, including the first two AFL-NFL Championship games (Super Bowls I and II), Super Bowl XXXI and Super Bowl XLV.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07267441860465117, 0.5952380952380952, 0.1295336787564767, 0.08095854922279794]
+[0.04081632653061224, 0.34146341463414637, 0.07291666666666666, 0.045572916666666664]
+[0.055232558139534885, 0.4523809523809524, 0.09844559585492228, 0.06152849740932642]

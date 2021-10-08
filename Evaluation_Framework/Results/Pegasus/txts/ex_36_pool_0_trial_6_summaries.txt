@@ -1,0 +1,15 @@
+Document:
+north_carolina
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+North Carolina has 115 public school systems, each of which is overseen by a local school board.<n>Along with its public universities, North Carolina has 58 public community colleges in its community college system.<n>The state maintains a group of protected areas known as the North Carolina State Park System .
+
+GT:
+Elementary and secondary public schools are overseen by the North Carolina Department of Public Instruction. The North Carolina Superintendent of Public Instruction is the secretary of the North Carolina State Board of Education, but the board, rather than the superintendent, holds most of the legal authority for making public education policy. In 2009, the board's chairman also became the "chief executive officer" for the state's school system. North Carolina has 115 public school systems, each of which is overseen by a local school board. A county may have one or more systems within it. In total there are 2,425 public schools in the state, including over 200 charter schools.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2857142857142857, 0.6153846153846154, 0.3902439024390244, 0.24390243902439024]
+[0.1891891891891892, 0.4117647058823529, 0.2592592592592593, 0.16203703703703706]
+[0.1875, 0.40384615384615385, 0.25609756097560976, 0.1600609756097561]

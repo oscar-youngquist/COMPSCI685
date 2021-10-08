@@ -1,0 +1,15 @@
+Document:
+florida
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Florida is the third-most diverse state in the union, behind California and Texas .<n>Tourism makes up one of the largest sectors of the state economy .<n>Florida overall was ranked the 7th best state in America for educating students at all levels by US News & World Report in 2018 .
+
+GT:
+Florida overall was ranked the 7th best state in America for educating students at all levels by US News & World Report in 2018. With an educational system made up of public school districts and independent private institutions, Florida had 2,833,115 students enrolled in 4,269 public primary, secondary, and vocational schools in Florida's 67 regular or seven special school districts as of 2018. Florida's primary and secondary school systems are administered by the Florida Department of Education. School districts are organized within county boundaries. Each school district has an elected Board of Education that sets policy, budget, goals, and approves expenditures. Management is the responsibility of a Superintendent of schools. The Florida Department of Education is required by law to train educators in teaching English for Speakers of Other Languages (ESOL). The State University System of Florida was founded in 1905, and is governed by the Florida Board of Governors. In 2016, Florida charged the second lowest tuition in the nation for four years, $26,000 for in-state students, to $86,000 for out-of-state students.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1978021978021978, 0.7058823529411765, 0.3090128755364807, 0.19313304721030042]
+[0.13812154696132597, 0.5, 0.21645021645021648, 0.13528138528138528]
+[0.12637362637362637, 0.45098039215686275, 0.19742489270386268, 0.12339055793991417]

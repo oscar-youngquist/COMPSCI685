@@ -1,0 +1,15 @@
+Document:
+ohio
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Ohio arose from the lands west of Appalachia that were contested from colonial times through the Northwest Indian Wars of the late 18th century.<n>It was partitioned from the resulting Northwest Territory, which was the first frontier of the new United States, and became the 17th state admitted to the Union on March 1, 1803.<n>The most substantial earthquake in Ohio history was the Anna (Shelby County) earthquake, which occurred on March 9, 1937.
+
+GT:
+The state takes its name from the Ohio River, whose name in turn originated from the Senatorca word ohiːyo', meaning "good river", "great river", or "large creek". Ohio arose from the lands west of Appalachia that were contested from colonial times through the Northwest Indian Wars of the late 18th century. Ohio was the first post-colonial free state admitted to the union, and became one of the earliest and most influential industrial powerhouses in the 20th century; although it has transitioned to a more information and service based economy in the 21st century, Ohio remains an industrial state, ranking seventh in GDP as of 2019, with the third largest manufacturing sector and second largest automobile production. Archeological evidence of spear points of both the Folsom and Clovis types indicate that the Ohio Valley was inhabited by nomadic people as early as 13,000 BC. Between 1,000 and 800 BC, the sedentary Adena culture emerged. The Adena were able to establish "semi-permanent" villages because they domesticated plants, including, sunflowers, and "grew squash and possibly corn"; with hunting and gathering, this cultivation supported more settled, complex villages. Their complex, large and technologically sophisticated earthworks can be found in modern-day Marietta, Newark, and Circleville. They were also a prolific trading society, their trading network spanning a third of the continent.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.21621621621621623, 0.631578947368421, 0.32214765100671144, 0.20134228187919462]
+[0.14479638009049775, 0.4266666666666667, 0.21621621621621623, 0.13513513513513517]
+[0.17117117117117117, 0.5, 0.25503355704697983, 0.1593959731543624]

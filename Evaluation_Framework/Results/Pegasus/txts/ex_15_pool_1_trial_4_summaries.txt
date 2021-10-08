@@ -1,0 +1,15 @@
+Document:
+washington
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+From the Cascade Mountains westward, Western Washington has a mostly Mediterranean Climate .<n>The Olympic Peninsula's western side receives as much as 160 inches (4,100 mm) of precipitation annually .<n>Eastern Washington—the part of the state east of the Cascades—has a relatively dry climate, in distinct contrast to the west side .
+
+GT:
+As described above, Washington's climate varies greatly from west to east. A Mediterranean climate predominates in western Washington, and a much drier semi-arid climate prevails east of the Cascade Range. Major factors determining Washington's climate include the large semi-permanent high pressure and low pressure systems of the north Pacific Ocean, the continental air masses of North America, and the Olympic and Cascade mountains. In the spring and summer, a high pressure anticyclone system dominates the north Pacific Ocean, causing air to spiral out in a clockwise fashion. For Washington, this means prevailing winds from the northwest bring relatively cool air and a predictably dry season. In the autumn and winter, a low-pressure cyclone system takes over in the north Pacific Ocean. The air spiraling inward in a counter-clockwise fashion causes Washington's prevailing winds to come from the southwest, and bring relatively warm and moist air masses and a predictably wet season. The term "Pineapple Express" is used colloquially to describe atmospheric river events, where repeated storm systems are directed by this persistent cyclone from tropical and near-tropical Pacific regions into the Pacific Northwest. Despite western Washington's having a marine climate similar to many coastal cities of Europe, there are exceptions such as the "Big Snow" events of 1880, 1881, 1893, and 1916, and the "deep freeze" winters of 1883–1884, 1915–1916, 1949–1950, and 1955–1956, among others. The Southern Oscillation greatly influences weather during the cold season. During the El Niño phase, the jet stream enters the US farther south through California, therefore late fall and winter are drier than normal with less snowpack. The La Niña phase reinforces the jet stream through the Pacific Northwest, causing Washington to have more rain and snow than average.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11036789297658862, 0.6, 0.18644067796610167, 0.11652542372881354]
+[0.030201342281879196, 0.16666666666666666, 0.05113636363636363, 0.03196022727272727]
+[0.06688963210702341, 0.36363636363636365, 0.11299435028248586, 0.07062146892655367]

@@ -1,0 +1,15 @@
+Document:
+alabama
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Alabama is also known as the "Heart of Dixie" and the "Cotton State"<n>The European-American naming of the Alabama River and state was derived from the Alabama people .<n>Cahaba, now a ghost town, was the first permanent state capital from 1820 to 1825 .
+
+GT:
+With a total of 1,500 miles (2,400 km) of inland waterways, Alabama has among the most of any state. The suggestion that "Alabama" was borrowed from the Choctaw language is unlikely. Some scholars suggest the word comes from the Choctaw alba (meaning "plants" or "weeds") and amo (meaning "to cut", "to trim", or "to gather"). On January 11, 1861, Alabama declared its secession from the Union. After remaining an independent republic for a few days, it joined the Confederate States of America. Although comparatively few battles were fought in the state, Alabama contributed about 120,000 soldiers to the war effort. Areas in Alabama administered by the National Park Service include Horseshoe Bend National Military Park near Alexander City; Little River Canyon National Preserve near Fort Payne; Russell Cave National Monument in Bridgeport; Tuskegee Airmen National Historic Site in Tuskegee; and Tuskegee Institute National Historic Site near Tuskegee. Alabama also contains the Natchez Trace Parkway, the Selma To Montgomery National Historic Trail, and the Trail of Tears National Historic Trail. Mobile is known for having the oldest organized Mardi Gras celebration in the United States, beginning in 1703. In 2018, Mobile's Mardi Gras parade was the state's top event, producing the most tourists with an attendance of 892,811. The top attraction was the US Space & Rocket Center in Huntsville with an attendance of 849,981, followed by the Birmingham Zoo with 543,090.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1092436974789916, 0.5652173913043478, 0.18309859154929578, 0.11443661971830987]
+[0.012658227848101266, 0.06666666666666667, 0.02127659574468085, 0.013297872340425534]
+[0.06722689075630252, 0.34782608695652173, 0.11267605633802817, 0.07042253521126761]

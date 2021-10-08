@@ -1,0 +1,15 @@
+Document:
+illinois
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+The state's European population grew first in the west as the French settled lands near the Mississippi River .<n>Cahokia, the largest regional chiefdom and Urban Center of the Pre-Columbian Mississippian culture, was located near present-day Collinsville .<n>In most years, Illinois is either the first or second state for the highest production of soybeans .
+
+GT:
+"Illinois" is the modern spelling for the early French Catholic missionaries and explorers' name for the Illinois Native Americans, a name that was spelled in many different ways in the early records. American scholars previously thought the name "Illinois" meant "man" or "men" in the Miami-Illinois language, with the original iliniwek transformed via French into Illinois. This etymology is not supported by the Illinois language, as the word for "man" is ireniwa, and plural of "man" is ireniwaki. The name Illiniwek has also been said to mean "tribe of superior men", which is a false etymology. The name "Illinois" derives from the Miami-Illinois verb irenwe·wa—"he speaks the regular way". This was taken into the Ojibwe language, perhaps in the Ottawa dialect, and modified into ilinwe· (pluralized as ilinwe·k). The French borrowed these forms, spelling the /we/ ending as -ois, a transliteration of that sound in the French of that time. The current spelling form, Illinois, began to appear in the early 1670s, when French colonists had settled in the western area.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11931818181818182, 0.3620689655172414, 0.1794871794871795, 0.1121794871794872]
+[0.02857142857142857, 0.08771929824561403, 0.04310344827586207, 0.026939655172413795]
+[0.08522727272727272, 0.25862068965517243, 0.12820512820512822, 0.08012820512820512]

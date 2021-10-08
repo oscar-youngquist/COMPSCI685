@@ -1,0 +1,15 @@
+Document:
+louisiana
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+The total gross state product in 2010 for Louisiana was $213.6 billion, placing it 24th in the nation .<n>Louisiana has more Native American tribes than any other southern state .<n>The state operates a system of 22 state parks, 17 state historic sites and one state preservation area .
+
+GT:
+Louisiana is home to over 40 public and private colleges and universities, including Louisiana State University in Baton Rouge and Tulane University in New Orleans. Louisiana State University is the largest and most comprehensive university in Louisiana. Tulane University is a major private research university and the wealthiest university in Louisiana with an endowment over $1.1 billion. Louisiana's two oldest and largest HBCUs (Historically black colleges and universities) are Southern University in Baton Rouge and Grambling State University in Grambling. The Louisiana Science Education Act is a controversial law passed by the Louisiana Legislature on June 11, 2008, and signed into law by Governor Bobby Jindal on June 25. The act allows public school teachers to use supplemental materials in the science classroom which are critical of established science on such topics as the theory of evolution and global warming. In 2000, of all of the states, Louisiana had the highest percentage of students in private schools. The number of students in enrolled in private schools in Louisiana declined by 9% from circa 2000-2005 until 2014, due to the proliferation of charter schools, the 2008 recession and Hurricane Katrina. Louisiana's school voucher program is known as the Louisiana Scholarship Program. It was available in the New Orleans area beginning in 2008 and in the rest of the state beginning in 2012. In 2013 the number of students using school vouchers to attend private schools was 6,751, and for 2014 it was projected to over 8,800. As per a ruling from Ivan Lemelle, a US district judge, the federal government has the right to review the charter school placements to ensure they do not further racial segregation.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0851063829787234, 0.48, 0.14457831325301204, 0.09036144578313253]
+[0.0071174377224199285, 0.04081632653061224, 0.012121212121212121, 0.007575757575757575]
+[0.04964539007092199, 0.28, 0.08433734939759037, 0.05271084337349398]

@@ -1,0 +1,15 @@
+Document:
+california
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+California's diverse geography ranges from the Pacific Coast in the west to the Sierra Nevada mountain range in the east .<n>Although most of the state has a Mediterranean climate, due to the state's large size the climate ranges from polar to subtropical .<n>California is subject to tsunamis, floods, droughts, Santa Ana winds, wildfires, landslides on steep terrain, and has several volcanoes .
+
+GT:
+Although most of the state has a Mediterranean climate, due to the state's large size the climate ranges from polar to subtropical. The cool California Current offshore often creates summer fog near the coast. Farther inland, there are colder winters and hotter summers. The maritime moderation results in the shoreline summertime temperatures of Los Angeles and San Francisco being the coolest of all major metropolitan areas of the United States and uniquely cool compared to areas on the same latitude in the interior and on the east coast of the North American continent. Even the San Diego shoreline bordering Mexico is cooler in summer than most areas in the contiguous United States. Just a few miles inland, summer temperature extremes are significantly higher, with downtown Los Angeles being several degrees warmer than at the coast. The same microclimate phenomenon is seen in the climate of the Bay Area, where areas sheltered from the sea experience significantly hotter summers than nearby areas closer to the ocean. Northern parts of the state have more rain than the south. California's mountain ranges also influence the climate: some of the rainiest parts of the state are west-facing mountain slopes. Northwestern California has a temperate climate, and the Central Valley has a Mediterranean climate but with greater temperature extremes than the coast. The high mountains, including the Sierra Nevada, have an alpine climate with snow in winter and mild to moderate heat in summer. California's mountains produce rain shadows on the eastern side, creating extensive deserts. The higher elevation deserts of eastern California have hot summers and cold winters, while the low deserts east of the Southern California mountains have hot summers and nearly frostless mild winters. Death Valley, a desert with large expanses below sea level, is considered the hottest location in the world; the highest temperature in the world, 134 °F (56.7 °C), was recorded there on July 10, 1913. The lowest temperature in California was −45 °F (−43 °C) on January 20, 1937 in Boca.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1390532544378698, 0.7230769230769231, 0.23325062034739452, 0.14578163771712155]
+[0.09198813056379822, 0.484375, 0.1546134663341646, 0.09663341645885287]
+[0.08284023668639054, 0.4307692307692308, 0.13895781637717125, 0.08684863523573201]

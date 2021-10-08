@@ -1,0 +1,15 @@
+Document:
+delaware
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+It was one of the 13 colonies participating in the American Revolution.<n>On December 7, 1787, Delaware became the first state to ratify the Constitution of the United States.
+
+GT:
+With the loss of their lands on the Delaware River and the destruction of the Minqua by the Iroquois of the Five Nations in the 1670s, the remnants of the Lenape who wished to remain identified as such left the region and moved over the Alleghany Mountains by the mid-18th century. Only nine years later, in 1664, the Dutch were conquered by a fleet of English ships by Sir Robert Carr under the direction of James, the Duke of York. However, by 1704 the Province of Pennsylvania had grown so large their representatives wanted to make decisions without the assent of the Lower Counties, and the two groups of representatives began meeting on their own, one at Philadelphia, and the other at New Castle. Anticipating the Declaration of Independence, Patriot leaders Thomas McKean and Caesar Rodney convinced the Colonial Assembly to declare itself separated from British and Pennsylvania rule on June 15, 1776. In August 1777 General Sir William Howe led a British army through Delaware on his way to a victory at the Battle of Brandywine and capture of the city of Philadelphia. The only real engagement on Delaware soil was the Battle of Cooch's Bridge, fought on September 3, 1777, at Cooch's Bridge in New Castle County, although there was a minor Loyalist rebellion in 1778. Under slavery law, children took the social status of their mothers, so children born to white women were free, regardless of their paternity, just as children born to enslaved women were born into slavery. When John Dickinson freed his slaves in 1777, he was Delaware's largest slave owner with 37 slaves. By the 1860 census on the verge of the Civil War, 91.7% of the black population were free; 1,798 were slaves, as compared to 19,829 "free colored persons". The United States Census Bureau estimates that the population of Delaware was 973,764 on July 1, 2019, an 8.4% increase since the 2010 United States Census.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.05421686746987952, 0.6, 0.09944751381215469, 0.062154696132596686]
+[0.015105740181268883, 0.1724137931034483, 0.027777777777777776, 0.017361111111111112]
+[0.045180722891566265, 0.5, 0.08287292817679558, 0.05179558011049724]

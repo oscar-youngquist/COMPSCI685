@@ -1,0 +1,15 @@
+Document:
+new_hampshire
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+mills were located along various rivers in the state, especially the Merrimack and Connecticut rivers .<n>The state's budget in FY 2018 was $5.97 billion, including $1.79 billion in federal funds .<n>In 2008 the state tied with Massachusetts as having the highest scores on the SAT and ACT standardized tests given to high school students .
+
+GT:
+The first public high schools in the state were the Boys' High School and the Girls' High School of Portsmouth, established either in 1827 or 1830 depending on the source. New Hampshire has more than 80 public high schools, many of which serve more than one town. The largest is Pinkerton Academy in Derry, which is owned by a private non-profit organization and serves as the public high school of a number of neighboring towns. There are at least 30 private high schools in the state. New Hampshire is also the home of several prestigious university-preparatory schools, such as Phillips Exeter Academy, St. Paul's School, Proctor Academy, Brewster Academy, and Kimball Union Academy. In 2008 the state tied with Massachusetts as having the highest scores on the SAT and ACT standardized tests given to high school students.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.25, 0.5932203389830508, 0.3517587939698492, 0.2198492462311558]
+[0.18705035971223022, 0.4482758620689655, 0.2639593908629442, 0.16497461928934012]
+[0.22857142857142856, 0.5423728813559322, 0.32160804020100503, 0.20100502512562812]

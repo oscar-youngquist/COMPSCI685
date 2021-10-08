@@ -1,0 +1,15 @@
+Document:
+idaho
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+The state's north, the relatively isolated Idaho Panhandle, is closely linked with Eastern Washington .<n>The landscape is rugged with some of the largest unspoiled natural areas in the United States .<n>The state has snow-capped mountain ranges, rapids, vast lakes and steep canyons .
+
+GT:
+Although the state's western border is about 350 miles (560 km) from the Pacific Ocean, the maritime influence is still felt in Idaho, especially in the winter when cloud cover, humidity, and precipitation are at their maximum extent. This influence has a moderating effect in the winter where temperatures are not as low as would otherwise be expected for a northern state with predominantly high elevations. The maritime influence is least prominent in the state's eastern part where the precipitation patterns are often reversed, with wetter summers and drier winters, and seasonal temperature differences are more extreme, showing a more semi-arid continental climate. Idaho can be hot, although extended periods over 98 °F (37 °C) are rare, except for the lowest point in elevation, Lewiston, which correspondingly sees little snow. Hot summer days are tempered by the low relative humidity and cooler evenings during summer months since, for most of the state, the highest diurnal difference in temperature is often in the summer. Winters can be cold, although extended periods of bitter cold weather below zero are unusual. Idaho's all-time highest temperature of 118 °F (48 °C) was recorded at Orofino on July 28, 1934; the all-time lowest temperature of −60 °F (−51 °C) was recorded at Island Park Dam on January 18, 1943.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1, 0.4782608695652174, 0.16541353383458648, 0.10338345864661655]
+[0.0228310502283105, 0.1111111111111111, 0.03787878787878788, 0.023674242424242424]
+[0.06363636363636363, 0.30434782608695654, 0.10526315789473684, 0.06578947368421052]

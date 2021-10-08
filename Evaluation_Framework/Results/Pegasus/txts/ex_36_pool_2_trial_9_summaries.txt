@@ -1,0 +1,15 @@
+Document:
+missouri
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+The Missouri State Board of Education has general authority over all public education in the state of Missouri .<n>The state funds a $2000, renewable merit-based scholarship, Bright Flight, given to the top three percent of Missouri high school graduates who attend a university in-state .
+
+GT:
+The Missouri State Board of Education has general authority over all public education in the state of Missouri. It is made up of eight citizens appointed by the governor and confirmed by the Missouri Senatorte. Education is compulsory from ages seven to seventeen. It is required that any parent, guardian, or another person with custody of a child between the ages of seven and seventeen, the compulsory attendance age for the district, must ensure the child is enrolled in and regularly attends public, private, parochial school, home school or a combination of schools for the full term of the school year. Compulsory attendance also ends when children complete sixteen credits in high school. Children in Missouri between the ages of five and seven are not required to be enrolled in school. However, if they are enrolled in a public school, their parent, guardian, or custodian must ensure they regularly attend. Homeschooling is legal in Missouri and is an option to meet the compulsory education requirement. It is neither monitored nor regulated by the state's Department of Elementary and Secondary Education The state funds a $2000, renewable merit-based scholarship, Bright Flight, given to the top three percent of Missouri high school graduates who attend a university in-state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.22009569377990432, 0.9787234042553191, 0.35937500000000006, 0.22460937500000003]
+[0.21153846153846154, 0.9565217391304348, 0.3464566929133859, 0.21653543307086617]
+[0.22009569377990432, 0.9787234042553191, 0.35937500000000006, 0.22460937500000003]

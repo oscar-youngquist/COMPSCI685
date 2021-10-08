@@ -1,0 +1,15 @@
+Document:
+montana
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Montana was granted statehood in 1889 .<n>Each Indian reservation in the state has a fully accredited tribal college .<n>All of Montana's four-year colleges and universities field intercollegiate sports teams .
+
+GT:
+It mandates that all schools teach American Indian history, culture, and heritage from preschool through college. For kindergarten through 12th-grade students, an "Indian Education for All" curriculum from the Montana Office of Public Instruction is available free to all schools. The state was sued in 2004 because of lack of funding, and the state has increased its support of the program. Another early subscription school was started by Thomas Dimsdale in Virginia City in 1863. In this school students were charged $1.75 per week. The Montana Territorial Legislative Assembly had its inaugural meeting in 1864. The first legislature authorized counties to levy taxes for schools, which set the foundations for public schooling. Madison County was the first to take advantage of the newly authorized taxes and it formed fhe first public school in Virginia City in 1886. The first school year was scheduled to begin in January 1866, but severe weather postponed its opening until March. The first school year ran through the summer and did not end until August 17.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08092485549132948, 0.42424242424242425, 0.13592233009708737, 0.08495145631067962]
+[0.011627906976744186, 0.0625, 0.019607843137254905, 0.012254901960784315]
+[0.057803468208092484, 0.30303030303030304, 0.0970873786407767, 0.06067961165048543]

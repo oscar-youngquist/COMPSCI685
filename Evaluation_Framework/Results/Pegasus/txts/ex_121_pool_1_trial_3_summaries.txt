@@ -1,0 +1,15 @@
+Document:
+arizona
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Northern Arizona features forests of pine, Douglas fir, and spruce trees .<n>Due to its large area and variations in elevation, the state has a wide variety of localized climate conditions .<n>In the lower elevations, the climate is primarily desert, with mild winters and extremely hot summers .
+
+GT:
+Due to its large area and variations in elevation, the state has a wide variety of localized climate conditions. In the lower elevations, the climate is primarily desert, with mild winters and extremely hot summers. Typically, from late fall to early spring, the weather is mild, averaging a minimum of 60 °F (16 °C). November through February are the coldest months, with temperatures typically ranging from 40 to 75 °F (4 to 24 °C), with occasional frosts. About midway through February, the temperatures start to rise, with warm days, and cool, breezy nights. The summer months of June through September bring a dry heat from 90 to 120 °F (32 to 49 °C), with occasional high temperatures exceeding 125 °F (52 °C) having been observed in the desert area. Due to the primarily dry climate, large diurnal temperature variations occur in less-developed areas of the desert above 2,500 ft (760 m). Arizona has an average annual rainfall of 12.7 in (323 mm), which comes during two rainy seasons, with cold fronts coming from the Pacific Ocean during the winter and a monsoon in the summer. The monsoon season occurs toward the end of summer. In July or August, the dewpoint rises dramatically for a brief period. Arizona's northern third is a plateau at significantly higher altitudes than the lower desert, and has an appreciably cooler climate, with cold winters and mild summers, though the climate remains semiarid to arid. Indicative of the variation in climate, Arizona is the state which has both the metropolitan area with the most days over 100 °F (38 °C) (Phoenix), and the metropolitan area in the lower 48 states with the most days with a low temperature below freezing (Flagstaff).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13494809688581316, 0.8125, 0.23145400593471813, 0.14465875370919884]
+[0.11458333333333333, 0.7021276595744681, 0.1970149253731343, 0.12313432835820895]
+[0.12110726643598616, 0.7291666666666666, 0.20771513353115725, 0.1298219584569733]

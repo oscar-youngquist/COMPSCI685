@@ -1,0 +1,15 @@
+Document:
+mississippi
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Jackson is the state's capital and largest city .<n>Mississippi has one of the richest fish faunas in the United States .<n>The state was still occupied as ancestral land by several Native American tribes .
+
+GT:
+Jackson is both the state's capital and largest city. Greater Jackson is the state's most populous metropolitan area, with an estimated population of 580,166 in 2018. Major lakes include Ross Barnett Reservoir, Arkabutla, Sardis, and Grenada, with the largest being Sardis Lake. Gambling towns in Mississippi have attracted increased tourism: they include the Gulf Coast resort towns of Bay St. Louis, Gulfport and Biloxi, and the Mississippi River towns of Tunica (the third largest gaming area in the United States), Greenville, Vicksburg and Natchez. Jackson established the USA International Ballet Competition, which is held every four years. The Magnolia Independent Film Festival, still held annually in Starkville, is the first and oldest in the state. George Ohr, known as the "Mad Potter of Biloxi" and the father of abstract expressionism in pottery, lived and worked in Biloxi, MS. The state is creating a Mississippi Blues Trail, with dedicated markers explaining historic sites significant to the history of blues music, such as Clarksdale's Riverside Hotel, where Bessie Smith died after her auto accident on Highway 61.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11173184357541899, 0.5555555555555556, 0.18604651162790697, 0.11627906976744186]
+[0.06741573033707865, 0.34285714285714286, 0.11267605633802816, 0.07042253521126761]
+[0.10614525139664804, 0.5277777777777778, 0.17674418604651165, 0.1104651162790698]

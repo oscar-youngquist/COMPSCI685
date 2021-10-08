@@ -1,0 +1,15 @@
+Document:
+arizona
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Northern Arizona features forests of pine, Douglas fir, and spruce trees .<n>The state is less well known for its pine-covered north-central portion of the high country of the Colorado Plateau .<n>Grand Canyon National Park is one of the world's seven natural wonders .
+
+GT:
+Dude ranches, such as the K L Bar and Remuda in Wickenburg, along with the Flying V and Tanque Verde in Tucson, gave tourists the chance to take part in the flavor and activities of the "Old West". They include the Arizona Biltmore Hotel in central Phoenix (opened 1929) and the Wigwam Resort on the west side of the Phoenix area (opened 1936). It is sited at the base of the San Francisco Peaks, the highest mountain range in the state of Arizona, which contain Humphreys Peak, the highest point in Arizona at 12,633 feet (3,851 m). Flagstaff has a strong tourism sector, due to its proximity to numerous tourist attractions including: Grand Canyon National Park, Sedona, and Oak Creek Canyon. Historic US Route 66 is the main east–west street in the town. Lake Havasu City has a population of about 53,000 people. It is famous for huge spring break parties, sunsets and the London Bridge, relocated from London, England.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12195121951219512, 0.425531914893617, 0.1895734597156398, 0.11848341232227487]
+[0.04294478527607362, 0.15217391304347827, 0.06698564593301436, 0.041866028708133975]
+[0.09146341463414634, 0.3191489361702128, 0.14218009478672988, 0.08886255924170616]

@@ -1,0 +1,15 @@
+Document:
+mississippi
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Mississippi's highest point is Woodall Mountain at 807 feet (246 m) above sea level .<n>Major rivers in Mississippi include the Big Black River, the Pearl River, the Yazoo River, the Pascagoula River, and the Tombigbee River .<n>Mississippi has one of the richest fish faunas in the United States, with 204 native fish species .
+
+GT:
+Areas under the management of the National Park Service include: Gambling towns in Mississippi have attracted increased tourism: they include the Gulf Coast resort towns of Bay St. Louis, Gulfport and Biloxi, and the Mississippi River towns of Tunica (the third largest gaming area in the United States), Greenville, Vicksburg and Natchez. Jackson established the USA International Ballet Competition, which is held every four years. The Magnolia Independent Film Festival, still held annually in Starkville, is the first and oldest in the state. The state is creating a Mississippi Blues Trail, with dedicated markers explaining historic sites significant to the history of blues music, such as Clarksdale's Riverside Hotel, where Bessie Smith died after her auto accident on Highway 61. The Riverside Hotel is just one of many historical blues sites in Clarksdale. The Delta Blues Museum there is visited by tourists from all over the world. Close by is "Ground Zero", a contemporary blues club and restaurant co-owned by actor Morgan Freeman.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13333333333333333, 0.39285714285714285, 0.19909502262443438, 0.12443438914027147]
+[0.04878048780487805, 0.14545454545454545, 0.07305936073059362, 0.04566210045662101]
+[0.09090909090909091, 0.26785714285714285, 0.13574660633484165, 0.08484162895927604]

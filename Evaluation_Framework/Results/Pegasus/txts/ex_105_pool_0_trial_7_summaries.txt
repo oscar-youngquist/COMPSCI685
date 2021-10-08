@@ -1,0 +1,15 @@
+Document:
+maine
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+The state of Maine also has three Constitutional Officers (the Secretary of State, the State Treasurer, and the State Attorney General) and one Statutory Officer (the State Auditor)
+
+GT:
+There are thirty institutions of higher learning in Maine. These institutions include the University of Maine, which is the oldest, largest and only research university in the state. UMaine was founded in 1865 and is the state's only land grant and sea grant college. Maine's per-student public expenditure for elementary and secondary schools was 21st in the nation in 2012, at $12,344. The collegiate system of Maine also includes numerous baccalaureate colleges such as: the Maine Maritime Academy (MMA), Unity College, and Thomas College. There is only one medical school in the state, (University of New England's College of Osteopathic Medicine) and only one law school (The University of Maine School of Law). Private schools in Maine are funded independently of the state and its furthered domains. Private schools are less common than public schools. A large number of private elementary schools with under 20 students exist, but most private high schools in Maine can be described as "semi-private".
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09696969696969697, 0.5714285714285714, 0.16580310880829016, 0.10362694300518135]
+[0.036585365853658534, 0.2222222222222222, 0.06282722513089005, 0.03926701570680629]
+[0.08484848484848485, 0.5, 0.1450777202072539, 0.09067357512953368]

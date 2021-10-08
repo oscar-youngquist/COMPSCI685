@@ -1,0 +1,15 @@
+Document:
+texas
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Texas shares borders with the states of Louisiana to the east, Arkansas to the northeast, Oklahoma to the north, New Mexico to the west, and the Mexican states of Chihuahua, Coahuila, Nuevo Len, and Tamaulipas to the south and southwest .<n>Houston is the most populous city in Texas and the fourth largest in the US .<n>The state has three cities with populations exceeding one million: Houston, San Antonio, and Dallas .
+
+GT:
+It is the second largest US state by both area (after Alaska) and population (after California). The term "six flags over Texas" refers to several nations that have ruled over the territory. Spain was the first European country to claim and control the area of Texas. France held a short-lived colony. Mexico controlled the territory until 1836 when Texas won its independence, becoming the Republic of Texas. The name Texas, based on the Caddo word táyshaʼ (/tʼajʃaʔ/) "friend", was applied, in the spelling Tejas or Texas, by the Spanish to the Caddo themselves, specifically the Hasinai Confederacy, the final -s representing the Spanish plural.The Mission San Francisco de los Tejas was completed near the Hasinai village of Nabedaches in May 1690, in what is now Houston County, East Texas. Though 10% larger than France and almost twice as large as Germany or Japan and more than twice the size of the United Kingdom, it ranks only 27th worldwide amongst country subdivisions by size. With 10 climatic regions, 14 soil regions and 11 distinct ecological regions, regional classification becomes problematic with differences in soils, topography, geology, rainfall, and plant and animal communities. One classification system divides Texas, in order from southeast to west, into the following: Gulf Coastal Plains, Interior Lowlands, Great Plains, and Basin and Range Province. Texas is the southernmost part of the Great Plains, which ends in the south against the folded Sierra Madre Occidental of Mexico. If Texas were its own country it would be the sixth largest oil producer in the world according to a 2014 study. The state is a leader in renewable energy commercialization; it produces the most wind power in the nation. Many high-tech companies are located in or have their headquarters in Texas (and Austin in particular), including Dell, Inc., Borland, Forcepoint, Indeed.com, Texas Instruments, Perot Systems, Rackspace and AT&T. "Texas-sized" is an expression that can be used in two ways: to describe something that is about the size of the US state of Texas, or to describe something (usually but not always originating from Texas) that is large compared to other objects of its type.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12121212121212122, 0.6111111111111112, 0.20229885057471267, 0.12643678160919541]
+[0.027624309392265192, 0.14084507042253522, 0.04618937644341801, 0.028868360277136254]
+[0.07713498622589532, 0.3888888888888889, 0.12873563218390804, 0.08045977011494253]

@@ -1,0 +1,15 @@
+Document:
+massachusetts
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Originally dependent on agriculture, fishing and trade, Massachusetts was transformed into a manufacturing center during the Industrial Revolution.<n>In 1820, Maine separated from Massachusetts and entered the Union as the 23rd state as a result of the ratification of the Missouri Compromise.<n>In 2004, Massachusetts became the first state to allow same-sex marriage.
+
+GT:
+Plymouth was the site of the second colony in New England after Popham Colony in 1607 in what is now Maine. Plymouth was founded in 1620 by the Pilgrims, passengers of the Mayflower. In 1692, the town of Salem and surrounding areas experienced one of America's most infamous cases of mass hysteria, the Salem witch trials. In 1777, General Henry Knox founded the Springfield Armory, which during the Industrial Revolution catalyzed numerous important technological advances, including interchangeable parts. In 1786, Shays' Rebellion, a populist revolt led by disaffected American Revolutionary War veterans, influenced the United States Constitutional Convention. In the 18th century, the Protestant First Great Awakening, which swept Britain and the Thirteen Colonies, originated from the pulpit of Northampton preacher Jonathan Edwards. In the late 18th century, Boston became known as the "Cradle of Liberty" for the agitation there that later led to the American Revolution. The entire Commonwealth of Massachusetts has played a powerful scientific, commercial, and cultural role in the history of the United States. Before the American Civil War, Massachusetts was a center for the abolitionist, temperance, and transcendentalist movements. In the late 19th century, the sports of basketball and volleyball were invented in the western Massachusetts cities of Springfield and Holyoke, respectively. In 2004, Massachusetts became the first US state to legally recognize same-sex marriage as a result of the Massachusetts Supreme Judicial Court's decision in Goodridge v. Department of Public Health.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15416666666666667, 0.6607142857142857, 0.25, 0.15625]
+[0.07531380753138076, 0.32727272727272727, 0.12244897959183675, 0.07653061224489796]
+[0.1125, 0.48214285714285715, 0.18243243243243243, 0.11402027027027027]

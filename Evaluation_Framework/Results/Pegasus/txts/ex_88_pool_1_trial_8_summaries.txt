@@ -1,0 +1,15 @@
+Document:
+indiana
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+On May 7, 1800, the United States Congress passed legislation to divide the Northwest Territory into two areas and named the western section the Indiana Territory.<n>In 1816, when Congress passed an Enabling Act to begin the process of establishing statehood for Indiana, a part of this territorial land became the geographic area for the new state.
+
+GT:
+Indiana was admitted to the United States as the 19th state on December 11, 1816. Mississippian civilization collapsed in Indiana during the mid-15th century for reasons that remain unclear. In 1679, French explorer René-Robert Cavelier, Sieur de La Salle was the first European to cross into Indiana after reaching present-day South Bend at the Saint Joseph River. By 1702, Sieur Juchereau established the first trading post near Vincennes. Clark's army won significant battles and took over Vincennes and Fort Sackville on February 25, 1779. Jonathan Jennings was elected the fledgling state's first governor in August 1816. On December 8, 1964, a Convair B-58 carrying nuclear weapons slid off an icy runway on Bunker Hill Air Force Base in Bunker Hill, Indiana and caught fire during a training drill.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17164179104477612, 0.39655172413793105, 0.23958333333333334, 0.14973958333333334]
+[0.015037593984962405, 0.03508771929824561, 0.021052631578947368, 0.013157894736842105]
+[0.08955223880597014, 0.20689655172413793, 0.125, 0.07812499999999999]

@@ -1,0 +1,15 @@
+Document:
+south_dakota
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Average annual precipitation in South Dakota ranges from semi-arid conditions in the northwestern part of the state (around 15 inches or 380 mm) to semi-humid around the southeast portion of the state (around 25 inches or 640 mm)<n>Government spending is another important segment of the state's economy, providing over ten percent of the gross state product.
+
+GT:
+Contemporary political issues in South Dakota include the costs and benefits of the state lottery, South Dakota's relatively low rankings in education spending (particularly teacher pay—recently the State Sales Tax was increased from 4% to 4.5% to finance an increase in teacher pay), and recent legislative and electoral attempts to ban abortion in the state. As of 2006, South Dakota has a total primary and secondary school enrollment of 136,872, with 120,278 of these students being educated in the public school system. There are 703 public schools in 168 school districts, giving South Dakota the highest number of schools per capita in the United States. The current high school graduation rate is 89.9%, and the average ACT score is 21.8, slightly above the national average of 21.1. 89.8% of the adult population has earned at least a high school diploma, and 25.8% has earned a bachelor's degree or higher. South Dakota's 2008 average public school teacher salary of $36,674 was the lowest in the nation (national average was $52,308). In 2007 South Dakota passed legislation modeled after Montana's Indian Education for All Act (1999), mandating education about Native American tribal history, culture, and heritage in all the schools, from pre-school through college, in an effort to increase knowledge and appreciation about Indian culture among all residents of the state, as well as to reinforce Indian students' understanding of their own cultures' contributions.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10483870967741936, 0.4262295081967213, 0.16828478964401297, 0.10517799352750809]
+[0.03643724696356275, 0.15, 0.05863192182410424, 0.03664495114006515]
+[0.08064516129032258, 0.32786885245901637, 0.12944983818770228, 0.08090614886731391]
