@@ -208,7 +208,7 @@ class ExperimentRunner:
     ###
     #    Function called in experiment scripts to kick off model analysis 
     ### 
-    def get_model_analysis(self, model, num_trials, display_results, model_name, exp_folder=None, multi_processing=True):
+    def get_model_analysis(self, model, num_trials, save_results, model_name, exp_folder=None, multi_processing=True):
         # get the current working directory 
         dir_path = os.path.dirname(os.path.realpath(__file__))
         
@@ -259,7 +259,7 @@ class ExperimentRunner:
                 outfile.close()
 
             # display trail results if appropriate
-            if (display_results):
+            if (save_results):
                 avg_results = np.mean(ex_scores, axis=0)
                 logging.info("*********************** trial num: %d *************************" % i)
                 logging.info("\nAverage p, r, f1, and f2 scores")
