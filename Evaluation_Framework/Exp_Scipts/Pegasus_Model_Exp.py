@@ -12,6 +12,9 @@ sys.path.append(parentdir)
 # load the experiment runner module
 from ExperimentRunner import ExperimentRunner
 
+##############
+### TODO #####
+##############
 # import your own models here
 from Models.Pegasus_Model import Pegasus_Base
 
@@ -32,6 +35,10 @@ if not exists(join(cwd, "Logs/")):
     os.makedirs(join(cwd, "Logs/"))
 
 # define the file for the logging object
+
+##############
+### TODO #####
+##############
 # TODO: add your own log file name
 log_file = join(cwd, "Logs/", "Pegasus.log")
 
@@ -50,6 +57,10 @@ root.addHandler(file_handler)
 # add the exception logging behavior to the logger
 # sys.excepthook = exceptionhook
 
+
+##############
+### TODO #####
+##############
 # variables for experiment
 num_examples = 5                                                                                        # number of user-summaries used as examples
 num_test = 3                                                                                            # number of user-summaries used for testing
@@ -68,9 +79,13 @@ exp_folder = ""                                                                 
 exp_runner = ExperimentRunner(num_examples, num_test, users_path, data_path, min_range, max_range)
 
 # create the model(s) you are going to evaluate
-#     data_path, shared_docs_path, num_examples, max_solvs=50, length_modifier=0.25
+#     data_path, shared_docs_path, num_examples
 pegasus_model = Pegasus_Base(data_path, shared_docs_path, num_examples)
 
 # perform the actual experiment
-#     model, num_trials, display_results, model_name, exp_folder=None, multi_processing=True
+#   Could loop over several models/params. In Models, can 
+#   define extra params for stuff as needed and then instantiate
+#   as needed.                                                                   
+#
+#     model, num_trials, save_results (print results to log file), model_name, exp_folder=None, multi_processing=True // artifcact, huggingface API does not allow for multi-processing
 exp_runner.get_model_analysis(pegasus_model, num_trials, True, model_name, multi_processing=False)
