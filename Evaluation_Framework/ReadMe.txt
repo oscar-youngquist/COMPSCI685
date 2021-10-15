@@ -1,5 +1,7 @@
 The Exp_Scripts folder contains python scripts for performing experiments using this framework. See the existing script for the baseline Pegasus model to see how they are constructed.
 
+To get a feel for the overall construction of this code, start by reading the example experiment .py script in here. 
+
 The Logs folder contains the log-files that are produced when running an experiment. Note, this exists so that running an experiment script can be pushed to the background to free up your terminal. 
 
 (Note, the current Pegasus logfile is incomplete. This is because when I copied everything from my SuDocu directory to this one I had to test if everything still worked. So I killed that experiment early)
@@ -16,3 +18,4 @@ utils contains utility code/files.
 The ExperimentRunner.py python file contains the actual "control" logic for performing evaluations. It saves off Rouge-Scores for every predicted summary, as well as the same results clustered by summary intent. 
 Additionally, ~10% of the predicted summaries are saved off (along with the GT and the rouge scores) as txt files. 
 
+Note, feel free to change any part of this code if you feel like it would make it better. No need to ask, just go for it, but add a fairly detailed commit message please. I have tried to make this a fairly efficient evaluation pipeline but I know there is probably a bunch of stuff that could be done better. So if you notice anything like that and it bothers you feel free lol. Thanks!

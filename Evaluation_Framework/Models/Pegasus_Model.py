@@ -9,6 +9,8 @@ from transformers import PegasusTokenizer, PegasusForConditionalGeneration
 
 class Pegasus_Base(Model):
 
+    # constructor (obviously). Of course you can add anyother necessary nonsense as params
+    #    and pass them in accordingly from the Exp/script.
     def __init__(self, data_path, shared_docs_path, num_examples):
         super().__init__(data_path, shared_docs_path, num_examples)
         self.df = pd.read_csv(self.data_path)
@@ -20,14 +22,22 @@ class Pegasus_Base(Model):
     # override abstract method
     def get_predicted_summary(self, target_doc, example_summaires, processed_ctr):
 
-        avg_len, avg_word_len = self.get_avg_example_length(example_summaires)
+        # get the average length of the example in terms of 1) sentences and 2) words (tokens via nltk word_tokenize)
+        avg_len, avg_token_len = self.get_avg_example_length(example_summaires)
 
         # use SBERT to get the most similar sentences to the target document: 2* the average length of the example summaries
+        #     this is done as an initial pruning step and is something I have seen done a few times for long-passage abstractive summarization.
+        #     If we are worried we can dig up some citations to justify if we want. 
         filtered_sentence_ids = self.filter_obj.nearest_neighbor_bert_summary_filtering(example_summaries=example_summaires, test_doc=target_doc, top_k=int(2*avg_len))
+        
+        # get the actual (in order) sentences from the target document
         target_doc_sentences = self.get_sentences(filtered_sentence_ids, target_doc)
+        
+        # this is all (literally) boiler plate copied and pasted from hugging face. Hopefully everything huggingface should be ~relatively~ this easy. 
         inputs = self.tokenizer([target_doc_sentences], max_length=1024, truncation=True, return_tensors='pt').to('cuda')
-        summary_ids = self.model.generate(inputs['input_ids'], max_length=int(avg_word_len), early_stopping=True)
+        summary_ids = self.model.generate(inputs['input_ids'], max_length=int(avg_token_len), early_stopping=True)
         sentences = [self.tokenizer.decode(g, skip_special_tokens=True, clean_up_tokenization_spaces=False) for g in summary_ids]       
+        
         prediction = " ".join(sentences)
         # print(prediction)
         return prediction
@@ -58,4 +68,5 @@ class Pegasus_Base(Model):
         return (avg_sentence_len, avg_word_len)
     
     def get_sentences(self, sentence_ids, target_doc):
+        # we need to actually retrieve the literal text sentences
         return " ".join(self.df[(self.df['name'] == target_doc) & (self.df['sid'].isin(sentence_ids))]['sentence'].tolist())
