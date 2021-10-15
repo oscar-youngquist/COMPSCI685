@@ -30,7 +30,7 @@ class UserDataReader:
             sample_num = int(res[0])
             
             if "userInput" in file_name and sample_num >= min_range and sample_num < max_range:
-                userdata.append(self.load_file(path+file_name))
+                userdata.append(self.load_file(join(path, file_name)))
         
         userdata_json = []
         for userInput in userdata:

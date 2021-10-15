@@ -1,0 +1,15 @@
+Document:
+iowa
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Iowa ( (listen)) is a state in the Midwestern United States, bordered by the Mississippi River to the east and the Missouri River and Big Sioux River to the west. It is bordered by six states: Wisconsin to the northeast, Illinois to the east and southeast, Missouri to the south, Nebraska to the west, South Dakota to the northwest, and Minnesota to the north. In colonial times, Iowa was a part of French Louisiana and Spanish Louisiana; its state flag is patterned after the flag of France. After the Louisiana Purchase, people laid the foundation for an agriculture-based economy in the heart of the Corn Belt. In the latter half of the 20th century, Iowa's agricultural economy made the transition to a diversified economy of advanced manufacturing, processing, financial services, information technology, biotechnology, and green energy production. Iowa is the 26th most extensive in total area and the 30th most populous of the 50 US states.
+
+GT:
+The Clint Eastwood movie The Bridges of Madison County, based on the popular novel of the same name, took place and was filmed in Madison County. What's Eating Gilbert Grape, based on the Peter Hedges novel of the same name, is set in the fictional Iowa town of Endora. In football, Iowa State University and the University of Iowa compete in the Football Bowl Subdivision (FBS), whereas the University of Northern Iowa and Drake University compete in the Football Championship Subdivision (FCS). In NCAA FBS, the University of Iowa Hawkeyes play in the Big Ten Conference and the Iowa State University Cyclones compete in the Big 12 Conference. Des Moines is home to the Iowa Wild, who are affiliated with the Minnesota Wild and are members of the American Hockey League. The Iowa Speedway oval track has hosted auto racing championships such as the IndyCar Series, NASCAR Nationwide Series and NASCAR Truck Series since 2006.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3269230769230769, 0.3248407643312102, 0.3258785942492013, 0.2036741214057508]
+[0.05806451612903226, 0.057692307692307696, 0.057877813504823156, 0.036173633440514476]
+[0.1858974358974359, 0.18471337579617833, 0.18530351437699683, 0.11581469648562301]

@@ -1,0 +1,15 @@
+Document:
+hawaii
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Hawaii ( (listen) hə-WY-ee It is the only state outside North America, the only island state, and the only state in the tropics. Hawaii is also one of a handful of US states to have once been an independent nation. Hawaii encompasses nearly the entire Hawaiian archipelago, composed of 137 volcanic islands spanning 1,500 miles (2,400 km), which are physiographically and ethnologically part of the Polynesian subregion of Oceania. The state's ocean coastline is consequently the fourth longest in the US, at about 750 miles (1,210 km). The eight main islands, from northwest to southeast, are Niʻihau, Kauaʻi, Oʻahu, Molokaʻi, Lānaʻi, Kahoʻolawe, Maui, and Hawaiʻi, after which the state is named; it is often called the "Big Island" or "Hawaii Island" to avoid confusion with the state or archipelago. The uninhabited Northwestern Hawaiian Islands make up most of the Papahānaumokuākea Marine National Monument, the largest protected area in the US and the third largest in the world.
+
+GT:
+Hawaiʻi was admitted as a US state on August 21, 1959. The 1778 arrival of British explorer Captain James Cook marked the first documented contact by a European explorer with Hawaiʻi. After negotiations in June 1897, Secretary of State John Sherman agreed to a treaty of annexation with these representatives of the Republic of Hawaiʻi. In 1900, Hawaiʻi was granted self-governance and retained ʻIolani Palace as the territorial capitol building. Oʻahu was the target of a surprise attack on Pearl Harbor by Imperial Japan on December 7, 1941. In March 1959, Congress passed the Hawaiʻi Admissions Act, which US President Dwight D. Eisenhower signed into law.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2831858407079646, 0.18604651162790697, 0.22456140350877193, 0.14035087719298245]
+[0.05357142857142857, 0.03508771929824561, 0.04240282685512367, 0.026501766784452294]
+[0.17699115044247787, 0.11627906976744186, 0.14035087719298248, 0.08771929824561404]

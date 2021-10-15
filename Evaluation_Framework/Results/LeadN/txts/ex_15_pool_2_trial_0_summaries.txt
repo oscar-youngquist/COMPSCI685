@@ -1,0 +1,15 @@
+Document:
+missouri
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Missouri is a state in the Midwestern United States. With more than six million residents, it is the 18th-most populous state of the country. The largest urban areas are St. Louis, Kansas City, Springfield and Columbia; the capital is Jefferson City. The state is the 21st-most extensive in area. Missouri is bordered by eight states (tied for the most with Tennessee): Iowa to the north, Illinois, Kentucky and Tennessee (via the Mississippi River) to the east, Arkansas to the south and Oklahoma, Kansas and Nebraska to the west. In the south are the Ozarks, a forested highland, providing timber, minerals, and recreation. The Missouri River, after which the state is named, flows through the center of the state into the Mississippi River, which makes up Missouri's eastern border. Humans have inhabited the land now known as Missouri for at least 12,000 years. The Mississippian culture built cities and mounds, before declining in the 14th century. When European explorers arrived in the 17th century, they encountered the Osage and Missouria nations. The French established Louisiana, a part of New France, founding Ste. Genevieve in 1735 and St. Louis in 1764. After a brief period of Spanish rule, the United States acquired the Louisiana Purchase in 1803. Americans from the Upland South, including enslaved African Americans, rushed into the new Missouri Territory. Missouri was admitted as a slave state as part of the Missouri Compromise.
+
+GT:
+Missouri generally has a humid continental climate with cool, sometimes cold, winters and hot, humid, and wet summers. In the southern part of the state, particularly in the Bootheel, the climate becomes humid subtropical. Located in the interior United States, Missouri often experiences extreme temperatures. Without high mountains or oceans nearby to moderate temperature, its climate is alternately influenced by air from the cold Arctic and the hot and humid Gulf of Mexico. Missouri's highest recorded temperature is 118 °F (48 °C) at Warsaw and Union on July 14, 1954, while the lowest recorded temperature is −40 °F (−40 °C) also at Warsaw on February 13, 1905. Located in Tornado Alley, Missouri also receives extreme weather in the form of severe thunderstorms and tornadoes.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.328, 0.1729957805907173, 0.22651933701657462, 0.14157458563535913]
+[0.08064516129032258, 0.0423728813559322, 0.05555555555555555, 0.03472222222222222]
+[0.216, 0.11392405063291139, 0.14917127071823202, 0.09323204419889503]

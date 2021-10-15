@@ -1,0 +1,15 @@
+Document:
+ohio
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Ohio (listen) is a state in the East North Central region of the Midwestern United States. Of the fifty states, it is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated. The state's capital and largest city is Columbus, with the Columbus metro area, Greater Cincinnati, and Greater Cleveland being the largest metropolitan areas. Ohio is bordered by Lake Erie to the north, Pennsylvania to the east, West Virginia to the southeast, Kentucky to the southwest, Indiana to the west, and Michigan to the northwest. Ohio is historically known as the "Buckeye State" after its Ohio buckeye trees, and Ohioans are also known as "Buckeyes". The state takes its name from the Ohio River, whose name in turn originated from the Senatorca word ohiːyo', meaning "good river", "great river", or "large creek". Ohio arose from the lands west of Appalachia that were contested from colonial times through the Northwest Indian Wars of the late 18th century. It was partitioned from the resulting Northwest Territory, which was the first frontier of the new United States, and became the 17th state admitted to the Union on March 1, 1803, and the first under the Northwest Ordinance. Ohio was the first post-colonial free state admitted to the union, and became one of the earliest and most influential industrial powerhouses in the 20th century; although it has transitioned to a more information and service based economy in the 21st century, Ohio remains an industrial state, ranking seventh in GDP as of 2019, with the third largest manufacturing sector and second largest automobile production.
+
+GT:
+The climate of Ohio is a humid continental climate (Köppen climate classification Dfa/Dfb) throughout most of the state, except in the extreme southern counties of Ohio's Bluegrass region section, which are located on the northern periphery of the humid subtropical climate (Cfa) and Upland South region of the United States. Summers are typically hot and humid throughout the state, while winters generally range from cool to cold. Precipitation in Ohio is moderate year-round. Severe weather is not uncommon in the state, although there are typically fewer tornado reports in Ohio than in states located in what is known as the Tornado Alley. Severe lake effect snowstorms are also not uncommon on the southeast shore of Lake Erie, which is located in an area designated as the Snowbelt. The highest recorded temperature was 113 °F (45 °C), near Gallipolis on July 21, 1934. The lowest recorded temperature was −39 °F (−39 °C), at Milligan on February 10, 1899, during the Great Blizzard of 1899.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.38922155688622756, 0.23465703971119134, 0.29279279279279274, 0.18299549549549549]
+[0.10240963855421686, 0.06159420289855073, 0.07692307692307693, 0.04807692307692307]
+[0.2155688622754491, 0.1299638989169675, 0.16216216216216214, 0.10135135135135136]

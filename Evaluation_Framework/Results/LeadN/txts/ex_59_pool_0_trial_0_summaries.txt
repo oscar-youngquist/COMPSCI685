@@ -1,0 +1,15 @@
+Document:
+south_carolina
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+South Carolina ( (listen)) is a state in the Deep South region of the Southern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia across the Savannah River. South Carolina is the 40th most extensive and 23rd most populous US state. In 2019 its GDP was $249.9 billion. South Carolina is composed of 46 counties. The capital is Columbia with a population of 133,451 in 2018; while its largest city is Charleston with a 2018 population of 136,208. The Greenville–Anderson–Mauldin metropolitan area is the largest in the state, with a 2018 population estimate of 906,626. South Carolina was named in honor of King Charles I of England, who first formed the English colony, with Carolus being Latin for "Charles". South Carolina became the eighth state to ratify the US Constitution on May 23, 1788. It also became the first state to vote in favor of secession from the Union on December 20, 1860.
+
+GT:
+Two of the strongest hurricanes to strike South Carolina in recent history were Hurricane Hazel (1954) and Hurricane Hugo (1989). The Spanish were the first Europeans in the area. On October 8, 1526, they founded San Miguel de Gualdape, near present-day Georgetown, South Carolina. In 1540, Hernando de Soto explored the region and the main town of Cofitachequi, where he captured the queen of the Maskoki (Muscogee) and the Chelaque (Cherokee) who had welcomed him. In the 1670s, English planters from Barbados established themselves near what is now Charleston. On March 26, 1776, the colony adopted the Constitution of South Carolina, electing John Rutledge as the state's first president. On April 12, 1861, Confederate batteries began shelling the Union Fort Sumter in Charleston Harbor, and the American Civil War began. On November 20, 2014, South Carolina became the 35th state to legalize same-sex marriages, when a federal court ordered the change.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.37012987012987014, 0.32947976878612717, 0.34862385321100914, 0.2178899082568807]
+[0.08496732026143791, 0.0755813953488372, 0.08, 0.049999999999999996]
+[0.2012987012987013, 0.1791907514450867, 0.18960244648318045, 0.11850152905198778]

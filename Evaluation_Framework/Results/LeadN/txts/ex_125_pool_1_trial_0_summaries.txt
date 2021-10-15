@@ -1,0 +1,15 @@
+Document:
+idaho
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Idaho ( (listen)) is a state in the Pacific Northwest region of the United States. It borders the state of Montana to the east and northeast, Wyoming to the east, Nevada and Utah to the south, and Washington and Oregon to the west. To the north, it shares a small portion of the Canadian border with the province of British Columbia. With a population of approximately 1.7 million and an area of 83,570 square miles (216,400 km2), Idaho is the 14th largest, the 12th least populous and the 7th least densely populated of the 50 US states. The state's capital and largest city is Boise. For thousands of years Idaho has been inhabited by Native American peoples. In the early 19th century, Idaho was considered part of the Oregon Country, an area disputed between the United States and the British Empire. It officially became US territory with the signing of the Oregon Treaty of 1846, but a separate Idaho Territory was not organized until 1863, instead being included for periods in Oregon Territory and Washington Territory.
+
+GT:
+The waters of the Snake River run through Hells Canyon, the deepest gorge in the United States. Shoshone Falls falls down cliffs from a height greater than Niagara Falls. Excavations at Wilson Butte Cave near Twin Falls in 1959 revealed evidence of human activity, including arrowheads, that rank among the oldest dated artifacts in North America. Central Idaho is home to one of North America's oldest ski resorts, Sun Valley, where the world's first chairlift was installed in 1936. Other noted outdoor sites include Hells Canyon, the Salmon River, and its embarkation point of Riggins. The Boise Open professional golf tournament has been played at Hillcrest Country Club since 1990 as part of the Web.com Tour.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2773109243697479, 0.18435754189944134, 0.2214765100671141, 0.13842281879194632]
+[0.06779661016949153, 0.0449438202247191, 0.05405405405405406, 0.033783783783783786]
+[0.17647058823529413, 0.11731843575418995, 0.14093959731543623, 0.08808724832214765]

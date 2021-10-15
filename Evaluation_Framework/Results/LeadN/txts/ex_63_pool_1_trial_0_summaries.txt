@@ -1,0 +1,15 @@
+Document:
+wisconsin
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Wisconsin ( (listen)) is a state in the Great Lakes region of the Midwestern United States, bordered by Minnesota to the west; Iowa to the southwest; Illinois to the south; Lake Michigan to the east; Michigan to the northeast; and Lake Superior to the north. Wisconsin is the 23rd-largest state by total area and the 20th-most populous. The state capital is Madison, and its largest city is Milwaukee, which is on the western shore of Lake Michigan. The state is divided into 72 counties. Wisconsin's geography is diverse, having been greatly impacted by glaciers during the Ice Age with the exception of the Driftless Area. The Northern Highland and Western Upland along with a part of the Central Plain occupies the western part of the state, with lowlands stretching to the shore of Lake Michigan. Wisconsin is third to Ontario and Michigan in the length of its Great Lakes coastline.
+
+GT:
+Tourist destinations such as the House on the Rock near Spring Green, Circus World Museum in Baraboo, and The Dells of the Wisconsin River draw thousands of visitors annually, and festivals such as Summerfest and the EAA Oshkosh Airshow draw international attention, along with hundreds of thousands of visitors. Given the large number of lakes and rivers in the state, water recreation is very popular. In the North Country, what had been an industrial area focused on timber has largely been transformed into a vacation destination. Popular interest in the environment and environmentalism, added to traditional interests in hunting and fishing, has attracted a large urban audience within driving range. The distinctive Door Peninsula, which extends off the eastern coast of the state, contains one of the state's tourist destinations, Door County. Such festivals include Summerfest, Oktoberfest, Polish Fest, Festa Italiana, Irish Fest, Bastille Days, Syttende Mai (Norwegian Constitution Day), Brat(wurst) Days in Sheboygan, Polka Days, Cheese Days in Monroe and Mequon, African World Festival, Indian Summer, Arab Fest, Wisconsin Highland Games, and many others. Winter events include skiing, ice fishing and snowmobile derbies. Outdoor activities are popular in Wisconsin, especially hunting and fishing.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.25510204081632654, 0.32894736842105265, 0.2873563218390805, 0.1795977011494253]
+[0.06666666666666667, 0.08609271523178808, 0.07514450867052024, 0.04696531791907515]
+[0.1377551020408163, 0.17763157894736842, 0.15517241379310345, 0.09698275862068964]

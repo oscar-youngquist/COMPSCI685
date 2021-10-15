@@ -1,0 +1,15 @@
+Document:
+new_hampshire
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+New Hampshire () is a state in the New England region of the Northeastern United States. It is bordered by Massachusetts to the south, Vermont to the west, Maine and the Atlantic Ocean to the east, and the Canadian province of Quebec to the north. New Hampshire is the 5th smallest by area and the 10th least populous US state. Concord is the state capital, while Manchester is the largest city. New Hampshire has no general sales tax, nor income tax other than on interest and dividends. The New Hampshire primary is the first primary in the US presidential election cycle. Its license plates carry the state motto, "Live Free or Die". The state's nickname, "The Granite State", refers to its extensive granite formations and quarries. In January 1776, it became the first of the British North American colonies to establish a government independent of the Kingdom of Great Britain's authority; it was the first to establish its own state constitution. Six months later, it became one of the original 13 colonies that signed the United States Declaration of Independence, and in June 1788 it was the ninth state to ratify the United States Constitution, bringing that document into effect. Historically, New Hampshire was a major center for textile manufacturing, shoemaking, and papermaking, with Amoskeag Manufacturing Company in Manchester at one time being the largest cotton textile plant in the world.
+
+GT:
+The New Hampshire Motor Speedway in Loudon is an oval track and road course which has been visited by national motorsport championship series such as the NASCAR Cup Series, the NASCAR Xfinity Series, the NASCAR Camping World Truck Series, NASCAR Whelen Modified Tour, American Canadian Tour (ACT), the Champ Car and the IndyCar Series. Other motor racing venues include Star Speedway and New England Dragway in Epping, Lee Speedway in Lee, Twin State Speedway in Claremont, Monadnock Speedway in Winchester and Canaan Fair Speedway in Canaan. In the spring, New Hampshire's many sap houses hold sugaring-off open houses. In summer and early autumn, New Hampshire is home to many county fairs, the largest being the Hopkinton State Fair, in Contoocook. New Hampshire's Lakes Region is home to many summer camps, especially around Lake Winnipesaukee, and is a popular tourist destination. The Barnstormers Theatre in Tamworth, founded in 1931, is one of the longest-running professional summer theaters in the United States. In September, New Hampshire is host to the New Hampshire Highland Games. The fall foliage peaks in mid-October. In the winter, New Hampshire's ski areas and snowmobile trails attract visitors from a wide area. After the lakes freeze over they become dotted with ice fishing ice houses, known locally as bobhouses.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3271889400921659, 0.30603448275862066, 0.3162583518930958, 0.19766146993318487]
+[0.1111111111111111, 0.1038961038961039, 0.10738255033557047, 0.06711409395973156]
+[0.1935483870967742, 0.1810344827586207, 0.18708240534521156, 0.11692650334075723]

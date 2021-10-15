@@ -1,0 +1,15 @@
+Document:
+iowa
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Iowa ( (listen)) is a state in the Midwestern United States, bordered by the Mississippi River to the east and the Missouri River and Big Sioux River to the west. It is bordered by six states: Wisconsin to the northeast, Illinois to the east and southeast, Missouri to the south, Nebraska to the west, South Dakota to the northwest, and Minnesota to the north. In colonial times, Iowa was a part of French Louisiana and Spanish Louisiana; its state flag is patterned after the flag of France. After the Louisiana Purchase, people laid the foundation for an agriculture-based economy in the heart of the Corn Belt. In the latter half of the 20th century, Iowa's agricultural economy made the transition to a diversified economy of advanced manufacturing, processing, financial services, information technology, biotechnology, and green energy production. Iowa is the 26th most extensive in total area and the 30th most populous of the 50 US states. The state's capital, most populous city, and largest metropolitan area fully located within the state is Des Moines.
+
+GT:
+Iowa was one of the leading states in the high school movement, and continues to be among the top educational performers today. Iowa's schools are credited with the highest graduation rate in the nation as of 2019. Iowa has 333 school districts, 1,329 school buildings and has the 14th lowest student-to-teacher ratio of 14.2. Teacher pay is ranked 22nd, with the average salary being $55,647. As of 2015 transportation spending is a significant part of the budgets of rural school districts as many are geographically large and must transport students across vast distances. This reduces the amount of money spent on other aspects of the districts. The Iowa Board of Regents is composed of nine citizen volunteers appointed by the governor to provide policymaking, coordination, and oversight of the state's three public universities, two special K–12 schools, and affiliated centers. The special K–12 schools include the Iowa School for the Deaf in Council Bluffs and the Iowa Braille and Sight Saving School in Vinton. Both Iowa State University and The University of Iowa are research universities and members of the prestigious Association of American Universities.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.29381443298969073, 0.32386363636363635, 0.3081081081081081, 0.1925675675675676]
+[0.07772020725388601, 0.08571428571428572, 0.08152173913043478, 0.05095108695652174]
+[0.18556701030927836, 0.20454545454545456, 0.1945945945945946, 0.12162162162162163]

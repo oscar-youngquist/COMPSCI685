@@ -1,0 +1,15 @@
+Document:
+missouri
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Missouri is a state in the Midwestern United States. With more than six million residents, it is the 18th-most populous state of the country. The largest urban areas are St. Louis, Kansas City, Springfield and Columbia; the capital is Jefferson City. The state is the 21st-most extensive in area. Missouri is bordered by eight states (tied for the most with Tennessee): Iowa to the north, Illinois, Kentucky and Tennessee (via the Mississippi River) to the east, Arkansas to the south and Oklahoma, Kansas and Nebraska to the west. In the south are the Ozarks, a forested highland, providing timber, minerals, and recreation. The Missouri River, after which the state is named, flows through the center of the state into the Mississippi River, which makes up Missouri's eastern border.
+
+GT:
+The Missouri State Board of Education has general authority over all public education in the state of Missouri. It is made up of eight citizens appointed by the governor and confirmed by the Missouri Senatorte. Education is compulsory from ages seven to seventeen. It is required that any parent, guardian, or another person with custody of a child between the ages of seven and seventeen, the compulsory attendance age for the district, must ensure the child is enrolled in and regularly attends public, private, parochial school, home school or a combination of schools for the full term of the school year. Compulsory attendance also ends when children complete sixteen credits in high school. Children in Missouri between the ages of five and seven are not required to be enrolled in school. However, if they are enrolled in a public school, their parent, guardian, or custodian must ensure they regularly attend. Homeschooling is legal in Missouri and is an option to meet the compulsory education requirement. It is neither monitored nor regulated by the state's Department of Elementary and Secondary Education The state funds a $2000, renewable merit-based scholarship, Bright Flight, given to the top three percent of Missouri high school graduates who attend a university in-state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2631578947368421, 0.4198473282442748, 0.3235294117647059, 0.20220588235294115]
+[0.04807692307692308, 0.07692307692307693, 0.0591715976331361, 0.03698224852071006]
+[0.1674641148325359, 0.26717557251908397, 0.2058823529411765, 0.1286764705882353]
