@@ -2,6 +2,7 @@ import os
 from os.path import join, exists
 import sys
 import logging
+from pathlib import Path
 
 # update the python path to include the parent directory  
 currentdir = os.path.dirname(os.path.realpath(__file__))
@@ -26,7 +27,7 @@ def exceptionhook(self, *args):
     logging.getLogger().error("Exception: ", exc_info=args)
 
 # get the current working directory 
-cwd = os.getcwd()[:-10]
+cwd = Path(__file__).parent.parent
 
 # print(join(cwd, "Logs/"))
 
@@ -64,9 +65,9 @@ root.addHandler(file_handler)
 # variables for experiment
 num_examples = 5                                                                                        # number of user-summaries used as examples
 num_test = 3                                                                                            # number of user-summaries used for testing
-data_path = "/home/oscar/Documents/CS685/COMPSCI685/SubSumE_Data/processed_state_sentences.csv"         # path to the processed sentences csv
-users_path = "/home/oscar/Documents/CS685/COMPSCI685/SubSumE_Data/Train/"                               # path to the user-files used for this experiment
-shared_docs_path = "/home/oscar/Documents/CS685/COMPSCI685/SubSumE_Data/"                               # path to the misc. shared data (might not be needed anymore)
+shared_docs_path = os.path.join(Path(__file__).parent.parent.parent, "SubSumE_Data")
+data_path = os.path.join(shared_docs_path, "processed_state_sentences.csv")        # path to the processed sentences csv
+users_path = os.path.join(shared_docs_path, "Train/")                             # path to the misc. shared data (might not be needed anymore)
 min_range = 0                                                                                           # these min/max values are left-over from multi-processing experiments in which we would create n SuDocu models and then have each process (# of total user-summary instances)/n users. Thus we needed a min/max for the files to be read into memory by each model
 max_range = 138
 num_trials = 10                                                                                         # number of times to evaluate all the examples

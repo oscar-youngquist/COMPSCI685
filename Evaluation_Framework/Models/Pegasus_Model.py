@@ -4,18 +4,21 @@ import pandas as pd
 from nltk import word_tokenize
 import logging
 from utils.filtering import Sentence_Prefilter_Wrapper
-from transformers import PegasusTokenizer, PegasusForConditionalGeneration
-
+from transformers import PegasusTokenizer, PegasusForConditionalGeneration, Seq2SeqTrainer, Seq2SeqTrainingArguments
+import torch
+from sklearn.model_selection import train_test_split
 
 class Pegasus_Base(Model):
 
     # constructor (obviously). Of course you can add anyother necessary nonsense as params
     #    and pass them in accordingly from the Exp/script.
-    def __init__(self, data_path, shared_docs_path, num_examples):
+    def __init__(self, data_path, shared_docs_path, num_examples, fine_tune=False):
         super().__init__(data_path, shared_docs_path, num_examples)
         self.df = pd.read_csv(self.data_path)
         self.filter_obj = Sentence_Prefilter_Wrapper(data_path, shared_docs_path)
         self.model = PegasusForConditionalGeneration.from_pretrained('google/pegasus-cnn_dailymail').to('cuda')
+        if fine_tune:
+            self.fine_tune(self.model)
         self.tokenizer = PegasusTokenizer.from_pretrained('google/pegasus-cnn_dailymail')
 
 
@@ -41,7 +44,6 @@ class Pegasus_Base(Model):
         prediction = " ".join(sentences)
         # print(prediction)
         return prediction
-
 
     def get_avg_example_length(self, example_summaries):
         avg_sentence_len = 0.0
@@ -70,3 +72,55 @@ class Pegasus_Base(Model):
     def get_sentences(self, sentence_ids, target_doc):
         # we need to actually retrieve the literal text sentences
         return " ".join(self.df[(self.df['name'] == target_doc) & (self.df['sid'].isin(sentence_ids))]['sentence'].tolist())
+
+    def tokenize(self, sentences):
+        return self.tokenizer([sentences], max_length=1024, truncation=True, return_tensors='pt').to('cuda')
+
+    def build_datasets(self):
+        texts = ...
+        summaries = ...
+        datasets = {}
+
+        datasets["train_texts"], datasets["val_texts"], datasets["train_summaries"], datasets["val_summaries"] = train_test_split(texts, summaries, test_size=.2)
+        datasets = {k: self.tokenize(v) for k, v in datasets.items()}
+
+        train_dataset = SubSumEDataset(datasets["train_texts"], datasets["train_summaries"])
+        val_dataset = SubSumEDataset(datasets["val_texts"], datasets["val_summaries"])
+        return train_dataset, val_dataset
+
+
+    def fine_tune(self, model: PegasusForConditionalGeneration):
+        lr = 5e-4
+        smoothing = 0.1
+        steps = 50e3
+        batch_size = 256
+        beam_size = 1
+
+        train_dataset, val_dataset = self.build_datasets()
+
+        t_args = Seq2SeqTrainingArguments(
+            output_dir="pegasus_finetune",
+            do_train=True,
+            do_eval=True,
+            per_device_train_batch_size=batch_size,
+            learning_rate=lr,
+            max_steps=steps,
+            generation_num_beams=beam_size,
+            label_smoothing_factor=smoothing,
+        )
+
+        t = Seq2SeqTrainer(model=self.model, args=t_args, train_dataset=train_dataset, eval_dataset=val_dataset)
+        t.train()
+
+class SubSumEDataset(torch.utils.data.Dataset):
+    def __init__(self, texts, summaries):
+        self.texts = texts
+        self.summaries = summaries
+
+    def __getitem__(self, idx):
+        item = {key: torch.tensor(val[idx]) for key, val in self.texts.items()}
+        item['labels'] = torch.tensor(self.summaries[idx])
+        return item
+
+    def __len__(self):
+        return len(self.summaries)
