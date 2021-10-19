@@ -12,16 +12,21 @@ class Pegasus_Base(Model):
 
     # constructor (obviously). Of course you can add anyother necessary nonsense as params
     #    and pass them in accordingly from the Exp/script.
-    def __init__(self, data_path, shared_docs_path, num_examples, fine_tune=False):
+    def __init__(self, data_path, shared_docs_path, num_examples, finetune=False, udr=None):
         super().__init__(data_path, shared_docs_path, num_examples)
         self.df = pd.read_csv(self.data_path)
-        self.filter_obj = Sentence_Prefilter_Wrapper(data_path, shared_docs_path)
+        self.filter_obj = None#Sentence_Prefilter_Wrapper(data_path, shared_docs_path)
         self.reset_model() # sets self.model
-        self.tokenizer = PegasusTokenizer.from_pretrained('google/pegasus-cnn_dailymail')
+        self.tokenizer = None#PegasusTokenizer.from_pretrained('google/pegasus-cnn_dailymail')
+
+        if finetune:
+            assert udr is not None
+            self.udr = udr
+            self.fine_tune()
 
 
     def reset_model(self):
-        self.model = PegasusForConditionalGeneration.from_pretrained('google/pegasus-cnn_dailymail').to('cuda')
+        self.model = None#PegasusForConditionalGeneration.from_pretrained('google/pegasus-cnn_dailymail').to('cuda')
 
     # override abstract method
     def get_predicted_summary(self, target_doc, example_summaries, processed_ctr, fine_tune=False):
@@ -76,11 +81,20 @@ class Pegasus_Base(Model):
     def tokenize(self, sentences):
         return self.tokenizer([sentences], max_length=1024, truncation=True, return_tensors='pt').to('cuda')
 
-    def build_datasets(self, example_summaries):
-        state_names = [d['state_name'] for d in example_summaries]
+    def build_datasets(self):
+        summary_data = self.udr.read_summaries_keyvalue()
 
-        texts = [" ".join(self.df.name == state_name) for state_name in state_names]
-        summaries = [" ".join(summary['sentences']) for summary in example_summaries]
+        state_names = []
+        [state_names.extend(list(d.keys())) for d in summary_data]
+        texts = []
+        for state_name in state_names:
+            sentence_list = self.df[(self.df.name == state_name)].sentence.tolist()
+            # connecticut has a NaN sentence due to a stray ';'
+            sentence_list = [s for s in sentence_list if type(s) is str]
+            texts.append(" ".join(sentence_list))
+
+
+        summaries = [v for d in summary_data for _, v in d.items()]
         datasets = {}
 
         datasets["train_texts"], datasets["val_texts"], datasets["train_summaries"], datasets["val_summaries"] = train_test_split(texts, summaries, test_size=.2)
@@ -91,10 +105,10 @@ class Pegasus_Base(Model):
         return train_dataset, val_dataset
 
 
-    def fine_tune(self, model: PegasusForConditionalGeneration):
+    def fine_tune(self):
         lr = 5e-4
         smoothing = 0.1
-        epochs = 50
+        epochs = 30
         beam_size = 1
 
         train_dataset, val_dataset = self.build_datasets()

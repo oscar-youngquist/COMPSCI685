@@ -3,6 +3,7 @@ from os.path import join, exists
 import sys
 import logging
 from pathlib import Path
+from argparse import ArgumentParser
 
 # update the python path to include the parent directory  
 currentdir = os.path.dirname(os.path.realpath(__file__))
@@ -12,12 +13,20 @@ sys.path.append(parentdir)
 
 # load the experiment runner module
 from ExperimentRunner import ExperimentRunner
+from utils.UserDataReader import UserDataReader
 
 ##############
 ### TODO #####
 ##############
 # import your own models here
 from Models.Pegasus_Model import Pegasus_Base
+
+parser = ArgumentParser(description="Experiment runner for pegasus base and fine-tuned pegasus")
+parser.add_argument('--finetune', action='store_true')
+args = parser.parse_args()
+finetune = args.finetune
+
+model_name = "Pegasus_finetuned" if finetune else "Pegasus"
 
 ###
 #    Helper function used to replaces sys.excepthook to log exceptions to 
@@ -41,7 +50,7 @@ if not exists(join(cwd, "Logs/")):
 ### TODO #####
 ##############
 # TODO: add your own log file name
-log_file = join(cwd, "Logs/", "Pegasus.log")
+log_file = join(cwd, "Logs/", f"{model_name}.log")
 
 # set up logger
 root = logging.getLogger()
@@ -71,7 +80,6 @@ users_path = os.path.join(shared_docs_path, "Train/")                           
 min_range = 0                                                                                           # these min/max values are left-over from multi-processing experiments in which we would create n SuDocu models and then have each process (# of total user-summary instances)/n users. Thus we needed a min/max for the files to be read into memory by each model
 max_range = 138
 num_trials = 10                                                                                         # number of times to evaluate all the examples
-model_name = "Pegasus"                                                                                  # name of the model used for this experiment (creates a folder with this name in the results directory)
 exp_folder = ""                                                                                         # results folder for this experimental run, only used if running a) more than one model or b) the same model more than once
                                                                                                         #     model_name folder is added as a sub-folder to this one 
 
@@ -81,7 +89,11 @@ exp_runner = ExperimentRunner(num_examples, num_test, users_path, data_path, min
 
 # create the model(s) you are going to evaluate
 #     data_path, shared_docs_path, num_examples
-pegasus_model = Pegasus_Base(data_path, shared_docs_path, num_examples)
+if finetune:
+    udr = UserDataReader(users_path, data_path, min_range, max_range)
+    pegasus_model = Pegasus_Base(data_path, shared_docs_path, num_examples, finetune=True, udr=udr)
+else:
+    pegasus_model = Pegasus_Base(data_path, shared_docs_path, num_examples)
 
 # perform the actual experiment
 #   Could loop over several models/params. In Models, can 
