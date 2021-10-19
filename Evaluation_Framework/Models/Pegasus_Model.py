@@ -16,22 +16,22 @@ class Pegasus_Base(Model):
         super().__init__(data_path, shared_docs_path, num_examples)
         self.df = pd.read_csv(self.data_path)
         self.filter_obj = Sentence_Prefilter_Wrapper(data_path, shared_docs_path)
-        self.model = PegasusForConditionalGeneration.from_pretrained('google/pegasus-cnn_dailymail').to('cuda')
-        if fine_tune:
-            self.fine_tune(self.model)
+        self.reset_model() # sets self.model
         self.tokenizer = PegasusTokenizer.from_pretrained('google/pegasus-cnn_dailymail')
 
 
-    # override abstract method
-    def get_predicted_summary(self, target_doc, example_summaires, processed_ctr):
+    def reset_model(self):
+        self.model = PegasusForConditionalGeneration.from_pretrained('google/pegasus-cnn_dailymail').to('cuda')
 
+    # override abstract method
+    def get_predicted_summary(self, target_doc, example_summaries, processed_ctr, fine_tune=False):
         # get the average length of the example in terms of 1) sentences and 2) words (tokens via nltk word_tokenize)
-        avg_len, avg_token_len = self.get_avg_example_length(example_summaires)
+        avg_len, avg_token_len = self.get_avg_example_length(example_summaries)
 
         # use SBERT to get the most similar sentences to the target document: 2* the average length of the example summaries
         #     this is done as an initial pruning step and is something I have seen done a few times for long-passage abstractive summarization.
         #     If we are worried we can dig up some citations to justify if we want. 
-        filtered_sentence_ids = self.filter_obj.nearest_neighbor_bert_summary_filtering(example_summaries=example_summaires, test_doc=target_doc, top_k=int(2*avg_len))
+        filtered_sentence_ids = self.filter_obj.nearest_neighbor_bert_summary_filtering(example_summaries=example_summaries, test_doc=target_doc, top_k=int(2*avg_len))
         
         # get the actual (in order) sentences from the target document
         target_doc_sentences = self.get_sentences(filtered_sentence_ids, target_doc)
@@ -76,9 +76,11 @@ class Pegasus_Base(Model):
     def tokenize(self, sentences):
         return self.tokenizer([sentences], max_length=1024, truncation=True, return_tensors='pt').to('cuda')
 
-    def build_datasets(self):
-        texts = ...
-        summaries = ...
+    def build_datasets(self, example_summaries):
+        state_names = [d['state_name'] for d in example_summaries]
+
+        texts = [" ".join(self.df.name == state_name) for state_name in state_names]
+        summaries = [" ".join(summary['sentences']) for summary in example_summaries]
         datasets = {}
 
         datasets["train_texts"], datasets["val_texts"], datasets["train_summaries"], datasets["val_summaries"] = train_test_split(texts, summaries, test_size=.2)
@@ -92,8 +94,7 @@ class Pegasus_Base(Model):
     def fine_tune(self, model: PegasusForConditionalGeneration):
         lr = 5e-4
         smoothing = 0.1
-        steps = 50e3
-        batch_size = 256
+        epochs = 50
         beam_size = 1
 
         train_dataset, val_dataset = self.build_datasets()
@@ -102,9 +103,8 @@ class Pegasus_Base(Model):
             output_dir="pegasus_finetune",
             do_train=True,
             do_eval=True,
-            per_device_train_batch_size=batch_size,
             learning_rate=lr,
-            max_steps=steps,
+            num_train_epochs=epochs,
             generation_num_beams=beam_size,
             label_smoothing_factor=smoothing,
         )
