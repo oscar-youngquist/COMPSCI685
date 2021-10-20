@@ -8,6 +8,9 @@ from transformers import PegasusTokenizer, PegasusForConditionalGeneration, Seq2
 import torch
 from sklearn.model_selection import train_test_split
 
+# note - I think we should pull this fine-tuning code out of any specific model and place it in utils as a set of functions we can access globally
+#    also, each model type we create (for example, Pegasus-Baseline ad Pegasus-Fine-Tuned) should have their own classes. We can do this after we
+#    get the below working however.
 class Pegasus_Base(Model):
 
     # constructor (obviously). Of course you can add anyother necessary nonsense as params
@@ -89,7 +92,10 @@ class Pegasus_Base(Model):
         texts = []
         for state_name in state_names:
             sentence_list = self.df[(self.df.name == state_name)].sentence.tolist()
-            # connecticut has a NaN sentence due to a stray ';'
+            # connecticut has a NaN sentence due to a stray ';' - good to know we can fix.
+            # second, we will absolutely want to prefilter these sentences based on the example summaries (as per the above)
+            #    see lines 36-42 above. This is done to make sure text that is valuable to the user is included
+            #    in the input to pegasus. 
             sentence_list = [s for s in sentence_list if type(s) is str]
             texts.append(" ".join(sentence_list))
 
