@@ -90,8 +90,7 @@ exp_runner = ExperimentRunner(num_examples, num_test, users_path, data_path, min
 # create the model(s) you are going to evaluate
 #     data_path, shared_docs_path, num_examples
 if finetune:
-    udr = UserDataReader(users_path, data_path, min_range, max_range)
-    pegasus_model = Pegasus_Base(data_path, shared_docs_path, num_examples, finetune=True, udr=udr)
+    pegasus_model = Pegasus_Base(data_path, shared_docs_path, num_examples, finetune=True)
 else:
     pegasus_model = Pegasus_Base(data_path, shared_docs_path, num_examples)
 
