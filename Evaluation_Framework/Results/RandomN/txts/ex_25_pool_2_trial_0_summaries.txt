@@ -1,0 +1,15 @@
+Document:
+tennessee
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+In an effort to encourage settlers to move west into the new territory, in 1787 the mother state of North Carolina ordered a road to be cut to take settlers into the Cumberland Settlements—from the south end of Clinch Mountain (in East Tennessee) to French Lick (Nashville). Some accounts suggest it is a Cherokee modification of an earlier Yuchi word. I-155 is a branch highway from I-55. Chattanooga and Knoxville, both in the east near the Great Smoky Mountains, are about a third that size. In 2013 tourism within the state from local citizens accounted for 39.9% of tourists, the second highest originating location for tourists to Tennessee is the state of Georgia, accounting for 8.4% of tourists. In February 1861, secessionists in Tennessee's state government—led by Governor Isham Harris—sought voter approval for a convention to sever ties with the United States, but Tennessee voters rejected the referendum by a 54–46% margin. Tornadoes are possible throughout the state, with West and Middle Tennessee the most vulnerable. Over the next decade, the state legislature passed increasingly restrictive laws to control African Americans. Twenty percent of Tennesseans were born outside the South in 2008, compared to a figure of 13.5% in 1990.
+
+GT:
+Most of the state has a humid subtropical climate, with the exception of some of the higher elevations in the Appalachians, which are classified as having a mountain temperate or humid continental climate due to cooler temperatures. Generally, the state has hot summers and mild to cool winters with generous precipitation throughout the year, with highest average monthly precipitation generally in the winter and spring months, between December and April. The driest months, on average, are August to October. On average the state receives 50 inches (130 cm) of precipitation annually. Snowfall ranges from 5 inches (13 cm) in West Tennessee to over 80 inches (200 cm) in the highest mountains in East Tennessee. Summers in the state are generally hot and humid, with most of the state averaging a high of around 90 °F (32 °C) during the summer months. Winters tend to be mild to cool, increasing in coolness at higher elevations. Generally, for areas outside the highest mountains, the average overnight lows are near freezing for most of the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.4046242774566474, 0.3333333333333333, 0.36553524804177545, 0.22845953002610966]
+[0.0755813953488372, 0.06220095693779904, 0.06824146981627296, 0.04265091863517061]
+[0.19653179190751446, 0.1619047619047619, 0.17754569190600522, 0.11096605744125328]

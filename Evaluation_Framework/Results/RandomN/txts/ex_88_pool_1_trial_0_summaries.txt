@@ -1,0 +1,15 @@
+Document:
+maine
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+On November 6, 2012, Maine, along with Maryland and Washington, became the first state to legalize same-sex marriage at the ballot box. A reconfirmed and enhanced April 3, 1639 charter, from England's King Charles I, gave Sir Ferdinando Gorges increased powers over his new province and stated that it "shall forever hereafter, be called and named the PROVINCE OR COUNTIE OF MAINE, and not by any other name or names whatsoever ..." Maine is the only US state whose name has only one syllable. According to the 2010 Census, Maine has the highest percentage of non-Hispanic whites of any state, at 94.4% of the total population. The current attorney general of Maine is Aaron Frey. Bates College in Lewiston was founded in 1855 making it the third oldest institution in the state and the oldest coeducational college in New England. These features also have made it attractive for boat builders, such as the prestigious Hinckley Yachts. Since the 1980s, the state has gotten a reputation for its local food and restaurant meals. With an ever-decreasing Northern shrimp population, Maine fishermen are no longer allowed to catch and sell shrimp. Maine ( (listen)) is a state in the New England region of the Northeastern United States, bordered by New Hampshire to the west; the Atlantic Ocean to the southeast; and the Canadian provinces of New Brunswick and Quebec to the northeast and northwest, respectively.
+
+GT:
+It is also the northeasternmost among the contiguous United States, the northernmost state east of the Great Lakes, and the only state to border only one other state. Machias Seal Island and North Rock, off the state's Downeast coast, are claimed by both Canada and the American town of Cutler, and are within one of four areas between the two countries whose sovereignty is still in dispute, but it is the only one of the disputed areas containing land. Maine is the least densely populated US state east of the Mississippi River. It is called the Pine Tree State; over 80% of its total land is forested or unclaimed, the most forest cover of any US state. As of 2010, Maine was also the most rural state in the Union, with only 38.7% of the state's population living within urban areas. Maine's agricultural outputs include poultry, eggs, dairy products, cattle, wild blueberries, apples, maple syrup, and maple sugar. In 2017, the production of Maine's seaweed industry was estimated at $20 million per year. In state general elections, Maine voters tend to accept independent and third-party candidates more frequently than most states. Maine is the first state to have introduced ranked-choice voting in federal elections.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.4218009478672986, 0.3771186440677966, 0.3982102908277405, 0.2488814317673378]
+[0.09523809523809523, 0.0851063829787234, 0.08988764044943819, 0.05617977528089887]
+[0.1990521327014218, 0.17796610169491525, 0.18791946308724833, 0.1174496644295302]

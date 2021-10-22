@@ -1,0 +1,15 @@
+Document:
+virginia
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Cabernet franc and Chardonnay are the most grown varieties. This division contributed to the start of the American Civil War. Finally there are hundreds of unincorporated communities within the counties. In March 2015, Virginia named "Our Great Virginia", which uses the tune of "Oh Shenandoah", as the traditional state song and "Sweet Virginia Breeze" as the popular state song. Based on data through 2018, the Pew Center on the States found Virginia's government to be above average in running surpluses, while US News and World Report ranked the state eighth in fiscal stability. Among other religions, adherents of The Church of Jesus Christ of Latter-day Saints constitute one percent of the population, with two hundred congregations in Virginia as of 2017. The geography and climate of the Commonwealth are shaped by the Blue Ridge Mountains and the Chesapeake Bay, which provide habitat for much of its flora and fauna. Literature in Virginia often deals with the commonwealth's extensive and sometimes troubled past. Though the topic was debated during in the 2019–20 General Assembly session, Virginia has been a "right to work" state since 1947, and an employment-at-will state since 1906.
+
+GT:
+Virginia has a humid subtropical climate that transitions to humid continental west of the Blue Ridge Mountains. Seasonal extremes vary from average lows of 25 °F (−4 °C) in January to average highs of 86 °F (30 °C) in July. The Atlantic Ocean and Gulf Stream have a strong effect on eastern and southeastern coastal areas of the commonwealth, making the climate there warmer and more constant. Most of Virginia's recorded extremes in temperature and precipitation have occurred in the Blue Ridge Mountains and areas west. Virginia receives an average of 43.34 inches (110 cm) of precipitation annually, with the Shenandoah Valley being the state's driest region due to the mountains on either side. Virginia has around 35–45 days with thunderstorms annually, and storms are common in the late afternoon and evenings between April and September. These months are also the most common for tornadoes, 19 of which touched down in the state in 2019. Hurricanes and tropical storms can occur from August to October, and though they typically impact coastal regions, the deadliest natural disaster in Virginia was Hurricane Camille, which killed over 150 people in 1969, mainly inland in Nelson County. Between December and March, cold-air damming caused by the Appalachian Mountains can lead to significant snowfalls across the state, such as the January 2016 blizzard, which created the state's highest recorded snowfall of 36.6 inches (93 cm) near Bluemont. Climate change in Virginia is leading to higher temperatures year-round as well as more heavy rain and flooding events.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.33204633204633205, 0.4387755102040816, 0.37802197802197807, 0.23626373626373628]
+[0.07364341085271318, 0.09743589743589744, 0.0838852097130243, 0.05242825607064019]
+[0.15057915057915058, 0.1989795918367347, 0.17142857142857143, 0.10714285714285716]

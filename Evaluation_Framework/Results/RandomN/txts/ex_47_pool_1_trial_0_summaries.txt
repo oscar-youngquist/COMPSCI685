@@ -1,0 +1,15 @@
+Document:
+colorado
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Spoken English in Colorado has many Spanish idioms. In 2012, voters amended the state constitution protecting "personal use" of marijuana for adults, establishing a framework to regulate cannabis in a manner similar to alcohol. Many counties and cities charge their own rates, in addition to the base state rate. More than 5,000 Colorado miners—many immigrants—are estimated to have died in accidents since records began to be formally collected following an accident in Crested Butte that killed 59 in 1884. A number of nationally known brand names have originated in Colorado factories and laboratories. Like the federal government and all other US states, Colorado's state constitution provides for three branches of government: the legislative, the executive, and the judicial branches. Instead, the Compromise of 1850 divided the Mexican Cession and the northwestern claims of Texas into a new state and two new territories, the state of California, the Territory of New Mexico, and the Territory of Utah.
+
+GT:
+Higher education in and near the Western Slope can be found at Colorado Mesa University in Grand Junction, Western Colorado University in Gunnison, Fort Lewis College in Durango, and Colorado Mountain College in Glenwood Springs and Steamboat Springs. The State of Colorado is divided into 64 counties. The state of Colorado has more than 3,000 districts with taxing authority. These districts may provide schools, law enforcement, fire protection, water, sewage, drainage, irrigation, transportation, recreation, infrastructure, cultural facilities, business support, redevelopment, or other services. Some of these districts have authority to levy sales tax and well as property tax and use fees. Colorado was the first state in the union to enact, by voter referendum, a law extending suffrage to women.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.36363636363636365, 0.275, 0.31316725978647686, 0.19572953736654808]
+[0.041666666666666664, 0.031446540880503145, 0.035842293906810034, 0.022401433691756272]
+[0.1652892561983471, 0.125, 0.1423487544483986, 0.08896797153024912]
