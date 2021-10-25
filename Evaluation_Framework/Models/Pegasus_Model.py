@@ -83,16 +83,23 @@ class Pegasus_Base(Model):
     def tokenize(self, sentences):
         return self.tokenizer([sentences], max_length=1024, truncation=True, return_tensors='pt').to('cuda')
 
+    def tokenize_batch(self, sentences):
+        return self.tokenizer(sentences, max_length=1024, padding='max_length', truncation=True, return_tensors='pt')
+
+
     def build_datasets(self, target_doc, example_summaries):
         state_names = [summary['state_name'] for summary in example_summaries]
         texts = []
         avg_len, _ = self.get_avg_example_length(example_summaries)
         for state_name in state_names: 
             filtered_sentence_ids = self.filter_obj.nearest_neighbor_bert_summary_filtering(example_summaries=example_summaries, test_doc=state_name, top_k=int(2*avg_len))
-            trimmed_document = self.get_sentences(filtered_sentence_ids, target_doc)
+            trimmed_document = self.get_sentences(filtered_sentence_ids, state_name)
             texts.append(trimmed_document)
 
         summaries = [" ".join(summary['sentences']) for summary in example_summaries]
+
+        texts = self.tokenize_batch(texts)
+        summaries = self.tokenize_batch(summaries)
 
         train_dataset = SubSumEDataset(texts, summaries)
         return train_dataset
@@ -113,6 +120,7 @@ class Pegasus_Base(Model):
             num_train_epochs=epochs,
             generation_num_beams=beam_size,
             label_smoothing_factor=smoothing,
+            per_device_train_batch_size=1
         )
 
         t = Seq2SeqTrainer(model=self.model, args=t_args, train_dataset=train_dataset)
@@ -124,9 +132,11 @@ class SubSumEDataset(torch.utils.data.Dataset):
         self.summaries = summaries
 
     def __getitem__(self, idx):
-        item = {key: torch.tensor(val[idx]) for key, val in self.texts.items()}
-        item['labels'] = torch.tensor(self.summaries[idx])
-        return item
+        input_ids = torch.tensor(self.texts["input_ids"][idx])
+        target_ids = torch.tensor(self.summaries["input_ids"][idx])
+        
+        return {"input_ids": input_ids, "decoder_input_ids": target_ids}
+
 
     def __len__(self):
         return len(self.summaries)
