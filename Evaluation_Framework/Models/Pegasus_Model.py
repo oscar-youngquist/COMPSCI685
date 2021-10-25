@@ -18,12 +18,15 @@ class Pegasus_Base(Model):
         super().__init__(data_path, shared_docs_path, num_examples)
         self.df = pd.read_csv(self.data_path)
         self.filter_obj = Sentence_Prefilter_Wrapper(data_path, shared_docs_path)
+        self.model = None
         self.reset_model() # sets self.model
         self.tokenizer = PegasusTokenizer.from_pretrained('google/pegasus-cnn_dailymail')
         self.finetune = finetune
 
 
     def reset_model(self):
+        self.model = self.model.to('cpu')
+        torch.cuda.empty_cache()
         self.model = PegasusForConditionalGeneration.from_pretrained('google/pegasus-cnn_dailymail').to('cuda')
 
     # override abstract method
