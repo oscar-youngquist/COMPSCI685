@@ -18,8 +18,7 @@ class Pegasus_Base(Model):
         super().__init__(data_path, shared_docs_path, num_examples)
         self.df = pd.read_csv(self.data_path)
         self.filter_obj = Sentence_Prefilter_Wrapper(data_path, shared_docs_path)
-        self.model = None
-        self.reset_model() # sets self.model
+        self.model = PegasusForConditionalGeneration.from_pretrained('google/pegasus-cnn_dailymail').to('cuda')
         self.tokenizer = PegasusTokenizer.from_pretrained('google/pegasus-cnn_dailymail')
         self.finetune = finetune
 
