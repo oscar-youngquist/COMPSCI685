@@ -10,6 +10,7 @@ import torch
 # note - I think we should pull this fine-tuning code out of any specific model and place it in utils as a set of functions we can access globally
 #    also, each model type we create (for example, Pegasus-Baseline ad Pegasus-Fine-Tuned) should have their own classes. We can do this after we
 #    get the below working however.
+
 class Pegasus_Base(Model):
 
     # constructor (obviously). Of course you can add anyother necessary nonsense as params
@@ -21,17 +22,19 @@ class Pegasus_Base(Model):
         self.model = PegasusForConditionalGeneration.from_pretrained('google/pegasus-cnn_dailymail').to('cuda')
         self.tokenizer = PegasusTokenizer.from_pretrained('google/pegasus-cnn_dailymail')
         self.finetune = finetune
+        self.p_num = 1
 
 
     def reset_model(self):
         self.model = self.model.to('cpu')
+        del self.model
         torch.cuda.empty_cache()
         self.model = PegasusForConditionalGeneration.from_pretrained('google/pegasus-cnn_dailymail').to('cuda')
 
     # override abstract method
     def get_predicted_summary(self, target_doc, example_summaries, processed_ctr):
         if self.finetune:
-            self.reset_model()
+            # self.reset_model()
             self.fine_tune_model(target_doc, example_summaries)
 
         # get the average length of the example in terms of 1) sentences and 2) words (tokens via nltk word_tokenize)
@@ -52,6 +55,8 @@ class Pegasus_Base(Model):
 
         prediction = " ".join(sentences)
         # print(prediction)
+        print(f"FINISHED PREDICTION {self.p_num}")
+        self.p_num += 1
         return prediction
 
     def get_avg_example_length(self, example_summaries):
@@ -85,9 +90,11 @@ class Pegasus_Base(Model):
     def tokenize(self, sentences):
         return self.tokenizer([sentences], max_length=1024, truncation=True, return_tensors='pt').to('cuda')
 
-    def tokenize_batch(self, sentences):
-        return self.tokenizer(sentences, max_length=1024, padding='max_length', truncation=True, return_tensors='pt')
-
+    def tokenize_batch(self, sentences, output=False):
+        if output:
+            with self.tokenizer.as_target_tokenizer():
+                return self.tokenizer(sentences, max_length=256, padding=True, truncation=True, return_tensors='pt')
+        return self.tokenizer(sentences, max_length=256, padding=True, truncation=True, return_tensors='pt')
 
     def build_datasets(self, target_doc, example_summaries):
         state_names = [summary['state_name'] for summary in example_summaries]
@@ -101,9 +108,10 @@ class Pegasus_Base(Model):
         summaries = [" ".join(summary['sentences']) for summary in example_summaries]
 
         texts = self.tokenize_batch(texts)
-        summaries = self.tokenize_batch(summaries)
+        summaries = self.tokenize_batch(summaries, output=True)
 
         train_dataset = SubSumEDataset(texts, summaries)
+        # train_dataset = {'input_ids': texts, 'labels': summaries}
         return train_dataset
 
 
@@ -129,16 +137,15 @@ class Pegasus_Base(Model):
         t.train()
 
 class SubSumEDataset(torch.utils.data.Dataset):
-    def __init__(self, texts, summaries):
-        self.texts = texts
-        self.summaries = summaries
+    def __init__(self, encodings, labels):
+        self.encodings = encodings
+        self.labels = labels
 
     def __getitem__(self, idx):
-        input_ids = torch.tensor(self.texts["input_ids"][idx])
-        target_ids = torch.tensor(self.summaries["input_ids"][idx])
-        
-        return {"input_ids": input_ids, "decoder_input_ids": target_ids}
-
+        item = {key: torch.tensor(val[idx]) for key, val in self.encodings.items()}
+        item['decoder_input_ids'] = torch.tensor(self.labels['input_ids'][idx])
+        item['labels'] = torch.tensor(self.labels['input_ids'][idx])
+        return item
 
     def __len__(self):
-        return len(self.summaries)
+        return len(self.labels['input_ids'])
