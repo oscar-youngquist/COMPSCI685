@@ -1,0 +1,15 @@
+Document:
+maryland
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Maryland (US: (listen) MERR--lnd) is a state in the Mid-Atlantic region of the Southern United States . It is bordering Virginia, West Virginia, and the District of Columbia to its south and west; Pennsylvania to its north; and Delaware and the Atlantic Ocean to its east . Maryland (US: (listen) MERR--lnd) is a state in the Mid-Atlantic region of the Southern United States .
+
+GT:
+Maryland's early settlements and population centers clustered around rivers and other waterways that empty into the Chesapeake Bay. Although then a slave state, Maryland remained in the Union during the American Civil War, its strategic location giving it a significant role in the conflict. George Calvert, 1st Lord Baltimore (1579–1632), sought a charter from King Charles I for the territory between Massachusetts to the north and Virginia to the immediate south.After the first Lord Baltimore died in April 1632, the charter was granted to his son, Cecilius Calvert, 2nd Baron Baltimore (1605–1675), on June 20, 1632. The original capital of Maryland was St. Mary's City, on the north shore of the Potomac River, and the county surrounding it, the first erected/created in the province, was first called Augusta Carolina, after the King, and later named St. Mary's County. The border dispute with Pennsylvania led to Cresap's War in the 1730s. Negotiations continued until a final agreement was signed in 1760. Maryland was one of the thirteen colonies that revolted against British rule in the American Revolution. Influenced by a changing economy, revolutionary ideals, and preaching by ministers, numerous planters in Maryland freed their slaves in the 20 years after the Revolutionary War. The state remained with the Union during the Civil War, due in significant part to demographics and Federal intervention. A new state constitution in 1864 abolished slavery and Maryland was first recognized as a "Free State" in that context. The Progressive Era of the late 19th and early 20th centuries brought political reforms. Maryland experienced population growth following World War II.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12177121771217712, 0.5076923076923077, 0.19642857142857142, 0.12276785714285714]
+[0.025925925925925925, 0.109375, 0.04191616766467065, 0.026197604790419157]
+[0.08487084870848709, 0.35384615384615387, 0.1369047619047619, 0.0855654761904762]

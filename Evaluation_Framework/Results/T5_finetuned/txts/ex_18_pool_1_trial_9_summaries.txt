@@ -1,0 +1,15 @@
+Document:
+florida
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Florida ( (listen), Spanish pronunciation: [floia]) is a state located in the southeastern region of the United States . with a population of over 21 million, Florida is the third-most populous and the 22nd-most extensive of the 50 United States . the state is bordered to the west by the Gulf of Mexico, to the northwest by Alabama, to the north by Georgia, to the east by the Atlantic Ocean, and to the south by the Straits of Florida .
+
+GT:
+The climate of Florida is tempered somewhat by the fact that no part of the state is distant from the ocean. In the summer, high temperatures in the state rarely exceed 100 °F (37.8 °C). South Florida, however, rarely encounters below freezing temperatures. The hottest temperature ever recorded in Florida was 109 °F (43 °C), which was set on June 29, 1931 in Monticello. Due to its subtropical and tropical climate, Florida rarely receives measurable snowfall. Central Florida is known as the lightning capital of the United States, as it experiences more lightning strikes than anywhere else in the country. Florida has one of the highest average precipitation levels of any state, in large part because afternoon thunderstorms are common in much of the state from late spring until early autumn. Florida leads the United States in tornadoes per area (when including waterspouts), but they do not typically reach the intensity of those in the Midwest and Great Plains. Hurricanes pose a severe threat each year from June 1 to November 30, particularly from August to October.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2303370786516854, 0.5256410256410257, 0.3203125, 0.2001953125]
+[0.062146892655367235, 0.14285714285714285, 0.08661417322834647, 0.05413385826771653]
+[0.1348314606741573, 0.3076923076923077, 0.18749999999999997, 0.1171875]

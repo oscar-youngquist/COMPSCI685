@@ -1,0 +1,15 @@
+Document:
+maine
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 states .
+
+GT:
+There are thirty institutions of higher learning in Maine. The three colleges collectively form the Colby-Bates-Bowdoin Consortium and are ranked among the best colleges in the United States Maine's per-student public expenditure for elementary and secondary schools was 21st in the nation in 2012, at $12,344. Private schools in Maine are funded independently of the state and its furthered domains. Private schools are less common than public schools. A large number of private elementary schools with under 20 students exist, but most private high schools in Maine can be described as "semi-private".
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1326530612244898, 0.30952380952380953, 0.18571428571428572, 0.11607142857142858]
+[0.020618556701030927, 0.04878048780487805, 0.028985507246376812, 0.018115942028985508]
+[0.12244897959183673, 0.2857142857142857, 0.1714285714285714, 0.10714285714285714]

@@ -1,0 +1,15 @@
+Document:
+mississippi
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+is the state's 32nd largest metropolitan area . Greater Jackson is the state's capital and largest city . the state is the 32nd largest and 34th-most populous of the 50 states .
+
+GT:
+Until the Great Migration of the 1930s, African Americans were a majority of Mississippi's population. Mississippi was the site of many prominent events during the civil rights movement, including the Ole Miss riot of 1962 by white students objecting to desegregation, the 1963 assassination of Medgar Evers, and the 1964 Freedom Summer murders of three activists working on voting rights. With large areas of agriculture and rural towns, Mississippi frequently ranks low among states in measures of health, education, and development, and high in measures of poverty. In 2010, 37.3% of Mississippi's population was African American, the highest percentage of any state. The first major European expedition into the territory that became Mississippi was that of the Spanish explorer, Hernando de Soto, who passed through the northeast part of the state in 1540, in his second expedition to the New World. From 1800 to about 1830, the United States purchased some lands (Treaty of Doak's Stand) from Native American tribes for new settlements of European Americans. On September 27, 1830, the Treaty of Dancing Rabbit Creek was signed between the US Government and the Choctaw. The Choctaw agreed to sell their traditional homelands in Mississippi and Alabama, for compensation and removal to reservations in Indian Territory (now Oklahoma). This opened up land for sale to European-American migrant settlement.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07174887892376682, 0.5, 0.12549019607843137, 0.0784313725490196]
+[0.009009009009009009, 0.06451612903225806, 0.015810276679841896, 0.009881422924901184]
+[0.04932735426008968, 0.34375, 0.08627450980392158, 0.05392156862745098]

@@ -1,0 +1,15 @@
+Document:
+new_mexico
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+New Mexico (Spanish: Nuevo México [nweo mexiko] (listen); Navajo: Yootó Hahoodzo [jotho hahotso]) is a state in the Southwestern region of the United States of America; its capital is Santa Fe, which was founded in 1610 as capital of Nuevo México (itself established as province of New Spain in 1598), while its largest city is Alb
+
+GT:
+Visitors also frequent the surviving native pueblos of New Mexico. Other areas of geographical and scenic interest include Kasha-Katuwe Tent Rocks National Monument and the Gila Wilderness in the southwest of the state. Albuquerque has the New Mexico Museum of Natural History and Science, the National Hispanic Cultural Center, and the National Museum of Nuclear Science & History, as well as hosts the famed annual Albuquerque International Balloon Fiesta every fall. The National Hispanic Cultural Center has held hundreds of performing arts events, art showcases, and other events related to Spanish culture in New Mexico and worldwide in the centerpiece Roy E Disney Center for the Performing Arts or in other venues at the 53 acre facility. The KiMo presents live theater and concerts as well as movies and simulcast operas. In addition to other general interest theaters, Albuquerque also has the African American Performing Arts Center and Exhibit Hall which showcases achievements by people of African descent and the Indian Pueblo Cultural Center which highlights the cultural heritage of the First Nations people of New Mexico. The City of Las Cruces, in southern New Mexico, has a museum system affiliated with the Smithsonian Institution Affiliations Program. Las Cruces also has a variety of cultural and artistic opportunities for residents and visitors.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08962264150943396, 0.3275862068965517, 0.14074074074074072, 0.08796296296296297]
+[0.018957345971563982, 0.07017543859649122, 0.029850746268656716, 0.01865671641791045]
+[0.0660377358490566, 0.2413793103448276, 0.10370370370370369, 0.06481481481481481]

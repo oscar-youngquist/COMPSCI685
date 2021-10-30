@@ -1,0 +1,15 @@
+Document:
+indiana
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Indiana ( (listen)) is a US state in the Midwestern and Great Lakes regions of North America . it borders Lake Michigan to the northwest, Michigan to the north, Ohio to the east, the Ohio River and Kentucky to the east and southeast . it borders Lake Michigan to the northwest, Michigan to the north, Ohio to the east, the Ohio River and Kentucky to the east and southeast .
+
+GT:
+Property is subject to taxation by a variety of taxing units (schools, counties, townships, municipalities, and libraries), making the total tax rate the sum of the tax rates imposed by all taxing units in which a property is located. However, a "circuit breaker" law enacted on March 19, 2008 limits property taxes to 1% of assessed value for homeowners, 2% for rental properties and farmland, and 3% for businesses. Indiana's 1816 constitution was the first in the country to implement a state-funded public school system. Modern, public school standards, have been implemented all throughout the state. The overall goal of these new state standards is to ensure Indiana students have the necessary skills and requirements needed to enter college or the workforce upon high school graduation. State standards can be found for nearly every major subject taught in Indiana public schools. Mathematics, English/Language Arts, Science, and Social Studies are among the top, prioritized standards. In 2017, the Indiana Department of Education reported that the state's overall graduation rates were 87.19% for waivered graduations and 80.10% for non-waiver graduations. Many of Indiana's private colleges and universities are affiliated with religious groups. The state's community college system, Ivy Tech Community College of Indiana, serves nearly 200,000 students annually, making it the state's largest public post-secondary educational institution and the nation's largest singly accredited statewide community college system. The state has several universities ranked among the best in 2013 rankings of the US News & World Report.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11328125, 0.4393939393939394, 0.18012422360248445, 0.11257763975155279]
+[0.00392156862745098, 0.015384615384615385, 0.0062499999999999995, 0.00390625]
+[0.08203125, 0.3181818181818182, 0.13043478260869565, 0.08152173913043478]

@@ -1,0 +1,15 @@
+Document:
+alaska
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Alaska ( (listen); Aleut: Alaxsxax; Inupiaq: Alaasikaq; Pacific Gulf Yupik: Alaasikaq; Tlingit: Anáaski) is a US state on the northwest extremity of the country's West Coast, just across the Bering Strait . a semi-exclave of the US, it borders the Canadian province of British Columbia and territory of Yukon to the east and southeast and has
+
+GT:
+The Alaska Department of Education and Early Development administers many school districts in Alaska. There are more than a dozen colleges and universities in Alaska. Accredited universities in Alaska include the University of Alaska Anchorage, University of Alaska Fairbanks, University of Alaska Southeast, and Alaska Pacific University. Alaska is the only state that has no institutions that are part of NCAA Division I. Alaska has had a problem with a "brain drain". Many of its young people, including most of the highest academic achievers, leave the state after high school graduation and do not return. As of 2013, Alaska did not have a law school or medical school. The University of Alaska has attempted to combat this by offering partial four-year scholarships to the top 10% of Alaska high school graduates, via the Alaska Scholars Program.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16058394160583941, 0.38596491228070173, 0.2268041237113402, 0.14175257731958762]
+[0.022058823529411766, 0.05357142857142857, 0.03125, 0.01953125]
+[0.0948905109489051, 0.22807017543859648, 0.13402061855670103, 0.08376288659793814]

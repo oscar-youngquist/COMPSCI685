@@ -1,0 +1,15 @@
+Document:
+minnesota
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Minnesota ( (listen)) is a state in the Upper Midwest, Great Lakes, and northern region of the United States . Minnesota ( (listen)) is a state in the Upper Midwest, Great Lakes, and northern region of the United States . it is the 12th largest in area and the 22nd most populous of the US states .
+
+GT:
+Nearly 55% of its residents live in the Minneapolis–Saint Paul metropolitan area (known as the "Twin Cities"), the state's main hub of transportation, business, industry, education, arts, and government. The word Minnesota comes from the Dakota name for the Minnesota River, which got its name from one of two words in Dakota: "mní sóta", which means "clear blue water", or "Mníssota", which means "cloudy water". Dakota people demonstrated the name to early settlers by dropping milk into water and calling it mní sóta. Many places in the state have similar Dakota names, such as Minnehaha Falls ("curling water" or waterfall), Minneiska ("white water"), Minneota ("much water"), Minnetonka ("big water"), Minnetrista ("crooked water"), and Minneapolis, a hybrid word combining Dakota mní ("water") and -polis (Greek for "city"). Minnesota has some of the earth's oldest rocks, gneisses that are about 3.6 billion years old (80% as old as the planet). The state's high point is Eagle Mountain at 2,301 feet (701 m), which is only 13 miles (21 km) away from the low point of 601 feet (183 m) at the shore of Lake Superior.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.140625, 0.5192307692307693, 0.22131147540983606, 0.13831967213114754]
+[0.015706806282722512, 0.058823529411764705, 0.024793388429752063, 0.01549586776859504]
+[0.078125, 0.28846153846153844, 0.12295081967213113, 0.07684426229508197]

@@ -1,0 +1,15 @@
+Document:
+oklahoma
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Oklahoma ( (listen)) is a state in the South Central region of the United States, bordered by the state of Texas on the south and west, Kansas on the north, Missouri on the northeast, Arkansas on the east, New Mexico on the west, New Mexico on the east, New Mexico on the east, New Mexico on the west, and Colorado on the northwest . Partially in the western extreme of the Upland South, it is the 20th-most extensive and the 28th-most populous of the 50
+
+GT:
+With an educational system made up of public school districts and independent private institutions, Oklahoma had 638,817 students enrolled in 1,845 public primary, secondary, and vocational schools in 533 school districts as of 2008. Oklahoma has the highest enrollment of Native American students in the nation with 126,078 students in the 2009–10 school year. Oklahoma spent $7,755 for each student in 2008, and was 47th in the nation in expenditures per student, though its growth of total education expenditures between 1992 and 2002 ranked 22nd. The state is among the best in pre-kindergarten education, and the National Institute for Early Education Research rated it first in the United States with regard to standards, quality, and access to pre-kindergarten education in 2004, calling it a model for early childhood schooling. Oklahoma holds eleven public regional universities, including Northeastern State University, the second-oldest institution of higher education west of the Mississippi River, also containing the only College of Optometry in Oklahoma and the largest enrollment of Native American students in the nation by percentage and amount. The state has 55 post-secondary technical institutions operated by Oklahoma's CareerTech program for training in specific fields of industry or trade. According to the National Education Association, teachers in Oklahoma had ranked 49th out of the 50 states in terms of teacher pay in 2016. The Oklahoma Legislature had passed a measure a week earlier to raise teacher salaries by $6,100, but it fell short of the $10,000 raise for teachers, $5,000 raise for other school employees, and $200 million increase in extra education funding many had sought.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13818181818181818, 0.4470588235294118, 0.21111111111111114, 0.13194444444444445]
+[0.040145985401459854, 0.13095238095238096, 0.06145251396648045, 0.03840782122905028]
+[0.09090909090909091, 0.29411764705882354, 0.1388888888888889, 0.08680555555555557]

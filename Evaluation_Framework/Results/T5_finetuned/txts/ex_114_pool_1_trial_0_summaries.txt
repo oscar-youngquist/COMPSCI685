@@ -1,0 +1,15 @@
+Document:
+vermont
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Vermont ( (listen)) is a northeastern state in the New England region of the United States . it borders the states of Massachusetts to the south, New Hampshire to the east, and New York to the west . Vermont is the sixth-smallest by area of the 50 US states . Montpelier is the least-populous state capital in the United States .
+
+GT:
+The annual mean temperature for the state is 43 °F (6 °C). Vermont has a humid continental climate, with muddy springs, in general a mild early summer, hot Augusts; it has colorful autumns: Vermont's hills reveal red, orange, and (on sugar maples) gold foliage as cold weather approaches. Winters are colder at higher elevations. It has a Köppen climate classification of Dfb, a warm humid continental climate. The rural northeastern section known as the "Northeast Kingdom" often averages 10 °F (5.6 °C) colder than the southern areas of the state during winter. The annual snowfall averages between 60 and 100 inches (1,500 and 2,500 mm) depending on elevation. Vermont is the seventh coldest state in the country. The state receives between 2,200 and 2,400 hours of sunshine annually. New England as a whole receives a range of less than 2,000 hours of sunshine in part of New Hampshire to as much as 2,600 hours of sunshine per year in Connecticut and Rhode Island.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.19186046511627908, 0.5689655172413793, 0.28695652173913044, 0.1793478260869565]
+[0.05847953216374269, 0.17543859649122806, 0.08771929824561403, 0.05482456140350877]
+[0.10465116279069768, 0.3103448275862069, 0.15652173913043477, 0.09782608695652174]

@@ -1,0 +1,15 @@
+Document:
+wisconsin
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+divided into 72 counties. Wisconsin is the 23rd-largest state by total area and the 20th-most populous. Wisconsin is the state capital of Madison, and its largest city is Milwaukee. Wisconsin is divided into 72 counties. Wisconsin is the 23rd-largest state by total area and the 20th-most populous.
+
+GT:
+Wisconsin's geography is diverse, having been greatly impacted by glaciers during the Ice Age with the exception of the Driftless Area. Most of Wisconsin is classified as warm-summer humid continental climate (Köppen Dfb), while southern and southwestern portions are classified as hot-summer humid continental climate (Köppen Dfa). The highest temperature ever recorded in the state was in the Wisconsin Dells, on July 13, 1936, where it reached 114 °F (46 °C). The lowest temperature ever recorded in Wisconsin was in the village of Couderay, where it reached −55 °F (−48 °C) on both February 2 and 4, 1996. Wisconsin also receives a large amount of regular snowfall averaging around 40 inches (100 cm) in the southern portions with up to 160 inches (410 cm) annually in the Lake Superior snowbelt each year. Factors such as cultural identification with the state's heritage of German immigration, the long-standing presence of major breweries in Milwaukee, and a cold climate are often associated with the prevalence of drinking in Wisconsin.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12138728323699421, 0.4117647058823529, 0.1875, 0.1171875]
+[0.011627906976744186, 0.04, 0.018018018018018018, 0.01126126126126126]
+[0.09248554913294797, 0.3137254901960784, 0.14285714285714285, 0.08928571428571427]

@@ -1,0 +1,15 @@
+Document:
+texas
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Texas (, also locally ; Spanish: Texas or Tejas, pronounced [texas] (listen)) is a state in the South Central Region of the United States . It is the second largest US state by both area (after Alaska) and population (after California).
+
+GT:
+Texas modernized and expanded its system of higher education through the 1960s. The state created a comprehensive plan for higher education, funded in large part by oil revenues, and a central state apparatus designed to manage state institutions more efficiently. These changes helped Texas universities receive federal research funds. Between 2006 and 2007, Texas spent $7,275 per pupil, ranking it below the national average of $9,389. The pupil/teacher ratio was 14.9, below the national average of 15.3. Texas paid instructors $41,744, below the national average of $46,593. The Texas Education Agency (TEA) administers the state's public school systems. Texas has over 1,000 school districts; all districts except the Stafford Municipal School District are independent from municipal government and many cross city boundaries. School districts have the power to tax their residents and to assert eminent domain over privately owned property. Due to court-mandated equitable school financing for school districts, the state has a controversial tax redistribution system called the "Robin Hood plan". Students in Texas take the State of Texas Assessments of Academic Readiness (STAAR) in primary and secondary school. STAAR assess students' attainment of reading, writing, mathematics, science, and social studies skills required under Texas education standards and the No Child Left Behind Act. The test replaced the Texas Assessment of Knowledge and Skills (TAKS) test in the 2011–2012 school year. The state's two most widely recognized flagship universities are The University of Texas at Austin and Texas A&M University, ranked as the 21st and 41st best universities in the nation according to 2020's latest Center for World University Rankings report, respectively. Some observers also include the University of Houston and Texas Tech University as tier one flagships alongside UT Austin and A&M. The Texas Higher Education Coordinating Board (THECB) ranks the state's public universities into three distinct tiers:
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.05379746835443038, 0.4473684210526316, 0.096045197740113, 0.060028248587570616]
+[0.0031746031746031746, 0.02702702702702703, 0.005681818181818182, 0.0035511363636363635]
+[0.0379746835443038, 0.3157894736842105, 0.06779661016949153, 0.04237288135593221]

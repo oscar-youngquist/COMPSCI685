@@ -1,0 +1,15 @@
+Document:
+montana
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Montana ( (listen)) is a state in the Northwestern United States . it is bordered by Idaho to the west; North Dakota and South Dakota to the east; Wyoming to the south; and by the Canadian provinces of Alberta, British Columbia, and Saskatchewan to the north . it is the fourth-largest state by area, the eighth-least populous state, and the third-least densely populated state .
+
+GT:
+Montana's fastest-growing sector is tourism; nearly 13 million annual tourists visit Glacier National Park, Yellowstone National Park, Beartooth Highway, Flathead Lake, Big Sky Resort, and other attractions. It contains the state's highest point, Granite Peak, 12,799 feet (3,901 m) high. The Big Hole Valley, Bitterroot Valley, Gallatin Valley, Flathead Valley, and Paradise Valley have extensive agricultural resources and multiple opportunities for tourism and recreation. Farther east, areas such as Makoshika State Park near Glendive and Medicine Rocks State Park near Ekalaka contain some of the most scenic badlands regions in the state. Big Sky Resort and Whitefish Mountain Resort are destination resorts, while the remaining areas do not have overnight lodging at the ski area, though several host restaurants and other amenities. Montana also has millions of acres open to cross-country skiing on nine of its national forests and in Glacier National Park. Yellowstone National Park also allows cross-country skiing. West Yellowstone offers a large selection of trails and is the primary starting point for snowmobile trips into Yellowstone National Park, where "oversnow" vehicle use is strictly limited, usually to guided tours, and regulations are in considerable flux. Snow coach tours are offered at Big Sky, Whitefish, West Yellowstone and into Yellowstone National Park.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13270142180094788, 0.4375, 0.20363636363636364, 0.1272727272727273]
+[0.009523809523809525, 0.031746031746031744, 0.014652014652014652, 0.009157509157509158]
+[0.07582938388625593, 0.25, 0.11636363636363636, 0.07272727272727274]

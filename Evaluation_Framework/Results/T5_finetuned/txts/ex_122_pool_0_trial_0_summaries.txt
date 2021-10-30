@@ -1,0 +1,15 @@
+Document:
+delaware
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Delaware ( (listen) DEL--wair) is a state in the Mid-Atlantic region of the United States . Delaware is named after Thomas West, 3rd Baron De La Warr, an English nobleman and Virginia's first colonial governor . Delaware occupies the northeastern portion of the Delmarva Peninsula and some islands and territory within the Delaware River . Delaware occupies the northeastern portion of the Delmarva Peninsula and some islands and territory within the Delaware River
+
+GT:
+Since almost all of Delaware is a part of the Atlantic coastal plain, the effects of the ocean moderate its climate. The state lies in the humid subtropical climate zone. Despite its small size (roughly 100 miles (160 km) from its northernmost to southernmost points), there is significant variation in mean temperature and amount of snowfall between Sussex County and New Castle County. Moderated by the Atlantic Ocean and Delaware Bay, the southern portion of the state has a milder climate and a longer growing season than the northern portion of the state. Delaware's all-time record high of 110 °F (43 °C) was recorded at Millsboro on July 21, 1930. The transitional climate of Delaware supports a wide variety of vegetation.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.23577235772357724, 0.4027777777777778, 0.2974358974358975, 0.18589743589743593]
+[0.07377049180327869, 0.1267605633802817, 0.09326424870466321, 0.0582901554404145]
+[0.17886178861788618, 0.3055555555555556, 0.22564102564102564, 0.14102564102564105]

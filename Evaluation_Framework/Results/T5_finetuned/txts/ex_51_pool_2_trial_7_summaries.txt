@@ -1,0 +1,15 @@
+Document:
+utah
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Utah (YOO-tah, (listen) YOO-taw) is a state in the Western United States . it is bordered by Colorado to the east, Wyoming to the northeast, Idaho to the north, Arizona to the south and Nevada to the west . of the fifty states, Utah is the 13th-largest by area; with a population over three million, it is the 30th-most-populous and 11th-least-densely populated .
+
+GT:
+Beginning in the early 20th century, with the establishment of such national parks as Bryce Canyon National Park and Zion National Park, Utah became known for its natural beauty. From such films, most US residents recognize such natural landmarks as Delicate Arch and "the Mittens" of Monument Valley. Since the establishment of Alta Ski Area in 1939 and the subsequent development of several ski resorts in the state's mountains, Utah's skiing has become world-renowned. Utah's state parks are scattered throughout Utah, from Bear Lake State Park at the Utah/Idaho border to Edge of the Cedars State Park Museum deep in the Four Corners region and everywhere in between. It is a rugged and geographically diverse state at the convergence of three distinct geological regions: the Rocky Mountains, the Great Basin, and the Colorado Plateau. One exception to this aridity is Snake Valley, which is (relatively) lush due to large springs and wetlands fed from groundwater derived from snow melt in the Snake Range, Deep Creek Range, and other tall mountains to the west of Snake Valley. The Navajo Nation also extends into southeastern Utah. The Moab area, in the southeastern part of the state, is known for its challenging mountain biking trails, including Slickrock. Moab also hosts the famous Moab Jeep Safari semiannually.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1651376146788991, 0.5373134328358209, 0.25263157894736843, 0.15789473684210528]
+[0.03225806451612903, 0.10606060606060606, 0.04946996466431096, 0.030918727915194347]
+[0.10091743119266056, 0.3283582089552239, 0.1543859649122807, 0.09649122807017545]

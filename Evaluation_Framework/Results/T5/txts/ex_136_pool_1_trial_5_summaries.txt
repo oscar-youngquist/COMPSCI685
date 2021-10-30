@@ -1,0 +1,15 @@
+Document:
+west_virginia
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+is a state in the Appalachian and Mid-Atlantic regions of the Southern United States . West Virginia is bordered by Pennsylvania to the northeast, Maryland to the east and northeast, Virginia to the southeast, Kentucky to the southwest, and Ohio to the northwest . West Virginia is the 41st-largest state by area and ranks 38th in population .
+
+GT:
+West Virginia ( (listen)) is a state in the Appalachian and Mid-Atlantic regions of the Southern United States. West Virginia became a state following the Wheeling Conventions of 1861, at the start of the American Civil War. Many ancient man-made earthen mounds from various prehistoric mound builder cultures survive, especially in the areas of present-day Moundsville, South Charleston, and Romney. The artifacts uncovered in these give evidence of village societies. West Virginia was the only state in the Union to separate from a Confederate state (Virginia) during the American Civil War. West Virginia is located entirely within the Appalachian Region, and the state is almost entirely mountainous, giving reason to the nickname The Mountain State and the motto Montani Semper Liberi ("Mountaineers are always free"). One of the major resources in West Virginia's economy is coal. Nearly all the electricity generated in West Virginia is from coal-fired power plants. West Virginia has the potential to generate 4,952 GWh/year from 1,883 MW of wind power, using 80 meter high wind turbines, or 8,627 GWh/year from 2,772 MW of 100 meter wind turbines, and 60,000 GWh from 40,000 MW of photovoltaics, including 3,810 MW of rooftop photovoltaics. The residents of West Virginia have a lower life expectancy than the national average. West Virginia's folk heritage is a part of the Appalachian folk music tradition, and includes styles of fiddling, ballad singing, and other styles that draw on Scots-Irish music.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14682539682539683, 0.6491228070175439, 0.2394822006472492, 0.14967637540453077]
+[0.0796812749003984, 0.35714285714285715, 0.13029315960912052, 0.08143322475570033]
+[0.13095238095238096, 0.5789473684210527, 0.21359223300970875, 0.13349514563106796]

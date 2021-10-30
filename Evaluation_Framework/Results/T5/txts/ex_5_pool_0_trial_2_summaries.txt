@@ -1,0 +1,15 @@
+Document:
+hawaii
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+,,,ia,ia,, Hawaii ( (listen) h-WY-ee Hawaii is the only state outside North America, the only island state, and the only state in the tropics. Hawaii is also one of handful of US states to have once been an independent nation . Hawaii encompasses nearly the entire Hawaiian archipelago, composed of 137 volcanic islands spanning 1,500 miles (2,400 km), which are physiographically and ethnological
+
+GT:
+The history of Hawaii's economy can be traced through a succession of dominant industries: sandalwood, whaling, sugarcane, pineapple, the military, tourism and education. State Senatortor Sam Slom says state taxes are comparatively higher than other states because the state government handles education, health care, and social services that are usually handled at a county or municipal level in most other states. Hawaii has the only school system within the US that is unified statewide. Public elementary, middle and high school test scores in Hawaii are below national averages on tests mandated under the No Child Left Behind Act. The ACT college placement tests show that in 2005, seniors scored slightly above the national average (21.9 compared with 20.9), but in the widely accepted SAT examinations, Hawaii's college-bound seniors tend to score below the national average in all categories except mathematics. Hawaii has the highest rates of private school attendance in the nation. Independent and charter schools can select their students, while the public schools are open to all students in their district. The Kamehameha Schools are the only schools in the US that openly grant admission to students based on ancestry; collectively, they are one of the wealthiest schools in the United States, if not the world, having over eleven billion US dollars in estate assets.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13122171945701358, 0.4393939393939394, 0.20209059233449478, 0.12630662020905922]
+[0.01818181818181818, 0.06153846153846154, 0.02807017543859649, 0.017543859649122806]
+[0.07692307692307693, 0.25757575757575757, 0.11846689895470384, 0.0740418118466899]

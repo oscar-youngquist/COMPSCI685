@@ -1,0 +1,15 @@
+Document:
+kentucky
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+, Kentucky (US: (listen) kn-TUK-ee, UK: ken-) is a state in the Southern United States, bordered by Illinois, Indiana, and Ohio to the north; West Virginia and Virginia to the east; Tennessee to the south; and Missouri to the west . the bluegrass region in the central part of the commonwealth contains the commonwealth's capital, Frankfort, as well as its two largest cities, Louisville and Lexington .
+
+GT:
+It is home to the world's longest cave system: Mammoth Cave National Park, as well as the greatest length of navigable waterways and streams in the contiguous United States and the two largest man-made lakes east of the Mississippi River. The state is also known for horse racing, bourbon, moonshine, coal, "My Old Kentucky Home" historic state park, automobile manufacturing, tobacco, bluegrass music, college basketball, Louisville Slugger baseball bats, Kentucky Fried Chicken, and the Kentucky colonel. Key attractions include horse racing with events like the Kentucky Derby and the Keeneland Fall and Spring Meets, bourbon distillery tours and natural attractions such as the state's many lakes and parks to include Mammoth Cave, Lake Cumberland and Red River Gorge. The state also has several religious destinations such as the Creation Museum and Ark Encounter of Answers in Genesis. Churchill Downs, the home of the Derby, is a large venue with a capacity exceeding 165,000. Keeneland Race Course, in Lexington, hosts two major meets, the Spring and Fall running. The Kentucky Horse Park in Georgetown hosts multiple events throughout the year, including international equestrian competitions and also offers horseback riding from April to October.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17857142857142858, 0.5223880597014925, 0.2661596958174905, 0.16634980988593154]
+[0.041025641025641026, 0.12121212121212122, 0.06130268199233717, 0.03831417624521073]
+[0.10204081632653061, 0.29850746268656714, 0.1520912547528517, 0.09505703422053233]

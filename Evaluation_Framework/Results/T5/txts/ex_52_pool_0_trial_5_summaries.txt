@@ -1,0 +1,15 @@
+Document:
+michigan
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+is a state in the Great Lakes and Midwestern regions of the United States . Michigan is a state in the Great Lakes and Midwestern regions of the United States . Its name comes from the Ojibwe word mishigami, meaning "large water" or "large lake" with a population of approximately 10 million, Michigan is the tenth most populous state, the 11th most extensive state by area, and the largest by area east of the Mississippi River .
+
+GT:
+The Michigan State Normal School, now Eastern Michigan University, was founded in 1849, for the training of teachers. Cities, state universities, and villages are vested with home rule powers of varying degrees. The fifteen state universities have broad power and can do anything within the parameters of their status as educational institutions that is not prohibited by the state constitution. The state has maintained its early commitment to public education. Property taxes are assessed on the local level, but every property owner's local assessment contributes six mills (a rate of $6 per $1000 of property value) to the statutory State Education Tax. Event tourism draws large numbers to occasions like the Tulip Time Festival and the National Cherry Festival.In 2006, the Michigan State Board of Education mandated all public schools in the state hold their first day of school after Labor Day, in accordance with the new Post Labor Day School law. The public school system had a $14.5 billion budget in 2008–09.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.19760479041916168, 0.44594594594594594, 0.27385892116182575, 0.17116182572614108]
+[0.012048192771084338, 0.0273972602739726, 0.01673640167364017, 0.010460251046025106]
+[0.1317365269461078, 0.2972972972972973, 0.18257261410788386, 0.11410788381742741]

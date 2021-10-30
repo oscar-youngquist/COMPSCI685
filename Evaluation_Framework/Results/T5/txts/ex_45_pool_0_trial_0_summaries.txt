@@ -1,0 +1,15 @@
+Document:
+montana
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+is a state in the Northwestern United States. It is bordered by Idaho to the west; North Dakota and South Dakota to the east; Wyoming to the south; and by the Canadian provinces of Alberta, British Columbia, and Saskatchewan to the north. Montana ( (listen)) is a state in the Northwestern United States. it is bordered by Idaho to the west; North Dakota and South Dakota to the east; Wyoming to the south; and by the Canadian provinces of Alberta, British Columbia, and Saskatchewan to the north.
+
+GT:
+Montana's fastest-growing sector is tourism; nearly 13 million annual tourists visit Glacier National Park, Yellowstone National Park, Beartooth Highway, Flathead Lake, Big Sky Resort, and other attractions. The Big Hole Valley, Bitterroot Valley, Gallatin Valley, Flathead Valley, and Paradise Valley have extensive agricultural resources and multiple opportunities for tourism and recreation. Tracks of the Great Northern Railroad (GNR) reached eastern Montana in 1887 and when they reached the northern Rocky Mountains in 1890, the GNR became a significant promoter of tourism to Glacier National Park region. Tourism is also important to the economy, with more than ten million visitors a year to Glacier National Park, Flathead Lake, the Missouri River headwaters, the site of the Battle of Little Bighorn, and three of the five entrances to Yellowstone National Park. The C. M. Russell Museum Complex in Great Falls, Montana, houses more than 2,000 Russell artworks, personal objects, and artifacts. James Willard Schultz ("Apikuni") from Browning is most noted for his prolific stories about Blackfeet life and his contributions to the naming of prominent features in Glacier National Park.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17679558011049723, 0.37209302325581395, 0.23970037453183518, 0.14981273408239698]
+[0.011111111111111112, 0.023529411764705882, 0.01509433962264151, 0.009433962264150943]
+[0.11049723756906077, 0.23255813953488372, 0.14981273408239698, 0.0936329588014981]

@@ -1,0 +1,15 @@
+Document:
+california
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+California is the most populous US state and the third-largest by area, as well as the world's thirty-fourth-most-populous subnational entity . the Greater Los Angeles area and the San Francisco Bay Area are the nation's second- and fifth-most-populated subnational entity . the Greater Los Angeles area and the San Francisco Bay Area are the nation's second- and fifth-most-populated subnational entity .
+
+GT:
+California's public educational system is supported by a unique constitutional amendment that requires a minimum annual funding level for grades K–12 and community colleges that grow with the economy and student enrollment figures. In 2016, California's K–12 public school per-pupil spending was ranked 22nd in the nation ($11,500 per student vs. $11,800 for the US average). A 2007 study concluded that California's public school system was "broken" in that it suffered from over-regulation. California's public postsecondary education offers three separate systems: California is also home to such notable private universities as Stanford University, the University of Southern California, the California Institute of Technology, and the Claremont Colleges. About 1,102 school districts, independent of cities and counties, handle California's public education. California school districts may be organized as elementary districts, high school districts, unified school districts combining elementary and high school grades, or community college districts.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1337579617834395, 0.30434782608695654, 0.18584070796460178, 0.1161504424778761]
+[0.019230769230769232, 0.04411764705882353, 0.02678571428571429, 0.01674107142857143]
+[0.08917197452229299, 0.2028985507246377, 0.12389380530973453, 0.07743362831858407]

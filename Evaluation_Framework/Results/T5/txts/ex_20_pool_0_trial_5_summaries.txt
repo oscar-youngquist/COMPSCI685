@@ -1,0 +1,15 @@
+Document:
+new_hampshire
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+is a state in the New England region of the Northeastern United States . New Hampshire is bordered by Massachusetts to the south, Vermont to the west, Maine and the Atlantic Ocean to the east . New Hampshire is the 5th smallest by area and the 10th least populous US state .
+
+GT:
+In the spring, New Hampshire's many sap houses hold sugaring-off open houses. In summer and early autumn, New Hampshire is home to many county fairs, the largest being the Hopkinton State Fair, in Contoocook. New Hampshire's Lakes Region is home to many summer camps, especially around Lake Winnipesaukee, and is a popular tourist destination. The Peterborough Players have performed every summer in Peterborough since 1933. The Barnstormers Theatre in Tamworth, founded in 1931, is one of the longest-running professional summer theaters in the United States. The fall foliage peaks in mid-October. In the winter, New Hampshire's ski areas and snowmobile trails attract visitors from a wide area. After the lakes freeze over they become dotted with ice fishing ice houses, known locally as bobhouses. Funspot, the world's largest video arcade (now termed a museum), is in Laconia.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.19444444444444445, 0.5714285714285714, 0.2901554404145078, 0.18134715025906734]
+[0.055944055944055944, 0.16666666666666666, 0.08376963350785341, 0.052356020942408384]
+[0.125, 0.3673469387755102, 0.18652849740932642, 0.11658031088082901]

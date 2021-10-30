@@ -1,0 +1,15 @@
+Document:
+virginia
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+is the most-populous city, and Fairfax County is the most-populous political subdivision. The Commonwealth of Virginia ( (listen) is a state in the Mid-Atlantic region of the Southern United States. The geography and climate of the Commonwealth are shaped by the Blue Ridge Mountains and the Chesapeake Bay, which provide habitat for much of its flora and fauna.
+
+GT:
+Virginia ( (listen)), officially the Commonwealth of Virginia, is a state in the Mid-Atlantic region of the Southern United States, between the Atlantic Coast and the Appalachian Mountains. Virginia has a total area of 42,774.2 square miles (110,784.7 km2), including 3,180.13 square miles (8,236.5 km2) of water, making it the 35th-largest state by area. Forests cover 62 percent of Virginia as of 2019, of which 78 percent is considered hardwood forest, meaning that trees in Virginia are primarily deciduous and broad-leaved. Virginia is home to more than one million white-tailed deer, whose population have rebounded from an estimated 25,000 to 50,000 during the Great Depression. The first people are estimated to have arrived in Virginia over 12,000 years ago. Virginia is predominantly Christian and Protestant; Baptist denominations combined to form largest group with about 26 percent of the population as of 2014, and around 763,655 total members as of 2010. Virginia has launched many award-winning traditional musical artists and internationally successful popular music acts, as well as Hollywood actors. Virginia is known for its tradition in the music genres of old-time string and bluegrass, with groups such as the Carter Family and Stanley Brothers. There are 36 television stations in Virginia, representing each major US network, part of 42 stations which serve Virginia viewers including those broadcasting from neighboring jurisdictions. Virginia is the most populous US state without a major professional sports league franchise. The reasons for this include the lack of any dominant city or market within the state, the proximity of teams in Washington, D.C. and North Carolina, and a reluctance to publicly finance stadiums. The state's motto, Sic Semper Tyrannis, translates from Latin as "Thus Always to Tyrants", and is used on the state seal, which is then used on the flag.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1337579617834395, 0.7, 0.22459893048128343, 0.14037433155080214]
+[0.07028753993610223, 0.3728813559322034, 0.11827956989247311, 0.0739247311827957]
+[0.09235668789808917, 0.48333333333333334, 0.1550802139037433, 0.09692513368983956]

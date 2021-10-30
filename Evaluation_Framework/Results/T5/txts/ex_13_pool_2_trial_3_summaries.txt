@@ -1,0 +1,15 @@
+Document:
+nevada
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+(, Spanish: [neaa]) is a state in the Western United States . It is bordered by Oregon to the northwest, Idaho to the northeast, California to the west, Arizona to the southeast, and Utah to the east . Nevada is the 7th-most extensive, the 19th-least populous, but the 9th-least densely populated of the US states . Nearly three-quarters of Nevada's people live in Clark County, which contains the Las
+
+GT:
+Nevada is the driest state in the United States. It is made up of mostly desert and semi-arid climate regions, and, with the exception of the Las Vegas Valley, the average summer diurnal temperature range approaches 40 °F (22 °C) in much of the state. While winters in northern Nevada are long and fairly cold, the winter season in the southern part of the state tends to be of short duration and mild. Most parts of Nevada receive scarce precipitation during the year. The most rain that falls in the state falls on the lee side (east and northeast slopes) of the Sierra Nevada. The average annual rainfall per year is about 7 inches (180 mm); the wettest parts get around 40 inches (1,000 mm). Nevada's highest recorded temperature is 125 °F (52 °C) at Laughlin on June 29, 1994 and the lowest recorded temperature is −50 °F (−46 °C) at San Jacinto on January 8, 1937. Nevada's 125 °F (52 °C) reading is the third highest statewide record high temperature of a US state, just behind Arizona's 128 °F (53 °C) reading and California's 134 °F (57 °C) reading.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1836734693877551, 0.5142857142857142, 0.2706766917293233, 0.16917293233082706]
+[0.06153846153846154, 0.17391304347826086, 0.09090909090909091, 0.056818181818181816]
+[0.12755102040816327, 0.35714285714285715, 0.18796992481203006, 0.11748120300751878]

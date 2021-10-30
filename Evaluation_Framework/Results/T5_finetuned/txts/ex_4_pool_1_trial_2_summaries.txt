@@ -1,0 +1,15 @@
+Document:
+virginia
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+The Commonwealth of Virginia (listen) is officially the Commonwealth of Virginia, officially the Commonwealth of Virginia . the geography and climate of the Commonwealth are shaped by the Blue Ridge Mountains and the Chesapeake Bay . the capital of the Commonwealth is Richmond; Virginia Beach is the most-populous city, and Fairfax County is the most-populous political subdivision .
+
+GT:
+Virginia's state legislature is the Virginia General Assembly, which was established in 1619 and is the oldest continuous law-making body in North America. According to the Pew Research Center, the state has the highest number of Black-white interracial marriages in the United States, and 3.1 percent of Virginians describe themselves as biracial. Virginia however ranks worst in the nation for timely review of unemployment benefits due to the pandemic. Virginia has the highest defense spending of any state per capita, providing the Commonwealth with around 900,000 jobs. Virginia has one of the highest concentrations of veterans of any state, and is second to California in total Department of Defense employees. The Hampton Roads area has the largest concentration of military personnel and assets of any metropolitan area in the world, including the largest naval base in the world, Naval Station Norfolk. Virginia has the highest concentration of technology workers of any state, and the fourth-highest number of technology workers after California, Texas, and New York. Computer chips became the state's highest-grossing export in 2006, with a total export value of $694 million in 2019. The 2019 Quality Counts report ranked Virginia's K–12 education third in the country, with a letter grade of B.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1267605633802817, 0.47368421052631576, 0.2, 0.125]
+[0.02358490566037736, 0.08928571428571429, 0.0373134328358209, 0.023320895522388058]
+[0.107981220657277, 0.40350877192982454, 0.1703703703703704, 0.1064814814814815]

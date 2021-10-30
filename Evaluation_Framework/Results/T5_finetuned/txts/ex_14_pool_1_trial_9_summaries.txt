@@ -1,0 +1,15 @@
+Document:
+rhode_island
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Rhode Island ( (listen), like road) is a state in the New England region of the United States . it is the smallest US state by area and seventh least populous (1,059,361 as of 2019) but also the second most densely populated behind New Jersey .
+
+GT:
+It is the smallest US state by area and the seventh least populous (1,059,361 as of 2019), but it is also the second most densely populated behind New Jersey. The state boycotted the 1787 convention which drew up the United States Constitution and initially refused to ratify it; it was the last of the original 13 states to do so, on May 29, 1790. Rhode Island was the first of the thirteen colonies to renounce its allegiance to the British Crown on May 4, 1776. During the American Civil War, Rhode Island was the first Union state to send troops in response to President Lincoln's request for help from the states. In 1866, Rhode Island abolished racial segregation in the public schools throughout the state. Rhode Island is one of 21 states that have abolished capital punishment; it was second do so, just after Michigan, and carried out its last execution in the 1840s. Rhode Island was the second to last state to make prostitution illegal. The Colony of Rhode Island and Providence Plantations enacted the first law prohibiting slavery in America on May 18, 1652.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.20105820105820105, 0.8444444444444444, 0.32478632478632474, 0.20299145299145296]
+[0.16489361702127658, 0.7045454545454546, 0.2672413793103448, 0.16702586206896552]
+[0.14814814814814814, 0.6222222222222222, 0.2393162393162393, 0.14957264957264957]

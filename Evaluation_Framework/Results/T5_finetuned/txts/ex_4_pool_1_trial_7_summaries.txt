@@ -1,0 +1,15 @@
+Document:
+wisconsin
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+populous. Wisconsin ( (listen)) is a state in the Great Lakes region of the Midwestern United States . it is bordered by Minnesota to the west; Iowa to the southwest; Illinois to the south; Lake Michigan to the east; Michigan to the northeast; and Lake Superior to the north . Wisconsin is the 23rd-largest state by total area and the 20th-most populous .
+
+GT:
+Wisconsin does not collect inheritance taxes. There are no toll roads in Wisconsin; highway construction and maintenance are funded in part by motor fuel tax revenues, and the remaining balance is drawn from the State General Fund. Given the large number of lakes and rivers in the state, water recreation is very popular. Wisconsin has no production of oil, gas, or coal. The state has a mandate that ten percent of its electrical energy come from renewable sources by the end of 2015. Madison's suburb, Middleton, was ranked the "Best Place to Live in America" in 2007 by Money Magazine. Drinking has long been considered a significant part of Wisconsin culture, and the state ranks at or near the top of national measures of per-capita alcohol consumption, consumption of alcohol per state, and proportion of drinkers. In Wisconsin, the legal drinking age is 21, except when accompanied by a parent, guardian, or spouse who is at least 21 years old.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16666666666666666, 0.4426229508196721, 0.242152466367713, 0.15134529147982062]
+[0.012422360248447204, 0.03333333333333333, 0.018099547511312215, 0.011312217194570134]
+[0.1111111111111111, 0.29508196721311475, 0.1614349775784753, 0.1008968609865471]

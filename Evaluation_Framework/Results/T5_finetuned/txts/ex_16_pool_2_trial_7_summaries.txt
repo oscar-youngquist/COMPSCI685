@@ -1,0 +1,15 @@
+Document:
+montana
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Montana ( (listen)) is a state in the Northwestern United States . it is bordered by Idaho to the west; North Dakota and South Dakota to the east; Wyoming to the south; and by the Canadian provinces of Alberta, British Columbia, and Saskatchewan to the north . it is the fourth-largest state by area, the eighth-least populous state, and the third-least densely populated state .
+
+GT:
+Montana's Constitution specifically reads, "the state recognizes the distinct and unique cultural heritage of the American Indians and is committed in its educational goals to the preservation of their cultural integrity." It is the only state in the US with such a constitutional mandate. The Indian Education for All Act was passed in 1999 to provide funding for this mandate and ensure implementation. It mandates that all schools teach American Indian history, culture, and heritage from preschool through college. For kindergarten through 12th-grade students, an "Indian Education for All" curriculum from the Montana Office of Public Instruction is available free to all schools. Elementary and secondary education are overseen by the Office of Public Instruction (led by the elected superintendent of public instruction), in cooperation with the governor-appointed Board of Public Education. Higher education is overseen by a governor-appointed Board of Regents, which in turn appoints a commissioner of higher education. The Office of the Commissioner of Higher Education acts in an executive capacity on behalf of the regents, and oversees the state-run Montana University System.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1712707182320442, 0.484375, 0.2530612244897959, 0.15816326530612246]
+[0.03333333333333333, 0.09523809523809523, 0.04938271604938271, 0.0308641975308642]
+[0.11602209944751381, 0.328125, 0.17142857142857143, 0.10714285714285714]

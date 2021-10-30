@@ -1,0 +1,15 @@
+Document:
+oklahoma
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+is a state in the South Central region of the United States, bordered by the state of Texas on the south and west, Kansas on the north, Missouri on the northeast, Arkansas on the east, New Mexico on the west, and Colorado on the northwest . Oklahoma ( (listen)) is a state in the south central region of the United States, bordered by the state of Texas on the south and west, Kansas on the north, Missouri on the northeast, Arkansas on the east, New Mexico on the west, and
+
+GT:
+A portion of the Flint Hills stretches into north-central Oklahoma, and near the state's eastern border, The Oklahoma Tourism & Recreation Department regards Cavanal Hill as the world's tallest hill; at 1,999 feet (609 m), it fails their definition of a mountain by one foot. The Wichita Mountains Wildlife Refuge is the oldest and largest of nine National Wildlife Refuges in the state and was founded in 1901, encompassing 59,020 acres (238.8 km2). Of Oklahoma's federally protected parks or recreational sites, the Chickasaw National Recreation Area is the largest, with 9,898.63 acres (40.0583 km2). Ridge Bond, native of McAlester, Oklahoma, starred in the Broadway and International touring productions of Oklahoma!, playing the role of "Curly McClain" in more than 2,600 performances. The collections of Thomas Gilcrease are housed in the Gilcrease Museum of Tulsa, which also holds the world's largest, most comprehensive collection of art and artifacts of the American West. The Egyptian art collection at the Mabee-Gerrer Museum of Art in Shawnee is considered to be the finest Egyptian collection between Chicago and Los Angeles. The Oklahoma City Museum of Art contains the most comprehensive collection of glass sculptures by artist Dale Chihuly in the world, and Oklahoma City's National Cowboy & Western Heritage Museum documents the heritage of the American Western frontier. The First Friday Art Walk in the Paseo Arts District is an art appreciation festival held the first Friday of every month. The Tulsa State Fair attracts more than a million people each year during its ten-day run, and the city's Mayfest festival entertained more than 375,000 in four days during 2007. The Medieval Fair of Norman is Oklahoma's "largest weekend event and the third-largest event in Oklahoma, and was selected by Events Media Network as one of the top 100 events in the nation".
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12974683544303797, 0.4659090909090909, 0.20297029702970296, 0.12685643564356436]
+[0.01904761904761905, 0.06896551724137931, 0.029850746268656716, 0.01865671641791045]
+[0.10126582278481013, 0.36363636363636365, 0.15841584158415842, 0.09900990099009901]

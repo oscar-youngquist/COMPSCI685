@@ -1,0 +1,15 @@
+Document:
+tennessee
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+,, and the Mississippi River forms its western border. Tennessee is the 36th largest by area and the 16th most populous of the 50 states. Tennessee is the 16th most populous of the 50 states. Tennessee is the 36th largest by area and the 16th most populous of the 50 states. Tennessee is bordered by eight states, with eight states, including Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south. Arkansas to the west, and Missouri
+
+GT:
+Most of the state has a humid subtropical climate, with the exception of some of the higher elevations in the Appalachians, which are classified as having a mountain temperate or humid continental climate due to cooler temperatures. The Gulf of Mexico is the dominant factor in the climate of Tennessee, with winds from the south being responsible for most of the state's annual precipitation. Generally, the state has hot summers and mild to cool winters with generous precipitation throughout the year, with highest average monthly precipitation generally in the winter and spring months, between December and April. On average the state receives 50 inches (130 cm) of precipitation annually. Snowfall ranges from 5 inches (13 cm) in West Tennessee to over 80 inches (200 cm) in the highest mountains in East Tennessee. Summers in the state are generally hot and humid, with most of the state averaging a high of around 90 °F (32 °C) during the summer months. Winters tend to be mild to cool, increasing in coolness at higher elevations. The state averages about fifty days of thunderstorms per year, some of which can be severe with large hail and damaging winds. On average, the state has 15 tornadoes per year.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.21568627450980393, 0.5116279069767442, 0.30344827586206896, 0.18965517241379315]
+[0.024630541871921183, 0.058823529411764705, 0.034722222222222224, 0.021701388888888888]
+[0.12745098039215685, 0.3023255813953488, 0.17931034482758618, 0.11206896551724137]

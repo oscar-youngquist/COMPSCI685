@@ -1,0 +1,15 @@
+Document:
+maine
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 states .
+
+GT:
+There are thirty institutions of higher learning in Maine. These institutions include the University of Maine, which is the oldest, largest and only research university in the state. Bowdoin College is a liberal arts college founded in 1794 in Brunswick, making it the oldest institution of higher learning in the state. Colby College in Waterville was founded in 1813 making it the second oldest college in Maine. Bates College in Lewiston was founded in 1855 making it the third oldest institution in the state and the oldest coeducational college in New England. The three colleges collectively form the Colby-Bates-Bowdoin Consortium and are ranked among the best colleges in the United States Maine's per-student public expenditure for elementary and secondary schools was 21st in the nation in 2012, at $12,344. The collegiate system of Maine also includes numerous baccalaureate colleges such as: the Maine Maritime Academy (MMA), Unity College, and Thomas College. There is only one medical school in the state, (University of New England's College of Osteopathic Medicine) and only one law school (The University of Maine School of Law).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0913978494623656, 0.40476190476190477, 0.14912280701754385, 0.09320175438596492]
+[0.016216216216216217, 0.07317073170731707, 0.026548672566371685, 0.016592920353982302]
+[0.08064516129032258, 0.35714285714285715, 0.13157894736842105, 0.08223684210526315]

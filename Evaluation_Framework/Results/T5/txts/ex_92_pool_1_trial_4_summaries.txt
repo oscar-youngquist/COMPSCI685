@@ -1,0 +1,15 @@
+Document:
+washington
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+, the state of Washington, is a state in the Pacific Northwest region of the United States . Named for George Washington, the first US president, the state was made out of the western part of the Washington Territory . the state, which is bordered on the west by the Pacific Ocean, Oregon to the south, Idaho to the east, and the Canadian province of British Columbia to the north, was admitted to the Union as the state .
+
+GT:
+As described above, Washington's climate varies greatly from west to east. In the autumn and winter, a low-pressure cyclone system takes over in the north Pacific Ocean. The air spiraling inward in a counter-clockwise fashion causes Washington's prevailing winds to come from the southwest, and bring relatively warm and moist air masses and a predictably wet season. The term "Pineapple Express" is used colloquially to describe atmospheric river events, where repeated storm systems are directed by this persistent cyclone from tropical and near-tropical Pacific regions into the Pacific Northwest. Despite western Washington's having a marine climate similar to many coastal cities of Europe, there are exceptions such as the "Big Snow" events of 1880, 1881, 1893, and 1916, and the "deep freeze" winters of 1883–1884, 1915–1916, 1949–1950, and 1955–1956, among others. During these events, western Washington experienced up to 6 feet (1.8 m) of snow, sub-zero (−18 °C) temperatures, three months with snow on the ground, and lakes and rivers frozen over for weeks. Seattle's lowest officially recorded temperature is 0 °F (−18 °C) set on January 31, 1950, but low-altitude areas approximately three hours away from Seattle have recorded lows as cold as −48 °F (−44 °C).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1792452830188679, 0.5066666666666667, 0.26480836236933797, 0.16550522648083624]
+[0.037914691943127965, 0.10810810810810811, 0.05614035087719299, 0.03508771929824562]
+[0.09905660377358491, 0.28, 0.14634146341463414, 0.09146341463414634]

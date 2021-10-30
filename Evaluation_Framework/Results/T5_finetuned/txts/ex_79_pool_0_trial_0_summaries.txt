@@ -1,0 +1,15 @@
+Document:
+delaware
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Delaware ( (listen) DEL--wair) is a state in the Mid-Atlantic region of the United States . Delaware ( (listen) DEL--wair is a state in the Mid-Atlantic region of the United States . Delaware ( (listen) DEL--wair) is a state in the Mid-Atlantic region of the United States . Delaware ( (listen) DEL--wair) is a state in
+
+GT:
+In the early 1920s, Pierre S. du Pont served as president of the state board of education. Appalled by the condition of the black schools, du Pont donated four million dollars to construct 86 new school buildings. Unlike many states, Delaware's educational system is centralized in a state Superintendent of Education, with local school boards retaining control over taxation and some curriculum decisions. This centralized system, combined with the small size of the state, likely contributed to Delaware becoming the first state, after completion of a three-year, $30 million program ending in 1999, to wire every K-12 classroom in the state to the Internet. As of 2011, the Delaware Department of Education had authorized the founding of 25 charter schools in the state, one of them being all-girls. All teachers in the State's public school districts are unionized. One of the State's teachers' unions is Delaware State Education Association (DSEA), whose President as of January 2012 is Frederika Jenner.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17575757575757575, 0.5178571428571429, 0.26244343891402716, 0.16402714932126697]
+[0.04878048780487805, 0.14545454545454545, 0.07305936073059362, 0.04566210045662101]
+[0.1393939393939394, 0.4107142857142857, 0.2081447963800905, 0.13009049773755657]

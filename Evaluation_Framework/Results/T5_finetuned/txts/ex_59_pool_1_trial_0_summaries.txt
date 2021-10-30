@@ -1,0 +1,15 @@
+Document:
+oregon
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+is a state in the Pacific Northwest region on the West Coast of the United States . Oregon delineates much of Oregon's northern boundary with Washington, while the Snake River delineates much of its eastern boundary with Idaho . Oregon has been home to many indigenous nations for thousands of years .
+
+GT:
+While there is considerable evidence that Paleo-Indians inhabited the region, the oldest evidence of habitation in Oregon was found at Fort Rock Cave and the Paisley Caves in Lake County. The first Europeans to visit Oregon were Spanish explorers led by Juan Rodríguez Cabrillo, who sighted southern Oregon off the Pacific coast in 1543. Exploration continued routinely in 1774, starting with the expedition of the frigate Santiago by Juan José Pérez Hernández, and the coast of Oregon became a valuable trade route to Asia. Some travelled as members of the Lewis and Clark and 1811 Astor expedition. The Lewis and Clark Expedition travelled through northern Oregon also in search of the Northwest Passage. They built their winter fort in 1805–06 at Fort Clatsop, near the mouth of the Columbia River, staying at the encampment from December until March. In 1811, while working for the North West Company, Thompson became the first European to navigate the entire Columbia River. This government was the first acting public government of the Oregon Country before annexation by the government of the United States. Starting in 1842–43, the Oregon Trail brought many new American settlers to the Oregon Country. The Oregon Territory was officially organized on August 13, 1848. Oregon was admitted to the Union on February 14, 1859, though no one in Oregon knew it, until March 15. On May 5, 1945, six civilians were killed by a Japanese balloon bomb that exploded on Gearhart Mountain near Bly. During the 1970s, the Pacific Northwest was particularly affected by the 1973 oil crisis, with Oregon suffering a substantial shortage. In 1994, Oregon became the first US state to legalize physician-assisted suicide through the Oregon Death with Dignity Act.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10689655172413794, 0.62, 0.1823529411764706, 0.11397058823529414]
+[0.02422145328719723, 0.14285714285714285, 0.04142011834319526, 0.02588757396449704]
+[0.05862068965517241, 0.34, 0.09999999999999999, 0.06249999999999999]

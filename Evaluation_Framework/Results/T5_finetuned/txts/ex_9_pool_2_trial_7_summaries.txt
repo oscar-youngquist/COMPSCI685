@@ -1,0 +1,15 @@
+Document:
+tennessee
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+, and the Mississippi River forms its western border . Tennessee is the 36th largest by area and the 16th most populous of the 50 states . it is bordered by eight states, including the Appalachian Mountains .
+
+GT:
+Tennessee is home to the Great Smoky Mountains National Park, the most visited national park in the United States. The park anchors a large tourism industry based primarily in nearby Gatlinburg and Pigeon Forge, which consists of such attractions as Dollywood, the most visited ticketed attraction in Tennessee, Ober Gatlinburg, and Ripley's Aquarium of the Smokies. Major attractions in Memphis include Graceland, the home of Elvis Presley, Beale Street, the National Civil Rights Museum, the Memphis Zoo, and the Stax Museum of American Soul Music. Nashville contains many attractions related to its musical heritage, including Lower Broadway, the Country Music Hall of Fame, the Ryman Auditorium, Grand Ole Opry, and the Gaylord Opryland Resort. Other major attractions in Nashville include the Tennessee State Museum, Parthenon, and the Belle Meade Plantation. Major attractions in Chattanooga include Lookout Mountain, the Chattanooga Choo-Choo Hotel, Ruby Falls, and the Tennessee Aquarium, the largest freshwater aquarium in the United States. Other major attractions include the American Museum of Science and Energy in Oak Ridge, the Bristol Motor Speedway in Bristol, Jack Daniel's Distillery in Lynchburg, and the Hiwassee and Ocoee rivers in Polk County. Tennessee is home to five National Scenic Byways, including the Natchez Trace Parkway, the East Tennessee Crossing Byway, the Great River Road, The Trace, and the Cherohala Skyway. Four Civil War battlefields in Tennessee are preserved by the National Park Service: Chickamauga and Chattanooga National Military Park, Stones River National Battlefield, Shiloh National Military Park, and Fort Donelson National Battlefield. Big South Fork National River and Recreation Area is within the Cumberland Mountains in northeastern Tennessee. Other major attractions preserved by the National Park Service include Cumberland Gap National Historical Park and Overmountain Victory National Historic Trail.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07612456747404844, 0.6470588235294118, 0.13622291021671828, 0.08513931888544893]
+[0.017361111111111112, 0.15151515151515152, 0.031152647975077885, 0.019470404984423675]
+[0.04498269896193772, 0.38235294117647056, 0.0804953560371517, 0.05030959752321981]

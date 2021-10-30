@@ -1,0 +1,15 @@
+Document:
+connecticut
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Connecticut ( (listen)) is the southernmost state in the New England region of the Northeastern United States . as of the 2010 Census, it has the highest per-capita income, Human Development Index (0.962) and median household income in the United States . Connecticut ( (listen)) is the southernmost state in the New England region of the Northeastern United States .
+
+GT:
+The first European explorer in Connecticut was Dutchman Adriaen Block, who explored the region in 1614. The Connecticut Colony was originally a number of separate, smaller settlements at Windsor, Wethersfield, Saybrook, Hartford, and New Haven. The main body of settlers came in one large group in 1636. The New Haven Colony had its own constitution called "The Fundamental Agreement of the New Haven Colony", signed on June 4, 1639. Historically important colonial settlements included Windsor (1633), Wethersfield (1634), Saybrook (1635), Hartford (1636), New Haven (1638), Fairfield (1639), Guilford (1639), Milford (1639), Stratford (1639), Farmington (1640), Stamford (1641), and New London (1646). Connecticut ratified the US Constitution on January 9, 1788, becoming the fifth state. After Congress established in 1790 the predecessor to the US Revenue Cutter Service that would evolve into the US Coast Guard, President Washington assigned Jonathan Maltbie as one of seven masters to enforce customs regulations, with Maltbie monitoring the southern New England coast with a 48-foot cutter sloop named Argus. In 1786, Connecticut ceded territory to the US government that became part of the Northwest Territory. Connecticut manufacturers played a major role in supplying the Union forces with weapons and supplies during the Civil War. When World War I broke out in 1914, Connecticut became a major supplier of weaponry to the US military; by 1918, 80% of the state's industries were producing goods for the war effort. The state enthusiastically supported the American war effort in 1917 and 1918 with large purchases of war bonds, a further expansion of industry, and an emphasis on increasing food production on the farms.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09737827715355805, 0.45614035087719296, 0.16049382716049385, 0.10030864197530864]
+[0.022556390977443608, 0.10714285714285714, 0.03726708074534161, 0.023291925465838505]
+[0.07865168539325842, 0.3684210526315789, 0.12962962962962962, 0.0810185185185185]

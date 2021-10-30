@@ -1,0 +1,15 @@
+Document:
+indiana
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+is the 38th-largest by area and the 17th-most populous of the 50 United States. Indiana ( (listen)) is a US state in the Midwestern and Great Lakes regions of North America. Indiana ( (listen)) is a US state in the Midwestern and Great Lakes regions of North America. It is the 38th-largest by area and the 17th-most populous of the 50 United States. It borders Lake Michigan to the northwest, Michigan to the north, Ohio to
+
+GT:
+The first inhabitants in what is now Indiana were the Paleo-Indians, who arrived about 8000 BCE after the melting of the glaciers at the end of the Ice Age. In 1679, French explorer René-Robert Cavelier, Sieur de La Salle was the first European to cross into Indiana after reaching present-day South Bend at the Saint Joseph River. In 1775, the American Revolutionary War began as the colonists sought self-government and independence from the British. In 1787, the US defined the Northwest Territory which included the area of present-day Indiana. In 1800, Congress separated Ohio from the Northwest Territory, designating the rest of the land as the Indiana Territory. Corydon, a town in the far southern part of Indiana, was named the second capital of the Indiana Territory in May 1813 in order to decrease the threat of Native American raids following the Battle of Tippecanoe. On June 10, 1816, delegates assembled at Corydon to write the constitution, which was completed in 19 days. Many European immigrants went west to settle in Indiana in the early 19th century. Indiana was the first western state to mobilize for the United States in the war, and soldiers from Indiana participated in all the war's major engagements. With the onset of the industrial revolution, Indiana industry began to grow at an accelerated rate across the northern part of the state. In the early 20th century, Indiana developed into a strong manufacturing state with ties to the new auto industry. During the 1930s, Indiana, like the rest of the nation, was affected by the Great Depression. With the conclusion of World War II, Indiana rebounded to pre-Depression levels of production. On December 8, 1964, a Convair B-58 carrying nuclear weapons slid off an icy runway on Bunker Hill Air Force Base in Bunker Hill, Indiana and caught fire during a training drill. The 1973 oil crisis created a recession that hurt the automotive industry in Indiana.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11550151975683891, 0.48717948717948717, 0.18673218673218672, 0.1167076167076167]
+[0.027439024390243903, 0.11688311688311688, 0.044444444444444446, 0.027777777777777776]
+[0.0790273556231003, 0.3333333333333333, 0.12776412776412777, 0.07985257985257986]

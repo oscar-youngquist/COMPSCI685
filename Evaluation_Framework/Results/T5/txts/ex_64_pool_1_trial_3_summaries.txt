@@ -1,0 +1,15 @@
+Document:
+mississippi
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+is the state's 32nd largest and 34th-most populous metropolitan area . Greater Jackson is the state's capital and largest city .
+
+GT:
+Mississippi was the site of many prominent events during the civil rights movement, including the Ole Miss riot of 1962 by white students objecting to desegregation, the 1963 assassination of Medgar Evers, and the 1964 Freedom Summer murders of three activists working on voting rights. In 2010, 37.3% of Mississippi's population was African American, the highest percentage of any state. European-American settlers named it after the Ojibwe word misi-ziibi (English: Great river). About 420 species of birds are known to inhabit Mississippi. When cotton was king during the 1850s, Mississippi plantation owners—especially those of the Delta and Black Belt central regions—became wealthy due to the high fertility of the soil, the high price of cotton on the international market, and free labor gained through their holding enslaved African Americans. By 1860, the enslaved African-American population numbered 436,631 or 55% of the state's total of 791,305 persons. Union General Ulysses S. Grant's long siege of Vicksburg finally gained the Union control of the river in 1863. Blacks and whites in Mississippi generated rich, quintessentially American music traditions: gospel music, country music, jazz, blues and rock and roll. All were invented, promulgated or heavily developed by Mississippi musicians, many of them African American, and most came from the Mississippi Delta. Mississippi became the last state to remove the Confederate battle flag as an official state symbol on June 30, 2020, when Governor Tate Reeves signed a law officially retiring the second state flag. The state is ranked 50th or last place among all the states for health care, according to the Commonwealth Fund, a nonprofit foundation working to advance performance of the health care system. Gambling towns in Mississippi have attracted increased tourism: they include the Gulf Coast resort towns of Bay St. Louis, Gulfport and Biloxi, and the Mississippi River towns of Tunica (the third largest gaming area in the United States), Greenville, Vicksburg and Natchez. Elvis Presley, who created a sensation in the 1950s as a crossover artist and contributed to rock 'n' roll, was a native of Tupelo.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.037142857142857144, 0.5909090909090909, 0.06989247311827956, 0.043682795698924734]
+[0.008595988538681949, 0.14285714285714285, 0.016216216216216214, 0.010135135135135134]
+[0.02857142857142857, 0.45454545454545453, 0.05376344086021505, 0.033602150537634407]

@@ -1,0 +1,15 @@
+Document:
+georgia
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+is the 24th-largest in area and 8th-most populous of the 50 United States . Georgia () is a state in the Deep South region of the Southern United States, bordered to the north by Tennessee and North Carolina; to the northeast by South Carolina; to the southeast by the Atlantic Ocean; to the south by Florida; and to the west by Alabama . Georgia is the state's capital and its capital.
+
+GT:
+The Province of Georgia was one of the Thirteen Colonies that revolted against British rule in the American Revolution by signing the 1776 Declaration of Independence. In December 1864, a large swath of the state from Atlanta to Savannah was destroyed during General William Tecumseh Sherman's March to the Sea. According to the Equal Justice Institute's 2015 report on lynching in the United States (1877–1950), Georgia had 531 deaths, the second-highest total of these extralegal executions of any state in the South. An Atlanta-born Baptist minister who was part of the educated middle class that had developed in Atlanta's African-American community, Martin Luther King Jr., emerged as a national leader in the civil rights movement. Georgia recognizes all local units of government as cities, so every incorporated town is legally a city. For more than 130 years, from 1872 to 2003, Georgians nominated and elected only white Democratic governors, and white Democrats held the majority of seats in the General Assembly. In presidential elections, Georgia voted solely Democratic in every election from 1900 to 1960. For years Georgia as a state has had the highest credit rating by Standard & Poor's (AAA) and is one of only 15 states with a AAA rating. In 2016, Georgia had median annual income per person of between $50,000 and $59,999, which is in inflation-adjusted dollars for 2016. Atlanta now is even called the "Hollywood of the South". The city of Athens sparked an influential rock music scene in the 1980s and 1990s. There are 48 television broadcast stations in Georgia including TBS, TNT, TCM, Cartoon Network, CNN and Headline News, all founded by notable Georgia resident Ted Turner.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15087719298245614, 0.6056338028169014, 0.24157303370786518, 0.15098314606741572]
+[0.035211267605633804, 0.14285714285714285, 0.05649717514124294, 0.03531073446327684]
+[0.0912280701754386, 0.36619718309859156, 0.14606741573033707, 0.09129213483146069]

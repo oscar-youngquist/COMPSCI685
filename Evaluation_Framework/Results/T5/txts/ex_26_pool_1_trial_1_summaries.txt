@@ -1,0 +1,15 @@
+Document:
+vermont
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Vermont ( (listen)) is a northeastern state in the New England region of the United States . it borders the states of Massachusetts to the south, New Hampshire to the east, and New York to the west . Vermont is the sixth-smallest by area of the 50 US states .
+
+GT:
+Vermont was named the nation's smartest state in 2005 and 2006. In 2006, there was a gap between state testing standards and national, which is biased in favor of the state standards by 30%, on average. In 2017, spending $1.6 billion on education for 76,000 public school children, represents more than $21,000 per student. In 2011, 91% of the population had graduated from high school compared with 85% nationally. Almost 34% have at least an undergraduate degree compared with 28% nationally. Experimentation at the University of Vermont by George Perkins Marsh, and later the influence of Vermont-born philosopher and educator John Dewey brought about the concepts of electives and learning by doing. Vermont has five colleges within the Vermont State Colleges system, University of Vermont (UVM), and thirteen other private, degree-granting colleges, including Bennington College, Champlain College, Goddard College, Marlboro College, Middlebury College, Saint Michael's College, the Vermont Law School, and Norwich University. In 2016, the University of Vermont charged the second highest tuition in the nation for four years, $61,000 for in-state students, to $147,000 for out-of-state students.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12041884816753927, 0.48936170212765956, 0.19327731092436976, 0.12079831932773108]
+[0.02631578947368421, 0.10869565217391304, 0.0423728813559322, 0.026483050847457622]
+[0.09424083769633508, 0.3829787234042553, 0.1512605042016807, 0.09453781512605042]

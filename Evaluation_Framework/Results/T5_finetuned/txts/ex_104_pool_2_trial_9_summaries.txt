@@ -1,0 +1,15 @@
+Document:
+tennessee
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+, and the Mississippi River forms its western border . Tennessee is the 36th largest by area and the 16th most populous of the 50 states . Tennessee is bordered by eight states, including the Appalachian Mountains .
+
+GT:
+Most of the state has a humid subtropical climate, with the exception of some of the higher elevations in the Appalachians, which are classified as having a mountain temperate or humid continental climate due to cooler temperatures. Generally, the state has hot summers and mild to cool winters with generous precipitation throughout the year, with highest average monthly precipitation generally in the winter and spring months, between December and April. The driest months, on average, are August to October. On average the state receives 50 inches (130 cm) of precipitation annually. Snowfall ranges from 5 inches (13 cm) in West Tennessee to over 80 inches (200 cm) in the highest mountains in East Tennessee. Summers in the state are generally hot and humid, with most of the state averaging a high of around 90 °F (32 °C) during the summer months. Winters tend to be mild to cool, increasing in coolness at higher elevations. Generally, for areas outside the highest mountains, the average overnight lows are near freezing for most of the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09826589595375723, 0.5, 0.1642512077294686, 0.10265700483091789]
+[0.011627906976744186, 0.06060606060606061, 0.019512195121951223, 0.012195121951219514]
+[0.06358381502890173, 0.3235294117647059, 0.10628019323671498, 0.06642512077294686]

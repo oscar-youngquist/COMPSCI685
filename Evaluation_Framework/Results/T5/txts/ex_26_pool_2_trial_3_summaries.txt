@@ -1,0 +1,15 @@
+Document:
+indiana
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+is the 38th-largest by area and the 17th-most populous of the 50 United States. Indiana ( (listen)) is a US state in the Midwestern and Great Lakes regions of North America. Indiana ( (listen)) is a US state in the Midwestern and Great Lakes regions of North America. It is the 38th-largest by area and the 17th-most populous of the 50 United States. It borders Lake Michigan to the northwest, Michigan to the north, Ohio to
+
+GT:
+Indiana's 1816 constitution was the first in the country to implement a state-funded public school system. It also allotted one township for a public university. However, the plan turned out to be far too idealistic for a pioneer society, as tax money was not accessible for its organization. In the 1840s, Caleb Mills pressed the need for tax-supported schools, and in 1851 his advice was included in the new state constitution. In 1843 the Legislature ruled that African Americans could not attend the public schools, leading to the foundation of Union Literary Institute and other schools for them, funded by donations or the students themselves. Although the growth of the public school system was held up by legal entanglements, many public elementary schools were in use by 1870. Most children in Indiana attend public schools, but nearly ten percent attend private schools and parochial schools. About half of all college students in Indiana are enrolled in state-supported four-year schools. Indiana public schools have gone through several changes throughout Indiana's history. The overall goal of these new state standards is to ensure Indiana students have the necessary skills and requirements needed to enter college or the workforce upon high school graduation. State standards can be found for nearly every major subject taught in Indiana public schools. The largest educational institution is Indiana University, the flagship campus of which was endorsed as Indiana Seminary in 1820. Many of Indiana's private colleges and universities are affiliated with religious groups. The state's community college system, Ivy Tech Community College of Indiana, serves nearly 200,000 students annually, making it the state's largest public post-secondary educational institution and the nation's largest singly accredited statewide community college system. The state has several universities ranked among the best in 2013 rankings of the US News & World Report.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13183279742765272, 0.5256410256410257, 0.2107969151670951, 0.13174807197943444]
+[0.01935483870967742, 0.07792207792207792, 0.0310077519379845, 0.019379844961240313]
+[0.08038585209003216, 0.32051282051282054, 0.12853470437017994, 0.08033419023136246]

@@ -1,0 +1,15 @@
+Document:
+mississippi
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+is the state's 32nd largest and 34th-most populous metropolitan area . Greater Jackson is the state's capital and largest city .
+
+GT:
+In the 21st century, 91% of white children and most of the black children in the state attend public schools. In 2008, Mississippi was ranked last among the fifty states in academic achievement by the American Legislative Exchange Council's Report Card on Education, with the lowest average ACT scores and sixth-lowest spending per pupil in the nation. In contrast, Mississippi had the 17th-highest average SAT scores in the nation. As an explanation, the Report noted that 92% of Mississippi high school graduates took the ACT, but only 3% of graduates took the SAT, apparently a self-selection of higher achievers. Generally prohibited in the West at large, school corporal punishment is not unusual in Mississippi, with 31,236 public school students paddled at least one time circa 2016. A greater percentage of students were paddled in Mississippi than in any other state, according to government data for the 2011–2012 school year.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.06451612903225806, 0.45454545454545453, 0.11299435028248588, 0.07062146892655366]
+[0.006493506493506494, 0.047619047619047616, 0.01142857142857143, 0.0071428571428571435]
+[0.04516129032258064, 0.3181818181818182, 0.0790960451977401, 0.049435028248587566]

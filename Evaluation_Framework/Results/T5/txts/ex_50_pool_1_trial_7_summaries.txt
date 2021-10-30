@@ -1,0 +1,15 @@
+Document:
+new_york
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+the 27th largest state. New York is the home of New York City. New York is a state in the northeastern United States. It was one of the original thirteen colonies, forming the United States. New York is a state in the northeastern United States. It was one of the original thirteen colonies, forming the United States. With an estimated population of 8.34 million in 2019, New York City is the fourth most populous.
+
+GT:
+The SUNY system consists of 64 community colleges, technical colleges, undergraduate colleges, and doctoral-granting institutions, including several universities. Columbia University, Cornell University and New York University are among the most prominent of the larger higher education institutions in New York, all of them leading, world-renowned private universities and members of the Association of American Universities, the pre-eminent group of research universities in the United States. New York is also home to what is widely regarded as the best performing arts schools in the world. The University of the State of New York accredits and sets standards for elementary, middle-level, and secondary education in the state, while the New York State Education Department oversees public schools and controls their standardized tests. The New York City Department of Education manages the New York City Public Schools system. In 1900, the state passed another law requiring integrated schools. During the 2013 fiscal year, New York spent more on public education per pupil than any other state, according to US Census Bureau statistics.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2254335260115607, 0.52, 0.314516129032258, 0.1965725806451613]
+[0.09302325581395349, 0.21621621621621623, 0.13008130081300812, 0.08130081300813008]
+[0.16184971098265896, 0.37333333333333335, 0.22580645161290325, 0.14112903225806453]

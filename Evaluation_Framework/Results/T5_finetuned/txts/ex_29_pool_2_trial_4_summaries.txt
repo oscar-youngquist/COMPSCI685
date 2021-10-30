@@ -1,0 +1,15 @@
+Document:
+illinois
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+a microcosm of the entire United States. Illinois ( (listen) IL--NOY) is a state in the Midwestern and Great Lakes regions of the United States. it has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all states. Illinois has a diverse economic base, and is a microcosm of the entire United States.
+
+GT:
+Illinois has a climate that varies widely throughout the year. The southern part of the state, from about Carbondale southward, has a humid subtropical climate (Koppen Cfa), with more moderate winters. Average yearly precipitation for Illinois varies from just over 48 inches (1,219 mm) at the southern tip to around 35 inches (889 mm) in the northern portion of the state. Normal annual snowfall exceeds 38 inches (965 mm) in the Chicago area, while the southern portion of the state normally receives less than 14 inches (356 mm). The all-time high temperature was 117 °F (47 °C), recorded on July 14, 1954, at East St. Louis, and the all-time low temperature was −38 °F (−39 °C), recorded on January 31, 2019, during the January 2019 North American cold wave at a weather station near Mount Carroll, and confirmed on March 5, 2019. Illinois averages approximately 51 days of thunderstorm activity a year, which ranks somewhat above average in the number of thunderstorm days for the United States. Illinois is vulnerable to tornadoes, with an average of 35 occurring annually, which puts much of the state at around five tornadoes per 10,000 square miles (30,000 km2) annually. The Tri-State Tornado of 1925 killed 695 people in three states
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14553990610328638, 0.5, 0.22545454545454544, 0.1409090909090909]
+[0.04716981132075472, 0.16393442622950818, 0.07326007326007326, 0.045787545787545784]
+[0.10328638497652583, 0.3548387096774194, 0.16, 0.1]

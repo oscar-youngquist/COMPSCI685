@@ -1,0 +1,15 @@
+Document:
+alaska
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+( (listen); Alaska ( (listen); Alaska ( (listen); Aleut: Alaxsxax; Inupiaq: Alaasikaq; Pacific Gulf Yupik: Alaasikaq; Tlingit: Anáaski) is a US state on the northwest extremity of the country's West Coast, just across the Bering Strait . Alaska ( (listen); Aleut: Alaxsxax; Aleu
+
+GT:
+Denali National Park and Preserve is located here. Denali, formerly Mount McKinley, is the highest mountain in North America. The Aleutian Islands chain extends west from the southern tip of the Alaska Peninsula. Unimak Island, for example, is home to Mount Shishaldin, which is an occasionally smoldering volcano that rises to 10,000 feet (3,000 m) above the North Pacific. The Arctic National Wildlife Refuge is managed by the United States Fish and Wildlife Service. It is the world's largest wildlife refuge, comprising 16 million acres (6.5 million hectares). The population of Ketchikan for example fluctuates dramatically on many days—up to four large cruise ships can dock there at the same time.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10344827586206896, 0.3, 0.15384615384615385, 0.09615384615384616]
+[0.008695652173913044, 0.02564102564102564, 0.012987012987012988, 0.008116883116883118]
+[0.0603448275862069, 0.175, 0.08974358974358974, 0.056089743589743585]

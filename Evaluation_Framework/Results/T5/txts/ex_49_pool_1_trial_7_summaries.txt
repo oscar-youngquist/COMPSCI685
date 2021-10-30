@@ -1,0 +1,15 @@
+Document:
+texas
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Texas (, also locally ; Spanish: Texas or Tejas, pronounced [texas] (listen)) is a state in the South Central Region of the United States . It is the second largest US state by both area (after Alaska) and population (after California).
+
+GT:
+The first historical document related to Texas was a map of the Gulf Coast, created in 1519 by Spanish explorer Alonso Álvarez de Pineda. Cabeza de Vaca reported that in 1528, when the Spanish landed in the area, "half the natives died from a disease of the bowels and blamed us." When the United States purchased Louisiana from France in 1803, American authorities insisted the agreement also included Texas. As early as 1837, the Republic made several attempts to negotiate annexation with the United States. On December 29, 1845, Congress admitted Texas to the US as a constituent state of the Union. The Compromise of 1850 set Texas's boundaries at their present form. In 1900, Texas suffered the deadliest natural disaster in US history during the Galveston hurricane. In 1901, the Democratic-dominated state legislature passed a bill requiring payment of a poll tax for voting, which effectively disenfranchised most blacks and many poor whites and Latinos. On November 22, 1963, President John F. Kennedy was assassinated in Dallas.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11176470588235295, 0.5, 0.18269230769230768, 0.1141826923076923]
+[0.023668639053254437, 0.10810810810810811, 0.038834951456310676, 0.02427184466019417]
+[0.07647058823529412, 0.34210526315789475, 0.12500000000000003, 0.078125]

@@ -1,0 +1,15 @@
+Document:
+colorado
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Colorado ( (listen), other variants) is a state in the western United States encompassing most of the southern Rocky Mountains as well as the northeastern portion of the Colorado Plateau and the western edge of the Great Plains . the estimated population of Colorado is 5,758,736 as of 2019, an increase of 14.5% since the 2010 United States Census . the region has beeninhabited by Native Americans for more than 13,000 years, with the Lindenmeier Site containing artifacts dating from approximately 9 years old .
+
+GT:
+Higher education in and near the Western Slope can be found at Colorado Mesa University in Grand Junction, Western Colorado University in Gunnison, Fort Lewis College in Durango, and Colorado Mountain College in Glenwood Springs and Steamboat Springs. The State of Colorado is divided into 64 counties. The state of Colorado has more than 3,000 districts with taxing authority. These districts may provide schools, law enforcement, fire protection, water, sewage, drainage, irrigation, transportation, recreation, infrastructure, cultural facilities, business support, redevelopment, or other services. Some of these districts have authority to levy sales tax and well as property tax and use fees. Colorado was the first state in the union to enact, by voter referendum, a law extending suffrage to women.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.24793388429752067, 0.35294117647058826, 0.2912621359223301, 0.1820388349514563]
+[0.058333333333333334, 0.08333333333333333, 0.06862745098039216, 0.0428921568627451]
+[0.14049586776859505, 0.2, 0.16504854368932037, 0.10315533980582524]

@@ -1,0 +1,15 @@
+Document:
+florida
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+is a state located in the southeastern region of the United States . Florida is the third-most populous and the 22nd-most extensive of the 50 United States . the state is bordered to the west by the Gulf of Mexico, to the northwest by Alabama, to the north by Georgia, to the east by the Atlantic Ocean, and to the south by the Straits of Florida .
+
+GT:
+With an educational system made up of public school districts and independent private institutions, Florida had 2,833,115 students enrolled in 4,269 public primary, secondary, and vocational schools in Florida's 67 regular or seven special school districts as of 2018. Miami-Dade County is the largest of Florida's 67 regular districts with more than 350 thousand students and Jefferson is the smallest with less than one thousand students. Florida spent $8,920 for each student in 2016, and was 43rd in the nation in expenditures per student. Florida's primary and secondary school systems are administered by the Florida Department of Education. School districts are organized within county boundaries. Each school district has an elected Board of Education that sets policy, budget, goals, and approves expenditures. Management is the responsibility of a Superintendent of schools. The Florida Department of Education is required by law to train educators in teaching English for Speakers of Other Languages (ESOL). The State University System of Florida was founded in 1905, and is governed by the Florida Board of Governors. During the 2010 academic year, 312,216 students attended one of these twelve universities. The Florida College System comprises 28 public community and state colleges.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14215686274509803, 0.4393939393939394, 0.2148148148148148, 0.13425925925925924]
+[0.029556650246305417, 0.09230769230769231, 0.04477611940298508, 0.027985074626865673]
+[0.10294117647058823, 0.3181818181818182, 0.15555555555555556, 0.09722222222222221]

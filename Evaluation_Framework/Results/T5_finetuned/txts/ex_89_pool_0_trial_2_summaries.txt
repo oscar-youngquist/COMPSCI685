@@ -1,0 +1,15 @@
+Document:
+kentucky
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+(US: (listen) kn-TUK-ee, UK: ken-) is a state in the Southern United States, bordered by Illinois, Indiana, and Ohio to the north; West Virginia and Virginia to the east; Tennessee to the south; and Missouri to the west . the bluegrass region in the central part of the commonwealth contains the commonwealth's capital, Frankfort, as well as its two largest cities, Louisville and Lexington . Together they comprise more
+
+GT:
+It is known as the "Bluegrass State", a nickname based on Kentucky bluegrass, a species of grass found in many of its pastures, which has supported the thoroughbred horse industry in the center of the state. It is home to the world's longest cave system: Mammoth Cave National Park, as well as the greatest length of navigable waterways and streams in the contiguous United States and the two largest man-made lakes east of the Mississippi River. Kentucky has more navigable miles of water than any other state in the union, other than Alaska. Kentucky is the only US state to have a continuous border of rivers running along three of its sides – the Mississippi River to the west, the Ohio River to the north, and the Big Sandy River and Tug Fork to the east. Kentucky has been part of two of the most successful wildlife reintroduction projects in United States history. In the winter of 1997, the Kentucky Department of Fish and Wildlife Resources began to re-stock elk in the state's eastern counties, which had been extinct from the area for over 150 years. In 1774 James Harrod founded the first permanent European settlement in Kentucky at the site of present-day Harrodsburg. Kentucky is one of four US states to officially use the term commonwealth. Kentucky ranks 4th among US states in the number of automobiles and trucks assembled. Kentucky produces 95% of the world's supply of bourbon whiskey, and the number of barrels of bourbon being aged in Kentucky (more than 5.7 million) exceeds the state's population. Churchill Downs, the home of the Derby, is a large venue with a capacity exceeding 165,000. The biggest day in American horse racing, the Kentucky Derby, is preceded by the two-week Derby Festival in Louisville. Old Louisville, the largest historic preservation district in the United States featuring Victorian architecture and the third largest overall, hosts the St. James Court Art Show, the largest outdoor art show in the United States. Harland Sanders, a Kentucky colonel, originated Kentucky Fried Chicken at his service station in North Corbin, though the first franchised KFC was located in South Salt Lake, Utah.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1226158038147139, 0.6428571428571429, 0.20594965675057206, 0.12871853546910755]
+[0.05191256830601093, 0.2753623188405797, 0.08735632183908047, 0.05459770114942528]
+[0.08446866485013624, 0.44285714285714284, 0.14187643020594964, 0.08867276887871854]

@@ -1,0 +1,15 @@
+Document:
+michigan
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Michigan ( (listen)) is a state in the Great Lakes and Midwestern regions of the United States . its name comes from the Ojibwe word mishigami, meaning "large water" or "large lake" with population of approximately 10 million, Michigan is the tenth most populous state . Michigan is the 11th most extensive state by area, and the largest by area east of the Mississippi River .
+
+GT:
+Michigan modernized and expanded its system of education in this period. The Michigan State Normal School, now Eastern Michigan University, was founded in 1849, for the training of teachers. It adopted this model from the German educational system. In 1899, Michigan State became the first normal college in the nation to offer a four-year curriculum. The fifteen state universities have broad power and can do anything within the parameters of their status as educational institutions that is not prohibited by the state constitution. Michigan's schools and colleges rank among the nation's best. The state has maintained its early commitment to public education.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.23809523809523808, 0.4032258064516129, 0.2994011976047904, 0.18712574850299402]
+[0.019230769230769232, 0.03278688524590164, 0.024242424242424246, 0.015151515151515152]
+[0.1523809523809524, 0.25806451612903225, 0.19161676646706585, 0.11976047904191617]

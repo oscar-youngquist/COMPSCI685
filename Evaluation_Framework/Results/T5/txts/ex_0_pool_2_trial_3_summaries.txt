@@ -1,0 +1,15 @@
+Document:
+west_virginia
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+is a state in the Appalachian and Mid-Atlantic regions of the Southern United States . West Virginia is bordered by Pennsylvania to the northeast, Maryland to the east and northeast, Virginia to the southeast, Kentucky to the southwest, and Ohio to the northwest . West Virginia is the 41st-largest state by area and ranks 38th in population .
+
+GT:
+One of the key figures was Rev. Gordon Battelle, who also represented Ohio County, and who proposed resolutions to establish public schools, as well as to limit movement of slaves into the new state, and to gradually abolish slavery. West Virginia counties administer and collect property taxes, although property tax rates reflect levies for state government, county governments, county boards of education and municipalities. The primary beneficiaries of the property tax are county boards of education. The West Virginia legislature sets the rate of tax of county boards of education. This rate is used by all county boards of education statewide. However, the total tax rate for county boards of education may differ from county to county because of excess levies. The Annie E. Casey Foundation's 2013 KIDS COUNT Data Book also ranked West Virginia's education system 47th in the nation for the second straight year.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.19594594594594594, 0.5087719298245614, 0.2829268292682927, 0.17682926829268292]
+[0.027210884353741496, 0.07142857142857142, 0.03940886699507389, 0.02463054187192118]
+[0.11486486486486487, 0.2982456140350877, 0.16585365853658537, 0.10365853658536586]

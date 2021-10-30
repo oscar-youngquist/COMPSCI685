@@ -1,0 +1,15 @@
+Document:
+colorado
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+is a state in the western United States encompassing most of the southern Rocky Mountains as well as the northeastern portion of the Colorado Plateau and the western edge of the Great Plains . Colorado ( (listen), other variants) is a state in the western United States encompassing most of the southern Rocky Mountains as well as the northeastern portion of the Colorado Plateau and the western edge of the Great Plains .
+
+GT:
+According to several studies, Coloradans have the lowest rates of obesity of any state in the US. As of 2018, 24% of the population was considered medically obese, and while the lowest in the nation, the percentage had increased from 17% in 2004. According to a report in the Journal of the American Medical Association, residents of Colorado had a 2014 life expectancy of 80.21 years, the longest of any US state. Colorado is open to cannabis (marijuana) tourism. On November 6, 2012, voters amended the state constitution to protect "personal use" of marijuana for adults, establishing a framework to regulate marijuana in a manner similar to alcohol. CNBC's list of "Top States for Business for 2010" has recognized Colorado as the third-best state in the nation, falling short only to Texas and Virginia.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.24817518248175183, 0.4857142857142857, 0.3285024154589372, 0.20531400966183577]
+[0.051470588235294115, 0.10144927536231885, 0.06829268292682927, 0.042682926829268296]
+[0.145985401459854, 0.2857142857142857, 0.1932367149758454, 0.12077294685990339]

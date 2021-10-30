@@ -1,0 +1,15 @@
+Document:
+iowa
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+is a state in the Midwestern United States, bordered by the Mississippi River to the east and the Missouri River and Big Sioux River to the west. Iowa is bordered by six states: Wisconsin to the northeast, Illinois to the east and southeast, Missouri to the south, Nebraska to the west, South Dakota to the northwest, and Minnesota to the north.
+
+GT:
+Iowa was one of the leading states in the high school movement, and continues to be among the top educational performers today. The four-year graduation rate for high schoolers was 91.3% in 2017. Iowa's schools are credited with the highest graduation rate in the nation as of 2019. Iowa has 333 school districts, 1,329 school buildings and has the 14th lowest student-to-teacher ratio of 14.2. Teacher pay is ranked 22nd, with the average salary being $55,647. As of 2015 transportation spending is a significant part of the budgets of rural school districts as many are geographically large and must transport students across vast distances. This reduces the amount of money spent on other aspects of the districts. The state's oldest functioning school building is located in Bellevue in the historic Jackson County Courthouse which has been in continuous use as a school since 1848. The Iowa Board of Regents is composed of nine citizen volunteers appointed by the governor to provide policymaking, coordination, and oversight of the state's three public universities, two special K–12 schools, and affiliated centers.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14285714285714285, 0.4426229508196721, 0.216, 0.13499999999999998]
+[0.02127659574468085, 0.06666666666666667, 0.03225806451612903, 0.020161290322580645]
+[0.08994708994708994, 0.2786885245901639, 0.13599999999999998, 0.08499999999999999]

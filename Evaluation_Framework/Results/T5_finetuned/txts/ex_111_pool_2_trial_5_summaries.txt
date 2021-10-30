@@ -1,0 +1,15 @@
+Document:
+arizona
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Arizona is the 48th state and last of the contiguous states to be admitted to the Union . it is the 6th largest and the 14th most populous of the 50 states . it shares the Four Corners region with Utah, Colorado, and New Mexico .
+
+GT:
+Besides the money spent on state agencies, it also included more than $500 million in income and property tax cuts, pay raises for government employees, and additional funding for the K–12 education system. Public schools in Arizona are separated into about 220 local school districts which operate independently, but are governed in most cases by elected county school superintendents; these are in turn overseen by the Arizona State Board of Education and the Arizona Department of Education. A state Superintendent of Public Instruction (elected in partisan elections every even-numbered year when there is not a presidential election, for a four-year term). In 2005, a School District Redistricting Commission was established with the goal of combining and consolidating many of these districts. Arizona is served by three public universities: The University of Arizona, Arizona State University, and Northern Arizona University. These schools are governed by the Arizona Board of Regents. Private higher education in Arizona is dominated by a large number of for-profit and "chain" (multi-site) universities. Arizona has a wide network of two-year vocational schools and community colleges. These colleges were governed historically by a separate statewide board of directors but, in 2002, the state legislature transferred almost all oversight authority to individual community college districts. The Maricopa County Community College District includes 11 community colleges throughout Maricopa County and is one of the largest in the nation.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10256410256410256, 0.5581395348837209, 0.1732851985559567, 0.10830324909747292]
+[0.012875536480686695, 0.07142857142857142, 0.02181818181818182, 0.013636363636363637]
+[0.06837606837606838, 0.37209302325581395, 0.11552346570397114, 0.07220216606498195]

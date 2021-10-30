@@ -1,0 +1,15 @@
+Document:
+missouri
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+is the 21st-most extensive in area. Missouri is bordered by eight states (tied for the most with Tennessee): Iowa to the north, Illinois, Kentucky and Tennessee (via the Mississippi River) to the east, Arkansas to the south and Oklahoma, Kansas and Nebraska to the west. Missouri is bordered by eight states (tied for the most with Tennessee): Iowa to the north, Illinois, Kentucky and Tennessee (via the Mississippi River) to the east, Arkansas to the east and Arkansas to the south. Oklahoma
+
+GT:
+Exempt real estate includes property owned by governments and property used as nonprofit cemeteries, exclusively for religious worship, for schools and colleges, and purely charitable purposes. Education is compulsory from ages seven to seventeen. It is required that any parent, guardian, or another person with custody of a child between the ages of seven and seventeen, the compulsory attendance age for the district, must ensure the child is enrolled in and regularly attends public, private, parochial school, home school or a combination of schools for the full term of the school year. Compulsory attendance also ends when children complete sixteen credits in high school. Children in Missouri between the ages of five and seven are not required to be enrolled in school. However, if they are enrolled in a public school, their parent, guardian, or custodian must ensure they regularly attend. Missouri schools are commonly but not exclusively divided into three tiers of primary and secondary education: elementary school, middle school or junior high school and high school. The public school system includes kindergarten to 12th grade. Homeschooling is legal in Missouri and is an option to meet the compulsory education requirement. It is neither monitored nor regulated by the state's Department of Elementary and Secondary Education Another gifted school is the Missouri Academy of Science, Mathematics and Computing, which is at the Northwest Missouri State University.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14912280701754385, 0.40963855421686746, 0.21864951768488744, 0.13665594855305466]
+[0.013215859030837005, 0.036585365853658534, 0.01941747572815534, 0.012135922330097087]
+[0.08771929824561403, 0.24096385542168675, 0.12861736334405144, 0.08038585209003216]

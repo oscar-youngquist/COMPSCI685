@@ -1,0 +1,15 @@
+Document:
+new_york
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+New York is a state in the northeastern United States . It was one of the original thirteen colonies, forming the United States . With a total area of 54,555 square miles (141,300 km2), New York is the 27th largest state .
+
+GT:
+At the level of post-secondary education, the statewide public university system is the State University of New York (SUNY). The SUNY system consists of 64 community colleges, technical colleges, undergraduate colleges, and doctoral-granting institutions, including several universities. New York's flagship university is the University at Buffalo, which was founded by US President Millard Fillmore. Columbia University, Cornell University and New York University are among the most prominent of the larger higher education institutions in New York, all of them leading, world-renowned private universities and members of the Association of American Universities, the pre-eminent group of research universities in the United States. Other notable large private universities include Syracuse University and Fordham University. Smaller notable private institutions of higher education include Rockefeller University, Mercy College, New York Institute of Technology, Rensselaer Polytechnic Institute, Yeshiva University, and Hofstra University. West Point, the service academy of the US Army, is located just south of Newburgh, on the west bank of the Hudson River. New York is also home to what is widely regarded as the best performing arts schools in the world. The University of the State of New York accredits and sets standards for elementary, middle-level, and secondary education in the state, while the New York State Education Department oversees public schools and controls their standardized tests. The New York City Department of Education manages the New York City Public Schools system. In 1894, reflecting general racial discrimination then, the state passed a law that allowed communities to set up separate schools for children of African-American descent. In 1900, the state passed another law requiring integrated schools.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07352941176470588, 0.4878048780487805, 0.12779552715654952, 0.07987220447284346]
+[0.02952029520295203, 0.2, 0.05144694533762058, 0.03215434083601287]
+[0.058823529411764705, 0.3902439024390244, 0.10223642172523961, 0.06389776357827476]

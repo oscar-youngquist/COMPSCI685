@@ -1,0 +1,15 @@
+Document:
+louisiana
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+the south,, and the Gulf of Mexico to the south. Louisiana is a state in the Deep South region of the South Central United States. Louisiana is the 19th-smallest by area and the 25th most populous of the 50 US states. Louisiana is bordered by the state of Texas to the west, Arkansas to the north, Mississippi to the east, and the Gulf of Mexico to the south.
+
+GT:
+In between the Tertiary rocks of the north, and the relatively new sediments along the coast, is a vast belt known as the Pleistocene Terraces. There are several hundred salt domes in the state; one of the most familiar is Avery Island, Louisiana. Louisiana operates a system of 22 state parks, 17 state historic sites and one state preservation area. Louisiana has 955,973 acres, in four ecoregions under the wildlife management of the Louisiana Department of Wildlife and Fisheries. The Louisiana Natural and Scenic Rivers System provides a degree of protection for 51 rivers, streams and bayous in the state. The most populous city is New Orleans.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3333333333333333, 0.5217391304347826, 0.4067796610169491, 0.25423728813559315]
+[0.07476635514018691, 0.11764705882352941, 0.09142857142857143, 0.05714285714285715]
+[0.19444444444444445, 0.30434782608695654, 0.23728813559322037, 0.14830508474576273]

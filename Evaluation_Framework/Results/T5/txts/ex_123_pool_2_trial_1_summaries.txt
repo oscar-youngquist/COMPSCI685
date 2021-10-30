@@ -1,0 +1,15 @@
+Document:
+wisconsin
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+divided into 72 counties. Wisconsin is the 23rd-largest state by total area and the 20th-most populous. Wisconsin is the state capital of Madison, and its largest city is Milwaukee. Wisconsin is divided into 72 counties. Wisconsin is the 23rd-largest state by total area and the 20th-most populous.
+
+GT:
+Tourist destinations such as the House on the Rock near Spring Green, Circus World Museum in Baraboo, and The Dells of the Wisconsin River draw thousands of visitors annually, and festivals such as Summerfest and the EAA Oshkosh Airshow draw international attention, along with hundreds of thousands of visitors. Given the large number of lakes and rivers in the state, water recreation is very popular. In the North Country, what had been an industrial area focused on timber has largely been transformed into a vacation destination. Popular interest in the environment and environmentalism, added to traditional interests in hunting and fishing, has attracted a large urban audience within driving range. The distinctive Door Peninsula, which extends off the eastern coast of the state, contains one of the state's tourist destinations, Door County. Such festivals include Summerfest, Oktoberfest, Polish Fest, Festa Italiana, Irish Fest, Bastille Days, Syttende Mai (Norwegian Constitution Day), Brat(wurst) Days in Sheboygan, Polka Days, Cheese Days in Monroe and Mequon, African World Festival, Indian Summer, Arab Fest, Wisconsin Highland Games, and many others. Winter events include skiing, ice fishing and snowmobile derbies. Outdoor activities are popular in Wisconsin, especially hunting and fishing.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09693877551020408, 0.37254901960784315, 0.15384615384615385, 0.09615384615384615]
+[0.015384615384615385, 0.06, 0.024489795918367346, 0.015306122448979593]
+[0.0663265306122449, 0.2549019607843137, 0.10526315789473685, 0.06578947368421054]

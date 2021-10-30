@@ -1,0 +1,15 @@
+Document:
+nevada
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Nevada (, Spanish: [neaa]) is a state in the Western United States . it is bordered by Oregon to the northwest, Idaho to the northeast, California to the west, Arizona to the southeast, and Utah to the east . Nearly three-quarters of Nevada's people live in Clark County, which contains the Las Vegas–Paradise metropolitan area .
+
+GT:
+The Jewish community is represented by The Rohr Jewish Learning Institute and Chabad. Education in Nevada is achieved through public and private elementary, middle, and high schools, as well as colleges and universities. A May 2015 educational reform law expanded school choice options to 450,000 Nevada students who are at up to 185% of the federal poverty level. Education savings accounts (ESAs) are enabled by the new law to help pay the tuition for private schools. Alternatively, families "can use funds in these accounts to also pay for textbooks and tutoring". Approximately 86.9% of Nevada high school students graduate, putting it below the national average of 88.3%. The Nevada Aerospace Hall of Fame provides educational resources and promotes the aerospace and aviation history of the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17829457364341086, 0.41818181818181815, 0.25, 0.15624999999999997]
+[0.0078125, 0.018518518518518517, 0.010989010989010988, 0.006868131868131868]
+[0.11627906976744186, 0.2727272727272727, 0.16304347826086957, 0.10190217391304349]

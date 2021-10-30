@@ -1,0 +1,15 @@
+Document:
+alabama
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+is the 30th largest by area and the 24th-most populous of the US states . Alabama is the 30th largest by area and the 24th-most populous of the US states . Alabama is nicknamed the Yellowhammer State, after the state bird .
+
+GT:
+The state is classified as humid subtropical (Cfa) under the Koppen Climate Classification. The average annual temperature is 64 °F (18 °C). Generally, Alabama has very hot summers and mild winters with copious precipitation throughout the year. Alabama receives an average of 56 inches (1,400 mm) of rainfall annually and enjoys a lengthy growing season of up to 300 days in the southern part of the state. Summers in Alabama are among the hottest in the US, with high temperatures averaging over 90 °F (32 °C) throughout the summer in some parts of the state. Alabama is also prone to tropical storms and even hurricanes. Areas of the state far away from the Gulf are not immune to the effects of the storms, which often dump tremendous amounts of rain as they move inland and weaken. South Alabama reports many thunderstorms. The Gulf Coast, around Mobile Bay, averages between 70 and 80 days per year with thunder reported. Occasionally, thunderstorms are severe with frequent lightning and large hail; the central and northern parts of the state are most vulnerable to this type of storm. Alabama, along with Oklahoma and Iowa, has the most confirmed F5 and EF5 tornadoes of any state, according to statistics from the National Climatic Data Center for the period January 1, 1950, to June 2013. Alabama is one of the few places in the world that has a secondary tornado season in November and December besides the typically severe spring. Winters are generally mild in Alabama, as they are throughout most of the Southeastern United States, with average January low temperatures around 40 °F (4 °C) in Mobile and around 32 °F (0 °C) in Birmingham. Although snow is a rare event in much of Alabama, areas of the state north of Montgomery may receive a dusting of snow a few times every winter, with an occasional moderately heavy snowfall every few years. The annual average snowfall for the Birmingham area is 2 inches (51 mm) per year.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07807807807807808, 0.6341463414634146, 0.13903743315508021, 0.08689839572192513]
+[0.02108433734939759, 0.175, 0.03763440860215054, 0.023521505376344086]
+[0.06906906906906907, 0.5609756097560976, 0.1229946524064171, 0.0768716577540107]

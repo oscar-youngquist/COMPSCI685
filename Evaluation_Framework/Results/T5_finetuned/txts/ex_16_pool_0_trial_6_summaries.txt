@@ -1,0 +1,15 @@
+Document:
+north_dakota
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+North Dakota ( (listen)) is a state in the Midwestern United States . it is named after the Lakota and Dakota Sioux Native American tribes, who dominated the territory . it is the nineteenth largest in area, the fourth least populous, and the fourth most sparsely populated of the 50 states . it is the 39th largest in area, the fourth least populous, and the fourth most sparsely populated of the 50 states .
+
+GT:
+Owners of real property in North Dakota pay property tax to their county, municipality, school district, and special taxing districts. The state has 11 public colleges and universities, five tribal community colleges, and four private schools. The largest institutions are North Dakota State University and the University of North Dakota. The higher education system consists of the following institutions: North Dakota University System (public institutions): Tribal institutions: Private institutions:
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2463768115942029, 0.2463768115942029, 0.2463768115942029, 0.15398550724637683]
+[0.04411764705882353, 0.04411764705882353, 0.04411764705882353, 0.02757352941176471]
+[0.18840579710144928, 0.18840579710144928, 0.18840579710144928, 0.11775362318840579]

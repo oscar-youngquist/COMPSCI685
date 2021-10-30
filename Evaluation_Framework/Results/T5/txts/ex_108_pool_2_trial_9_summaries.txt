@@ -1,0 +1,15 @@
+Document:
+oregon
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+,, and Oregon is home to many indigenous nations for thousands of years. Oregon ( (listen) ORR-(ih)-gn) is a state in the Pacific Northwest region on the West Coast of the United States. Oregon delineates much of Oregon's northern boundary with Washington, while the Snake River delineates much of its eastern boundary with Idaho. Oregon has been home to many indigenous nations for thousands of years.
+
+GT:
+Western Oregon's climate is heavily influenced by the Pacific Ocean; the western third of Oregon is very wet in the winter, moderately to very wet during the spring and fall, and dry during the summer. The relative humidity of Western Oregon is high except during summer days, which are semi-dry to semi-humid; Eastern Oregon typically sees low humidity year-round. The state's southwestern portion, particularly the Rogue Valley, has a Mediterranean climate with drier and sunnier winters and hotter summers, similar to Northern California. Oregon's northeastern portion has a steppe climate, and its high terrain regions have a subarctic climate. Like Western Europe, Oregon, and the Pacific Northwest in general, is considered warm for its latitude, and the state has far milder winters at a given elevation than comparable latitudes elsewhere in North America, such as the Upper Midwest, Ontario, Quebec and New England. However, the state ranks fifth for coolest summer temperatures of any state in the country, after Maine, Idaho, Wyoming, and Alaska. The eastern two thirds of Oregon, which largely comprise high desert, have cold, snowy winters and very dry summers. Much of the east is semiarid to arid like the rest of the Great Basin, though the Blue Mountains are wet enough to support extensive forests. Most of Oregon receives significant snowfall, but the Willamette Valley, where 60 percent of the population lives, has considerably milder winters for its latitude and typically sees only light snowfall. Oregon's highest recorded temperature is 119 °F (48 °C) at Pendleton on August 10, 1898, and the lowest recorded temperature is −54 °F (−48 °C) at Senatorca on February 10, 1933.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1371841155234657, 0.5671641791044776, 0.22093023255813954, 0.13808139534883718]
+[0.03260869565217391, 0.13636363636363635, 0.05263157894736842, 0.03289473684210526]
+[0.07581227436823104, 0.31343283582089554, 0.12209302325581396, 0.07630813953488372]

@@ -1,0 +1,15 @@
+Document:
+mississippi
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+is the state's 32nd largest and 34th-most populous metropolitan area . Greater Jackson is the state's capital and largest city .
+
+GT:
+White Citizens Councils had been formed in many cities and towns to resist integration of schools following the unanimous 1954 United States Supreme Court ruling (Brown v. Board of Education) that segregation of public schools was unconstitutional. The federally recognized Mississippi Band of Choctaw Indians has established a gaming casino on its reservation, which yields revenue to support education and economic development. Until the Civil War era, Mississippi had a small number of schools and no educational institutions for African Americans. During Reconstruction in 1871, black and white Republicans drafted a constitution that was the first to provide for a system of free public education in the state. Blacks and whites attended segregated and separate public schools in Mississippi until the late 1960s, although such segregation had been declared unconstitutional by the United States Supreme Court in its 1954 ruling in Brown v. Board of Education. In the late 1980s Mississippi's 954 public schools enrolled about 369,500 elementary and 132,500 secondary students.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.048484848484848485, 0.36363636363636365, 0.08556149732620322, 0.05347593582887701]
+[0.006097560975609756, 0.047619047619047616, 0.010810810810810811, 0.006756756756756756]
+[0.04242424242424243, 0.3181818181818182, 0.07486631016042782, 0.04679144385026738]

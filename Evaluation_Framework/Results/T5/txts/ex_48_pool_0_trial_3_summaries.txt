@@ -1,0 +1,15 @@
+Document:
+michigan
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+is a state in the Great Lakes and Midwestern regions of the United States . Michigan is a state in the Great Lakes and Midwestern regions of the United States . Its name comes from the Ojibwe word mishigami, meaning "large water" or "large lake" with a population of approximately 10 million, Michigan is the tenth most populous state, the 11th most extensive state by area, and the largest by area east of the Mississippi River .
+
+GT:
+The forests, lakes and thousands of miles of beaches are top attractions. Event tourism draws large numbers to occasions like the Tulip Time Festival and the National Cherry Festival.In 2006, the Michigan State Board of Education mandated all public schools in the state hold their first day of school after Labor Day, in accordance with the new Post Labor Day School law. Tourism in metropolitan Detroit draws visitors to leading attractions, especially The Henry Ford, the Detroit Institute of Arts, the Detroit Zoo, and to sports in Detroit. Other museums include the Detroit Historical Museum, the Charles H. Wright Museum of African American History, museums in the Cranbrook Educational Community, and the Arab American National Museum. The metro area offers four major casinos, MGM Grand Detroit, Greektown, Motor City, and Caesars Windsor in Windsor, Ontario, Canada; moreover, Detroit is the largest American city and metropolitan region to offer casino resorts. The Great Lakes Circle Tour is a designated scenic road system connecting all of the Great Lakes and the St. Lawrence River. The Michigan Underwater Preserves are 11 underwater areas where wrecks are protected for the benefit of sport divers.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.193717277486911, 0.5, 0.2792452830188679, 0.17452830188679247]
+[0.06842105263157895, 0.1780821917808219, 0.09885931558935362, 0.06178707224334601]
+[0.11518324607329843, 0.2972972972972973, 0.1660377358490566, 0.10377358490566035]

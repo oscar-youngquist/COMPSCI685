@@ -1,0 +1,15 @@
+Document:
+north_dakota
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+is the third largest in area, the fourth least populous, and the fourth most sparsely populated of the 50 states . North Dakota was admitted to the Union on November 2, 1889, along with its neighboring state, South Dakota .
+
+GT:
+It is named after the Lakota and Dakota Sioux Native American tribes, who comprise a large portion of the population and historically dominated the territory. Native American peoples lived in what is now North Dakota for thousands of years before the coming of Europeans. The first European to reach the area was the French-Canadian trader Pierre Gaultier, sieur de La Vérendrye, who led an exploration and trading party to the Mandan villages in 1738. guided by Assiniboine Indians. Harrison directed Secretary of State James G. Blaine to shuffle the papers and obscure from him which he was signing first. The actual order went unrecorded, thus no one knows which of the Dakotas was admitted first. North Dakota is one of the top resettlement locations for refugees proportionally. The western terminus of the North Country National Scenic Trail is on Lake Sakakawea, where it abuts the Lewis and Clark Trail. The state is known for the Lewis & Clark Trail and being the winter camp of the Corps of Discovery. Areas popular with visitors include Theodore Roosevelt National Park in the western part of the state. Today, five federally recognized tribes within the boundaries of North Dakota have independent, sovereign relationships with the federal government and territorial reservations:
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10096153846153846, 0.5526315789473685, 0.17073170731707318, 0.10670731707317073]
+[0.028985507246376812, 0.16216216216216217, 0.049180327868852465, 0.030737704918032793]
+[0.08173076923076923, 0.4473684210526316, 0.13821138211382114, 0.08638211382113822]

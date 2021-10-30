@@ -1,0 +1,15 @@
+Document:
+connecticut
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Connecticut ( (listen)) is the southernmost state in the New England region of the Northeastern United States . Connecticut ( (listen)) is the southernmost state in the New England region of the Northeastern United States . as of the 2010 Census, it has the highest per-capita income, Human Development Index (0.962) and median household income in the United States .
+
+GT:
+Connecticut ( (listen)) is the southernmost state in the New England region of the Northeastern United States. The word "Connecticut" is derived from various anglicized spellings of “Quononoquett (Conanicut),” a Mohegan-Pequot word for "long tidal river". It is known as the "Constitution State", the "Nutmeg State", the "Provisions State", and the "Land of Steady Habits". Finance, insurance and real estate was Connecticut's largest industry in 2018 as ranked by gross domestic product, generating $75.7 billion in GDP that year. Tourists spent $9.3 billion in Connecticut in 2017 according to estimates as part of a series of studies commissioned by the state of Connecticut. Foxwoods Resort Casino and Mohegan Sun are the two biggest tourist draws and number among the state's largest employers Connecticut ranked third in the nation for educational performance, according to Education Week's Quality Counts 2018 report. Connecticut was home to the nation's first law school, Litchfield Law School, which operated from 1773 to 1833 in Litchfield. The state hosts several major sporting events. Since 1952, a PGA Tour golf tournament has been played in the Hartford area. Connecticut's official nickname is "The Constitution State", adopted in 1959 and based on its colonial constitution of 1638–1639 which was the first in America and, arguably, the world. Connecticut is also unofficially known as "The Nutmeg State," whose origin is unknown.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15283842794759825, 0.6140350877192983, 0.24475524475524474, 0.15297202797202797]
+[0.07894736842105263, 0.32142857142857145, 0.12676056338028172, 0.07922535211267606]
+[0.13973799126637554, 0.5614035087719298, 0.22377622377622375, 0.13986013986013984]

@@ -1,0 +1,15 @@
+Document:
+iowa
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Iowa ( (listen)) is a state in the Midwestern United States, bordered by the Mississippi River to the east and the Missouri River and Big Sioux River to the west . It is bordered by six states: Wisconsin to the northeast, Illinois to the east and southeast, Missouri to the south, Nebraska to the west, South Dakota to the northwest, and Minnesota to the north .
+
+GT:
+Iowa derives its name from the Ioway people, one of the many Native American nations whose territory comprised the future state at the time of European colonization. In the 19th century Iowa was among the earliest states to enact prohibitions against race discrimination, especially in education, but was slow to achieve full integration in the 20th century. As with racial equality, Iowa was a vanguard in women's rights in the mid-19th century, but did not allow women the right to vote until the Nineteenth Amendment to the United States Constitution was ratified in 1920, Iowa legislature being one of the ratifying votes. In 1847, the University of Iowa became the first public university in the US to admit men and women on an equal basis. In 1869, Iowa became the first state in the union to admit women to the practice of law, with the Court ruling women may not be denied the right to practice law in Iowa and admitting Arabella A. Mansfield to the practice of law. Five Nobel Prize winners hail from Iowa: Norman Borlaug, recipient of the Nobel Peace Prize; Thomas Cech, recipient of the Nobel Prize in Chemistry; Alan J. Heeger, also a recipient of the Nobel Prize in Chemistry; John Mott, recipient of the Nobel Peace Prize; and Stanley B. Prusiner, recipient of the Nobel Prize in Physiology or Medicine.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12719298245614036, 0.4603174603174603, 0.1993127147766323, 0.1245704467353952]
+[0.02643171806167401, 0.0967741935483871, 0.04152249134948097, 0.025951557093425608]
+[0.09649122807017543, 0.3492063492063492, 0.1512027491408935, 0.0945017182130584]

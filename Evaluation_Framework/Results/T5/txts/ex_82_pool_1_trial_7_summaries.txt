@@ -1,0 +1,15 @@
+Document:
+arizona
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+, Arizona is the 48th state and last of the contiguous states to be admitted to the Union . Arizona shares the Four Corners region with Utah, Colorado, and New Mexico; its other neighboring states are Nevada and California to the west and the Mexican states of Sonora and Baja California to the south and southwest. Arizona is the 48th state and last of the contiguous states to be admitted to the Union, achieving statehood.
+
+GT:
+It is the 6th largest and the 14th most populous of the 50 states. About one-quarter of the state is made up of Indian reservations that serve as the home of 27 federally recognized Native American tribes, including the Navajo Nation, the largest in the state and the United States, with more than 300,000 citizens. Arizona was the 48th state admitted to the US and the last of the contiguous states to be admitted. Arizona was the site of German prisoner of war camps during World War II and Japanese American internment camps. Arizona is one of two US states (Hawaii being the other) that do not observe Daylight Saving Time. In 2006, Arizona became the first state in the United States to reject a proposition, Prop 107, that would have banned same-sex marriage and civil unions.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3, 0.5753424657534246, 0.3943661971830986, 0.24647887323943662]
+[0.1223021582733813, 0.2361111111111111, 0.16113744075829384, 0.10071090047393363]
+[0.2, 0.3835616438356164, 0.26291079812206575, 0.1643192488262911]

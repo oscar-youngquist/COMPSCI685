@@ -1,0 +1,15 @@
+Document:
+arizona
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+, Arizona is the 48th state and last of the contiguous states to be admitted to the Union . Arizona shares the Four Corners region with Utah, Colorado, and New Mexico; its other neighboring states are Nevada and California to the west and the Mexican states of Sonora and Baja California to the south and southwest. Arizona is the 48th state and last of the contiguous states to be admitted to the Union, achieving statehood.
+
+GT:
+There are ski resorts in the areas of Flagstaff, Alpine, and Tucson. In addition to the internationally known Grand Canyon National Park, which is one of the world's seven natural wonders, there are several national forests, national parks, and national monuments. Arizona is in the Southwestern United States as one of the Four Corners states. There are 24 National Park Service maintained sites in Arizona, including the three national parks of Grand Canyon National Park, Saguaro National Park, and the Petrified Forest National Park. Located in northern Arizona, the Grand Canyon is a colorful, deep, steep-sided gorge, carved by the Colorado River. Arizona is home to one of the most well-preserved meteorite impact sites in the world. Phoenix Art Museum, on the historic Central Avenue Corridor in Phoenix, is the Southwest's largest collection of visual art from across the world. Arizona is a recognized center of Native American art, with a number of galleries showcasing historical and contemporary works. Sedona, Jerome, and Tubac are known as a budding artist colonies, and small arts scenes exist in the larger cities and near the state universities.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.19148936170212766, 0.4931506849315068, 0.2758620689655173, 0.17241379310344826]
+[0.0481283422459893, 0.125, 0.0694980694980695, 0.04343629343629343]
+[0.11702127659574468, 0.3013698630136986, 0.1685823754789272, 0.1053639846743295]

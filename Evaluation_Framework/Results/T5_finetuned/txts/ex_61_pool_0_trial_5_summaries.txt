@@ -1,0 +1,15 @@
+Document:
+delaware
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Delaware ( (listen) DEL--wair) is a state in the Mid-Atlantic region of the United States . Delaware ( (listen) DEL--wair is a state in the Mid-Atlantic region of the United States . Delaware ( (listen) DEL--wair) is a state in the Mid-Atlantic region of the United States . Delaware ( (listen) DEL--wair) is a state in
+
+GT:
+Rehoboth Beach often bills itself as "The Nation's Summer Capital" because it is a frequent summer vacation destination for Washington, D.C., residents as well as visitors from Maryland, Virginia, and in lesser numbers, Pennsylvania. Vacationers are drawn for many reasons, including the town's charm, artistic appeal, nightlife, and tax-free shopping. According to SeaGrant Delaware, the Delaware beaches generate $6.9 billion annually and over $711 million in tax revenue. Some of the more notable festivals are the Riverfest held in Seaford, the World Championship Punkin Chunkin formerly held at various locations throughout the state since 1986, the Rehoboth Beach Chocolate Festival, the Bethany Beach Jazz Funeral to mark the end of summer, the Apple Scrapple Festival held in Bridgeville, the Clifford Brown Jazz Festival in Wilmington, the Rehoboth Beach Jazz Festival, the Sea Witch Halloween Festival and Parade in Rehoboth Beach, the Rehoboth Beach Independent Film Festival, the Nanticoke Indian Pow Wow in Oak Orchard, Firefly Music Festival, and the Return Day Parade held after every election in Georgetown. Delaware is home to Dover International Speedway and Dover Downs. DIS, also known as the Monster Mile, is one of only 10 tracks in the nation to have hosted 100 or more NASCAR Cup Series races. Dover Downs is a popular harness racing facility. It is the only co-located horse- and car-racing facility in the nation, with the Dover Downs track located inside the DIS track.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0954356846473029, 0.4107142857142857, 0.15488215488215487, 0.09680134680134679]
+[0.020833333333333332, 0.09090909090909091, 0.03389830508474576, 0.021186440677966104]
+[0.07468879668049792, 0.32142857142857145, 0.1212121212121212, 0.07575757575757576]

@@ -1,0 +1,15 @@
+Document:
+massachusetts
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Massachusetts ( (listen), ), officially known as the Commonwealth of Massachusetts, is the most populous state in the New England region of the Northeastern United States . it borders on the Atlantic Ocean to the east, the states of Connecticut and Rhode Island to the south, New Hampshire and Vermont to the north, and New York to the west . Massachusetts is the capital of Massachusetts, which is also the most populous city in New England .
+
+GT:
+The Museum of Fine Arts, Boston, the Institute of Contemporary Art, Boston, and the DeCordova contemporary art and sculpture museum in Lincoln are all located within Massachusetts, and the Maria Mitchell Association in Nantucket includes several observatories, museums, and an aquarium. Historically themed museums and sites such as the Springfield Armory National Historic Site in Springfield, Boston's Freedom Trail and nearby Minute Man National Historical Park, both of which preserve a number of sites important during the American Revolution, the Lowell National Historical Park, which focuses on some of the earliest mills and canals of the industrial revolution in the US, the Black Heritage Trail in Boston, which includes important African-American and abolitionist sites in Boston, and the New Bedford Whaling National Historical Park all showcase various periods of Massachusetts's history. Plimoth Plantation and Old Sturbridge Village are two open-air or "living" museums in Massachusetts, recreating life as it was in the 17th and early 19th centuries, respectively. Boston's annual St. Patrick's Day parade and "Harborfest", a week-long Fourth of July celebration featuring a fireworks display and concert by the Boston Pops as well as a turnaround cruise in Boston Harbor by the USConstitution, are popular events. Massachusetts generally ranks highly among states in most health and disease prevention categories. Massachusetts has the most doctors per 100,000 residents, the second-lowest infant mortality rate, and the lowest percentage of uninsured residents (children as well as the total population).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13821138211382114, 0.4722222222222222, 0.21383647798742142, 0.13364779874213836]
+[0.02857142857142857, 0.09859154929577464, 0.04430379746835443, 0.027689873417721517]
+[0.0975609756097561, 0.3333333333333333, 0.15094339622641506, 0.09433962264150943]

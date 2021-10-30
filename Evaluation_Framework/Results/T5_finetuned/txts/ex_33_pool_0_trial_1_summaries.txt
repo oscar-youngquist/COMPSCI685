@@ -1,0 +1,15 @@
+Document:
+louisiana
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Louisiana is a state in the Deep South region of the South Central United States . it is the 19th-smallest by area and the 25th most populous of the 50 US states . it is bordered by the state of Texas to the west, Arkansas to the north, Mississippi to the east, and the Gulf of Mexico to the south .
+
+GT:
+In addition to National Park Service areas and a United States National Forest, Louisiana operates a system of state parks, state historic sites, one state preservation area, one state forest, and many Wildlife Management Areas. One of Louisiana's largest government-owned areas is Kisatchie National Forest. The system of government-owned cypress swamps around Lake Pontchartrain is another large area, with southern wetland species including egrets, alligators, and sturgeon. Louisiana operates a system of 22 state parks, 17 state historic sites and one state preservation area. New Orleans, Shreveport, and Baton Rouge are home to a thriving film industry. In late 2007 and early 2008, a 300,000-square-foot (28,000 m2) film studio was scheduled to open in Tremé, with state-of-the-art production facilities, and a film training institute. Louisiana also hosts many important cultural events, such as the World Cultural Economic Forum, which is held annually in the fall at the New Orleans Morial Convention Center. The Fiesta de los Isleños is celebrated annually in St. Bernard Parish which features heritage performances from local groups and the Canary Islands.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15053763440860216, 0.4745762711864407, 0.22857142857142854, 0.14285714285714285]
+[0.032432432432432434, 0.10344827586206896, 0.04938271604938272, 0.0308641975308642]
+[0.0913978494623656, 0.288135593220339, 0.13877551020408163, 0.08673469387755102]

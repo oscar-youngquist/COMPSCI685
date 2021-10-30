@@ -1,0 +1,15 @@
+Document:
+georgia
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Georgia () is a state in the Deep South region of the Southern United States . it is bordered to the north by Tennessee and North Carolina; to the northeast by South Carolina; to the southeast by the Atlantic Ocean; to the south by Florida; and to the west by Alabama . Georgia is the 24th-largest in area and 8th-most populous of the 50 United States .
+
+GT:
+Georgia county and city public school systems are administered by school boards with members elected at the local level. As of 2013, all but 19 of 181 boards are elected from single-member districts. Residents and activist groups in Fayette County, Georgia sued the board of commissioners and school board for maintaining an election system based on at-large voting, which tended to increase the power of the majority and effectively prevented minority participation on elected local boards for nearly 200 years. Georgia high schools (grades nine through twelve) are required to administer a standardized, multiple choice End of Course Test, or EOCT, in each of eight core subjects: algebra, geometry, US history, economics, biology, physical science, ninth grade literature and composition, and American literature. The official purpose of the tests is to assess "specific content knowledge and skills". Although a minimum test score is not required for the student to receive credit in the course, completion of the test is mandatory. The EOCT score accounts for 15% of a student's grade in the course. The Georgia Milestone evaluation is taken by public school students in the state. The University System of Georgia is the presiding body over public post-secondary education in the state. The System includes 29 institutions of higher learning and is governed by the Georgia Board of Regents.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14349775784753363, 0.49230769230769234, 0.22222222222222224, 0.1388888888888889]
+[0.02702702702702703, 0.09375, 0.04195804195804196, 0.026223776223776224]
+[0.09865470852017937, 0.3384615384615385, 0.15277777777777776, 0.09548611111111112]

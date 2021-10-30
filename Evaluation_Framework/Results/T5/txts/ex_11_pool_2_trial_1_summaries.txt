@@ -1,0 +1,15 @@
+Document:
+new_york
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+the 27th largest state. New York is the home of New York City. New York is a state in the northeastern United States. It was one of the original thirteen colonies, forming the United States. New York is a state in the northeastern United States. It was one of the original thirteen colonies, forming the United States. With an estimated population of 8.34 million in 2019, New York City is the fourth most populous.
+
+GT:
+At the level of post-secondary education, the statewide public university system is the State University of New York (SUNY). The SUNY system consists of 64 community colleges, technical colleges, undergraduate colleges, and doctoral-granting institutions, including several universities. New York's flagship university is the University at Buffalo, which was founded by US President Millard Fillmore. Along with the University at Buffalo, Binghamton University also ranks highly in the rankings of top public universities in the United States. New York City has its own City University of New York (CUNY) system, which is funded by the city. Columbia University, Cornell University and New York University are among the most prominent of the larger higher education institutions in New York, all of them leading, world-renowned private universities and members of the Association of American Universities, the pre-eminent group of research universities in the United States. The University of the State of New York accredits and sets standards for elementary, middle-level, and secondary education in the state, while the New York State Education Department oversees public schools and controls their standardized tests. The New York City Department of Education manages the New York City Public Schools system. In 1894, reflecting general racial discrimination then, the state passed a law that allowed communities to set up separate schools for children of African-American descent. In 1900, the state passed another law requiring integrated schools. During the 2013 fiscal year, New York spent more on public education per pupil than any other state, according to US Census Bureau statistics.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16988416988416988, 0.5866666666666667, 0.2634730538922156, 0.16467065868263472]
+[0.07364341085271318, 0.25675675675675674, 0.11445783132530121, 0.07153614457831325]
+[0.1274131274131274, 0.44, 0.19760479041916165, 0.12350299401197604]

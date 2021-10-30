@@ -1,0 +1,15 @@
+Document:
+michigan
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+is a state in the Great Lakes and Midwestern regions of the United States . Michigan is a state in the Great Lakes and Midwestern regions of the United States . Its name comes from the Ojibwe word mishigami, meaning "large water" or "large lake" with a population of approximately 10 million, Michigan is the tenth most populous state, the 11th most extensive state by area, and the largest by area east of the Mississippi River .
+
+GT:
+Cities, state universities, and villages are vested with home rule powers of varying degrees. The fifteen state universities have broad power and can do anything within the parameters of their status as educational institutions that is not prohibited by the state constitution. Michigan's schools and colleges rank among the nation's best. The state has maintained its early commitment to public education. Michigan's education system serves 1.6 million K-12 students in public schools. More than 124,000 students attend private schools and an uncounted number are home-schooled under certain legal requirements. The University of Michigan is the oldest higher-educational institution in the state, and among the oldest research universities in the nation. The Carnegie Foundation classifies ten of the state's institutions (University of Michigan, Michigan State University, Wayne State University, Eastern Michigan University, Central Michigan University, Western Michigan University, Michigan Technological University, Oakland University, Andrews University, and Baker College) as research universities.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.20125786163522014, 0.43243243243243246, 0.2746781115879829, 0.1716738197424893]
+[0.03164556962025317, 0.0684931506849315, 0.04329004329004329, 0.027056277056277056]
+[0.13836477987421383, 0.2972972972972973, 0.18884120171673818, 0.11802575107296136]

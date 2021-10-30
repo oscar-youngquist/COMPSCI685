@@ -1,0 +1,15 @@
+Document:
+minnesota
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+is a state in the Upper Midwest, Great Lakes, and northern region of the United States . Minnesota ( (listen)) is a state in the Upper Midwest, Great Lakes, and northern region of the United States . Minnesota is the 12th largest in area and the 22nd most populous of the US states .
+
+GT:
+Minnesota's standard of living index is among the highest in the United States, and the state is among the best-educated in the nation. Minnesota has some of the earth's oldest rocks, gneisses that are about 3.6 billion years old (80% as old as the planet). The state's high point is Eagle Mountain at 2,301 feet (701 m), which is only 13 miles (21 km) away from the low point of 601 feet (183 m) at the shore of Lake Superior. The state's nickname "Land of 10,000 Lakes" is apt, as there are 11,842 Minnesota lakes over 10 acres (4 ha) in size. Minnesota's first state park, Itasca State Park, was established in 1891, and is the source of the Mississippi River. In the 2008 US presidential election, 78.2% of eligible Minnesotans voted – the highest percentage of any US state – versus the national average of 61.2%.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.18471337579617833, 0.58, 0.28019323671497587, 0.17512077294685988]
+[0.057692307692307696, 0.1836734693877551, 0.0878048780487805, 0.05487804878048781]
+[0.1337579617834395, 0.42, 0.20289855072463767, 0.12681159420289856]

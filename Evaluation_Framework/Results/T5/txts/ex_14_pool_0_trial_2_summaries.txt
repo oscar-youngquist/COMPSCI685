@@ -1,0 +1,15 @@
+Document:
+maine
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 states .
+
+GT:
+It is also the northeasternmost among the contiguous United States, the northernmost state east of the Great Lakes, and the only state to border only one other state. Machias Seal Island and North Rock, off the state's Downeast coast, are claimed by both Canada and the American town of Cutler, and are within one of four areas between the two countries whose sovereignty is still in dispute, but it is the only one of the disputed areas containing land. Maine is the least densely populated US state east of the Mississippi River. It is called the Pine Tree State; over 80% of its total land is forested or unclaimed, the most forest cover of any US state. As of 2010, Maine was also the most rural state in the Union, with only 38.7% of the state's population living within urban areas. Maine's agricultural outputs include poultry, eggs, dairy products, cattle, wild blueberries, apples, maple syrup, and maple sugar. In 2017, the production of Maine's seaweed industry was estimated at $20 million per year. In state general elections, Maine voters tend to accept independent and third-party candidates more frequently than most states. Maine is the first state to have introduced ranked-choice voting in federal elections.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11848341232227488, 0.5952380952380952, 0.19762845849802374, 0.12351778656126483]
+[0.05238095238095238, 0.2682926829268293, 0.08764940239043825, 0.05478087649402391]
+[0.10426540284360189, 0.5238095238095238, 0.17391304347826086, 0.10869565217391304]

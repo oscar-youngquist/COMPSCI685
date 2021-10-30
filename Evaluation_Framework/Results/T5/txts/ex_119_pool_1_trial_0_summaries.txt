@@ -1,0 +1,15 @@
+Document:
+new_jersey
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Jersey is a state in the Mid-Atlantic region of the Northeastern United States . New Jersey is bordered on the north and east by the state of New York; on the east, southeast, and south by the Atlantic Ocean; on the west by the Delaware River and Pennsylvania; and on the southwest by Delaware Bay and the State of Delaware . New Jersey is the fourth-smallest state by area, but the 11th-most populous, with 8,722.58 square miles .
+
+GT:
+As of 2010, there were 605 school districts in the state. In 2010, the state government paid all teachers' premiums for health insurance, but currently all NJ public teachers pay a portion of their own health insurance premiums. In 2015, the state spent more per each public school student than any other US state except New York, Alaska, and Connecticut, amounting to $18,235 spent per pupil; over 50% of the expenditure was allocated to student instruction. According to 2011 Newsweek statistics, students of High Technology High School in Lincroft, Monmouth County and Bergen County Academies in Hackensack, Bergen County registered average SAT scores of 2145 and 2100, respectively, representing the second- and third-highest scores, respectively, of all listed US high schools. In 2014, New Jersey's school systems were ranked at the top of all fifty US states by financial website Wallethub.com. In 2018, New Jersey's overall educational system was ranked second among all states to Massachusetts by US News & World Report.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1746987951807229, 0.3625, 0.23577235772357724, 0.14735772357723578]
+[0.05454545454545454, 0.11392405063291139, 0.07377049180327869, 0.04610655737704918]
+[0.12650602409638553, 0.2625, 0.17073170731707318, 0.10670731707317074]

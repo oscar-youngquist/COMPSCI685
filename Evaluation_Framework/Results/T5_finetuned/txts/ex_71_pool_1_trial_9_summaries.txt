@@ -1,0 +1,15 @@
+Document:
+new_mexico
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+New Mexico (Spanish: Nuevo México [nweo mexiko] (listen); Navajo: Yootó Hahoodzo [jotho hahotso]) is a state in the Southwestern region of the United States of America; its capital is Santa Fe, which was founded in 1610 as capital of Nuevo México (itself established as province of New Spain in 1598), while its largest city is Alb
+
+GT:
+Other areas of geographical and scenic interest include Kasha-Katuwe Tent Rocks National Monument and the Gila Wilderness in the southwest of the state. A large artistic community thrives in Santa Fe, and has included such people as Bruce Nauman, Richard Tuttle, John Connell and Steina Vasulka. The capital city has several art museums, including the New Mexico Museum of Art, Museum of Spanish Colonial Art, Museum of International Folk Art, Museum of Indian Arts and Culture, Museum of Contemporary Native Arts, SITE Santa Fe and others. Art is also a frequent theme in Albuquerque, New Mexico's largest city. The National Hispanic Cultural Center has held hundreds of performing arts events, art showcases, and other events related to Spanish culture in New Mexico and worldwide in the centerpiece Roy E Disney Center for the Performing Arts or in other venues at the 53 acre facility. Popejoy Hall hosts singers, dancers, Broadway shows, other types of acts, and Shakespeare. Albuquerque also has the unique and memorable KiMo Theater built in 1927 in the Pueblo Revival Style architecture. In addition to other general interest theaters, Albuquerque also has the African American Performing Arts Center and Exhibit Hall which showcases achievements by people of African descent and the Indian Pueblo Cultural Center which highlights the cultural heritage of the First Nations people of New Mexico. Silver City, in the southwestern mountains of the state, was originally a mining town, and at least one nearby mine still operates. The City of Las Cruces, in southern New Mexico, has a museum system affiliated with the Smithsonian Institution Affiliations Program.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09811320754716982, 0.4482758620689655, 0.1609907120743034, 0.10061919504643962]
+[0.026515151515151516, 0.12280701754385964, 0.04361370716510903, 0.027258566978193143]
+[0.06037735849056604, 0.27586206896551724, 0.09907120743034056, 0.06191950464396285]

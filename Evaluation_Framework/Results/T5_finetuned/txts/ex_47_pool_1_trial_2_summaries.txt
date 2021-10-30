@@ -1,0 +1,15 @@
+Document:
+florida
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Florida ( (listen), Spanish pronunciation: [floia]) is a state located in the southeastern region of the United States . with a population of over 21 million, Florida is the third-most populous and the 22nd-most extensive of the 50 United States . the state is bordered to the west by the Gulf of Mexico, to the northwest by Alabama, to the north by Georgia, to the east by the Atlantic Ocean, and to the south by the Straits of Florida .
+
+GT:
+Several beaches in Florida have turquoise and emerald-colored coastal waters. The American alligator, American crocodile, American flamingo, Roseate spoonbill, Florida panther, bottlenose dolphin, and manatee can be found in Everglades National Park in the southern part of the state. The Florida Reef is the only living coral barrier reef in the continental United States, and the third-largest coral barrier reef system in the world (after the Great Barrier Reef and Belize Barrier Reef). The Florida Reef extends into other parks and sanctuaries as well including Dry Tortugas National Park, Biscayne National Park, and the Florida Keys National Marine Sanctuary. Everglades National Park covers 1,509,000 acres (6,110 km2), throughout Dade, Monroe, and Collier counties in Florida. The Everglades, an enormously wide, slow-flowing river encompasses the southern tip of the peninsula. Many beach towns are popular tourist destinations, particularly during winter and spring break. Amusement parks, especially in the Greater Orlando area, make up a significant portion of tourism. The Walt Disney World Resort is the most visited vacation resort in the world with more than 58 million visitors annually, consisting of four theme parks, 27 themed resort hotels, nine non-Disney hotels, two water parks, four golf courses and other recreational venues. Other major theme parks in the area include Universal Orlando Resort, SeaWorld Orlando and Busch Gardens Tampa. NASCAR (headquartered in Daytona Beach) begins all three of its major auto racing series in Florida at Daytona International Speedway in February, featuring the Daytona 500, and ends all three Series in November at Homestead-Miami Speedway. The PGA of America is headquartered in Palm Beach Gardens, the PGA Tour is headquartered in Ponte Vedra Beach, and the LPGA is headquartered in Daytona Beach.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.125, 0.46153846153846156, 0.19672131147540983, 0.12295081967213116]
+[0.0313588850174216, 0.11688311688311688, 0.04945054945054945, 0.0309065934065934]
+[0.08680555555555555, 0.32051282051282054, 0.1366120218579235, 0.0853825136612022]

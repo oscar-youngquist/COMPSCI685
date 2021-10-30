@@ -1,0 +1,15 @@
+Document:
+idaho
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+( (listen)) is a state in the Pacific Northwest region of the United States . Idaho ( (listen)) is a state in the Pacific Northwest region of the United States . It borders the state of Montana to the east and northeast, Wyoming to the east, Nevada and Utah to the south, and Washington and Oregon to the west . Idaho is the 14th largest, the 12th least populous and the 7th least densely populated of the 50 US states .
+
+GT:
+The waters of the Snake River run through Hells Canyon, the deepest gorge in the United States. Shoshone Falls falls down cliffs from a height greater than Niagara Falls. Excavations at Wilson Butte Cave near Twin Falls in 1959 revealed evidence of human activity, including arrowheads, that rank among the oldest dated artifacts in North America. Central Idaho is home to one of North America's oldest ski resorts, Sun Valley, where the world's first chairlift was installed in 1936. Other noted outdoor sites include Hells Canyon, the Salmon River, and its embarkation point of Riggins. The Boise Open professional golf tournament has been played at Hillcrest Country Club since 1990 as part of the Web.com Tour.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.18487394957983194, 0.29333333333333333, 0.2268041237113402, 0.14175257731958765]
+[0.05084745762711865, 0.08108108108108109, 0.0625, 0.03906249999999999]
+[0.14285714285714285, 0.22666666666666666, 0.1752577319587629, 0.1095360824742268]

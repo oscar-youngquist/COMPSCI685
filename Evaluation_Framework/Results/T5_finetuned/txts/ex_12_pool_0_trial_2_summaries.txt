@@ -1,0 +1,15 @@
+Document:
+north_dakota
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+North Dakota ( (listen)) is a state in the Midwestern United States . it is named after the Lakota and Dakota Sioux Native American tribes . it is the nineteenth largest in area, the fourth least populous, and the fourth most sparsely populated of the 50 states . it is the 39th largest in area, the fourth least populous, and the fourth most sparsely populated of the 50 states .
+
+GT:
+The western half of the state consists of the hilly Great Plains as well as the northern part of the Badlands, which are to the west of the Missouri River. The Missouri River forms Lake Sakakawea, the third largest artificial lake in the United States, behind the Garrison Dam. Outdoor attractions like the 144-mile Maah Daah Hey Trail and activities like fishing and hunting attract visitors. The state is known for the Lewis & Clark Trail and being the winter camp of the Corps of Discovery. Areas popular with visitors include Theodore Roosevelt National Park in the western part of the state. Regular events in the state that attract tourists include Norsk Høstfest in Minot, billed as North America's largest Scandinavian festival; the Medora Musical; and the North Dakota State Fair. Many international tourists now also come to visit the Oscar-Zero Missile Alert Facility.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.19727891156462585, 0.4461538461538462, 0.2735849056603774, 0.17099056603773585]
+[0.0410958904109589, 0.09375, 0.05714285714285714, 0.03571428571428572]
+[0.1360544217687075, 0.3076923076923077, 0.18867924528301888, 0.1179245283018868]

@@ -1,0 +1,15 @@
+Document:
+south_dakota
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+South Dakota ( (listen)) is a US state in the Midwestern region of the United States . it is named after the Lakota and Dakota Sioux Native American tribes . South Dakota is the seventeenth largest by area, but the 5th least populous, and the 5th least densely populated of the 50 United States .
+
+GT:
+As of 2006, South Dakota has a total primary and secondary school enrollment of 136,872, with 120,278 of these students being educated in the public school system. There are 703 public schools in 168 school districts, giving South Dakota the highest number of schools per capita in the United States. The current high school graduation rate is 89.9%, and the average ACT score is 21.8, slightly above the national average of 21.1. South Dakota's 2008 average public school teacher salary of $36,674 was the lowest in the nation (national average was $52,308). In 2007 South Dakota passed legislation modeled after Montana's Indian Education for All Act (1999), mandating education about Native American tribal history, culture, and heritage in all the schools, from pre-school through college, in an effort to increase knowledge and appreciation about Indian culture among all residents of the state, as well as to reinforce Indian students' understanding of their own cultures' contributions. The South Dakota Board of Regents, whose members are appointed by the governor, controls the six public universities in the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15053763440860216, 0.5490196078431373, 0.23628691983122366, 0.14767932489451477]
+[0.043243243243243246, 0.16, 0.06808510638297872, 0.0425531914893617]
+[0.11290322580645161, 0.4117647058823529, 0.17721518987341772, 0.11075949367088607]

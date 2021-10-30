@@ -1,0 +1,15 @@
+Document:
+hawaii
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+,,,ia,ia,, Hawaii ( (listen) h-WY-ee Hawaii is the only state outside North America, the only island state, and the only state in the tropics. Hawaii is also one of handful of US states to have once been an independent nation . Hawaii encompasses nearly the entire Hawaiian archipelago, composed of 137 volcanic islands spanning 1,500 miles (2,400 km), which are physiographically and ethnological
+
+GT:
+Hawaii ( (listen) hə-WY-ee It is the only state outside North America, the only island state, and the only state in the tropics. Hawaii is also one of a handful of US states to have once been an independent nation. The state of Hawaii derives its name from the name of its largest island, Hawaiʻi. A common Hawaiian explanation of the name of Hawaiʻi is that it was named for Hawaiʻiloa, a legendary figure from Hawaiian myth. There are eight main Hawaiian islands, seven of which are permanently inhabited. The island of Niʻihau is privately managed by brothers Bruce and Keith Robinson Access to uninhabited Kahoʻolawe island is also restricted. Several areas in Hawaiʻi are under the protection of the National Park Service. Hawaii has two national parks: Haleakalā National Park located near Kula on the island of Maui, which features the dormant volcano Haleakalā that formed east Maui, and Hawaii Volcanoes National Park in the southeast region of the Hawaiʻi Island, which includes the active volcano Kīlauea and its rift zones. Hawaii has the highest percentage of Asian Americans and multiracial Americans and the lowest percentage of White Americans of any state. English and Hawaiian are listed as Hawaii's official languages in the state's 1978 constitution, in Article XV, Section 4. However, the use of Hawaiian is limited because the constitution specifies that "Hawaiian shall be required for public acts and transactions only as provided by law". Hawaii has had a long history of LGBT identities. Māhū ("in the middle") were a precolonization third gender with traditional spiritual and social roles; māhū were a respected group of people widely regarded as healers. The history of Hawaii's economy can be traced through a succession of dominant industries: sandalwood, whaling, sugarcane, pineapple, the military, tourism and education.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15483870967741936, 0.7272727272727273, 0.25531914893617025, 0.1595744680851064]
+[0.11974110032362459, 0.5692307692307692, 0.1978609625668449, 0.12366310160427807]
+[0.15161290322580645, 0.7121212121212122, 0.25, 0.15625000000000003]

@@ -1,0 +1,15 @@
+Document:
+california
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+is the third-largest by area, and the world's thirty-fourth-most-populous subnational entity . California is the most populous US state and the third-largest by area, as well as the world's thirty-fourth-most-populous subnational entity .
+
+GT:
+Although most of the state has a Mediterranean climate, due to the state's large size the climate ranges from polar to subtropical. The cool California Current offshore often creates summer fog near the coast. Farther inland, there are colder winters and hotter summers. Northern parts of the state have more rain than the south. California's mountain ranges also influence the climate: some of the rainiest parts of the state are west-facing mountain slopes. Northwestern California has a temperate climate, and the Central Valley has a Mediterranean climate but with greater temperature extremes than the coast. The high mountains, including the Sierra Nevada, have an alpine climate with snow in winter and mild to moderate heat in summer. The higher elevation deserts of eastern California have hot summers and cold winters, while the low deserts east of the Southern California mountains have hot summers and nearly frostless mild winters. Death Valley, a desert with large expanses below sea level, is considered the hottest location in the world; the highest temperature in the world, 134 °F (56.7 °C), was recorded there on July 10, 1913. The lowest temperature in California was −45 °F (−43 °C) on January 20, 1937 in Boca.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07389162561576355, 0.36585365853658536, 0.12295081967213115, 0.07684426229508197]
+[0.01485148514851485, 0.075, 0.024793388429752063, 0.015495867768595042]
+[0.04926108374384237, 0.24390243902439024, 0.0819672131147541, 0.05122950819672131]

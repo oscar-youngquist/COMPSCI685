@@ -1,0 +1,15 @@
+Document:
+alabama
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+is the 30th largest by area and the 24th-most populous of the US states . Alabama is the 30th largest by area and the 24th-most populous of the US states . Alabama is nicknamed the Yellowhammer State, after the state bird .
+
+GT:
+A 5-mile (8 km)-wide meteorite impact crater is located in Elmore County, just north of Montgomery. Alabama, along with Oklahoma and Iowa, has the most confirmed F5 and EF5 tornadoes of any state, according to statistics from the National Climatic Data Center for the period January 1, 1950, to June 2013. Alabama has been identified as one of the most religious states in the United States, with about 58% of the population attending church regularly. A Centers for Disease Control and Prevention study in 2008 showed that obesity in Alabama is a problem, with most counties having more than 29% of adults obese, except for ten which had a rate between 26% and 29%. On May 14, 2019, Alabama passed the Human Life Protection Act, banning abortion at any stage of pregnancy unless there is a "serious health risk", with no exceptions for rape and incest. The law, if enacted, would punish doctors who perform abortions with 10 to 99 years imprisonment and be the most restrictive abortion law in the country.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13218390804597702, 0.5609756097560976, 0.21395348837209305, 0.13372093023255816]
+[0.017341040462427744, 0.075, 0.028169014084507036, 0.017605633802816895]
+[0.08620689655172414, 0.36585365853658536, 0.13953488372093023, 0.08720930232558141]

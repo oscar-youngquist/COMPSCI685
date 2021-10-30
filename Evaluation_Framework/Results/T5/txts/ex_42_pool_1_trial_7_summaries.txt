@@ -1,0 +1,15 @@
+Document:
+alabama
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+is the 30th largest by area and the 24th-most populous of the US states. Alabama is the 30th largest by area and the 24th-most populous of the US states. Alabama is nicknamed the Yellowhammer State, after the state bird.
+
+GT:
+The state is classified as humid subtropical (Cfa) under the Koppen Climate Classification. The average annual temperature is 64 °F (18 °C). Temperatures tend to be warmer in the southern part of the state with its proximity to the Gulf of Mexico, while the northern parts of the state, especially in the Appalachian Mountains in the northeast, tend to be slightly cooler. Generally, Alabama has very hot summers and mild winters with copious precipitation throughout the year. Alabama receives an average of 56 inches (1,400 mm) of rainfall annually and enjoys a lengthy growing season of up to 300 days in the southern part of the state. Summers in Alabama are among the hottest in the US, with high temperatures averaging over 90 °F (32 °C) throughout the summer in some parts of the state. Alabama is also prone to tropical storms and even hurricanes. Areas of the state far away from the Gulf are not immune to the effects of the storms, which often dump tremendous amounts of rain as they move inland and weaken. South Alabama reports many thunderstorms. The Gulf Coast, around Mobile Bay, averages between 70 and 80 days per year with thunder reported. The peak season for tornadoes varies from the northern to southern parts of the state. Alabama is one of the few places in the world that has a secondary tornado season in November and December besides the typically severe spring. Winters are generally mild in Alabama, as they are throughout most of the Southeastern United States, with average January low temperatures around 40 °F (4 °C) in Mobile and around 32 °F (0 °C) in Birmingham. Alabama's highest temperature of 112 °F (44 °C) was recorded on September 5, 1925, in the unincorporated community of Centerville. The record low of −27 °F (−33 °C) occurred on January 30, 1966, in New Market.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07692307692307693, 0.5853658536585366, 0.13597733711048157, 0.08498583569405098]
+[0.02572347266881029, 0.2, 0.045584045584045586, 0.02849002849002849]
+[0.0673076923076923, 0.5121951219512195, 0.11898016997167139, 0.07436260623229461]

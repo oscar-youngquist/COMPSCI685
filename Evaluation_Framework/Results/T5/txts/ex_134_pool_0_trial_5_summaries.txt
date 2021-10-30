@@ -1,0 +1,15 @@
+Document:
+ohio
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+is the 34th-largest by area, and with nearly 11.7 million inhabitants, is the seventh-most populous and tenth-most densely populated . Ohio is bordered by Lake Erie to the north, Pennsylvania to the east, West Virginia to the southeast, Kentucky to the southwest, and Kentucky to the southwest . Ohio is bordered by Lake Erie to the north, Pennsylvania to the east, West Virginia to the southeast, Kentucky to the southwest, Kentucky to the southwest, and Ohio is the
+
+GT:
+Ohio (listen) is a state in the East North Central region of the Midwestern United States. Ohio is historically known as the "Buckeye State" after its Ohio buckeye trees, and Ohioans are also known as "Buckeyes". Ohio arose from the lands west of Appalachia that were contested from colonial times through the Northwest Indian Wars of the late 18th century. It was partitioned from the resulting Northwest Territory, which was the first frontier of the new United States, and became the 17th state admitted to the Union on March 1, 1803, and the first under the Northwest Ordinance. Ohio was the first post-colonial free state admitted to the union, and became one of the earliest and most influential industrial powerhouses in the 20th century; although it has transitioned to a more information and service based economy in the 21st century, Ohio remains an industrial state, ranking seventh in GDP as of 2019, with the third largest manufacturing sector and second largest automobile production. Archeological evidence of spear points of both the Folsom and Clovis types indicate that the Ohio Valley was inhabited by nomadic people as early as 13,000 BC. These early nomads disappeared from Ohio by 1,000 BC. During the 18th century, the French set up a system of trading posts to control the fur trade in the region. Beginning in 1754, France and Great Britain fought the French and Indian War. As a result of the Treaty of Paris, the French ceded control of Ohio and the remainder of the Old Northwest to Great Britain. In the Treaty of Paris in 1783, Britain ceded all claims to Ohio country to the United States.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14028776978417265, 0.4875, 0.21787709497206703, 0.1361731843575419]
+[0.018050541516245487, 0.06329113924050633, 0.028089887640449434, 0.017556179775280897]
+[0.09352517985611511, 0.325, 0.14525139664804468, 0.09078212290502792]

@@ -1,0 +1,15 @@
+Document:
+arizona
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Arizona is the 48th state and last of the contiguous states to be admitted to the Union . Arizona shares the Four Corners region with Utah, Colorado, and New Mexico; its other neighboring states are Nevada and California to the west and the Mexican states of Sonora and Baja California to the south and southwest . Arizona is the 6th largest and the 14th most populous of the 50 states.
+
+GT:
+The fiscal year 2006–07 general fund budget, approved by the Arizona Legislature in June 2006, was slightly less than $10 billion. Besides the money spent on state agencies, it also included more than $500 million in income and property tax cuts, pay raises for government employees, and additional funding for the K–12 education system. Public schools in Arizona are separated into about 220 local school districts which operate independently, but are governed in most cases by elected county school superintendents; these are in turn overseen by the Arizona State Board of Education and the Arizona Department of Education. A state Superintendent of Public Instruction (elected in partisan elections every even-numbered year when there is not a presidential election, for a four-year term). In 2005, a School District Redistricting Commission was established with the goal of combining and consolidating many of these districts. Arizona has a wide network of two-year vocational schools and community colleges. These colleges were governed historically by a separate statewide board of directors but, in 2002, the state legislature transferred almost all oversight authority to individual community college districts.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15508021390374332, 0.4264705882352941, 0.22745098039215686, 0.14215686274509803]
+[0.005376344086021506, 0.014925373134328358, 0.00790513833992095, 0.004940711462450593]
+[0.10160427807486631, 0.27941176470588236, 0.14901960784313725, 0.09313725490196079]

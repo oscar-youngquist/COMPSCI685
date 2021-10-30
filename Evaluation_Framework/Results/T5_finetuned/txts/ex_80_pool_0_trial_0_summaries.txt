@@ -1,0 +1,15 @@
+Document:
+pennsylvania
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Pennsilfaani, offiziell das Commonwealth of Pennsylvania, ist ein Staat in den Regionen Mid-Atlantik, Appalachien und Große Seen des Nordostens der Vereinigten Staaten, grenzt an Delaware im Südosten, Maryland im Süden, West Virginia im Südwesten, Ohio im Westen, Lake Erie und die Kanadische Provinz Ontario im Nordwesten, New York im Norden und New York im Norden.
+
+GT:
+The state is one of the 13 original founding states of the United States; it came into being in 1681 as a result of a royal land grant to William Penn, the son of the state's namesake. Historically, as of 1600, the tribes living in Pennsylvania were the Algonquian Lenape (also Delaware), the Iroquoian Susquehannock, and Petun (also Tionontati, Kentatentonga, Tobacco, Wenro) and the presumably Siouan Monongahela Culture, who may have been the same as a little known tribe called the Calicua, or Cali. On February 28, 1681, Charles II granted a land charter to William Penn to repay a debt of £16,000 (around £2,100,000 in 2008, adjusting for retail inflation) owed to William's father, Admiral William Penn. This was one of the largest land grants to an individual in history. The King named it Pennsylvania (literally "Penn's Woods") in honor of Admiral Penn; the Admiral's son who proposed that the land be called New Wales and then, after objections, Sylvania (from the Latin silva: "forest, woods"), was embarrassed at the change from the latter proposed form, fearing that people would think he had named it after himself, but King Charles would not rename the grant. The Quaker leader William Penn had signed a peace treaty with Tammany, leader of the Delaware tribe, beginning a long period of friendly relations between the Quakers and the Indians. The treaty of William Penn was never violated.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.03734439834024896, 0.15, 0.059800664451827246, 0.03737541528239203]
+[0.0, 0.0, 0.0, 0.0]
+[0.029045643153526972, 0.11666666666666667, 0.046511627906976744, 0.029069767441860468]

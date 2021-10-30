@@ -1,0 +1,15 @@
+Document:
+washington
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+, the state of Washington, is a state in the Pacific Northwest region of the United States . Named for George Washington, the first US president, the state was made out of the western part of the Washington Territory . the state, which is bordered on the west by the Pacific Ocean, Oregon to the south, Idaho to the east, and the Canadian province of British Columbia to the north, was admitted to the Union as the state .
+
+GT:
+As of August 2009, there were 295 school districts in the state, serviced by nine Educational Service Districts. Washington School Information Processing Cooperative (a non-profit opt-in state agency) provides information management systems for fiscal & human resources and student data. Elementary and secondary schools are under the jurisdiction of the Washington State Office of Superintendent of Public Instruction (OSPI). High school juniors and seniors in Washington have the option of using the state's Running Start program. Begun by the state legislature in 1990, it allows students to attend institutions of higher education at public expense, simultaneously earning high school and college credit. The state also has several public arts focused high schools including Tacoma School of the Arts, the Vancouver School of Arts and Academics, and The Center School. There are also four Science and Math based high schools: one in the Tri-Cities known as Delta, one in Tacoma known as SAMI, another in Seattle known as Raisbeck Aviation High School, and one in Redmond known as Tesla STEM High School. There are more than 40 institutions of higher education in Washington.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17297297297297298, 0.4266666666666667, 0.24615384615384614, 0.15384615384615385]
+[0.05434782608695652, 0.13513513513513514, 0.07751937984496124, 0.04844961240310077]
+[0.13513513513513514, 0.3333333333333333, 0.1923076923076923, 0.12019230769230768]

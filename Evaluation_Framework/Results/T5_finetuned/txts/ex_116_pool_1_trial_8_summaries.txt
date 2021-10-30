@@ -1,0 +1,15 @@
+Document:
+hawaii
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Hawaii encompasses nearly the entire Hawaiian archipelago, composed of 137 volcanic islands spanning 1,500 miles (2,400 km) the only state outside North America, the only island state, and the only state in the tropics . Hawaii is also one of a handful of US states to have once been an independent nation .
+
+GT:
+On the flanks of the volcanoes, slope instability has generated damaging earthquakes and related tsunamis, particularly in 1868 and 1975. The destruction affected at least 36 buildings and this coupled with the lava flows and the sulfur dioxide fumes, necessitated the evacuation of more than 2,000 local inhabitants from the neighborhoods. On a single island, the climate around the coasts can range from dry tropical (less than 20 inches or 510 millimeters annual rainfall) to wet tropical; on the slopes, environments range from tropical rainforest (more than 200 inches or 5,100 millimeters per year), through a temperate climate, to alpine conditions with a cold, dry climate. Hawaiʻi's climate is typical for the tropics, although temperatures and humidity tend to be less extreme because of near-constant trade winds from the east. Snow, not usually associated with the tropics, falls at 13,800 feet (4,200 m) on Mauna Kea and Mauna Loa on Hawaii Island in some winter months. Most of Hawaii experiences only two seasons Hawaiʻi is the only state to have never recorded sub-zero Fahrenheit temperatures. Climates vary considerably on each island; they can be divided into windward and leeward (koʻolau and kona, respectively) areas based upon location relative to the higher mountains.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10849056603773585, 0.4339622641509434, 0.17358490566037738, 0.10849056603773585]
+[0.02843601895734597, 0.11538461538461539, 0.045627376425855515, 0.0285171102661597]
+[0.0660377358490566, 0.2641509433962264, 0.10566037735849057, 0.0660377358490566]

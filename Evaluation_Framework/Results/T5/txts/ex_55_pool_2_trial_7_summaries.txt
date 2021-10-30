@@ -1,0 +1,15 @@
+Document:
+connecticut
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+( (listen)) is the southernmost state in the New England region of the Northeastern United States . Connecticut ( (listen)) is the southernmost state in the New England region of the Northeastern United States . As of the 2010 Census, it has the highest per-capita income, Human Development Index (0.962), and median household income in the United States .
+
+GT:
+The combined educational, health and social services sector was the largest single industry as ranked by employment, with a combined workforce of 342,600 people at the end of 2019, ranking fourth the year before in GDP at $28.3 billion. Connecticut ranked third in the nation for educational performance, according to Education Week's Quality Counts 2018 report. It earned an overall score of 83.5 out of 100 points. On average, the country received a score of 75.2.Connecticut posted a B-plus in the Chance-for-Success category, ranking fourth on factors that contribute to a person's success both within and outside the K-12 education system. Connecticut received a mark of B-plus and finished fourth for School Finance. It ranked 12th with a grade of C on the K-12 Achievement Index. The Connecticut State Board of Education manages the public school system for children in grades K–12. Board of Education members are appointed by the Governor of Connecticut. Statistics for each school are made available to the public through an online database system called "CEDAR". The CEDAR database also provides statistics for "ACES" or "RESC" schools for children with behavioral disorders. Connecticut was home to the nation's first law school, Litchfield Law School, which operated from 1773 to 1833 in Litchfield.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09502262443438914, 0.375, 0.15162454873646208, 0.0947653429602888]
+[0.00909090909090909, 0.03636363636363636, 0.014545454545454544, 0.00909090909090909]
+[0.07239819004524888, 0.2857142857142857, 0.11552346570397111, 0.07220216606498195]

@@ -1,0 +1,15 @@
+Document:
+washington
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+, the state of Washington, is a state in the Pacific Northwest region of the United States . Named for George Washington, the first US president, the state was made out of the western part of the Washington Territory . the state, which is bordered on the west by the Pacific Ocean, Oregon to the south, Idaho to the east, and the Canadian province of British Columbia to the north, was admitted to the Union as the state .
+
+GT:
+The first recorded European landing on the Washington coast was by Spanish Captain Don Bruno de Heceta in 1775, on board the Santiago, part of a two-ship flotilla with the Sonora. In 1778, British explorer Captain James Cook sighted Cape Flattery, at the entrance to the Strait of Juan de Fuca, but Cook did not realize the strait existed. The British-Spanish Nootka Convention of 1790 ended Spanish claims of exclusivity and opened the Northwest Coast to explorers and traders from other nations, most notably Britain and Russia as well as the fledgling United States. Washington became the 42nd state in the United States on November 11, 1889. In eastern Washington, the Hanford Works atomic energy plant was opened in 1943, and played a major role in the construction of the nation's atomic bombs. On May 18, 1980, following a period of heavy tremors and small eruptions, the north face of Mount St. Helens side off in the largest landslide in recorded history before erupting violently, destroying a large part of the top of the volcano.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.24157303370786518, 0.5733333333333334, 0.3399209486166008, 0.2124505928853755]
+[0.0847457627118644, 0.20270270270270271, 0.11952191235059759, 0.0747011952191235]
+[0.1404494382022472, 0.3333333333333333, 0.19762845849802374, 0.12351778656126483]

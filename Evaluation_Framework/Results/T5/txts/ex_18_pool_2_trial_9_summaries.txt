@@ -1,0 +1,15 @@
+Document:
+new_york
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+the 27th largest state. New York is the home of New York City. New York is a state in the northeastern United States. It was one of the original thirteen colonies, forming the United States. New York is a state in the northeastern United States. It was one of the original thirteen colonies, forming the United States. With an estimated population of 8.34 million in 2019, New York City is the fourth most populous.
+
+GT:
+In general, New York has a humid continental climate, though under the Köppen climate classification, New York City has a humid subtropical climate. Weather in New York is heavily influenced by two continental air masses: a warm, humid one from the southwest and a cold, dry one from the northwest. Downstate New York, comprising New York City, Long Island, and lower portions of the Hudson Valley, has rather hot summers with some periods of high humidity and cold, damp winters which are relatively mild compared to temperatures in Upstate New York due to the downstate region's lower elevation, proximity to the Atlantic Ocean, and relatively lower latitude. Upstate New York experiences warm summers, marred by only occasional, brief intervals of sultry conditions, with long and cold winters. The summer climate is cool in the Adirondacks, Catskills, and at higher elevations of the Southern Tier. Summer daytime temperatures range from the high 70s to low 80s (25 to 28 °C), over most of the state. In the majority of winter seasons, a temperature of −13 °F (−25 °C) or lower can be expected in the northern highlands (Northern Plateau) and 5 °F (−15 °C) or colder in the southwestern and east-central highlands of the Southern Tier.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1778846153846154, 0.49333333333333335, 0.26148409893992935, 0.16342756183745585]
+[0.06280193236714976, 0.17567567567567569, 0.09252669039145907, 0.05782918149466193]
+[0.12980769230769232, 0.36, 0.19081272084805656, 0.11925795053003535]

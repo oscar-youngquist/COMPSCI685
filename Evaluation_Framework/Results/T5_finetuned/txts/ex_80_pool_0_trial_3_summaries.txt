@@ -1,0 +1,15 @@
+Document:
+ohio
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated . Columbus metro area, Greater Cincinnati, and Greater Cleveland are the largest metropolitan areas . Ohio is bordered by Lake Erie to the north, Pennsylvania to the east, West Virginia to the southeast, Kentucky to the southwest, Kentucky to the southwest .
+
+GT:
+The state takes its name from the Ohio River, whose name in turn originated from the Senatorca word ohiːyo', meaning "good river", "great river", or "large creek". Ohio arose from the lands west of Appalachia that were contested from colonial times through the Northwest Indian Wars of the late 18th century. Ohio was the first post-colonial free state admitted to the union, and became one of the earliest and most influential industrial powerhouses in the 20th century; although it has transitioned to a more information and service based economy in the 21st century, Ohio remains an industrial state, ranking seventh in GDP as of 2019, with the third largest manufacturing sector and second largest automobile production. Archeological evidence of spear points of both the Folsom and Clovis types indicate that the Ohio Valley was inhabited by nomadic people as early as 13,000 BC. Between 1,000 and 800 BC, the sedentary Adena culture emerged. The Adena were able to establish "semi-permanent" villages because they domesticated plants, including, sunflowers, and "grew squash and possibly corn"; with hunting and gathering, this cultivation supported more settled, complex villages. Their complex, large and technologically sophisticated earthworks can be found in modern-day Marietta, Newark, and Circleville. They were also a prolific trading society, their trading network spanning a third of the continent.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10810810810810811, 0.375, 0.16783216783216784, 0.1048951048951049]
+[0.004524886877828055, 0.015873015873015872, 0.007042253521126761, 0.0044014084507042256]
+[0.06756756756756757, 0.234375, 0.10489510489510491, 0.06555944055944056]

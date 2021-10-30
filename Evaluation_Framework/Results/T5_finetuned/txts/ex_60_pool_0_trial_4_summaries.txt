@@ -1,0 +1,15 @@
+Document:
+pennsylvania
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Pennsilfaani, offiziell das Commonwealth of Pennsylvania, ist ein Staat in den Regionen Mid-Atlantik, Appalachien und Große Seen des Nordostens der Vereinigten Staaten, grenzt an Delaware im Südosten, Maryland im Süden, West Virginia im Südwesten, Ohio im Westen, Lake Erie und die Kanadische Provinz Ontario im Nordwesten, New York im Norden und New York im Norden.
+
+GT:
+The most populous county in Pennsylvania is Philadelphia, while the least populous is Cameron (5,085). Pennsylvania is home to the nation's first zoo, the Philadelphia Zoo. Pennsylvania is also home to the National Aviary, located in Pittsburgh. Pennsylvania offers a number of notable amusement parks, including Camel Beach, Conneaut Lake Park, Dorney Park & Wildwater Kingdom, Dutch Wonderland, DelGrosso's Amusement Park, Hersheypark, Idlewild Park, Kennywood, Knoebels, Lakemont Park, Sandcastle Waterpark, Sesame Place, Great Wolf Lodge and Waldameer Park. These include Musikfest and NEARfest in Bethlehem, the Philadelphia Folk Festival, Creation Festival, the Great Allentown Fair, and Purple Door. Pennsylvania is home to many major league professional sports teams: the Philadelphia Phillies and Pittsburgh Pirates of Major League Baseball, the Philadelphia 76ers of the National Basketball Association, the Pittsburgh Steelers and Philadelphia Eagles of the National Football League, the Philadelphia Flyers and Pittsburgh Penguins of the National Hockey League, and the Philadelphia Union of Major League Soccer. Notable racetracks in Pennsylvania include the Jennerstown Speedway in Jennerstown, the Lake Erie Speedway in North East, the Mahoning Valley Speedway in Lehighton, the Motordome Speedway(closed) in Smithton, the Mountain Speedway in St. Johns, the Nazareth Speedway in Nazareth (closed); the Lernerville Speedway in Sarver and the Pocono Raceway in Long Pond, which is home to two NASCAR Cup Series races and an IndyCar Series race. Two of the three companies that define the US potato chip industry are based in Pennsylvania: Utz Quality Foods, which started making chips in Hanover, Pennsylvania, in 1921, Wise Foods, which started making chips in Berwick in 1921, the third, Frito-Lay (part of PepsiCo, based in Plano, Texas). The US chocolate industry is centered in Hershey, Pennsylvania, with Mars, Godiva, and Wilbur Chocolate Company nearby, and smaller manufacturers such as Asher's in Souderton, and Gertrude Hawk Chocolates of Dunmore.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.029411764705882353, 0.15, 0.04918032786885246, 0.03073770491803279]
+[0.003278688524590164, 0.01694915254237288, 0.005494505494505494, 0.0034340659340659344]
+[0.016339869281045753, 0.08333333333333333, 0.027322404371584702, 0.01707650273224044]

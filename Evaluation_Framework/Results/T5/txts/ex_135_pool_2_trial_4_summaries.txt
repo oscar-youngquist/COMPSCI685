@@ -1,0 +1,15 @@
+Document:
+massachusetts
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+, Massachusetts ( (listen), ), officially known as the Commonwealth of Massachusetts, is the most populous state in the New England region of the Northeastern United States . Massachusetts is the most populous state in the New England region of the Northeastern United States . it borders on the Atlantic Ocean to the east, the states of Connecticut and Rhode Island to the south, New Hampshire and Vermont to the north, and New York to the west .
+
+GT:
+In 2018, Massachusetts's overall educational system was ranked the top among all fifty US states by US News & World Report. Massachusetts is also home to the highest ranked private high school in the United States, Phillips Academy in Andover, Massachusetts, which was founded in 1778. Massachusetts's per-student public expenditure for elementary and secondary schools was eighth in the nation in 2012, at $14,844. In 2013, Massachusetts scored highest of all the states in math and third-highest in reading on the National Assessment of Educational Progress. Massachusetts' public-school students place among the top tier in the world in academic performance. Massachusetts is home to 121 institutions of higher education.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.23684210526315788, 0.375, 0.2903225806451613, 0.1814516129032258]
+[0.07964601769911504, 0.1267605633802817, 0.09782608695652173, 0.06114130434782609]
+[0.18421052631578946, 0.2916666666666667, 0.22580645161290325, 0.14112903225806453]

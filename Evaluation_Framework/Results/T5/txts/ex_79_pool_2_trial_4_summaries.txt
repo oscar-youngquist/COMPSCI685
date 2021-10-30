@@ -1,0 +1,15 @@
+Document:
+utah
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+(YOO-tah, (listen) YOO-taw) is a state in the Western United States . it is bordered by Colorado to the east, Wyoming to the northeast, Idaho to the north, Arizona to the south and Nevada to the west . of the fifty states, Utah is the 13th-largest by area; with a population over three million, it is the 30th-most-populous and 11th-least-densely populated.
+
+GT:
+The state has a highly diversified economy, with major sectors including transportation, education, information technology and research, government services, mining; it is also a major tourist destination for outdoor recreation. In 2011 one-third of Utah's workforce was reported to be bilingual, developed through a program of acquisition of second languages beginning in elementary school, and related to Mormonism's missionary goals for its young people. Utah has seven universities that compete in Division I of the NCAA. Rugby has been growing quickly in the state of Utah, growing from 17 teams in 2009 to 70 as of 2013 with more than 3,000 players, and more than 55 high school varsity teams. Utah fields two of the most competitive teams in the nation in college rugby—BYU and Utah. BYU has won the National Championship in 2009, 2012, 2013, 2014, and 2015. Formed in 2017, Utah Warriors is a Major League Rugby team based in Salt Lake City.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14375, 0.3484848484848485, 0.20353982300884954, 0.12721238938053098]
+[0.025157232704402517, 0.06153846153846154, 0.03571428571428572, 0.022321428571428572]
+[0.09375, 0.22727272727272727, 0.1327433628318584, 0.0829646017699115]

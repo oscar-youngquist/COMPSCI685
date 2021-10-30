@@ -1,0 +1,15 @@
+Document:
+delaware
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Delaware ( (listen) DEL--wair) is a state in the Mid-Atlantic region of the United States . Delaware ( (listen) DEL--wair) is a state in the Mid-Atlantic region of the United States . Delaware ( (listen) DEL--wair is a state in the Mid-Atlantic region of the United States, bordering Maryland to its south and west; Pennsylvania to its north; and New Jersey and
+
+GT:
+Since almost all of Delaware is a part of the Atlantic coastal plain, the effects of the ocean moderate its climate. The state lies in the humid subtropical climate zone. Despite its small size (roughly 100 miles (160 km) from its northernmost to southernmost points), there is significant variation in mean temperature and amount of snowfall between Sussex County and New Castle County. Moderated by the Atlantic Ocean and Delaware Bay, the southern portion of the state has a milder climate and a longer growing season than the northern portion of the state. Delaware's all-time record high of 110 °F (43 °C) was recorded at Millsboro on July 21, 1930. The transitional climate of Delaware supports a wide variety of vegetation. In the northern third of the state are found Northeastern coastal forests and mixed oak forests typical of the northeastern United States. In the southern two-thirds of the state are found Middle Atlantic coastal forests. Trap Pond State Park, along with areas in other parts of Sussex County, for example, support the northernmost stands of bald cypress trees in North America.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.20540540540540542, 0.6031746031746031, 0.3064516129032258, 0.19153225806451618]
+[0.059782608695652176, 0.1774193548387097, 0.0894308943089431, 0.05589430894308943]
+[0.12972972972972974, 0.38095238095238093, 0.1935483870967742, 0.12096774193548387]

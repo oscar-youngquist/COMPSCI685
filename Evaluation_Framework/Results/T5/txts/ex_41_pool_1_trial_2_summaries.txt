@@ -1,0 +1,15 @@
+Document:
+rhode_island
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Rhode Island ( (listen), like road) is a state in the New England region of the United States . Rhode Island is a state in the New England region of the United States . it is the smallest US state by area and the seventh least populous (1,059,361 as of 2019), but also the second most densely populated behind New Jersey .
+
+GT:
+It is the smallest US state by area and the seventh least populous (1,059,361 as of 2019), but it is also the second most densely populated behind New Jersey. The state takes its name from Rhode Island; however, most of the state is located on the mainland. Prior to 2020, the state's official name was State of Rhode Island and Providence Plantations, which is derived from the merger of four Colonial settlements. Advocates for excising plantation claimed that the word symbolized an alleged legacy of disenfranchisement for many Rhode Islanders, as well as the proliferation of slavery in the colonies and in the post-colonial United States. Advocates for retaining the name argued that plantation was simply an archaic synonym for colony and bore no relation to slavery. The referendum election was held on November 2, 2010, and the people voted overwhelmingly (78% to 22%) to retain the entire original name.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3116883116883117, 0.8, 0.44859813084112155, 0.280373831775701]
+[0.21568627450980393, 0.559322033898305, 0.3113207547169811, 0.1945754716981132]
+[0.18831168831168832, 0.48333333333333334, 0.2710280373831776, 0.169392523364486]

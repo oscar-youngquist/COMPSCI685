@@ -26,7 +26,7 @@ parser.add_argument('--finetune', action='store_true')
 args = parser.parse_args()
 finetune = args.finetune
 
-model_name = "Pegasus_finetuned" if finetune else "Pegasus"
+model_name = "Pegasus_finetune_test" if finetune else "Pegasus"
 
 ###
 #    Helper function used to replaces sys.excepthook to log exceptions to 

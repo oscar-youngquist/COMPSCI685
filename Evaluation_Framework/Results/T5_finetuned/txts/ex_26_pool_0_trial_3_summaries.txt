@@ -1,0 +1,15 @@
+Document:
+maine
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Maine ( (listen)) is a state in the New England region of the Northeastern United States . it is bordered by New Hampshire to the west; the Atlantic Ocean to the southeast; and the Canadian provinces of New Brunswick and Quebec to the northeast and northwest . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states .
+
+GT:
+There are thirty institutions of higher learning in Maine. These institutions include the University of Maine, which is the oldest, largest and only research university in the state. Bowdoin College is a liberal arts college founded in 1794 in Brunswick, making it the oldest institution of higher learning in the state. The collegiate system of Maine also includes numerous baccalaureate colleges such as: the Maine Maritime Academy (MMA), Unity College, and Thomas College. There is only one medical school in the state, (University of New England's College of Osteopathic Medicine) and only one law school (The University of Maine School of Law). Private schools in Maine are funded independently of the state and its furthered domains. Private schools are less common than public schools. A large number of private elementary schools with under 20 students exist, but most private high schools in Maine can be described as "semi-private".
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.20666666666666667, 0.4696969696969697, 0.28703703703703703, 0.17939814814814814]
+[0.040268456375838924, 0.09230769230769231, 0.056074766355140186, 0.035046728971962614]
+[0.13333333333333333, 0.30303030303030304, 0.18518518518518517, 0.11574074074074073]

@@ -1,0 +1,15 @@
+Document:
+illinois
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+a microcosm of the entire United States. Illinois ( (listen) IL--NOY) is a state in the Midwestern and Great Lakes regions of the United States. It has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all states. Illinois has a diverse economic base, and is a microcosm of the entire United States.
+
+GT:
+The Illinois State Board of Education (ISBE) is autonomous of the governor and the state legislature, and administers public education in the state. Local municipalities and their respective school districts operate individual public schools, but the ISBE audits performance of public schools with the Illinois School Report Card. The ISBE also makes recommendations to state leaders concerning education spending and policies. Education is compulsory for ages 7–17 in Illinois. Schools are commonly, but not exclusively, divided into three tiers of primary and secondary education: elementary school, middle school or junior high school, and high school. District territories are often complex in structure. Many areas in the state are actually located in two school districts—one for high school, the other for elementary and middle schools. And such districts do not necessarily share boundaries. Using the criterion established by the Carnegie Foundation for the Advancement of Teaching, there are eleven "National Universities" in the state. Illinois also has more than twenty additional accredited four-year universities, both public and private, and dozens of small liberal arts colleges across the state. Additionally, Illinois supports 49 public community colleges in the Illinois Community College System.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13471502590673576, 0.41935483870967744, 0.20392156862745098, 0.12745098039215688]
+[0.020833333333333332, 0.06557377049180328, 0.03162055335968379, 0.019762845849802372]
+[0.11398963730569948, 0.3548387096774194, 0.17254901960784313, 0.10784313725490197]

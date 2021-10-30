@@ -1,0 +1,15 @@
+Document:
+florida
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Florida ( (listen), Spanish pronunciation: [floia]) is a state located in the southeastern region of the United States . the state is bordered to the west by the Gulf of Mexico, to the northwest by Alabama, to the north by Georgia, to the east by the Atlantic Ocean, and to the south by the Straits of Florida . the state's capital is Tallahassee and its most populous state is the capital of the state, Tallahassee .
+
+GT:
+Florida overall was ranked the 7th best state in America for educating students at all levels by US News & World Report in 2018. With an educational system made up of public school districts and independent private institutions, Florida had 2,833,115 students enrolled in 4,269 public primary, secondary, and vocational schools in Florida's 67 regular or seven special school districts as of 2018. Florida spent $8,920 for each student in 2016, and was 43rd in the nation in expenditures per student. Florida's primary and secondary school systems are administered by the Florida Department of Education. School districts are organized within county boundaries. Each school district has an elected Board of Education that sets policy, budget, goals, and approves expenditures. Management is the responsibility of a Superintendent of schools. The Florida Department of Education is required by law to train educators in teaching English for Speakers of Other Languages (ESOL). During the 2010 academic year, 312,216 students attended one of these twelve universities. The Independent Colleges and Universities of Florida is an association of 28 private, educational institutions in the state. In 2016, Florida charged the second lowest tuition in the nation for four years, $26,000 for in-state students, to $86,000 for out-of-state students. This compares with an average of $34,800 nationally for in-state students.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14977973568281938, 0.4657534246575342, 0.22666666666666668, 0.1416666666666667]
+[0.022123893805309734, 0.06944444444444445, 0.03355704697986577, 0.020973154362416105]
+[0.09691629955947137, 0.3013698630136986, 0.14666666666666667, 0.09166666666666666]

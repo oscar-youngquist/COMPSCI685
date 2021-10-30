@@ -1,0 +1,15 @@
+Document:
+kansas
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Kansas ( (listen)) is a US state in the Midwestern United States . its capital is Topeka and its largest city is Wichita . the tribe's name (natively kk:ze) is often said to mean "people of the (south) wind" for thousands of years, what is now Kansas was home to the Kansa Native Americans .
+
+GT:
+Several institutions of higher education are located in Northeast Kansas including Baker University (the oldest university in the state, founded in 1858 and affiliated with the United Methodist Church) in Baldwin City, Benedictine College (sponsored by St. Benedict's Abbey and Mount St. Scholastica Monastery and formed from the merger of St. Benedict's College (1858) and Mount St. Scholastica College (1923)) in Atchison, MidAmerica Nazarene University in Olathe, Ottawa University in Ottawa and Overland Park, Kansas City Kansas Community College and KU Medical Center in Kansas City, and KU Edwards Campus in Overland Park. Less than an hour's drive to the west, Lawrence is home to the University of Kansas, the largest public university in the state, and Haskell Indian Nations University. In May 2012, Governor Brownback signed into law the Kansas Senatorte Bill Substitute HB 2117. He made cuts to education and some state services to offset lost revenue. Kansas was also at the center of Brown v. Board of Education of Topeka, a 1954 Supreme Court decision that banned racially segregated schools throughout the US Education in Kansas is governed at the primary and secondary school level by the Kansas State Board of Education. The state's public colleges and universities are supervised by the Kansas Board of Regents. Twice since 1999 the Board of Education has approved changes in the state science curriculum standards that encouraged the teaching of intelligent design. Both times, the standards were reversed after changes in the composition of the board in the next election.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10236220472440945, 0.49056603773584906, 0.16938110749185664, 0.10586319218241041]
+[0.023715415019762844, 0.11538461538461539, 0.039344262295081964, 0.02459016393442623]
+[0.06692913385826772, 0.32075471698113206, 0.11074918566775245, 0.06921824104234528]

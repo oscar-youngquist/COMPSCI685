@@ -1,0 +1,15 @@
+Document:
+nevada
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Nevada (, Spanish: [neaa]) is a state in the Western United States . it is bordered by Oregon to the northwest, Idaho to the northeast, California to the west, Arizona to the southeast, and Utah to the east . Nearly three-quarters of Nevada's people live in Clark County, which contains the Las Vegas–Paradise metropolitan area .
+
+GT:
+The Humboldt River crosses the state from east to west across the northern part of the state, draining into the Humboldt Sink near Lovelock. The southern third of the state, where the Las Vegas area is situated, is within the Mojave Desert. The largest mountain range in the southern portion of the state is the Spring Mountain Range, just west of Las Vegas. There are 68 designated wilderness areas in Nevada, protecting some 6,579,014 acres (2,662,433 ha) under the jurisdiction of the National Park Service, US Forest Service, and Bureau of Land Management. There are 24 state park units, including Van Sickle Bi-State Park which opened in July 2011 and is operated in partnership with the state of California. Resort areas like Las Vegas, Reno, Lake Tahoe, and Laughlin attract visitors from around the nation and world. Prostitution is legal in parts of Nevada in licensed brothels, but only counties with populations under 400,000 have the option to legalize it.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1746987951807229, 0.5272727272727272, 0.26244343891402716, 0.16402714932126694]
+[0.024242424242424242, 0.07407407407407407, 0.0365296803652968, 0.0228310502283105]
+[0.0963855421686747, 0.2909090909090909, 0.14479638009049775, 0.0904977375565611]

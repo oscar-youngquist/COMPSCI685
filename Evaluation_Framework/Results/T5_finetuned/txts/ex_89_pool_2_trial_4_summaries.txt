@@ -1,0 +1,15 @@
+Document:
+nevada
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Nevada (, Spanish: [neaa]) is a state in the Western United States . it is bordered by Oregon to the northwest, Idaho to the northeast, California to the west, Arizona to the southeast, and Utah to the east . Nearly three-quarters of Nevada's people live in Clark County .
+
+GT:
+Nevada is officially known as the "Silver State" because of the importance of silver to its history and economy. Nevada and California have by far the longest diagonal line (in respect to the cardinal directions) as a state boundary at just over 400 miles (640 km). Nevada is the driest state in the United States. Nevada is one of only two states to significantly expand its borders after admission to the Union. The economy of Nevada has long been tied to vice industries. In 1900, Nevada's population was the smallest of all states and was shrinking, as the difficulties of living in a "barren desert" began to outweigh the lure of silver for many early settlers. Nevada is the only state where prostitution is legal – in a licensed brothel in a county which has specifically voted to permit it. Nevada's early reputation as a "divorce haven" arose from the fact that before the no-fault divorce revolution in the 1970s, divorces were difficult to obtain in the United States. In 2009, the Nevada Legislature passed a bill creating a domestic partnership registry which enables gay couples to enjoy the same rights as married couples. In 2016, Nevada voters approved Question 2, which legalized the possession, transportation and cultivation of personal use amounts of marijuana for adults age 21 years and older, and authorized the creation of a regulated market for the sale of marijuana to adults age 21 years and older through state-licensed retail outlets. Nevada is the only US state to have a none of the above option available on its ballots.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11278195488721804, 0.6382978723404256, 0.1916932907348243, 0.11980830670926516]
+[0.033962264150943396, 0.1956521739130435, 0.05787781350482315, 0.03617363344051447]
+[0.08270676691729323, 0.46808510638297873, 0.14057507987220447, 0.0878594249201278]

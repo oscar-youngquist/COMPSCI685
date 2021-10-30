@@ -1,0 +1,15 @@
+Document:
+virginia
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+is the most-populous city, and Fairfax County is the most-populous political subdivision. The Commonwealth of Virginia ( (listen) is a state in the Mid-Atlantic region of the Southern United States. The geography and climate of the Commonwealth are shaped by the Blue Ridge Mountains and the Chesapeake Bay, which provide habitat for much of its flora and fauna.
+
+GT:
+Virginia has 30 National Park Service units, such as Great Falls Park and the Appalachian Trail, and one national park, Shenandoah National Park. The Harrison Opera House, in Norfolk, is home of the Virginia Opera. The Barter Theatre in Abingdon, designated the State Theatre of Virginia, won the first Regional Theatre Tony Award in 1948, while the Signature Theatre in Arlington won it in 2009. There is also a Children's Theater of Virginia, Theatre IV, which is the second largest touring troupe nationwide. The Virginia State Fair is held at the Meadow Event Park every September. Also in September is the Neptune Festival in Virginia Beach, which celebrates the city, the waterfront, and regional artists. Norfolk's Harborfest, in June, features boat racing and air shows. Fairfax County also sponsors Celebrate Fairfax! with popular and traditional music performances. The Virginia Lake Festival is held during the third weekend in July in Clarksville. Wolf Trap hosts the Wolf Trap Opera Company, which produces an opera festival every summer. Each September, Bay Days celebrates the Chesapeake Bay as well as Hampton's 400-year history since 1610, and Isle of Wight County holds a County Fair on the second week of September as well. Both feature live music performances, and other unique events. The Shenandoah Apple Blossom Festival is a six-day festival held annually in Winchester which includes parades and bluegrass concerts. The Old Time Fiddlers' Convention in Galax, begun in 1935, is one of the oldest and largest such events worldwide. Two important film festivals, the Virginia Film Festival and the VCU French Film Festival, are held annually in Charlottesville and Richmond, respectively.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12408759124087591, 0.5666666666666667, 0.20359281437125748, 0.12724550898203593]
+[0.03663003663003663, 0.1694915254237288, 0.060240963855421686, 0.03765060240963856]
+[0.08394160583941605, 0.38333333333333336, 0.13772455089820357, 0.08607784431137724]

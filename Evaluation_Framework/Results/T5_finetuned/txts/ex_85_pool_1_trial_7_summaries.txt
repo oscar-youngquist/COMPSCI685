@@ -1,0 +1,15 @@
+Document:
+north_dakota
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+North Dakota ( (listen)) is a state in the Midwestern United States . it is named after the Lakota and Dakota Sioux Native American tribes . it is the nineteenth largest in area, the fourth least populous, and the fourth most sparsely populated of the 50 states . it is the fourth most sparsely populated of the 50 states .
+
+GT:
+The United States Census Bureau estimates North Dakota's population was 762,062 on July 1, 2019, a 13.30% increase since the 2010 United States Census. This makes North Dakota the US state with the largest percentage in population growth since 2011. North Dakota is the fourth least-populous state in the country; only Alaska, Vermont, and Wyoming have fewer residents. North Dakota has the most churches per capita of any state. In 2000, 2.5% of the population spoke German in addition to English, reflecting early 20th century immigration. North Dakotan musicians of many genres include blues guitarist Jonny Lang, country music singer Lynn Anderson, jazz and traditional pop singer and songwriter Peggy Lee, big band leader Lawrence Welk, and pop singer Bobby Vee. Of North Dakota's 762,062 people, 56.54% live in one of the top fifteen most populated cities.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2206896551724138, 0.5818181818181818, 0.32, 0.19999999999999998]
+[0.06944444444444445, 0.18518518518518517, 0.10101010101010101, 0.06313131313131312]
+[0.15862068965517243, 0.41818181818181815, 0.23, 0.14375]

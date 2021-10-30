@@ -1,0 +1,15 @@
+Document:
+idaho
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Idaho ( (listen)) is a state in the Pacific Northwest region of the United States . It borders the state of Montana to the east and northeast, Wyoming to the east, Wyoming to the east, Nevada and Utah to the south, and Washington and Oregon to the west . Idaho is the 14th largest, the 12th least populous and the 7th least densely populated of the 50 US US 50 US 50 US 50 US 50 US 50 US 50 US 50 US 50 US 50 US 50 US 50 US 50 US 50 US 50
+
+GT:
+Idahoans may apply for state tax credits for taxes paid to other states, as well as for donations to Idaho state educational entities and some nonprofit youth and rehabilitation facilities. As of January 2020, the State of Idaho contains 105 school districts and 62 charter schools. The school districts range in enrollment from two to 39,507 students. Idaho school districts are governed by elected school boards, which are elected in November of odd-numbered years, except for the Boise School District, whose elections are held in September. Idaho has four regional community colleges: North Idaho College in Coeur d'Alene; College of Southern Idaho in Twin Falls; College of Western Idaho in Nampa, which opened in 2009, College of Eastern Idaho in Idaho Falls, which transitioned from a technical college in 2017. Private institutions in Idaho are Boise Bible College, affiliated with congregations of the Christian churches and churches of Christ; Brigham Young University-Idaho in Rexburg, which is affiliated with The Church of Jesus Christ of Latter-day Saints and a sister college to Brigham Young University; The College of Idaho in Caldwell, which still maintains a loose affiliation with the Presbyterian Church; Northwest Nazarene University in Nampa; and New Saint Andrews College in Moscow, of reformed Christian theological background.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13679245283018868, 0.3118279569892473, 0.1901639344262295, 0.11885245901639345]
+[0.014218009478672985, 0.03260869565217391, 0.019801980198019802, 0.012376237623762377]
+[0.08962264150943396, 0.20430107526881722, 0.12459016393442622, 0.07786885245901638]

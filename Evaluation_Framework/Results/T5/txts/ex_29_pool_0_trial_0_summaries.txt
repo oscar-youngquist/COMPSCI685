@@ -1,0 +1,15 @@
+Document:
+alaska
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+( (listen); Alaska ( (listen); Alaska ( (listen); Aleut: Alaxsxax; Inupiaq: Alaasikaq; Pacific Gulf Yupik: Alaasikaq; Tlingit: Anáaski) is a US state on the northwest extremity of the country's West Coast, just across the Bering Strait . Alaska ( (listen); Aleut: Alaxsxax; Aleu
+
+GT:
+On an annual basis, Southeast is both the wettest and warmest part of Alaska with milder temperatures in the winter and high precipitation throughout the year. This is also the only region in Alaska in which the average daytime high temperature is above freezing during the winter months. The climate of Anchorage and south central Alaska is mild by Alaskan standards due to the region's proximity to the seacoast. While the area gets less rain than southeast Alaska, it gets more snow, and days tend to be clearer. The climate of Western Alaska is determined in large part by the Bering Sea and the Gulf of Alaska. The temperature is somewhat moderate considering how far north the area is. This region has a tremendous amount of variety in precipitation. The climate of the interior of Alaska is subarctic. The summers may have temperatures reaching into the 90s °F (the low-to-mid 30s °C), while in the winter, the temperature can fall below −60 °F (−51 °C). The highest and lowest recorded temperatures in Alaska are both in the Interior. The climate in the extreme north of Alaska is Arctic (Köppen: ET) with long, very cold winters and short, cool summers. Even in July, the average low temperature in Utqiagvik is 34 °F (1 °C).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.06912442396313365, 0.375, 0.11673151750972763, 0.07295719844357978]
+[0.009259259259259259, 0.05128205128205128, 0.01568627450980392, 0.00980392156862745]
+[0.04608294930875576, 0.25, 0.07782101167315175, 0.04863813229571984]

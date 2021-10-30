@@ -1,0 +1,15 @@
+Document:
+rhode_island
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Rhode Island ( (listen), like road) is a state in the New England region of the United States . Rhode Island is a state in the New England region of the United States . it is the smallest US state by area and the seventh least populous (1,059,361 as of 2019), but also the second most densely populated behind New Jersey .
+
+GT:
+Brown University was founded in 1764 as the College in the British Colony of Rhode Island and Providence Plantations. It was one of nine Colonial colleges granted charters before the American Revolution, but was the first college in America to accept students regardless of religious affiliation. Notable villages include Kingston in the town of South Kingstown, which houses the University of Rhode Island; Wickford in the town of North Kingstown, the site of an annual international art festival; and Wakefield where the Town Hall is located for the Town of South Kingstown. Today, much of the economy of Rhode Island is based in services, particularly healthcare and education, and still manufacturing to some extent. Per the 2013 American Communities Survey, Rhode Island has the highest paid elementary school teachers in the country, with an average salary of $75,028 (adjusted to inflation). Rhode Island has several colleges and universities:
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1476510067114094, 0.36666666666666664, 0.21052631578947367, 0.13157894736842105]
+[0.04054054054054054, 0.1016949152542373, 0.057971014492753624, 0.036231884057971016]
+[0.11409395973154363, 0.2833333333333333, 0.16267942583732056, 0.10167464114832535]

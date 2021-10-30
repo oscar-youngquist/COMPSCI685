@@ -1,0 +1,15 @@
+Document:
+rhode_island
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Rhode Island ( (listen), like road) is a state in the New England region of the United States . Rhode Island is a state in the New England region of the United States . it is the smallest US state by area and the seventh least populous (1,059,361 as of 2019), but also the second most densely populated behind New Jersey .
+
+GT:
+It is the smallest US state by area and the seventh least populous (1,059,361 as of 2019), but it is also the second most densely populated behind New Jersey. Rhode Island's population barely crosses the threshold beyond the minimum of three for additional votes in both the federal House of Representatives and Electoral College; it is well represented relative to its population, with the eighth-highest number of electoral votes and second-highest number of House Representatives per resident. The quahog is a large local clam usually used in a chowder. The official state drink of Rhode Island is coffee milk, a beverage created by mixing milk with coffee syrup. Submarine sandwiches are called grinders throughout Rhode Island, and the Italian grinder is especially popular, made with cold cuts such as ham, prosciutto, capicola, salami, and Provolone cheese. The Colony of Rhode Island and Providence Plantations enacted the first law prohibiting slavery in America on May 18, 1652. Pelham Street in Newport was the first in America to be illuminated by gaslight in 1806. Nibbles Woodaway, more commonly referred to as "The Big Blue Bug", is a 58-foot-long termite mascot for a Providence extermination business. Since its construction in 1980, it has been featured in several movies and television shows, and has come to be recognized as a cultural landmark by many locals.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.20175438596491227, 0.7666666666666667, 0.3194444444444444, 0.1996527777777778]
+[0.14096916299559473, 0.5423728813559322, 0.2237762237762238, 0.13986013986013987]
+[0.12719298245614036, 0.48333333333333334, 0.2013888888888889, 0.12586805555555555]

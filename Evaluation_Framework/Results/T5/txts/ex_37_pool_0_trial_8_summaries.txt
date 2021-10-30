@@ -1,0 +1,15 @@
+Document:
+kansas
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+is a US state in the Midwestern United States. Its capital is Topeka and its largest city is Wichita. Kansas is bordered by Nebraska to the north Kansas is named after the Kansas River, which in turn was named after the Kansa Native Americans who lived along its banks.
+
+GT:
+Kansas ( (listen)) is a US state in the Midwestern United States. Its capital is Topeka and its largest city is Wichita. Kansas is bordered by Nebraska to the north Kansas was first settled by Americans in 1827 with the establishment of Fort Leavenworth. Kansas is bordered by Nebraska to the north Precipitation ranges from about 47 inches (1,200 mm) annually in the state's southeast corner to about 16 inches (410 mm) in the southwest. According to NOAA, the all-time highest temperature recorded in Kansas is (121 °F or 49.4 °C) on July 24, 1936, near Alton in Osborne County, and the all-time low is −40 °F (−40 °C) on February 13, 1905, near Lebanon in Smith County. In Kansas alone, there are more than 6,000 ghost towns and dwindling communities, according to one Kansas historian, Daniel C. Fitzgerald. Among cities with at least one thousand residents, Mission Hills has the highest median income in the state. According to the Kansas Department of Labor's 2016 report, the average annual wage was $42,930 in 2015. The State of Kansas had a $350 million budget shortfall in February 2017. The industrial outputs are transportation equipment, commercial and private aircraft, food processing, publishing, chemical products, machinery, apparel, petroleum, and mining. The state's economy is also heavily influenced by the aerospace industry. Several large aircraft corporations have manufacturing facilities in Wichita and Kansas City, including Spirit AeroSystems, Bombardier Aerospace (LearJet), and Textron Aviation (a merger of the former Cessna, Hawker, and Beechcraft brands). The state has a statutory requirement to maintain cash reserves of at least 7.5% of expenses at the end of each fiscal year; however, lawmakers can vote to override the rule, and did so during the most recent budget agreement. The rock band Kansas was formed in the state capital of Topeka, the hometown of several of the band's members.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11285266457680251, 0.7346938775510204, 0.1956521739130435, 0.12228260869565218]
+[0.09119496855345911, 0.6041666666666666, 0.15846994535519124, 0.09904371584699453]
+[0.109717868338558, 0.7142857142857143, 0.19021739130434784, 0.11888586956521738]

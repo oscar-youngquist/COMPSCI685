@@ -1,0 +1,15 @@
+Document:
+hawaii
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Hawaii encompasses nearly the entire Hawaiian archipelago, composed of 137 volcanic islands spanning 1,500 miles (2,400 km) the only state outside North America, the only island state, and the only state in the tropics . Hawaii is also one of a handful of US states to have once been an independent nation .
+
+GT:
+The Kingdom of Hawaiʻi was sovereign from 1810 until 1893 when the monarchy was overthrown by resident American and European capitalists and landholders. Hawaiʻi was an independent republic from 1894 until August 12, 1898, when it officially became a territory of the United States. Hawaiʻi was admitted as a US state on August 21, 1959. Based on archaeological evidence, the earliest habitation of the Hawaiian Islands dates to around AD 300, probably by Polynesian settlers from the Marquesas Islands. The 1778 arrival of British explorer Captain James Cook marked the first documented contact by a European explorer with Hawaiʻi. Early British influence can be seen in the design of the flag of Hawaiʻi, which bears the Union Jack in the top-left corner. These visitors introduced diseases to the once-isolated islands, causing the Hawaiian population to drop precipitously. By 1820, disease, famine and wars between the chiefs killed more than half of the Native Hawaiian population. In 1887, Kalākaua was forced to sign the 1887 Constitution of the Kingdom of Hawaiʻi. In 1893, Queen Liliʻuokalani announced plans for a new constitution to proclaim herself an absolute monarch. On January 14, 1893, a group of mostly Euro-American business leaders and residents formed the Committee of Safety to stage a coup d'état against the kingdom and seek annexation by the United States. United States Government Minister John L. Stevens, responding to a request from the Committee of Safety, summoned a company of US Marines. According to historian William Russ, the monarchy was unable to protect itself. In 1993, the US Congress passed a joint Apology Resolution regarding the overthrow; it was signed by President Bill Clinton. After William McKinley won the 1896 US presidential election, advocates pressed to annex the Republic of Hawaiʻi. In 1900, Hawaiʻi was granted self-governance and retained ʻIolani Palace as the territorial capitol building. Despite several attempts to become a state, Hawaii remained a territory for 60 years. In March 1959, Congress passed the Hawaiʻi Admissions Act, which US President Dwight D. Eisenhower signed into law. After attaining statehood, Hawaiʻi quickly modernized through construction and a rapidly growing tourism economy.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.06521739130434782, 0.4528301886792453, 0.11401425178147269, 0.07125890736342044]
+[0.010899182561307902, 0.07692307692307693, 0.01909307875894988, 0.011933174224343677]
+[0.04076086956521739, 0.2830188679245283, 0.07125890736342043, 0.04453681710213777]

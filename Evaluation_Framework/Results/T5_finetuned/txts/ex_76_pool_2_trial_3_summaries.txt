@@ -1,0 +1,15 @@
+Document:
+california
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+, and the San Francisco Bay Area are the nation's second- and fifth-most populous subnational entity . the Greater Los Angeles area and the San Francisco Bay Area are the nation's second-most populous subnational entity . the Greater Los Angeles area and the San Francisco Bay Area are the nation's second-most populous subnational entity .
+
+GT:
+As a result of the state's diversity and migration, California integrates foods, languages, and traditions from other areas across the country and around the globe. It is considered the origin of the hippie counterculture, beach and car culture, the Internet, and the personal computer, among others. The San Francisco Bay Area and the Greater Los Angeles Area are widely seen as centers of the global technology and entertainment industries, respectively. The state's diverse geography ranges from the Pacific Coast in the west to the Sierra Nevada mountain range in the east, and from the redwood and Douglas fir forests in the northwest to the Mojave Desert in the southeast. The Sierra Nevada (Spanish for "snowy range") includes the highest peak in the contiguous 48 states, Mount Whitney, at 14,505 feet (4,421 m). The range embraces Yosemite Valley, famous for its glacially carved domes, and Sequoia National Park, home to the giant sequoia trees, the largest living organisms on Earth, and the deep freshwater lake, Lake Tahoe, the largest lake in the state by volume. In the western part of the state is Clear Lake, the largest freshwater lake by area entirely in California. In the south is a large inland salt lake, the Salton Sea. Hollywood and the rest of the Los Angeles area is a major global center for entertainment, with the US film industry's "Big Five" major film studios (Columbia, Disney, Paramount, Universal, and Warner Bros.) being based in or around the area. The NFL Super Bowl has been hosted in California 11 times at four different stadiums: Los Angeles Memorial Coliseum, the Rose Bowl, Stanford Stadium, and San Diego's Qualcomm Stadium.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11071428571428571, 0.543859649122807, 0.18397626112759646, 0.11498516320474779]
+[0.053763440860215055, 0.26785714285714285, 0.08955223880597014, 0.05597014925373134]
+[0.08928571428571429, 0.43859649122807015, 0.1483679525222552, 0.0927299703264095]

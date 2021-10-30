@@ -1,0 +1,15 @@
+Document:
+arizona
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+, Arizona is the 48th state and last of the contiguous states to be admitted to the Union . Arizona shares the Four Corners region with Utah, Colorado, and New Mexico; its other neighboring states are Nevada and California to the west and the Mexican states of Sonora and Baja California to the south and southwest. Arizona is the 48th state and last of the contiguous states to be admitted to the Union, achieving statehood.
+
+GT:
+Arizona is the sixth largest state by area, ranked after New Mexico and before Nevada. Of the state's 113,998 square miles (295,000 km2), approximately 15% is privately owned. Located in northern Arizona, the Grand Canyon is a colorful, deep, steep-sided gorge, carved by the Colorado River. The canyon is one of the Seven Natural Wonders of the World and is largely contained in the Grand Canyon National Park—one of the first national parks in the United States. Arizona is home to one of the most well-preserved meteorite impact sites in the world. Arizona is one of two US states (Hawaii being the other) that do not observe Daylight Saving Time. Due to its large area and variations in elevation, the state has a wide variety of localized climate conditions. The 1860 census reported the population of "Arizona County" to be 6,482, of whom 4,040 were listed as "Indians", 21 as "free colored", and 2,421 as "white". In 2006, Arizona became the first state in the United States to reject a proposition, Prop 107, that would have banned same-sex marriage and civil unions.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.21875, 0.5753424657534246, 0.31698113207547174, 0.19811320754716982]
+[0.041884816753926704, 0.1111111111111111, 0.06083650190114069, 0.038022813688212934]
+[0.14583333333333334, 0.3835616438356164, 0.21132075471698114, 0.1320754716981132]

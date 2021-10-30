@@ -1,0 +1,15 @@
+Document:
+new_york
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+New York is a state in the northeastern United States . It was one of the original thirteen colonies, forming the United States . With a total area of 54,555 square miles (141,300 km2), New York is the 27th largest state .
+
+GT:
+In general, New York has a humid continental climate, though under the Köppen climate classification, New York City has a humid subtropical climate. Weather in New York is heavily influenced by two continental air masses: a warm, humid one from the southwest and a cold, dry one from the northwest. Downstate New York, comprising New York City, Long Island, and lower portions of the Hudson Valley, has rather hot summers with some periods of high humidity and cold, damp winters which are relatively mild compared to temperatures in Upstate New York due to the downstate region's lower elevation, proximity to the Atlantic Ocean, and relatively lower latitude. Upstate New York experiences warm summers, marred by only occasional, brief intervals of sultry conditions, with long and cold winters. Western New York, particularly the Tug Hill region, receives heavy lake-effect snows, especially during the earlier portions of winter, before the surface of Lake Ontario itself is covered by ice. The summer climate is cool in the Adirondacks, Catskills, and at higher elevations of the Southern Tier. Buffalo and its metropolitan area are described as climate change havens for their weather pattern in Western New York. Summer daytime temperatures range from the high 70s to low 80s (25 to 28 °C), over most of the state. In the majority of winter seasons, a temperature of −13 °F (−25 °C) or lower can be expected in the northern highlands (Northern Plateau) and 5 °F (−15 °C) or colder in the southwestern and east-central highlands of the Southern Tier. New York had a record-high temperature of 108 °F (42.2 °C) on July 22, 1926. Its record-lowest temperature during the winter was −52 °F (−46.7 °C) in 1979.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.06896551724137931, 0.4878048780487805, 0.12084592145015105, 0.0755287009063444]
+[0.020761245674740483, 0.15, 0.03647416413373859, 0.022796352583586622]
+[0.05172413793103448, 0.36585365853658536, 0.09063444108761329, 0.05664652567975831]

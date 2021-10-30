@@ -1,0 +1,15 @@
+Document:
+minnesota
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+is a state in the Upper Midwest, Great Lakes, and northern region of the United States . Minnesota ( (listen)) is a state in the Upper Midwest, Great Lakes, and northern region of the United States . Minnesota is the 12th largest in area and the 22nd most populous of the US states .
+
+GT:
+As of 2008 Minnesota was ranked 12th in the nation in per capita total state and local taxes. One of the Minnesota Legislature's first acts when it opened in 1858 was the creation of a normal school in Winona. Minnesota's commitment to education has contributed to a literate and well-educated populace. In 2009, according to the US Census Bureau, Minnesota had the second-highest proportion of high school graduates, with 91.5% of people 25 and older holding a high school diploma, and the tenth-highest proportion of people with bachelor's degrees. In 2015, Minneapolis was named the nation's "Most Literate City", while St. Paul placed fourth, according to a major annual survey. In a 2013 study conducted by the National Center for Educational Statistics comparing the performance of eighth-grade students internationally in math and science, Minnesota ranked eighth in the world and third in the United States, behind Massachusetts and Vermont. In 2014, Minnesota students earned the tenth-highest average composite score in the nation on the ACT exam. In 2013, nationwide in per-student public education spending, Minnesota ranked 21st. While Minnesota has chosen not to implement school vouchers, it is home to the first charter school. The state supports a network of public universities and colleges, including 37 institutions in the Minnesota State Colleges and Universities System, and five major campuses of the University of Minnesota system. It is also home to more than 20 private colleges and universities, six of which rank among the nation's top 100 liberal arts colleges, according to US News & World Report.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11235955056179775, 0.6, 0.18927444794952683, 0.11829652996845427]
+[0.03007518796992481, 0.16326530612244897, 0.050793650793650794, 0.031746031746031744]
+[0.08614232209737828, 0.46, 0.1451104100946372, 0.09069400630914826]

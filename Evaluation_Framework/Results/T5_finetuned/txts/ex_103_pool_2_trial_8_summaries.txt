@@ -1,0 +1,15 @@
+Document:
+oregon
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+is a state in the Pacific Northwest region on the West Coast of the United States . Oregon delineates much of Oregon's northern boundary with Washington, while the Snake River delineates much of its eastern boundary with Idaho . Oregon has been home to many indigenous nations for thousands of years .
+
+GT:
+Humans have inhabited the area that is now Oregon for at least 15,000 years. While there is considerable evidence that Paleo-Indians inhabited the region, the oldest evidence of habitation in Oregon was found at Fort Rock Cave and the Paisley Caves in Lake County. The first Europeans to visit Oregon were Spanish explorers led by Juan Rodríguez Cabrillo, who sighted southern Oregon off the Pacific coast in 1543. French Canadians, Scots, Métis and other continental natives (e.g. Iroquois) trappers arrived in the late 18th and early 19th centuries, soon to be followed by Catholic clergy. The Lewis and Clark Expedition travelled through northern Oregon also in search of the Northwest Passage. British explorer David Thompson also conducted overland exploration. Also in 1811, New Yorker John Jacob Astor financed the establishment of Fort Astoria at the mouth of the Columbia River as a western outpost to his Pacific Fur Company; this was the first permanent European settlement in Oregon. The Treaty of 1818 established joint British and American occupancy of the region west of the Rocky Mountains to the Pacific Ocean. By the 1820s and 1830s, the Hudson's Bay Company dominated the Pacific Northwest from its Columbia District headquarters at Fort Vancouver (built in 1825 by the district's chief factor, John McLoughlin, across the Columbia from present-day Portland). Starting in 1842–43, the Oregon Trail brought many new American settlers to the Oregon Country. In December 1844, Oregon passed its Black Exclusion Law, which prohibited African Americans from entering the territory while simultaneously prohibiting slavery. Oregon was admitted to the Union on February 14, 1859, though no one in Oregon knew it, until March 15. On May 5, 1945, six civilians were killed by a Japanese balloon bomb that exploded on Gearhart Mountain near Bly. Industrial expansion began in earnest following the 1933–37 construction of the Bonneville Dam on the Columbia River. During the 1970s, the Pacific Northwest was particularly affected by the 1973 oil crisis, with Oregon suffering a substantial shortage. In 1994, Oregon became the first US state to legalize physician-assisted suicide through the Oregon Death with Dignity Act. A measure to legalize recreational use of marijuana in Oregon was approved on November 4, 2014, making Oregon only the second state at the time to have legalized gay marriage, physician-assisted suicide, and recreational marijuana.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08333333333333333, 0.66, 0.14798206278026904, 0.09248878923766814]
+[0.012658227848101266, 0.10204081632653061, 0.022522522522522525, 0.014076576576576577]
+[0.045454545454545456, 0.36, 0.08071748878923768, 0.05044843049327354]

@@ -1,0 +1,15 @@
+Document:
+wisconsin
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+divided into 72 counties. Wisconsin is the 23rd-largest state by total area and the 20th-most populous. Wisconsin is the state capital of Madison, and its largest city is Milwaukee. Wisconsin is divided into 72 counties. Wisconsin is the 23rd-largest state by total area and the 20th-most populous.
+
+GT:
+French explorer Jacques Marquette was the first European to reach the Wisconsin River, arriving in 1673 and calling the river Meskousing (likely ᒣᔅᑯᐤᓯᣙ meskowsin) in his journal. The first people arrived around 10,000 BCE during the Wisconsin Glaciation. Wisconsin became a territorial possession of the United States in 1783 after the American Revolutionary War. However, the British remained in control until after the War of 1812, the outcome of which finally established an American presence in the area. The Winnebago War of 1827 and the Black Hawk War of 1832 culminated in the forced removal of Native Americans from most parts of the state. Following these conflicts, Wisconsin Territory was created by an act of the United States Congress on April 20, 1836. The growing population allowed Wisconsin to gain statehood on May 29, 1848, as the 30th state. Glover was taken into custody under the Federal Fugitive Slave Law, but a mob of abolitionists stormed the prison where Glover was held and helped him escape to Canada. Later, UW economics professors John R. Commons and Harold Groves helped Wisconsin create the first unemployment compensation program in the United States in 1932. Wisconsin took part in several political extremes in the mid to late 20th century, ranging from the anti-communist crusades of Senatortor Joseph McCarthy in the 1950s to the radical antiwar protests at UW-Madison that culminated in the Sterling Hall bombing in August 1970. In 2011, Wisconsin became the focus of some controversy when newly elected governor Scott Walker proposed, successfully passed, and enacted the 2011 Wisconsin Act 10, which made large changes in the areas of collective bargaining, compensation, retirement, health insurance, and sick leave of public sector employees, among other changes. The Green Bay Packers are one of the most successful small-market professional sports franchises in the world and have won 13 NFL championships, including the first two AFL-NFL Championship games (Super Bowls I and II), Super Bowl XXXI and Super Bowl XLV. In 1982, the Brewers won the American League Championship, marking their most successful season.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07267441860465117, 0.49019607843137253, 0.12658227848101267, 0.07911392405063292]
+[0.0058309037900874635, 0.04, 0.010178117048346055, 0.006361323155216285]
+[0.05813953488372093, 0.39215686274509803, 0.10126582278481013, 0.06329113924050633]
