@@ -1,0 +1,15 @@
+Document:
+minnesota
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+is a state in the Upper Midwest, Great Lakes, and northern region of the United States . Minnesota ( (listen)) is a state in the Upper Midwest, Great Lakes, and northern region of the United States . Minnesota is the 12th largest in area and the 22nd most populous of the US states .
+
+GT:
+Minnesota experiences temperature extremes characteristic of its continental climate, with cold winters and hot summers. The lowest temperature recorded was −60 °F (−51 °C) at Tower on February 2, 1996, and the highest was 114 °F (46 °C) at Moorhead on July 6, 1936. Meteorological events include rain, snow, blizzards, thunderstorms, hail, derechos, tornadoes, and high-velocity straight-line winds. The growing season varies from 90 days in the far northeast to 160 days in southeast Minnesota near the Mississippi River, and average temperatures range from 37 to 49 °F (3 to 9 °C). Average summer dewpoints range from about 58 °F (14 °C) in the south to about 48 °F (9 °C) in the north. Average annual precipitation ranges from 19 to 35 inches (48 to 89 cm), and droughts occur every 10 to 50 years.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11678832116788321, 0.32, 0.17112299465240638, 0.106951871657754]
+[0.022058823529411766, 0.061224489795918366, 0.032432432432432434, 0.02027027027027027]
+[0.072992700729927, 0.2, 0.10695187165775402, 0.06684491978609627]

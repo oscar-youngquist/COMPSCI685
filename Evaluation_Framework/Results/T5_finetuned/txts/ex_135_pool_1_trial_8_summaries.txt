@@ -1,0 +1,15 @@
+Document:
+ohio
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Ohio is a state in the East North Central region of the Midwestern United States . Ohio is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated . Ohio is bordered by Lake Erie to the north, Pennsylvania to the east, West Virginia to the southeast, Kentucky to the southwest, Kentucky to the southwest, Kentucky to the southwest, Kentucky to the southwest, Kentucky to the southwest, Ohio .
+
+GT:
+Ohio University, the first university in the Northwest Territory, was also the first public institution in Ohio. Substantively, Ohio's system is similar to those found in other states. At the State level, the Ohio Department of Education, which is overseen by the Ohio State Board of Education, governs primary and secondary educational institutions. At the municipal level, there are approximately 700 school districts statewide. The system averages an annual enrollment of more than 400,000 students, making it one of the five largest state university systems in the US Ohio schools consistently ranking in the top 50 nationally of the US News & World Report of liberal arts colleges are Kenyon College, Oberlin College, and Denison University. Ranking in the top 100 nationally of the US News & World Report of national research universities are Case Western Reserve University, Ohio State University and Miami University.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.19444444444444445, 0.35, 0.25, 0.15625]
+[0.013986013986013986, 0.02531645569620253, 0.018018018018018018, 0.01126126126126126]
+[0.1388888888888889, 0.25, 0.17857142857142858, 0.11160714285714285]

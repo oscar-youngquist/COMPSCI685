@@ -1,0 +1,15 @@
+Document:
+ohio
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Ohio (listen) is a state in the East North Central region of the Midwestern United States . of the fifty states, it is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated . the capital and largest city of Columbus is Columbus, with the Columbus metro area, Greater Cincinnati, and Greater Cleveland being the largest metropolitan areas .
+
+GT:
+Columbus is the capital of Ohio, located near the geographic center of the state and well known for The Ohio State University. Lima and Toledo are the major cities in Northwest Ohio. Cincinnati anchors Southwest Ohio and is the largest economy in the state. The Cincinnati metropolitan area extends into Kentucky and Indiana, the Steubenville metropolitan area extends into West Virginia, the Toledo metropolitan area extends into Michigan, and the Youngstown metropolitan area extends into Pennsylvania. The Rock and Roll Hall of Fame and the Rhythm and Blues Music Hall of Fame are both located in Cleveland. Cincinnati is home to the American Classical Music Hall of Fame and Museum. Playhouse Square in downtown Cleveland is the second largest performing arts center in the United States, home to ten theaters.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2846153846153846, 0.5285714285714286, 0.37, 0.23124999999999996]
+[0.06976744186046512, 0.13043478260869565, 0.09090909090909091, 0.05681818181818182]
+[0.17692307692307693, 0.32857142857142857, 0.23000000000000004, 0.14375000000000002]

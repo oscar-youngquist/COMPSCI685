@@ -1,0 +1,15 @@
+Document:
+alabama
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+is the 30th largest by area and the 24th-most populous of the US states. Alabama is the 30th largest by area and the 24th-most populous of the US states. Alabama is nicknamed the Yellowhammer State, after the state bird.
+
+GT:
+Indigenous peoples of varying cultures lived in the area for thousands of years before the advent of European colonization. Trade with the northeastern tribes by the Ohio River began during the Burial Mound Period (1000 BCE – 700 CE) and continued until European contact. With exploration in the 16th century, the Spanish were the first Europeans to reach Alabama. More than 160 years later, the French founded the region's first European settlement at Old Mobile in 1702. This area was claimed by the French from 1702 to 1763 as part of La Louisiane. After the French lost to the British in the Seven Years' War, it became part of British West Florida from 1763 to 1783. After the United States victory in the American Revolutionary War, the territory was divided between the United States and Spain. The latter retained control of this western territory from 1783 until the surrender of the Spanish garrison at Mobile to US forces on April 13, 1813. Spain kept a claim on its former Spanish West Florida territory in what would become the coastal counties until the Adams–Onís Treaty officially ceded it to the United States in 1819. The United States Congress created the Alabama Territory on March 3, 1817. St. Stephens, now abandoned, served as the territorial capital from 1817 to 1819. Alabama was admitted as the 22nd state on December 14, 1819, with Congress selecting Huntsville as the site for the first Constitutional Convention. Alabama's slaves were freed by the 13th Amendment in 1865. Alabama was under military rule from the end of the war in May 1865 until its official restoration to the Union in 1868. The new 1901 Constitution of Alabama included provisions for voter registration that effectively disenfranchised large portions of the population, including nearly all African Americans and Native Americans, and tens of thousands of poor whites, through making voter registration difficult, requiring a poll tax and literacy test. Beginning in 1913, the first 80 Rosenwald Schools were built in Alabama for African-American children. Industrial development related to the demands of World War II brought a level of prosperity to the state not seen since before the civil war. Between 1940 and 1943, more than 89,000 people moved into the city to work for war-related industries. In 1982, limited voting was first tested in Conecuh County. Together use of these systems has increased the number of African Americans and women being elected to local offices, resulting in governments that are more representative of their citizens.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.05924170616113744, 0.6097560975609756, 0.1079913606911447, 0.06749460043196544]
+[0.009501187648456057, 0.1, 0.01735357917570499, 0.01084598698481562]
+[0.04739336492890995, 0.4878048780487805, 0.08639308855291576, 0.053995680345572346]

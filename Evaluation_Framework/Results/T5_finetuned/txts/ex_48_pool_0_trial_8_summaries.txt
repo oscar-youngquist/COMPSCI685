@@ -1,0 +1,15 @@
+Document:
+kansas
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Kansas ( (listen)) is a US state in the Midwestern United States . it is bordered by Nebraska to the north Kansas is named after the Kansas River . the tribe's name (natively kk:ze) is often said to mean "people of the (south) wind" .
+
+GT:
+Its attractions include the Kansas Speedway, Sporting Kansas City, Kansas City T-Bones, Schlitterbahn, and The Legends at Village West retail and entertainment center. Nearby, Kansas's first settlement Bonner Springs is home to several national and regional attractions including the Providence Medical Center Amphitheather, the National Agricultural Center and Hall of Fame, and the annual Kansas City Renaissance Festival. Further westward along Interstate 70 and the Kansas River is Junction City with its historic limestone and brick buildings and nearby Fort Riley, well known as the home to the US Army's 1st Infantry Division (nicknamed "the Big Red One"). South of the campus, Aggieville dates back to 1889 and is the state's oldest shopping district of its kind. With a number of nationally registered historic places, museums, and other entertainment destinations, it has a desire to become a cultural mecca in the Midwest. Wichita is also home of the nationally recognized Sedgwick County Zoo. The city of Hays is home to Fort Hays State University and the Sternberg Museum of Natural History, and is the largest city in the northwest with a population of around 20,001.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12631578947368421, 0.5581395348837209, 0.20600858369098712, 0.12875536480686695]
+[0.026455026455026454, 0.11904761904761904, 0.04329004329004329, 0.027056277056277056]
+[0.07894736842105263, 0.3488372093023256, 0.12875536480686697, 0.08047210300429186]

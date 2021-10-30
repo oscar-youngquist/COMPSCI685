@@ -1,0 +1,15 @@
+Document:
+delaware
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Delaware ( (listen) DEL--wair) is a state in the Mid-Atlantic region of the United States . Delaware ( (listen) DEL--wair) is a state in the Mid-Atlantic region of the United States . Delaware ( (listen) DEL--wair) is a state in the Mid-Atlantic region of the United States . Delaware ( (listen) DEL--wair) is a state
+
+GT:
+Since almost all of Delaware is a part of the Atlantic coastal plain, the effects of the ocean moderate its climate. The state lies in the humid subtropical climate zone. Despite its small size (roughly 100 miles (160 km) from its northernmost to southernmost points), there is significant variation in mean temperature and amount of snowfall between Sussex County and New Castle County. Moderated by the Atlantic Ocean and Delaware Bay, the southern portion of the state has a milder climate and a longer growing season than the northern portion of the state. Delaware's all-time record high of 110 °F (43 °C) was recorded at Millsboro on July 21, 1930. The all-time record low of −17 °F (−27 °C) was also recorded at Millsboro, on January 17, 1893.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.183206106870229, 0.43636363636363634, 0.25806451612903225, 0.16129032258064516]
+[0.046153846153846156, 0.1111111111111111, 0.06521739130434782, 0.04076086956521739]
+[0.16030534351145037, 0.38181818181818183, 0.22580645161290322, 0.1411290322580645]

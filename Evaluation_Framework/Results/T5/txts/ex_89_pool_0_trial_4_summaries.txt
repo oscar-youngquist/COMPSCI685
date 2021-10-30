@@ -1,0 +1,15 @@
+Document:
+montana
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+is a state in the Northwestern United States. It is bordered by Idaho to the west; North Dakota and South Dakota to the east; Wyoming to the south; and by the Canadian provinces of Alberta, British Columbia, and Saskatchewan to the north. Montana ( (listen)) is a state in the Northwestern United States. it is bordered by Idaho to the west; North Dakota and South Dakota to the east; Wyoming to the south; and by the Canadian provinces of Alberta, British Columbia, and Saskatchewan to the north.
+
+GT:
+Montana has no official nickname but several unofficial ones, most notably "Big Sky Country", "The Treasure State", "Land of the Shining Mountains", and "The Last Best Place". It is the fourth-largest state in the United States after Alaska, Texas, and California; it is the largest landlocked state. Hell Roaring Creek begins in southern Montana, and when combined with the Red Rock, Beaverhead, Jefferson, Missouri, and Mississippi River, is the longest river in North America and the fourth longest river in the world. The coldest temperature on record for Montana is also the coldest temperature for the contiguous United States. On January 20, 1954, −70 °F or −56.7 °C was recorded at a gold mining camp near Rogers Pass. Loma is the site of the most extreme recorded temperature change in a 24-hour period in the United States. On January 15, 1972, a chinook wind blew in and the temperature rose from −54 to 49 °F (−47.8 to 9.4 °C). As World War I broke out, Jeannette Rankin, the first woman in the United States to be a member of Congress, voted against the United States' declaration of war. Montana is the only one of the first 48 states lacking a completed battleship being named for it. Montana eventually became home to the largest ICBM field in the US covering 23,500 square miles (61,000 km2). Montana has a larger Native American population, both numerically and as a percentage, than most US states. Montana is ranked as the least obese state in the US, at 19.6%, according to the 2014 Gallup Poll. Montana has the highest suicide rate of any state in the US as of 2017. Montana's motto, Oro y Plata, Spanish for "Gold and Silver", recognizing the significant role of mining, was first adopted in 1865, when Montana was still a territory.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1382636655948553, 0.5, 0.21662468513853908, 0.1353904282115869]
+[0.03225806451612903, 0.11764705882352941, 0.05063291139240506, 0.03164556962025317]
+[0.10932475884244373, 0.3953488372093023, 0.1712846347607053, 0.1070528967254408]

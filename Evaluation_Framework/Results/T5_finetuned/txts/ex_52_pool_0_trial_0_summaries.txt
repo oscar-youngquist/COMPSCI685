@@ -1,0 +1,15 @@
+Document:
+kansas
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Kansas ( (listen)) is a US state in the Midwestern United States . it is bordered by Nebraska to the north Kansas is named after the Kansas River . the tribe's name (natively kk:ze) is often said to mean "people of the (south) wind" kk:ze is often said to mean "people of the (south) wind"
+
+GT:
+He made cuts to education and some state services to offset lost revenue. The drastic tax cuts had "threatened the viability of schools and infrastructure" in Kansas. Education in Kansas is governed at the primary and secondary school level by the Kansas State Board of Education. The state's public colleges and universities are supervised by the Kansas Board of Regents. Twice since 1999 the Board of Education has approved changes in the state science curriculum standards that encouraged the teaching of intelligent design. Both times, the standards were reversed after changes in the composition of the board in the next election.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.19607843137254902, 0.36363636363636365, 0.25477707006369427, 0.1592356687898089]
+[0.039603960396039604, 0.07407407407407407, 0.05161290322580645, 0.03225806451612903]
+[0.13725490196078433, 0.2545454545454545, 0.17834394904458598, 0.11146496815286625]

@@ -1,0 +1,15 @@
+Document:
+new_hampshire
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+is a state in the New England region of the Northeastern United States . New Hampshire is bordered by Massachusetts to the south, Vermont to the west, Maine and the Atlantic Ocean to the east . New Hampshire is the 5th smallest by area and the 10th least populous US state .
+
+GT:
+New Hampshire () is a state in the New England region of the Northeastern United States. New Hampshire is the 5th smallest by area and the 10th least populous US state. Its license plates carry the state motto, "Live Free or Die". The state's nickname, "The Granite State", refers to its extensive granite formations and quarries. The state was named after the southern English county of Hampshire by Captain John Mason. New Hampshire has the shortest ocean coastline of any US coastal state, with a length of 18 miles (29 km), sometimes measured as only 13 miles (21 km). Various Algonquian-speaking Abenaki tribes, largely divided between the Androscoggin and Pennacook nations, inhabited the area before European settlement. English and French explorers visited New Hampshire in 1600–1605, and David Thompson settled at Odiorne's Point in present-day Rye in 1623. New Hampshire was one of the thirteen colonies that rebelled against British rule during the American Revolution. The United States Constitution was ratified by New Hampshire on June 21, 1788, when New Hampshire became the ninth state to do so. Starting in 1952, New Hampshire gained national and international attention for its presidential primary held early in every presidential election year. The United States Census Bureau estimates the population of New Hampshire was 1,359,711 on July 1, 2019, a 3.28% increase since the 2010 United States Census. A survey suggests people in New Hampshire and Vermont are less likely than other Americans to attend weekly services and only 54% say they are "absolutely certain there is a God" compared to 71% in the rest of the nation. The Bureau of Economic Analysis estimates that New Hampshire's total state product in 2018 was $86 billion, ranking 40th in the United States. The governor of New Hampshire, since January 5, 2017, is Chris Sununu (Republican). New Hampshire is the only state in the US that does not require adults to wear seat belts in their vehicles. It is one of three states that have no mandatory helmet law. New Hampshire has 10 counties and 234 cities and towns. As of February 5, 2016, there were 882,959 registered voters, of whom 389,472 (44.1%) did not declare a political party affiliation, 262,111 (29.7%) were Republican, and 231,376 (26.2%) were Democratic. The 2008 elections resulted in women holding a majority, 13 of the 24 seats, in the New Hampshire Senatorte, a first for any legislative body in the United States.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10047846889952153, 0.8571428571428571, 0.17987152034261242, 0.11241970021413275]
+[0.06954436450839328, 0.6041666666666666, 0.1247311827956989, 0.07795698924731183]
+[0.07655502392344497, 0.6530612244897959, 0.13704496788008566, 0.08565310492505354]

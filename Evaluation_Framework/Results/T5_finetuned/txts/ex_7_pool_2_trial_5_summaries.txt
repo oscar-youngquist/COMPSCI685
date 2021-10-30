@@ -1,0 +1,15 @@
+Document:
+nevada
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Nevada (, Spanish: [neaa]) is a state in the Western United States . it is bordered by Oregon to the northwest, Idaho to the northeast, California to the west, Arizona to the southeast, and Utah to the east . Nearly three-quarters of Nevada's people live in Clark County, which contains the Las Vegas–Paradise metropolitan area .
+
+GT:
+Nevada is the 7th-most extensive, the 19th-least populous, but the 9th-least densely populated of the US states. Nevada is officially known as the "Silver State" because of the importance of silver to its history and economy. It is also known as the "Battle Born State" because it achieved statehood during the Civil War (the words "Battle Born" also appear on the state flag); as the "Sagebrush State", for the native plant of the same name; and as the "Sage-hen State". The name means "snow-covered" in Spanish, referring to Nevada's small overlap with the Sierra Nevada mountain range; however, the rest of Nevada is largely desert and semi-arid, much of it within the Great Basin. Nevada ranks second in the United States by the number of mountains, behind Alaska, and ahead of California, Montana, and Washington. Nevada is the most mountainous state in the contiguous United States. Nevada is the driest state in the United States. It is made up of mostly desert and semi-arid climate regions, and, with the exception of the Las Vegas Valley, the average summer diurnal temperature range approaches 40 °F (22 °C) in much of the state. Over 80% of the state's area is owned by the federal government. Females made up about 49.5% of the population. Most new residents in Nevada have moved from California, which has led a few Nevadans to feel their state is being "Californicated". Church attendance in Nevada is among the lowest of all US states. The economy of Nevada has long been tied to vice industries. Nevada is the only state where prostitution is legal – in a licensed brothel in a county which has specifically voted to permit it. As of 2009, Nevada's divorce rate was above the national average.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11295681063122924, 0.6181818181818182, 0.19101123595505617, 0.11938202247191014]
+[0.03333333333333333, 0.18518518518518517, 0.05649717514124294, 0.03531073446327684]
+[0.07641196013289037, 0.41818181818181815, 0.12921348314606743, 0.08075842696629214]

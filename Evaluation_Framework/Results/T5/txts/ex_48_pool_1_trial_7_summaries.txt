@@ -1,0 +1,15 @@
+Document:
+kansas
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+is a US state in the Midwestern United States. Its capital is Topeka and its largest city is Wichita. Kansas is bordered by Nebraska to the north Kansas is named after the Kansas River, which in turn was named after the Kansa Native Americans who lived along its banks.
+
+GT:
+Its attractions include the Kansas Speedway, Sporting Kansas City, Kansas City T-Bones, Schlitterbahn, and The Legends at Village West retail and entertainment center. Nearby, Kansas's first settlement Bonner Springs is home to several national and regional attractions including the Providence Medical Center Amphitheather, the National Agricultural Center and Hall of Fame, and the annual Kansas City Renaissance Festival. Further westward along Interstate 70 and the Kansas River is Junction City with its historic limestone and brick buildings and nearby Fort Riley, well known as the home to the US Army's 1st Infantry Division (nicknamed "the Big Red One"). South of the campus, Aggieville dates back to 1889 and is the state's oldest shopping district of its kind. With a number of nationally registered historic places, museums, and other entertainment destinations, it has a desire to become a cultural mecca in the Midwest. Wichita is also home of the nationally recognized Sedgwick County Zoo. The city of Hays is home to Fort Hays State University and the Sternberg Museum of Natural History, and is the largest city in the northwest with a population of around 20,001.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15263157894736842, 0.5918367346938775, 0.24267782426778242, 0.151673640167364]
+[0.031746031746031744, 0.125, 0.05063291139240506, 0.03164556962025316]
+[0.07368421052631578, 0.2857142857142857, 0.11715481171548116, 0.07322175732217573]

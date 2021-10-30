@@ -1,0 +1,15 @@
+Document:
+texas
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Texas (, also locally ; Spanish: Texas or Tejas, pronounced [texas] (listen)) is a state in the South Central Region of the United States . It is the second largest US state by both area (after Alaska) and population (after California).
+
+GT:
+The Panhandle of the state has colder winters than North Texas, while the Gulf Coast has mild winters. El Paso, on the western end of the state, averages 8.7 inches (220 mm) of annual rainfall, while parts of southeast Texas average as much as 64 inches (1,600 mm) per year. Dallas in the North Central region averages a more moderate 37 inches (940 mm) per year. Snow falls multiple times each winter in the Panhandle and mountainous areas of West Texas, once or twice a year in North Texas, and once every few years in Central and East Texas. Maximum temperatures in the summer months average from the 80s °F (26 °C) in the mountains of West Texas and on Galveston Island to around 100 °F (38 °C) in the Rio Grande Valley, but most areas of Texas see consistent summer high temperatures in the 90 °F (32 °C) range. Night-time summer temperatures range from the upper 50s °F (14 °C) in the West Texas mountains to 80 °F (27 °C) in Galveston. The table below consists of averages for August (generally the warmest month) and January (generally the coldest) in selected cities in various regions of the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08415841584158416, 0.4473684210526316, 0.14166666666666666, 0.08854166666666667]
+[0.01990049751243781, 0.10810810810810811, 0.033613445378151266, 0.021008403361344536]
+[0.054455445544554455, 0.2894736842105263, 0.09166666666666667, 0.05729166666666668]

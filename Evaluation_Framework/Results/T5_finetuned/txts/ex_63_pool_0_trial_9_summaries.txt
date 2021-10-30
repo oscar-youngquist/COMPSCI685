@@ -1,0 +1,15 @@
+Document:
+michigan
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+is a state in the Great Lakes and Midwestern regions of the United States . Michigan is the tenth most populous state, the 11th most extensive state by area, and the largest by area east of the Mississippi River . Metro Detroit is among the nation's most populous and largest metropolitan economies .
+
+GT:
+Michigan has a continental climate, although there are two distinct regions. The southern and central parts of the Lower Peninsula (south of Saginaw Bay and from the Grand Rapids area southward) have a warmer climate (Köppen climate classification Dfa) with hot summers and cold winters. The northern part of Lower Peninsula and the entire Upper Peninsula has a more severe climate (Köppen Dfb), with warm, but shorter summers and longer, cold to very cold winters. Some parts of the state average high temperatures below freezing from December through February, and into early March in the far northern parts. During the winter through the middle of February, the state is frequently subjected to heavy lake-effect snow. The state averages from 30 to 40 inches (76 to 102 cm) of precipitation annually; however, some areas in the northern lower peninsula and the upper peninsula average almost 160 inches (4,100 mm) of snowfall per year. Michigan's highest recorded temperature is 112 °F (44 °C) at Mio on July 13, 1936, and the coldest recorded temperature is −51 °F (−46 °C) at Vanderbilt on February 9, 1934. The state averages 30 days of thunderstorm activity per year. These can be severe, especially in the southern part of the state. The state averages 17 tornadoes per year, which are more common in the state's extreme southern section. Portions of the southern border have been almost as vulnerable historically as states further west and in Tornado Alley. For this reason, many communities in the very southern portions of the state have tornado sirens to warn residents of approaching tornadoes. Farther north, in Central Michigan, Northern Michigan, and the Upper Peninsula, tornadoes are rare.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09540636042402827, 0.5294117647058824, 0.16167664670658682, 0.10104790419161677]
+[0.01773049645390071, 0.1, 0.030120481927710847, 0.01882530120481928]
+[0.06713780918727916, 0.37254901960784315, 0.11377245508982037, 0.07110778443113773]

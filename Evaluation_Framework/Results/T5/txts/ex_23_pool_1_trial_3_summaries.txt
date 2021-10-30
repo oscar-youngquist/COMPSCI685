@@ -1,0 +1,15 @@
+Document:
+massachusetts
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+, Massachusetts ( (listen), ), officially known as the Commonwealth of Massachusetts, is the most populous state in the New England region of the Northeastern United States . Massachusetts is the most populous state in the New England region of the Northeastern United States . it borders on the Atlantic Ocean to the east, the states of Connecticut and Rhode Island to the south, New Hampshire and Vermont to the north, and New York to the west .
+
+GT:
+Most of Massachusetts has a humid continental climate, with cold winters and warm summers. Far southeast coastal areas are the broad transition zone to Humid Subtropical climates. The warm to hot summers render the oceanic climate rare in this transition, only applying to exposed coastal areas such as on the peninsula of Barnstable County. The climate of Boston is quite representative for the commonwealth, characterized by summer highs of around 81 °F (27 °C) and winter highs of 35 °F (2 °C), and is quite wet. Frosts are frequent all winter, even in coastal areas due to prevailing inland winds. Due to its location near the Atlantic, Massachusetts is vulnerable to nor'easters, hurricanes and tropical storms.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2564102564102564, 0.4166666666666667, 0.31746031746031744, 0.1984126984126984]
+[0.04310344827586207, 0.07042253521126761, 0.05347593582887701, 0.03342245989304813]
+[0.13675213675213677, 0.2222222222222222, 0.16931216931216933, 0.10582010582010581]

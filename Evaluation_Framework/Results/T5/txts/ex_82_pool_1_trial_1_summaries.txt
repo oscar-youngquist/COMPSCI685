@@ -1,0 +1,15 @@
+Document:
+north_carolina
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+is a state in the southeastern region of the United States. North Carolina is the 28th largest and 9th-most populous of the 50 United States. it is bordered by Virginia to the north, the Atlantic Ocean to the east, Georgia and South Carolina to the south, and Tennessee to the west.
+
+GT:
+The Charlotte metropolitan area, with an estimated population of 2,569,213 in 2018, is the most-populous metropolitan area in North Carolina, the 23rd-most populous in the United States, and the largest banking center in the nation after New York City. North Carolina was known as a 'Slave State' by 1860, in which one-third of the population was enslaved. North Carolina is the leading US state in production of flue-cured tobacco and sweet potatoes, and comes second in the farming of pigs and hogs, trout, and turkeys. The residents of North Carolina have a lower life expectancy than the national average of life expectancy. These include: John Coltrane, (Hamlet, High Point); Thelonious Monk (Rocky Mount); Billy Taylor (Greenville); Woody Shaw (Laurinburg); Lou Donaldson (Durham); Max Roach (Newland); Tal Farlow (Greensboro); Albert, Jimmy and Percy Heath (Wilmington); Nina Simone (Tryon); and Billy Strayhorn (Hillsborough). Krispy Kreme, an international chain of doughnut stores, was started in North Carolina; the company's headquarters are in Winston-Salem.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17857142857142858, 0.5769230769230769, 0.2727272727272727, 0.17045454545454544]
+[0.059880239520958084, 0.19607843137254902, 0.09174311926605505, 0.05733944954128441]
+[0.125, 0.40384615384615385, 0.19090909090909092, 0.11931818181818181]

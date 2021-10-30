@@ -1,0 +1,15 @@
+Document:
+utah
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Utah (YOO-tah, (listen) YOO-taw) is a state in the Western United States . it is bordered by Colorado to the east, Wyoming to the northeast, Idaho to the north, Arizona to the south and Nevada to the west . of the fifty states, Utah is the 13th-largest by area; with a population over three million, it is the 30th-most-populous and 11th-least-densely populated .
+
+GT:
+A little more than half of all Utahns are Mormons, the vast majority of whom are members of the Church of Jesus Christ of Latter-day Saints (LDS Church), which has its world headquarters in Salt Lake City. With five national parks (Arches, Bryce Canyon, Canyonlands, Capitol Reef, and Zion), Utah has the third most national parks of any state after Alaska and California. In addition, Utah features eight national monuments (Cedar Breaks, Dinosaur, Grand Staircase-Escalante, Hovenweep, Natural Bridges, Bears Ears, Rainbow Bridge, and Timpanogos Cave), two national recreation areas (Flaming Gorge and Glen Canyon), seven national forests (Ashley, Caribou-Targhee, Dixie, Fishlake, Manti-La Sal, Sawtooth, and Uinta-Wasatch-Cache), and numerous state parks and monuments. The Moab area, in the southeastern part of the state, is known for its challenging mountain biking trails, including Slickrock. Utah features many cultural attractions such as Temple Square, the Sundance Film Festival, the Red Rock Film Festival, the DOCUTAH Film Festival, the Utah Data Center, and the Utah Shakespearean Festival. Other attractions include Monument Valley, the Great Salt Lake, the Bonneville Salt Flats, and Lake Powell. The state of Utah relies heavily on income from tourists and travelers visiting the state's parks and ski resorts, and thus the need to "brand" Utah and create an impression of the state throughout the world has led to several state slogans, the most famous of which being "The Greatest Snow on Earth", which has been in use in Utah officially since 1975 (although the slogan was in unofficial use as early as 1962) and now adorns nearly 50 percent of the state's license plates. The Utah Jazz of the National Basketball Association play at Vivint Smart Home Arena in Salt Lake City.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08620689655172414, 0.373134328358209, 0.1400560224089636, 0.08753501400560225]
+[0.006920415224913495, 0.030303030303030304, 0.011267605633802816, 0.007042253521126761]
+[0.06896551724137931, 0.29850746268656714, 0.11204481792717086, 0.0700280112044818]

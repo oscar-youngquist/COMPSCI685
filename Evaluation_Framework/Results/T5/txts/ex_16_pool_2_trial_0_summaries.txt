@@ -1,0 +1,15 @@
+Document:
+kentucky
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+(US: (listen) kn-TUK-ee, UK: ken-) is a state in the Southern United States, bordered by Illinois, Indiana, and Ohio to the north; West Virginia and Virginia to the east; Tennessee to the south; and Missouri to the west. Kentucky (US: (listen) kn-TUK-ee, UK: ken-) is a state in the Southern United States, bordered by Illinois, Indiana, and Ohio to the
+
+GT:
+The executive branch is organized into the following "cabinets", each headed by a secretary who is also a member of the governor's cabinet: The state's sixteen public two-year colleges have been governed by the Kentucky Community and Technical College System since the passage of the Postsecondary Education Improvement Act of 1997, commonly referred to as House Bill 1. There are 173 school districts and 1,233 public schools in Kentucky. For the 2010 to 2011 school year, there were approximately 647,827 students enrolled in public school. The response of the General Assembly was passage of the Kentucky Education Reform Act (KERA) the following year. Kentucky integrated its schools after the 1954 Brown v. Board of Education verdict, later adopting the first state civil rights act in the South in 1966.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17164179104477612, 0.359375, 0.23232323232323235, 0.1452020202020202]
+[0.015037593984962405, 0.031746031746031744, 0.02040816326530612, 0.012755102040816325]
+[0.11940298507462686, 0.25, 0.1616161616161616, 0.101010101010101]

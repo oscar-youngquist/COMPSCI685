@@ -1,0 +1,15 @@
+Document:
+nevada
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+(, Spanish: [neaa]) is a state in the Western United States . It is bordered by Oregon to the northwest, Idaho to the northeast, California to the west, Arizona to the southeast, and Utah to the east . Nevada is the 7th-most extensive, the 19th-least populous, but the 9th-least densely populated of the US states . Nearly three-quarters of Nevada's people live in Clark County, which contains the Las
+
+GT:
+Nevada is officially known as the "Silver State" because of the importance of silver to its history and economy. It is also known as the "Battle Born State" because it achieved statehood during the Civil War (the words "Battle Born" also appear on the state flag); as the "Sagebrush State", for the native plant of the same name; and as the "Sage-hen State". Nevada is the only US state where prostitution is legal, though it is illegal in its most populated regions – Clark County (Las Vegas), Washoe County (Reno) and Carson City (which, as an independent city, is not within the boundaries of any county). The name "Nevada" comes from the Spanish nevada [neˈβaða], meaning "snow-covered". Nevada is the driest state in the United States. Church attendance in Nevada is among the lowest of all US states. Nevada's early reputation as a "divorce haven" arose from the fact that before the no-fault divorce revolution in the 1970s, divorces were difficult to obtain in the United States. Nevada has no personal income tax or corporate income tax. Nevada is the only US state to have a none of the above option available on its ballots.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.195, 0.5571428571428572, 0.28888888888888886, 0.18055555555555555]
+[0.05025125628140704, 0.14492753623188406, 0.0746268656716418, 0.04664179104477613]
+[0.125, 0.35714285714285715, 0.18518518518518517, 0.11574074074074074]

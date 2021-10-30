@@ -1,0 +1,15 @@
+Document:
+new_jersey
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Jersey is a state in the Mid-Atlantic region of the Northeastern United States . New Jersey is bordered on the north and east by the state of New York; on the east, southeast, and south by the Atlantic Ocean; on the west by the Delaware River and Pennsylvania; and on the southwest by Delaware Bay and the State of Delaware . New Jersey is the fourth-smallest state by area, but the 11th-most populous, with 8,722.58 square miles .
+
+GT:
+The Meadowlands Sports Complex is home to the Meadowlands Racetrack, one of three major harness racing tracks in the state. The Meadowlands Racetrack and Freehold Raceway in Freehold are two of the major harness racing tracks in North America. Monmouth Park Racetrack in Oceanport is a popular spot for thoroughbred racing in New Jersey and the northeast. It hosted the Breeders' Cup in 2007, and its turf course was renovated in preparation. There is also a mineral museum Ogdensburg in Sussex County. Visitors and residents take advantage of and contribute to performances at the numerous music, theater, and dance companies and venues located throughout the state, including: New Jersey is the location of most of the boardwalks in the US, with nearly every town and city along the Jersey Shore area each having a boardwalk with various attractions, entertainment, shopping, dining, miniature golf, arcades, water parks with various water rides, including water slides, lazy rivers, wave pools, etc., and amusement parks hosting rides and attractions including roller coasters, carousels, Ferris wheels, bumper cars, teacups, etc.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.21142857142857144, 0.4625, 0.2901960784313726, 0.18137254901960784]
+[0.05747126436781609, 0.12658227848101267, 0.07905138339920949, 0.04940711462450593]
+[0.13714285714285715, 0.3, 0.18823529411764703, 0.11764705882352941]

@@ -1,0 +1,15 @@
+Document:
+missouri
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+, Missouri is the 21st-most extensive in area. Missouri is bordered by eight states (tied for the most with Tennessee): Iowa to the north, Illinois, Kentucky and Tennessee (via the Mississippi River) to the east, Arkansas to the south and Oklahoma, Kansas and Nebraska to the west.
+
+GT:
+The well-known Kansas City-style barbecue and lesser-known St. Louis-style barbecue, can be found across the state and beyond. Outside of the state's major cities, popular tourist destinations include the Lake of the Ozarks, Table Rock Lake and Branson. In addition to a network of state parks, Missouri is home to Gateway Arch National Park in St. Louis and the Ozark National Scenic Riverways. A much-visited show cave is Meramec Caverns in Stanton. St. Louis is the principal city of the largest metropolitan area in Missouri, composed of 17 counties and the independent city of St. Louis; eight of its counties are in Illinois. Kansas City is Missouri's largest city and the principal city of the fourteen-county Kansas City Metropolitan Statistical Area, including five counties in the state of Kansas. The Kansas City Symphony and the St. Louis Symphony Orchestra are the state's major orchestras. Branson is well-known for its music theaters, most of which bear the name of a star performer or musical group. Professional major league teams:
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1348314606741573, 0.5106382978723404, 0.21333333333333335, 0.13333333333333333]
+[0.011299435028248588, 0.043478260869565216, 0.017937219730941704, 0.011210762331838564]
+[0.08426966292134831, 0.3191489361702128, 0.13333333333333333, 0.08333333333333333]

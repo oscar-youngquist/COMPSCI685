@@ -1,0 +1,15 @@
+Document:
+indiana
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Indiana ( (listen)) is a US state in the Midwestern and Great Lakes regions of North America . it borders Lake Michigan to the northwest, Michigan to the north, Ohio to the east, the Ohio River and Kentucky to the east and southeast . before becoming a territory, various indigenous indigenous indigenous peoples were incorporated to the United States as the 19th state on December 11, 1816 .
+
+GT:
+Indiana's 1816 constitution was the first in the country to implement a state-funded public school system. It also allotted one township for a public university. In the 1840s, Caleb Mills pressed the need for tax-supported schools, and in 1851 his advice was included in the new state constitution. In 1843 the Legislature ruled that African Americans could not attend the public schools, leading to the foundation of Union Literary Institute and other schools for them, funded by donations or the students themselves. Although the growth of the public school system was held up by legal entanglements, many public elementary schools were in use by 1870. Modern, public school standards, have been implemented all throughout the state. These new standards were adopted in April 2014. The overall goal of these new state standards is to ensure Indiana students have the necessary skills and requirements needed to enter college or the workforce upon high school graduation. State standards can be found for nearly every major subject taught in Indiana public schools. Mathematics, English/Language Arts, Science, and Social Studies are among the top, prioritized standards. In 2017, the Indiana Department of Education reported that the state's overall graduation rates were 87.19% for waivered graduations and 80.10% for non-waiver graduations. The largest educational institution is Indiana University, the flagship campus of which was endorsed as Indiana Seminary in 1820. The state's community college system, Ivy Tech Community College of Indiana, serves nearly 200,000 students annually, making it the state's largest public post-secondary educational institution and the nation's largest singly accredited statewide community college system. In 2008, the Indiana University system agreed to shift most of its associate (2-year) degrees to the Ivy Tech Community College System.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09797297297297297, 0.453125, 0.1611111111111111, 0.10069444444444443]
+[0.010169491525423728, 0.047619047619047616, 0.01675977653631285, 0.01047486033519553]
+[0.06756756756756757, 0.3125, 0.11111111111111112, 0.06944444444444445]

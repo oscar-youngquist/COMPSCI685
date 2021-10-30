@@ -1,0 +1,15 @@
+Document:
+connecticut
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Connecticut ( (listen)) is the southernmost state in the New England region of the Northeastern United States . Connecticut ( (listen)) is the southernmost state in the New England region of the Northeastern United States . as of the 2010 Census, it has the highest per-capita income, Human Development Index (0.962) and median household income in the United States .
+
+GT:
+In 1662, the three colonies were merged under a royal charter, making Connecticut a crown colony. The first European explorer in Connecticut was Dutchman Adriaen Block, who explored the region in 1614. The first English settlers came in 1633 and settled at Windsor, and then at Wethersfield the following year. The New Haven Colony had its own constitution called "The Fundamental Agreement of the New Haven Colony", signed on June 4, 1639. Yale College was established in 1701, providing Connecticut with an important institution to educate clergy and civil leaders. General William Tryon raided the Connecticut coast in July 1779, focusing on New Haven, Norwalk, and Fairfield. Connecticut ratified the US Constitution on January 9, 1788, becoming the fifth state. In 1786, Connecticut ceded territory to the US government that became part of the Northwest Territory. The failure of the Hartford Convention in 1814 hurt the Federalist cause, with the Democratic-Republican Party gaining control in 1817. Connecticut had been governed under the "Fundamental Orders" since 1639, but the state adopted a new constitution in 1818. In 1875, the first telephone exchange in the world was established in New Haven. In 1974, Connecticut elected Democratic Governor Ella T. Grasso, who became the first woman in any state to be elected governor without being the wife or widow of a previous governor. Finally, the current state constitution was implemented in 1965.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10869565217391304, 0.43859649122807015, 0.17421602787456447, 0.10888501742160278]
+[0.03056768558951965, 0.125, 0.04912280701754386, 0.030701754385964914]
+[0.08695652173913043, 0.3508771929824561, 0.13937282229965156, 0.08710801393728222]

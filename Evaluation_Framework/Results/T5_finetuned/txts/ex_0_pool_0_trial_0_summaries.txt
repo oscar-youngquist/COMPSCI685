@@ -1,0 +1,15 @@
+Document:
+delaware
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Delaware ( (listen) DEL--wair) is a state in the Mid-Atlantic region of the United States . Delaware takes its name from the nearby Delaware River named after Thomas West, 3rd Baron De La Warr, an English nobleman and Virginia's first colonial governor . Delaware occupies the northeastern portion of the Delmarva Peninsula and some islands and territory within the Delaware River .
+
+GT:
+At the time, state law prohibited money raised from white taxpayers from being used to support the state's schools for black children. Appalled by the condition of the black schools, du Pont donated four million dollars to construct 86 new school buildings. Unlike many states, Delaware's educational system is centralized in a state Superintendent of Education, with local school boards retaining control over taxation and some curriculum decisions. This centralized system, combined with the small size of the state, likely contributed to Delaware becoming the first state, after completion of a three-year, $30 million program ending in 1999, to wire every K-12 classroom in the state to the Internet. All teachers in the State's public school districts are unionized. As of January 2012, none of the State's charter schools are members of a teachers union. One of the State's teachers' unions is Delaware State Education Association (DSEA), whose President as of January 2012 is Frederika Jenner.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13496932515337423, 0.36065573770491804, 0.19642857142857142, 0.12276785714285715]
+[0.037037037037037035, 0.1, 0.05405405405405406, 0.03378378378378378]
+[0.09815950920245399, 0.26229508196721313, 0.14285714285714288, 0.08928571428571429]

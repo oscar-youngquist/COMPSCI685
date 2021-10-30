@@ -1,0 +1,15 @@
+Document:
+new_mexico
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+(neo-mexico: Nuevo México [nweo mexiko] (listen); Navajo: Yootó Hahoodzo [jotho hahotso]) is a state in the Southwestern region of the United States of America; its capital is Santa Fe, which was founded in 1610 as capital of Nuevo México (itself established as province of New Spain in 1598), while its
+
+GT:
+In public education, the state has the constitutional obligation to provide bilingual education and Spanish-speaking instructors in school districts where the majority of students are Hispanophone. In a landmark decision, a state judge ruled in 2018 that "New Mexico is violating the constitutional rights of at-risk students by failing to provide them with sufficient education," and ordered that the governor and Legislature provide an adequate system by April 2019. New Mexico has a higher concentration of persons who do not finish high school or have some college without a degree than the nation as a whole. Los Alamos County has the highest number percent of post secondary degree holders of any county in New Mexico with 38.7% of the population (4,899 persons) estimated by the 2010-2014 American Community Survey. The New Mexico Public Education Department oversees the operation of primary and secondary schools New Mexico is one of eight states that fund college scholarships through the state lottery. The state of New Mexico requires that the lottery put 30% of its gross sales into the scholarship fund.The scholarship is available to residents who graduated from a state high school, and attend a state university full-time while maintaining a 2.5 GPA or higher.It covered 100% of tuition when it was first instated in 1996, decreased to 90%, then dropped to 60% in 2017.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08658008658008658, 0.37735849056603776, 0.1408450704225352, 0.08802816901408451]
+[0.017391304347826087, 0.07692307692307693, 0.028368794326241138, 0.017730496453900707]
+[0.06060606060606061, 0.2641509433962264, 0.09859154929577466, 0.06161971830985916]

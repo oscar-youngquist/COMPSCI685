@@ -1,0 +1,15 @@
+Document:
+maine
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 states .
+
+GT:
+European contact with what is now called Maine may have started around 1200 CE when Norwegians are believed to have interacted with the native Penobscot in present-day Hancock County, most likely through trade. The province within its current boundaries became part of the Massachusetts Bay Colony in 1652. Maine is the least densely populated US state east of the Mississippi River. Maine has almost 230 miles (400 km) of coastline (and 3,500 miles (5,600 km) of tidal coastline). Bubble Rock, a glacial erratic, is a large boulder perched on the edge of Bubble Mountain in Acadia National Park. By analyzing the type of granite, geologists discovered that glaciers carried Bubble Rock to its present location from near Lucerne, 30 miles (48 km) away. Acadia National Park is the only national park in New England. As of 2010, Maine was also the most rural state in the Union, with only 38.7% of the state's population living within urban areas. Commercial fishing, once a mainstay of the state's economy, maintains a presence, particularly lobstering and groundfishing. While lobster is the main seafood focus for Maine, the harvest of both oysters and seaweed are on the rise. Maine is the number one US producer of low-bush blueberries (Vaccinium angustifolium). Tourism and outdoor recreation play a major and increasingly important role in Maine's economy. The state is a popular destination for sport hunting (particularly deer, moose and bear), sport fishing, snowmobiling, skiing, boating, camping and hiking, among other activities. Maine has a long-standing tradition of being home to many shipbuilding companies. Maine receives passenger jet service at its two largest airports, the Portland International Jetport in Portland, and the Bangor International Airport in Bangor. Interstate 95 (I-95) travels through Maine, as well as its easterly branch I-295 and spurs I-195, I-395 and the unsigned I-495 (the Falmouth Spur). The Downeaster passenger train, operated by Amtrak, provides passenger service between Brunswick and Boston's North Station, with stops in Freeport, Portland, Old Orchard Beach, Saco, and Wells. There are thirty institutions of higher learning in Maine. Maine's per-student public expenditure for elementary and secondary schools was 21st in the nation in 2012, at $12,344. Since the 1980s, the state has gotten a reputation for its local food and restaurant meals.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.06377551020408163, 0.5952380952380952, 0.11520737327188939, 0.07200460829493087]
+[0.02557544757033248, 0.24390243902439024, 0.046296296296296294, 0.02893518518518519]
+[0.05102040816326531, 0.47619047619047616, 0.09216589861751151, 0.057603686635944694]

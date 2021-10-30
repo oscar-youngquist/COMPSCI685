@@ -1,0 +1,15 @@
+Document:
+kentucky
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+, the capital of Frankfort, is Frankfort, and Kentucky (US: (listen) kn-TUK-ee, UK: ken-) the Commonwealth of Kentucky (US: (listen) kn-TUK-ee, UK: ken-) is a state in the Southern United States, bordered by Illinois, Indiana, and Ohio to the north; West Virginia and Virginia to the east; Tennessee to the south; and Missouri to the west . the bluegrass
+
+GT:
+Kentucky is the 37th most extensive and the 26th most populous of the 50 United States. It is known as the "Bluegrass State", a nickname based on Kentucky bluegrass, a species of grass found in many of its pastures, which has supported the thoroughbred horse industry in the center of the state. It is home to the world's longest cave system: Mammoth Cave National Park, as well as the greatest length of navigable waterways and streams in the contiguous United States and the two largest man-made lakes east of the Mississippi River. The state is also known for horse racing, bourbon, moonshine, coal, "My Old Kentucky Home" historic state park, automobile manufacturing, tobacco, bluegrass music, college basketball, Louisville Slugger baseball bats, Kentucky Fried Chicken, and the Kentucky colonel. The precise etymology of the name is uncertain, but likely based on an Iroquoian name meaning "(on) the meadow" or "(on) the prairie" (cf. Kentucky has more navigable miles of water than any other state in the union, other than Alaska. Kentucky is the only US state to have a continuous border of rivers running along three of its sides – the Mississippi River to the west, the Ohio River to the north, and the Big Sandy River and Tug Fork to the east. Kentucky's 90,000 miles (140,000 km) of streams provides one of the most expansive and complex stream systems in the nation. Kentucky has an expansive park system, which includes one national park, two National Recreation Areas, two National Historic Parks, two national forests, two National Wildlife Refuges, 45 state parks, 37,896 acres (153 km2) of state forest, and 82 wildlife management areas. Kentucky has been part of two of the most successful wildlife reintroduction projects in United States history. Louisville is home to the Cathedral of the Assumption, the third-oldest Catholic cathedral in continuous use in the United States. In 2014 Kentucky was found to be the most affordable US state in which to live.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10542168674698796, 0.5737704918032787, 0.178117048346056, 0.111323155216285]
+[0.03625377643504532, 0.2, 0.061381074168797956, 0.03836317135549872]
+[0.0783132530120482, 0.4262295081967213, 0.13231552162849872, 0.0826972010178117]

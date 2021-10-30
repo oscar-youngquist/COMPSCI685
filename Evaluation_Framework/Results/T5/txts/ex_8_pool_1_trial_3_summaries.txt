@@ -1,0 +1,15 @@
+Document:
+rhode_island
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Rhode Island ( (listen), like road) is a state in the New England region of the United States . Rhode Island is a state in the New England region of the United States . it is the smallest US state by area and the seventh least populous (1,059,361 as of 2019), but also the second most densely populated behind New Jersey .
+
+GT:
+In 1636, Roger Williams was banished from the Massachusetts Bay Colony for his religious views, and he settled at the top of Narragansett Bay on land sold or given to him by Narragansett sachem Canonicus. He named the site Providence, "having a sense of God's merciful providence unto me in my distress", and it became a place of religious freedom where all were welcome. The colony was amalgamated into the Dominion of New England in 1686, as King James II attempted to enforce royal authority over the autonomous colonies in British North America, but the colony regained its independence under the Royal Charter after the Glorious Revolution of 1688. Rhode Island's tradition of independence and dissent gave it a prominent role in the American Revolution. Rhode Island was also heavily involved in the Industrial Revolution, which began in America in 1787 when Thomas Somers reproduced textile machine plans which he imported from England. During the American Civil War, Rhode Island was the first Union state to send troops in response to President Lincoln's request for help from the states. The 50 years following the Civil War were a time of prosperity and affluence that author William G. McLoughlin calls "Rhode Island's halcyon era." During World War I, Rhode Island furnished 28,817 soldiers, of whom 612 died. After the war, the state was hit hard by the Spanish Influenza. In the 1920s and 1930s, rural Rhode Island saw a surge in Ku Klux Klan membership, largely in reaction to large waves of immigrants moving to the state. Rhode Island has comprehensive health insurance for low-income children and a large social safety net. In 2003, a nightclub fire in West Warwick claimed 100 lives and resulted in nearly twice as many injured, catching national attention. In March 2010, areas of the state received record flooding due to rising rivers from heavy rain.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10443037974683544, 0.55, 0.17553191489361702, 0.10970744680851065]
+[0.022222222222222223, 0.11864406779661017, 0.03743315508021391, 0.023395721925133693]
+[0.06962025316455696, 0.36666666666666664, 0.11702127659574468, 0.07313829787234041]

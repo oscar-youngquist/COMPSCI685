@@ -1,0 +1,15 @@
+Document:
+ohio
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+is the 34th-largest by area, and with nearly 11.7 million inhabitants, is the seventh-most populous and tenth-most densely populated . Ohio is bordered by Lake Erie to the north, Pennsylvania to the east, West Virginia to the southeast, Kentucky to the southwest, and Kentucky to the southwest . Ohio is bordered by Lake Erie to the north, Pennsylvania to the east, West Virginia to the southeast, Kentucky to the southwest, Kentucky to the southwest, and Ohio is the
+
+GT:
+Putnam, in the Puritan tradition, was influential in establishing education in the Northwest Territory. By employment, Ohio's largest sector is trade/transportation/utilities, which employs 1,010,000 Ohioans, or 19.4% of Ohio's workforce, while the health care and education sector employs 825,000 Ohioans (15.8%). The Ohio Lottery has contributed over $15.5 billion to public education in its 34-year history. Ohio's system of public education is outlined in Article VI of the state constitution, and in Title XXXIII of the Ohio Revised Code. Ohio University, the first university in the Northwest Territory, was also the first public institution in Ohio. At the State level, the Ohio Department of Education, which is overseen by the Ohio State Board of Education, governs primary and secondary educational institutions. At the municipal level, there are approximately 700 school districts statewide. The Ohio Board of Regents coordinates and assists with Ohio's institutions of higher education which have recently been reorganized into the University System of Ohio under Governor Strickland. The system averages an annual enrollment of more than 400,000 students, making it one of the five largest state university systems in the US Ohio schools consistently ranking in the top 50 nationally of the US News & World Report of liberal arts colleges are Kenyon College, Oberlin College, and Denison University. Ohio is home to some of the nation's highest-ranked public libraries. The 2008 study by Thomas J. Hennen Jr. ranked Ohio as number one in a state-by-state comparison.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12062256809338522, 0.3875, 0.18397626112759646, 0.11498516320474778]
+[0.00390625, 0.012658227848101266, 0.005970149253731344, 0.0037313432835820903]
+[0.0933852140077821, 0.3, 0.142433234421365, 0.08902077151335312]

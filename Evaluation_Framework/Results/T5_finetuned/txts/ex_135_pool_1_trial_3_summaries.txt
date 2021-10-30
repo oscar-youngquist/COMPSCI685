@@ -1,0 +1,15 @@
+Document:
+pennsylvania
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Pennsilfaani, offiziell das Commonwealth of Pennsylvania, ist ein Staat in den Regionen Mid-Atlantik, Appalachien und Große Seen des Nordostens der Vereinigten Staaten, grenzt an Delaware im Südosten, Maryland im Süden, West Virginia im Südwesten, Ohio im Westen, Lake Erie und die Kanadische Provinz Ontario im Nordwesten, New York im Norden und New York im Norden.
+
+GT:
+Pennsylvania has 500 public school districts, thousands of private schools, publicly funded colleges and universities, and over 100 private institutions of higher education. In general, under state law, school attendance in Pennsylvania is mandatory for a child from the age of 8 until the age of 17, or until graduation from an accredited high school, whichever is earlier. Additionally, 27.5% have gone on to obtain a bachelor's degree or higher. State students consistently do well in standardized testing. In 1988, the Pennsylvania General Assembly passed Act 169, which allows parents or guardians to homeschool their children as an option for compulsory school attendance. Carnegie Mellon University, The Pennsylvania State University, the University of Pennsylvania, and the University of Pittsburgh are members of the Association of American Universities, an invitation-only organization of leading research universities.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0364963503649635, 0.08333333333333333, 0.050761421319796954, 0.031725888324873094]
+[0.007352941176470588, 0.01694915254237288, 0.010256410256410256, 0.006410256410256411]
+[0.029197080291970802, 0.06666666666666667, 0.04060913705583756, 0.025380710659898473]

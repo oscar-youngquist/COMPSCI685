@@ -1,0 +1,15 @@
+Document:
+new_hampshire
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+New Hampshire () is a state in the New England region of the Northeastern United States . it is bordered by Massachusetts to the south, Vermont to the west, Maine and the Atlantic Ocean to the east . New Hampshire is the 5th smallest by area and the 10th least populous US state . Concord is the state capital, while Manchester is the largest city .
+
+GT:
+English and French explorers visited New Hampshire in 1600–1605, and David Thompson settled at Odiorne's Point in present-day Rye in 1623. The first permanent settlement was at Hilton's Point (present-day Dover). New Hampshire was one of the thirteen colonies that rebelled against British rule during the American Revolution. The only battle fought in New Hampshire was the raid on Fort William and Mary, December 14, 1774, in Portsmouth Harbor, which netted the rebellion sizable quantities of gunpowder, small arms and cannon. The United States Constitution was ratified by New Hampshire on June 21, 1788, when New Hampshire became the ninth state to do so. Industrialization took the form of numerous textile mills, which in turn attracted large flows of immigrants from Quebec (the "French Canadians") and Ireland. After 1960, the textile industry collapsed, but the economy rebounded as a center of high technology and as a service provider. Starting in 1952, New Hampshire gained national and international attention for its presidential primary held early in every presidential election year. It immediately became the most important testing grounds for candidates for the Republican and Democratic nominations.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1368421052631579, 0.4262295081967213, 0.20717131474103584, 0.1294820717131474]
+[0.021164021164021163, 0.06666666666666667, 0.0321285140562249, 0.020080321285140562]
+[0.11052631578947368, 0.3442622950819672, 0.16733067729083664, 0.1045816733067729]

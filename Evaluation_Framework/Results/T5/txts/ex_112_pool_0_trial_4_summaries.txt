@@ -1,0 +1,15 @@
+Document:
+maryland
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+(US: (listen) MERR--lnd) is a state in the Mid-Atlantic region of the Southern United States . Maryland (US: (listen) MERR--lnd) is a state in the Mid-Atlantic region of the Southern United States . It is bordering Virginia, West Virginia, and the District of Columbia to its south and west; Pennsylvania to its north; and Delaware and the Atlantic Ocean to its east.
+
+GT:
+The highest educational official in the state is the State Superintendent of Schools, who is appointed by the State Board of Education to a four-year term of office. The Maryland General Assembly has given the Superintendent and State Board autonomy to make educationally related decisions, limiting its influence on the day-to-day functions of public education. Each county and county-equivalent in Maryland has a local Board of Education charged with running the public schools in that particular jurisdiction. The budget for education was $5.5 billion in 2009, representing about 40 percent of the state's general fund. Maryland has a broad range of private primary and secondary schools. Many of these are affiliated with various religious sects, including parochial schools of the Catholic Church, Quaker schools, Seventh-day Adventist schools, and Jewish schools. In 2003, Maryland law was changed to allow for the creation of publicly funded charter schools, although the charter schools must be approved by their local Board of Education and are not exempt from state laws on education, including collective bargaining laws. In 2008, the state led the entire country in the percentage of students passing Advanced Placement examinations. 23.4 percent of students earned passing grades on the AP tests given in May 2008. Maryland has several historic and renowned private colleges and universities, the most prominent of which is Johns Hopkins University, founded in 1876 with a grant from Baltimore entrepreneur Johns Hopkins. The first public university in the state is the University of Maryland, Baltimore, which was founded in 1807 and contains the University of Maryland's only public academic health, human services, and one of two law centers (the other being the University of Baltimore School of Law). In 1974, Maryland, along with seven other states, mainly in the South, submitted plans to desegregate its state universities; Maryland's plans were approved by the US Department of Health, Education and Welfare.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09937888198757763, 0.5, 0.16580310880829016, 0.10362694300518134]
+[0.012461059190031152, 0.06349206349206349, 0.020833333333333332, 0.013020833333333334]
+[0.07453416149068323, 0.375, 0.12435233160621761, 0.07772020725388601]

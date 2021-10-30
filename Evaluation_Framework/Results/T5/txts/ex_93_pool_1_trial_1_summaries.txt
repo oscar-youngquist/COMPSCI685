@@ -1,0 +1,15 @@
+Document:
+hawaii
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+,,,ia,ia,, Hawaii ( (listen) h-WY-ee Hawaii is the only state outside North America, the only island state, and the only state in the tropics. Hawaii is also one of handful of US states to have once been an independent nation . Hawaii encompasses nearly the entire Hawaiian archipelago, composed of 137 volcanic islands spanning 1,500 miles (2,400 km), which are physiographically and ethnological
+
+GT:
+Hawaiʻi was admitted as a US state on August 21, 1959. The 1778 arrival of British explorer Captain James Cook marked the first documented contact by a European explorer with Hawaiʻi. After negotiations in June 1897, Secretary of State John Sherman agreed to a treaty of annexation with these representatives of the Republic of Hawaiʻi. In 1900, Hawaiʻi was granted self-governance and retained ʻIolani Palace as the territorial capitol building. Oʻahu was the target of a surprise attack on Pearl Harbor by Imperial Japan on December 7, 1941. In March 1959, Congress passed the Hawaiʻi Admissions Act, which US President Dwight D. Eisenhower signed into law.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13274336283185842, 0.22727272727272727, 0.1675977653631285, 0.10474860335195531]
+[0.008928571428571428, 0.015384615384615385, 0.011299435028248588, 0.007062146892655366]
+[0.08849557522123894, 0.15151515151515152, 0.111731843575419, 0.06983240223463688]

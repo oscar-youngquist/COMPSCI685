@@ -1,0 +1,15 @@
+Document:
+arizona
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+,, and the 48th state and last of the contiguous states to be admitted to the Union . Arizona shares the Four Corners region with Utah, Colorado, and New Mexico . it is the 6th largest and the 14th most populous of the 50 states .
+
+GT:
+Arizona is the 48th state and last of the contiguous states to be admitted to the Union, achieving statehood on February 14, 1912. In addition to the internationally known Grand Canyon National Park, which is one of the world's seven natural wonders, there are several national forests, national parks, and national monuments. Arizona was the 48th state admitted to the US and the last of the contiguous states to be admitted. Arizona was the site of German prisoner of war camps during World War II and Japanese American internment camps. In March 2000, Arizona was the site of the first legally binding election ever held over the internet to nominate a candidate for public office. Arizona is home to one of the most well-preserved meteorite impact sites in the world. Created around 50,000 years ago, the Barringer Meteorite Crater (better known simply as "Meteor Crater") is a gigantic hole in the middle of the high plains of the Colorado Plateau, about 25 miles (40 km) west of Winslow. In 2006, Arizona became the first state in the United States to reject a proposition, Prop 107, that would have banned same-sex marriage and civil unions.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14646464646464646, 0.6904761904761905, 0.24166666666666667, 0.15104166666666666]
+[0.08629441624365482, 0.4146341463414634, 0.14285714285714285, 0.08928571428571427]
+[0.12626262626262627, 0.5952380952380952, 0.20833333333333331, 0.13020833333333334]

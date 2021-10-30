@@ -1,0 +1,15 @@
+Document:
+alaska
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+( (listen); Alaska ( (listen); Alaska ( (listen); Aleut: Alaxsxax; Inupiaq: Alaasikaq; Pacific Gulf Yupik: Alaasikaq; Tlingit: Anáaski) is a US state on the northwest extremity of the country's West Coast, just across the Bering Strait . Alaska ( (listen); Aleut: Alaxsxax; Aleu
+
+GT:
+Fairbanks is the only large city in the region. Denali National Park and Preserve is located here. Denali, formerly Mount McKinley, is the highest mountain in North America. Some of Alaska's popular annual events are the Iditarod Trail Sled Dog Race from Anchorage to Nome, World Ice Art Championships in Fairbanks, the Blueberry Festival and Alaska Hummingbird Festival in Ketchikan, the Sitka Whale Fest, and the Stikine River Garnet Fest in Wrangell. The Stikine River attracts the largest springtime concentration of American bald eagles in the world. The Alaska Native Heritage Center celebrates the rich heritage of Alaska's 11 cultural groups. The Alaska Native Arts Foundation promotes and markets Native art from all regions and cultures in the State, using the internet. There are many established music festivals in Alaska, including the Alaska Folk Festival, the Fairbanks Summer Arts Festival] the Anchorage Folk Festival, the Athabascan Old-Time Fiddling Festival, the Sitka Jazz Festival, and the Sitka Summer Music Festival. The most prominent orchestra in Alaska is the Anchorage Symphony Orchestra, though the Fairbanks Symphony Orchestra and Juneau Symphony are also notable. The Anchorage Opera is currently the state's only professional opera company, though there are several volunteer and semi-professional organizations in the state as well.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.047619047619047616, 0.25, 0.08, 0.049999999999999996]
+[0.0, 0.0, 0.0, 0.0]
+[0.0380952380952381, 0.2, 0.064, 0.04]

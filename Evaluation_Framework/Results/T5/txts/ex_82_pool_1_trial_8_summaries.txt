@@ -1,0 +1,15 @@
+Document:
+kentucky
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+(US: (listen) kn-TUK-ee, UK: ken-) is a state in the Southern United States, bordered by Illinois, Indiana, and Ohio to the north; West Virginia and Virginia to the east; Tennessee to the south; and Missouri to the west. Kentucky (US: (listen) kn-TUK-ee, UK: ken-) is a state in the Southern United States, bordered by Illinois, Indiana, and Ohio to the
+
+GT:
+It is known as the "Bluegrass State", a nickname based on Kentucky bluegrass, a species of grass found in many of its pastures, which has supported the thoroughbred horse industry in the center of the state. It is home to the world's longest cave system: Mammoth Cave National Park, as well as the greatest length of navigable waterways and streams in the contiguous United States and the two largest man-made lakes east of the Mississippi River. The state is also known for horse racing, bourbon, moonshine, coal, "My Old Kentucky Home" historic state park, automobile manufacturing, tobacco, bluegrass music, college basketball, Louisville Slugger baseball bats, Kentucky Fried Chicken, and the Kentucky colonel. Kentucky is the only US state to have a continuous border of rivers running along three of its sides – the Mississippi River to the west, the Ohio River to the north, and the Big Sandy River and Tug Fork to the east. The Black Patch Tobacco Wars, a vigilante action, occurred in Western Kentucky in the early 20th century. On October 15, 1959, a B-52 carrying two nuclear weapons collided in midair with a KC-135 tanker near Hardinsburg, Kentucky. Kentucky produces 95% of the world's supply of bourbon whiskey, and the number of barrels of bourbon being aged in Kentucky (more than 5.7 million) exceeds the state's population. The distinction of being named a Kentucky colonel is the highest title of honor bestowed by the Commonwealth of Kentucky.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1417004048582996, 0.546875, 0.22508038585209003, 0.14067524115755628]
+[0.04065040650406504, 0.15873015873015872, 0.06472491909385113, 0.040453074433656956]
+[0.09716599190283401, 0.375, 0.15434083601286172, 0.09646302250803858]

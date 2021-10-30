@@ -1,0 +1,15 @@
+Document:
+nevada
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+(, Spanish: [neaa]) is a state in the Western United States . It is bordered by Oregon to the northwest, Idaho to the northeast, California to the west, Arizona to the southeast, and Utah to the east . Nevada is the 7th-most extensive, the 19th-least populous, but the 9th-least densely populated of the US states . Nearly three-quarters of Nevada's people live in Clark County, which contains the Las
+
+GT:
+Education in Nevada is achieved through public and private elementary, middle, and high schools, as well as colleges and universities. A May 2015 educational reform law expanded school choice options to 450,000 Nevada students who are at up to 185% of the federal poverty level. Education savings accounts (ESAs) are enabled by the new law to help pay the tuition for private schools. Alternatively, families "can use funds in these accounts to also pay for textbooks and tutoring". Approximately 86.9% of Nevada high school students graduate, putting it below the national average of 88.3%. The Nevada Aerospace Hall of Fame provides educational resources and promotes the aerospace and aviation history of the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.19827586206896552, 0.32857142857142857, 0.24731182795698925, 0.1545698924731183]
+[0.02608695652173913, 0.043478260869565216, 0.03260869565217391, 0.020380434782608692]
+[0.13793103448275862, 0.22857142857142856, 0.17204301075268816, 0.10752688172043011]

@@ -1,0 +1,15 @@
+Document:
+rhode_island
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Rhode Island ( (listen), like road) is a state in the New England region of the United States . Rhode Island is a state in the New England region of the United States . it is the smallest US state by area and the seventh least populous (1,059,361 as of 2019), but also the second most densely populated behind New Jersey .
+
+GT:
+On May 4, 1776, the Colony of Rhode Island and Providence Plantations was the first of the Thirteen Colonies to renounce its allegiance to the British Crown, and it was the fourth state to ratify the Articles of Confederation, doing so on February 9, 1778. Formally named the State of Rhode Island and Providence Plantations since its accession to the Union in 1790, voters in the state approved an amendment in November 2020 to the state constitution, renaming itself the State of Rhode Island. On June 19, 2020, State Senatortor Harold Metts introduced a resolution for another ballot referendum on removing the words "and Providence Plantations" from the state's name, saying, "Whatever the meaning of the term 'plantations' in the context of Rhode Island's history, it carries a horrific connotation when considering the tragic and racist history of our nation." He named the site Providence, "having a sense of God's merciful providence unto me in my distress", and it became a place of religious freedom where all were welcome. Rhode Island was the first of the thirteen colonies to renounce its allegiance to the British Crown on May 4, 1776. In 1866, Rhode Island abolished racial segregation in the public schools throughout the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12077294685990338, 0.4166666666666667, 0.18726591760299624, 0.11704119850187265]
+[0.02912621359223301, 0.1016949152542373, 0.04528301886792454, 0.028301886792452834]
+[0.10144927536231885, 0.35, 0.15730337078651685, 0.09831460674157304]

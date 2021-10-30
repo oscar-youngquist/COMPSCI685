@@ -1,0 +1,15 @@
+Document:
+georgia
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+is the 24th-largest in area and 8th-most populous of the 50 United States . Georgia () is a state in the Deep South region of the Southern United States, bordered to the north by Tennessee and North Carolina; to the northeast by South Carolina; to the southeast by the Atlantic Ocean; to the south by Florida; and to the west by Alabama . Georgia is the state's capital and its capital.
+
+GT:
+The Province of Georgia was one of the Thirteen Colonies that revolted against British rule in the American Revolution by signing the 1776 Declaration of Independence. The State of Georgia's first constitution was ratified in February 1777. After the Creek War (1813–1814), General Andrew Jackson forced the Muscogee (Creek) tribes to surrender land to the state of Georgia, including in the Treaty of Fort Jackson (1814), surrendering 21 million acres in what is now southern Georgia and central Alabama, and the Treaty of Indian Springs (1825). In 1829, gold was discovered in the North Georgia mountains leading to the Georgia Gold Rush and establishment of a federal mint in Dahlonega, which continued in operation until 1861. In 1830, President Andrew Jackson signed the Indian Removal Act, sending many eastern Native American nations to reservations in present-day Oklahoma, including all of Georgia's tribes. In early 1861, Georgia joined the Confederacy (with secessionists having a slight majority of delegates) and became a major theater of the Civil War. In December 1864, a large swath of the state from Atlanta to Savannah was destroyed during General William Tecumseh Sherman's March to the Sea. With white Democrats having regained power in the state legislature, they passed a poll tax in 1877, which disenfranchised many poor blacks and whites, preventing them from registering. In 1908, the state established a white primary; with the only competitive contests within the Democratic Party, it was another way to exclude blacks from politics. King joined with others to form the Southern Christian Leadership Conference (SCLC) in Atlanta in 1957 to provide political leadership for the Civil Rights Movement across the South. On February 5, 1958, during a training mission flown by a B-47, a Mark 15 nuclear bomb, also known as the Tybee Bomb, was lost off the coast of Tybee Island near Savannah. In 1980, construction was completed on an expansion of what is now named Hartsfield–Jackson Atlanta International Airport (ATL). As a testament to the city's growing international profile, in 1990 the International Olympic Committee selected Atlanta as the site of the 1996 Summer Olympics.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11235955056179775, 0.5633802816901409, 0.18735362997658084, 0.11709601873536302]
+[0.030985915492957747, 0.15714285714285714, 0.051764705882352935, 0.03235294117647059]
+[0.07584269662921349, 0.38028169014084506, 0.12646370023419204, 0.07903981264637003]

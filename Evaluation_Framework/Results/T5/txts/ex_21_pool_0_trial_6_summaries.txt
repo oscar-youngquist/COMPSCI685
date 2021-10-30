@@ -1,0 +1,15 @@
+Document:
+vermont
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Vermont ( (listen)) is a northeastern state in the New England region of the United States . it borders the states of Massachusetts to the south, New Hampshire to the east, and New York to the west . Vermont is the sixth-smallest by area of the 50 US states .
+
+GT:
+Vermont is the only state in New England that does not border the Atlantic Ocean. Vermont has a humid continental climate, with muddy springs, in general a mild early summer, hot Augusts; it has colorful autumns: Vermont's hills reveal red, orange, and (on sugar maples) gold foliage as cold weather approaches. Dairy farming is the primary source of agricultural income. Vermont festivals include the Vermont Maple Festival, Festival on the Green, The Vermont Dairy Festival in Enosburg Falls, the Apple Festival (held each Columbus Day Weekend), the Marlboro Music Festival, and the Vermont Brewers Festival. One of Vermont's best known musical acts is the rock band Phish, whose members met while attending school in Vermont and spent much of their early years playing at venues across the state. Other racing circuits include the USC sanctioned Bear Ridge Speedway, and the NASCAR sanctioned Devil's Bowl Speedway. Some NASCAR Cup drivers have come to Vermont circuits to compete against local weekly drivers such as Tony Stewart, Clint Bowyer, Kyle Busch, Kenny Wallace, Ken Schrader, and Christopher Bell. Racing series in Vermont include NASCAR Whelen All-American Series, American Canadian Tour, and Vermont's own Tiger Sportsman Series.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13131313131313133, 0.5531914893617021, 0.2122448979591837, 0.13265306122448978]
+[0.030456852791878174, 0.13043478260869565, 0.04938271604938271, 0.0308641975308642]
+[0.10101010101010101, 0.425531914893617, 0.16326530612244897, 0.10204081632653061]

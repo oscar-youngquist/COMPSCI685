@@ -1,0 +1,15 @@
+Document:
+minnesota
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Minnesota ( (listen)) is a state in the Upper Midwest, Great Lakes, and northern region of the United States . it is the 12th largest in area and the 22nd most populous of the US states . Nearly 55% of its residents live in the Minneapolis–Saint Paul metropolitan area (listen)) .
+
+GT:
+The Chippewa and Superior national forests comprise 5.5 million acres (22,000 km2). The Superior National Forest in the northeast contains the Boundary Waters Canoe Area Wilderness, which encompasses over a million acres (4,000 km2) and a thousand lakes. The Mississippi National River and Recreation Area (MNRRA) is a 72-mile-long (116 km) corridor along the Mississippi River through the Minneapolis–St. Minnesota's leading fine art museums include the Minneapolis Institute of Art, the Walker Art Center, the Frederick R. Weisman Art Museum, and The Museum of Russian Art (TMORA). The Minnesota Orchestra and the Saint Paul Chamber Orchestra are prominent full-time professional musical ensembles who perform concerts and offer educational programs to the Twin Cities' community. The world-renowned Guthrie Theater moved into a new Minneapolis facility in 2006, boasting three stages and overlooking the Mississippi River. The Minnesota State Fair, advertised as The Great Minnesota Get-Together, is an icon of state culture. Other large annual festivals include the Saint Paul Winter Carnival, the Minnesota Renaissance Festival, Minneapolis' Aquatennial and Mill City Music Festival, Moondance Jam in Walker, Sonshine Christian music festival in Willmar, the Judy Garland Festival in Grand Rapids, the Eelpout Festival on Leech Lake, and the WE Fest in Detroit Lakes. Minnesota has more miles of bike trails than any other state, and a growing network of hiking trails, including the 235-mile (378 km) Superior Hiking Trail in the northeast.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11618257261410789, 0.5833333333333334, 0.19377162629757785, 0.12110726643598617]
+[0.029166666666666667, 0.14893617021276595, 0.04878048780487805, 0.03048780487804878]
+[0.07053941908713693, 0.3541666666666667, 0.11764705882352941, 0.07352941176470587]

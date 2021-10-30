@@ -1,0 +1,15 @@
+Document:
+mississippi
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+is the state's 32nd largest and 34th-most populous metropolitan area . Greater Jackson is the state's capital and largest city .
+
+GT:
+Until the Civil War era, Mississippi had a small number of schools and no educational institutions for African Americans. During Reconstruction in 1871, black and white Republicans drafted a constitution that was the first to provide for a system of free public education in the state. Blacks and whites attended segregated and separate public schools in Mississippi until the late 1960s, although such segregation had been declared unconstitutional by the United States Supreme Court in its 1954 ruling in Brown v. Board of Education. Generally prohibited in the West at large, school corporal punishment is not unusual in Mississippi, with 31,236 public school students paddled at least one time circa 2016. In 2007, Mississippi students scored the lowest of any state on the National Assessments of Educational Progress in both math and science. Jackson, the state's capital city, is the site of the state residential school for deaf and hard of hearing students.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07741935483870968, 0.5454545454545454, 0.13559322033898308, 0.0847457627118644]
+[0.032467532467532464, 0.23809523809523808, 0.057142857142857134, 0.03571428571428571]
+[0.06451612903225806, 0.45454545454545453, 0.11299435028248588, 0.07062146892655366]

@@ -1,0 +1,15 @@
+Document:
+rhode_island
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Rhode Island (listen), like road) is a state in the New England region of the United States . it is the smallest US state by area and seventh least populous (1,059,361 as of 2019) but also the second most densely populated behind New Jersey .
+
+GT:
+Rhode Island ( (listen), like road) is a state in the New England region of the United States. Other important industries in Rhode Island's past included toolmaking, costume jewelry, and silverware. An interesting by-product of Rhode Island's industrial history is the number of abandoned factories, many of them now being used for condominiums, museums, offices, and low-income and elderly housing. The East Bay Bike Path stretches from Providence to Bristol along the eastern shore of Narragansett Bay, while the Blackstone River Bikeway will eventually link Providence and Worcester. Rhode Island has two professional sports teams, both of which are top-level minor league affiliates for teams in Boston. The Pawtucket Red Sox baseball team of the Triple-A International League are an affiliate of the Boston Red Sox. There are four NCAA Division I schools in Rhode Island. The Brown University Bears compete in the Ivy League, the Bryant University Bulldogs compete in the Northeast Conference, the Providence College Friars compete in the Big East Conference, and the University of Rhode Island Rams compete in the Atlantic-10 Conference.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12637362637362637, 0.5111111111111111, 0.2026431718061674, 0.1266519823788546]
+[0.09392265193370165, 0.38636363636363635, 0.1511111111111111, 0.09444444444444444]
+[0.12087912087912088, 0.4888888888888889, 0.19383259911894274, 0.12114537444933919]

@@ -1,0 +1,15 @@
+Document:
+arizona
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Arizona is the 48th state and last of the contiguous states to be admitted to the Union . Arizona shares the Four Corners region with Utah, Colorado, and New Mexico . Arizona is also part of the Western and the Mountain states .
+
+GT:
+Southern Arizona is known for its desert climate, with very hot summers and mild winters. Its climate has exceptionally hot summers and mild winters. Due to its large area and variations in elevation, the state has a wide variety of localized climate conditions. Typically, from late fall to early spring, the weather is mild, averaging a minimum of 60 °F (16 °C). November through February are the coldest months, with temperatures typically ranging from 40 to 75 °F (4 to 24 °C), with occasional frosts. Arizona has an average annual rainfall of 12.7 in (323 mm), which comes during two rainy seasons, with cold fronts coming from the Pacific Ocean during the winter and a monsoon in the summer. Arizona's northern third is a plateau at significantly higher altitudes than the lower desert, and has an appreciably cooler climate, with cold winters and mild summers, though the climate remains semiarid to arid. Extremely cold temperatures are not unknown; cold air systems from the northern states and Canada occasionally push into the state, bringing temperatures below 0 °F (−18 °C) to the state's northern parts. Indicative of the variation in climate, Arizona is the state which has both the metropolitan area with the most days over 100 °F (38 °C) (Phoenix), and the metropolitan area in the lower 48 states with the most days with a low temperature below freezing (Flagstaff).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09871244635193133, 0.575, 0.1684981684981685, 0.10531135531135531]
+[0.03017241379310345, 0.1794871794871795, 0.05166051660516605, 0.03228782287822878]
+[0.0815450643776824, 0.475, 0.1391941391941392, 0.08699633699633699]

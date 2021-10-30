@@ -1,0 +1,15 @@
+Document:
+idaho
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Idaho ( (listen)) is a state in the Pacific Northwest region of the United States . It borders the state of Montana to the east and northeast, Wyoming to the east, Wyoming to the east, Nevada and Utah to the south, and Washington and Oregon to the west . Idaho is the 14th largest, the 12th least populous and the 7th least densely populated of the 50 US states .
+
+GT:
+Humans may have been present in the Idaho area as long as 14,500 years ago. Idaho was one of the hardest hit of the Pacific Northwest states during the Great Depression. Today, Idaho's largest industry is the science and technology sector.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.37209302325581395, 0.24242424242424243, 0.29357798165137616, 0.1834862385321101]
+[0.14285714285714285, 0.09230769230769231, 0.11214953271028037, 0.07009345794392524]
+[0.2558139534883721, 0.16666666666666666, 0.2018348623853211, 0.12614678899082568]

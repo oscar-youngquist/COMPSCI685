@@ -1,0 +1,15 @@
+Document:
+washington
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Washington ( (listen)) is a state in the Pacific Northwest region of the United States . named for George Washington, the first US president, the state was made out of the western part of the Washington Territory . the state, which is bordered on the west by the Pacific Ocean, was ceded by the British Empire in 1846 .
+
+GT:
+Mount Rainier, an active stratovolcano, is the state's highest elevation, at almost 14,411 feet (4,392 meters), and is the most topographically prominent mountain in the contiguous US Among these are the Alta Lake State Park, Lake Roosevelt National Recreation Area, San Juan Islands National Wildlife Refuge, as well as three national parks—the Olympic National Park, North Cascades National Park, and Mount Rainier National Park. The Okanogan National Forest is the largest national forest on the West Coast, encompassing 1,499,023 acres (606,633 ha). Washington is home to four of the five longest floating bridges in the world: the Evergreen Point Floating Bridge, Lacey V. Murrow Memorial Bridge and Homer M. Hadley Memorial Bridge over Lake Washington, and the Hood Canal Bridge which connects the Olympic Peninsula and Kitsap Peninsula. Among its most famous bridges is the Tacoma Narrows Bridge, which collapsed in 1940 and was rebuilt. Washington has a number of seaports on the Pacific Ocean, including Seattle, Tacoma, Kalama, Anacortes, Vancouver, Longview, Grays Harbor, Olympia, and Port Angeles.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1657142857142857, 0.5272727272727272, 0.25217391304347825, 0.1576086956521739]
+[0.040229885057471264, 0.12962962962962962, 0.061403508771929814, 0.03837719298245614]
+[0.10857142857142857, 0.34545454545454546, 0.16521739130434784, 0.10326086956521739]

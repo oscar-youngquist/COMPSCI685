@@ -1,0 +1,15 @@
+Document:
+north_carolina
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+is a state in the southeastern region of the United States. North Carolina is the 28th largest and 9th-most populous of the 50 United States. it is bordered by Virginia to the north, the Atlantic Ocean to the east, Georgia and South Carolina to the south, and Tennessee to the west.
+
+GT:
+Elementary and secondary public schools are overseen by the North Carolina Department of Public Instruction. The North Carolina Superintendent of Public Instruction is the secretary of the North Carolina State Board of Education, but the board, rather than the superintendent, holds most of the legal authority for making public education policy. In 2009, the board's chairman also became the "chief executive officer" for the state's school system. North Carolina has 115 public school systems, each of which is overseen by a local school board. A county may have one or more systems within it. The largest university in North Carolina is currently North Carolina State University, with more than 34,000 students. Service industries, including education, health care, private research, and retail trade, are also important.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2265625, 0.5576923076923077, 0.32222222222222224, 0.20138888888888887]
+[0.047244094488188976, 0.11764705882352941, 0.06741573033707865, 0.042134831460674156]
+[0.1328125, 0.3269230769230769, 0.18888888888888888, 0.11805555555555557]

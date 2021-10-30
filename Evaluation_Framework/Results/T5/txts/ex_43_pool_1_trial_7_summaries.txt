@@ -1,0 +1,15 @@
+Document:
+massachusetts
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+, Massachusetts ( (listen), ), officially known as the Commonwealth of Massachusetts, is the most populous state in the New England region of the Northeastern United States . Massachusetts is the most populous state in the New England region of the Northeastern United States . it borders on the Atlantic Ocean to the east, the states of Connecticut and Rhode Island to the south, New Hampshire and Vermont to the north, and New York to the west .
+
+GT:
+In 2018, Massachusetts's overall educational system was ranked the top among all fifty US states by US News & World Report. Massachusetts was the first state in North America to require municipalities to appoint a teacher or establish a grammar school with the passage of the Massachusetts Education Law of 1647, and 19th century reforms pushed by Horace Mann laid much of the groundwork for contemporary universal public education which was established in 1852. Massachusetts is home to the oldest school in continuous existence in North America (The Roxbury Latin School, founded in 1645), as well as the country's oldest public elementary school (The Mather School, founded in 1639), its oldest high school (Boston Latin School, founded in 1635), its oldest continuously operating boarding school (The Governor's Academy, founded in 1763), its oldest college (Harvard University, founded in 1636), and its oldest women's college (Mount Holyoke College, founded in 1837). Massachusetts's per-student public expenditure for elementary and secondary schools was eighth in the nation in 2012, at $14,844. Massachusetts is home to 121 institutions of higher education. The public University of Massachusetts (nicknamed UMass) features five campuses in the state, with its flagship campus in Amherst, which enrolls more than 25,000.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17307692307692307, 0.5, 0.2571428571428571, 0.1607142857142857]
+[0.05314009661835749, 0.15492957746478872, 0.07913669064748202, 0.04946043165467627]
+[0.10576923076923077, 0.3055555555555556, 0.15714285714285714, 0.09821428571428571]

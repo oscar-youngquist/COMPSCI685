@@ -1,0 +1,15 @@
+Document:
+montana
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+is a state in the Northwestern United States. It is bordered by Idaho to the west; North Dakota and South Dakota to the east; Wyoming to the south; and by the Canadian provinces of Alberta, British Columbia, and Saskatchewan to the north. Montana ( (listen)) is a state in the Northwestern United States. it is bordered by Idaho to the west; North Dakota and South Dakota to the east; Wyoming to the south; and by the Canadian provinces of Alberta, British Columbia, and Saskatchewan to the north.
+
+GT:
+Montana is a large state with considerable variation in geography, topography and altitude, and the climate is, therefore, equally varied. Eastern Montana comprises plains and badlands, broken by hills and isolated mountain ranges, and has a semiarid, continental climate (Köppen climate classification BSk). Average daytime temperatures vary from 28 °F or −2.2 °C in January to 84.5 °F or 29.2 °C in July. The highest observed summer temperature was 117 °F or 47.2 °C at Glendive on July 20, 1893, and Medicine Lake on July 5, 1937. Throughout the state, summer nights are generally cool and pleasant. Extreme hot weather is less common above 4,000 feet or 1,200 meters. Snowfall has been recorded in all months of the year in the more mountainous areas of central and western Montana, though it is rare in July and August. The coldest temperature on record for Montana is also the coldest temperature for the contiguous United States. On January 20, 1954, −70 °F or −56.7 °C was recorded at a gold mining camp near Rogers Pass. Temperatures vary greatly on cold nights, and Helena, 40 miles (64 km) to the southeast had a low of only −36 °F or −37.8 °C on the same date, and an all-time record low of −42 °F or −41.1 °C. Winter cold spells are usually the result of cold continental air coming south from Canada. The climate has become warmer in Montana and continues to do so. Many Montana cities set heat records during July 2007, the hottest month ever recorded in Montana. Winters are warmer, too, and have fewer cold spells. The combination of warmer weather, attack by beetles, and mismanagement has led to a substantial increase in the severity of forest fires in Montana. The coldest month varies between December and January depending on location, although figures are similar throughout.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12974683544303797, 0.47674418604651164, 0.20398009950248755, 0.12748756218905474]
+[0.01904761904761905, 0.07058823529411765, 0.03, 0.01875]
+[0.10759493670886076, 0.3953488372093023, 0.16915422885572143, 0.10572139303482588]

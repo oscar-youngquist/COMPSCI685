@@ -1,0 +1,15 @@
+Document:
+colorado
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Colorado ( (listen), other variants) is a state in the western United States encompassing most of the southern Rocky Mountains . it is the 8th most extensive and 21st most populous US state . the estimated population of Colorado is 5,758,736 as of 2019, an increase of 14.5% since the 2010 United States Census .
+
+GT:
+The Western Slope includes multiple notable destinations in the Colorado Rocky Mountains, including Glenwood Springs, with its resort hot springs, and the ski resorts of Aspen, Breckenridge, Vail, Crested Butte, Steamboat Springs, and Telluride. The Four Corners Monument in the southwest corner of Colorado marks the common boundary of Colorado, New Mexico, Arizona, and Utah; the only such place in the United States. A number of historic military forts, railways with trains still operating, mining ghost towns have been utilized and transformed for historical accuracy in well known films. There are also a number of scenic highways and mountain passes that helped to feature the open road in films such as Vanishing Point, Bingo and Starman. Some Colorado landmarks have been featured in films, such as The Stanley Hotel in Dumb and Dumber and The Shining and the Sculptured House in Sleeper. There are also a number of established film festivals in Colorado, including Aspen Shortsfest, Boulder International Film Festival, Castle Rock Film Festival, Denver Film Festival, Festivus Film Festival (ended in 2013), Mile High Horror Film Festival, Moondance International Film Festival, Mountainfilm in Telluride, Rocky Mountain Women's Film Festival, and Telluride Film Festival. The Pikes Peak International Hill Climb is a major hillclimbing motor race held at the Pikes Peak Highway. The Cherry Hills Country Club has hosted several professional golf tournaments, including the US Open, US Senatoror Open, US Women's Open, PGA Championship and BMW Championship.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09166666666666666, 0.4074074074074074, 0.1496598639455782, 0.09353741496598639]
+[0.02510460251046025, 0.11320754716981132, 0.0410958904109589, 0.025684931506849314]
+[0.058333333333333334, 0.25925925925925924, 0.09523809523809523, 0.05952380952380953]

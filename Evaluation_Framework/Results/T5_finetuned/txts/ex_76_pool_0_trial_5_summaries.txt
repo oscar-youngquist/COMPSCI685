@@ -1,0 +1,15 @@
+Document:
+kansas
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Kansas ( (listen)) is a US state in the Midwestern United States . it is bordered by Nebraska to the north Kansas is named after the Kansas River . the tribe's name (natively kk:ze) is often said to mean "people of the (south) wind" .
+
+GT:
+To the southeast of Wichita are the cities of Winfield and Arkansas City with historic architecture and the Cherokee Strip Museum (in Ark City). Located midway between Kansas City, Topeka, and Wichita in the heart of the Bluestem Region of the Flint Hills, the city of Emporia has several nationally registered historic places and is the home of Emporia State University, well known for its Teachers College. Along with the restored fort, historic Fort Scott has a national cemetery designated by President Lincoln in 1862. South of Salina is the small city of Lindsborg with its numerous Dala horses. Much of the architecture and decor of this town has a distinctly Swedish style. Two other landmarks are located in smaller towns in Ellis County: the "Cathedral of the Plains" is located 10 miles (16 km) east of Hays in Victoria, and the boyhood home of Walter Chrysler is 15 miles (24 km) west of Hays in Ellis. The Plaza Cinema in Ottawa, Kansas, located in the northeastern portion of the state, was built on May 22, 1907, and it is listed by the Guinness Book of World Records as the oldest operating cinema in the world. In 1926, The Jayhawk Theatre, an art-deco movie house in Topeka opened its doors for the first time to movie going audiences, and today, in addition to screenings of independent films, the theatre acts as a venue for plays and concerts. The Fox Theater in Hutchinson was built in 1930, and was placed on the National Register of Historic Places in 1989.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08108108108108109, 0.4883720930232558, 0.1390728476821192, 0.08692052980132449]
+[0.015503875968992248, 0.09523809523809523, 0.02666666666666667, 0.016666666666666666]
+[0.05791505791505792, 0.3488372093023256, 0.09933774834437087, 0.06208609271523179]

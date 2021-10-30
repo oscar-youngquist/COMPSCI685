@@ -1,0 +1,15 @@
+Document:
+georgia
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Georgia () is a state in the Deep South region of the Southern United States . it is bordered to the north by Tennessee and North Carolina; to the northeast by South Carolina; to the southeast by the Atlantic Ocean; to the south by Florida; and to the west by Alabama . Georgia is the 24th-largest in area and 8th-most populous of the 50 United States .
+
+GT:
+The entire state, including the North Georgia mountains, receives moderate to heavy precipitation, which varies from 45 inches (1143 mm) in central Georgia to approximately 75 inches (1905 mm) around the northeast part of the state. The degree to which the weather of a certain region of Georgia is subtropical depends on the latitude, its proximity to the Atlantic Ocean or Gulf of Mexico, and the elevation. The latter factor is felt chiefly in the mountainous areas of the northern part of the state, which are farther away from the ocean and can be 4500 feet (1350 m) above sea level. The highest temperature ever recorded is 112 °F (44.4 °C) in Louisville on July 24, 1952, while the lowest is −17 °F (−27.2 °C) in northern Floyd County on January 27, 1940. Georgia is one of the leading states in frequency of tornadoes, though they are rarely stronger than EF1. Although tornadoes striking the city are very rare, an EF2 tornado hit downtown Atlanta on March 14, 2008, causing moderate to severe damage to various buildings.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2011173184357542, 0.5538461538461539, 0.29508196721311475, 0.18442622950819673]
+[0.06741573033707865, 0.1875, 0.09917355371900827, 0.06198347107438017]
+[0.12290502793296089, 0.3384615384615385, 0.18032786885245902, 0.1127049180327869]

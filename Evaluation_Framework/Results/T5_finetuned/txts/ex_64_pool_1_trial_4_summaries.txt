@@ -1,0 +1,15 @@
+Document:
+illinois
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+a microcosm of the entire United States. Illinois ( (listen) IL--NOY) is a state in the Midwestern and Great Lakes regions of the United States. It has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all states. Illinois has a diverse economic base, and is a microcosm of the entire United States.
+
+GT:
+"Illinois" is the modern spelling for the early French Catholic missionaries and explorers' name for the Illinois Native Americans, a name that was spelled in many different ways in the early records. The name "Illinois" derives from the Miami-Illinois verb irenwe·wa—"he speaks the regular way". By 1839, the Latter Day Saints had founded a utopian city called Nauvoo. But in 1844, the Latter Day Saint movement founder Joseph Smith was killed in the Carthage Jail, about 30 miles away from Nauvoo. Following a succession crisis (Latter Day Saints), Brigham Young led most Latter Day Saints out of Illinois in a mass exodus to present-day Utah; after close to six years of rapid development, Nauvoo rapidly declined afterward. The first Farm Aid concert was held in Champaign to benefit American farmers, in 1985. Illinois played an important role in the early Latter Day Saint movement, with Nauvoo, Illinois, becoming a gathering place for Mormons in the early 1840s. Nauvoo was the location of the succession crisis, which led to the separation of the Mormon movement into several Latter Day Saint sects. The Church of Jesus Christ of Latter-day Saints, the largest of the sects to emerge from the Mormon schism, has more than 55,000 adherents in Illinois today. Several museums in Chicago are ranked as some of the best in the world. These include the John G. Shedd Aquarium, the Field Museum of Natural History, the Art Institute of Chicago, the Adler Planetarium, and the Museum of Science and Industry. Politics in the state have been infamous for highly visible corruption cases, as well as for crusading reformers, such as governors Adlai Stevenson and James R. Thompson. Ronald Reagan was born in Illinois, in the city of Tampico, raised in Dixon, Illinois, and educated at Eureka College, outside Peoria.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08223684210526316, 0.4032258064516129, 0.13661202185792348, 0.08538251366120218]
+[0.0165016501650165, 0.08196721311475409, 0.027472527472527476, 0.017170329670329672]
+[0.0625, 0.3064516129032258, 0.10382513661202186, 0.06489071038251366]

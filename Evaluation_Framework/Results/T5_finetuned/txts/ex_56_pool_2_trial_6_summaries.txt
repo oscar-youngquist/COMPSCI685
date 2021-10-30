@@ -1,0 +1,15 @@
+Document:
+indiana
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Indiana ( (listen)) is a US state in the Midwestern and Great Lakes regions of North America . it borders Lake Michigan to the northwest, Michigan to the north, Ohio to the east, the Ohio River and Kentucky to the east and southeast . before becoming a territory, various indigenous indigenous peoples were a part of the state .
+
+GT:
+The first inhabitants in what is now Indiana were the Paleo-Indians, who arrived about 8000 BCE after the melting of the glaciers at the end of the Ice Age. In 1679, French explorer René-Robert Cavelier, Sieur de La Salle was the first European to cross into Indiana after reaching present-day South Bend at the Saint Joseph River. In 1787, the US defined the Northwest Territory which included the area of present-day Indiana. In 1800, Congress separated Ohio from the Northwest Territory, designating the rest of the land as the Indiana Territory. Starting with the Battle of Fallen Timbers in 1794 and the Treaty of Greenville in 1795, Native American titles to Indiana lands were extinguished by usurpation, purchase, or war and treaty. On June 10, 1816, delegates assembled at Corydon to write the constitution, which was completed in 19 days. President James Madison approved Indiana's admission into the union as the nineteenth state on December 11, 1816. Many European immigrants went west to settle in Indiana in the early 19th century. In the early 20th century, Indiana developed into a strong manufacturing state with ties to the new auto industry. Industry became the primary employer, a trend that continued into the 1960s. Urbanization during the 1950s and 1960s led to substantial growth in the state's cities. The 1973 oil crisis created a recession that hurt the automotive industry in Indiana. The restructuring and deindustrialization trend continued until the 1980s, when the national and state economy began to diversify and recover.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1171875, 0.5454545454545454, 0.19292604501607719, 0.12057877813504823]
+[0.0196078431372549, 0.09259259259259259, 0.032362459546925564, 0.020226537216828478]
+[0.07421875, 0.34545454545454546, 0.12218649517684887, 0.07636655948553055]

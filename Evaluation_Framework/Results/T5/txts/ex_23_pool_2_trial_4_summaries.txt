@@ -1,0 +1,15 @@
+Document:
+mississippi
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+is the state's 32nd largest and 34th-most populous metropolitan area . Greater Jackson is the state's capital and largest city .
+
+GT:
+Mississippi has a humid subtropical climate classification. Temperatures average about 81 °F (27 °C) in July and about 42 °F (6 °C) in January. The temperature varies little statewide in the summer; however, in winter, the region near Mississippi Sound is significantly warmer than the inland portion of the state. Yearly precipitation generally increases from north to south, with the regions closer to the Gulf being the most humid. Thus, Clarksdale, in the northwest, gets about 50 in (1,300 mm) of precipitation annually and Biloxi, in the south, about 61 in (1,500 mm). Small amounts of snow fall in northern and central Mississippi The late summer and fall is the seasonal period of risk for hurricanes moving inland from the Gulf of Mexico, especially in the southern part of the state. As in the rest of the Deep South, thunderstorms are common in Mississippi, especially in the southern part of the state. On average, Mississippi has around 27 tornadoes annually; the northern part of the state has more tornadoes earlier in the year and the southern part a higher frequency later in the year.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.04838709677419355, 0.4090909090909091, 0.08653846153846154, 0.054086538461538464]
+[0.016216216216216217, 0.14285714285714285, 0.02912621359223301, 0.01820388349514563]
+[0.043010752688172046, 0.36363636363636365, 0.07692307692307691, 0.04807692307692308]

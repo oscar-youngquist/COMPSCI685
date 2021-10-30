@@ -1,0 +1,15 @@
+Document:
+south_carolina
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+is a state in the Deep South region of the Southern United States. South Carolina is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia across the Savannah River . South Carolina is the 40th most extensive and 23rd most populous US state.
+
+GT:
+South Carolina has a humid subtropical climate (Köppen climate classification Cfa), although high-elevation areas in the Upstate area have fewer subtropical characteristics than areas on the Atlantic coastline. In the summer, South Carolina is hot and humid, with daytime temperatures averaging between 86–93 °F (30–34 °C) in most of the state and overnight lows averaging 70–75 °F (21–24 °C) on the coast and from 66–73 °F (19–23 °C) inland. Coastal areas of the state have very mild winters, with high temperatures approaching an average of 60 °F (16 °C) and overnight lows around 40 °F (5–8 °C). Inland, the average January overnight low is around 32 °F (0 °C) in Columbia and temperatures well below freezing in the Upstate. While precipitation is abundant the entire year in almost the entire state, the coast tends to have a slightly wetter summer, while inland, the spring and autumn transitions tend to be the wettest periods and winter the driest season, with November being the driest month. Snowfall in South Carolina is minimal in the lower elevation areas south and east of Columbia. Annual average total amounts range from 2 to 6 inches. The Blue Ridge Escarpment receives the most average total measurable snowfall
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14761904761904762, 0.5849056603773585, 0.23574144486692014, 0.1473384030418251]
+[0.03349282296650718, 0.1346153846153846, 0.053639846743295014, 0.033524904214559385]
+[0.1, 0.39622641509433965, 0.15969581749049433, 0.09980988593155894]

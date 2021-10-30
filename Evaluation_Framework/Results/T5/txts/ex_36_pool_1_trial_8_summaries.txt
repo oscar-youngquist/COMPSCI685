@@ -1,0 +1,15 @@
+Document:
+north_dakota
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+is the third largest in area, the fourth least populous, and the fourth most sparsely populated of the 50 states . North Dakota was admitted to the Union on November 2, 1889, along with its neighboring state, South Dakota .
+
+GT:
+The state has 11 public colleges and universities, five tribal community colleges, and four private schools. The largest institutions are North Dakota State University and the University of North Dakota. The higher education system consists of the following institutions: North Dakota University System (public institutions): Tribal institutions: Private institutions:
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2653061224489796, 0.34210526315789475, 0.2988505747126437, 0.18678160919540232]
+[0.0625, 0.08108108108108109, 0.07058823529411765, 0.04411764705882353]
+[0.1836734693877551, 0.23684210526315788, 0.20689655172413793, 0.1293103448275862]

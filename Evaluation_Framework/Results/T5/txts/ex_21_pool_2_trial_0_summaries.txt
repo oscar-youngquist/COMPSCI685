@@ -1,0 +1,15 @@
+Document:
+new_york
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+the 27th largest state. New York is the home of New York City. New York is a state in the northeastern United States. It was one of the original thirteen colonies, forming the United States. New York is a state in the northeastern United States. It was one of the original thirteen colonies, forming the United States. With an estimated population of 8.34 million in 2019, New York City is the fourth most populous.
+
+GT:
+Two-thirds of the state's population lives in the New York metropolitan area. Many landmarks in New York are well known, including four of the world's ten most-visited tourist attractions in 2013: Times Square, Central Park, Niagara Falls, and Grand Central Terminal. New York is home to the Statue of Liberty. On September 11, 2001, two of four hijacked planes were flown into the Twin Towers of the original World Trade Center in Lower Manhattan, and the towers collapsed. 7 World Trade Center also collapsed due to damage from fires. The collapse of the Twin Towers caused extensive damage and resulted in the deaths of 2,753 victims, including 147 aboard the two planes. A memorial at the site, the National September 11 Memorial & Museum, was opened to the public on September 11, 2011. On March 1, 2020, New York had its first confirmed case of COVID-19. Since March 28, New York had the highest number of confirmed cases of any state in the United States. Niagara Falls State Park, established in 1885, is the oldest state park in the United States and the first to be created via eminent domain. The Stonewall riots were a series of spontaneous, violent demonstrations by members of the gay community against a police raid that took place in the early morning hours of June 28, 1969, at the Stonewall Inn in the Greenwich Village neighborhood within Lower Manhattan. Anchored by Wall Street in the Financial District of Lower Manhattan, New York City has been called both the most economically powerful city and the leading financial center of the world. I Love New York (stylized I ❤ NY) is a slogan, a logo and state song that are the basis of an advertising campaign and has been used since 1977 to promote tourism in the state of New York, including New York City. Although the New York Giants and New York Jets represent the New York metropolitan area and were previously located in New York City, they play in MetLife Stadium, located in East Rutherford, New Jersey. The National Baseball Hall of Fame and Museum is located in Cooperstown, Otsego County.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1361111111111111, 0.6533333333333333, 0.22528735632183908, 0.14080459770114942]
+[0.0584958217270195, 0.28378378378378377, 0.09699769053117784, 0.060623556581986135]
+[0.1, 0.48, 0.16551724137931037, 0.10344827586206896]

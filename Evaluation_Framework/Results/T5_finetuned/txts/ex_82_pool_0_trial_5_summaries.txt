@@ -1,0 +1,15 @@
+Document:
+montana
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Montana ( (listen)) is a state in the Northwestern United States . it is bordered by Idaho to the west; North Dakota and South Dakota to the east; Wyoming to the south; and by the Canadian provinces of Alberta, British Columbia, and Saskatchewan to the north . it is the fourth-largest state by area, the eighth-least populous state, and the third-least densely populated state .
+
+GT:
+Montana has no official nickname but several unofficial ones, most notably "Big Sky Country", "The Treasure State", "Land of the Shining Mountains", and "The Last Best Place". The name Montana comes from the Spanish word montaña, which in turn comes from the Latin word montanea, meaning "mountain" or more broadly "mountainous country". All waters in Montana west of the divide flow into the Columbia River. Montana has some 3,000 named lakes and reservoirs, including Flathead Lake, the largest natural freshwater lake in the western United States. Montana has a larger Native American population, both numerically and as a percentage, than most US states. About 66,000 people of Native American heritage live in Montana. There are no major league sports franchises in Montana due to the state's relatively small and dispersed population, but a number of minor league teams play in the state. Montana's motto, Oro y Plata, Spanish for "Gold and Silver", recognizing the significant role of mining, was first adopted in 1865, when Montana was still a territory.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16666666666666666, 0.453125, 0.24369747899159663, 0.15231092436974789]
+[0.023121387283236993, 0.06349206349206349, 0.033898305084745756, 0.0211864406779661]
+[0.10919540229885058, 0.296875, 0.15966386554621848, 0.09978991596638655]

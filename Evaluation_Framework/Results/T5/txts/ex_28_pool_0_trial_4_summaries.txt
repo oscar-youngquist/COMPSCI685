@@ -1,0 +1,15 @@
+Document:
+pennsylvania
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Pennsilfaani, offiziell Pennsylvania, ist ein Staat in den Regionen Mid-Atlantik, Appalachien und Große Seen des Nordostens der Vereinigten Staaten.
+
+GT:
+Both the Dutch and the English claimed both sides of the Delaware River as part of their colonial lands in America. By June 3, 1631, the Dutch had begun settling the Delmarva Peninsula by establishing the Zwaanendael Colony on the site of present-day Lewes, Delaware. On March 12, 1664, King Charles II of England gave James, Duke of York a grant that incorporated all lands included in the original Virginia Company of Plymouth Grant plus other lands. On September 12, 1672, during the Third Anglo-Dutch War, the Dutch re-conquered New York Colony/New Amsterdam, establishing three County Courts, which went on to become original Counties in present-day Delaware and Pennsylvania. Upland was partitioned on November 12, 1674, producing the general outline of the current border between Pennsylvania and Delaware. Between 1730 and when it was shut down by Parliament with the Currency Act of 1764, the Pennsylvania Colony made its own paper money to account for the shortage of actual gold and silver. After the Stamp Act Congress of 1765, Delegate John Dickinson of Philadelphia wrote the Declaration of Rights and Grievances. Pennsylvania became the first large state, and the second state to ratify the US Constitution on December 12, 1787, five days after Delaware became the first. Dickinson College of Carlisle was the first college founded after the States united. Established in 1773, the college was ratified five days after the Treaty of Paris on September 9, 1783. Pennsylvania was also the home of the first commercially drilled oil well. In 1859, near Titusville, Pennsylvania, Edwin Drake successfully drilled the well, which led to the first major oil boom in United States history. In 1923, President Calvin Coolidge established the Allegheny National Forest under the authority of the Weeks Act of 1911. The Allegheny is the state's only national forest. The Three Mile Island accident was the most significant nuclear accident in US commercial nuclear power plant history. United Airlines Flight 93 crashed into a field near Shanksville during the September 11th attacks, killing 44. In October 2018, the Tree of Life – Or L'Simcha Congregation experienced the Pittsburgh synagogue shooting.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0056022408963585435, 0.09523809523809523, 0.010582010582010583, 0.006613756613756614]
+[0.0, 0.0, 0.0, 0.0]
+[0.0056022408963585435, 0.09523809523809523, 0.010582010582010583, 0.006613756613756614]

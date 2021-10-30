@@ -1,0 +1,15 @@
+Document:
+vermont
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Vermont ( (listen)) is a northeastern state in the New England region of the United States . it borders the states of Massachusetts to the south, New Hampshire to the east, and New York to the west . Vermont is the second-least-populated US state and the sixth-smallest by area of the 50 US states . Montpelier is Montpelier, the least-populous state capital in the United States .
+
+GT:
+Vermont is the only state in New England that does not border the Atlantic Ocean. Vermont has a humid continental climate, with muddy springs, in general a mild early summer, hot Augusts; it has colorful autumns: Vermont's hills reveal red, orange, and (on sugar maples) gold foliage as cold weather approaches. Dairy farming is the primary source of agricultural income. Vermont festivals include the Vermont Maple Festival, Festival on the Green, The Vermont Dairy Festival in Enosburg Falls, the Apple Festival (held each Columbus Day Weekend), the Marlboro Music Festival, and the Vermont Brewers Festival. One of Vermont's best known musical acts is the rock band Phish, whose members met while attending school in Vermont and spent much of their early years playing at venues across the state. Other racing circuits include the USC sanctioned Bear Ridge Speedway, and the NASCAR sanctioned Devil's Bowl Speedway. Some NASCAR Cup drivers have come to Vermont circuits to compete against local weekly drivers such as Tony Stewart, Clint Bowyer, Kyle Busch, Kenny Wallace, Ken Schrader, and Christopher Bell. Racing series in Vermont include NASCAR Whelen All-American Series, American Canadian Tour, and Vermont's own Tiger Sportsman Series.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16161616161616163, 0.48484848484848486, 0.24242424242424243, 0.15151515151515152]
+[0.03553299492385787, 0.1076923076923077, 0.0534351145038168, 0.033396946564885496]
+[0.11616161616161616, 0.3484848484848485, 0.17424242424242425, 0.10890151515151515]

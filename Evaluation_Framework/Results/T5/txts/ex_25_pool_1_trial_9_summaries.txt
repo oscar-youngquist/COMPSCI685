@@ -1,0 +1,15 @@
+Document:
+illinois
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+a microcosm of the entire United States. Illinois ( (listen) IL--NOY) is a state in the Midwestern and Great Lakes regions of the United States . Illinois has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all states .
+
+GT:
+The Illinois State Board of Education (ISBE) is autonomous of the governor and the state legislature, and administers public education in the state. Local municipalities and their respective school districts operate individual public schools, but the ISBE audits performance of public schools with the Illinois School Report Card. The ISBE also makes recommendations to state leaders concerning education spending and policies. Education is compulsory for ages 7–17 in Illinois. Schools are commonly, but not exclusively, divided into three tiers of primary and secondary education: elementary school, middle school or junior high school, and high school. District territories are often complex in structure. Many areas in the state are actually located in two school districts—one for high school, the other for elementary and middle schools. And such districts do not necessarily share boundaries. A given high school may have several elementary districts that feed into it, yet some of those feeder districts may themselves feed into multiple high school districts. Schools in Illinois are funded primarily by property taxes, based on state assessment of property values, rather than direct state contributions. Scholar Tracy Steffes has described Illinois public education as historically “inequitable,” a system where one of “the wealthiest of states” is “the stingiest in its support for education.” There have been several attempts to reform school funding in Illinois. The most notable attempt came in 1973 with the adoption of the Illinois Resource Equalizer Formula, a measure through which it was hoped funding could be collected and distributed to Illinois schools more equitably. However, opposition from affluent Illinois communities who objected to having to pay for the less well-off school districts (many of them Black majority communities, produced by redlining, white flight, and other “soft” segregation methods) resulted in the formula’s abolition in the late 1980s.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07666666666666666, 0.48936170212765956, 0.1325648414985591, 0.08285302593659943]
+[0.013377926421404682, 0.08695652173913043, 0.02318840579710145, 0.014492753623188404]
+[0.06, 0.3829787234042553, 0.1037463976945245, 0.06484149855907781]

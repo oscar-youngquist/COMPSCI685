@@ -1,0 +1,15 @@
+Document:
+nevada
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+(, Spanish: [neaa]) is a state in the Western United States . It is bordered by Oregon to the northwest, Idaho to the northeast, California to the west, Arizona to the southeast, and Utah to the east . Nevada is the 7th-most extensive, the 19th-least populous, but the 9th-least densely populated of the US states . Nearly three-quarters of Nevada's people live in Clark County, which contains the Las
+
+GT:
+Resort areas like Las Vegas, Reno, Lake Tahoe, and Laughlin attract visitors from around the nation and world. In FY08 their 266 casinos (not counting ones with annual revenue under a million dollars) brought in $12 billion in gaming revenue and another $13 billion in non-gaming revenue. However, prostitution is legal in Storey County, which is part of the Reno–Sparks metropolitan area. The state is also home to the Las Vegas Motor Speedway, which hosts NASCAR's Pennzoil 400 and South Point 400. The Thomas & Mack Center, built for UNLV men's basketball, hosts the National Finals Rodeo. The PBR World Finals, operated by the bull riding-only Professional Bull Riders, was also held at the Thomas & Mack Center before moving to T-Mobile Arena in 2016.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1937984496124031, 0.35714285714285715, 0.2512562814070352, 0.157035175879397]
+[0.03125, 0.057971014492753624, 0.04060913705583756, 0.025380710659898477]
+[0.10852713178294573, 0.2, 0.14070351758793967, 0.0879396984924623]

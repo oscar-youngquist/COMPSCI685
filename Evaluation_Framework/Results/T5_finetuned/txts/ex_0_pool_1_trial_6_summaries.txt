@@ -1,0 +1,15 @@
+Document:
+virginia
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Virginia Beach is the most-populous city, and Fairfax County is the most-populous political subdivision . the capital of the Commonwealth is Richmond; Virginia Beach is the most-populous city . Fairfax County is the most-populous political subdivision .
+
+GT:
+The 2019 Quality Counts report ranked Virginia's K–12 education third in the country, with a letter grade of B. All school divisions must adhere to educational standards set forth by the Virginia Department of Education, which maintains an assessment and accreditation regime known as the Standards of Learning to ensure accountability. Public K–12 schools in Virginia are generally operated by the counties and cities, and not by the state. As off the 2018–19 academic year, a total of 1,290,576 students were enrolled in 2,293 local and regional schools in the Commonwealth, including eight charter schools, and an additional 98 alternative and special education centers across 133 school divisions. Besides the general public schools in Virginia, there are Governor's Schools and selective magnet schools. The Governor's Schools are a collection of more than 40 regional high schools and summer programs intended for gifted students. The Virginia Council for Private Education oversees the regulation of 483 state accredited private schools. In 2019, 91.5 percent of high school students graduated on-time after four years, an increase of two percent from 2013, and 89.3 percent of adults over the age 25 had their high school diploma. Virginia has one of the smaller racial gaps in graduation rates among US states, with 89.7 percent of Black students graduating on time, compared to 94.7 percent of white students and 97.5 percent of Asian students. Virginia has comparatively large public school districts, typically comprising entire counties or cites, and this helps mitigate funding gaps seen in other states such that non-white districts average slightly more funding, $255 per student as of 2019, than majority white districts.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.04912280701754386, 0.3684210526315789, 0.08668730650154799, 0.05417956656346749]
+[0.01056338028169014, 0.08108108108108109, 0.018691588785046728, 0.011682242990654205]
+[0.042105263157894736, 0.3157894736842105, 0.07430340557275542, 0.04643962848297213]

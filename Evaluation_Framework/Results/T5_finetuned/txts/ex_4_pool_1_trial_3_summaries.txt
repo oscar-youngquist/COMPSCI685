@@ -1,0 +1,15 @@
+Document:
+new_jersey
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+New Jersey is a state in the Mid-Atlantic region of the Northeastern United States . it is bordered on the north and east by the state of New York; on the east, southeast, and south by the Atlantic Ocean; on the west by the Delaware River and Pennsylvania; on the west by the Delaware River and Pennsylvania; and on the southwest by Delaware Bay and the State of Delaware . New Jersey is the fourth-smallest state by area but the 11th-most populous, with 8,882,190 residents
+
+GT:
+Based on 2017 data, it was the second-wealthiest US state by median household income. New Jersey's public school system consistently ranks at or among the top among all fifty US states. It was from the Royal Square in Saint Helier that Charles II of England was proclaimed King in 1649, following the execution of his father, Charles I. New Jersey was one of the Thirteen Colonies that revolted against British rule in the American Revolution. The New Jersey Constitution of 1776 was passed July 2, 1776, just two days before the Second Continental Congress declared American Independence from Great Britain. During the American Revolutionary War, British and American armies crossed New Jersey numerous times, and several pivotal battles took place in the state. On December 18, 1787, New Jersey became the third state to ratify the United States Constitution, which was overwhelmingly popular in New Jersey, as it prevented New York and Pennsylvania from charging tariffs on goods imported from Europe. New Jersey is home to more scientists and engineers per square mile than anywhere else in the world. The state has the second largest Jewish population by percentage (after New York); the second largest Muslim population by percentage (after Michigan); the largest population of Peruvians in the United States; the largest population of Cubans outside of Florida; the third highest Asian population by percentage; and the second highest Italian population, according to the 2000 Census. New Jersey has the highest cumulative tax rate of all 50 states with residents paying a total of $68 billion in state and local taxes annually with a per capita burden of $7,816 at a rate of 12.9% of income. New Jersey consistently ranks as having one of the highest proportional levels of disparity of any state in the United States, based upon what it receives from the federal government relative to what it gives. New Jersey has one of the highest tax burdens in the nation. In 1976, a referendum of New Jersey voters approved casino gambling in Atlantic City, where the first legalized casino opened in 1978. New Jersey is known for the quality of its education.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14484679665738162, 0.5909090909090909, 0.23266219239373603, 0.14541387024608501]
+[0.0446927374301676, 0.1839080459770115, 0.07191011235955057, 0.0449438202247191]
+[0.09192200557103064, 0.375, 0.1476510067114094, 0.09228187919463088]

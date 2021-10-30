@@ -1,0 +1,15 @@
+Document:
+ohio
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+is the 34th-largest by area, and with nearly 11.7 million inhabitants, is the seventh-most populous and tenth-most densely populated . Ohio is bordered by Lake Erie to the north, Pennsylvania to the east, West Virginia to the southeast, Kentucky to the southwest, and Kentucky to the southwest . Ohio is bordered by Lake Erie to the north, Pennsylvania to the east, West Virginia to the southeast, Kentucky to the southwest, Kentucky to the southwest, and Ohio is the
+
+GT:
+To the north, Lake Erie gives Ohio 312 miles (502 km) of coastline, which allows for numerous cargo ports. Ohio's southern border is defined by the Ohio River (with the border being at the 1792 low-water mark on the north side of the river), and much of the northern border is defined by Lake Erie. Columbus is the capital of Ohio, located near the geographic center of the state and well known for The Ohio State University. Akron, Canton, Cleveland, Mansfield, and Youngstown are in the Northeast, known for major industrial companies Goodyear Tire and Rubber and Timken, top ranked colleges Case Western Reserve University and Kent State University, the Cleveland Clinic, and cultural attractions including the Cleveland Museum of Art, Big Five group Cleveland Orchestra, Playhouse Square, the Pro Football Hall of Fame, and the Rock and Roll Hall of Fame. Dayton and Springfield are located in the Miami Valley, which is home to the University of Dayton, the Dayton Ballet, and the extensive Wright-Patterson Air Force Base. It is home of Miami University and the University of Cincinnati, Cincinnati Union Terminal, Cincinnati Symphony Orchestra, and various Fortune 500 companies including Procter & Gamble, Kroger, Macy's, Inc., and Fifth Third Bank. Ohio has several long-distance hiking trails, the most prominent of which is the Buckeye Trail which extends 1,444 mi (2,324 km) in a loop around the state of Ohio. Additionally, the North Country Trail (the longest of the eleven National Scenic Trails authorized by Congress) and the American Discovery Trail (a system of recreational trails and roads that collectively form a coast-to-coast route across the mid-tier of the United States) pass through Ohio.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1443661971830986, 0.5125, 0.22527472527472525, 0.1407967032967033]
+[0.03180212014134275, 0.11392405063291139, 0.04972375690607734, 0.031077348066298343]
+[0.09154929577464789, 0.325, 0.14285714285714288, 0.08928571428571429]

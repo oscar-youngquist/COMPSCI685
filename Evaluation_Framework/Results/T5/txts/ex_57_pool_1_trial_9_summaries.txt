@@ -1,0 +1,15 @@
+Document:
+texas
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Texas (, also locally ; Spanish: Texas or Tejas, pronounced [texas] (listen)) is a state in the South Central Region of the United States . It is the second largest US state by both area (after Alaska) and population (after California).
+
+GT:
+It is the second largest US state by both area (after Alaska) and population (after California). The term "six flags over Texas" refers to several nations that have ruled over the territory. Spain was the first European country to claim and control the area of Texas. France held a short-lived colony. Mexico controlled the territory until 1836 when Texas won its independence, becoming the Republic of Texas. The name Texas, based on the Caddo word táyshaʼ (/tʼajʃaʔ/) "friend", was applied, in the spelling Tejas or Texas, by the Spanish to the Caddo themselves, specifically the Hasinai Confederacy, the final -s representing the Spanish plural.The Mission San Francisco de los Tejas was completed near the Hasinai village of Nabedaches in May 1690, in what is now Houston County, East Texas. Though 10% larger than France and almost twice as large as Germany or Japan and more than twice the size of the United Kingdom, it ranks only 27th worldwide amongst country subdivisions by size. With 10 climatic regions, 14 soil regions and 11 distinct ecological regions, regional classification becomes problematic with differences in soils, topography, geology, rainfall, and plant and animal communities. One classification system divides Texas, in order from southeast to west, into the following: Gulf Coastal Plains, Interior Lowlands, Great Plains, and Basin and Range Province. Texas is the southernmost part of the Great Plains, which ends in the south against the folded Sierra Madre Occidental of Mexico. If Texas were its own country it would be the sixth largest oil producer in the world according to a 2014 study. The state is a leader in renewable energy commercialization Many high-tech companies are located in or have their headquarters in Texas (and Austin in particular), including Dell, Inc., Borland, Forcepoint, Indeed.com, Texas Instruments, Perot Systems, Rackspace and AT&T. "Texas-sized" is an expression that can be used in two ways: to describe something that is about the size of the US state of Texas, or to describe something (usually but not always originating from Texas) that is large compared to other objects of its type.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09322033898305085, 0.868421052631579, 0.1683673469387755, 0.10522959183673469]
+[0.059490084985835696, 0.5675675675675675, 0.10769230769230768, 0.06730769230769232]
+[0.04519774011299435, 0.42105263157894735, 0.08163265306122448, 0.0510204081632653]

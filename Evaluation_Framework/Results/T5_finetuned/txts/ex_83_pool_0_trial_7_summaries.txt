@@ -1,0 +1,15 @@
+Document:
+kentucky
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+is a state in the Southern United States bordered by Illinois, Indiana, and Ohio to the north; West Virginia and Virginia to the east; Tennessee to the south; and Missouri to the west . Kentucky (US: (listen) kn-TUK-ee, UK: ken-) is a state in the Southern United States bordered by Illinois, Indiana, and Ohio to the north; West Virginia and Virginia to the east; Tennessee to the south; and Missouri to the west . Kentucky (
+
+GT:
+Kentucky was admitted into the Union as the 15th state on June 1, 1792, splitting from Virginia in the process. Based on evidence in other regions, humans were likely living in Kentucky prior to 10,000 BCE, but "archaeological evidence of their occupation has yet to be documented". In about the 10th century, the Kentucky native people's variety of corn became highly productive, supplanting the Eastern Agricultural Complex, and replaced it with a maize-based agriculture in the Mississippian era. French explorers in the 17th century documented numerous tribes living in Kentucky until the Beaver Wars in the 1670s; however, by the time that European colonial explorers and settlers began entering Kentucky in greater numbers in the mid-18th century, there were no major Native American settlements in the region. As of the 16th century, the area known as Kentucky was home to tribes from five different culture groups – Iroquoian, Sioux, Algonquian, Muskogean and Yuchi. Today there are two state recognized tribes in Kentucky, the Southern Cherokee Nation of Kentucky and the Ridgetop Shawnee. Rene-Robert Cavelier, Sieur de la Salle was a French explorer who claimed all of the land along the Mississippi River Valley, including Kentucky, for France. In 1774 James Harrod founded the first permanent European settlement in Kentucky at the site of present-day Harrodsburg. On December 31, 1776, the region of Virginia beyond the Appalachian Mountains was established as Kentucky County by the Virginia General Assembly. During the 19th century, Kentucky slaveholders began to sell unneeded slaves to the Deep South, with Louisville becoming a major slave market and departure port for slaves being transported downriver. Although frequently described as never having seceded, representatives from 68 of 110 counties met at Russellville calling themselves the "Convention of the People of Kentucky" and passed an Ordinance of Secession on November 20, 1861. Though Kentucky was represented by the central star on the Confederate battle flag, it remained officially "neutral" throughout the war due to the Union sympathies of a majority of the Commonwealth's citizens.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10882352941176471, 0.49333333333333335, 0.1783132530120482, 0.11144578313253015]
+[0.014749262536873156, 0.06756756756756757, 0.024213075060532687, 0.01513317191283293]
+[0.07647058823529412, 0.3466666666666667, 0.12530120481927712, 0.0783132530120482]

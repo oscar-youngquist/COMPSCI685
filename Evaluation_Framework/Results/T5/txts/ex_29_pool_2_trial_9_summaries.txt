@@ -1,0 +1,15 @@
+Document:
+mississippi
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+is the state's 32nd largest and 34th-most populous metropolitan area . Greater Jackson is the state's capital and largest city .
+
+GT:
+Mississippi has a humid subtropical climate with long, hot and humid summers, and short, mild winters. Temperatures average about 81 °F (27 °C) in July and about 42 °F (6 °C) in January. The temperature varies little statewide in the summer; however, in winter, the region near Mississippi Sound is significantly warmer than the inland portion of the state. The recorded temperature in Mississippi has ranged from −19 °F (−28 °C), in 1966, at Corinth in the northeast, to 115 °F (46 °C), in 1930, at Holly Springs in the north. Heavy snowfall rarely occurs, but isn't unheard of, such as during the New Year's Eve 1963 snowstorm. Yearly precipitation generally increases from north to south, with the regions closer to the Gulf being the most humid. Small amounts of snow fall in northern and central Mississippi
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.05755395683453238, 0.36363636363636365, 0.09937888198757765, 0.062111801242236024]
+[0.007246376811594203, 0.047619047619047616, 0.012578616352201259, 0.007861635220125786]
+[0.04316546762589928, 0.2727272727272727, 0.07453416149068323, 0.04658385093167702]

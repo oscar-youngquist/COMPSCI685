@@ -1,0 +1,15 @@
+Document:
+georgia
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+is the 24th-largest in area and 8th-most populous of the 50 United States . Georgia () is a state in the Deep South region of the Southern United States, bordered to the north by Tennessee and North Carolina; to the northeast by South Carolina; to the southeast by the Atlantic Ocean; to the south by Florida; and to the west by Alabama . Georgia is the state's capital and its capital.
+
+GT:
+Atlanta now is even called the "Hollywood of the South". In the Atlanta area, World of Coke, Georgia Aquarium, Zoo Atlanta and Stone Mountain are important tourist attractions. Stone Mountain is Georgia's "most popular attraction"; receiving more than four million tourists per year. The Georgia Aquarium, in Atlanta, was the largest aquarium in the world in 2010 according to Guinness World Records. Callaway Gardens, in western Georgia, is a family resort. The area is also popular with golfers. The Savannah Historic District attracts more than eleven million tourists each year. The Golden Isles is a string of barrier islands off the Atlantic coast of Georgia near Brunswick that includes beaches, golf courses and the Cumberland Island National Seashore. Several sites honor the lives and careers of noted American leaders: the Little White House in Warm Springs, which served as the summer residence of President Franklin Delano Roosevelt while he was being treated for polio; President Jimmy Carter's hometown of Plains and the Carter Presidential Center in Atlanta; the Martin Luther King Jr. National Historical Park in Atlanta, which is the final resting place of Martin Luther King Jr. and Coretta Scott King; and Atlanta's Ebenezer Baptist Church, where Dr. King preached.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1568627450980392, 0.4507042253521127, 0.23272727272727275, 0.14545454545454548]
+[0.034482758620689655, 0.1, 0.05128205128205129, 0.03205128205128206]
+[0.11274509803921569, 0.323943661971831, 0.1672727272727273, 0.10454545454545455]

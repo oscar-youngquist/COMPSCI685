@@ -1,0 +1,15 @@
+Document:
+new_jersey
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+New Jersey is a state in the Mid-Atlantic region of the Northeastern United States . it is bordered on the north and east by the state of New York; on the east, southeast, and south by the Atlantic Ocean; on the west by the Delaware River and Pennsylvania; on the west by the Delaware River and Pennsylvania; and on the southwest by Delaware Bay and the State of Delaware .
+
+GT:
+As the glaciers retreated, they left behind Lake Passaic, as well as many rivers, swamps, and gorges. The Lenape were several autonomous groups that practiced maize agriculture in order to supplement their hunting and gathering in the region surrounding the Delaware River, the lower Hudson River, and western Long Island Sound. Some townships, such as Burlington on the Delaware River and Perth Amboy, emerged as important ports for shipping to New York City and Philadelphia. In the summer of 1783, the Continental Congress met in Nassau Hall at Princeton University, making Princeton the nation's capital for four months. Industrialization accelerated in the northern part of the state following completion of the Morris Canal in 1831. Edison's facilities, first at Menlo Park and then in West Orange, are considered perhaps the first research centers in the United States. Mines such as Mt. Hope, Mine Hill and the Rockaway Valley Mines created a thriving industry. The Federal Shipbuilding and Drydock Company yards in Kearny and Newark and the New York Shipbuilding Corporation yard in Camden produced aircraft carriers, battleships, cruisers, and destroyers. The Jersey Shore, along the Atlantic Coast in Central and South Jersey, has its own unique natural, residential, and cultural characteristics owing to its location by the ocean. The Oak Tree Road strip runs for about one-and-a-half miles through Edison and neighboring Iselin in Woodbridge Township, near the area's sprawling Chinatown and Koreatown, running along New Jersey Route 27.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1673469387755102, 0.5942028985507246, 0.2611464968152866, 0.16321656050955413]
+[0.06967213114754098, 0.25, 0.10897435897435896, 0.06810897435897435]
+[0.09387755102040816, 0.3333333333333333, 0.1464968152866242, 0.09156050955414013]

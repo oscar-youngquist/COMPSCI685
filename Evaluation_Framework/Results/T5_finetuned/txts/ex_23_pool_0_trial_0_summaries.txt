@@ -1,0 +1,15 @@
+Document:
+pennsylvania
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Pennsilfaani, offiziell das Commonwealth of Pennsylvania, ist ein Staat in den Regionen Mid-Atlantik, Appalachien und Große Seen des Nordostens der Vereinigten Staaten, grenzt an Delaware im Südosten, Maryland im Süden, West Virginia im Südwesten, Ohio im Westen, Lake Erie und die Kanadische Provinz Ontario im Nordwesten, New York im Norden und New York im Norden.
+
+GT:
+Pennsylvania's diverse topography also produces a variety of climates, though the entire state experiences cold winters and humid summers. Straddling two major zones, the majority of the state, except for the southeastern corner, has a humid continental climate (Köppen climate classification Dfa). The southern portion of the state has a humid subtropical climate. The largest city, Philadelphia, has some characteristics of the humid subtropical climate (Köppen Cfa) that covers much of Delaware and Maryland to the south. Summers are generally hot and humid. Moving toward the mountainous interior of the state, the winter climate becomes colder, the number of cloudy days increases, and snowfall amounts are greater. Western areas of the state, particularly locations near Lake Erie, can receive over 100 inches (250 cm) of snowfall annually, and the entire state receives plentiful precipitation throughout the year. Tornadoes occur annually in the state, sometimes in large numbers, such as 30 recorded tornadoes in 2011; generally speaking, these tornadoes do not cause significant damage.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.04819277108433735, 0.13333333333333333, 0.07079646017699115, 0.04424778761061946]
+[0.006060606060606061, 0.01694915254237288, 0.008928571428571428, 0.005580357142857143]
+[0.030120481927710843, 0.08333333333333333, 0.04424778761061947, 0.027654867256637166]

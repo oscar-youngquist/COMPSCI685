@@ -1,0 +1,15 @@
+Document:
+ohio
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Ohio is the 34th-largest by area, with nearly 11.7 million inhabitants . Ohio is bordered by Lake Erie to the north, Pennsylvania to the east, West Virginia to the southeast, Kentucky to the southwest . Ohio is bordered by Lake Erie to the north, West Virginia to the east, West Virginia to the southwest, Kentucky to the southwest .
+
+GT:
+Archeological evidence of spear points of both the Folsom and Clovis types indicate that the Ohio Valley was inhabited by nomadic people as early as 13,000 BC. These early nomads disappeared from Ohio by 1,000 BC. Around 100 BC, the Adena evolved into the Hopewell people who were also mound builders. The Hopewell disappeared from the Ohio Valley about 600 AD. The Mississippian Culture rose as the Hopewell Culture declined. All three cultures disappeared in the 17th century. As a result of the Treaty of Paris, the French ceded control of Ohio and the remainder of the Old Northwest to Great Britain. In the Treaty of Paris in 1783, Britain ceded all claims to Ohio country to the United States. The United States created the Northwest Territory under the Northwest Ordinance of 1787. The coalition of Native American tribes, known as the Western Confederacy, was forced to cede extensive territory, including much of present-day Ohio, in the Treaty of Greenville in 1795. In 1776, Putnam created a method of building portable fortifications, which enabled the Continental Army to drive the British from Boston. On February 19, 1803, US president Thomas Jefferson signed an act of Congress that approved Ohio's boundaries and constitution. Although no formal resolution of admission was required, when the oversight was discovered in 1953, as Ohio began preparations for celebrating its sesquicentennial, Ohio congressman George H. Bender introduced a bill in Congress to admit Ohio to the Union retroactive to March 1, 1803, the date on which the Ohio General Assembly first convened. Ohio has had three capital cities: Chillicothe, Zanesville, and Columbus. Chillicothe was the capital from 1803 to 1810. The capital was then moved to Zanesville for two years, as part of a state legislative compromise to get a bill passed. The capital was then moved back to Chillicothe, which was the capital from 1812 to 1816. Finally, the capital was moved to Columbus, to have it near the geographic center of the state. In 1835, Ohio fought with Michigan in the Toledo War, a mostly bloodless boundary war over the Toledo Strip.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.06818181818181818, 0.41379310344827586, 0.11707317073170731, 0.07317073170731707]
+[0.005698005698005698, 0.03508771929824561, 0.00980392156862745, 0.006127450980392157]
+[0.05965909090909091, 0.3620689655172414, 0.10243902439024391, 0.06402439024390245]

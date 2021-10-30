@@ -1,0 +1,15 @@
+Document:
+mississippi
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+is the state's 32nd largest and 34th-most populous metropolitan area . Greater Jackson is the state's capital and largest city .
+
+GT:
+Blacks and whites in Mississippi generated rich, quintessentially American music traditions: gospel music, country music, jazz, blues and rock and roll. All were invented, promulgated or heavily developed by Mississippi musicians, many of them African American, and most came from the Mississippi Delta. The state in 2010 had the highest proportion of African Americans in the nation. Public opinion polls have consistently ranked Mississippi as the most religious state in the United States, with 59% of Mississippians considering themselves "very religious". On August 30, 2007, a report by the United States Census Bureau indicated that Mississippi was the poorest state in the country. The state is creating a Mississippi Blues Trail, with dedicated markers explaining historic sites significant to the history of blues music, such as Clarksdale's Riverside Hotel, where Bessie Smith died after her auto accident on Highway 61.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.06382978723404255, 0.4090909090909091, 0.11042944785276074, 0.06901840490797546]
+[0.014285714285714285, 0.09523809523809523, 0.024844720496894408, 0.015527950310559004]
+[0.0425531914893617, 0.2727272727272727, 0.07361963190184048, 0.046012269938650305]

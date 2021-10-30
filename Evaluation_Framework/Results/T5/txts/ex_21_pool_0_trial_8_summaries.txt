@@ -1,0 +1,15 @@
+Document:
+maine
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 states .
+
+GT:
+During the later King Philip's War, many of these peoples would merge in one form or another to become the Wabanaki Confederacy, aiding the Wampanoag of Massachusetts & the Mahican of New York. Archeological evidence suggests that Norwegians in Greenland returned to North America for several centuries after the initial discovery to trade and collect timber, with the most relevant evidence being the Maine Penny, an 11th-century Norwegian coin found at a Native American dig site in 1954. Bubble Rock, a glacial erratic, is a large boulder perched on the edge of Bubble Mountain in Acadia National Park. By analyzing the type of granite, geologists discovered that glaciers carried Bubble Rock to its present location from near Lucerne, 30 miles (48 km) away. A citizen of Maine is known as a "Mainer", though the term is often reserved for those whose roots in Maine go back at least three generations. The term "Downeaster" may be applied to residents of the northeast coast of the state. The term "Mainiac" is considered by some to be derogatory, but embraced with pride by others, and is used for a variety of organizations and for events such as the YMCA Mainiac Sprint Triathlon & Duathlon.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0945273631840796, 0.4523809523809524, 0.15637860082304528, 0.0977366255144033]
+[0.015, 0.07317073170731707, 0.024896265560165973, 0.015560165975103735]
+[0.07462686567164178, 0.35714285714285715, 0.12345679012345678, 0.07716049382716049]

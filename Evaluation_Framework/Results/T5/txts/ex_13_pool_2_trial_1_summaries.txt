@@ -1,0 +1,15 @@
+Document:
+arizona
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+, Arizona is the 48th state and last of the contiguous states to be admitted to the Union . Arizona shares the Four Corners region with Utah, Colorado, and New Mexico; its other neighboring states are Nevada and California to the west and the Mexican states of Sonora and Baja California to the south and southwest. Arizona is the 48th state and last of the contiguous states to be admitted to the Union, achieving statehood.
+
+GT:
+Southern Arizona is known for its desert climate, with very hot summers and mild winters. Its climate has exceptionally hot summers and mild winters. Due to its large area and variations in elevation, the state has a wide variety of localized climate conditions. Typically, from late fall to early spring, the weather is mild, averaging a minimum of 60 °F (16 °C). November through February are the coldest months, with temperatures typically ranging from 40 to 75 °F (4 to 24 °C), with occasional frosts. Arizona has an average annual rainfall of 12.7 in (323 mm), which comes during two rainy seasons, with cold fronts coming from the Pacific Ocean during the winter and a monsoon in the summer. Arizona's northern third is a plateau at significantly higher altitudes than the lower desert, and has an appreciably cooler climate, with cold winters and mild summers, though the climate remains semiarid to arid. Extremely cold temperatures are not unknown; cold air systems from the northern states and Canada occasionally push into the state, bringing temperatures below 0 °F (−18 °C) to the state's northern parts. Indicative of the variation in climate, Arizona is the state which has both the metropolitan area with the most days over 100 °F (38 °C) (Phoenix), and the metropolitan area in the lower 48 states with the most days with a low temperature below freezing (Flagstaff).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17167381974248927, 0.547945205479452, 0.26143790849673204, 0.16339869281045752]
+[0.03017241379310345, 0.09722222222222222, 0.04605263157894737, 0.028782894736842108]
+[0.12017167381974249, 0.3835616438356164, 0.1830065359477124, 0.11437908496732027]

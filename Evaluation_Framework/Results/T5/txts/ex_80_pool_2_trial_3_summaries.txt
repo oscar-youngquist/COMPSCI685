@@ -1,0 +1,15 @@
+Document:
+illinois
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+a microcosm of the entire United States. Illinois ( (listen) IL--NOY) is a state in the Midwestern and Great Lakes regions of the United States . Illinois has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all states .
+
+GT:
+By 1900, the growth of industrial jobs in the northern cities and coal mining in the central and southern areas attracted immigrants from Eastern and Southern Europe. The Great Migration from the South established a large community of African Americans in the state, including Chicago, who founded the city's famous jazz and blues cultures. American Indians of successive cultures lived along the waterways of the Illinois area for thousands of years before the arrival of Europeans. Cahokia, the largest regional chiefdom and Urban Center of the Pre-Columbian Mississippian culture, was located near present-day Collinsville, Illinois. During the discussions leading up to Illinois's admission to the Union, the proposed northern boundary of the state was moved twice. Such a boundary would have left Illinois with no shoreline on Lake Michigan at all. However, as Indiana had successfully been granted a 10-mile (16 km) northern extension of its boundary to provide it with a usable lakefront, the original bill for Illinois statehood, submitted to Congress on January 23, 1818, stipulated a northern border at the same latitude as Indiana's, which is defined as 10 miles north of the southernmost extremity of Lake Michigan. However, the Illinois delegate, Nathaniel Pope, wanted more, and lobbied to have the boundary moved further north. The final bill passed by Congress included an amendment to shift the border to 42° 30' north, which is approximately 51 miles (82 km) north of the Indiana northern border. This shift added 8,500 square miles (22,000 km2) to the state, including the lead mining region near Galena. Though it was ostensibly a "free state", there was nonetheless slavery in Illinois. The ethnic French had owned black slaves since the 1720s, and American settlers had already brought slaves into the area from Kentucky.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0903010033444816, 0.574468085106383, 0.15606936416184972, 0.09754335260115608]
+[0.010067114093959731, 0.06521739130434782, 0.01744186046511628, 0.010901162790697673]
+[0.06020066889632107, 0.3829787234042553, 0.10404624277456648, 0.06502890173410406]

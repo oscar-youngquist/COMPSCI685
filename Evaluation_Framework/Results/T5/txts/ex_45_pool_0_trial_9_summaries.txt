@@ -1,0 +1,15 @@
+Document:
+maryland
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+(US: (listen) MERR--lnd) is a state in the Mid-Atlantic region of the Southern United States . Maryland (US: (listen) MERR--lnd) is a state in the Mid-Atlantic region of the Southern United States . It is bordering Virginia, West Virginia, and the District of Columbia to its south and west; Pennsylvania to its north; and Delaware and the Atlantic Ocean to its east.
+
+GT:
+Maryland (US: (listen) MERR-ə-lənd) is a state in the Mid-Atlantic region of the Southern United States, bordering Virginia, West Virginia, and the District of Columbia to its south and west; Pennsylvania to its north; and Delaware and the Atlantic Ocean to its east. The state's largest city is Baltimore, and its capital is Annapolis. The port ranked 17th in the US by tonnage in 2008. Many tourists visit Baltimore, the beaches of the Eastern Shore, and the nature of western Maryland. Attractions in Baltimore include the Harborplace, the Baltimore Aquarium, Fort McHenry, as well as the Camden Yards baseball stadium.Ocean City on the Atlantic Coast has been a popular beach destination in summer, particularly since the Chesapeake Bay Bridge was built in 1952 connecting the Eastern Shore to the more populated Maryland cities. Other attractions include the historic and picturesque towns along the Chesapeake Bay, such as Saint Mary's, Maryland's first colonial settlement and original capital.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3312883435582822, 0.84375, 0.47577092511013214, 0.2973568281938326]
+[0.2654320987654321, 0.6825396825396826, 0.3822222222222222, 0.2388888888888889]
+[0.26993865030674846, 0.6875, 0.3876651982378854, 0.2422907488986784]

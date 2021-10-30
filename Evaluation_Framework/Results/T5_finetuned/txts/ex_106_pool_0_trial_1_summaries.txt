@@ -1,0 +1,15 @@
+Document:
+oklahoma
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Oklahoma (listen)) is a state in the south central region of the United States . it is bordered by the state of Texas on the south and west, Kansas on the north, Missouri on the northeast, Arkansas on the east, New Mexico on the west, and Colorado on the northwest . a major city in the upland south is the Oklahomans (or colloquially "Okies"), which is the largest city in the world .
+
+GT:
+With ancient mountain ranges, prairie, mesas, and eastern forests, most of Oklahoma lies in the Great Plains, Cross Timbers, and the US In the Chickasaw language, the state is known as Oklahomma', in Arapaho as bo'oobe' (literally meaning red earth), Pawnee: Uukuhuúwa, and Cayuga: Gahnawiyoˀgeh. Where rainfall is sparse in the state's western regions, shortgrass prairie and shrublands are the most prominent ecosystems, though pinyon pines, red cedar (junipers), and ponderosa pines grow near rivers and creek beds in the panhandle's far western reaches. In 2010, Oklahoma City-based Love's Travel Stops & Country Stores ranked 18th on the Forbes list of largest private companies, Tulsa-based QuikTrip ranked 37th, and Oklahoma City-based Hobby Lobby ranked 198th in 2010 report. Oklahoma's centennial celebration was named the top event in the United States for 2007 by the American Bus Association, and consisted of multiple celebrations saving with the 100th anniversary of statehood on November 16, 2007. Annual ethnic festivals and events take place throughout the state such as Native American powwows and ceremonial events, and include festivals (as examples) in Scottish, Irish, German, Italian, Vietnamese, Chinese, Czech, Jewish, Arab, Mexican and African-American communities depicting cultural heritage or traditions. The NBA's New Orleans Hornets became the first major league sports franchise based in Oklahoma when the team was forced to relocate to Oklahoma City's Ford Center, now known as Chesapeake Energy Arena, for two seasons following Hurricane Katrina in 2005. The state has two primary newspapers. More than 12,000 miles (19,000 km) of roads make up the state's major highway skeleton, including state-operated highways, ten turnpikes or major toll roads, and the longest drivable stretch of Route 66 in the nation. Oklahoma had 598 incorporated places in 2010, including four cities over 100,000 in population and 43 over 10,000. In descending order of population, Oklahoma's largest cities in 2010 were: Oklahoma City (579,999, +14.6%), Tulsa (391,906, −0.3%), Norman (110,925, +15.9%), Broken Arrow (98,850, +32.0%), Lawton (96,867, +4.4%), Edmond (81,405, +19.2%), Moore (55,081, +33.9%), Midwest City (54,371, +0.5%), Enid (49,379, +5.0%), and Stillwater (45,688, +17.0%).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09762532981530343, 0.5285714285714286, 0.16481069042316257, 0.1030066815144766]
+[0.026455026455026454, 0.14492753623188406, 0.0447427293064877, 0.02796420581655481]
+[0.07387862796833773, 0.4, 0.12472160356347439, 0.0779510022271715]

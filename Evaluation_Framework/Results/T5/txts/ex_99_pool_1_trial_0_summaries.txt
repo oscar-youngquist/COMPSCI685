@@ -1,0 +1,15 @@
+Document:
+new_mexico
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+(neo-mexico: Nuevo México [nweo mexiko] (listen); Navajo: Yootó Hahoodzo [jotho hahotso]) is a state in the Southwestern region of the United States of America; its capital is Santa Fe, which was founded in 1610 as capital of Nuevo México (itself established as province of New Spain in 1598), while its
+
+GT:
+New Mexico (Spanish: Nuevo México [ˈnweβo ˈmexiko] (listen); Navajo: Yootó Hahoodzo [joː˩tʰo˥ ha˩hoː˩tso˩]) is a state in the Southwestern region of the United States of America; its capital is Santa Fe, which was founded in 1610 as capital of Nuevo México (itself established as a province of New Spain in 1598), while its largest city is Albuquerque with its accompanying metropolitan area. It is one of the Mountain States and shares the Four Corners region with Utah, Colorado, and Arizona. New Mexico is also bordered by the state of Texas to the east-southeast, Oklahoma to the northeast, and the Mexican states of Chihuahua to the south and Sonora to the southwest. State tax policy results in low to moderate taxation of resident personal income compared to most US states, with special consideration for military personnel, and gives tax credits and exemptions to favorable industries. New Mexico received its name long before the present-day nation of Mexico won independence from Spain and adopted that name in 1821. With a total area of 121,590 square miles (314,900 km2), New Mexico is the fifth-largest state. New Mexico's climate is generally semiarid to arid, though areas of continental and alpine climates exist, and its territory is mostly covered by mountains, high plains, and desert. New Mexico has five unique floristic zones, providing diverse sets of habitats for many plants and animals. In January 2016, New Mexico sued the United States Environmental Protection Agency over negligence after the 2015 Gold King Mine waste water spill. The United States Census Bureau estimates that the population of New Mexico was 2,096,829 on July 1, 2019, a 1.83% increase since the 2010 census. According to the 2010 US Census, 28.45% of the population age 5 and older speak Spanish at home, while 3.50% speak Navajo. The original state constitution of 1912 provided for a bilingual government with laws being published in both English and Spanish; this requirement was renewed twice, in 1931 and 1943. Oil and gas production, tourism, and federal government spending are important drivers of the state economy. New Mexico is the third-largest crude oil and ninth-largest natural gas producer in the United States.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12962962962962962, 0.9245283018867925, 0.22737819025522044, 0.14211136890951276]
+[0.11671087533156499, 0.8461538461538461, 0.20512820512820515, 0.1282051282051282]
+[0.12962962962962962, 0.9245283018867925, 0.22737819025522044, 0.14211136890951276]

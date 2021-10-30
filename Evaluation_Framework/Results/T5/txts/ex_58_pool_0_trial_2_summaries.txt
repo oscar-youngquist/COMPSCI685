@@ -1,0 +1,15 @@
+Document:
+missouri
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+, Missouri is the 21st-most extensive in area. Missouri is bordered by eight states (tied for the most with Tennessee): Iowa to the north, Illinois, Kentucky and Tennessee (via the Mississippi River) to the east, Arkansas to the south and Oklahoma, Kansas and Nebraska to the west.
+
+GT:
+St. Louis was founded soon after by French fur traders, Pierre Laclède and stepson Auguste Chouteau from New Orleans in 1764. Napoleon Bonaparte had gained Louisiana for French ownership from Spain in 1800 under the Treaty of San Ildefonso after it had been a Spanish colony since 1762. Louisiana remained nominally under Spanish control until a transfer of power to France on November 30, 1803, just three weeks before the cession to the United States. Part of the 1803 Louisiana Purchase by the United States, Missouri earned the nickname Gateway to the West because it served as a significant departure point for expeditions and settlers heading to the West during the 19th century. In 1821, the former Missouri Territory was admitted as a slave state, under the Missouri Compromise, and with a temporary state capital in St. Charles. In 1826, the capital was shifted to its current, permanent location of Jefferson City, also on the Missouri River. In 1836 the Platte Purchase was added to the northwest corner of the state after purchase of the land from the native tribes, making the Missouri River the border north of the Kansas River. In the face of Union General Lyon's rapid advance through the state, Jackson and Price were forced to flee the capital of Jefferson City on June 14, 1861. The Confederacy recognized Missouri secession on October 30, 1861.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11304347826086956, 0.5531914893617021, 0.18772563176895307, 0.11732851985559566]
+[0.021834061135371178, 0.10869565217391304, 0.036363636363636355, 0.022727272727272724]
+[0.07391304347826087, 0.3617021276595745, 0.12274368231046931, 0.07671480144404332]

@@ -1,0 +1,15 @@
+Document:
+west_virginia
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+is a state in the Appalachian and Mid-Atlantic regions of the Southern United States . West Virginia is bordered by Pennsylvania to the northeast, Maryland to the east and northeast, Virginia to the southeast, Kentucky to the southwest, and Ohio to the northwest . West Virginia is the 41st-largest state by area and ranks 38th in population .
+
+GT:
+It is also known for a wide range of outdoor recreational opportunities, including skiing, whitewater rafting, fishing, hiking, backpacking, mountain biking, rock climbing, and hunting. Many ancient man-made earthen mounds from various prehistoric mound builder cultures survive, especially in the areas of present-day Moundsville, South Charleston, and Romney. The artifacts uncovered in these give evidence of village societies. Spruce Knob lies within the Monongahela National Forest and is a part of the Spruce Knob-Senatorca Rocks National Recreation Area. Outside the forest to the south, the New River Gorge is a canyon 1,000 feet (300 m) deep, carved by the New River. The National Park Service manages a portion of the gorge and river that has been designated as the New River Gorge National Park and Preserve. Canaan Valley is popular for winter sports, Senatorca Rocks is one of the premier rock climbing destinations in the eastern US, the New River Gorge/Fayetteville area draws rock climbers as well as whitewater rafting enthusiasts, and the Monongahela National Forest is popular with hikers, backpackers, hunters, and anglers. West Virginia is the site of the National Radio Astronomy Observatory, which features the Green Bank Telescope.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12244897959183673, 0.42105263157894735, 0.18972332015810275, 0.11857707509881424]
+[0.035897435897435895, 0.125, 0.055776892430278883, 0.0348605577689243]
+[0.10204081632653061, 0.3508771929824561, 0.15810276679841898, 0.09881422924901187]

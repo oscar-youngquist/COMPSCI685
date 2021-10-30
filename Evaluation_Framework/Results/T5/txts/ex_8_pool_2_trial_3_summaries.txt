@@ -1,0 +1,15 @@
+Document:
+minnesota
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+is a state in the Upper Midwest, Great Lakes, and northern region of the United States . Minnesota ( (listen)) is a state in the Upper Midwest, Great Lakes, and northern region of the United States . Minnesota is the 12th largest in area and the 22nd most populous of the US states .
+
+GT:
+When Europeans arrived in North America, a subculture of Sioux called the Dakota people lived in Minnesota. The first Europeans to enter the region were French voyageurs, fur traders who arrived in the 17th century. The region was part of Spanish Louisiana from 1762 to 1802. The portion of the state east of the Mississippi River became part of the United States at the end of the American Revolutionary War, when the Second Treaty of Paris was signed. Land west of the Mississippi was acquired with the Louisiana Purchase, though part of the Red River Valley was disputed until the Treaty of 1818. Logging, farming and railroads were mainstays of Minnesota's early economy. The sawmills at Saint Anthony Falls and logging centers of Pine City, Marine on St. Croix, Stillwater, and Winona processed vast quantities of timber. The state's iron-mining industry was established with the discovery of iron in the Vermilion and Mesabi ranges in the 1880s, followed by the Cuyuna Range in the early 1900s. Industrial development and the rise of manufacturing caused the population to shift gradually from rural areas to cities during the early 20th century. After the war, industrial development quickened. New technology increased farm productivity through automation of feedlots for hogs and cattle, machine milking at dairy farms, and raising chickens in large buildings. Minnesota became a center of technology after World War II. Engineering Research Associates was formed in 1946 to develop computers for the United States Navy. It later merged with Remington Rand, and then became Sperry Rand.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11627906976744186, 0.6, 0.19480519480519481, 0.12175324675324677]
+[0.038910505836575876, 0.20408163265306123, 0.06535947712418301, 0.04084967320261438]
+[0.08527131782945736, 0.44, 0.14285714285714285, 0.08928571428571427]

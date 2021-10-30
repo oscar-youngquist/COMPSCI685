@@ -1,0 +1,15 @@
+Document:
+alabama
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+is the 30th largest by area and the 24th-most populous of the US states. Alabama is the 30th largest by area and the 24th-most populous of the US states. Alabama is nicknamed the Yellowhammer State, after the state bird.
+
+GT:
+With a total of 1,500 miles (2,400 km) of inland waterways, Alabama has among the most of any state. The suggestion that "Alabama" was borrowed from the Choctaw language is unlikely. Some scholars suggest the word comes from the Choctaw alba (meaning "plants" or "weeds") and amo (meaning "to cut", "to trim", or "to gather"). On January 11, 1861, Alabama declared its secession from the Union. After remaining an independent republic for a few days, it joined the Confederate States of America. Although comparatively few battles were fought in the state, Alabama contributed about 120,000 soldiers to the war effort. Areas in Alabama administered by the National Park Service include Horseshoe Bend National Military Park near Alexander City Alabama also contains the Natchez Trace Parkway, the Selma To Montgomery National Historic Trail, and the Trail of Tears National Historic Trail. Mobile is known for having the oldest organized Mardi Gras celebration in the United States, beginning in 1703. In 2018, Mobile's Mardi Gras parade was the state's top event, producing the most tourists with an attendance of 892,811. The top attraction was the US Space & Rocket Center in Huntsville with an attendance of 849,981, followed by the Birmingham Zoo with 543,090.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1291866028708134, 0.6585365853658537, 0.21600000000000003, 0.135]
+[0.019230769230769232, 0.1, 0.03225806451612903, 0.020161290322580645]
+[0.0861244019138756, 0.43902439024390244, 0.14400000000000002, 0.09000000000000001]

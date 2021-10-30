@@ -1,0 +1,15 @@
+Document:
+new_hampshire
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+New Hampshire () is a state in the New England region of the Northeastern United States . it is bordered by Massachusetts to the south, Vermont to the west, Maine and the Atlantic Ocean to the east . New Hampshire is the 5th smallest by area and the 10th least populous US state . Concord is the state capital, while Manchester is the largest city .
+
+GT:
+New Hampshire experiences a humid continental climate (Köppen climate classification Dfa in some southern areas, Dfb in most of the state, and Dfc subarctic in some northern highland areas), with warm, humid summers, and long, cold, and snowy winters. Precipitation is fairly evenly distributed all year. The climate of the southeastern portion is moderated by the Atlantic Ocean and averages relatively milder winters (for New Hampshire), while the northern and interior portions experience colder temperatures and lower humidity. Winters are cold and snowy throughout the state, and especially severe in the northern and mountainous areas. Average annual snowfall ranges from 60 inches (150 cm) to over 100 inches (250 cm) across the state. Average daytime highs are in the mid 70s°F to low 80s°F (24–28°C) throughout the state in July, with overnight lows in the mid 50s°F to low 60s°F (13–15°C). January temperatures range from an average high of 34 °F (1 °C) on the coast to overnight lows below 0 °F (−18 °C) in the far north and at high elevations. Average annual precipitation statewide is roughly 40 inches (100 cm) with some variation occurring in the White Mountains due to differences in elevation and annual snowfall. New Hampshire's highest recorded temperature was 106 °F (41 °C) in Nashua on July 4, 1911, while the lowest recorded temperature was −47 °F (−44 °C) atop Mount Washington on January 29, 1934. Extreme snow is often associated with a nor'easter, such as the Blizzard of '78 and the Blizzard of 1993, when several feet accumulated across portions of the state over 24 to 48 hours. Lighter snowfalls of several inches occur frequently throughout winter, often associated with an Alberta Clipper. New Hampshire, on occasion, is affected by hurricanes and tropical storms although by the time they reach the state they are often extratropical, with most storms striking the southern New England coastline and moving inland or passing by offshore in the Gulf of Maine. The National Arbor Day Foundation plant hardiness zone map depicts zones 3, 4, 5, and 6 occurring throughout the state and indicates the transition from a relatively cooler to warmer climate as one travels southward across New Hampshire.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10752688172043011, 0.6557377049180327, 0.18475750577367206, 0.11547344110854503]
+[0.026954177897574125, 0.16666666666666666, 0.046403712296983764, 0.029002320185614855]
+[0.07526881720430108, 0.45901639344262296, 0.12933025404157045, 0.08083140877598152]

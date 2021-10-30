@@ -1,0 +1,15 @@
+Document:
+oregon
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Oregon ( (listen) ORR-(ih)-gn) is a state in the Pacific Northwest region on the West Coast of the United States . Oregon delineates much of Oregon's northern boundary with Washington, while the Snake River delineates much of its eastern boundary with Idaho . Oregon has been home to many indigenous nations for thousands of years .
+
+GT:
+55% of state revenues are spent on public education, 23% on human services (child protective services, Medicaid, and senior services), 17% on public safety, and 5% on other services. In the 2013–2014 school year, the state had 567,000 students in public schools. In 2016, the largest school districts in the state were: Portland Public Schools, comprising 47,323 students; Salem-Keizer School District, comprising 40,565 students; Beaverton School District, comprising 39,625 students; Hillsboro School District, comprising 21,118 students; and North Clackamas School District, comprising 17,053 students. Approximately 90.5% of Oregon high school students graduate, improving on the national average of 88.3% as measured from the 2010 United States Census. Especially since the 1990 passage of Measure 5, which set limits on property tax levels, Oregon has struggled to fund higher education. Since then, Oregon has cut its higher education budget and now ranks 46th in the country in state spending per student. However, 2007 legislation funded the university system far beyond the governor's requested budget though still capping tuition increases at 3% per year. The state has three regional universities: Western Oregon University in Monmouth, Southern Oregon University in Ashland, and Eastern Oregon University in La Grande. Oregon is home to a wide variety of private colleges, the majority of which are located in the Portland area.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12389380530973451, 0.509090909090909, 0.19928825622775803, 0.12455516014234874]
+[0.02666666666666667, 0.1111111111111111, 0.04301075268817204, 0.026881720430107524]
+[0.07964601769911504, 0.32727272727272727, 0.12811387900355872, 0.0800711743772242]

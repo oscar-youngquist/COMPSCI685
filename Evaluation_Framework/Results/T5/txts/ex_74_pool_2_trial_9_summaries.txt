@@ -1,0 +1,15 @@
+Document:
+georgia
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+is the 24th-largest in area and 8th-most populous of the 50 United States . Georgia () is a state in the Deep South region of the Southern United States, bordered to the north by Tennessee and North Carolina; to the northeast by South Carolina; to the southeast by the Atlantic Ocean; to the south by Florida; and to the west by Alabama . Georgia is the state's capital and its capital.
+
+GT:
+The majority of the state is primarily a humid subtropical climate. Hot and humid summers are typical, except at the highest elevations. The entire state, including the North Georgia mountains, receives moderate to heavy precipitation, which varies from 45 inches (1143 mm) in central Georgia to approximately 75 inches (1905 mm) around the northeast part of the state. The degree to which the weather of a certain region of Georgia is subtropical depends on the latitude, its proximity to the Atlantic Ocean or Gulf of Mexico, and the elevation. The latter factor is felt chiefly in the mountainous areas of the northern part of the state, which are farther away from the ocean and can be 4500 feet (1350 m) above sea level. The USDA plant hardiness zones for Georgia range from zone 6b (no colder than −5 °F (−21 °C) ) in the Blue Ridge Mountains to zone 8b (no colder than 15 °F (−9 °C) ) along the Atlantic coast and Florida border. The highest temperature ever recorded is 112 °F (44.4 °C) in Louisville on July 24, 1952, while the lowest is −17 °F (−27.2 °C) in northern Floyd County on January 27, 1940. Georgia is one of the leading states in frequency of tornadoes, though they are rarely stronger than EF1. Although tornadoes striking the city are very rare, an EF2 tornado hit downtown Atlanta on March 14, 2008, causing moderate to severe damage to various buildings. With a coastline on the Atlantic Ocean, Georgia is also vulnerable to hurricanes, although direct hurricane strikes were rare during the 20th century. Georgia often is affected by hurricanes that strike the Florida Panhandle, weaken over land, and bring strong tropical storm winds and heavy rain to the interior, a recent example being Hurricane Michael, as well as hurricanes that come close to the Georgia coastline, brushing the coast on their way north without ever making landfall. Hurricane Matthew of 2016 and Hurricane Dorian of 2019 did just that. Due to anthropogenic Climate change the climate of Georgia is warming. This is already causing major disruption, for example, from sea level rise (Georgia is more vulnerable to it than many other states because the its land is sinking) and further warming will increase it.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12, 0.6338028169014085, 0.20179372197309414, 0.12612107623318386]
+[0.040106951871657755, 0.21428571428571427, 0.06756756756756756, 0.04222972972972972]
+[0.08533333333333333, 0.4507042253521127, 0.14349775784753363, 0.08968609865470852]

@@ -1,0 +1,15 @@
+Document:
+alabama
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+is the 30th largest by area and the 24th-most populous of the US states . Alabama is the 30th largest by area and the 24th-most populous of the US states . Alabama is also known as the "Heart of Dixie"
+
+GT:
+Public primary and secondary education in Alabama is under the purview of the Alabama State Board of Education as well as local oversight by 67 county school boards and 60 city boards of education. Together, 1,496 individual schools provide education for 744,637 elementary and secondary students. The rate of school corporal punishment in Alabama is surpassed by only Mississippi and Arkansas. Accreditation of academic programs is through the Southern Association of Colleges and Schools (SACS) as well as other subject-focused national and international accreditation agencies such as the Association for Biblical Higher Education (ABHE), the Council on Occupational Education (COE), and the Accrediting Council for Independent Colleges and Schools (ACICS). According to the 2011 US News & World Report, Alabama had three universities ranked in the top 100 Public Schools in America (University of Alabama at 31, Auburn University at 36, and University of Alabama at Birmingham at 73). According to the 2012 US News & World Report, Alabama had four tier one universities (University of Alabama, Auburn University, University of Alabama at Birmingham and University of Alabama in Huntsville).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1270718232044199, 0.575, 0.20814479638009054, 0.13009049773755657]
+[0.027777777777777776, 0.1282051282051282, 0.045662100456621, 0.02853881278538813]
+[0.09392265193370165, 0.425, 0.15384615384615383, 0.09615384615384613]

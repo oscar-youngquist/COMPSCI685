@@ -1,0 +1,15 @@
+Document:
+idaho
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+( (listen)) is a state in the Pacific Northwest region of the United States . Idaho ( (listen)) is a state in the Pacific Northwest region of the United States . It borders the state of Montana to the east and northeast, Wyoming to the east, Nevada and Utah to the south, and Washington and Oregon to the west . Idaho is the 14th largest, the 12th least populous and the 7th least densely populated of the 50 US states .
+
+GT:
+The official state nickname is the "Gem State", which references Idaho's natural beauty. Idaho has a state gambling lottery which contributed $333.5 million in payments to all Idaho public schools and Idaho higher education from 1990 to 2006. Idaho is among the few states in the nation without a major freeway linking its two largest metropolitan areas, Boise in the south and Coeur d'Alene in the north.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.34285714285714286, 0.32, 0.33103448275862074, 0.20689655172413796]
+[0.11594202898550725, 0.10810810810810811, 0.11188811188811189, 0.06993006993006994]
+[0.24285714285714285, 0.22666666666666666, 0.23448275862068965, 0.14655172413793102]

@@ -1,0 +1,15 @@
+Document:
+massachusetts
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Massachusetts ( (listen), ), officially known as the Commonwealth of Massachusetts, is the most populous state in the New England region of the Northeastern United States . Massachusetts is the most populous state in the New England region of the Northeastern United States . it borders on the Atlantic Ocean to the east, the states of Connecticut and Rhode Island to the south, New Hampshire and Vermont to the north, and New York to the west . Massachusetts is also the most populous city in New England, home to the Greater Boston metropolitan area
+
+GT:
+In 2018, Massachusetts's overall educational system was ranked the top among all fifty US states by US News & World Report. Massachusetts was the first state in North America to require municipalities to appoint a teacher or establish a grammar school with the passage of the Massachusetts Education Law of 1647, and 19th century reforms pushed by Horace Mann laid much of the groundwork for contemporary universal public education which was established in 1852. Massachusetts's per-student public expenditure for elementary and secondary schools was eighth in the nation in 2012, at $14,844. In 2013, Massachusetts scored highest of all the states in math and third-highest in reading on the National Assessment of Educational Progress. Massachusetts' public-school students place among the top tier in the world in academic performance. Massachusetts is home to 121 institutions of higher education. Harvard University and the Massachusetts Institute of Technology, both located in Cambridge, consistently rank among the world's best private universities and universities in general. Massachusetts is also home to three of the top five US News and World Report's best Liberal Arts Colleges: Williams College (#1), Amherst College (#2), and Wellesley College (#4). The public University of Massachusetts (nicknamed UMass) features five campuses in the state, with its flagship campus in Amherst, which enrolls more than 25,000.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.19369369369369369, 0.48314606741573035, 0.2765273311897106, 0.17282958199356915]
+[0.058823529411764705, 0.14772727272727273, 0.08414239482200647, 0.05258899676375406]
+[0.13963963963963963, 0.34831460674157305, 0.19935691318327975, 0.12459807073954984]

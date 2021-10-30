@@ -1,0 +1,15 @@
+Document:
+new_mexico
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+(neo-mexico: Nuevo México [nweo mexiko] (listen); Navajo: Yootó Hahoodzo [jotho hahotso]) is a state in the Southwestern region of the United States of America; its capital is Santa Fe, which was founded in 1610 as capital of Nuevo México (itself established as province of New Spain in 1598), while its
+
+GT:
+Due to their geographic locations, northern and eastern New Mexico exhibit a colder, alpine climate, while western and southern New Mexico exhibit a warmer, arid climate. New Mexico's climate is generally semiarid to arid, though areas of continental and alpine climates exist, and its territory is mostly covered by mountains, high plains, and desert. The Great Plains (High Plains) are in eastern New Mexico, similar to the Colorado high plains in eastern Colorado. New Mexico's statewide average precipitation is 12.9 inches (330 mm) a year, with average monthly amounts peaking in the summer, as at Albuquerque, and Las Cruces in the south. The average annual temperatures can range from 65 °F (18 °C) in the southeast to below 40 °F (4 °C) in the northern mountains. During the summer, daytime temperatures can often exceed 100 °F (38 °C) at elevations below 5,000 feet (1,500 m), the average high temperature in July ranges from 99 °F (37 °C) at the lower elevations down to 78 °F (26 °C) at the higher elevations. In the colder months of November to March, many cities in New Mexico can have nighttime temperature lows in the teens above zero, or lower.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07960199004975124, 0.3018867924528302, 0.1259842519685039, 0.07874015748031495]
+[0.005, 0.019230769230769232, 0.007936507936507938, 0.00496031746031746]
+[0.05472636815920398, 0.20754716981132076, 0.08661417322834644, 0.05413385826771652]

@@ -1,0 +1,15 @@
+Document:
+delaware
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Delaware ( (listen) DEL--wair) is a state in the Mid-Atlantic region of the United States . Delaware ( (listen) DEL--wair) is a state in the Mid-Atlantic region of the United States . Delaware ( (listen) DEL--wair is a state in the Mid-Atlantic region of the United States, bordering Maryland to its south and west; Pennsylvania to its north; and New Jersey and
+
+GT:
+Delaware is home to First State National Historical Park, a National Park Service unit composed of historic sites across the state including the New Castle Court House, Green, and Sheriff's House, Dover Green, Beaver Valley, Fort Christina, Old Swedes' Church, John Dickinson Plantation, and the Ryves Holt House. Delaware has several museums, wildlife refuges, parks, houses, lighthouses, and other historic places. Rehoboth Beach, together with the towns of Lewes, Dewey Beach, Bethany Beach, South Bethany, and Fenwick Island, comprise Delaware's beach resorts. Some of the more notable festivals are the Riverfest held in Seaford, the World Championship Punkin Chunkin formerly held at various locations throughout the state since 1986, the Rehoboth Beach Chocolate Festival, the Bethany Beach Jazz Funeral to mark the end of summer, the Apple Scrapple Festival held in Bridgeville, the Clifford Brown Jazz Festival in Wilmington, the Rehoboth Beach Jazz Festival, the Sea Witch Halloween Festival and Parade in Rehoboth Beach, the Rehoboth Beach Independent Film Festival, the Nanticoke Indian Pow Wow in Oak Orchard, Firefly Music Festival, and the Return Day Parade held after every election in Georgetown. Dover International Speedway is a race track in Dover, and Frawley Stadium in Wilmington is the home of the Wilmington Blue Rocks, a Minor League Baseball team. The University of Delaware's football team has a large following throughout the state, with the Delaware State University and Wesley College teams also enjoying a smaller degree of support. Delaware is home to Dover International Speedway and Dover Downs.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13545816733067728, 0.5396825396825397, 0.2165605095541401, 0.13535031847133758]
+[0.012, 0.04838709677419355, 0.019230769230769232, 0.01201923076923077]
+[0.08764940239043825, 0.3492063492063492, 0.14012738853503184, 0.08757961783439491]

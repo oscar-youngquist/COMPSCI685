@@ -1,0 +1,15 @@
+Document:
+kansas
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Kansas ( (listen)) is a US state in the Midwestern United States . it is bordered by Nebraska to the north Kansas is named after the Kansas River . the tribe's name (natively kk:ze) is often said to mean "people of the (south) wind"
+
+GT:
+Its attractions include the Kansas Speedway, Sporting Kansas City, Kansas City T-Bones, Schlitterbahn, and The Legends at Village West retail and entertainment center. Nearby, Kansas's first settlement Bonner Springs is home to several national and regional attractions including the Providence Medical Center Amphitheather, the National Agricultural Center and Hall of Fame, and the annual Kansas City Renaissance Festival. The city of Atchison was an early commercial center in the state and is well known as the birthplace of Amelia Earhart. Built at a Kansas River crossing along the old Oregon Trail, this historic city has several nationally registered historic places. Further westward along Interstate 70 and the Kansas River is Junction City with its historic limestone and brick buildings and nearby Fort Riley, well known as the home to the US Army's 1st Infantry Division (nicknamed "the Big Red One"). It is also the home of Kansas Cosmosphere and Space Center, Prairie Dunes Country Club and the Kansas State Fair. Southeast Kansas has a unique history with a number of nationally registered historic places in this coal-mining region. Along with the restored fort, historic Fort Scott has a national cemetery designated by President Lincoln in 1862. To the west is Lucas, the Grassroots Art Capital of Kansas. The city of Hays is home to Fort Hays State University and the Sternberg Museum of Natural History, and is the largest city in the northwest with a population of around 20,001.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09836065573770492, 0.5581395348837209, 0.16724738675958187, 0.10452961672473866]
+[0.0205761316872428, 0.11904761904761904, 0.03508771929824562, 0.02192982456140351]
+[0.07377049180327869, 0.4186046511627907, 0.1254355400696864, 0.078397212543554]

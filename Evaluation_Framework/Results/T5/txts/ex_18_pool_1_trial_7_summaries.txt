@@ -1,0 +1,15 @@
+Document:
+vermont
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Vermont ( (listen)) is a northeastern state in the New England region of the United States . it borders the states of Massachusetts to the south, New Hampshire to the east, and New York to the west . Vermont is the sixth-smallest by area of the 50 US states .
+
+GT:
+The state's climate is characterized by warm, humid summers and cold, snowy winters. Vermont has a humid continental climate, with muddy springs, in general a mild early summer, hot Augusts; it has colorful autumns: Vermont's hills reveal red, orange, and (on sugar maples) gold foliage as cold weather approaches. Winters are colder at higher elevations. It has a Köppen climate classification of Dfb, a warm humid continental climate. The highest recorded temperature was 105 °F (41 °C), at Vernon, on July 4, 1911. The lowest recorded temperature was −50 °F (−46 °C), at Bloomfield, on December 30, 1933; this is the lowest temperature recorded in New England alongside Big Black River, which recorded a verified −50 °F (−46 °C) in 2009.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14516129032258066, 0.3829787234042553, 0.2105263157894737, 0.13157894736842105]
+[0.024390243902439025, 0.06521739130434782, 0.03550295857988166, 0.02218934911242603]
+[0.08064516129032258, 0.2127659574468085, 0.11695906432748539, 0.07309941520467836]

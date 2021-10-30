@@ -1,0 +1,15 @@
+Document:
+montana
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Montana ( (listen)) is a state in the Northwestern United States. it is bordered by Idaho to the west; North Dakota and South Dakota to the east; Wyoming to the south; and by the Canadian provinces of Alberta, British Columbia, and Saskatchewan to the north. Montana ( (listen)) is a state in the Northwestern United States. it is bordered by Idaho to the west; North Dakota and South Dakota to the east; South Dakota to the east; Wyoming to the south; and by the Canadian provinces of
+
+GT:
+Montana's Constitution specifically reads, "the state recognizes the distinct and unique cultural heritage of the American Indians and is committed in its educational goals to the preservation of their cultural integrity." It is the only state in the US with such a constitutional mandate. The Indian Education for All Act was passed in 1999 to provide funding for this mandate and ensure implementation. It mandates that all schools teach American Indian history, culture, and heritage from preschool through college. For kindergarten through 12th-grade students, an "Indian Education for All" curriculum from the Montana Office of Public Instruction is available free to all schools. Each Indian reservation in the state has a fully accredited tribal college. The University of Montana "was the first to establish dual admission agreements with all of the tribal colleges and as such it was the first institution in the nation to actively facilitate student transfer from the tribal colleges." Higher education is overseen by a governor-appointed Board of Regents, which in turn appoints a commissioner of higher education. The Office of the Commissioner of Higher Education acts in an executive capacity on behalf of the regents, and oversees the state-run Montana University System.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.20398009950248755, 0.4823529411764706, 0.2867132867132867, 0.17919580419580416]
+[0.025, 0.05952380952380952, 0.0352112676056338, 0.022007042253521125]
+[0.13432835820895522, 0.3176470588235294, 0.1888111888111888, 0.118006993006993]

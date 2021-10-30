@@ -1,0 +1,15 @@
+Document:
+missouri
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+, Missouri is the 21st-most extensive in area. Missouri is bordered by eight states (tied for the most with Tennessee): Iowa to the north, Illinois, Kentucky and Tennessee (via the Mississippi River) to the east, Arkansas to the south and Oklahoma, Kansas and Nebraska to the west.
+
+GT:
+Missouri played a central role in the westward expansion of the United States, as memorialized by the Gateway Arch. Springfield is the headquarters of the Assemblies of God USA and the Baptist Bible Fellowship International. Hindu Temple of St. Louis is the largest Hindu Temple in Missouri, serving more than 14,000 Hindus. The Mississippi River and Missouri River are commercially navigable over their entire lengths in Missouri. The flagship institution and largest university in the state is the University of Missouri in Columbia. The Kansas City Symphony and the St. Louis Symphony Orchestra are the state's major orchestras.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2, 0.425531914893617, 0.272108843537415, 0.17006802721088435]
+[0.030303030303030304, 0.06521739130434782, 0.041379310344827586, 0.02586206896551724]
+[0.14, 0.2978723404255319, 0.1904761904761905, 0.11904761904761905]

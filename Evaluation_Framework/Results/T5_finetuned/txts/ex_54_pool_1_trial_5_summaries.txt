@@ -1,0 +1,15 @@
+Document:
+texas
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Texas (, also locally ; Spanish: Texas or Tejas, pronounced [texas] (listen)) is a state in the South Central Region of the United States . It is the second largest US state by both area (after Alaska) and population (after California). Texas shares borders with the states of Louisiana to the east, Arkansas to the northeast, Oklahoma to the north, New Mexico to the west, and the Mexican states of Chihuahua, Coahuila, Nuevo León
+
+GT:
+Mexico controlled the territory until 1836 when Texas won its independence, becoming the Republic of Texas. In 1845, Texas joined the union as the 28th state. The state's annexation set off a chain of events that led to the Mexican–American War in 1846. A slave state before the American Civil War, Texas declared its secession from the US in early 1861, and officially joined the Confederate States of America on March 2 of the same year. The first historical document related to Texas was a map of the Gulf Coast, created in 1519 by Spanish explorer Alonso Álvarez de Pineda. Cabeza de Vaca reported that in 1528, when the Spanish landed in the area, "half the natives died from a disease of the bowels and blamed us." European powers ignored the area until accidentally settling there in 1685. In 1821, the Mexican War of Independence included the Texas territory, which became part of Mexico. The Anahuac Disturbances in 1832 were the first open revolt against Mexican rule, and they coincided with a revolt in Mexico against the nation's president. Texians met at the Convention of 1832 to discuss requesting independent statehood, among other issues. The following year, Texians reiterated their demands at the Convention of 1833. On December 29, 1845, Congress admitted Texas to the US as a constituent state of the Union. The current Texas Constitution was adopted in 1876.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15384615384615385, 0.5, 0.23529411764705882, 0.14705882352941177]
+[0.034334763948497854, 0.11267605633802817, 0.052631578947368425, 0.03289473684210526]
+[0.10683760683760683, 0.3472222222222222, 0.16339869281045752, 0.10212418300653595]

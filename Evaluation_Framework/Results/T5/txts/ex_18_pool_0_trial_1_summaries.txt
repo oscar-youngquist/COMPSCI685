@@ -1,0 +1,15 @@
+Document:
+maine
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 states .
+
+GT:
+There is a humid continental climate throughout most of the state, including coastal areas. Maine has a humid continental climate (Köppen climate classification Dfb), with warm and sometimes humid summers, and long, cold and very snowy winters. Winters are especially severe in the Northern and Western parts of Maine, while coastal areas are moderated slightly by the Atlantic Ocean, resulting in marginally milder winters and cooler summers than inland regions. Daytime highs are generally in the 75–80 °F (24–27 °C) range throughout the state in July, with overnight lows in the high 50s °F (around 15 °C). Most severe thunderstorms and tornadoes occur in the Sebago Lakes & Foothills region of the state. Annual precipitation varies from 909 mm (35.8 in) in Presque Isle, to 1,441 mm (56.7 in) in Acadia National Park.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13768115942028986, 0.4523809523809524, 0.2111111111111111, 0.13194444444444442]
+[0.014598540145985401, 0.04878048780487805, 0.022471910112359553, 0.01404494382022472]
+[0.10144927536231885, 0.3333333333333333, 0.15555555555555556, 0.09722222222222222]

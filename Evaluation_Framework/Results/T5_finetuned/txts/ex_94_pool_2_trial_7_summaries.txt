@@ -1,0 +1,15 @@
+Document:
+missouri
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+, Missouri is the 21st-most extensive in area . Missouri is bordered by eight states (tied for the most with Tennessee): Iowa to the north, Illinois, Kentucky and Tennessee (via the Mississippi River) to the east, Arkansas to the south and Oklahoma to the west . Kansas and Nebraska to the west are the largest urban areas .
+
+GT:
+Missouri generally has a humid continental climate with cool, sometimes cold, winters and hot, humid, and wet summers. In the southern part of the state, particularly in the Bootheel, the climate becomes humid subtropical. Located in the interior United States, Missouri often experiences extreme temperatures. Without high mountains or oceans nearby to moderate temperature, its climate is alternately influenced by air from the cold Arctic and the hot and humid Gulf of Mexico. Missouri's highest recorded temperature is 118 °F (48 °C) at Warsaw and Union on July 14, 1954, while the lowest recorded temperature is −40 °F (−40 °C) also at Warsaw on February 13, 1905. Located in Tornado Alley, Missouri also receives extreme weather in the form of severe thunderstorms and tornadoes.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.168, 0.38181818181818183, 0.2333333333333333, 0.14583333333333334]
+[0.0, 0.0, 0.0, 0.0]
+[0.104, 0.23636363636363636, 0.14444444444444443, 0.09027777777777778]

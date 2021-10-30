@@ -1,0 +1,15 @@
+Document:
+arkansas
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+is a state in the south central United States, home to more than three million people as of 2018. Arkansas () is a state in the south central United States, home to more than three million people as of 2018. Its name is from the Osage language, of Siouan derivation; it denotes their related kin, the Quapaw people. Arkansas () is a state in the south central United States, home to more than three million people as of 2018. Its name is from the Osage
+
+GT:
+The state supports a network of public universities and colleges, including two major university systems: Arkansas State University System and University of Arkansas System. In the 1920s the state required all children to attend public schools. The school year was set at 131 days, although some areas were unable to meet that requirement. Generally prohibited in the West at large, school corporal punishment is not unusual in Arkansas, with 20,083 public school students paddled at least one time, according to government data for the 2011–12 school year. The state's educational system has a history of underfunding, low teachers' salaries and political meddling in the curriculum. Through reforms, the state is a leader in requiring curricula designed to prepare students for postsecondary education, rewarding teachers for student achievement, and providing incentives for principals who work in lower-tier schools.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.19148936170212766, 0.3253012048192771, 0.24107142857142858, 0.15066964285714282]
+[0.02857142857142857, 0.04878048780487805, 0.036036036036036036, 0.022522522522522525]
+[0.12056737588652482, 0.20481927710843373, 0.15178571428571427, 0.09486607142857142]

@@ -1,0 +1,15 @@
+Document:
+texas
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Texas (, also locally ; Spanish: Texas or Tejas, pronounced [texas] (listen)) is a state in the South Central Region of the United States . It is the second largest US state by both area (after Alaska) and population (after California). Texas shares borders with the states of Louisiana to the east, Arkansas to the northeast, Oklahoma to the north, New Mexico to the west, and the Mexican states of Chihuahua, Coahuila, Nuevo León
+
+GT:
+Archaeologists have found that three major indigenous cultures lived in this territory, and reached their developmental peak before the first European contact. The region was primarily controlled by the Spanish for the first couple centuries of contact, until the Texas Revolution. When the United States purchased Louisiana from France in 1803, American authorities insisted the agreement also included Texas. Austin's settlers, the Old Three Hundred, made places along the Brazos River in 1822. In early 1835, wary Texians formed Committees of Correspondence and Safety. This launched the Texas Revolution, and over the next two months the Texians defeated all Mexican troops in the region. After a series of United States victories, the Treaty of Guadalupe Hidalgo ended the two-year war. In return, for US$18,250,000, Mexico gave the US undisputed control of Texas, ceded the Mexican Cession in 1848, most of which today is called the American Southwest, and Texas's borders were established at the Rio Grande. On February 1, by a vote of 166–8, the Convention adopted an Ordinance of Secession from the United States. While far from the major battlefields of the American Civil War, Texas contributed large numbers of men and equipment to the rest of the Confederacy. In 1900, Texas suffered the deadliest natural disaster in US history during the Galveston hurricane. The Great Depression and the Dust Bowl dealt a double blow to the state's economy, which had significantly improved since the Civil War. On November 22, 1963, President John F. Kennedy was assassinated in Dallas. Beginning around the mid-20th century, Texas began to transform from a rural and agricultural state to one urban and industrialized. From the mid 2000s–2019, Texas gained an influx of business relocations and regional headquarters from companies in California. During COVID-19 pandemic in the United States, the first confirmed case of the virus in Texas was announced on March 4, 2020. As of December 28, 2020, there had been 1.7 million confirmed cases in Texas, with at least 27,245 deaths.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12573099415204678, 0.5972222222222222, 0.2077294685990338, 0.12983091787439613]
+[0.026392961876832845, 0.1267605633802817, 0.043689320388349516, 0.027305825242718445]
+[0.0847953216374269, 0.4027777777777778, 0.14009661835748793, 0.08756038647342995]

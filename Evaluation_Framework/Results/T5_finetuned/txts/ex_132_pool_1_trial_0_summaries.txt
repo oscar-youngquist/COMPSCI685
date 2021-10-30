@@ -1,0 +1,15 @@
+Document:
+maine
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Maine ( (listen)) is a state in the New England region of the Northeastern United States . it is bordered by New Hampshire to the west; the Atlantic Ocean to the southeast; and the Canadian provinces of New Brunswick and Quebec to the northeast and northwest . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states .
+
+GT:
+Maine is known for its jagged, rocky coastline; low, rolling mountains; heavily forested interior; picturesque waterways; and its seafood cuisine, especially lobster and clams. Its most populous city is Portland, and its capital is Augusta. To the south and east is the Atlantic Ocean and to the north and northeast is New Brunswick, a province of Canada. Its Quoddy Head Lighthouse is also the closest place in the United States to Africa and Europe. Estcourt Station is Maine's northernmost point, as well as the northernmost point in New England. Maine's Moosehead Lake is the largest lake wholly in New England, since Lake Champlain is located between Vermont, New York and Québec. A number of other Maine lakes, such as South Twin Lake, are described by Thoreau in The Maine Woods (1864). Mount Katahdin is the northern terminus of the Appalachian Trail, which extends southerly to Springer Mountain, Georgia, and the southern terminus of the new International Appalachian Trail which, when complete, will run to Belle Isle, Newfoundland and Labrador. Machias Seal Island and North Rock, off the state's Downeast coast, are claimed by both Canada and the American town of Cutler, and are within one of four areas between the two countries whose sovereignty is still in dispute, but it is the only one of the disputed areas containing land. Also in this easternmost area in the Bay of Fundy is the Old Sow, the largest tidal whirlpool in the Western Hemisphere. Maine has almost 230 miles (400 km) of coastline (and 3,500 miles (5,600 km) of tidal coastline). Along the famous rock-bound coast of Maine are lighthouses, beaches, fishing villages, and thousands of offshore islands, including the Isles of Shoals which straddle the New Hampshire border. This visual contrast of forested slopes sweeping down to the sea has been summed up by American poet Edna St. Vincent Millay of Rockland and Camden, Maine, in "Renascence":
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14551083591331268, 0.7121212121212122, 0.24164524421593828, 0.15102827763496143]
+[0.059006211180124224, 0.2923076923076923, 0.09819121447028423, 0.06136950904392765]
+[0.08978328173374613, 0.4393939393939394, 0.14910025706940874, 0.09318766066838047]

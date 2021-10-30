@@ -1,0 +1,15 @@
+Document:
+idaho
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+( (listen)) is a state in the Pacific Northwest region of the United States . Idaho ( (listen)) is a state in the Pacific Northwest region of the United States . It borders the state of Montana to the east and northeast, Wyoming to the east, Nevada and Utah to the south, and Washington and Oregon to the west . Idaho is the 14th largest, the 12th least populous and the 7th least densely populated of the 50 US states .
+
+GT:
+For thousands of years Idaho has been inhabited by Native American peoples. The name's origin remains a mystery. Idaho borders six US states and one Canadian province. The landscape is rugged with some of the largest unspoiled natural areas in the United States. Idaho has two time zones, with the dividing line approximately midway between Canada and Nevada. Humans may have been present in the Idaho area as long as 14,500 years ago. Idaho is an important agricultural state, producing nearly one-third of the potatoes grown in the United States. Today, Idaho's largest industry is the science and technology sector. In 2014, Idaho emerged as the second most small business friendly state, ranking behind Utah, based on a study drawing upon data from more than 12,000 small business owners. As of 2017, the primary energy source in Idaho was hydropower, and the energy companies had a total retail sales of 23,793,790 megawatthours (MWh). Idaho is among the few states in the nation without a major freeway linking its two largest metropolitan areas, Boise in the south and Coeur d'Alene in the north. Central Idaho is home to one of North America's oldest ski resorts, Sun Valley, where the world's first chairlift was installed in 1936.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.21395348837209302, 0.6133333333333333, 0.31724137931034485, 0.1982758620689655]
+[0.07476635514018691, 0.21621621621621623, 0.11111111111111109, 0.06944444444444445]
+[0.13953488372093023, 0.4, 0.2068965517241379, 0.1293103448275862]

@@ -1,0 +1,15 @@
+Document:
+alaska
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+( (listen); Alaska ( (listen); Alaska ( (listen); Aleut: Alaxsxax; Inupiaq: Alaasikaq; Pacific Gulf Yupik: Alaasikaq; Tlingit: Anáaski) is a US state on the northwest extremity of the country's West Coast, just across the Bering Strait . Alaska ( (listen); Aleut: Alaxsxax; Aleu
+
+GT:
+The Russians were the first Europeans to settle the area beginning in the 18th century, eventually establishing Russian America, which spanned most of the current state. It was admitted as the 49th state of the US on January 3, 1959. The first European vessel to reach Alaska is generally held to be the St. Gabriel under the authority of the surveyor M. S. Gvozdev and assistant navigator I. Fyodorov on August 21, 1732, during an expedition of Siberian cossack A. F. Shestakov and Russian explorer Dmitry Pavlutsky (1729–1735). William H. Seward, the United States Secretary of State, negotiated the Alaska Purchase (also known as Seward's Folly) with the Russians in 1867 for $7.2 million. Starting in the 1890s and stretching in some places to the early 1910s, gold rushes in Alaska and the nearby Yukon Territory brought thousands of miners and settlers to Alaska. On March 27, 1964, the massive Good Friday earthquake killed 133 people and destroyed several villages and portions of large coastal communities, mainly by the resultant tsunamis and landslides. The 1968 discovery of oil at Prudhoe Bay and the 1977 completion of the Trans-Alaska Pipeline System led to an oil boom. In 1989, the Exxon Valdez hit a reef in the Prince William Sound, spilling more than 11 million US gallons (42 megaliters) of crude oil over 1,100 miles (1,800 km) of coastline. Built around 1915, the Alaska Railroad (ARR) played a key role in the development of Alaska through the 20th century.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.05533596837944664, 0.35, 0.0955631399317406, 0.059726962457337884]
+[0.003968253968253968, 0.02564102564102564, 0.006872852233676976, 0.0042955326460481094]
+[0.039525691699604744, 0.25, 0.06825938566552901, 0.042662116040955635]

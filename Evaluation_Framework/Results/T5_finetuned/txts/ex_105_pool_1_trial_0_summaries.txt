@@ -1,0 +1,15 @@
+Document:
+minnesota
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Minnesota ( (listen)) is a state in the Upper Midwest, Great Lakes, and northern region of the United States . Minnesota is the 12th largest in area and the 22nd most populous of the US states . Nearly 55% of its residents live in the Minneapolis–Saint Paul metropolitan area (listen)) .
+
+GT:
+Owners of real property in Minnesota pay property tax to their county, municipality, school district, and special taxing districts. Minnesota's commitment to education has contributed to a literate and well-educated populace. In 2013, nationwide in per-student public education spending, Minnesota ranked 21st. While Minnesota has chosen not to implement school vouchers, it is home to the first charter school. The state supports a network of public universities and colleges, including 37 institutions in the Minnesota State Colleges and Universities System, and five major campuses of the University of Minnesota system. It is also home to more than 20 private colleges and universities, six of which rank among the nation's top 100 liberal arts colleges, according to US News & World Report.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1693548387096774, 0.4375, 0.2441860465116279, 0.15261627906976744]
+[0.016260162601626018, 0.0425531914893617, 0.023529411764705885, 0.01470588235294118]
+[0.11290322580645161, 0.2916666666666667, 0.1627906976744186, 0.10174418604651161]

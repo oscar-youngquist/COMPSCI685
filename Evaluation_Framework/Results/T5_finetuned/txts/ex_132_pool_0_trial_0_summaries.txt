@@ -1,0 +1,15 @@
+Document:
+florida
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Florida ( (listen), Spanish pronunciation: [floia]) is a state located in the southeastern region of the United States . with a population of over 21 million, Florida is the third-most populous and the 22nd-most extensive of the 50 United States . the state is bordered to the west by the Gulf of Mexico, to the northwest by Alabama, to the north by Georgia, to the east by the Atlantic Ocean, and to the south by the Straits of Florida .
+
+GT:
+It is internationally known for golf, tennis, auto racing, and water sports. Several beaches in Florida have turquoise and emerald-colored coastal waters. At 345 feet (105 m) above mean sea level, Britton Hill is the highest point in Florida and the lowest highpoint of any US state. The state has more than 26,000 square miles (67,000 km2) of forests, covering about half of the state's land area. The Walt Disney World Resort is the most visited vacation resort in the world with more than 58 million visitors annually, consisting of four theme parks, 27 themed resort hotels, nine non-Disney hotels, two water parks, four golf courses and other recreational venues. Other major theme parks in the area include Universal Orlando Resort, SeaWorld Orlando and Busch Gardens Tampa. The Everglades Agricultural Area is a major center for agriculture. Major ports in Florida include Port Tampa Bay in Tampa, Port Everglades in Fort Lauderdale, Port of Jacksonville in Jacksonville, PortMiami in Miami, Port Canaveral in Brevard County, Port Manatee in Manatee County, and Port of Palm Beach in Riviera Beach. Florida has the largest collection of Art Deco and Streamline Moderne buildings, both in the United States and in the entire world, most of which are located in the Miami metropolitan area, especially Miami Beach's Art Deco District, constructed as the city was becoming a resort destination. A unique architectural design found only in Florida is the post-World War II Miami Modern, which can be seen in areas such as Miami's MiMo Historic District. Being of early importance as a regional center of banking and finance, the architecture of Jacksonville displays a wide variety of styles and design principles.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14385964912280702, 0.5256410256410257, 0.22589531680440772, 0.14118457300275483]
+[0.03873239436619718, 0.14285714285714285, 0.06094182825484763, 0.038088642659279776]
+[0.08771929824561403, 0.32051282051282054, 0.13774104683195593, 0.08608815426997245]

@@ -1,0 +1,15 @@
+Document:
+colorado
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Colorado ( (listen), other variants) is a state in the western United States encompassing most of the southern Rocky Mountains . it is the 8th most extensive and 21st most populous US state . the estimated population of Colorado is 5,758,736 as of 2019, an increase of 14.5% since the 2010 United States Census .
+
+GT:
+The region has been inhabited by Native Americans for more than 13,000 years, with the Lindenmeier Site containing artifacts dating from approximately 9200 BCE to 1000 BCE; the eastern edge of the Rocky Mountains was a major migration route for early peoples who spread throughout the Americas. The Rocky Mountains within Colorado contain 53 true peaks with a total of 58 that are 14,000 feet (4,267 m) or higher in elevation above sea level, known as fourteeners. Much of the alpine snow melts by mid-August with the exception of a few snow-capped peaks and a few small glaciers. The Western Slope area of Colorado includes the western face of the Rocky Mountains and all of the state to the western border. Just west of the plains and into the foothills, there are a wide variety of climate types. Locations merely a few miles apart can experience entirely different weather depending on the topography.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12658227848101267, 0.37037037037037035, 0.18867924528301888, 0.1179245283018868]
+[0.025477707006369428, 0.07547169811320754, 0.03809523809523809, 0.023809523809523808]
+[0.0949367088607595, 0.2777777777777778, 0.14150943396226418, 0.0884433962264151]

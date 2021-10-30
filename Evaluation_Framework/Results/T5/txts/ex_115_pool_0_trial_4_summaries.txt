@@ -1,0 +1,15 @@
+Document:
+pennsylvania
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Pennsilfaani, offiziell Pennsylvania, ist ein Staat in den Regionen Mid-Atlantik, Appalachien und Große Seen des Nordostens der Vereinigten Staaten.
+
+GT:
+Pennsylvania is home to the nation's first zoo, the Philadelphia Zoo. Other long-accredited AZA zoos include the Erie Zoo and the Pittsburgh Zoo & PPG Aquarium. Pennsylvania offers a number of notable amusement parks, including Camel Beach, Conneaut Lake Park, Dorney Park & Wildwater Kingdom, Dutch Wonderland, DelGrosso's Amusement Park, Hersheypark, Idlewild Park, Kennywood, Knoebels, Lakemont Park, Sandcastle Waterpark, Sesame Place, Great Wolf Lodge and Waldameer Park. There are also notable music festivals that take place in Pennsylvania. Pennsylvania is home to many major league professional sports teams: the Philadelphia Phillies and Pittsburgh Pirates of Major League Baseball, the Philadelphia 76ers of the National Basketball Association, the Pittsburgh Steelers and Philadelphia Eagles of the National Football League, the Philadelphia Flyers and Pittsburgh Penguins of the National Hockey League, and the Philadelphia Union of Major League Soccer. The US chocolate industry is centered in Hershey, Pennsylvania, with Mars, Godiva, and Wilbur Chocolate Company nearby, and smaller manufacturers such as Asher's in Souderton, and Gertrude Hawk Chocolates of Dunmore.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.011834319526627219, 0.09523809523809523, 0.021052631578947368, 0.013157894736842105]
+[0.0, 0.0, 0.0, 0.0]
+[0.011834319526627219, 0.09523809523809523, 0.021052631578947368, 0.013157894736842105]

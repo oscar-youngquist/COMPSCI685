@@ -1,0 +1,15 @@
+Document:
+arizona
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+, Arizona is the 48th state and last of the contiguous states to be admitted to the Union . Arizona shares the Four Corners region with Utah, Colorado, and New Mexico; its other neighboring states are Nevada and California to the west and the Mexican states of Sonora and Baja California to the south and southwest. Arizona is the 48th state and last of the contiguous states to be admitted to the Union, achieving statehood.
+
+GT:
+It is the 6th largest and the 14th most populous of the 50 states. Arizona is the 48th state and last of the contiguous states to be admitted to the Union, achieving statehood on February 14, 1912. About one-quarter of the state is made up of Indian reservations that serve as the home of 27 federally recognized Native American tribes, including the Navajo Nation, the largest in the state and the United States, with more than 300,000 citizens. Its climate has exceptionally hot summers and mild winters. The state is less well known for its pine-covered north-central portion of the high country of the Colorado Plateau (see Arizona Mountains forests). Located in northern Arizona, the Grand Canyon is a colorful, deep, steep-sided gorge, carved by the Colorado River. Arizona is one of two US states (Hawaii being the other) that do not observe Daylight Saving Time. Generally, Arizona is at low risk of earthquakes, except for the southwestern portion which is at moderate risk due to its proximity to southern California.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.26136363636363635, 0.6301369863013698, 0.36947791164658633, 0.23092369477911642]
+[0.13142857142857142, 0.3194444444444444, 0.18623481781376516, 0.11639676113360323]
+[0.19318181818181818, 0.4657534246575342, 0.27309236947791166, 0.17068273092369474]

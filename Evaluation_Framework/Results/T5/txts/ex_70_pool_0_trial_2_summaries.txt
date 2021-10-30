@@ -1,0 +1,15 @@
+Document:
+pennsylvania
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Pennsilfaani, offiziell Pennsylvania, ist ein Staat in den Regionen Mid-Atlantik, Appalachien und Große Seen des Nordostens der Vereinigten Staaten.
+
+GT:
+The forest is located in the northwest part of the state in Elk, Forest, McKean, and Warren Counties for the purposes of timber production and watershed protection in the Allegheny River basin. American Baptist Churches USA (Northern Baptist Convention) is based in King of Prussia, Pennsylvania. Bethlehem, Pennsylvania, is one of the headquarters of the Moravian Church in America. The Pennsylvania Academy of the Fine Arts is the first and oldest art school in the United States. Pennsylvania is home to the nation's first zoo, the Philadelphia Zoo. Pennsylvania is also home to the National Aviary, located in Pittsburgh. Pennsylvania also is home to the largest indoor waterpark resort on the East Coast, Splash Lagoon in Erie. These include Musikfest and NEARfest in Bethlehem, the Philadelphia Folk Festival, Creation Festival, the Great Allentown Fair, and Purple Door. Pennsylvania is considered one of the finest wild turkey hunting states in the Union, alongside Texas and Alabama. The dam impounds the Allegheny River near Downtown Pittsburgh. Pennsylvania is home to many major league professional sports teams: the Philadelphia Phillies and Pittsburgh Pirates of Major League Baseball, the Philadelphia 76ers of the National Basketball Association, the Pittsburgh Steelers and Philadelphia Eagles of the National Football League, the Philadelphia Flyers and Pittsburgh Penguins of the National Hockey League, and the Philadelphia Union of Major League Soccer. PGA tournaments in Pennsylvania include the 84 Lumber Classic, played at Nemacolin Woodlands Resort, in Farmington and the Northeast Pennsylvania Classic, played at Glenmaura National Golf Club, in Moosic. Philadelphia is home to LOVE Park, once a popular spot for skateboarding, and across from City Hall, host to ESPN's X Games in 2001 and 2002. The US chocolate industry is centered in Hershey, Pennsylvania, with Mars, Godiva, and Wilbur Chocolate Company nearby, and smaller manufacturers such as Asher's in Souderton, and Gertrude Hawk Chocolates of Dunmore. Traditional Pennsylvania Dutch foods include chicken potpie, ham potpie, schnitz un knepp (dried apples, ham, and dumplings), fasnachts (raised doughnuts), scrapple, pretzels, bologna, chow-chow, and Shoofly pie. Among the regional foods associated with Philadelphia are cheesesteaks, hoagie, soft pretzels, Italian water ice, Irish potato candy, scrapple, Tastykake, and strombolis. Erie also has its share of unique foods, including Greek sauce and sponge candy.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.005333333333333333, 0.09523809523809523, 0.010101010101010102, 0.006313131313131313]
+[0.0, 0.0, 0.0, 0.0]
+[0.005333333333333333, 0.09523809523809523, 0.010101010101010102, 0.006313131313131313]

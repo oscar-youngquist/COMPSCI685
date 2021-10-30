@@ -1,0 +1,15 @@
+Document:
+louisiana
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+the capital of Baton Rouge, and its largest city is Baton Rouge . Louisiana is a state in the Deep South region of the South Central United States . it is the 19th-smallest by area and the 25th most populous of the 50 US states .
+
+GT:
+Louisiana is home to over 40 public and private colleges and universities, including Louisiana State University in Baton Rouge and Tulane University in New Orleans. Louisiana's two oldest and largest HBCUs (Historically black colleges and universities) are Southern University in Baton Rouge and Grambling State University in Grambling. Both these Southwestern Athletic Conference (SWAC) schools compete against each other in football annually in the much anticipated Bayou Classic during Thanksgiving weekend in the Mercedes-Benz Superdome. The Louisiana Science Education Act is a controversial law passed by the Louisiana Legislature on June 11, 2008, and signed into law by Governor Bobby Jindal on June 25. In 2000, of all of the states, Louisiana had the highest percentage of students in private schools. The number of students in enrolled in private schools in Louisiana declined by 9% from circa 2000-2005 until 2014, due to the proliferation of charter schools, the 2008 recession and Hurricane Katrina. Louisiana's school voucher program is known as the Louisiana Scholarship Program.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15476190476190477, 0.5909090909090909, 0.24528301886792456, 0.15330188679245285]
+[0.041916167664670656, 0.16279069767441862, 0.06666666666666667, 0.041666666666666664]
+[0.10714285714285714, 0.4090909090909091, 0.16981132075471697, 0.1061320754716981]

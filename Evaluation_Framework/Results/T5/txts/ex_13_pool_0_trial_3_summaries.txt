@@ -1,0 +1,15 @@
+Document:
+maryland
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+(US: (listen) MERR--lnd) is a state in the Mid-Atlantic region of the Southern United States . Maryland (US: (listen) MERR--lnd) is a state in the Mid-Atlantic region of the Southern United States . It is bordering Virginia, West Virginia, and the District of Columbia to its south and west; Pennsylvania to its north; and Delaware and the Atlantic Ocean to its east.
+
+GT:
+Maryland has a wide array of climates, due to local variances in elevation, proximity to water, and protection from colder weather due to downslope winds. Precipitation in the state is characteristic of the East Coast. Annual rainfall ranges from 35 to 45 inches (890 to 1,140 mm) with more in higher elevations. Nearly every part of Maryland receives 3.5–4.5 inches (89–114 mm) per month of rain. Average annual snowfall varies from 9 inches (23 cm) in the coastal areas to over 100 inches (250 cm) in the western mountains of the state. Because of its location near the Atlantic Coast, Maryland is somewhat vulnerable to tropical cyclones, although the Delmarva Peninsula and the outer banks of North Carolina provide a large buffer, such that strikes from major hurricanes (category 3 or above) occur infrequently. More often, Maryland gets the remnants of a tropical system which has already come ashore and released most of its energy. Maryland averages around 30–40 days of thunderstorms a year, and averages around six tornado strikes annually.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1694915254237288, 0.46875, 0.24896265560165975, 0.15560165975103735]
+[0.03409090909090909, 0.09523809523809523, 0.0502092050209205, 0.03138075313807531]
+[0.1016949152542373, 0.28125, 0.14937759336099585, 0.09336099585062241]

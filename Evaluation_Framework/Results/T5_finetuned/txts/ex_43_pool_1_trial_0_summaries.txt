@@ -1,0 +1,15 @@
+Document:
+alabama
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+is the 30th largest by area and the 24th-most populous of the US states . Alabama is the 30th largest by area and the 24th-most populous of the US states . Alabama is nicknamed the Yellowhammer State, after the state bird .
+
+GT:
+Public primary and secondary education in Alabama is under the purview of the Alabama State Board of Education as well as local oversight by 67 county school boards and 60 city boards of education. Public school funding is appropriated through the Alabama Legislature through the Education Trust Fund. In FY 2006–2007, Alabama appropriated $3,775,163,578 for primary and secondary education. In 2007, more than 82 percent of schools made adequate yearly progress (AYP) toward student proficiency under the National No Child Left Behind law, using measures determined by the state of Alabama. Alabama's programs of higher education include 14 four-year public universities, two-year community colleges, and 17 private, undergraduate and graduate universities. Public, post-secondary education in Alabama is overseen by the Alabama Commission on Higher Education and the Alabama Department of Postsecondary Education. Accreditation of academic programs is through the Southern Association of Colleges and Schools (SACS) as well as other subject-focused national and international accreditation agencies such as the Association for Biblical Higher Education (ABHE), the Council on Occupational Education (COE), and the Accrediting Council for Independent Colleges and Schools (ACICS).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11052631578947368, 0.5121951219512195, 0.1818181818181818, 0.11363636363636362]
+[0.031746031746031744, 0.15, 0.05240174672489083, 0.03275109170305677]
+[0.08947368421052632, 0.4146341463414634, 0.14718614718614717, 0.09199134199134198]

@@ -1,0 +1,15 @@
+Document:
+arizona
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+, Arizona is the 48th state and last of the contiguous states to be admitted to the Union . Arizona shares the Four Corners region with Utah, Colorado, and New Mexico; its other neighboring states are Nevada and California to the west and the Mexican states of Sonora and Baja California to the south and southwest. Arizona is the 48th state and last of the contiguous states to be admitted to the Union, achieving statehood.
+
+GT:
+For thousands of years before the modern era, Arizona was home to many Native American tribes. What is now known as the state of Arizona was initially administered by the United States government as part of the Territory of New Mexico until the southern part of that region seceded from the Union to form the Territory of Arizona. The Federal government declared a new US Arizona Territory, consisting of the western half of earlier New Mexico Territory, in Washington, D.C., on February 24, 1863. Brigham Young, patriarchal leader of The Church of Jesus Christ of Latter-day Saints in Salt Lake City in Utah, sent Mormons to Arizona in the mid- to late 19th century. During the nineteenth century, a series of gold and silver rushes occurred in the territory, the best known being the 1870s stampede to the silver bonanzas of Tombstone, Arizona in southeast Arizona, also known for its legendary outlaws and lawmen. During the Mexican Revolution from 1910 to 1920, several battles were fought in the Mexican towns just across the border from Arizona settlements. Arizona became a US state on February 14, 1912, coincidentally Valentine's Day. Numerous Native Americans from Arizona fought for the United States during World War II. Arizona's population grew tremendously with residential and business development after World War II, aided by the widespread use of air conditioning, which made the intensely hot summers more comfortable. In the 1960s, retirement communities were developed. In March 2000, Arizona was the site of the first legally binding election ever held over the internet to nominate a candidate for public office.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1455223880597015, 0.5342465753424658, 0.22873900293255134, 0.1429618768328446]
+[0.026217228464419477, 0.09722222222222222, 0.04129793510324484, 0.02581120943952803]
+[0.1044776119402985, 0.3835616438356164, 0.16422287390029328, 0.10263929618768328]

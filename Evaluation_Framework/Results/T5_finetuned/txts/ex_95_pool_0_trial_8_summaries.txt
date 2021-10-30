@@ -1,0 +1,15 @@
+Document:
+new_jersey
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+New Jersey is a state in the Mid-Atlantic region of the Northeastern United States . it is bordered on the north and east by the state of New York; on the east, southeast, and south by the Atlantic Ocean; on the west by the Delaware River and Pennsylvania; on the west by the Delaware River and Pennsylvania; on the southwest by Delaware Bay and the State of Delaware . New Jersey is the fourth-smallest state by area but the 11th-most populous, with 8,882,190 residents as
+
+GT:
+The Meadowlands Sports Complex is home to the Meadowlands Racetrack, one of three major harness racing tracks in the state. The Meadowlands Racetrack and Freehold Raceway in Freehold are two of the major harness racing tracks in North America. Monmouth Park Racetrack in Oceanport is a popular spot for thoroughbred racing in New Jersey and the northeast. It hosted the Breeders' Cup in 2007, and its turf course was renovated in preparation. There is also a mineral museum Ogdensburg in Sussex County. Visitors and residents take advantage of and contribute to performances at the numerous music, theater, and dance companies and venues located throughout the state, including: New Jersey is the location of most of the boardwalks in the US, with nearly every town and city along the Jersey Shore area each having a boardwalk with various attractions, entertainment, shopping, dining, miniature golf, arcades, water parks with various water rides, including water slides, lazy rivers, wave pools, etc., and amusement parks hosting rides and attractions including roller coasters, carousels, Ferris wheels, bumper cars, teacups, etc.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.22285714285714286, 0.4431818181818182, 0.2965779467680609, 0.18536121673003805]
+[0.05747126436781609, 0.11494252873563218, 0.07662835249042145, 0.047892720306513405]
+[0.13714285714285715, 0.2727272727272727, 0.18250950570342206, 0.11406844106463879]

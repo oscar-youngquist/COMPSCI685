@@ -1,0 +1,15 @@
+Document:
+arkansas
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Arkansas () is a state in the south central United States, home to more than three million people as of 2018 . it is home to more than three million people as of 2018 . its name is from the Osage language, of Siouan derivation; it denoted their related kin, the Quapaw people .
+
+GT:
+The northwestern corner of the state, including the Fayetteville–Springdale–Rogers Metropolitan Area and Fort Smith metropolitan area, is a population, education, and economic center. Arkansas's culture is observable in museums, theaters, novels, television shows, restaurants, and athletic venues across the state. This region is a flat landscape of rich alluvial soils formed by repeated flooding of the adjacent Mississippi. A narrow band of rolling hills, Crowley's Ridge rises 250 to 500 feet (76 to 152 m) above the surrounding alluvial plain and underlies many of eastern Arkansas's major towns. The state's highest point is Mount Magazine in the Ouachita Mountains, which is 2,753 feet (839 m) above sea level. Arkansas is home to many caves, such as Blanchard Springs Caverns. These areas are set aside for outdoor recreation and are open to hunting, fishing, hiking, and primitive camping. A 2010 United States Forest Service survey determined 18,720,000 acres (7,580,000 ha) of Arkansas's land is forestland, or 56% of the state's total area. Art and history museums display pieces of cultural value for Arkansans and tourists to enjoy. Several historic town sites have been restored as Arkansas state parks, including Historic Washington State Park, Powhatan Historic State Park, and Davidsonville Historic State Park. Festivals such as the King Biscuit Blues Festival and Bikes, Blues, and BBQ pay homage to the history of blues in the state. Although the University of Arkansas is based in Fayetteville, the Razorbacks have always played at least one game per season at War Memorial Stadium in Little Rock in an effort to keep fan support in central and south Arkansas.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07971014492753623, 0.44, 0.13496932515337423, 0.0843558282208589]
+[0.02181818181818182, 0.12244897959183673, 0.037037037037037035, 0.02314814814814815]
+[0.06159420289855073, 0.34, 0.10429447852760737, 0.06518404907975461]

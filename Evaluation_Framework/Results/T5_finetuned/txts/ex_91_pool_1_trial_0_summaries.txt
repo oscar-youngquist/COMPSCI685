@@ -1,0 +1,15 @@
+Document:
+hawaii
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Hawaii encompasses nearly the entire Hawaiian archipelago, composed of 137 volcanic islands spanning 1,500 miles (2,400 km) the only state outside North America, the only island state, and the only state in the tropics . Hawaii is also one of a handful of US states to have once been an independent nation .
+
+GT:
+Hawaii has the only school system within the US that is unified statewide. Policy decisions are made by the fourteen-member state Board of Education, which sets policy and hires the superintendent of schools, who oversees the state Department of Education. The Department of Education is divided into seven districts Public elementary, middle and high school test scores in Hawaii are below national averages on tests mandated under the No Child Left Behind Act. The Hawaii Board of Education requires all eligible students to take these tests and report all student test scores. This may have unbalanced the results that reported in August 2005 that of 282 schools across the state, 185 failed to reach federal minimum performance standards in mathematics and reading. The ACT college placement tests show that in 2005, seniors scored slightly above the national average (21.9 compared with 20.9), but in the widely accepted SAT examinations, Hawaii's college-bound seniors tend to score below the national average in all categories except mathematics. The first native controlled public charter school was the Kanu O Ka Aina New Century Charter School.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11290322580645161, 0.39622641509433965, 0.17573221757322174, 0.1098326359832636]
+[0.010810810810810811, 0.038461538461538464, 0.016877637130801686, 0.010548523206751054]
+[0.08602150537634409, 0.3018867924528302, 0.13389121338912136, 0.08368200836820085]

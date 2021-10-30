@@ -1,0 +1,15 @@
+Document:
+north_dakota
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+North Dakota ( (listen)) is a state in the Midwestern United States . it is named after the Lakota and Dakota Sioux Native American tribes . it is the nineteenth largest in area, the fourth least populous, and the fourth most sparsely populated of the 50 states . it is the fourth least populous, and the fourth most sparsely populated of the 50 states .
+
+GT:
+Soil is North Dakota's most precious resource. Petroleum was discovered in the state in 1951 and quickly became one of North Dakota's most valuable mineral resources. The first European to reach the area was the French-Canadian trader Pierre Gaultier, sieur de La Vérendrye, who led an exploration and trading party to the Mandan villages in 1738. guided by Assiniboine Indians. North Dakota is one of the top resettlement locations for refugees proportionally. North Dakota has the most churches per capita of any state. Additionally, North Dakota has the highest percentage of church-going population of any state. North Dakota is the only state with a state-owned bank, the Bank of North Dakota in Bismarck, and a state-owned flour mill, the North Dakota Mill and Elevator in Grand Forks. As of 2012, Fargo is home to the second-largest campus of Microsoft with 1,700 employees, and Amazon.com employs several hundred in Grand Forks. The state is the largest producer in the US of many cereal grains, including barley (36% of US crop), durum wheat (58%), hard red spring wheat (48%), oats (17%), and combined wheat of all types (15%). "The Flickertail State" is one of North Dakota's nicknames and is derived from Richardson's ground squirrel (Spermophilus richardson ii), a very common animal in the region.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14732142857142858, 0.55, 0.2323943661971831, 0.14524647887323944]
+[0.03587443946188341, 0.13559322033898305, 0.05673758865248227, 0.03546099290780142]
+[0.10714285714285714, 0.4, 0.16901408450704225, 0.10563380281690142]

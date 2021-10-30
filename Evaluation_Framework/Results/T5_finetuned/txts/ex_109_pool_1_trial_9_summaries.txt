@@ -1,0 +1,15 @@
+Document:
+oregon
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Oregon ( (listen) ORR-(ih)-gn) is a state in the Pacific Northwest region on the West Coast of the United States . Oregon delineates much of Oregon's northern boundary with Washington, while the Snake River delineates much of its eastern boundary with Idaho . Oregon has been home to many indigenous nations for thousands of years .
+
+GT:
+55% of state revenues are spent on public education, 23% on human services (child protective services, Medicaid, and senior services), 17% on public safety, and 5% on other services. In the 2013–2014 school year, the state had 567,000 students in public schools. There were 197 public school districts, served by 19 education service districts. In 2016, the largest school districts in the state were: Portland Public Schools, comprising 47,323 students; Salem-Keizer School District, comprising 40,565 students; Beaverton School District, comprising 39,625 students; Hillsboro School District, comprising 21,118 students; and North Clackamas School District, comprising 17,053 students. Approximately 90.5% of Oregon high school students graduate, improving on the national average of 88.3% as measured from the 2010 United States Census. Since then, Oregon has cut its higher education budget and now ranks 46th in the country in state spending per student. Oregon is home to a wide variety of private colleges, the majority of which are located in the Portland area.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1411764705882353, 0.43636363636363634, 0.21333333333333332, 0.13333333333333333]
+[0.03550295857988166, 0.1111111111111111, 0.053811659192825115, 0.033632286995515695]
+[0.08823529411764706, 0.2727272727272727, 0.13333333333333333, 0.08333333333333334]

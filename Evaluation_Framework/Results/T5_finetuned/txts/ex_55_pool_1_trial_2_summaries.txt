@@ -1,0 +1,15 @@
+Document:
+louisiana
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Louisiana is a state in the Deep South region of the South Central United States . it is the 19th-smallest by area and the 25th most populous of the 50 US states . Louisiana is bordered by the state of Texas to the west, Arkansas to the north, Mississippi to the east, and the Gulf of Mexico to the south .
+
+GT:
+Louisiana is home to over 40 public and private colleges and universities, including Louisiana State University in Baton Rouge and Tulane University in New Orleans. Louisiana State University is the largest and most comprehensive university in Louisiana. Tulane University is a major private research university and the wealthiest university in Louisiana with an endowment over $1.1 billion. Louisiana's two oldest and largest HBCUs (Historically black colleges and universities) are Southern University in Baton Rouge and Grambling State University in Grambling. The Louisiana Science Education Act is a controversial law passed by the Louisiana Legislature on June 11, 2008, and signed into law by Governor Bobby Jindal on June 25. The act allows public school teachers to use supplemental materials in the science classroom which are critical of established science on such topics as the theory of evolution and global warming. In 2000, of all of the states, Louisiana had the highest percentage of students in private schools. The number of students in enrolled in private schools in Louisiana declined by 9% from circa 2000-2005 until 2014, due to the proliferation of charter schools, the 2008 recession and Hurricane Katrina. Louisiana's school voucher program is known as the Louisiana Scholarship Program. It was available in the New Orleans area beginning in 2008 and in the rest of the state beginning in 2012. In 2013 the number of students using school vouchers to attend private schools was 6,751, and for 2014 it was projected to over 8,800. As per a ruling from Ivan Lemelle, a US district judge, the federal government has the right to review the charter school placements to ensure they do not further racial segregation.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1347517730496454, 0.6440677966101694, 0.22287390029325516, 0.13929618768328444]
+[0.03914590747330961, 0.1896551724137931, 0.06489675516224189, 0.040560471976401176]
+[0.09219858156028368, 0.4406779661016949, 0.15249266862170088, 0.09530791788856305]

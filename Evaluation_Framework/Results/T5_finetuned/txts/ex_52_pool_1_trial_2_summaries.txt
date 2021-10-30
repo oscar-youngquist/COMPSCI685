@@ -1,0 +1,15 @@
+Document:
+hawaii
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Hawaii encompasses nearly the entire Hawaiian archipelago, composed of 137 volcanic islands spanning 1,500 miles (2,400 km) the only state outside North America, the only island state, and the only state in the tropics. Hawaii is also one of a handful of US states to have once been an independent nation.
+
+GT:
+State Senatortor Sam Slom says state taxes are comparatively higher than other states because the state government handles education, health care, and social services that are usually handled at a county or municipal level in most other states. Hawaii has the only school system within the US that is unified statewide. Policy decisions are made by the fourteen-member state Board of Education, which sets policy and hires the superintendent of schools, who oversees the state Department of Education. The Department of Education is divided into seven districts Public elementary, middle and high school test scores in Hawaii are below national averages on tests mandated under the No Child Left Behind Act. The Hawaii Board of Education requires all eligible students to take these tests and report all student test scores. Kalawao County has no elected government, and as mentioned above there are no local school districts and instead all local public education is administered at the state level by the Hawaii Department of Education.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13333333333333333, 0.41509433962264153, 0.2018348623853211, 0.12614678899082568]
+[0.006097560975609756, 0.019230769230769232, 0.00925925925925926, 0.005787037037037038]
+[0.07878787878787878, 0.24528301886792453, 0.11926605504587155, 0.07454128440366972]

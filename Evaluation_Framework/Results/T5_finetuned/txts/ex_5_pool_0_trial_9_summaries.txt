@@ -1,0 +1,15 @@
+Document:
+new_hampshire
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+New Hampshire () is a state in the New England region of the Northeastern United States . it is bordered by Massachusetts to the south, Vermont to the west, Maine and the Atlantic Ocean to the east . New Hampshire is the 5th smallest by area and the 10th least populous US state . Concord is the state capital, while Manchester is the largest city .
+
+GT:
+New Hampshire's workforce is 90% in nonfarm employment, with 18% employed in trade, transportation, and utilities; 17% in education and health care; 12% in government; 11% in professional and business services; and 10% in leisure and hospitality. New Hampshire has more than 80 public high schools, many of which serve more than one town. The largest is Pinkerton Academy in Derry, which is owned by a private non-profit organization and serves as the public high school of a number of neighboring towns. There are at least 30 private high schools in the state. New Hampshire is also the home of several prestigious university-preparatory schools, such as Phillips Exeter Academy, St. Paul's School, Proctor Academy, Brewster Academy, and Kimball Union Academy. In 2008 the state tied with Massachusetts as having the highest scores on the SAT and ACT standardized tests given to high school students. New Hampshire has two universities competing at the NCAA Division I in all collegiate sports: the Dartmouth Big Green (Ivy League) and the New Hampshire Wildcats (America East Conference), as well as three NCAA Division II teams: Franklin Pierce Ravens, Saint Anselm Hawks and Southern New Hampshire Penmen (Northeast-10 Conference). Annually since 2002, high-school statewide all-stars compete against Vermont in ten sports during "Twin State" playoffs.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15668202764976957, 0.5573770491803278, 0.24460431654676257, 0.1528776978417266]
+[0.037037037037037035, 0.13333333333333333, 0.057971014492753624, 0.036231884057971016]
+[0.0967741935483871, 0.3442622950819672, 0.1510791366906475, 0.09442446043165469]

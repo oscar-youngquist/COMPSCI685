@@ -1,0 +1,15 @@
+Document:
+new_hampshire
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+is a state in the New England region of the Northeastern United States . New Hampshire is bordered by Massachusetts to the south, Vermont to the west, Maine and the Atlantic Ocean to the east . New Hampshire is the 5th smallest by area and the 10th least populous US state .
+
+GT:
+New Hampshire experiences a humid continental climate (Köppen climate classification Dfa in some southern areas, Dfb in most of the state, and Dfc subarctic in some northern highland areas), with warm, humid summers, and long, cold, and snowy winters. Winters are cold and snowy throughout the state, and especially severe in the northern and mountainous areas. Average annual snowfall ranges from 60 inches (150 cm) to over 100 inches (250 cm) across the state. Average daytime highs are in the mid 70s°F to low 80s°F (24–28°C) throughout the state in July, with overnight lows in the mid 50s°F to low 60s°F (13–15°C). January temperatures range from an average high of 34 °F (1 °C) on the coast to overnight lows below 0 °F (−18 °C) in the far north and at high elevations. Average annual precipitation statewide is roughly 40 inches (100 cm) with some variation occurring in the White Mountains due to differences in elevation and annual snowfall. New Hampshire, on occasion, is affected by hurricanes and tropical storms although by the time they reach the state they are often extratropical, with most storms striking the southern New England coastline and moving inland or passing by offshore in the Gulf of Maine. Most of New Hampshire averages fewer than 20 days of thunderstorms per year and an average of two tornadoes occur annually statewide.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13247863247863248, 0.6326530612244898, 0.21908127208480566, 0.13692579505300354]
+[0.02575107296137339, 0.125, 0.042704626334519574, 0.026690391459074734]
+[0.08547008547008547, 0.40816326530612246, 0.14134275618374556, 0.08833922261484099]

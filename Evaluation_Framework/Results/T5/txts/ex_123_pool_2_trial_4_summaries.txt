@@ -1,0 +1,15 @@
+Document:
+utah
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+(YOO-tah, (listen) YOO-taw) is a state in the Western United States . it is bordered by Colorado to the east, Wyoming to the northeast, Idaho to the north, Arizona to the south and Nevada to the west . of the fifty states, Utah is the 13th-largest by area; with a population over three million, it is the 30th-most-populous and 11th-least-densely populated.
+
+GT:
+With five national parks (Arches, Bryce Canyon, Canyonlands, Capitol Reef, and Zion), Utah has the third most national parks of any state after Alaska and California. In addition, Utah features eight national monuments (Cedar Breaks, Dinosaur, Grand Staircase-Escalante, Hovenweep, Natural Bridges, Bears Ears, Rainbow Bridge, and Timpanogos Cave), two national recreation areas (Flaming Gorge and Glen Canyon), seven national forests (Ashley, Caribou-Targhee, Dixie, Fishlake, Manti-La Sal, Sawtooth, and Uinta-Wasatch-Cache), and numerous state parks and monuments. The Moab area, in the southeastern part of the state, is known for its challenging mountain biking trails, including Slickrock. Moab also hosts the famous Moab Jeep Safari semiannually. In Southern Utah, Brian Head Ski Resort is located in the mountains near Cedar City. Former Olympic venues including Utah Olympic Park and Utah Olympic Oval are still in operation for training and competition and allows the public to participate in numerous activities including ski jumping, bobsleigh, and speed skating. Utah features many cultural attractions such as Temple Square, the Sundance Film Festival, the Red Rock Film Festival, the DOCUTAH Film Festival, the Utah Data Center, and the Utah Shakespearean Festival. Other attractions include Monument Valley, the Great Salt Lake, the Bonneville Salt Flats, and Lake Powell.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11165048543689321, 0.3484848484848485, 0.16911764705882354, 0.10569852941176469]
+[0.00975609756097561, 0.03076923076923077, 0.014814814814814814, 0.00925925925925926]
+[0.07766990291262135, 0.24242424242424243, 0.11764705882352941, 0.07352941176470588]

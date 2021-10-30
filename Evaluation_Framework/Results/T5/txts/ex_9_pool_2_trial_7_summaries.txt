@@ -1,0 +1,15 @@
+Document:
+oregon
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+,, and Oregon is home to many indigenous nations for thousands of years. Oregon ( (listen) ORR-(ih)-gn) is a state in the Pacific Northwest region on the West Coast of the United States. Oregon delineates much of Oregon's northern boundary with Washington, while the Snake River delineates much of its eastern boundary with Idaho. Oregon has been home to many indigenous nations for thousands of years.
+
+GT:
+Oregon is home to what is considered the largest single organism in the world, an Armillaria solidipes fungus beneath the Malheur National Forest of eastern Oregon. Oregon has several National Park System sites, including Crater Lake National Park in the southern part of the Cascades, John Day Fossil Beds National Monument east of the Cascades, Lewis and Clark National Historical Park on the north coast, and Oregon Caves National Monument near the south coast. Mount Hood and Mount Bachelor also draw visitors year-round for skiing and other snow activities. Portland is home to the Oregon Museum of Science and Industry, the Portland Art Museum, and the Oregon Zoo, which is the oldest zoo west of the Mississippi River. The International Rose Test Garden is another prominent attraction in the city. Oregon is home to many breweries, and Portland has the largest number of breweries of any city in the world. The Oregon Coast Aquarium comprises 23 acres (9.3 ha) along Yaquina Bay in Newport, and was also home to Keiko the orca whale. In Southern Oregon, the Oregon Shakespeare Festival, held in Ashland, is also a tourist draw, as is the Oregon Vortex and the Wolf Creek Inn State Heritage Site, a historic inn where Jack London wrote his 1913 novel Valley of the Moon.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16129032258064516, 0.5223880597014925, 0.24647887323943662, 0.15404929577464788]
+[0.046296296296296294, 0.15151515151515152, 0.07092198581560283, 0.04432624113475177]
+[0.10599078341013825, 0.34328358208955223, 0.1619718309859155, 0.1012323943661972]

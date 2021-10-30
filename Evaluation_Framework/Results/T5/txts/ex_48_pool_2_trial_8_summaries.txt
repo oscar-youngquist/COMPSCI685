@@ -1,0 +1,15 @@
+Document:
+california
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+is the third-largest by area, and the world's thirty-fourth-most-populous subnational entity . California is the most populous US state and the third-largest by area, as well as the world's thirty-fourth-most-populous subnational entity .
+
+GT:
+The Sierra Nevada (Spanish for "snowy range") includes the highest peak in the contiguous 48 states, Mount Whitney, at 14,505 feet (4,421 m). The range embraces Yosemite Valley, famous for its glacially carved domes, and Sequoia National Park, home to the giant sequoia trees, the largest living organisms on Earth, and the deep freshwater lake, Lake Tahoe, the largest lake in the state by volume. Plant life in the dry climate of the lower Sonoran zone contains a diversity of native cactus, mesquite, and paloverde. The Joshua tree is found in the Mojave Desert. The most prominent river system within California is formed by the Sacramento River and San Joaquin River, which are fed mostly by snowmelt from the west slope of the Sierra Nevada, and respectively drain the north and south halves of the Central Valley. One of the state's more visible landmarks, the Golden Gate Bridge, was the longest suspension bridge main span in the world at 4,200 feet (1,300 m) between 1937 (when it opened) and 1964.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10285714285714286, 0.43902439024390244, 0.16666666666666666, 0.10416666666666667]
+[0.022988505747126436, 0.1, 0.037383177570093455, 0.02336448598130841]
+[0.07428571428571429, 0.3170731707317073, 0.12037037037037038, 0.07523148148148148]

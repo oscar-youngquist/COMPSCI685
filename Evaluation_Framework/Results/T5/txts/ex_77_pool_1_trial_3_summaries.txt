@@ -1,0 +1,15 @@
+Document:
+west_virginia
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+is a state in the Appalachian and Mid-Atlantic regions of the Southern United States . West Virginia is bordered by Pennsylvania to the northeast, Maryland to the east and northeast, Virginia to the southeast, Kentucky to the southwest, and Ohio to the northwest . West Virginia is the 41st-largest state by area and ranks 38th in population .
+
+GT:
+It was then moved to Charleston, a more central city, from 1870 to 1875, when it returned to Wheeling. In 1885 the capitol burned down and it was moved back to Charleston that year, where it has remained ever since. West Virginia is home to college sports teams from two schools—West Virginia and Marshall—that play in NCAA Division I. West Virginia is also home to several professional minor league baseball, football, soccer, and other sports teams. Camp Washington-Carver, a Mountain Cultural Arts Center located at Clifftop in Fayette County, hosts an annual Appalachian String Band Festival. The West Virginia Symphony Orchestra was founded in 1939, as the Charleston Civic Orchestra, before becoming the Charleston Symphony Orchestra in 1943. The West Virginia Cultural Center in Charleston is home to the West Virginia Division of Culture and History, which helps underwrite and coordinate a large number of musical activities.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.18666666666666668, 0.49122807017543857, 0.2705314009661836, 0.16908212560386474]
+[0.03355704697986577, 0.08928571428571429, 0.04878048780487805, 0.030487804878048783]
+[0.12666666666666668, 0.3333333333333333, 0.18357487922705315, 0.11473429951690824]

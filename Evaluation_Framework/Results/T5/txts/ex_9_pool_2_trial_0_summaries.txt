@@ -1,0 +1,15 @@
+Document:
+connecticut
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+( (listen)) is the southernmost state in the New England region of the Northeastern United States . Connecticut ( (listen)) is the southernmost state in the New England region of the Northeastern United States . As of the 2010 Census, it has the highest per-capita income, Human Development Index (0.962), and median household income in the United States .
+
+GT:
+Areas maintained by the National Park Service include Appalachian National Scenic Trail, Quinebaug and Shetucket Rivers Valley National Heritage Corridor, and Weir Farm National Historic Site. Foxwoods Resort Casino and Mohegan Sun are the two biggest tourist draws and number among the state's largest employers The Bridgeport & Port Jefferson Ferry travels between Bridgeport, Connecticut and Port Jefferson, New York by crossing Long Island Sound. The state hosts several major sporting events. Lime Rock Park in Salisbury is a 1.5-mile (2.4 km) road racing course, home to the International Motor Sports Association, SCCA, United States Auto Club, and K&N Pro Series East races.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14018691588785046, 0.26785714285714285, 0.18404907975460122, 0.11503067484662577]
+[0.009433962264150943, 0.01818181818181818, 0.012422360248447206, 0.007763975155279503]
+[0.11214953271028037, 0.21428571428571427, 0.14723926380368096, 0.09202453987730061]

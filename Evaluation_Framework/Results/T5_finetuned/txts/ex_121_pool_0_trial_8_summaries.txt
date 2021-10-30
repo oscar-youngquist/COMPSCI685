@@ -1,0 +1,15 @@
+Document:
+north_carolina
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+North Carolina ( (listen)) is a state in the southeastern region of the United States . it is the 28th largest and 9th-most populous of the 50 United States . it is bordered by Virginia to the north, the Atlantic Ocean to the east, Georgia and South Carolina to the south, and Tennessee to the west .
+
+GT:
+Elevation above sea level is most responsible for temperature change across the state, with the mountain area being coolest year-round. The climate is also influenced by the Atlantic Ocean and the Gulf Stream, especially in the coastal plain. These influences tend to cause warmer winter temperatures along the coast, where temperatures only occasionally drop below the freezing point at night. The coastal plain averages around 1 inch (2.5 cm) of snow or ice annually, and in many years, there may be no snow or ice at all. North Carolina experiences severe weather both in summer and in winter, with summer bringing threat of hurricanes, tropical storms, heavy rain, and flooding. North Carolina averages fewer than 20 tornadoes per year, many of them produced by hurricanes or tropical storms along the coastal plain. Tornadoes from thunderstorms are a risk, especially in the eastern part of the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.19594594594594594, 0.5370370370370371, 0.28712871287128716, 0.17945544554455445]
+[0.034013605442176874, 0.09433962264150944, 0.05, 0.03125]
+[0.10810810810810811, 0.2962962962962963, 0.15841584158415842, 0.09900990099009901]

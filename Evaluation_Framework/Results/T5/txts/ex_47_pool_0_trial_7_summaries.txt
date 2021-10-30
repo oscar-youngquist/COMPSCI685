@@ -1,0 +1,15 @@
+Document:
+maine
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 states .
+
+GT:
+Maine is known for its jagged, rocky coastline; low, rolling mountains; heavily forested interior; picturesque waterways; and its seafood cuisine, especially lobster and clams. Maine's Moosehead Lake is the largest lake wholly in New England, since Lake Champlain is located between Vermont, New York and Québec. Mount Katahdin is the northern terminus of the Appalachian Trail, which extends southerly to Springer Mountain, Georgia, and the southern terminus of the new International Appalachian Trail which, when complete, will run to Belle Isle, Newfoundland and Labrador. Machias Seal Island and North Rock, off the state's Downeast coast, are claimed by both Canada and the American town of Cutler, and are within one of four areas between the two countries whose sovereignty is still in dispute, but it is the only one of the disputed areas containing land. Also in this easternmost area in the Bay of Fundy is the Old Sow, the largest tidal whirlpool in the Western Hemisphere. Prominent glacial features include Somes Sound and Bubble Rock, both part of Acadia National Park on Mount Desert Island. Bubble Rock, a glacial erratic, is a large boulder perched on the edge of Bubble Mountain in Acadia National Park. Acadia National Park is the only national park in New England.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09047619047619047, 0.4523809523809524, 0.15079365079365079, 0.09424603174603176]
+[0.03349282296650718, 0.17073170731707318, 0.056, 0.035]
+[0.0761904761904762, 0.38095238095238093, 0.126984126984127, 0.07936507936507937]

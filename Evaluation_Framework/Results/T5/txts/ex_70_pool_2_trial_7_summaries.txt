@@ -1,0 +1,15 @@
+Document:
+illinois
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+a microcosm of the entire United States. Illinois ( (listen) IL--NOY) is a state in the Midwestern and Great Lakes regions of the United States . Illinois has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all states .
+
+GT:
+Southern Illinois is the site of the ancient city of Cahokia, as well as the site of the first state capital at Kaskaskia, which today is separated from the rest of the state by the Mississippi River. In the area of The Meeting of the Great Rivers Scenic Byway, peaches and apples are grown. These include the John G. Shedd Aquarium, the Field Museum of Natural History, the Art Institute of Chicago, the Adler Planetarium, and the Museum of Science and Industry. The modern Abraham Lincoln Presidential Library and Museum in Springfield is the largest and most attended presidential library in the country. The Illinois State Museum boasts a collection of 13.5 million objects that tell the story of Illinois life, land, people, and art. The Chicago metropolitan area also hosts two zoos: The Brookfield Zoo, located about ten miles west of the city center in suburban Brookfield, contains more than 2,300 animals and covers 216 acres (87 ha). The Lincoln Park Zoo is located in Lincoln Park on Chicago's North Side, approximately 3 miles (4.8 km) north of the Loop. Each summer since 2004, Southern Illinois University Carbondale has played host to the Southern Illinois Music Festival, which presents dozens of performances throughout the region. Chicago, in the northeast corner of the state, is a major center for music in the midwestern United States where distinctive forms of blues (greatly responsible for the future creation of rock and roll), and house music, a genre of electronic dance music, were developed. Orchestras in Chicago include the Chicago Symphony Orchestra, the Lyric Opera of Chicago, and the Chicago Sinfonietta. Meanwhile, the Wildcats have won eight football conference championships and one Rose Bowl Game. The dragstrip at Gateway International Raceway and the Route 66 Raceway, which sits on the same property as the Chicagoland Speedway, both host NHRA drag races. The John Deere Classic is a regular PGA Tour event played in the Quad Cities since 1971, whereas the Encompass Championship is a Champions Tour event since 2013. The Illinois state parks system began in 1908 with what is now Fort Massac State Park, becoming the first park in a system encompassing more than 60 parks and about the same number of recreational and wildlife areas. The federal government also manages the Shawnee National Forest and the Midewin National Tallgrass Prairie.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0737913486005089, 0.6170212765957447, 0.1318181818181818, 0.08238636363636362]
+[0.02040816326530612, 0.17391304347826086, 0.0365296803652968, 0.022831050228310498]
+[0.04834605597964377, 0.40425531914893614, 0.08636363636363636, 0.05397727272727273]

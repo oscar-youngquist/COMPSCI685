@@ -1,0 +1,15 @@
+Document:
+wisconsin
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Wisconsin ( (listen)) is a state in the Great Lakes region of the Midwestern United States . Wisconsin is divided into 72 counties, and its geography is diverse . Wisconsin is the 23rd-largest state by total area and the 20th-most populous .
+
+GT:
+The state's economy also underwent further transformations towards the close of the 20th century, as heavy industry and manufacturing declined in favor of a service economy based on medicine, education, agribusiness, and tourism. Wisconsin, along with Minnesota and Michigan, was among the Midwestern leaders in the emergent American state university movement following the Civil War in the United States. By the start of the 20th century, education in the state advocated the "Wisconsin Idea", which emphasized service to the people of the state. The "Wisconsin Idea" exemplified the Progressive movement within colleges and universities at the time. Today, public post-secondary education in Wisconsin includes both the 26-campus University of Wisconsin System, with the flagship university University of Wisconsin–Madison, and the 16-campus Wisconsin Technical College System. Private colleges and universities include Alverno College, Beloit College, Cardinal Stritch University, Carroll University, Carthage College, Concordia University Wisconsin, Edgewood College, Lakeland College, Lawrence University, Marquette University, Medical College of Wisconsin, Milwaukee School of Engineering, Ripon College, St. Norbert College, Wisconsin Lutheran College, Viterbo University, and others.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10734463276836158, 0.475, 0.17511520737327188, 0.10944700460829491]
+[0.03977272727272727, 0.1794871794871795, 0.06511627906976744, 0.040697674418604654]
+[0.07344632768361582, 0.325, 0.11981566820276499, 0.07488479262672812]

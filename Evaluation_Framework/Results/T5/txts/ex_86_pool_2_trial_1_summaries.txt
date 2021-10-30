@@ -1,0 +1,15 @@
+Document:
+illinois
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+a microcosm of the entire United States. Illinois ( (listen) IL--NOY) is a state in the Midwestern and Great Lakes regions of the United States . Illinois has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all states .
+
+GT:
+In 1847, after lobbying by Dorothea L. Dix, Illinois became one of the first states to establish a system of state-supported treatment of mental illness and disabilities, replacing local almshouses. In 1961, Illinois became the first state in the nation to adopt the recommendation of the American Law Institute and pass a comprehensive criminal code revision that repealed the law against sodomy. Over 20% of Illinoians speak a language other than English at home, of which Spanish is by far the most widespread, at more than 12% of the total population. Illinois's minimum wage will rise to $15 per hour by 2025, making it one of the highest in the nation. In most years, Illinois is either the first or second state for the highest production of soybeans, with a harvest of 427.7 million bushels (11.64 million metric tons) in 2008, after Iowa's production of 444.82 million bushels (12.11 million metric tons). Nuclear power arguably began in Illinois with the Chicago Pile-1, the world's first artificial self-sustaining nuclear chain reaction in the world's first nuclear reactor, built on the University of Chicago campus. Illinois ranked first in the nation in 2010 in both nuclear capacity and nuclear generation.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11004784688995216, 0.48936170212765956, 0.17968750000000003, 0.11230468750000001]
+[0.019230769230769232, 0.08695652173913043, 0.031496062992125984, 0.01968503937007874]
+[0.07655502392344497, 0.3404255319148936, 0.12499999999999999, 0.078125]

@@ -1,0 +1,15 @@
+Document:
+new_york
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+the 27th largest state. New York is the home of New York City. New York is a state in the northeastern United States. It was one of the original thirteen colonies, forming the United States. New York is a state in the northeastern United States. It was one of the original thirteen colonies, forming the United States. With an estimated population of 8.34 million in 2019, New York City is the fourth most populous.
+
+GT:
+With an estimated population of 8.34 million in 2019, New York City is the most populous city in the United States and the premier gateway for immigration to the United States. The New York metropolitan area is one of the most populous in the world. A global city, New York City is home to the United Nations Headquarters, and has been described as the cultural, financial, and media capital of the world, as well as the world's most economically powerful city. The next four most populous cities in the state are Buffalo, Rochester, Yonkers, and Syracuse, while the state capital is Albany. In 1892, Adirondack Park, roughly the size of the state of Vermont and the largest state park in the United States, was established and given state constitutional protection to remain "forever wild" in 1894. The park is larger than Yellowstone, Everglades, Glacier, and Grand Canyon national parks combined.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.35526315789473684, 0.72, 0.4757709251101321, 0.2973568281938325]
+[0.1986754966887417, 0.40540540540540543, 0.26666666666666666, 0.16666666666666669]
+[0.18421052631578946, 0.37333333333333335, 0.24669603524229075, 0.15418502202643172]

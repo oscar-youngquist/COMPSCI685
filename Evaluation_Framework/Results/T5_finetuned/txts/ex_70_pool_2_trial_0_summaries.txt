@@ -1,0 +1,15 @@
+Document:
+mississippi
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+is the state's largest metropolitan area, with an estimated population of 580,166 . Mississippi is the 32nd largest and 34th-most populous of the 50 US states . the state is the state's capital and largest city .
+
+GT:
+Mississippi is the 32nd largest and 34th-most populous of the 50 US states. The Pontotoc Ridge and the Fall Line Hills in the northeast have somewhat higher elevations. The coastline includes large bays at Bay St. Louis, Biloxi, and Pascagoula. It is separated from the Gulf of Mexico proper by the shallow Mississippi Sound, which is partially sheltered by Petit Bois Island, Horn Island, East and West Ship Islands, Deer Island, Round Island, and Cat Island. The Mississippi Alluvial Plain, or Delta, is primarily farmland and aquaculture ponds but also has sizeable tracts of cottonwood, willows, bald cypress, and oaks. Two bands of historical prairie, the Jackson Prairie and the Black Belt, run northwest to southeast in the middle and northeastern part of the state. The center of population of Mississippi is located in Leake County, in the town of Lena. The federally recognized Mississippi Band of Choctaw Indians has established a gaming casino on its reservation, which yields revenue to support education and economic development. Jackson established the USA International Ballet Competition, which is held every four years. The Magnolia Independent Film Festival, still held annually in Starkville, is the first and oldest in the state. The state is creating a Mississippi Blues Trail, with dedicated markers explaining historic sites significant to the history of blues music, such as Clarksdale's Riverside Hotel, where Bessie Smith died after her auto accident on Highway 61. The Riverside Hotel is just one of many historical blues sites in Clarksdale. The Delta Blues Museum there is visited by tourists from all over the world. Close by is "Ground Zero", a contemporary blues club and restaurant co-owned by actor Morgan Freeman.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09642857142857143, 0.7105263157894737, 0.16981132075471697, 0.10613207547169812]
+[0.07168458781362007, 0.5405405405405406, 0.12658227848101264, 0.07911392405063292]
+[0.075, 0.5526315789473685, 0.1320754716981132, 0.08254716981132075]

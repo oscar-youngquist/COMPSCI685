@@ -1,0 +1,15 @@
+Document:
+connecticut
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Connecticut ( (listen)) is the southernmost state in the New England region of the Northeastern United States . as of the 2010 Census, it has the highest per-capita income, Human Development Index (0.962), and median household income in the United States . as of the 2010 Census, it has the highest per-capita income, Human Development Index (0.962), and median household income in the United States .
+
+GT:
+Connecticut lies at the rough transition zone between the southern end of the humid continental climate, and the northern portion of the humid subtropical climate. Northern Connecticut generally experiences a climate with cold winters with moderate snowfall and hot, humid summers. Connecticut sees a fairly even precipitation pattern with rainfall/snowfall spread throughout the 12 months. Connecticut averages 56% of possible sunshine (higher than the US national average), averaging 2,400 hours of sunshine annually. Weather commonly associated with the fall season typically begins in October and lasts to the first days of December. By December daytime highs are in the 40s °F for much of the state, and average overnight lows are below freezing. Winters (December through mid-March) are generally cold from south to north in Connecticut. Connecticut's record high temperature is 106 °F (41 °C) which occurred in Danbury on July 15, 1995; the record low is −32 °F (−36 °C) which occurred in the Northwest Hills Falls Village on February 16, 1943, and Coventry on January 22, 1961.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11560693641618497, 0.30303030303030304, 0.16736401673640167, 0.10460251046025104]
+[0.029069767441860465, 0.07692307692307693, 0.04219409282700422, 0.02637130801687764]
+[0.09248554913294797, 0.24242424242424243, 0.13389121338912133, 0.08368200836820083]

@@ -1,0 +1,15 @@
+Document:
+west_virginia
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+West Virginia ( (listen)) is a state in the Appalachian and Mid-Atlantic regions of the Southern United States . it is bordered by Pennsylvania to the northeast, Maryland to the east and northeast, Virginia to the southeast, Kentucky to the southwest, and Ohio to the northwest . West Virginia is the 41st-largest state by area and ranks 38th in population, with around 1.791 million residents .
+
+GT:
+Camp Washington-Carver, a Mountain Cultural Arts Center located at Clifftop in Fayette County, hosts an annual Appalachian String Band Festival. The Capitol Complex in Charleston hosts The Vandalia Gathering, where traditional Appalachian musicians compete in contests and play in impromptu jam sessions and evening concerts over the weekend. The West Virginia Cultural Center in Charleston is home to the West Virginia Division of Culture and History, which helps underwrite and coordinate a large number of musical activities. Huntington's historic Keith-Albee Theatre, built by brothers A.B. The town of Glenville has long been home to the annual West Virginia State Folk Festival. The Daily Mail Kanawha County Majorette and Band Festival is West Virginia's longest-running music festival.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.22950819672131148, 0.4307692307692308, 0.2994652406417112, 0.18716577540106952]
+[0.03305785123966942, 0.0625, 0.043243243243243246, 0.02702702702702703]
+[0.13934426229508196, 0.26153846153846155, 0.18181818181818182, 0.11363636363636363]

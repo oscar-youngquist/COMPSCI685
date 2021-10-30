@@ -1,0 +1,15 @@
+Document:
+ohio
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+is the 34th-largest by area, and with nearly 11.7 million inhabitants, is the seventh-most populous and tenth-most densely populated . Ohio is bordered by Lake Erie to the north, Pennsylvania to the east, West Virginia to the southeast, Kentucky to the southwest, and Kentucky to the southwest . Ohio is bordered by Lake Erie to the north, Pennsylvania to the east, West Virginia to the southeast, Kentucky to the southwest, Kentucky to the southwest, and Ohio is the
+
+GT:
+The climate of Ohio is a humid continental climate (Köppen climate classification Dfa/Dfb) throughout most of the state, except in the extreme southern counties of Ohio's Bluegrass region section, which are located on the northern periphery of the humid subtropical climate (Cfa) and Upland South region of the United States. Summers are typically hot and humid throughout the state, while winters generally range from cool to cold. Precipitation in Ohio is moderate year-round. Severe weather is not uncommon in the state, although there are typically fewer tornado reports in Ohio than in states located in what is known as the Tornado Alley. Severe lake effect snowstorms are also not uncommon on the southeast shore of Lake Erie, which is located in an area designated as the Snowbelt. The highest recorded temperature was 113 °F (45 °C), near Gallipolis on July 21, 1934. The lowest recorded temperature was −39 °F (−39 °C), at Milligan on February 10, 1899, during the Great Blizzard of 1899.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17964071856287425, 0.375, 0.24291497975708504, 0.15182186234817813]
+[0.024096385542168676, 0.05063291139240506, 0.0326530612244898, 0.02040816326530612]
+[0.10778443113772455, 0.225, 0.14574898785425103, 0.0910931174089069]

@@ -1,0 +1,15 @@
+Document:
+new_jersey
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+New Jersey is a state in the Mid-Atlantic region of the Northeastern United States . it is bordered on the north and east by the state of New York; on the east, southeast, and south by the Atlantic Ocean; on the west by the Delaware River and Pennsylvania; on the west by the Delaware River and Pennsylvania; on the southwest by Delaware Bay and the State of Delaware . New Jersey is the fourth-smallest state by area but the 11th-most populous, with 8,882,190 residents as
+
+GT:
+This accessibility to consumer revenue has enabled seaside resorts such as Atlantic City and the remainder of the Jersey Shore, as well as the state's other natural and cultural attractions, to contribute significantly to the record 111 million tourist visits to New Jersey in 2018, providing US$44.7 billion in tourism revenue, directly supporting 333,860 jobs, sustaining more than 531,000 jobs overall including peripheral impacts, and generating US$5 billion in state and local tax revenue. Diners are iconic to New Jersey. The state is home to many diner manufacturers and has over 600 diners, more than any other place in the world. New Jersey is known for several foods developed within the region, including Taylor Ham (also known as pork roll), cheesesteaks, and scrapple. Several states with substantial Italian American populations take credit for the development of submarine sandwiches, including New Jersey. New Jersey is the location of most of the boardwalks in the US, with nearly every town and city along the Jersey Shore area each having a boardwalk with various attractions, entertainment, shopping, dining, miniature golf, arcades, water parks with various water rides, including water slides, lazy rivers, wave pools, etc., and amusement parks hosting rides and attractions including roller coasters, carousels, Ferris wheels, bumper cars, teacups, etc.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.19534883720930232, 0.4772727272727273, 0.27722772277227725, 0.17326732673267328]
+[0.04672897196261682, 0.11494252873563218, 0.06644518272425248, 0.0415282392026578]
+[0.09767441860465116, 0.23863636363636365, 0.13861386138613863, 0.08663366336633664]

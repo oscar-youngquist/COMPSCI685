@@ -1,0 +1,15 @@
+Document:
+tennessee
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+, is the 36th largest by area and the 16th most populous of the 50 states . Tennessee is bordered by eight states, including the Appalachian Mountains to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south . the Appalachian Mountains dominate the eastern part of the state, and the Mississippi River forms its western border .
+
+GT:
+Tennessee has a rich variety of public, private, charter, and specialized education facilities ranging from pre-school through university. In 2015, state legislators began efforts on the "Drive to 55" movement, which plans to increase the number of college-educated residents to at least 55% of the state's population. Tennessee Promise, if students meet its requirements, allows in-state high school graduates to enroll in two-year post-secondary education programs such as associate's degrees and certificates at community colleges and trade schools in Tennessee tuition-free, funded by the state lottery. Public higher education is under the oversight of the Tennessee Higher Education Commission which provides guidance to two public university systems—the University of Tennessee system and the Tennessee Board of Regents. Public primary and secondary education systems are operated by county, city, or special school districts to provide education at the local level. These school districts operate under the direction of the Tennessee Department of Education.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.18012422360248448, 0.46774193548387094, 0.2600896860986547, 0.1625560538116592]
+[0.025, 0.06557377049180328, 0.03619909502262444, 0.02262443438914027]
+[0.11801242236024845, 0.3064516129032258, 0.17040358744394618, 0.10650224215246636]

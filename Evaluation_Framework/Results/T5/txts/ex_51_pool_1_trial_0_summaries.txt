@@ -1,0 +1,15 @@
+Document:
+idaho
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+( (listen)) is a state in the Pacific Northwest region of the United States . Idaho ( (listen)) is a state in the Pacific Northwest region of the United States . It borders the state of Montana to the east and northeast, Wyoming to the east, Nevada and Utah to the south, and Washington and Oregon to the west . Idaho is the 14th largest, the 12th least populous and the 7th least densely populated of the 50 US states .
+
+GT:
+By far, the most important river in Idaho is the Snake River, a major tributary of the Columbia River. Idaho's highest point is Borah Peak, 12,662 ft (3,859 m), in the Lost River Range north of Mackay. The first non-indigenous settlement was Kullyspell House, established on the shore of Lake Pend Oreille for fur trading in 1809 by David Thompson of the North West Company. The world's largest factory for barrel cheese, the raw product for processed cheese is in Gooding, Idaho. Boise is the home of Micron Technology, the only US manufacturer of dynamic random-access memory (DRAM) chips. Major airports include the Boise International Airport which serves the southwest region of Idaho and the Spokane International Airport (in Spokane, Washington) which serves northern Idaho. The Port of Lewiston is the farthest inland Pacific port on the west coast. Central Idaho is home to one of North America's oldest ski resorts, Sun Valley, where the world's first chairlift was installed in 1936.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.19411764705882353, 0.44, 0.2693877551020408, 0.1683673469387755]
+[0.047337278106508875, 0.10810810810810811, 0.06584362139917696, 0.0411522633744856]
+[0.13529411764705881, 0.30666666666666664, 0.18775510204081633, 0.1173469387755102]

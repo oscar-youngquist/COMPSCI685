@@ -1,0 +1,15 @@
+Document:
+hawaii
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Hawaii encompasses nearly the entire Hawaiian archipelago, composed of 137 volcanic islands spanning 1,500 miles (2,400 km) the state's ocean coastline is the fourth longest in the state's history . Hawaii is also one of a handful of US states to have once been an independent nation .
+
+GT:
+The 1778 arrival of British explorer Captain James Cook marked the first documented contact by a European explorer with Hawaiʻi. In 1887, Kalākaua was forced to sign the 1887 Constitution of the Kingdom of Hawaiʻi. On January 17, 1893, Queen Liliʻuokalani was overthrown and replaced by a provisional government composed of members of the Committee of Safety. After William McKinley won the 1896 US presidential election, advocates pressed to annex the Republic of Hawaiʻi. In 1900, Hawaiʻi was granted self-governance and retained ʻIolani Palace as the territorial capitol building. In the 1950s, the power of the plantation owners was broken by the descendants of immigrant laborers, who were born in Hawaiʻi and were US citizens.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0975609756097561, 0.24, 0.13872832369942198, 0.08670520231213873]
+[0.01639344262295082, 0.04081632653061224, 0.023391812865497078, 0.014619883040935675]
+[0.08130081300813008, 0.2, 0.11560693641618498, 0.0722543352601156]

@@ -1,0 +1,15 @@
+Document:
+illinois
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+a microcosm of the entire United States. Illinois ( (listen) IL--NOY) is a state in the Midwestern and Great Lakes regions of the United States. It has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all states. Illinois has a diverse economic base, and is a microcosm of the entire United States.
+
+GT:
+Following the American Revolutionary War, American settlers began arriving from Kentucky in the 1780s via the Ohio River, and the population grew from south to north. In 1818, Illinois achieved statehood. The Illinois Territory was created on February 3, 1809, with its capital at Kaskaskia, an early French settlement. In 1818, Illinois became the 21st US state. During the American Civil War, Illinois ranked fourth in men who served (more than 250,000) in the Union Army, a figure surpassed by only New York, Pennsylvania, and Ohio. From Sunday, October 8, 1871, until Tuesday, October 10, 1871, the Great Chicago Fire burned in downtown Chicago, destroying four square miles (10 km2). In 1960, Ray Kroc opened the first McDonald's franchise in Des Plaines (which still exists as a museum, with a working McDonald's across the street). The first Farm Aid concert was held in Champaign to benefit American farmers, in 1985. On August 28, 2017, Illinois Governor Bruce Rauner signed a bill into law that prohibited state and local police from arresting anyone solely due to their immigration status or due to federal detainers.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11290322580645161, 0.3387096774193548, 0.1693548387096774, 0.10584677419354838]
+[0.010810810810810811, 0.03278688524590164, 0.016260162601626015, 0.01016260162601626]
+[0.07526881720430108, 0.22580645161290322, 0.11290322580645161, 0.07056451612903226]

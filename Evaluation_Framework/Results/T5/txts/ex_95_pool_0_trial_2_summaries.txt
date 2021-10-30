@@ -1,0 +1,15 @@
+Document:
+wisconsin
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+divided into 72 counties. Wisconsin is the 23rd-largest state by total area and the 20th-most populous. Wisconsin is the state capital of Madison, and its largest city is Milwaukee. Wisconsin is divided into 72 counties. Wisconsin is the 23rd-largest state by total area and the 20th-most populous.
+
+GT:
+Tourist destinations such as the House on the Rock near Spring Green, Circus World Museum in Baraboo, and The Dells of the Wisconsin River draw thousands of visitors annually, and festivals such as Summerfest and the EAA Oshkosh Airshow draw international attention, along with hundreds of thousands of visitors. The distinctive Door Peninsula, which extends off the eastern coast of the state, contains one of the state's tourist destinations, Door County. Door County is a popular destination for boaters because of the large number of natural harbors, bays, and boat launches on both the Green Bay and Lake Michigan sides of the peninsula that forms the county. Wisconsin's music festivals include Eaux Claires, Country Fest, Country Jam USA, the Hodag Country Festival, Porterfield Country Music Festival, Country Thunder USA in Twin Lakes, and Country USA. Milwaukee hosts Summerfest, dubbed "The World's Largest Music Festival", every year. Lambeau Field, located in Green Bay, Wisconsin, is home to the National Football League's Green Bay Packers. The Milwaukee Brewers, the state's only major league baseball team, play in Miller Park in Milwaukee, the successor to Milwaukee County Stadium since 2001. The Milwaukee Bucks of the National Basketball Association play home games at the Fiserv Forum.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10144927536231885, 0.4117647058823529, 0.16279069767441862, 0.10174418604651163]
+[0.024271844660194174, 0.1, 0.0390625, 0.0244140625]
+[0.06763285024154589, 0.27450980392156865, 0.10852713178294575, 0.06782945736434108]

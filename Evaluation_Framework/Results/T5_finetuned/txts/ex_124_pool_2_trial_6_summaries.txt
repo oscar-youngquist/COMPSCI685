@@ -1,0 +1,15 @@
+Document:
+rhode_island
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Rhode Island ( (listen), like road) is a state in the New England region of the United States . it is the smallest US state by area and seventh least populous (1,059,361 as of 2019), but also the second most densely populated behind New Jersey . the state has land borders with Connecticut to the west, Massachusetts to the north and east, and the Atlantic Ocean to the south via Rhode Island Sound and Block Island Sound .
+
+GT:
+Most of Rhode Island has a humid continental climate, with warm summers and cold winters. The southern coastal portions of the state are the broad transition zone into subtropical climates, with hot summers and cool winters with a mix of rain and snow. Block Island has an oceanic climate. The highest temperature recorded in Rhode Island was 104 °F (40 °C), recorded on August 2, 1975 in Providence. The lowest recorded temperature in Rhode Island was −23 °F (−31 °C) on February 5, 1996 in Greene. Monthly average temperatures range from a high of 83 °F (28 °C) to a low of 20 °F (−7 °C). Rhode Island is vulnerable to tropical storms and hurricanes due to its location in New England, catching the brunt of many storms blowing up the eastern seaboard.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.24060150375939848, 0.42105263157894735, 0.3062200956937799, 0.1913875598086124]
+[0.045454545454545456, 0.08, 0.057971014492753624, 0.036231884057971016]
+[0.12781954887218044, 0.2236842105263158, 0.16267942583732056, 0.10167464114832538]

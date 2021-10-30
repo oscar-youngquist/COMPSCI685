@@ -1,0 +1,15 @@
+Document:
+florida
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+is a state located in the southeastern region of the United States . Florida is the third-most populous and the 22nd-most extensive of the 50 United States . the state is bordered to the west by the Gulf of Mexico, to the northwest by Alabama, to the north by Georgia, to the east by the Atlantic Ocean, and to the south by the Straits of Florida .
+
+GT:
+Ponce de León spotted and landed on the peninsula on April 2, 1513. In 1559, Don Tristán de Luna y Arellano established a settlement at present-day Pensacola, making it the first attempted settlement in Florida, but it was mostly abandoned by 1561. In 1564-65 there was a French settlement at Fort Caroline, in present Duval County, which was destroyed by the Spanish. In 1763, Spain traded Florida to the Kingdom of Great Britain for control of Havana, Cuba, which had been captured by the British during the Seven Years' War. The British settlers who had remained also resented Spanish rule, leading to a rebellion in 1810 and the establishment for ninety days of the so-called Free and Independent Republic of West Florida on September 23. In 1810, parts of West Florida were annexed by proclamation of President James Madison, who claimed the region as part of the Louisiana Purchase. The US annexed the Mobile District of West Florida to the Mississippi Territory in 1812. On March 3, 1845, only one day before the end of President John Tyler's term in office, Florida became the 27th state, admitted as a slave state and no longer a sanctuary for runaway slaves. Following the American Civil War, Florida's congressional representation was restored on June 25, 1868, albeit forcefully after Radical Reconstruction and the installation of unelected government officials under the final authority of federal military commanders. Until the mid-20th century, Florida was the least populous state in the southern United States. In 1900, its population was only 528,542, of whom nearly 44% were African American, the same proportion as before the Civil War. Economic prosperity in the 1920s stimulated tourism to Florida and related development of hotels and resort communities. In the 1960s, many refugees from Cuba fleeing Fidel Castro's communist regime arrived in Miami at the Freedom Tower, where the federal government used the facility to process, document and provide medical and dental services for the newcomers. With a population of more than 18 million, according to the 2010 census, Florida is the most populous state in the southeastern United States and the third-most populous in the United States. Florida's growth has been widespread, as cities throughout the state have grown since 2010.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1227154046997389, 0.7121212121212122, 0.20935412026726058, 0.13084632516703787]
+[0.05235602094240838, 0.3076923076923077, 0.0894854586129754, 0.05592841163310962]
+[0.0731070496083551, 0.42424242424242425, 0.12472160356347439, 0.07795100222717151]

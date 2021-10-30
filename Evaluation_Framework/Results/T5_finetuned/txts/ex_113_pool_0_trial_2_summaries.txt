@@ -1,0 +1,15 @@
+Document:
+arizona
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Arizona is the 48th state and last of the contiguous states to be admitted to the Union . Arizona shares the Four Corners region with Utah, Colorado, and New Mexico . Arizona is the 6th largest and 14th most populous of the 50 states .
+
+GT:
+Public schools in Arizona are separated into about 220 local school districts which operate independently, but are governed in most cases by elected county school superintendents; these are in turn overseen by the Arizona State Board of Education and the Arizona Department of Education. A state Superintendent of Public Instruction (elected in partisan elections every even-numbered year when there is not a presidential election, for a four-year term). In 2005, a School District Redistricting Commission was established with the goal of combining and consolidating many of these districts. Arizona is served by three public universities: The University of Arizona, Arizona State University, and Northern Arizona University. These schools are governed by the Arizona Board of Regents. Arizona has a wide network of two-year vocational schools and community colleges. These colleges were governed historically by a separate statewide board of directors but, in 2002, the state legislature transferred almost all oversight authority to individual community college districts.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14465408805031446, 0.5476190476190477, 0.22885572139303484, 0.14303482587064678]
+[0.006329113924050633, 0.024390243902439025, 0.010050251256281407, 0.00628140703517588]
+[0.10062893081761007, 0.38095238095238093, 0.1592039800995025, 0.09950248756218906]
