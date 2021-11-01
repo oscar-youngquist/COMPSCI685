@@ -1,0 +1,15 @@
+Document:
+rhode_island
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Rhode Island is one of the most densely populated states in the US.
+
+GT:
+Most of Rhode Island has a humid continental climate, with warm summers and cold winters. The southern coastal portions of the state are the broad transition zone into subtropical climates, with hot summers and cool winters with a mix of rain and snow. Block Island has an oceanic climate. Monthly average temperatures range from a high of 83 °F (28 °C) to a low of 20 °F (−7 °C). Rhode Island is vulnerable to tropical storms and hurricanes due to its location in New England, catching the brunt of many storms blowing up the eastern seaboard. Some hurricanes that have done significant damage in the state are the 1938 New England hurricane, Hurricane Carol (1954), Hurricane Donna (1960), and Hurricane Bob (1991).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07377049180327869, 0.6923076923076923, 0.13333333333333333, 0.08333333333333333]
+[0.03305785123966942, 0.3333333333333333, 0.06015037593984963, 0.03759398496240602]
+[0.05737704918032787, 0.5384615384615384, 0.10370370370370371, 0.06481481481481483]

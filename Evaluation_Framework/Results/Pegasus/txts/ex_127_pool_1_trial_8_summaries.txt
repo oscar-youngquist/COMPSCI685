@@ -1,0 +1,15 @@
+Document:
+texas
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Texas is the second largest state by population in the United States.
+
+GT:
+The term "six flags over Texas" refers to several nations that have ruled over the territory. The name Texas, based on the Caddo word táyshaʼ (/tʼajʃaʔ/) "friend", was applied, in the spelling Tejas or Texas, by the Spanish to the Caddo themselves, specifically the Hasinai Confederacy, the final -s representing the Spanish plural.The Mission San Francisco de los Tejas was completed near the Hasinai village of Nabedaches in May 1690, in what is now Houston County, East Texas. During the Texas Revolution, the US became heavily involved. Prior treaties with the Spanish forbade either side from militarizing its native population in any potential conflict between the two nations. By the 1830s, the US had drafted the Indian Removal Act, which was used to facilitate the Trail of Tears. Many immigrants openly flouted Mexican law, especially the prohibition against slavery. Combined with United States' attempts to purchase Texas, Mexican authorities decided in 1830 to prohibit continued immigration from the United States. Illegal immigration from the United States into Mexico continued to increase the population of Texas anyway. The unrest erupted into armed conflict in late 1835 at the Battle of Gonzales. This launched the Texas Revolution, and over the next two months the Texians defeated all Mexican troops in the region. Texians elected delegates to the Consultation, which created a provisional government. The provisional government soon collapsed from infighting, and Texas was without clear governance for the first two months of 1836. During this time of political turmoil, Mexican President Antonio López de Santa Anna personally led an army to end the revolt. General José de Urrea defeated all the Texian resistance along the coast culminating in the Goliad massacre. Santa Anna's forces, after a thirteen-day siege, overwhelmed Texian defenders at the Battle of the Alamo. The newly elected Texian delegates to the Convention of 1836 quickly signed a Declaration of Independence on March 2, forming the Republic of Texas. After several weeks of retreat, the Texian Army commanded by Sam Houston attacked and defeated Santa Anna's forces at the Battle of San Jacinto. While Texas had won its independence, political battles raged between two factions of the new Republic. The nationalist faction, led by Mirabeau B. Lamar, advocated the continued independence of Texas, the expulsion of the Native Americans, and the expansion of the Republic to the Pacific Ocean. Their opponents, led by Sam Houston, advocated the annexation of Texas to the United States and peaceful co-existence with Native Americans.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.02386634844868735, 0.8333333333333334, 0.04640371229698376, 0.029002320185614845]
+[0.009569377990430622, 0.36363636363636365, 0.018648018648018648, 0.011655011655011656]
+[0.021479713603818614, 0.75, 0.041763341067285374, 0.026102088167053363]

@@ -1,0 +1,15 @@
+Document:
+nevada
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Nevada has one of the lowest unemployment rates in the United States.
+
+GT:
+There are 24 state park units, including Van Sickle Bi-State Park which opened in July 2011 and is operated in partnership with the state of California. Resort areas like Las Vegas, Reno, Lake Tahoe, and Laughlin attract visitors from around the nation and world. College teams in the state include the Nevada Wolf Pack (representing the University of Nevada, Reno) and the UNLV Rebels (representing the University of Nevada, Las Vegas), both in the Mountain West Conference (MW). The Big Sky Conference, after decades of holding its men's and women's conference tournaments at campus sites, began holding both tournaments in Reno in 2016. The Mandalay Bay Events Center and MGM Grand Garden Arena are among some of the more popular venues for fighting events such as MMA and have hosted several UFC and other MMA title fights. The state is also home to the Las Vegas Motor Speedway, which hosts NASCAR's Pennzoil 400 and South Point 400.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.043478260869565216, 0.5833333333333334, 0.08092485549132948, 0.05057803468208093]
+[0.0125, 0.18181818181818182, 0.023391812865497078, 0.014619883040935672]
+[0.037267080745341616, 0.5, 0.06936416184971099, 0.04335260115606937]

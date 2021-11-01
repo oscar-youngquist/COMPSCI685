@@ -1,0 +1,15 @@
+Document:
+tennessee
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Tennessee is one of the most densely populated states in the United States.
+
+GT:
+The first recorded European excursions into what is now called Tennessee were three expeditions led by Spanish explorers, namely Hernando de Soto in 1540, Tristan de Luna in 1559, and Juan Pardo in 1567. The first British settlement in what is now Tennessee was built in 1756 by settlers from the colony of South Carolina at Fort Loudoun, near present-day Vonore. In the 1760s, long hunters from Virginia explored much of East and Middle Tennessee, and the first permanent European settlers began arriving late in the decade. During the American Revolutionary War, Fort Watauga at Sycamore Shoals (in present-day Elizabethton) was attacked (1776) by Dragging Canoe and his warring faction of Cherokee who were aligned with the British Loyalists. The frontier fort on the banks of the Watauga River later served as a 1780 staging area for the Overmountain Men in preparation to trek over the Appalachian Mountains, to engage, and to later defeat the British Army at the Battle of Kings Mountain in South Carolina. Tennessee was admitted to the Union on June 1, 1796 as the 16th state. In February 1861, secessionists in Tennessee's state government—led by Governor Isham Harris—sought voter approval for a convention to sever ties with the United States, but Tennessee voters rejected the referendum by a 54–46% margin. Many major battles of the American Civil War were fought in Tennessee—most of them Union victories. On August 18, 1920, Tennessee became the thirty-sixth and final state necessary to ratify the Nineteenth Amendment to the United States Constitution, which provided women the right to vote.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.03745318352059925, 0.7692307692307693, 0.07142857142857144, 0.044642857142857144]
+[0.018796992481203006, 0.4166666666666667, 0.03597122302158273, 0.022482014388489208]
+[0.033707865168539325, 0.6923076923076923, 0.0642857142857143, 0.04017857142857143]

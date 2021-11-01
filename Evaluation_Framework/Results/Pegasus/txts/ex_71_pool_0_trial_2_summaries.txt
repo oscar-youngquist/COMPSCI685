@@ -1,0 +1,15 @@
+Document:
+oregon
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Oregon is one of the most densely populated states in the United States.
+
+GT:
+The state is also home to the single largest organism in the world, Armillaria ostoyae, a fungus that runs beneath 2,200 acres (8.9 km2) of the Malheur National Forest. Oregon has several National Park System sites, including Crater Lake National Park in the southern part of the Cascades, John Day Fossil Beds National Monument east of the Cascades, Lewis and Clark National Historical Park on the north coast, and Oregon Caves National Monument near the south coast. Tourism is centered on the state's natural features – mountains, forests, waterfalls, rivers, beaches and lakes, including Crater Lake National Park, Multnomah Falls, the Painted Hills, the Deschutes River, and the Oregon Caves. Mount Hood and Mount Bachelor also draw visitors year-round for skiing and other snow activities. Portland is home to the Oregon Museum of Science and Industry, the Portland Art Museum, and the Oregon Zoo, which is the oldest zoo west of the Mississippi River. Oregon is home to many breweries, and Portland has the largest number of breweries of any city in the world. The Oregon Coast Aquarium comprises 23 acres (9.3 ha) along Yaquina Bay in Newport, and was also home to Keiko the orca whale. Fort Clatsop in Warrenton features a replica of Lewis and Clark's encampment at the mouth of the Columbia River in 1805. The Sea Lion Caves in Florence are the largest system of sea caverns in the United States, and also attract many visitors. In Southern Oregon, the Oregon Shakespeare Festival, held in Ashland, is also a tourist draw, as is the Oregon Vortex and the Wolf Creek Inn State Heritage Site, a historic inn where Jack London wrote his 1913 novel Valley of the Moon. The Oregon Film Museum is located in the old Clatsop County Jail in Astoria. It is home to three public research universities: The University of Oregon (UO) in Eugene and Oregon State University (OSU) in Corvallis, both classified as research universities with very high research activity, and Portland State University which is classified as a research university with high research activity.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.02586206896551724, 0.6923076923076923, 0.04986149584487534, 0.031163434903047096]
+[0.01440922190201729, 0.4166666666666667, 0.027855153203342618, 0.017409470752089137]
+[0.022988505747126436, 0.6153846153846154, 0.0443213296398892, 0.02770083102493075]

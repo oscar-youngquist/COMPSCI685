@@ -1,0 +1,15 @@
+Document:
+ohio
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Ohio is one of the most densely populated states in the United States.
+
+GT:
+The climate of Ohio is a humid continental climate (Köppen climate classification Dfa/Dfb) throughout most of the state, except in the extreme southern counties of Ohio's Bluegrass region section, which are located on the northern periphery of the humid subtropical climate (Cfa) and Upland South region of the United States. Summers are typically hot and humid throughout the state, while winters generally range from cool to cold. Precipitation in Ohio is moderate year-round. Severe weather is not uncommon in the state, although there are typically fewer tornado reports in Ohio than in states located in what is known as the Tornado Alley. Severe lake effect snowstorms are also not uncommon on the southeast shore of Lake Erie, which is located in an area designated as the Snowbelt. The highest recorded temperature was 113 °F (45 °C), near Gallipolis on July 21, 1934. The lowest recorded temperature was −39 °F (−39 °C), at Milligan on February 10, 1899, during the Great Blizzard of 1899.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.059880239520958084, 0.7692307692307693, 0.11111111111111112, 0.06944444444444445]
+[0.030120481927710843, 0.4166666666666667, 0.056179775280898875, 0.0351123595505618]
+[0.05389221556886228, 0.6923076923076923, 0.09999999999999999, 0.06250000000000001]

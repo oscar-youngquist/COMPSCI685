@@ -1,0 +1,15 @@
+Document:
+georgia
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Georgia is home to the world's largest airport, Hartsfield-Jackson Atlanta International Airport.
+
+GT:
+Georgia county and city public school systems are administered by school boards with members elected at the local level. As of 2013, all but 19 of 181 boards are elected from single-member districts. A change to single-member districts has resulted in the African-American minority being able to elect representatives of its choice. Georgia high schools (grades nine through twelve) are required to administer a standardized, multiple choice End of Course Test, or EOCT, in each of eight core subjects: algebra, geometry, US history, economics, biology, physical science, ninth grade literature and composition, and American literature. Although a minimum test score is not required for the student to receive credit in the course, completion of the test is mandatory. The EOCT score accounts for 15% of a student's grade in the course. In 2020, because of the ongoing COVID-19 pandemic, the Georgia State BOE agreed to state superintendent Richard Woods’ proposal to change the weight of the EOCT test to only count for 0.01% of the Student's course grade. The University System of Georgia is the presiding body over public post-secondary education in the state. The System includes 29 institutions of higher learning and is governed by the Georgia Board of Regents. The HOPE Scholarship, funded by the state lottery, is available to all Georgia residents who have graduated from high school or earned a General Educational Development certificate.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0211864406779661, 0.35714285714285715, 0.04, 0.024999999999999998]
+[0.00425531914893617, 0.07692307692307693, 0.008064516129032258, 0.005040322580645161]
+[0.0211864406779661, 0.35714285714285715, 0.04, 0.024999999999999998]

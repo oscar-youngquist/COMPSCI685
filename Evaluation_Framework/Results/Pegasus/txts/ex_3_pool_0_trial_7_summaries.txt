@@ -1,0 +1,15 @@
+Document:
+south_carolina
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+South Carolina is a state in the Deep South region of the Southern United States.
+
+GT:
+As of 2010, South Carolina is one of three states that have not agreed to use competitive international math and language standards. In 2014, the South Carolina Supreme Court ruled the state had failed to provide a "minimally adequate" education to children in all parts of the state as required by the state's constitution. South Carolina has 1,144 K–12 schools in 85 school districts with an enrollment of 712,244 as of fall 2009. In 2015, the national average SAT score was 1490 and the South Carolina average was 1442, 48 points lower than the national average. South Carolina is the only state which owns and operates a statewide school bus system. As of December 2016, the state maintains a 5,582-bus fleet with the average vehicle in service being fifteen years old (the national average is six) having logged 236,000 miles. Half of the state's school buses are more than 15 years old and some are reportedly up to 30 years old. In 2017 in the budget proposal, Superintendent of Education Molly Spearman requested the state lease to purchase 1,000 buses to replace the most decrepit vehicles. An additional 175 buses could be purchased immediately through the State Treasurer's master lease program. On January 5, 2017, the US Environmental Protection Agency awarded South Carolina more than $1.1 million to replace 57 school buses with new cleaner models through its Diesel Emissions Reduction Act program. South Carolina has diverse institutions from large state-funded research universities to small colleges that cultivate a liberal arts, religious or military tradition.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.04119850187265917, 0.7333333333333333, 0.07801418439716311, 0.04875886524822695]
+[0.015037593984962405, 0.2857142857142857, 0.02857142857142857, 0.017857142857142856]
+[0.04119850187265917, 0.7333333333333333, 0.07801418439716311, 0.04875886524822695]

@@ -1,0 +1,15 @@
+Document:
+wisconsin
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Wisconsin is a battleground state in the 2016 presidential election.
+
+GT:
+The state's economy also underwent further transformations towards the close of the 20th century, as heavy industry and manufacturing declined in favor of a service economy based on medicine, education, agribusiness, and tourism. Wisconsin, along with Minnesota and Michigan, was among the Midwestern leaders in the emergent American state university movement following the Civil War in the United States. By the start of the 20th century, education in the state advocated the "Wisconsin Idea", which emphasized service to the people of the state. The "Wisconsin Idea" exemplified the Progressive movement within colleges and universities at the time. Today, public post-secondary education in Wisconsin includes both the 26-campus University of Wisconsin System, with the flagship university University of Wisconsin–Madison, and the 16-campus Wisconsin Technical College System. Private colleges and universities include Alverno College, Beloit College, Cardinal Stritch University, Carroll University, Carthage College, Concordia University Wisconsin, Edgewood College, Lakeland College, Lawrence University, Marquette University, Medical College of Wisconsin, Milwaukee School of Engineering, Ripon College, St. Norbert College, Wisconsin Lutheran College, Viterbo University, and others.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.02824858757062147, 0.5, 0.05347593582887701, 0.03342245989304813]
+[0.005681818181818182, 0.1111111111111111, 0.010810810810810811, 0.006756756756756757]
+[0.022598870056497175, 0.4, 0.0427807486631016, 0.026737967914438502]

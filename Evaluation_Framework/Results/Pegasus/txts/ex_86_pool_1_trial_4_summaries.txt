@@ -1,0 +1,15 @@
+Document:
+pennsylvania
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Pennsylvania is the 33rd-largest state by area.
+
+GT:
+The state is one of the 13 original founding states of the United States; it came into being in 1681 as a result of a royal land grant to William Penn, the son of the state's namesake. Independence Hall, where the United States Declaration of Independence and United States Constitution were drafted, is located in Philadelphia, the state's largest city. During the American Civil War, the Battle of Gettysburg was fought in the south central region of the state. For most of the second half of the 20th century and into the 21st century, Pennsylvania has been a powerful swing state. The University of Pennsylvania, located in Philadelphia, is considered the first university in the United States and established the country's first medical school. Pennsylvania is home to the nation's first zoo, the Philadelphia Zoo.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.03597122302158273, 0.625, 0.06802721088435373, 0.04251700680272109]
+[0.007246376811594203, 0.14285714285714285, 0.01379310344827586, 0.008620689655172414]
+[0.02877697841726619, 0.5, 0.05442176870748299, 0.03401360544217687]

@@ -1,0 +1,15 @@
+Document:
+idaho
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+As part of our series of letters from African-Canadian journalists, filmmaker and columnist Farai Sevenzo looks at the state of Idaho.
+
+GT:
+By far, the most important river in Idaho is the Snake River, a major tributary of the Columbia River. Idaho's highest point is Borah Peak, 12,662 ft (3,859 m), in the Lost River Range north of Mackay. The first non-indigenous settlement was Kullyspell House, established on the shore of Lake Pend Oreille for fur trading in 1809 by David Thompson of the North West Company. The world's largest factory for barrel cheese, the raw product for processed cheese is in Gooding, Idaho. Boise is the home of Micron Technology, the only US manufacturer of dynamic random-access memory (DRAM) chips. Major airports include the Boise International Airport which serves the southwest region of Idaho and the Spokane International Airport (in Spokane, Washington) which serves northern Idaho. The Port of Lewiston is the farthest inland Pacific port on the west coast. Central Idaho is home to one of North America's oldest ski resorts, Sun Valley, where the world's first chairlift was installed in 1936.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.03529411764705882, 0.2727272727272727, 0.0625, 0.0390625]
+[0.005917159763313609, 0.047619047619047616, 0.010526315789473684, 0.006578947368421052]
+[0.03529411764705882, 0.2727272727272727, 0.0625, 0.0390625]

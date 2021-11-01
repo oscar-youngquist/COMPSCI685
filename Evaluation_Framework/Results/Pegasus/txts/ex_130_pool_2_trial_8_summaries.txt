@@ -1,0 +1,15 @@
+Document:
+kansas
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at the history and culture of the American state of Kansas.
+
+GT:
+The US Army Reserve also has the 451st Expeditionary Sustainment Command headquartered in Wichita that serves reservists and their units from around the region. Manhattan Regional Airport in Manhattan offers daily flights to Dallas/Fort Worth International Airport and Chicago's O'Hare International Airport, making it the second-largest commercial airport in the state. Sporting Kansas City, who have played their home games at Village West in Kansas City, since 2008, are the first top-tier professional sports league and first Major League Soccer team to be located within Kansas. In 2011 the team moved to their new home, a $165m soccer specific stadium now known as Children's Mercy Park. The Kansas Speedway located in Kansas City hosts races of the NASCAR, IndyCar, and ARCA circuits. Also, the National Hot Rod Association (NHRA) holds drag racing events at Heartland Park Topeka. While there are no franchises of the four major professional sports within the state, many Kansans are fans of the state's major college sports teams, especially the Jayhawks of the University of Kansas (KU), and the Wildcats of Kansas State University (KSU or "K-State"). Both KU and K-State have tradition-rich programs in men's basketball.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0594059405940594, 0.48, 0.10572687224669602, 0.06607929515418501]
+[0.009950248756218905, 0.08333333333333333, 0.017777777777777778, 0.01111111111111111]
+[0.054455445544554455, 0.44, 0.09691629955947137, 0.06057268722466961]

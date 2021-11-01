@@ -1,0 +1,15 @@
+Document:
+rhode_island
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Rhode Island is one of the most densely populated states in the US.
+
+GT:
+It is the smallest US state by area and the seventh least populous (1,059,361 as of 2019), but it is also the second most densely populated behind New Jersey. The state takes its name from Rhode Island; however, most of the state is located on the mainland. Prior to 2020, the state's official name was State of Rhode Island and Providence Plantations, which is derived from the merger of four Colonial settlements. Advocates for excising plantation claimed that the word symbolized an alleged legacy of disenfranchisement for many Rhode Islanders, as well as the proliferation of slavery in the colonies and in the post-colonial United States. Advocates for retaining the name argued that plantation was simply an archaic synonym for colony and bore no relation to slavery. The referendum election was held on November 2, 2010, and the people voted overwhelmingly (78% to 22%) to retain the entire original name.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07792207792207792, 0.9230769230769231, 0.1437125748502994, 0.08982035928143713]
+[0.032679738562091505, 0.4166666666666667, 0.06060606060606061, 0.03787878787878788]
+[0.05844155844155844, 0.6923076923076923, 0.10778443113772455, 0.06736526946107785]

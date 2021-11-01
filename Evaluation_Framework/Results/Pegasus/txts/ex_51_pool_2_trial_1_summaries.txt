@@ -1,0 +1,15 @@
+Document:
+utah
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Utah is one of the most sparsely populated states in the United States.
+
+GT:
+Beginning in the early 20th century, with the establishment of such national parks as Bryce Canyon National Park and Zion National Park, Utah became known for its natural beauty. From such films, most US residents recognize such natural landmarks as Delicate Arch and "the Mittens" of Monument Valley. Since the establishment of Alta Ski Area in 1939 and the subsequent development of several ski resorts in the state's mountains, Utah's skiing has become world-renowned. Utah's state parks are scattered throughout Utah, from Bear Lake State Park at the Utah/Idaho border to Edge of the Cedars State Park Museum deep in the Four Corners region and everywhere in between. It is a rugged and geographically diverse state at the convergence of three distinct geological regions: the Rocky Mountains, the Great Basin, and the Colorado Plateau. One exception to this aridity is Snake Valley, which is (relatively) lush due to large springs and wetlands fed from groundwater derived from snow melt in the Snake Range, Deep Creek Range, and other tall mountains to the west of Snake Valley. The Navajo Nation also extends into southeastern Utah. The Moab area, in the southeastern part of the state, is known for its challenging mountain biking trails, including Slickrock. Moab also hosts the famous Moab Jeep Safari semiannually.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.045871559633027525, 0.7692307692307693, 0.08658008658008658, 0.05411255411255411]
+[0.009216589861751152, 0.16666666666666666, 0.017467248908296946, 0.01091703056768559]
+[0.03669724770642202, 0.6153846153846154, 0.06926406926406926, 0.04329004329004329]

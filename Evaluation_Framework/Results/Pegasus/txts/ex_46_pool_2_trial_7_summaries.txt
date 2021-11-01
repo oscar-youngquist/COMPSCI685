@@ -1,0 +1,15 @@
+Document:
+vermont
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+The state of Vermont has one of the lowest murder rates in the United States.
+
+GT:
+To equitably support education, some towns are required by Act 60 to send some of their collected taxes to be redistributed to school districts lacking adequate support. A political issue has been Act 60, which balances taxation for education funding. This has resulted in the town of Killington trying to secede from Vermont and join New Hampshire due to what the locals say is an unfair tax burden. In 2006, there was a gap between state testing standards and national, which is biased in favor of the state standards by 30%, on average. However, when allowance for race is considered, a 2007 US Government list of test scores shows Vermont white fourth graders performed 25th in the nation for reading (229) and 26th for math (247). In 2017, spending $1.6 billion on education for 76,000 public school children, represents more than $21,000 per student. Education Week ranked the state second in high school graduation rates for 2007. In 2011, 91% of the population had graduated from high school compared with 85% nationally. Almost 34% have at least an undergraduate degree compared with 28% nationally. In 2013, the ratio of pupils to teachers was the lowest in the country. In 2016, the University of Vermont charged the second highest tuition in the nation for four years, $61,000 for in-state students, to $147,000 for out-of-state students. This compares with an average of 34,800 nationally for in-state students.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.04897959183673469, 0.8, 0.0923076923076923, 0.057692307692307696]
+[0.020491803278688523, 0.35714285714285715, 0.03875968992248061, 0.024224806201550386]
+[0.04081632653061224, 0.6666666666666666, 0.07692307692307691, 0.04807692307692307]

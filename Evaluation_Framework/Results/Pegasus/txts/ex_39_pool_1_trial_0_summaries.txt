@@ -1,0 +1,15 @@
+Document:
+kansas
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at the history and culture of the American state of Kansas.
+
+GT:
+Starting in 2013, the "ambitious tax overhaul" trimmed income tax, eliminated some corporate taxes, and created pass-through income tax exemptions, he raised the sales tax by one percent to offset the loss to state revenues but that was inadequate. He made cuts to education and some state services to offset lost revenue. Kansas was also at the center of Brown v. Board of Education of Topeka, a 1954 Supreme Court decision that banned racially segregated schools throughout the US Education in Kansas is governed at the primary and secondary school level by the Kansas State Board of Education. The state's public colleges and universities are supervised by the Kansas Board of Regents. Twice since 1999 the Board of Education has approved changes in the state science curriculum standards that encouraged the teaching of intelligent design. Both times, the standards were reversed after changes in the composition of the board in the next election.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07096774193548387, 0.44, 0.12222222222222223, 0.07638888888888888]
+[0.012987012987012988, 0.08333333333333333, 0.02247191011235955, 0.01404494382022472]
+[0.05806451612903226, 0.36, 0.1, 0.06250000000000001]

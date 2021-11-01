@@ -1,0 +1,15 @@
+Document:
+missouri
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Missouri is a state in the Midwestern United States.
+
+GT:
+The Pony Express, Oregon Trail, Santa Fe Trail and California Trail all began in Missouri. Well-known Missourians include Chuck Berry, Sheryl Crow, Walt Disney, Edwin Hubble, Nelly, Brad Pitt, Harry S. Truman, and Mark Twain. However, Missouri's unofficial nickname is the "Show Me State," which appears on its license plates. The official state motto is Latin: "Salus Populi Suprema Lex Esto", which means "Let the welfare of the people be the supreme law." On May 22, 2011, a massive EF-5 tornado, killed 158 people and destroyed roughly one-third of the city of Joplin. Missouri is home to an endangered dialect of the French language known as Missouri French. Missouri is the native state of Mark Twain.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.058333333333333334, 0.7777777777777778, 0.10852713178294573, 0.06782945736434108]
+[0.008403361344537815, 0.125, 0.015748031496062992, 0.00984251968503937]
+[0.041666666666666664, 0.5555555555555556, 0.07751937984496124, 0.04844961240310078]

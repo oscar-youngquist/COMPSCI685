@@ -1,0 +1,15 @@
+Document:
+nevada
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Nevada has one of the lowest unemployment rates in the United States.
+
+GT:
+Nevada is officially known as the "Silver State" because of the importance of silver to its history and economy. It is also known as the "Battle Born State" because it achieved statehood during the Civil War (the words "Battle Born" also appear on the state flag); as the "Sagebrush State", for the native plant of the same name; and as the "Sage-hen State". Nevada is the only US state where prostitution is legal, though it is illegal in its most populated regions – Clark County (Las Vegas), Washoe County (Reno) and Carson City (which, as an independent city, is not within the boundaries of any county). The name "Nevada" comes from the Spanish nevada [neˈβaða], meaning "snow-covered". Nevada is the driest state in the United States. Church attendance in Nevada is among the lowest of all US states. Nevada's early reputation as a "divorce haven" arose from the fact that before the no-fault divorce revolution in the 1970s, divorces were difficult to obtain in the United States. Nevada has no personal income tax or corporate income tax. Nevada is the only US state to have a none of the above option available on its ballots.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.045, 0.75, 0.08490566037735849, 0.05306603773584905]
+[0.03015075376884422, 0.5454545454545454, 0.057142857142857134, 0.03571428571428571]
+[0.04, 0.6666666666666666, 0.07547169811320754, 0.04716981132075471]

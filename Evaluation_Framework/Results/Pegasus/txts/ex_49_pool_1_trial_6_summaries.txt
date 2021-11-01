@@ -1,0 +1,15 @@
+Document:
+new_mexico
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+New Mexico is a state in the United States of America.
+
+GT:
+Francisco Vásquez de Coronado assembled an enormous expedition at Compostela in 1540–1542 to explore and find the mythical Seven Golden Cities of Cibola as described by Fray Marcos de Niza. Juan de Oñate officially established the name when he was appointed the first governor of the new Province of New Mexico in 1598. The settlement of La Villa Real de la Santa Fe de San Francisco de Asís was established as a more permanent capital at the foot of the Sangre de Cristo Mountains in 1610. As a part of New Spain, the claims for the province of New Mexico passed to independent Mexico in 1821 following the Mexican War of Independence. At the turn of the 19th century, the extreme northeastern part of New Mexico, north of the Canadian River and east of the Sangre de Cristo Mountains was still claimed by France, which sold it in 1803 as part of the Louisiana Purchase. Following the victory of the United States in the Mexican–American War (1846–48), under the Treaty of Guadalupe Hidalgo in 1848, Mexico ceded its northern holdings including the territories of California, Texas, and New Mexico, to the United States of America. The United States Congress admitted New Mexico as the 47th state on January 6, 1912. A major oil discovery in 1928 brought wealth to the state, especially Lea County and the town of Hobbs. The New Mexico Bureau of Mines and Mineral Resources called it "the most important single discovery of oil in New Mexico's history".
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.03875968992248062, 0.9090909090909091, 0.07434944237918216, 0.04646840148698886]
+[0.027237354085603113, 0.7, 0.05243445692883895, 0.03277153558052435]
+[0.03875968992248062, 0.9090909090909091, 0.07434944237918216, 0.04646840148698886]

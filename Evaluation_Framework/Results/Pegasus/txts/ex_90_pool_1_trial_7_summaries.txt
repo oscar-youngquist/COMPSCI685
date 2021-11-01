@@ -1,0 +1,15 @@
+Document:
+north_carolina
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+North Carolina has one of the lowest unemployment rates in the United States.
+
+GT:
+North Carolina was established as a royal colony in 1729 and is one of the original Thirteen Colonies. After the Spanish in the 16th century, the first permanent European settlers of North Carolina were English colonists who migrated south from Virginia. On April 12, 1776, the colony became the first to instruct its delegates to the Continental Congress to vote for independence from the British Crown, through the Halifax Resolves passed by the North Carolina Provincial Congress. During the Revolutionary War, North Carolina had around 7,800 men join the Continental Army under General George Washington; and an additional 10,000 served in local militia units under such leaders as General Nathanael Greene. A major American victory in the war took place at King's Mountain along the North Carolina–South Carolina border; on October 7, 1780, a force of 1,000 mountain men from western North Carolina (including what is today the state of Tennessee) and southwest Virginia overwhelmed a force of some 1,000 British troops led by Major Patrick Ferguson. In 1849, the North Carolina Railroad was created by act of the legislature to extend that railroad west to Greensboro, High Point, and Charlotte. The state did not vote to join the Confederacy until President Abraham Lincoln called on it to invade its sister state, South Carolina, becoming the last or penultimate state to officially join the Confederacy. Following the collapse of the Confederacy in 1865, North Carolina, along with the rest of the former Confederate States, was put under direct control by the US military and was relieved of its constitutional government and representation within the United States Congress in what is now referred to as the Reconstruction era. In 1899, the state legislature passed a new constitution, with requirements for poll taxes and literacy tests for voter registration which disenfranchised most black Americans in the state. North Carolina was hard hit by the Great Depression, but the New Deal programs of Franklin D. Roosevelt for cotton and tobacco significantly helped the farmers. Since the 1970s, North Carolina has seen steady increases in population growth.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.02865329512893983, 0.7692307692307693, 0.055248618784530384, 0.034530386740331494]
+[0.020114942528735632, 0.5833333333333334, 0.03888888888888889, 0.024305555555555556]
+[0.025787965616045846, 0.6923076923076923, 0.04972375690607736, 0.031077348066298343]

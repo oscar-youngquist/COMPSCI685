@@ -1,0 +1,15 @@
+Document:
+michigan
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Michigan is one of the most densely populated states in the United States.
+
+GT:
+Cities, state universities, and villages are vested with home rule powers of varying degrees. The fifteen state universities have broad power and can do anything within the parameters of their status as educational institutions that is not prohibited by the state constitution. Michigan's schools and colleges rank among the nation's best. The state has maintained its early commitment to public education. Michigan's education system serves 1.6 million K-12 students in public schools. More than 124,000 students attend private schools and an uncounted number are home-schooled under certain legal requirements. The University of Michigan is the oldest higher-educational institution in the state, and among the oldest research universities in the nation. The Carnegie Foundation classifies ten of the state's institutions (University of Michigan, Michigan State University, Wayne State University, Eastern Michigan University, Central Michigan University, Western Michigan University, Michigan Technological University, Oakland University, Andrews University, and Baker College) as research universities.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.050314465408805034, 0.6153846153846154, 0.09302325581395349, 0.05813953488372093]
+[0.0189873417721519, 0.25, 0.03529411764705882, 0.022058823529411766]
+[0.0440251572327044, 0.5384615384615384, 0.0813953488372093, 0.05087209302325581]

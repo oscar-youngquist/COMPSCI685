@@ -1,0 +1,15 @@
+Document:
+utah
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Utah is one of the most sparsely populated states in the United States.
+
+GT:
+A little more than half of all Utahns are Mormons, the vast majority of whom are members of the Church of Jesus Christ of Latter-day Saints (LDS Church), which has its world headquarters in Salt Lake City. With five national parks (Arches, Bryce Canyon, Canyonlands, Capitol Reef, and Zion), Utah has the third most national parks of any state after Alaska and California. In addition, Utah features eight national monuments (Cedar Breaks, Dinosaur, Grand Staircase-Escalante, Hovenweep, Natural Bridges, Bears Ears, Rainbow Bridge, and Timpanogos Cave), two national recreation areas (Flaming Gorge and Glen Canyon), seven national forests (Ashley, Caribou-Targhee, Dixie, Fishlake, Manti-La Sal, Sawtooth, and Uinta-Wasatch-Cache), and numerous state parks and monuments. The Moab area, in the southeastern part of the state, is known for its challenging mountain biking trails, including Slickrock. Utah features many cultural attractions such as Temple Square, the Sundance Film Festival, the Red Rock Film Festival, the DOCUTAH Film Festival, the Utah Data Center, and the Utah Shakespearean Festival. Other attractions include Monument Valley, the Great Salt Lake, the Bonneville Salt Flats, and Lake Powell. The state of Utah relies heavily on income from tourists and travelers visiting the state's parks and ski resorts, and thus the need to "brand" Utah and create an impression of the state throughout the world has led to several state slogans, the most famous of which being "The Greatest Snow on Earth", which has been in use in Utah officially since 1975 (although the slogan was in unofficial use as early as 1962) and now adorns nearly 50 percent of the state's license plates. The Utah Jazz of the National Basketball Association play at Vivint Smart Home Arena in Salt Lake City.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.03103448275862069, 0.6923076923076923, 0.05940594059405941, 0.037128712871287134]
+[0.010380622837370242, 0.25, 0.019933554817275746, 0.012458471760797342]
+[0.027586206896551724, 0.6153846153846154, 0.052805280528052806, 0.033003300330033]

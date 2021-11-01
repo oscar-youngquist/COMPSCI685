@@ -1,0 +1,15 @@
+Document:
+tennessee
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Tennessee is one of the most densely populated states in the United States.
+
+GT:
+Tennessee furnished more soldiers for the Confederate Army than any other state besides Virginia, and more soldiers for the Union Army than the rest of the Confederacy combined. In the early 18th century, British traders encountered a Cherokee town named Tanasi (or "Tanase", in syllabary: ᏔᎾᏏ) in present-day Monroe County, Tennessee. It has been said to mean "meeting place", "winding river", or "river of the great bend". Tennessee is known as The Volunteer State, a nickname some claimed was earned during the War of 1812 because of the prominent role played by volunteer soldiers from Tennessee, especially during the Battle of New Orleans. Possibly because of European diseases devastating the Indian tribes, which would have left a population vacuum, and also from expanding European settlement in the north, the Cherokee moved south from the area now called Virginia. During the American Revolutionary War, Fort Watauga at Sycamore Shoals (in present-day Elizabethton) was attacked (1776) by Dragging Canoe and his warring faction of Cherokee who were aligned with the British Loyalists. In February 1861, secessionists in Tennessee's state government—led by Governor Isham Harris—sought voter approval for a convention to sever ties with the United States, but Tennessee voters rejected the referendum by a 54–46% margin. On June 8, 1861, with people in Middle Tennessee having significantly changed their position, voters approved a second referendum calling for secession, becoming the last state to do so. Many major battles of the American Civil War were fought in Tennessee—most of them Union victories. Ulysses S. Grant and the US Navy captured control of the Cumberland and Tennessee rivers in February 1862. They held off the Confederate counterattack at Shiloh in April. Memphis fell to the Union in June, following a naval battle on the Mississippi River in front of the city. The Capture of Memphis and Nashville gave the Union control of the western and middle sections. This control was confirmed at the Battle of Murfreesboro in early January 1863 and by the subsequent Tullahoma Campaign. Meanwhile, President Abraham Lincoln appointed displaced senator and native Tennessean Andrew Johnson military governor of the state. Thousands of former slaves ended up fighting on the Union side, nearly 200,000 in total across the South.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.029411764705882353, 0.8461538461538461, 0.05684754521963824, 0.0355297157622739]
+[0.013404825737265416, 0.4166666666666667, 0.025974025974025972, 0.016233766233766236]
+[0.02406417112299465, 0.6923076923076923, 0.046511627906976744, 0.02906976744186046]

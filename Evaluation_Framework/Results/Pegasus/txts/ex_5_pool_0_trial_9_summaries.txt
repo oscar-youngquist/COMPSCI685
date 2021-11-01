@@ -1,0 +1,15 @@
+Document:
+hawaii
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+The state of Hawaii is one of the most densely populated states in the United States.
+
+GT:
+The history of Hawaii's economy can be traced through a succession of dominant industries: sandalwood, whaling, sugarcane, pineapple, the military, tourism and education. State Senatortor Sam Slom says state taxes are comparatively higher than other states because the state government handles education, health care, and social services that are usually handled at a county or municipal level in most other states. Hawaii has the only school system within the US that is unified statewide. Public elementary, middle and high school test scores in Hawaii are below national averages on tests mandated under the No Child Left Behind Act. The ACT college placement tests show that in 2005, seniors scored slightly above the national average (21.9 compared with 20.9), but in the widely accepted SAT examinations, Hawaii's college-bound seniors tend to score below the national average in all categories except mathematics. Hawaii has the highest rates of private school attendance in the nation. Independent and charter schools can select their students, while the public schools are open to all students in their district. The Kamehameha Schools are the only schools in the US that openly grant admission to students based on ancestry; collectively, they are one of the wealthiest schools in the United States, if not the world, having over eleven billion US dollars in estate assets.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.06334841628959276, 0.875, 0.11814345991561181, 0.07383966244725738]
+[0.031818181818181815, 0.4666666666666667, 0.05957446808510638, 0.03723404255319149]
+[0.049773755656108594, 0.6875, 0.09282700421940927, 0.05801687763713079]

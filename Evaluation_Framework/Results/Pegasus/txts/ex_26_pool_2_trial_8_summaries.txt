@@ -1,0 +1,15 @@
+Document:
+new_york
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+New York is the most populous state in the United States.
+
+GT:
+At the level of post-secondary education, the statewide public university system is the State University of New York (SUNY). The SUNY system consists of 64 community colleges, technical colleges, undergraduate colleges, and doctoral-granting institutions, including several universities. New York's flagship university is the University at Buffalo, which was founded by US President Millard Fillmore. Columbia University, Cornell University and New York University are among the most prominent of the larger higher education institutions in New York, all of them leading, world-renowned private universities and members of the Association of American Universities, the pre-eminent group of research universities in the United States. Other notable large private universities include Syracuse University and Fordham University. Smaller notable private institutions of higher education include Rockefeller University, Mercy College, New York Institute of Technology, Rensselaer Polytechnic Institute, Yeshiva University, and Hofstra University. West Point, the service academy of the US Army, is located just south of Newburgh, on the west bank of the Hudson River. New York is also home to what is widely regarded as the best performing arts schools in the world. The University of the State of New York accredits and sets standards for elementary, middle-level, and secondary education in the state, while the New York State Education Department oversees public schools and controls their standardized tests. The New York City Department of Education manages the New York City Public Schools system. In 1894, reflecting general racial discrimination then, the state passed a law that allowed communities to set up separate schools for children of African-American descent. In 1900, the state passed another law requiring integrated schools.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.03676470588235294, 0.9090909090909091, 0.0706713780918728, 0.044169611307420496]
+[0.025830258302583026, 0.7, 0.0498220640569395, 0.03113879003558719]
+[0.03308823529411765, 0.8181818181818182, 0.0636042402826855, 0.03975265017667845]

@@ -1,0 +1,15 @@
+Document:
+kentucky
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Kentucky is one of the most densely populated states in the United States.
+
+GT:
+Located within the southeastern interior portion of North America, Kentucky has a climate that is best described as a humid subtropical climate (Köppen: Cfa), only small higher areas of the southeast of the state has an oceanic climate (Cfb) influenced by the Appalachians. Temperatures in Kentucky usually range from daytime summer highs of 87 °F (31 °C) to the winter low of 23 °F (−5 °C). The average precipitation is 46 inches (1,200 mm) a year. Kentucky has four distinct seasons, with substantial variations in the severity of summer and winter. The highest recorded temperature was 114 °F (46 °C) at Greensburg on July 28, 1930, while the lowest recorded temperature was −37 °F (−38 °C) at Shelbyville on January 19, 1994. Temperatures seldom drop below 0 degrees or rise above 100 degrees. Climate varies markedly within the state. The northern parts tend to be about five degrees cooler than those in western parts of the state. Somerset in the south-central part receives ten more inches of rain per year than, for instance, Covington to the north. Average temperatures for the entire Commonwealth range from the low 30s in January to the high 70s in mid-July. The annual average temperature varies from 55 to 60 °F (13 to 16 °C): of 55 °F (13 °C) in the far north as an average annual temperature and of 60 °F (16 °C) in the extreme southwest. In general, Kentucky has relatively hot, humid, rainy summers, and moderately cold and rainy winters. Mean maximum temperatures in July vary from 83 to 90 °F (28 to 32 °C) In January the mean maximum temperatures range from 36 to 44 °F (2 to 7 °C) Precipitation also varies north to south with the north averaging of 38 to 40 inches (970 to 1,020 mm), and the south averaging of 50 inches (1,300 mm). Days per year below the freezing point vary from about sixty days in the southwest to more than a hundred days in the far-north and far-east.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.023391812865497075, 0.6153846153846154, 0.04507042253521127, 0.02816901408450704]
+[0.005865102639296188, 0.16666666666666666, 0.0113314447592068, 0.00708215297450425]
+[0.023391812865497075, 0.6153846153846154, 0.04507042253521127, 0.02816901408450704]

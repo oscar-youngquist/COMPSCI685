@@ -1,0 +1,15 @@
+Document:
+missouri
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Missouri is a state in the Midwestern United States.
+
+GT:
+Beginning before 1000 CE, there arose the complex Mississippian culture, whose people created regional political centers at present-day St. Louis and across the Mississippi River at Cahokia, near present-day Collinsville, Illinois. St. Louis was founded soon after by French fur traders, Pierre Laclède and stepson Auguste Chouteau from New Orleans in 1764. From 1764 to 1803, European control of the area west of the Mississippi to the northernmost part of the Missouri River basin, called Louisiana, was assumed by the Spanish as part of the Viceroyalty of New Spain, due to Treaty of Fontainebleau (in order to have Spain join with France in the war against England). Part of the 1803 Louisiana Purchase by the United States, Missouri earned the nickname Gateway to the West because it served as a significant departure point for expeditions and settlers heading to the West during the 19th century. St. Charles, just west of St. Louis, was the starting point and the return destination of the Lewis and Clark Expedition, which ascended the Missouri River in 1804, to explore the western lands to the Pacific Ocean. In 1821, the former Missouri Territory was admitted as a slave state, under the Missouri Compromise, and with a temporary state capital in St. Charles. Soldiers killed unarmed prisoners as well as men, women, and children of St. Louis in the incident that became known as the "St. Louis Massacre". The Confederacy recognized Missouri secession on October 30, 1861. The Progressive Era (1890s to 1920s) saw numerous prominent leaders from Missouri trying to end corruption and modernize politics, government, and society. In 2014, Missouri received national attention for the protests and riots that followed the shooting of Michael Brown by a police officer of Ferguson, which led Governor Jay Nixon to call out the Missouri National Guard.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.023178807947019868, 0.7777777777777778, 0.04501607717041801, 0.028135048231511257]
+[0.006644518272425249, 0.25, 0.012944983818770227, 0.008090614886731393]
+[0.016556291390728478, 0.5555555555555556, 0.03215434083601287, 0.020096463022508042]

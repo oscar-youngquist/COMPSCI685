@@ -1,0 +1,15 @@
+Document:
+north_dakota
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+North Dakota is celebrating its 125th anniversary as a state.
+
+GT:
+The known tribes included the Mandan people (from around the 11th century), while the first Hidatsa group arrived a few hundred years later. The first European to reach the area was the French-Canadian trader Pierre Gaultier, sieur de La Vérendrye, who led an exploration and trading party to the Mandan villages in 1738. guided by Assiniboine Indians. From 1762 to 1802, the region formed part of Spanish Louisiana. Congress passed an omnibus bill for statehood for North Dakota, South Dakota, Montana, and Washington, titled the Enabling Act of 1889, on February 22, 1889 during the administration of President Grover Cleveland. His successor, Benjamin Harrison, signed the proclamations formally admitting North Dakota and South Dakota to the Union on November 2, 1889. The original North Dakota State Capitol in Bismarck burned to the ground on December 28, 1930. Western North Dakota saw a boom in oil exploration in the late 1970s and early 1980s, as rising petroleum prices made development profitable.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.030864197530864196, 0.5, 0.05813953488372092, 0.03633720930232558]
+[0.006211180124223602, 0.1111111111111111, 0.011764705882352941, 0.007352941176470588]
+[0.018518518518518517, 0.3, 0.03488372093023255, 0.021802325581395346]

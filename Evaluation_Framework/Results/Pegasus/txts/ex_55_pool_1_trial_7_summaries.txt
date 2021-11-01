@@ -1,0 +1,15 @@
+Document:
+new_mexico
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+New Mexico is a state in the United States of America.
+
+GT:
+In public education, the state has the constitutional obligation to provide bilingual education and Spanish-speaking instructors in school districts where the majority of students are Hispanophone. Due to its relatively low population, in combination with numerous federally funded research facilities, New Mexico had the highest concentration of PhD holders of any state in 2000. Despite this, the state routinely ranks near the bottom in surveys of the quality of primary and secondary school education. In a landmark decision, a state judge ruled in 2018 that "New Mexico is violating the constitutional rights of at-risk students by failing to provide them with sufficient education," and ordered that the governor and Legislature provide an adequate system by April 2019. New Mexico has a higher concentration of persons who do not finish high school or have some college without a degree than the nation as a whole. The New Mexico Public Education Department oversees the operation of primary and secondary schools New Mexico is one of eight states that fund college scholarships through the state lottery. The state of New Mexico requires that the lottery put 30% of its gross sales into the scholarship fund.The scholarship is available to residents who graduated from a state high school, and attend a state university full-time while maintaining a 2.5 GPA or higher.It covered 100% of tuition when it was first instated in 1996, decreased to 90%, then dropped to 60% in 2017.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.037037037037037035, 0.8181818181818182, 0.07086614173228346, 0.04429133858267716]
+[0.02066115702479339, 0.5, 0.03968253968253968, 0.0248015873015873]
+[0.03292181069958848, 0.7272727272727273, 0.06299212598425198, 0.03937007874015749]

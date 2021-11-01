@@ -1,0 +1,15 @@
+Document:
+missouri
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Missouri is a state in the Midwestern United States.
+
+GT:
+Missouri generally has a humid continental climate with cool, sometimes cold, winters and hot, humid, and wet summers. In the southern part of the state, particularly in the Bootheel, the climate becomes humid subtropical. Located in the interior United States, Missouri often experiences extreme temperatures. Without high mountains or oceans nearby to moderate temperature, its climate is alternately influenced by air from the cold Arctic and the hot and humid Gulf of Mexico. Located in Tornado Alley, Missouri also receives extreme weather in the form of severe thunderstorms and tornadoes.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08888888888888889, 0.8888888888888888, 0.16161616161616163, 0.10101010101010101]
+[0.02247191011235955, 0.25, 0.041237113402061855, 0.02577319587628866]
+[0.07777777777777778, 0.7777777777777778, 0.1414141414141414, 0.08838383838383838]

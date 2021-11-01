@@ -1,0 +1,15 @@
+Document:
+colorado
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Colorado is a state in the western United States encompassing most of the southern Rocky Mountains as well as the northeastern portion of the Colorado Plateau and the western edge of the Great Plains.
+
+GT:
+The Food & Wine Classic is held annually each June in Aspen, Colorado. Aspen also has a reputation as the culinary capital of the Rocky Mountain region. Denver is known for steak, but now has a diverse culinary scene with many restaurants. Colorado's grape growing regions contain the highest elevation vineyards in the United States, with most viticulture in the state practiced between 4,000 and 7,000 feet (1,219 and 2,134 m) above sea level. Colorado is home to many nationally praised microbreweries, including New Belgium Brewing Company, Odell Brewing Company, Great Divide Brewing Company, and Bristol Brewing Company. The area of northern Colorado near and between the cities of Denver, Boulder, and Fort Collins is known as the "Napa Valley of Beer" due to its high density of craft breweries.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1791044776119403, 0.7058823529411765, 0.28571428571428575, 0.17857142857142858]
+[0.045112781954887216, 0.18181818181818182, 0.07228915662650602, 0.045180722891566265]
+[0.11940298507462686, 0.47058823529411764, 0.19047619047619047, 0.11904761904761903]

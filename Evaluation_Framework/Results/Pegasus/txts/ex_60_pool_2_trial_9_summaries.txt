@@ -1,0 +1,15 @@
+Document:
+massachusetts
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Massachusetts is one of the most densely populated states in the United States.
+
+GT:
+The capital of Massachusetts is Boston, which is also the most populous city in New England. Boston is the largest city, at the inmost point of Massachusetts Bay, and the mouth of the Charles River. Massachusetts is home to the oldest school in continuous existence in North America (The Roxbury Latin School, founded in 1645), as well as the country's oldest public elementary school (The Mather School, founded in 1639), its oldest high school (Boston Latin School, founded in 1635), its oldest continuously operating boarding school (The Governor's Academy, founded in 1763), its oldest college (Harvard University, founded in 1636), and its oldest women's college (Mount Holyoke College, founded in 1837). Harvard University and the Massachusetts Institute of Technology, both located in Cambridge, consistently rank among the world's best private universities and universities in general. Both the Boston Symphony Orchestra and Boston Pops Orchestra are based in Massachusetts. The Museum of Fine Arts, Boston, the Institute of Contemporary Art, Boston, and the DeCordova contemporary art and sculpture museum in Lincoln are all located within Massachusetts, and the Maria Mitchell Association in Nantucket includes several observatories, museums, and an aquarium. Long-distance hiking trails in Massachusetts include the Appalachian Trail, the New England National Scenic Trail, the Metacomet-Monadnock Trail, the Midstate Trail, and the Bay Circuit Trail.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.03619909502262444, 0.6153846153846154, 0.06837606837606838, 0.04273504273504274]
+[0.013636363636363636, 0.25, 0.02586206896551724, 0.016163793103448277]
+[0.03167420814479638, 0.5384615384615384, 0.059829059829059825, 0.03739316239316239]

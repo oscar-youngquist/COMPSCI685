@@ -1,0 +1,15 @@
+Document:
+massachusetts
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Massachusetts is one of the most densely populated states in the United States.
+
+GT:
+In 2018, Massachusetts's overall educational system was ranked the top among all fifty US states by US News & World Report. Massachusetts was the first state in North America to require municipalities to appoint a teacher or establish a grammar school with the passage of the Massachusetts Education Law of 1647, and 19th century reforms pushed by Horace Mann laid much of the groundwork for contemporary universal public education which was established in 1852. Massachusetts's per-student public expenditure for elementary and secondary schools was eighth in the nation in 2012, at $14,844. In 2013, Massachusetts scored highest of all the states in math and third-highest in reading on the National Assessment of Educational Progress. Massachusetts' public-school students place among the top tier in the world in academic performance. Massachusetts is home to 121 institutions of higher education. Harvard University and the Massachusetts Institute of Technology, both located in Cambridge, consistently rank among the world's best private universities and universities in general. Massachusetts is also home to three of the top five US News and World Report's best Liberal Arts Colleges: Williams College (#1), Amherst College (#2), and Wellesley College (#4). The public University of Massachusetts (nicknamed UMass) features five campuses in the state, with its flagship campus in Amherst, which enrolls more than 25,000.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.036036036036036036, 0.6153846153846154, 0.06808510638297872, 0.0425531914893617]
+[0.01809954751131222, 0.3333333333333333, 0.03433476394849786, 0.021459227467811162]
+[0.03153153153153153, 0.5384615384615384, 0.05957446808510637, 0.03723404255319149]

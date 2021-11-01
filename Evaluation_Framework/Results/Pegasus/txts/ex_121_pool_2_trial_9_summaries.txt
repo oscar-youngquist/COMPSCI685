@@ -1,0 +1,15 @@
+Document:
+north_dakota
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+North Dakota is celebrating its 125th anniversary as a state.
+
+GT:
+North Dakota has a continental climate with warm summers and cold winters. The temperature differences are significant because of its far inland position and being in the center of the Northern Hemisphere, with roughly equal distances to the North Pole and the Equator. Outdoor activities such as hunting and fishing are hobbies for many North Dakotans. Ice fishing, skiing, and snowmobiling are also popular during the winter months. Residents of North Dakota may own or visit a cabin along a lake. Popular sport fish include walleye, perch, and northern pike.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.05555555555555555, 0.5, 0.09999999999999999, 0.0625]
+[0.011235955056179775, 0.1111111111111111, 0.02040816326530612, 0.012755102040816327]
+[0.05555555555555555, 0.5, 0.09999999999999999, 0.0625]

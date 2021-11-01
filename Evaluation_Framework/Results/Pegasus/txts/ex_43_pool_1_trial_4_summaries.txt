@@ -1,0 +1,15 @@
+Document:
+alaska
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+All images are copyrighted.
+
+GT:
+The Alaska Department of Education and Early Development administers many school districts in Alaska. In addition, the state operates a boarding school, Mt. Edgecumbe High School in Sitka, and provides partial funding for other boarding schools, including Nenana Student Living Center in Nenana and The Galena Interior Learning Academy in Galena. There are more than a dozen colleges and universities in Alaska. Accredited universities in Alaska include the University of Alaska Anchorage, University of Alaska Fairbanks, University of Alaska Southeast, and Alaska Pacific University. Alaska is the only state that has no institutions that are part of NCAA Division I. The Alaska Department of Labor and Workforce Development operates AVTEC, Alaska's Institute of Technology. Campuses in Seward and Anchorage offer one-week to 11-month training programs in areas as diverse as Information Technology, Welding, Nursing, and Mechanics.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.007194244604316547, 0.25, 0.013986013986013986, 0.00874125874125874]
+[0.0, 0.0, 0.0, 0.0]
+[0.007194244604316547, 0.25, 0.013986013986013986, 0.00874125874125874]

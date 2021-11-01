@@ -1,0 +1,15 @@
+Document:
+vermont
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+The state of Vermont has one of the lowest murder rates in the United States.
+
+GT:
+Property taxes are levied by municipalities for the support of education and municipal services. To equitably support education, some towns are required by Act 60 to send some of their collected taxes to be redistributed to school districts lacking adequate support. A political issue has been Act 60, which balances taxation for education funding. Vermont was named the nation's smartest state in 2005 and 2006. In 2017, spending $1.6 billion on education for 76,000 public school children, represents more than $21,000 per student. In 2013, the ratio of pupils to teachers was the lowest in the country. Vermont has five colleges within the Vermont State Colleges system, University of Vermont (UVM), and thirteen other private, degree-granting colleges, including Bennington College, Champlain College, Goddard College, Marlboro College, Middlebury College, Saint Michael's College, the Vermont Law School, and Norwich University. In 2016, the University of Vermont charged the second highest tuition in the nation for four years, $61,000 for in-state students, to $147,000 for out-of-state students.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.06285714285714286, 0.7333333333333333, 0.11578947368421053, 0.07236842105263158]
+[0.022988505747126436, 0.2857142857142857, 0.04255319148936171, 0.026595744680851064]
+[0.05714285714285714, 0.6666666666666666, 0.10526315789473684, 0.06578947368421052]

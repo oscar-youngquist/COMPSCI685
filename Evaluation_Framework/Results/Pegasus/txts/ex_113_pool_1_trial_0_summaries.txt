@@ -1,0 +1,15 @@
+Document:
+north_dakota
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+North Dakota is celebrating its 125th anniversary as a state.
+
+GT:
+The state has 11 public colleges and universities, five tribal community colleges, and four private schools. The largest institutions are North Dakota State University and the University of North Dakota. The higher education system consists of the following institutions: North Dakota University System (public institutions): Tribal institutions: Private institutions:
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.061224489795918366, 0.3, 0.10169491525423728, 0.0635593220338983]
+[0.020833333333333332, 0.1111111111111111, 0.03508771929824561, 0.021929824561403504]
+[0.061224489795918366, 0.3, 0.10169491525423728, 0.0635593220338983]

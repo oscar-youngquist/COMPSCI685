@@ -1,0 +1,15 @@
+Document:
+arizona
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+The state of Arizona is bordered by Mexico to the north, New Mexico to the south and California to the east.
+
+GT:
+There are ski resorts in the areas of Flagstaff, Alpine, and Tucson. In addition to the internationally known Grand Canyon National Park, which is one of the world's seven natural wonders, there are several national forests, national parks, and national monuments. Arizona is in the Southwestern United States as one of the Four Corners states. There are 24 National Park Service maintained sites in Arizona, including the three national parks of Grand Canyon National Park, Saguaro National Park, and the Petrified Forest National Park. Located in northern Arizona, the Grand Canyon is a colorful, deep, steep-sided gorge, carved by the Colorado River. Arizona is home to one of the most well-preserved meteorite impact sites in the world. Phoenix Art Museum, on the historic Central Avenue Corridor in Phoenix, is the Southwest's largest collection of visual art from across the world. Arizona is a recognized center of Native American art, with a number of galleries showcasing historical and contemporary works. Sedona, Jerome, and Tubac are known as a budding artist colonies, and small arts scenes exist in the larger cities and near the state universities.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.06382978723404255, 0.5714285714285714, 0.11483253588516747, 0.07177033492822966]
+[0.016042780748663103, 0.15, 0.028985507246376812, 0.018115942028985508]
+[0.05851063829787234, 0.5238095238095238, 0.10526315789473686, 0.06578947368421054]

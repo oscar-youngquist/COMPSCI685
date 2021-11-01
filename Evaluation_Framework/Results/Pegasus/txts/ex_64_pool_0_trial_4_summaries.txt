@@ -1,0 +1,15 @@
+Document:
+alaska
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+All images are copyrighted.
+
+GT:
+Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined, and the seventh-largest subnational division in the world. The state capital of Juneau is the second-largest city in the United States by area, comprising more territory than the states of Rhode Island and Delaware. Alaska's indigenous population is proportionally the highest of any US state, at over 15 percent. With its myriad islands, Alaska has nearly 34,000 miles (55,000 km) of tidal shoreline. Alaska has more than three million lakes. The Trans-Alaska Pipeline can transport and pump up to 2.1 million barrels (330,000 m3) of crude oil per day, more than any other crude oil pipeline in the United States. Alaska, with no counties, lacks county fairs. Some of Alaska's popular annual events are the Iditarod Trail Sled Dog Race from Anchorage to Nome, World Ice Art Championships in Fairbanks, the Blueberry Festival and Alaska Hummingbird Festival in Ketchikan, the Sitka Whale Fest, and the Stikine River Garnet Fest in Wrangell.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.005405405405405406, 0.25, 0.010582010582010583, 0.006613756613756614]
+[0.0, 0.0, 0.0, 0.0]
+[0.005405405405405406, 0.25, 0.010582010582010583, 0.006613756613756614]

@@ -1,0 +1,15 @@
+Document:
+arizona
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+The state of Arizona is bordered by Mexico to the north, New Mexico to the south and California to the east.
+
+GT:
+Arizona is the 48th state and last of the contiguous states to be admitted to the Union, achieving statehood on February 14, 1912. Historically part of the territory of Alta California in New Spain, it became part of independent Mexico in 1821. He converted many of the Indians to Christianity in the Pimería Alta (now southern Arizona and northern Sonora) in the 1690s and early 18th century. During the Mexican–American War (1847–1848), the US Army occupied the national capital of Mexico City and pursued its claim to much of northern Mexico, including what later became Arizona Territory in 1863 and later the State of Arizona in 1912. This newly established territory was formally organized by the federal government of the Confederate States on Saturday, January 18, 1862, when President Jefferson Davis approved and signed An Act to Organize the Territory of Arizona, marking the first official use of the name "Territory of Arizona". Arizona has the westernmost military engagement on record during the Civil War with the Battle of Picacho Pass (1862). The Federal government declared a new US Arizona Territory, consisting of the western half of earlier New Mexico Territory, in Washington, D.C., on February 24, 1863. During the nineteenth century, a series of gold and silver rushes occurred in the territory, the best known being the 1870s stampede to the silver bonanzas of Tombstone, Arizona in southeast Arizona, also known for its legendary outlaws and lawmen. During the Mexican Revolution from 1910 to 1920, several battles were fought in the Mexican towns just across the border from Arizona settlements. Arizona became a US state on February 14, 1912, coincidentally Valentine's Day. Arizona was the site of German prisoner of war camps during World War II and Japanese American internment camps. Because of wartime fears of a Japanese invasion of the US West Coast (which in fact materialized in the Aleutian Islands Campaign in June 1942), the government authorized the removal of all Japanese American residents from all the Alaska Territory and California, the western halves of Washington and Oregon, and Southern Arizona. From 1942 to 1945, they were forced to reside in internment camps built in the interior of the country. Arizona was also home to the Phoenix Indian School, one of several federal Indian boarding schools designed to assimilate Native American children into mainstream European-American culture. In March 2000, Arizona was the site of the first legally binding election ever held over the internet to nominate a candidate for public office.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.04285714285714286, 0.8571428571428571, 0.08163265306122448, 0.051020408163265314]
+[0.021479713603818614, 0.45, 0.04100227790432801, 0.02562642369020501]
+[0.03571428571428571, 0.7142857142857143, 0.06802721088435375, 0.04251700680272108]

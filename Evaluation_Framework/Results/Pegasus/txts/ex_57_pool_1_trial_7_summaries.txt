@@ -1,0 +1,15 @@
+Document:
+louisiana
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Louisiana is a state in the Deep South region of the South Central United States.
+
+GT:
+Louisiana is the only US state with political subdivisions termed parishes, which are equivalent to counties. The state's capital is Baton Rouge, and its largest city is New Orleans. Much of the state's lands were formed from sediment washed down the Mississippi River, leaving enormous deltas and vast areas of coastal marsh and swamp. Some Louisiana urban environments have a multicultural, multilingual heritage, being so strongly influenced by a mixture of 18th-century French, Italian, Haitian, Spanish, French Canadian, Native American, and African cultures that they are considered to be exceptional in the US Before the American purchase of the territory in 1803, the present-day State of Louisiana had been both a French colony and for a brief period a Spanish one. The state may properly be divided into two parts, the uplands of the north, and the alluvial along the coast. The state also has political jurisdiction over the approximately 3-mile (4.8 km)-wide portion of subsea land of the inner continental shelf in the Gulf of Mexico. Through a peculiarity of the political geography of the United States, this is substantially less than the 9-mile (14 km)-wide jurisdiction of nearby states Texas and Florida, which, like Louisiana, have extensive Gulf coastlines. Louisiana contains 308 incorporated municipalities, consisting of four consolidated city-parishes, and 304 cities, towns, and villages. Christians make up 84% of the total state population, making Louisiana one of the most Christian-dominated states in the United States. The Port of South Louisiana, located on the Mississippi River between New Orleans and Baton Rouge, was the largest volume shipping port in the Western Hemisphere and 4th largest in the world, as well as the largest bulk cargo port in the US in 2004. Louisiana is rich in petroleum and natural gas. Louisiana is home to many, especially notable are the distinct culture of the Louisiana Creoles, typically people of color, descendants of free mixed-race families of the colonial and early statehood periods.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.03293413173652695, 0.7333333333333333, 0.06303724928366762, 0.03939828080229227]
+[0.015015015015015015, 0.35714285714285715, 0.02881844380403458, 0.018011527377521614]
+[0.029940119760479042, 0.6666666666666666, 0.05730659025787966, 0.03581661891117479]

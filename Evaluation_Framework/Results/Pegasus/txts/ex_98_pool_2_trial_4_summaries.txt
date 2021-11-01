@@ -1,0 +1,15 @@
+Document:
+nevada
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Nevada has one of the lowest unemployment rates in the United States.
+
+GT:
+Francisco Garcés was the first European in the area. Nevada became a part of Alta California (Upper California) province in 1804 when the Californias were split. With the Mexican War of Independence won in 1821, the province of Alta California became a territory (state) of Mexico, with a small population. As part of the Mexican Cession (1848) and the subsequent California Gold Rush that used Emigrant Trails through the area, the state's area evolved first as part of the Utah Territory, then the Nevada Territory (March 2, 1861; named for the Sierra Nevada). On March 2, 1861, the Nevada Territory separated from the Utah Territory and adopted its current name, shortened from The Sierra Nevada (Spanish for "snow-covered mountain range"). Eight days before the presidential election of 1864, Nevada became the 36th state in the union, despite lacking the minimum requisite 60,000 residents in order to become a state. Nevada achieved its current southern boundaries on January 18, 1867, when it absorbed the portion of Pah-Ute County in the Arizona Territory west of the Colorado River, essentially all of present-day Nevada south of the 37th parallel. Because of subsequent declines in mining output and the decline of the agricultural sector during the Great Depression, Nevada again legalized gambling on March 19, 1931, with approval from the legislature. The Nevada Test Site, 65 miles (105 km) northwest of the city of Las Vegas, was founded on January 11, 1951, for the testing of nuclear weapons.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.024, 0.5, 0.04580152671755725, 0.02862595419847328]
+[0.008032128514056224, 0.18181818181818182, 0.015384615384615384, 0.009615384615384616]
+[0.024, 0.5, 0.04580152671755725, 0.02862595419847328]

@@ -1,0 +1,15 @@
+Document:
+alaska
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+All images are copyrighted.
+
+GT:
+Numerous indigenous peoples occupied Alaska for thousands of years before the arrival of European peoples to the area. All three of these peoples, as well as other indigenous peoples of the Pacific Northwest Coast, experienced smallpox outbreaks from the late 18th through the mid-19th century, with the most devastating epidemics occurring in the 1830s and 1860s, resulting in high fatalities and social disruption. Some researchers believe the first Russian settlement in Alaska was established in the 17th century. The first European vessel to reach Alaska is generally held to be the St. Gabriel under the authority of the surveyor M. S. Gvozdev and assistant navigator I. Fyodorov on August 21, 1732, during an expedition of Siberian cossack A. F. Shestakov and Russian explorer Dmitry Pavlutsky (1729–1735). In 1789 a Spanish settlement and fort were built in Nootka Sound. William H. Seward, the United States Secretary of State, negotiated the Alaska Purchase (also known as Seward's Folly) with the Russians in 1867 for $7.2 million. Alaska was loosely governed by the military initially, and was administered as a district starting in 1884, with a governor appointed by the President of the United States. Legislation allowing Alaskan communities to legally incorporate as cities did not come about until 1900, and home rule for cities was extremely limited or unavailable until statehood took effect in 1959. Starting in the 1890s and stretching in some places to the early 1910s, gold rushes in Alaska and the nearby Yukon Territory brought thousands of miners and settlers to Alaska. Alaska was officially incorporated as an organized territory in 1912. Alaska's capital, which had been in Sitka until 1906, was moved north to Juneau. On March 27, 1964, the massive Good Friday earthquake killed 133 people and destroyed several villages and portions of large coastal communities, mainly by the resultant tsunamis and landslides. The 1968 discovery of oil at Prudhoe Bay and the 1977 completion of the Trans-Alaska Pipeline System led to an oil boom. In 1989, the Exxon Valdez hit a reef in the Prince William Sound, spilling more than 11 million US gallons (42 megaliters) of crude oil over 1,100 miles (1,800 km) of coastline.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.002717391304347826, 0.25, 0.005376344086021505, 0.0033602150537634405]
+[0.0, 0.0, 0.0, 0.0]
+[0.002717391304347826, 0.25, 0.005376344086021505, 0.0033602150537634405]

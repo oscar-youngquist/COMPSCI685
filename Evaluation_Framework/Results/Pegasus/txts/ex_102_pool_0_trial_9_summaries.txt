@@ -1,0 +1,15 @@
+Document:
+pennsylvania
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Pennsylvania is the 33rd-largest state by area.
+
+GT:
+Pennsylvania is home to the nation's first zoo, the Philadelphia Zoo. Other long-accredited AZA zoos include the Erie Zoo and the Pittsburgh Zoo & PPG Aquarium. The Lehigh Valley Zoo and ZOOAMERICA are other notable zoos. The Commonwealth boasts some of the finest museums in the country, including the Carnegie Museums in Pittsburgh, the Philadelphia Museum of Art, and several others. One unique museum is the Houdini Museum in Scranton, the only building in the world devoted to the legendary magician. Pennsylvania is also home to the National Aviary, located in Pittsburgh. Pennsylvania offers a number of notable amusement parks, including Camel Beach, Conneaut Lake Park, Dorney Park & Wildwater Kingdom, Dutch Wonderland, DelGrosso's Amusement Park, Hersheypark, Idlewild Park, Kennywood, Knoebels, Lakemont Park, Sandcastle Waterpark, Sesame Place, Great Wolf Lodge and Waldameer Park. Pennsylvania also is home to the largest indoor waterpark resort on the East Coast, Splash Lagoon in Erie. These include Musikfest and NEARfest in Bethlehem, the Philadelphia Folk Festival, Creation Festival, the Great Allentown Fair, and Purple Door. PGA tournaments in Pennsylvania include the 84 Lumber Classic, played at Nemacolin Woodlands Resort, in Farmington and the Northeast Pennsylvania Classic, played at Glenmaura National Golf Club, in Moosic. Philadelphia is home to LOVE Park, once a popular spot for skateboarding, and across from City Hall, host to ESPN's X Games in 2001 and 2002. The Sturgis Pretzel House introduced the pretzel to America, and companies like Anderson Bakery Company, Intercourse Pretzel Factory, and Snyder's of Hanover are leading manufacturers in the Commonwealth. Two of the three companies that define the US potato chip industry are based in Pennsylvania: Utz Quality Foods, which started making chips in Hanover, Pennsylvania, in 1921, Wise Foods, which started making chips in Berwick in 1921, the third, Frito-Lay (part of PepsiCo, based in Plano, Texas). The US chocolate industry is centered in Hershey, Pennsylvania, with Mars, Godiva, and Wilbur Chocolate Company nearby, and smaller manufacturers such as Asher's in Souderton, and Gertrude Hawk Chocolates of Dunmore.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.011834319526627219, 0.5, 0.023121387283236997, 0.014450867052023123]
+[0.005934718100890208, 0.2857142857142857, 0.011627906976744188, 0.007267441860465117]
+[0.011834319526627219, 0.5, 0.023121387283236997, 0.014450867052023123]

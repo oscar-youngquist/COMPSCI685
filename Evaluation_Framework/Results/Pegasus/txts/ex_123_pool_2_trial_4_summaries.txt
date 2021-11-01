@@ -1,0 +1,15 @@
+Document:
+west_virginia
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+West Virginia Governor Joe Manchin has announced that he will not seek re-election in 2016.
+
+GT:
+Many tourists, especially in the eastern mountains, are drawn to the region's notable opportunities for outdoor recreation. Canaan Valley is popular for winter sports, Senatorca Rocks is one of the premier rock climbing destinations in the eastern US, the New River Gorge/Fayetteville area draws rock climbers as well as whitewater rafting enthusiasts, and the Monongahela National Forest is popular with hikers, backpackers, hunters, and anglers. In addition to such outdoor recreation opportunities, the state offers a number of historic and cultural attractions. Harpers Ferry National Historical Park is a historic town situated at the confluence of the Shenandoah and Potomac rivers. Located at the approximate midpoint of the Appalachian Trail, Harpers Ferry is the base of the Appalachian Trail Conservancy. Camp Washington-Carver, a Mountain Cultural Arts Center located at Clifftop in Fayette County, hosts an annual Appalachian String Band Festival. The Augusta Heritage Center sponsored by Davis & Elkins College in Elkins in Randolph County produces the annual Augusta Heritage Festival, which includes intensive week-long workshops in the summer that help preserve Appalachian heritage and traditions.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0111731843575419, 0.125, 0.020512820512820516, 0.012820512820512822]
+[0.0, 0.0, 0.0, 0.0]
+[0.00558659217877095, 0.0625, 0.010256410256410258, 0.006410256410256411]

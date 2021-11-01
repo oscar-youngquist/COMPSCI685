@@ -1,0 +1,15 @@
+Document:
+alabama
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+The state of Alabama is celebrating its 150th anniversary this year.
+
+GT:
+Similar to other former slave states, Alabamian legislators employed Jim Crow laws to disenfranchise and otherwise discriminate against African Americans from the end of the Reconstruction Era up until at least the 1970s. Before Mississippi's admission to statehood on December 10, 1817, the more sparsely settled eastern half of the territory was separated and named the Alabama Territory. The United States Congress created the Alabama Territory on March 3, 1817. Alabama was admitted as the 22nd state on December 14, 1819, with Congress selecting Huntsville as the site for the first Constitutional Convention. Part of the frontier in the 1820s and 1830s, its constitution provided for universal suffrage for white men. Most Native American tribes were completely removed from the state within a few years of the passage of the Indian Removal Act by Congress in 1830. On January 30, 1846, the Alabama legislature announced it had voted to move the capital city from Tuscaloosa to Montgomery. On January 11, 1861, Alabama declared its secession from the Union. After disenfranchising most African Americans and many poor whites in the 1901 constitution, the Alabama legislature passed more Jim Crow laws at the beginning of the 20th century to impose segregation in everyday life. The 1901 constitution required racial segregation of public schools. The exclusion of blacks from the political system persisted until after passage of federal civil rights legislation in 1965 to enforce their constitutional rights as citizens. In the United States Supreme Court cases of Baker v. Carr (1962) and Reynolds v. Sims (1964), the court ruled that the principle of "one man, one vote" needed to be the basis of both houses of state legislatures, and that their districts had to be based on population rather than geographic counties. In 1954, the US Supreme Court ruled in Brown v. Board of Education that public schools had to be desegregated, but Alabama was slow to comply. The civil rights movement had notable events in Alabama, including the Montgomery bus boycott (1955–56), Freedom Rides in 1961, and 1965 Selma to Montgomery marches. These contributed to Congressional passage and enactment of the Civil Rights Act of 1964 and Voting Rights Act of 1965 by the US Congress. Legal segregation ended in the states in 1964, but Jim Crow customs often continued until specifically challenged in court.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.015544041450777202, 0.5454545454545454, 0.030226700251889164, 0.018891687657430725]
+[0.0025974025974025974, 0.1, 0.005063291139240506, 0.003164556962025317]
+[0.012953367875647668, 0.45454545454545453, 0.02518891687657431, 0.01574307304785894]

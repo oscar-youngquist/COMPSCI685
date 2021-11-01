@@ -1,0 +1,15 @@
+Document:
+pennsylvania
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Pennsylvania is the 33rd-largest state by area.
+
+GT:
+Historically, as of 1600, the tribes living in Pennsylvania were the Algonquian Lenape (also Delaware), the Iroquoian Susquehannock, and Petun (also Tionontati, Kentatentonga, Tobacco, Wenro) and the presumably Siouan Monongahela Culture, who may have been the same as a little known tribe called the Calicua, or Cali. By June 3, 1631, the Dutch had begun settling the Delmarva Peninsula by establishing the Zwaanendael Colony on the site of present-day Lewes, Delaware. On March 12, 1664, King Charles II of England gave James, Duke of York a grant that incorporated all lands included in the original Virginia Company of Plymouth Grant plus other lands. On June 24, 1664, the Duke of York sold the portion of his large grant that included present-day New Jersey to John Berkeley and George Carteret for a proprietary colony. Between 1730 and when it was shut down by Parliament with the Currency Act of 1764, the Pennsylvania Colony made its own paper money to account for the shortage of actual gold and silver. After the Stamp Act Congress of 1765, Delegate John Dickinson of Philadelphia wrote the Declaration of Rights and Grievances. When the Founding Fathers of the United States convened in Philadelphia in 1774, 12 colonies sent representatives to the First Continental Congress. Pennsylvania became the first large state, and the second state to ratify the US Constitution on December 12, 1787, five days after Delaware became the first. For half a century, the Commonwealth's General Assembly (legislature) met at various places in the general Philadelphia area before starting to meet regularly in Independence Hall in Philadelphia for 63 years. The General Assembly met in the old Dauphin County Court House until December 1821, when the Federal-style "Hills Capitol" (named for its builder, Stephen Hills, a Lancaster architect) was constructed on a hilltop land grant of four acres set aside for a seat of state government by the prescient, entrepreneurial son and namesake of John Harris, Sr., a Yorkshire native who had founded a trading post in 1705 and ferry (1733) on the east shore of the Susquehanna River. In 1923, President Calvin Coolidge established the Allegheny National Forest under the authority of the Weeks Act of 1911. United Airlines Flight 93 crashed into a field near Shanksville during the September 11th attacks, killing 44. In October 2018, the Tree of Life – Or L'Simcha Congregation experienced the Pittsburgh synagogue shooting.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0125, 0.625, 0.02450980392156863, 0.015318627450980393]
+[0.0, 0.0, 0.0, 0.0]
+[0.01, 0.5, 0.0196078431372549, 0.012254901960784314]

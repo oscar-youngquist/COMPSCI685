@@ -1,0 +1,15 @@
+Document:
+kansas
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at the history and culture of the American state of Kansas.
+
+GT:
+Several institutions of higher education are located in Northeast Kansas including Baker University (the oldest university in the state, founded in 1858 and affiliated with the United Methodist Church) in Baldwin City, Benedictine College (sponsored by St. Benedict's Abbey and Mount St. Scholastica Monastery and formed from the merger of St. Benedict's College (1858) and Mount St. Scholastica College (1923)) in Atchison, MidAmerica Nazarene University in Olathe, Ottawa University in Ottawa and Overland Park, Kansas City Kansas Community College and KU Medical Center in Kansas City, and KU Edwards Campus in Overland Park. During his campaign for the 2010 election, Governor Sam Brownback called for a complete "phase out of Kansas's income tax". He made cuts to education and some state services to offset lost revenue. Education in Kansas is governed at the primary and secondary school level by the Kansas State Board of Education. The state's public colleges and universities are supervised by the Kansas Board of Regents. Twice since 1999 the Board of Education has approved changes in the state science curriculum standards that encouraged the teaching of intelligent design. Both times, the standards were reversed after changes in the composition of the board in the next election.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.058823529411764705, 0.48, 0.10480349344978165, 0.06550218340611354]
+[0.014778325123152709, 0.125, 0.026431718061674006, 0.016519823788546252]
+[0.049019607843137254, 0.4, 0.08733624454148471, 0.05458515283842794]

@@ -1,0 +1,15 @@
+Document:
+utah
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Utah is one of the most sparsely populated states in the United States.
+
+GT:
+Beginning in the early 20th century, with the establishment of such national parks as Bryce Canyon National Park and Zion National Park, Utah became known for its natural beauty. With five national parks (Arches, Bryce Canyon, Canyonlands, Capitol Reef, and Zion), Utah has the third most national parks of any state after Alaska and California. In addition, Utah features eight national monuments (Cedar Breaks, Dinosaur, Grand Staircase-Escalante, Hovenweep, Natural Bridges, Bears Ears, Rainbow Bridge, and Timpanogos Cave), two national recreation areas (Flaming Gorge and Glen Canyon), seven national forests (Ashley, Caribou-Targhee, Dixie, Fishlake, Manti-La Sal, Sawtooth, and Uinta-Wasatch-Cache), and numerous state parks and monuments. Utah's ski resorts are primarily located in northern Utah near Salt Lake City, Park City, Ogden, and Provo. Between 2007 and 2011 Deer Valley in Park City, has been ranked the top ski resort in North America in a survey organized by Ski Magazine. In Southern Utah, Brian Head Ski Resort is located in the mountains near Cedar City. Former Olympic venues including Utah Olympic Park and Utah Olympic Oval are still in operation for training and competition and allows the public to participate in numerous activities including ski jumping, bobsleigh, and speed skating. Utah features many cultural attractions such as Temple Square, the Sundance Film Festival, the Red Rock Film Festival, the DOCUTAH Film Festival, the Utah Data Center, and the Utah Shakespearean Festival. Other attractions include Monument Valley, the Great Salt Lake, the Bonneville Salt Flats, and Lake Powell.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.035856573705179286, 0.6923076923076923, 0.06818181818181819, 0.04261363636363637]
+[0.004, 0.08333333333333333, 0.007633587786259542, 0.004770992366412214]
+[0.02390438247011952, 0.46153846153846156, 0.045454545454545456, 0.02840909090909091]

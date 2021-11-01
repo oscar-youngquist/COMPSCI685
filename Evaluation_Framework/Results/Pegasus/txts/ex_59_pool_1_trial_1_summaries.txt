@@ -1,0 +1,15 @@
+Document:
+tennessee
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Tennessee is one of the most densely populated states in the United States.
+
+GT:
+The area now known as Tennessee was first inhabited by Paleo-Indians nearly 12,000 years ago. The first recorded European excursions into what is now called Tennessee were three expeditions led by Spanish explorers, namely Hernando de Soto in 1540, Tristan de Luna in 1559, and Juan Pardo in 1567. The first British settlement in what is now Tennessee was built in 1756 by settlers from the colony of South Carolina at Fort Loudoun, near present-day Vonore. In the 1760s, long hunters from Virginia explored much of East and Middle Tennessee, and the first permanent European settlers began arriving late in the decade. During the American Revolutionary War, Fort Watauga at Sycamore Shoals (in present-day Elizabethton) was attacked (1776) by Dragging Canoe and his warring faction of Cherokee who were aligned with the British Loyalists. Tennessee was admitted to the Union on June 1, 1796 as the 16th state. It was the first state created from territory under the jurisdiction of the United States federal government. On June 8, 1861, with people in Middle Tennessee having significantly changed their position, voters approved a second referendum calling for secession, becoming the last state to do so. Many major battles of the American Civil War were fought in Tennessee—most of them Union victories. Ulysses S. Grant and the US Navy captured control of the Cumberland and Tennessee rivers in February 1862. It also ratified the Thirteenth Amendment to the United States Constitution (abolishing slavery in every state) on April 7, 1865. The need to create work for the unemployed during the Great Depression, a desire for rural electrification, the need to control annual spring flooding and improve shipping capacity on the Tennessee River were all factors that drove the federal creation of the Tennessee Valley Authority (TVA) in 1933. During World War II, the availability of abundant TVA electrical power led the Manhattan Project to locate one of the principal sites for production and isolation of weapons-grade fissile material in East Tennessee. The state has had major disasters, such as the Great Train Wreck of 1918, one of the worst train accidents in US history, and the Sultana explosion on the Mississippi River near Memphis, the deadliest maritime disaster in US history.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.029333333333333333, 0.8461538461538461, 0.05670103092783505, 0.03543814432989691]
+[0.013368983957219251, 0.4166666666666667, 0.025906735751295335, 0.016191709844559588]
+[0.024, 0.6923076923076923, 0.04639175257731959, 0.028994845360824743]

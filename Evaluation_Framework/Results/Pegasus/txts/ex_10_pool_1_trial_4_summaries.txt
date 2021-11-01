@@ -1,0 +1,15 @@
+Document:
+massachusetts
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Massachusetts is one of the most densely populated states in the United States.
+
+GT:
+In the early 1600s, after contact had been made with Europeans, large numbers of the indigenous peoples in the northeast of what is now the United States were killed by virgin soil epidemics such as smallpox, measles, influenza, and perhaps leptospirosis. Between 1617 and 1619, what was possibly smallpox killed approximately 90% of the Massachusetts Bay Native Americans. The first English settlers in Massachusetts, the Pilgrims, arrived on the Mayflower at Plymouth in 1620, and developed friendly relations with the native Wampanoag people. In 1691, the colonies of Massachusetts Bay and Plymouth were united (along with present-day Maine, which had previously been divided between Massachusetts and New York) into the Province of Massachusetts Bay. The most destructive earthquake yet known in New England occurred in 1755, causing considerable damage across Massachusetts. Protests against British attempts to tax the colonies after the French and Indian War ended in 1763 led to the Boston Massacre in 1770, and the 1773 Boston Tea Party escalated tensions. Future President George Washington took over what would become the Continental Army after the battle. His first victory was the Siege of Boston in the winter of 1775–76, after which the British were forced to evacuate the city. In 1820, Maine separated from Massachusetts and entered the Union as the 23rd state as a result of the ratification of the Missouri Compromise. During the 19th century, Massachusetts became a national leader in the American Industrial Revolution, with factories around cities such as Lowell and Boston producing textiles and shoes, and factories around Springfield producing tools, paper, and textiles. In 1852, Massachusetts became the first state to pass compulsory education laws. The 1969 closure of the Springfield Armory, in particular, spurred an exodus of high-paying jobs from Western Massachusetts, which suffered greatly as it de-industrialized during the last 40 years of the 20th century. In 1966, Massachusetts became the first state to directly elect an African American to the US senate with Edward Brooke. On May 17, 2004, Massachusetts became the first state in the US to legalize same-sex marriage after a Massachusetts Supreme Judicial Court ruling in November 2003 determined that the exclusion of same-sex couples from the right to a civil marriage was unconstitutional. On November 8, 2016, Massachusetts voted in favor of The Massachusetts Marijuana Legalization Initiative, also known as Question 4.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.02544529262086514, 0.7692307692307693, 0.04926108374384236, 0.03078817733990148]
+[0.015306122448979591, 0.5, 0.029702970297029705, 0.018564356435643567]
+[0.020356234096692113, 0.6153846153846154, 0.0394088669950739, 0.024630541871921187]

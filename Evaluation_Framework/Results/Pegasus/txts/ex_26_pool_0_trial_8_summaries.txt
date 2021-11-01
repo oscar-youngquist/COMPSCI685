@@ -1,0 +1,15 @@
+Document:
+florida
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Images courtesy of AFP, EPA, Getty Images and Reuters
+
+GT:
+Florida overall was ranked the 7th best state in America for educating students at all levels by US News & World Report in 2018. With an educational system made up of public school districts and independent private institutions, Florida had 2,833,115 students enrolled in 4,269 public primary, secondary, and vocational schools in Florida's 67 regular or seven special school districts as of 2018. Miami-Dade County is the largest of Florida's 67 regular districts with more than 350 thousand students and Jefferson is the smallest with less than one thousand students. Florida spent $8,920 for each student in 2016, and was 43rd in the nation in expenditures per student. Florida's primary and secondary school systems are administered by the Florida Department of Education. Each school district has an elected Board of Education that sets policy, budget, goals, and approves expenditures. Management is the responsibility of a Superintendent of schools. The Florida Department of Education is required by law to train educators in teaching English for Speakers of Other Languages (ESOL). In 2016, Florida charged the second lowest tuition in the nation for four years, $26,000 for in-state students, to $86,000 for out-of-state students.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.00980392156862745, 0.2222222222222222, 0.018779342723004695, 0.011737089201877934]
+[0.0, 0.0, 0.0, 0.0]
+[0.00980392156862745, 0.2222222222222222, 0.018779342723004695, 0.011737089201877934]

@@ -1,0 +1,15 @@
+Document:
+south_dakota
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+South Dakota is one of the most sparsely populated states in the United States.
+
+GT:
+Mount Rushmore, a major tourist destination, is there. Black Elk Peak, formerly named Harney Peak, with an elevation of 7,242 ft (2,207 m), is the state's highest point, while the shoreline of Big Stone Lake is the lowest, with an elevation of 966 ft (294 m). Two-billion-year-old Precambrian formations, the oldest rocks in the state, form the central core of the Black Hills. Wind Cave National Park, established in 1903 in the Black Hills, has an extensive cave network and is home to a large herd of bison. Badlands National Park was established in 1978, and features an eroded, brightly colored landscape surrounded by semi-arid grasslands. Mount Rushmore National Memorial in the Black Hills was established in 1925. Other areas managed by the National Park Service include Jewel Cave National Monument near Custer, the Lewis and Clark National Historic Trail, the Minuteman Missile National Historic Site, which features a decommissioned nuclear missile silo and a separate missile control area several miles away, and the Missouri National Recreational River. The Crazy Horse Memorial is a large mountainside sculpture near Mount Rushmore being built using private funds. The Mammoth Site near Hot Springs is another privately owned attraction in the Black Hills. It is a working paleontological dig and has one of the world's largest concentrations of mammoth remains. Many travel to view the attractions of the state, particularly those in the Black Hills region, such as historic Deadwood, Mount Rushmore, and the nearby state and national parks. One of the largest tourist events in the state is the annual Sturgis Motorcycle Rally. In 1991, the state opened the George S. Mickelson Trail, a 109-mile (175 km) rail trail in the Black Hills. Other events in the state include the Tour de Kota, a 478-mile (769 km), six-day cycling event that covers much of eastern and central South Dakota, and the annual Sturgis Motorcycle Rally, which draws hundreds of thousands of participants from around the United States.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.03273809523809524, 0.7857142857142857, 0.06285714285714286, 0.03928571428571429]
+[0.01791044776119403, 0.46153846153846156, 0.034482758620689655, 0.021551724137931036]
+[0.026785714285714284, 0.6428571428571429, 0.05142857142857143, 0.03214285714285714]

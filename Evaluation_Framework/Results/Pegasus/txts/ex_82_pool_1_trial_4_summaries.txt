@@ -1,0 +1,15 @@
+Document:
+montana
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Montana is one of the most sparsely populated states in the United States.
+
+GT:
+Montana has no official nickname but several unofficial ones, most notably "Big Sky Country", "The Treasure State", "Land of the Shining Mountains", and "The Last Best Place". The name Montana comes from the Spanish word montaña, which in turn comes from the Latin word montanea, meaning "mountain" or more broadly "mountainous country". All waters in Montana west of the divide flow into the Columbia River. Montana has some 3,000 named lakes and reservoirs, including Flathead Lake, the largest natural freshwater lake in the western United States. Montana has a larger Native American population, both numerically and as a percentage, than most US states. About 66,000 people of Native American heritage live in Montana. There are no major league sports franchises in Montana due to the state's relatively small and dispersed population, but a number of minor league teams play in the state. Montana's motto, Oro y Plata, Spanish for "Gold and Silver", recognizing the significant role of mining, was first adopted in 1865, when Montana was still a territory.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.06321839080459771, 0.8461538461538461, 0.11764705882352942, 0.07352941176470588]
+[0.017341040462427744, 0.25, 0.03243243243243243, 0.020270270270270268]
+[0.05172413793103448, 0.6923076923076923, 0.0962566844919786, 0.06016042780748664]

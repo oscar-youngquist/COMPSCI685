@@ -1,0 +1,15 @@
+Document:
+arizona
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+The state of Arizona is bordered by Mexico to the north, New Mexico to the south and California to the east.
+
+GT:
+Arizona is the 48th state and last of the contiguous states to be admitted to the Union, achieving statehood on February 14, 1912. In addition to the internationally known Grand Canyon National Park, which is one of the world's seven natural wonders, there are several national forests, national parks, and national monuments. Arizona was the 48th state admitted to the US and the last of the contiguous states to be admitted. Arizona was the site of German prisoner of war camps during World War II and Japanese American internment camps. In March 2000, Arizona was the site of the first legally binding election ever held over the internet to nominate a candidate for public office. Arizona is home to one of the most well-preserved meteorite impact sites in the world. Created around 50,000 years ago, the Barringer Meteorite Crater (better known simply as "Meteor Crater") is a gigantic hole in the middle of the high plains of the Colorado Plateau, about 25 miles (40 km) west of Winslow. In 2006, Arizona became the first state in the United States to reject a proposition, Prop 107, that would have banned same-sex marriage and civil unions.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.06060606060606061, 0.5714285714285714, 0.10958904109589043, 0.06849315068493152]
+[0.02030456852791878, 0.2, 0.03686635944700461, 0.02304147465437788]
+[0.05555555555555555, 0.5238095238095238, 0.10045662100456619, 0.06278538812785388]

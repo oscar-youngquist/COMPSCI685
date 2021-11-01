@@ -1,0 +1,15 @@
+Document:
+new_jersey
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+New Jersey is a state in the Mid-Atlantic region of the Northeastern United States.
+
+GT:
+New Jersey was one of the Thirteen Colonies that revolted against British rule in the American Revolution. During the American Revolutionary War, British and American armies crossed New Jersey numerous times, and several pivotal battles took place in the state. On the night of December 25–26, 1776, the Continental Army under George Washington crossed the Delaware River. Slightly more than a week after victory at Trenton, American forces gained an important victory by stopping General Cornwallis's charges at the Second Battle of Trenton. In the summer of 1783, the Continental Congress met in Nassau Hall at Princeton University, making Princeton the nation's capital for four months. On December 18, 1787, New Jersey became the third state to ratify the United States Constitution, which was overwhelmingly popular in New Jersey, as it prevented New York and Pennsylvania from charging tariffs on goods imported from Europe. On November 20, 1789, the state became the first in the newly formed Union to ratify the Bill of Rights. On February 15, 1804, New Jersey became the last northern state to abolish new slavery and enacted legislation that slowly phased out existing slavery. The first Miss America Pageant was held in 1921 in Atlantic City, the Holland Tunnel connecting Jersey City to Manhattan opened in 1927, and the first drive-in movie was shown in 1933 in Camden. During the Great Depression of the 1930s, the state offered begging licenses to unemployed residents, the zeppelin airship Hindenburg crashed in flames over Lakehurst, and the SS Morro Castle beached itself near Asbury Park after going up in flames while at sea. Hurricanes and tropical storms (such as Tropical Storm Floyd in 1999), tornadoes, and earthquakes are rare, although New Jersey was impacted by a hurricane in 1903, and Hurricane Sandy on October 29, 2012 with the storm making landfall in the state with top winds of 90 mph (145 km/h). The world's largest Hindu temple was inaugurated in Robbinsville, Mercer County, in central New Jersey during 2014, a BAPS temple. In 1976, a referendum of New Jersey voters approved casino gambling in Atlantic City, where the first legalized casino opened in 1978. America's first motion picture industry started in 1907 in Fort Lee and the first studio was constructed there in 1909. On December 17, 2007, Governor Jon Corzine signed into law a bill that would eliminate the death penalty in New Jersey.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.02729528535980149, 0.7333333333333333, 0.052631578947368425, 0.03289473684210526]
+[0.009950248756218905, 0.2857142857142857, 0.019230769230769232, 0.012019230769230768]
+[0.02481389578163772, 0.6666666666666666, 0.04784688995215311, 0.029904306220095697]

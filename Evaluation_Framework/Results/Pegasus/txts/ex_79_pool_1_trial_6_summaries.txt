@@ -1,0 +1,15 @@
+Document:
+west_virginia
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+West Virginia Governor Joe Manchin has announced that he will not seek re-election in 2016.
+
+GT:
+Gordon Battelle, who also represented Ohio County, and who proposed resolutions to establish public schools, as well as to limit movement of slaves into the new state, and to gradually abolish slavery. For the 1963 Centennial of the State, it hosted two high school graduate delegates from each of the 50 States at the National Youth Science Camp near Bartow, and has continued this tradition ever since. The total tax rate is a combination of the tax levies from four state taxing authorities: state, county, schools and municipal. Developed by Boeing, the WVUShool of Engineering and the Department of Transportation, it was a model for low-capacity light transport designed for smaller cities. West Virginia is home to college sports teams from two schools—West Virginia and Marshall—that play in NCAA Division I. The Daily Mail Kanawha County Majorette and Band Festival is West Virginia's longest-running music festival. It is for the eight public high schools in Kanawha County.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.030864197530864196, 0.3125, 0.05617977528089887, 0.03511235955056179]
+[0.006211180124223602, 0.06666666666666667, 0.011363636363636362, 0.007102272727272726]
+[0.024691358024691357, 0.25, 0.0449438202247191, 0.028089887640449437]

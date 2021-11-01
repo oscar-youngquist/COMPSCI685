@@ -1,0 +1,15 @@
+Document:
+north_dakota
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+North Dakota is celebrating its 125th anniversary as a state.
+
+GT:
+The United States Census Bureau estimates North Dakota's population was 762,062 on July 1, 2019, a 13.30% increase since the 2010 United States Census. This makes North Dakota the US state with the largest percentage in population growth since 2011. North Dakota is the fourth least-populous state in the country; only Alaska, Vermont, and Wyoming have fewer residents. North Dakota has the most churches per capita of any state. In 2000, 2.5% of the population spoke German in addition to English, reflecting early 20th century immigration. North Dakotan musicians of many genres include blues guitarist Jonny Lang, country music singer Lynn Anderson, jazz and traditional pop singer and songwriter Peggy Lee, big band leader Lawrence Welk, and pop singer Bobby Vee. Of North Dakota's 762,062 people, 56.54% live in one of the top fifteen most populated cities.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.034482758620689655, 0.5, 0.06451612903225806, 0.040322580645161296]
+[0.013888888888888888, 0.2222222222222222, 0.026143790849673203, 0.016339869281045753]
+[0.027586206896551724, 0.4, 0.05161290322580645, 0.03225806451612903]

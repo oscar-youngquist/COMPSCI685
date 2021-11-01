@@ -1,0 +1,15 @@
+Document:
+rhode_island
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Rhode Island is one of the most densely populated states in the US.
+
+GT:
+In 1866, Rhode Island abolished racial segregation in the public schools throughout the state. Rhode Island has some of the highest taxes in the country, particularly its property taxes, ranking seventh in local and state taxes, and sixth in real estate taxes. Per the 2013 American Communities Survey, Rhode Island has the highest paid elementary school teachers in the country, with an average salary of $75,028 (adjusted to inflation). Rhode Island's taxes were appreciably higher than neighboring states, because Rhode Island's income tax was based on 25% of the payer's federal income tax payment. The income tax overhaul has now made Rhode Island competitive with other New England states by lowering its maximum tax rate to 5.99% and reducing the number of tax brackets to three. The bill, sponsored by Senatortor Juan Pichardo and Representative Scott Slater and signed into law by the Governor, made Rhode Island the first state in the US to prohibit school construction on Brownfield Sites where there is an ongoing potential for toxic vapors to negatively impact indoor air quality. It also creates a public participation process whenever a city or town considers building a school on any other kind of contaminated site. Rhode Island has several colleges and universities:
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.04285714285714286, 0.6923076923076923, 0.08071748878923767, 0.05044843049327355]
+[0.023923444976076555, 0.4166666666666667, 0.04524886877828054, 0.02828054298642534]
+[0.0380952380952381, 0.6153846153846154, 0.07174887892376683, 0.044843049327354265]

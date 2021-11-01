@@ -1,0 +1,15 @@
+Document:
+missouri
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Missouri is a state in the Midwestern United States.
+
+GT:
+Missouri played a central role in the westward expansion of the United States, as memorialized by the Gateway Arch. Springfield is the headquarters of the Assemblies of God USA and the Baptist Bible Fellowship International. Hindu Temple of St. Louis is the largest Hindu Temple in Missouri, serving more than 14,000 Hindus. The Mississippi River and Missouri River are commercially navigable over their entire lengths in Missouri. The flagship institution and largest university in the state is the University of Missouri in Columbia. The Kansas City Symphony and the St. Louis Symphony Orchestra are the state's major orchestras.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08, 0.8888888888888888, 0.14678899082568808, 0.09174311926605505]
+[0.020202020202020204, 0.25, 0.037383177570093455, 0.023364485981308414]
+[0.06, 0.6666666666666666, 0.11009174311926605, 0.06880733944954129]

@@ -1,0 +1,15 @@
+Document:
+montana
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Montana is one of the most sparsely populated states in the United States.
+
+GT:
+Montana is a large state with considerable variation in geography, topography and altitude, and the climate is, therefore, equally varied. The state spans from below the 45th parallel (the line equidistant between the equator and North Pole) to the 49th parallel, and elevations range from under 2,000 feet (610 m) to nearly 13,000 feet (4,000 m) above sea level. The western half is mountainous, interrupted by numerous large valleys. Eastern Montana comprises plains and badlands, broken by hills and isolated mountain ranges, and has a semiarid, continental climate (Köppen climate classification BSk). The Continental Divide has a considerable effect on the climate, as it restricts the flow of warmer air from the Pacific from moving east, and drier continental air from moving west. The area west of the divide has a modified northern Pacific Coast climate, with milder winters, cooler summers, less wind, and a longer growing season. Low clouds and fog often form in the valleys west of the divide in winter, but this is rarely seen in the east. Average daytime temperatures vary from 28 °F or −2.2 °C in January to 84.5 °F or 29.2 °C in July. The variation in geography leads to great variation in temperature. The highest observed summer temperature was 117 °F or 47.2 °C at Glendive on July 20, 1893, and Medicine Lake on July 5, 1937. Throughout the state, summer nights are generally cool and pleasant. Extreme hot weather is less common above 4,000 feet or 1,200 meters. Snowfall has been recorded in all months of the year in the more mountainous areas of central and western Montana, though it is rare in July and August. The coldest temperature on record for Montana is also the coldest temperature for the contiguous United States. Loma is the site of the most extreme recorded temperature change in a 24-hour period in the United States. On January 15, 1972, a chinook wind blew in and the temperature rose from −54 to 49 °F (−47.8 to 9.4 °C). Average annual precipitation is 15 inches (380 mm), but great variations are seen. The mountain ranges block the moist Pacific air, holding moisture in the western valleys, and creating rain shadows to the east. Heron, in the west, receives the most precipitation, 34.70 inches (881 mm). The climate has become warmer in Montana and continues to do so.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.024691358024691357, 0.7692307692307693, 0.0478468899521531, 0.029904306220095694]
+[0.01485148514851485, 0.5, 0.028846153846153844, 0.018028846153846152]
+[0.022222222222222223, 0.6923076923076923, 0.0430622009569378, 0.026913875598086126]

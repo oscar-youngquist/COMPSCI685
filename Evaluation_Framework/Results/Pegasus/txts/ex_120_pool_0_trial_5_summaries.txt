@@ -1,0 +1,15 @@
+Document:
+michigan
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Michigan is one of the most densely populated states in the United States.
+
+GT:
+The first Europeans to reach what became Michigan were those of Étienne Brûlé's expedition in 1622. In 1701, French explorer and army officer Antoine de la Mothe Cadillac founded Fort Pontchartrain du Détroit or "Fort Pontchartrain on-the-Strait" on the strait, known as the Detroit River, between lakes Saint Clair and Erie. During the War of 1812, the United States forces at Fort Detroit surrendered Michigan Territory (effectively consisting of Detroit and the surrounding area) after a nearly bloodless siege in 1812. Michigan Territory governor and judges established the University of Michigan in 1817, as the Catholepistemiad, or the University of Michigania. A Constitutional Convention of Assent, led by Gershom Mott Williams, was held to lead the territory to statehood.In October 1835 the people approved the Constitution of 1835, thereby forming a state government, although Congressional recognition was delayed pending resolution of a boundary dispute with Ohio known as the Toledo War. Ford's development of the moving assembly line in Highland Park marked a new era in transportation.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.04597701149425287, 0.6153846153846154, 0.08556149732620322, 0.05347593582887701]
+[0.017341040462427744, 0.25, 0.03243243243243243, 0.020270270270270268]
+[0.040229885057471264, 0.5384615384615384, 0.07486631016042782, 0.04679144385026738]

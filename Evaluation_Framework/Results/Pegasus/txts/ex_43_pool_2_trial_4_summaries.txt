@@ -1,0 +1,15 @@
+Document:
+mississippi
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Images courtesy of AFP, EPA, Getty Images and Reuters
+
+GT:
+During Reconstruction in 1871, black and white Republicans drafted a constitution that was the first to provide for a system of free public education in the state. The state's dependence on agriculture and resistance to taxation limited the funds it had available to spend on any schools. In the late 1980s Mississippi's 954 public schools enrolled about 369,500 elementary and 132,500 secondary students. Some 45,700 students attended private schools. In the 21st century, 91% of white children and most of the black children in the state attend public schools. In 2008, Mississippi was ranked last among the fifty states in academic achievement by the American Legislative Exchange Council's Report Card on Education, with the lowest average ACT scores and sixth-lowest spending per pupil in the nation. In contrast, Mississippi had the 17th-highest average SAT scores in the nation. Generally prohibited in the West at large, school corporal punishment is not unusual in Mississippi, with 31,236 public school students paddled at least one time circa 2016.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.011494252873563218, 0.2222222222222222, 0.02185792349726776, 0.013661202185792351]
+[0.0, 0.0, 0.0, 0.0]
+[0.011494252873563218, 0.2222222222222222, 0.02185792349726776, 0.013661202185792351]

@@ -1,0 +1,15 @@
+Document:
+idaho
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+As part of our series of letters from African-Canadian journalists, filmmaker and columnist Farai Sevenzo looks at the state of Idaho.
+
+GT:
+Humans may have been present in the Idaho area as long as 14,500 years ago. Excavations at Wilson Butte Cave near Twin Falls in 1959 revealed evidence of human activity, including arrowheads, that rank among the oldest dated artifacts in North America. Idaho, as part of the Oregon Country, was claimed by both the United States and Great Britain until the United States gained undisputed jurisdiction in 1846. From 1843 to 1849, present-day Idaho was under the de facto jurisdiction of the Provisional Government of Oregon. When Oregon became a state, what is now Idaho was in what remained of the original Oregon Territory not part of the new state, and designated as the Washington Territory. Between then and the creation of the Idaho Territory on March 4, 1863, at Lewiston, parts of the present-day state were included in the Oregon, Washington, and Dakota Territories.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07432432432432433, 0.5, 0.12941176470588237, 0.08088235294117647]
+[0.013605442176870748, 0.09523809523809523, 0.023809523809523808, 0.014880952380952378]
+[0.05405405405405406, 0.36363636363636365, 0.09411764705882354, 0.05882352941176471]

@@ -1,0 +1,15 @@
+Document:
+arkansas
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Arkansas is one of the most densely populated states in the United States.
+
+GT:
+The state maintains 52 state parks and the National Park Service maintains seven properties in Arkansas. Many cities also hold festivals, which draw tourists to Arkansas culture, such as The Bradley County Pink Tomato Festival in Warren, King Biscuit Blues Festival, Ozark Folk Festival, Toad Suck Daze, and Tontitown Grape Festival. Crystal Bridges Museum of American Art in Bentonville was visited by 604,000 people in 2012, its first year. Several historic town sites have been restored as Arkansas state parks, including Historic Washington State Park, Powhatan Historic State Park, and Davidsonville Historic State Park. Festivals such as the King Biscuit Blues Festival and Bikes, Blues, and BBQ pay homage to the history of blues in the state. Following the completion of Norfork Dam, the Norfork Tailwater and the White River have become a destination for trout fishers.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.050724637681159424, 0.5384615384615384, 0.09271523178807947, 0.05794701986754967]
+[0.0072992700729927005, 0.08333333333333333, 0.013422818791946307, 0.008389261744966443]
+[0.043478260869565216, 0.46153846153846156, 0.07947019867549669, 0.049668874172185434]

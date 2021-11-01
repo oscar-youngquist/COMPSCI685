@@ -1,0 +1,15 @@
+Document:
+north_carolina
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+North Carolina has one of the lowest unemployment rates in the United States.
+
+GT:
+Elevation above sea level is most responsible for temperature change across the state, with the mountain area being coolest year-round. The climate is also influenced by the Atlantic Ocean and the Gulf Stream, especially in the coastal plain. These influences tend to cause warmer winter temperatures along the coast, where temperatures only occasionally drop below the freezing point at night. The coastal plain averages around 1 inch (2.5 cm) of snow or ice annually, and in many years, there may be no snow or ice at all. North Carolina experiences severe weather both in summer and in winter, with summer bringing threat of hurricanes, tropical storms, heavy rain, and flooding. Destructive hurricanes that have hit North Carolina include Hurricane Fran, Hurricane Florence, Hurricane Floyd, Hurricane Hugo, and Hurricane Hazel, the latter being the strongest storm ever to make landfall in the state, as a Category 4 in 1954. North Carolina averages fewer than 20 tornadoes per year, many of them produced by hurricanes or tropical storms along the coastal plain. Tornadoes from thunderstorms are a risk, especially in the eastern part of the state. A phenomenon known as "cold-air damming" often occurs in the northwestern part of the state, which can weaken storms but can also lead to major ice events in winter. In April 2011, the worst tornado outbreak in North Carolina's history occurred.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.03056768558951965, 0.5384615384615384, 0.057851239669421496, 0.036157024793388434]
+[0.013157894736842105, 0.25, 0.025, 0.015625]
+[0.03056768558951965, 0.5384615384615384, 0.057851239669421496, 0.036157024793388434]

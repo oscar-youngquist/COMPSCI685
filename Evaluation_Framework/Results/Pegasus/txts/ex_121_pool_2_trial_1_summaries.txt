@@ -1,0 +1,15 @@
+Document:
+nevada
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Nevada has one of the lowest unemployment rates in the United States.
+
+GT:
+Nevada is the driest state in the United States. It is made up of mostly desert and semi-arid climate regions, and, with the exception of the Las Vegas Valley, the average summer diurnal temperature range approaches 40 °F (22 °C) in much of the state. While winters in northern Nevada are long and fairly cold, the winter season in the southern part of the state tends to be of short duration and mild. Most parts of Nevada receive scarce precipitation during the year. The most rain that falls in the state falls on the lee side (east and northeast slopes) of the Sierra Nevada. The average annual rainfall per year is about 7 inches (180 mm); the wettest parts get around 40 inches (1,000 mm).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.05511811023622047, 0.5833333333333334, 0.10071942446043165, 0.0629496402877698]
+[0.031746031746031744, 0.36363636363636365, 0.058394160583941604, 0.0364963503649635]
+[0.047244094488188976, 0.5, 0.08633093525179855, 0.0539568345323741]

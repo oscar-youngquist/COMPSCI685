@@ -1,0 +1,15 @@
+Document:
+new_york
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+New York is the most populous state in the United States.
+
+GT:
+It was one of the original thirteen colonies, forming the United States. The Sons of Liberty were organized in New York City during the 1760s, largely in response to the oppressive Stamp Act passed by the British Parliament in 1765. New York was the only colony not to vote for independence, as the delegates were not authorized to do so. On July 30, 1777, George Clinton was inaugurated as the first Governor of New York at Kingston. Work commenced in 1817, and the Erie Canal opened in 1825. Ellis Island opened on January 1, 1892, and operated as a central immigration center until the National Origins Act was passed in 1924, reducing immigration. On September 11, 2001, two of four hijacked planes were flown into the Twin Towers of the original World Trade Center in Lower Manhattan, and the towers collapsed. On October 29 and 30, 2012, Hurricane Sandy caused extensive destruction of the state's shorelines, ravaging portions of New York City, Long Island, and southern Westchester with record-high storm surge, with severe flooding and high winds causing power outages for hundreds of thousands of New Yorkers, and leading to gasoline shortages and disruption of mass transit systems. On March 1, 2020, New York had its first confirmed case of COVID-19.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.037383177570093455, 0.7272727272727273, 0.0711111111111111, 0.044444444444444446]
+[0.014084507042253521, 0.3, 0.026905829596412557, 0.016816143497757848]
+[0.028037383177570093, 0.5454545454545454, 0.05333333333333333, 0.033333333333333326]

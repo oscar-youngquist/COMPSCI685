@@ -1,0 +1,15 @@
+Document:
+maine
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Maine is known for its jagged, rocky coastline.
+
+GT:
+These institutions include the University of Maine, which is the oldest, largest and only research university in the state. UMaine was founded in 1865 and is the state's only land grant and sea grant college. The University of Maine is located in the town of Orono and is the flagship of Maine. Maine's per-student public expenditure for elementary and secondary schools was 21st in the nation in 2012, at $12,344. Private schools in Maine are funded independently of the state and its furthered domains. A large number of private elementary schools with under 20 students exist, but most private high schools in Maine can be described as "semi-private".
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.035398230088495575, 0.5, 0.06611570247933883, 0.04132231404958677]
+[0.008928571428571428, 0.14285714285714285, 0.01680672268907563, 0.010504201680672266]
+[0.035398230088495575, 0.5, 0.06611570247933883, 0.04132231404958677]

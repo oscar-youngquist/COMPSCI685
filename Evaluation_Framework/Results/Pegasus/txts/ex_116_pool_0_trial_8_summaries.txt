@@ -1,0 +1,15 @@
+Document:
+kansas
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at the history and culture of the American state of Kansas.
+
+GT:
+According to the Köppen climate classification, Kansas's climate can be characterized in terms of three types: it has humid continental, semi-arid steppe, and humid subtropical. The eastern two-thirds of the state (especially the northeastern portion) has a humid continental climate, with cool to cold winters and hot, often humid summers. Most of the precipitation falls during both the summer and the spring. Summers are hot, often very hot, and generally less humid. Winters are highly changeable between warm and very cold. Some features of all three climates can be found in most of the state, with droughts and changeable weather between dry and humid not uncommon, and both warm and cold spells in the winter. During the summer, nightly low temperatures in the northeastern part of the state, especially in the aforementioned large cities, struggle to fall below 80 °F (27 °C). Also, combined with humidity between 85 and 95 percent, dangerous heat indices can be experienced at every hour of the day. Frost-free days range from more than 200 days in the south, to 130 days in the northwest. Despite the frequent sunshine throughout much of the state, due to its location at a climatic boundary prone to intrusions of multiple air masses, the state is vulnerable to strong and severe thunderstorms. Kansas averages more than 50 tornadoes annually.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.05333333333333334, 0.48, 0.096, 0.060000000000000005]
+[0.004464285714285714, 0.041666666666666664, 0.008064516129032258, 0.005040322580645161]
+[0.044444444444444446, 0.4, 0.07999999999999999, 0.05]

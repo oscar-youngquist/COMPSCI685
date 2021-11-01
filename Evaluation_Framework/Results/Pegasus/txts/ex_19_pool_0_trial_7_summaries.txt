@@ -1,0 +1,15 @@
+Document:
+delaware
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+The state's motto is "In God We Trust".
+
+GT:
+Since almost all of Delaware is a part of the Atlantic coastal plain, the effects of the ocean moderate its climate. The state lies in the humid subtropical climate zone. Despite its small size (roughly 100 miles (160 km) from its northernmost to southernmost points), there is significant variation in mean temperature and amount of snowfall between Sussex County and New Castle County. Moderated by the Atlantic Ocean and Delaware Bay, the southern portion of the state has a milder climate and a longer growing season than the northern portion of the state. Delaware's all-time record high of 110 °F (43 °C) was recorded at Millsboro on July 21, 1930. The all-time record low of −17 °F (−27 °C) was also recorded at Millsboro, on January 17, 1893.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.03816793893129771, 0.5555555555555556, 0.07142857142857144, 0.04464285714285715]
+[0.007692307692307693, 0.125, 0.014492753623188406, 0.009057971014492754]
+[0.030534351145038167, 0.4444444444444444, 0.05714285714285714, 0.03571428571428571]

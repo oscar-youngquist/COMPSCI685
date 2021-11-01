@@ -1,0 +1,15 @@
+Document:
+new_york
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+New York is the most populous state in the United States.
+
+GT:
+The tribes in what is now New York were predominantly Haudenosaunee and Algonquian. Long Island was divided roughly in half between the Wampanoag and Lenape. The Lenape also controlled most of the region surrounding New York Harbor. In 1524, Giovanni da Verrazzano, an Italian explorer in the service of the French crown, explored the Atlantic coast of North America between the Carolinas and Newfoundland, including New York Harbor and Narragansett Bay. On April 17, 1524, Verrazzano entered New York Bay, by way of the strait now called the Narrows into the northern bay which he named Santa Margherita, in honor of the King of France's sister. The Sons of Liberty were organized in New York City during the 1760s, largely in response to the oppressive Stamp Act passed by the British Parliament in 1765. The Stamp Act Congress met in the city on October 19 of that year, composed of representatives from across the Thirteen Colonies who set the stage for the Continental Congress to follow. Since the early 19th century, New York City has been the largest port of entry for legal immigration into the United States. In the United States, the federal government did not assume direct jurisdiction for immigration until 1890. Prior to this time, the matter was delegated to the individual states, then via contract between the states and the federal government. Most immigrants to New York would disembark at the bustling docks along the Hudson and East Rivers, in the eventual Lower Manhattan. On May 4, 1847, the New York State Legislature created the Board of Commissioners of Immigration to regulate immigration. On September 11, 2001, two of four hijacked planes were flown into the Twin Towers of the original World Trade Center in Lower Manhattan, and the towers collapsed. 7 World Trade Center also collapsed due to damage from fires. The other buildings of the World Trade Center complex were damaged beyond repair and demolished soon thereafter. A memorial at the site, the National September 11 Memorial & Museum, was opened to the public on September 11, 2011. On March 1, 2020, New York had its first confirmed case of COVID-19. Since March 28, New York had the highest number of confirmed cases of any state in the United States. Nearly 50 percent of known national cases were in the state, with one-third of total known US cases being in New York City.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.02493765586034913, 0.9090909090909091, 0.048543689320388356, 0.030339805825242722]
+[0.0125, 0.5, 0.02439024390243903, 0.015243902439024392]
+[0.022443890274314215, 0.8181818181818182, 0.043689320388349516, 0.027305825242718445]

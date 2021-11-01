@@ -1,0 +1,15 @@
+Document:
+utah
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Utah is one of the most sparsely populated states in the United States.
+
+GT:
+The Spanish were the first Europeans to arrive in the mid-16th century, though the region's difficult geography and climate made it a peripheral part of New Spain and later Mexico. Disputes between the dominant Mormon community and the federal government delayed Utah's admission as a state; only after the outlawing of polygamy was it admitted as the 45th, in 1896. The southern Utah region was explored by the Spanish in 1540, led by Francisco Vázquez de Coronado, while looking for the legendary Cíbola. In late 1824, Jim Bridger became the first known English-speaking person to sight the Great Salt Lake. Young and the first band of Mormon pioneers reached the Salt Lake Valley on July 24, 1847. The entire Southwest became US territory upon the signing of the Treaty of Guadalupe Hidalgo, February 2, 1848. Salt Lake City replaced Fillmore as the territorial capital in 1856. In September 1857, about 120 American settlers of the Baker–Fancher wagon train, en route to California from Arkansas, were murdered by Utah Territorial Militia and some Paiute Native Americans in the Mountain Meadows massacre. Although wagons and supplies were burned, eventually the troops arrived in 1858, and Young surrendered official control to Cumming, although most subsequent commentators claim that Young retained true power in the territory. Salt Lake City was the last link of the First Transcontinental Telegraph, completed in October 1861. In the 1890 Manifesto, the LDS Church banned polygamy. One exception of note, however, was the unprecedented F2 Salt Lake City Tornado which moved directly across downtown Salt Lake City on August 11, 1999, killing one person, injuring sixty others, and causing approximately $170 million in damage. Utah granted full voting rights to women in 1870, 26 years before becoming a state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.030303030303030304, 0.6923076923076923, 0.05806451612903226, 0.036290322580645164]
+[0.006756756756756757, 0.16666666666666666, 0.012987012987012986, 0.008116883116883116]
+[0.02356902356902357, 0.5384615384615384, 0.04516129032258065, 0.028225806451612902]

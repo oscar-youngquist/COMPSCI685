@@ -1,0 +1,15 @@
+Document:
+michigan
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Michigan is one of the most densely populated states in the United States.
+
+GT:
+Michigan ( (listen)) is a state in the Great Lakes and Midwestern regions of the United States. Its name comes from the Ojibwe word mishigami, meaning "large water" or "large lake". The area was first occupied by a succession of Native American tribes over thousands of years. When the first European explorers arrived, the most populous tribes were Algonquian peoples, which include the Anishinaabe groups of Ojibwe (referred to as "Chippewa" in the United States), Odaawaa/Odawa (Ottawa), and the Boodewaadamii/Bodéwadmi (Potawatomi). The first Europeans to reach what became Michigan were those of Étienne Brûlé's expedition in 1622. Jesuit missionaries were well received by the area's Indian populations, with few difficulties or hostilities. Cadillac's wife, Marie Thérèse Guyon, soon moved to Detroit, becoming one of the first European women to settle in what was considered the wilderness of Michigan. French attempts to consolidate the fur trade led to the Fox Wars involving the Meskwaki (Fox) and their allies versus the French and their Native allies. Under the 1763 Treaty of Paris, Michigan and the rest of New France east of the Mississippi River passed to Great Britain. After the Quebec Act was passed in 1774, Michigan became part of the British Province of Quebec. Under terms negotiated in the 1794 Jay Treaty, Britain withdrew from Detroit and Michilimackinac in 1796. Questions remained over the boundary for many years, and the United States did not have uncontested control of the Upper Peninsula and Drummond Island until 1818 and 1847, respectively. A US attempt to retake Detroit resulted in a severe American defeat in the River Raisin Massacre. This battle, still ranked as the bloodiest ever fought in the state, had the highest number of American casualties of any battle in the war. Michigan was recaptured by the Americans in 1813 after the Battle of Lake Erie. The first statewide meeting of the Republican Party took place July 6, 1854, in Jackson, Michigan, where the party adopted its platform. Michigan held its first United States presidential primary election in 1910. The 2020 coronavirus pandemic in Michigan saw the state suffer one of the largest death tolls in the United States with the metro Detroit area particularly hard hit. Michigan has the largest Dutch, Finnish, and Macedonian populations in the United States. Michigan musicians include Bill Haley & His Comets, The Supremes, The Marvelettes, The Temptations, The Four Tops, Stevie Wonder, Marvin Gaye "The Prince of Soul", Smokey Robinson and the Miracles, Aretha Franklin, Mary Wells, Tommy James and the Shondells, ?
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.02830188679245283, 0.9230769230769231, 0.05491990846681922, 0.034324942791762014]
+[0.016548463356973995, 0.5833333333333334, 0.03218390804597701, 0.020114942528735632]
+[0.025943396226415096, 0.8461538461538461, 0.050343249427917625, 0.031464530892448515]

@@ -1,0 +1,15 @@
+Document:
+south_dakota
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+South Dakota is one of the most sparsely populated states in the United States.
+
+GT:
+In the 14th century, the Crow Creek Massacre occurred, in which several hundred men, women, and children were killed near the Missouri River. In 1803, the United States purchased the Louisiana Territory, an area that included most of South Dakota, from Napoleon Bonaparte, and President Thomas Jefferson organized a group commonly referred to as the "Lewis and Clark Expedition" to explore the region. In 1817, an American fur trading post was set up at present-day Fort Pierre, beginning continuous American settlement of the area. In 1855, the US Army bought Fort Pierre but abandoned it in 1857 in favor of Fort Randall to the south. Land speculators founded two of eastern South Dakota's largest present-day cities: Sioux Falls in 1856 and Yankton in 1859. In 1874, gold was discovered in the Black Hills during a military expedition led by George A. Custer and miners and explorers began illegally entering land promised to the Lakota. A growing population and political concerns (admitting two states meant having four new senators for the Republican Party) caused Dakota Territory to be divided in half and President Benjamin Harrison signed proclamations formally admitting South Dakota and North Dakota to the union on November 2, 1889. On December 29, 1890, the Wounded Knee Massacre occurred on the Pine Ridge Indian Reservation.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.05045871559633028, 0.7857142857142857, 0.09482758620689655, 0.05926724137931035]
+[0.02304147465437788, 0.38461538461538464, 0.043478260869565216, 0.02717391304347826]
+[0.03669724770642202, 0.5714285714285714, 0.06896551724137931, 0.04310344827586207]

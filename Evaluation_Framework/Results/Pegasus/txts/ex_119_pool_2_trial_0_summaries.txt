@@ -1,0 +1,15 @@
+Document:
+delaware
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+The state's motto is "In God We Trust".
+
+GT:
+Delaware was the origin of Belton v. Gebhart (1952), one of the four cases which were combined into Brown v. Board of Education, the Supreme Court of the United States decision that led to the end of officially segregated public schools. Significantly, Belton was the only case in which the state court found for the plaintiffs, thereby ruling that segregation is unconstitutional. Unlike many states, Delaware's educational system is centralized in a state Superintendent of Education, with local school boards retaining control over taxation and some curriculum decisions. This centralized system, combined with the small size of the state, likely contributed to Delaware becoming the first state, after completion of a three-year, $30 million program ending in 1999, to wire every K-12 classroom in the state to the Internet. As of 2011, the Delaware Department of Education had authorized the founding of 25 charter schools in the state, one of them being all-girls. All teachers in the State's public school districts are unionized. As of January 2012, none of the State's charter schools are members of a teachers union.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.02702702702702703, 0.5555555555555556, 0.05154639175257733, 0.03221649484536083]
+[0.010869565217391304, 0.25, 0.020833333333333332, 0.013020833333333334]
+[0.02702702702702703, 0.5555555555555556, 0.05154639175257733, 0.03221649484536083]

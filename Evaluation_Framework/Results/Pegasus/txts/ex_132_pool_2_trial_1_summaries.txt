@@ -1,0 +1,15 @@
+Document:
+rhode_island
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Rhode Island is one of the most densely populated states in the US.
+
+GT:
+The Blackstone River Valley was a major contributor to the American Industrial Revolution. An interesting by-product of Rhode Island's industrial history is the number of abandoned factories, many of them now being used for condominiums, museums, offices, and low-income and elderly housing. The MBTA Commuter Rail's Providence/Stoughton Line links Providence and T. F. Green Airport with Boston. Their reception was held at Hammersmith Farm, the Bouvier summer home in Newport. In the lobby of T. F. Green, the state's main airport, is a large life-sized sailboat, and the state's license plates depict an ocean wave or a sailboat. Additionally, the large number of beaches in Washington County lures many Rhode Islanders south for summer vacation. Rhode Island has two professional sports teams, both of which are top-level minor league affiliates for teams in Boston. On top is the world's fourth largest self-supported marble dome. The First Baptist Church of Providence is the oldest Baptist church in the Americas, founded by Roger Williams in 1638. The first fully automated post office in the country is located in Providence. There are many historic mansions in the seaside city of Newport, including The Breakers, Marble House, and Belcourt Castle. Also located there is the Touro Synagogue, dedicated on December 2, 1763, considered by locals to be the first synagogue within the United States (see below for information on New York City's claim), and still serving. Scenic Route 1A (known locally as Ocean Road) is in Narragansett. "The Towers" is also located in Narragansett featuring a large stone arch.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0299625468164794, 0.6153846153846154, 0.057142857142857155, 0.03571428571428572]
+[0.007518796992481203, 0.16666666666666666, 0.014388489208633094, 0.008992805755395683]
+[0.0299625468164794, 0.6153846153846154, 0.057142857142857155, 0.03571428571428572]

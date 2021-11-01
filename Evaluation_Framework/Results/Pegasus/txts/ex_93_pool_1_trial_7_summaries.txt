@@ -1,0 +1,15 @@
+Document:
+arkansas
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Arkansas is one of the most densely populated states in the United States.
+
+GT:
+The first of these Europeans was Spanish explorer Hernando de Soto in 1541, who crossed the Mississippi and marched across central Arkansas and the Ozark Mountains. During the colonial period, Arkansas changed hands between France and Spain following the Seven Years' War, although neither showed interest in the remote settlement of Arkansas Post. In April 1783, Arkansas saw its only battle of the American Revolutionary War, a brief siege of the post by British Captain James Colbert with the assistance of the Choctaw and Chickasaw. Napoleon Bonaparte sold French Louisiana to the United States in 1803, including all of Arkansas, in a transaction known today as the Louisiana Purchase. In 1891 state legislators passed a requirement for a literacy test, knowing it would exclude many blacks and whites. After attempting three times to contact Faubus, President Dwight D. Eisenhower sent 1,000 troops from the active-duty 101st Airborne Division to escort and protect the African-American students as they entered school on September 25, 1957. By the fall of 1959, the Little Rock high schools were completely integrated.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0446927374301676, 0.6153846153846154, 0.08333333333333334, 0.052083333333333336]
+[0.028089887640449437, 0.4166666666666667, 0.05263157894736842, 0.03289473684210526]
+[0.03910614525139665, 0.5384615384615384, 0.07291666666666667, 0.045572916666666664]

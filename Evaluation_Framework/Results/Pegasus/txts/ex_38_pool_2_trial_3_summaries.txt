@@ -1,0 +1,15 @@
+Document:
+ohio
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Ohio is one of the most densely populated states in the United States.
+
+GT:
+To the north, Lake Erie gives Ohio 312 miles (502 km) of coastline, which allows for numerous cargo ports. Ohio's southern border is defined by the Ohio River (with the border being at the 1792 low-water mark on the north side of the river), and much of the northern border is defined by Lake Erie. Columbus is the capital of Ohio, located near the geographic center of the state and well known for The Ohio State University. Akron, Canton, Cleveland, Mansfield, and Youngstown are in the Northeast, known for major industrial companies Goodyear Tire and Rubber and Timken, top ranked colleges Case Western Reserve University and Kent State University, the Cleveland Clinic, and cultural attractions including the Cleveland Museum of Art, Big Five group Cleveland Orchestra, Playhouse Square, the Pro Football Hall of Fame, and the Rock and Roll Hall of Fame. Dayton and Springfield are located in the Miami Valley, which is home to the University of Dayton, the Dayton Ballet, and the extensive Wright-Patterson Air Force Base. It is home of Miami University and the University of Cincinnati, Cincinnati Union Terminal, Cincinnati Symphony Orchestra, and various Fortune 500 companies including Procter & Gamble, Kroger, Macy's, Inc., and Fifth Third Bank. Ohio has several long-distance hiking trails, the most prominent of which is the Buckeye Trail which extends 1,444 mi (2,324 km) in a loop around the state of Ohio. Additionally, the North Country Trail (the longest of the eleven National Scenic Trails authorized by Congress) and the American Discovery Trail (a system of recreational trails and roads that collectively form a coast-to-coast route across the mid-tier of the United States) pass through Ohio.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.035211267605633804, 0.7692307692307693, 0.06734006734006735, 0.0420875420875421]
+[0.0176678445229682, 0.4166666666666667, 0.03389830508474576, 0.021186440677966104]
+[0.03169014084507042, 0.6923076923076923, 0.06060606060606061, 0.03787878787878789]

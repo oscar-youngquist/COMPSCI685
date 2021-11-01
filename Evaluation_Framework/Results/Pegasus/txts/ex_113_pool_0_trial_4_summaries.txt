@@ -1,0 +1,15 @@
+Document:
+north_carolina
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+North Carolina has one of the lowest unemployment rates in the United States.
+
+GT:
+Elementary and secondary public schools are overseen by the North Carolina Department of Public Instruction. The North Carolina Superintendent of Public Instruction is the secretary of the North Carolina State Board of Education, but the board, rather than the superintendent, holds most of the legal authority for making public education policy. In 2009, the board's chairman also became the "chief executive officer" for the state's school system. North Carolina has 115 public school systems, each of which is overseen by a local school board. A county may have one or more systems within it. The largest school systems in North Carolina are the Wake County Public School System, Charlotte-Mecklenburg Schools, Guilford County Schools, Winston-Salem/Forsyth County Schools, and Cumberland County Schools. North Carolina Schools were segregated until the Brown v. Board of Education trial and the release of the Pearsall Plan.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.06206896551724138, 0.6923076923076923, 0.11392405063291139, 0.07120253164556962]
+[0.020833333333333332, 0.25, 0.038461538461538464, 0.024038461538461536]
+[0.04827586206896552, 0.5384615384615384, 0.08860759493670886, 0.05537974683544304]

@@ -1,0 +1,15 @@
+Document:
+connecticut
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Connecticut is one of the most densely populated states in the United States.
+
+GT:
+Connecticut lies at the rough transition zone between the southern end of the humid continental climate, and the northern portion of the humid subtropical climate. Northern Connecticut generally experiences a climate with cold winters with moderate snowfall and hot, humid summers. Connecticut sees a fairly even precipitation pattern with rainfall/snowfall spread throughout the 12 months. Connecticut averages 56% of possible sunshine (higher than the US national average), averaging 2,400 hours of sunshine annually. Weather commonly associated with the fall season typically begins in October and lasts to the first days of December. By December daytime highs are in the 40s °F for much of the state, and average overnight lows are below freezing. Winters (December through mid-March) are generally cold from south to north in Connecticut. Connecticut's record high temperature is 106 °F (41 °C) which occurred in Danbury on July 15, 1995; the record low is −32 °F (−36 °C) which occurred in the Northwest Hills Falls Village on February 16, 1943, and Coventry on January 22, 1961.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.04046242774566474, 0.5384615384615384, 0.07526881720430106, 0.04704301075268817]
+[0.011627906976744186, 0.16666666666666666, 0.02173913043478261, 0.013586956521739132]
+[0.03468208092485549, 0.46153846153846156, 0.06451612903225806, 0.04032258064516129]

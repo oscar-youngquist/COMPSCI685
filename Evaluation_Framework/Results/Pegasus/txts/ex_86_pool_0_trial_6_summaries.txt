@@ -1,0 +1,15 @@
+Document:
+ohio
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Ohio is one of the most densely populated states in the United States.
+
+GT:
+Ohio was the first post-colonial free state admitted to the union, and became one of the earliest and most influential industrial powerhouses in the 20th century; although it has transitioned to a more information and service based economy in the 21st century, Ohio remains an industrial state, ranking seventh in GDP as of 2019, with the third largest manufacturing sector and second largest automobile production. The highest recorded temperature was 113 °F (45 °C), near Gallipolis on July 21, 1934. The lowest recorded temperature was −39 °F (−39 °C), at Milligan on February 10, 1899, during the Great Blizzard of 1899. Eight US presidents hailed from Ohio at the time of their elections, giving rise to its nickname "mother of presidents", a sobriquet it shares with Virginia. The seven presidents born in Ohio were Ulysses S. Grant, Rutherford B. Hayes, James A. Garfield, Benjamin Harrison (grandson of William Henry Harrison), William McKinley, William Howard Taft and Warren G. Harding. Ohio is considered a swing state, being won by either the Democratic or Republican candidates reasonably each election.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.056179775280898875, 0.7692307692307693, 0.10471204188481674, 0.06544502617801047]
+[0.022598870056497175, 0.3333333333333333, 0.042328042328042326, 0.026455026455026454]
+[0.05056179775280899, 0.6923076923076923, 0.09424083769633508, 0.058900523560209424]

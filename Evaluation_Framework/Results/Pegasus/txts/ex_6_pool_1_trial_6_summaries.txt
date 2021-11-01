@@ -1,0 +1,15 @@
+Document:
+alabama
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+The state of Alabama is celebrating its 150th anniversary this year.
+
+GT:
+Alabama is also known as the "Heart of Dixie" and the "Cotton State". Similar to other former slave states, Alabamian legislators employed Jim Crow laws to disenfranchise and otherwise discriminate against African Americans from the end of the Reconstruction Era up until at least the 1970s. The suggestion that "Alabama" was borrowed from the Choctaw language is unlikely. The word's spelling varies significantly among historical sources. The first usage appears in three accounts of the Hernando de Soto expedition of 1540: Garcilaso de la Vega used Alibamo, while the Knight of Elvas and Rodrigo Ranjel wrote Alibamu and Limamu, respectively, in transliterations of the term. Some scholars suggest the word comes from the Choctaw alba (meaning "plants" or "weeds") and amo (meaning "to cut", "to trim", or "to gather").
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.038461538461538464, 0.45454545454545453, 0.07092198581560284, 0.04432624113475177]
+[0.007751937984496124, 0.1, 0.014388489208633093, 0.008992805755395683]
+[0.038461538461538464, 0.45454545454545453, 0.07092198581560284, 0.04432624113475177]

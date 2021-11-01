@@ -1,0 +1,15 @@
+Document:
+maryland
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+The state of Maryland has been named after the English Queen Henrietta Maria, known in England as Queen Mary.
+
+GT:
+Lord Baltimore's first settlers arrived in the new colony in March 1634, with his younger brother the Honorable Leonard Calvert (1606–1647), as first provincial Governor of Maryland. In 1642, a number of Puritans left Virginia for Maryland and founded Providence (now called Annapolis) on the western shore of the upper Chesapeake Bay. Maryland was one of the thirteen colonies that revolted against British rule in the American Revolution. Near the end of the American Revolutionary War (1775–1783), on February 2, 1781, Maryland became the last and 13th state to approve the ratification of the Articles of Confederation and Perpetual Union, first proposed in 1776 and adopted by the Second Continental Congress in 1778, which brought into being the United States as a united, sovereign and national state. It also became the seventh state admitted to the Union after ratifying the new federal Constitution in 1788. In December 1790, Maryland donated land selected by first President George Washington to the federal government for the creation of the new national capital of Washington, D.C. During the War of 1812, the British military attempted to capture Baltimore, which was protected by Fort McHenry. During this bombardment the song "Star Spangled Banner" was written by Francis Scott Key; it was later adopted as the national anthem. The National Road (US Hwy 40 today) was authorized in 1817 and ran from Baltimore to St. Louis—the first federal highway. The state remained with the Union during the Civil War, due in significant part to demographics and Federal intervention. In April 1861 Federal units and state regiments were attacked as they marched through Baltimore, sparking the Baltimore riot of 1861, the first bloodshed in the Civil War. Baltimore grew significantly during the Industrial Revolution, due in large part to its seaport and good railroad connections, attracting European immigrant labor. Many manufacturing businesses were established in the Baltimore area after the Civil War. The Great Baltimore Fire of 1904 burned for more than 30 hours, destroying 1,526 buildings and spanning 70 city blocks.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.02346041055718475, 0.42105263157894735, 0.04444444444444445, 0.02777777777777778]
+[0.008823529411764706, 0.16666666666666666, 0.01675977653631285, 0.01047486033519553]
+[0.020527859237536656, 0.3684210526315789, 0.03888888888888889, 0.024305555555555552]

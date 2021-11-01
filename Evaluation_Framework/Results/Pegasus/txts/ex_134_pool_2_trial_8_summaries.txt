@@ -1,0 +1,15 @@
+Document:
+mississippi
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Images courtesy of AFP, EPA, Getty Images and Reuters
+
+GT:
+On December 10, 1817, Mississippi became the 20th state admitted to the Union. By 1860, Mississippi was the nation's top cotton-producing state and enslaved persons accounted for 55% of the state population. Mississippi declared its secession from the Union on March 23, 1861, and was one of the seven original Confederate States, which constituted the largest slaveholding states in the nation. Following the Civil War, it was restored to the Union on February 23, 1870. Until the Great Migration of the 1930s, African Americans were a majority of Mississippi's population. Mississippi was the site of many prominent events during the civil rights movement, including the Ole Miss riot of 1962 by white students objecting to desegregation, the 1963 assassination of Medgar Evers, and the 1964 Freedom Summer murders of three activists working on voting rights. On August 29, 2005, Hurricane Katrina, though a Category 3 storm upon final landfall, caused even greater destruction across the entire 90 miles (145 km) of the Mississippi Gulf Coast from Louisiana to Alabama. The previous flag of Mississippi, used until June 30, 2020, featured the Confederate battle flag. Mississippi became the last state to remove the Confederate battle flag as an official state symbol on June 30, 2020, when Governor Tate Reeves signed a law officially retiring the second state flag. A new flag, The "New Magnolia" flag, was selected via referendum as part of the general election on November 3, 2020. It officially became the state flag on January 11, 2021, after being signed into law by the state legislature and governor.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.007633587786259542, 0.2222222222222222, 0.014760147601476013, 0.00922509225092251]
+[0.0, 0.0, 0.0, 0.0]
+[0.007633587786259542, 0.2222222222222222, 0.014760147601476013, 0.00922509225092251]

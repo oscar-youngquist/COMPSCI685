@@ -1,0 +1,15 @@
+Document:
+virginia
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+In our series of letters from African-American journalists, film-maker and columnist Richard Roeper looks at the African-American experience in Virginia.
+
+GT:
+The resulting Chesapeake Bay impact crater may explain what earthquakes and subsidence the region does experience. Most of Virginia's recorded extremes in temperature and precipitation have occurred in the Blue Ridge Mountains and areas west. In the lowland tidewater and Piedmont, yellow pines tend to dominate, with bald cypress wetland forests in the Great Dismal and Nottoway swamps. Virginia has 30 National Park Service units, such as Great Falls Park and the Appalachian Trail, and one national park, Shenandoah National Park. All are managed by the Virginia Department of Conservation and Recreation except for Breaks Interstate Park. The company financed the first permanent English settlement in the "New World", Jamestown. Middle Plantation saw the founding of The College of William & Mary in 1693 and was renamed Williamsburg as it became the colonial capital in 1699. Goodwin, rector of Williamsburg's Bruton Parish Church, began restoration of colonial-era buildings in the historic district with financial backing of John D. Rockefeller, Jr.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.043209876543209874, 0.30434782608695654, 0.07567567567567568, 0.0472972972972973]
+[0.0, 0.0, 0.0, 0.0]
+[0.030864197530864196, 0.21739130434782608, 0.05405405405405405, 0.03378378378378378]

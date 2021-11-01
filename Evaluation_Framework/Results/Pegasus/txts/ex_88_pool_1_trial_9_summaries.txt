@@ -1,0 +1,15 @@
+Document:
+rhode_island
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Rhode Island is one of the most densely populated states in the US.
+
+GT:
+On May 4, 1776, the Colony of Rhode Island and Providence Plantations was the first of the Thirteen Colonies to renounce its allegiance to the British Crown, and it was the fourth state to ratify the Articles of Confederation, doing so on February 9, 1778. Formally named the State of Rhode Island and Providence Plantations since its accession to the Union in 1790, voters in the state approved an amendment in November 2020 to the state constitution, renaming itself the State of Rhode Island. On June 19, 2020, State Senatortor Harold Metts introduced a resolution for another ballot referendum on removing the words "and Providence Plantations" from the state's name, saying, "Whatever the meaning of the term 'plantations' in the context of Rhode Island's history, it carries a horrific connotation when considering the tragic and racist history of our nation." He named the site Providence, "having a sense of God's merciful providence unto me in my distress", and it became a place of religious freedom where all were welcome. Rhode Island was the first of the thirteen colonies to renounce its allegiance to the British Crown on May 4, 1776. In 1866, Rhode Island abolished racial segregation in the public schools throughout the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.033816425120772944, 0.5384615384615384, 0.06363636363636363, 0.039772727272727265]
+[0.014563106796116505, 0.25, 0.027522935779816515, 0.017201834862385322]
+[0.033816425120772944, 0.5384615384615384, 0.06363636363636363, 0.039772727272727265]

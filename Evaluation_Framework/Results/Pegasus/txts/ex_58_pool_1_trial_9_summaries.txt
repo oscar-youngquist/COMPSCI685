@@ -1,0 +1,15 @@
+Document:
+north_carolina
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+North Carolina has one of the lowest unemployment rates in the United States.
+
+GT:
+In 1584, Elizabeth I granted a charter to Sir Walter Raleigh, for whom the state capital is named, for land in present-day North Carolina (then part of the territory of Virginia). It was the second American territory which the English attempted to colonize. By 1663, King Charles II of England granted a charter to start a new colony on the North American continent; it generally established North Carolina's borders. In June 1718, the pirate Blackbeard ran his flagship, the Queen Anne's Revenge, aground at Beaufort Inlet, North Carolina, in present-day Carteret County. On April 12, 1776, the colony became the first to instruct its delegates to the Continental Congress to vote for independence from the British Crown, through the Halifax Resolves passed by the North Carolina Provincial Congress. A major American victory in the war took place at King's Mountain along the North Carolina–South Carolina border; on October 7, 1780, a force of 1,000 mountain men from western North Carolina (including what is today the state of Tennessee) and southwest Virginia overwhelmed a force of some 1,000 British troops led by Major Patrick Ferguson. Following General Daniel Morgan's victory over the British Cavalry Commander Banastre Tarleton at the Battle of Cowpens on January 17, 1781, southern commander Nathanael Greene led British Lord Charles Cornwallis across the heartland of North Carolina, and away from the latter's base of supply in Charleston, South Carolina. This campaign is known as "The Race to the Dan" or "The Race for the River".
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.027131782945736434, 0.5384615384615384, 0.051660516605166046, 0.03228782287822878]
+[0.011673151750972763, 0.25, 0.022304832713754646, 0.013940520446096654]
+[0.027131782945736434, 0.5384615384615384, 0.051660516605166046, 0.03228782287822878]

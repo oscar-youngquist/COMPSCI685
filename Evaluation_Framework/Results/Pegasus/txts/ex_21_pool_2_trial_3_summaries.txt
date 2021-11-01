@@ -1,0 +1,15 @@
+Document:
+minnesota
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Minnesota is known as the "Land of 10,000 Lakes".
+
+GT:
+The state is known as the "Land of 10,000 Lakes". The word Minnesota comes from the Dakota name for the Minnesota River, which got its name from one of two words in Dakota: "mní sóta", which means "clear blue water", or "Mníssota", which means "cloudy water". Minnesota experiences temperature extremes characteristic of its continental climate, with cold winters and hot summers. The lowest temperature recorded was −60 °F (−51 °C) at Tower on February 2, 1996, and the highest was 114 °F (46 °C) at Moorhead on July 6, 1936. Minnesota's first state park, Itasca State Park, was established in 1891, and is the source of the Mississippi River. From fewer than 6,120 white settlers in 1850, Minnesota's official population grew to over 1.7 million by 1900. Stereotypical traits of Minnesotans include "Minnesota nice", Lutheranism, a strong sense of community and shared culture, and a distinctive brand of North Central American English sprinkled with Scandinavian expressions. The Minnesota State Fair, advertised as The Great Minnesota Get-Together, is an icon of state culture. Minnesota has professional men's teams in all major sports. There are almost 20,000 miles (32,000 km) of snowmobile trails statewide.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.04926108374384237, 1.0, 0.09389671361502348, 0.05868544600938968]
+[0.039603960396039604, 0.8888888888888888, 0.07582938388625592, 0.047393364928909956]
+[0.04433497536945813, 0.9, 0.08450704225352114, 0.05281690140845071]

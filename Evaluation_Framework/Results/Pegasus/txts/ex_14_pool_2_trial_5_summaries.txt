@@ -1,0 +1,15 @@
+Document:
+florida
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Images courtesy of AFP, EPA, Getty Images and Reuters
+
+GT:
+Florida declared its secession from the Union on January 10, 1861, and was one of the seven original Confederate States. It is the flattest state in the United States, and Lake Okeechobee is its largest freshwater lake. Florida has the longest coastline in the contiguous United States, approximately 1,350 miles (2,170 km), not including the contribution of the many barrier islands. Florida has a total of 4,510 islands that are ten acres (4 ha) or larger in area. Florida was the first region of the continental United States to be visited and settled by Europeans. By 1860, Florida had only 140,424 people, of whom 44% were enslaved. Subsequently, the growing availability of air conditioning, the climate, and a low cost of living made the state a haven. Migration from the Rust Belt and the Northeast sharply increased Florida's population after 1945. Central Florida is known as the lightning capital of the United States, as it experiences more lightning strikes than anywhere else in the country. Florida is the most hurricane-prone state, with subtropical or tropical water on a lengthy coastline. Of the category 4 or higher storms that have struck the United States, 83% have either hit Florida or Texas. The Florida Reef is the only living coral barrier reef in the continental United States. It is also the third largest coral barrier reef system in the world, after the Great Barrier Reef and the Belize Barrier Reef. Much of Florida has an elevation of less than 12 feet (3.7 m), including many populated areas. Tourism makes up one of the largest sectors of the state economy, with nearly 1.4 million people employed in the tourism industry in 2016 (a record for the state, surpassing the 1.2 million employment from 2015).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.006666666666666667, 0.2222222222222222, 0.012944983818770227, 0.008090614886731393]
+[0.0, 0.0, 0.0, 0.0]
+[0.006666666666666667, 0.2222222222222222, 0.012944983818770227, 0.008090614886731393]

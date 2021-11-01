@@ -1,0 +1,15 @@
+Document:
+utah
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Utah is one of the most sparsely populated states in the United States.
+
+GT:
+Utah features a dry, semi-arid to desert climate, although its many mountains feature a large variety of climates, with the highest points in the Uinta Mountains being above the timberline. In summer, the state, especially southern and eastern Utah, lies in the path of monsoon moisture from the Gulf of California. Most of the lowland areas receive less than 12 inches (305 mm) of precipitation annually, although the I-15 corridor, including the densely populated Wasatch Front, receives approximately 15 inches (381 mm). The Great Salt Lake Desert is the driest area of the state, with less than 5 inches (127 mm). Snowfall is common in all but the far southern valleys. Although St. George receives only about 3 inches (76 mm) per year, Salt Lake City sees about 60 inches (1,524 mm), enhanced by the lake-effect snow from the Great Salt Lake, which increases snowfall totals to the south, southeast, and east of the lake. In the winter, temperature inversions are a common phenomenon across Utah's low basins and valleys, leading to thick haze and fog that can last for weeks at a time, especially in the Uintah Basin. Meanwhile, observed snow depth across Utah has decreased and is accompanied by consistent decreases in snow cover and surface albedo. Utah's temperatures are extreme, with cold temperatures in winter due to its elevation, and very hot summers statewide (with the exception of mountain areas and high mountain valleys). Average January high temperatures range from around 30 °F (−1 °C) in some northern valleys to almost 55 °F (13 °C) in St. George. Temperatures dropping below 0 °F (−18 °C) should be expected on occasion in most areas of the state most years, although some areas see it often (for example, the town of Randolph averages about fifty days per year with temperatures that low). In July, average highs range from about 85 to 100 °F (29 to 38 °C). However, the low humidity and high elevation typically leads to large temperature variations, leading to cool nights most summer days. On average there are fewer than 40 days of thunderstorm activity during the year, although these storms can be briefly intense when they do occur. They are most likely to occur during monsoon season from about mid-July through mid-September, especially in southern and eastern Utah. Although spring is the wettest season in northern Utah, late summer is the wettest period for much of the south and east of the state. Tornadoes are uncommon in Utah, with an average of two striking the state yearly, rarely higher than EF1 intensity.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.022988505747126436, 0.7692307692307693, 0.044642857142857144, 0.027901785714285716]
+[0.004608294930875576, 0.16666666666666666, 0.008968609865470852, 0.005605381165919282]
+[0.020689655172413793, 0.6923076923076923, 0.040178571428571425, 0.02511160714285714]

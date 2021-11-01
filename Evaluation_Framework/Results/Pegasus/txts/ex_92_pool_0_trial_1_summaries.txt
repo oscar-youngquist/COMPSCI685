@@ -1,0 +1,15 @@
+Document:
+hawaii
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+The state of Hawaii is one of the most densely populated states in the United States.
+
+GT:
+Historically dominated by a plantation economy, Hawaii remains a major agricultural exporter due to its fertile soil and uniquely tropical climate in the US Its economy has gradually diversified since the mid 20th century, with tourism and military defense becoming the two largest sectors. The state attracts tourists, surfers, and scientists from around the world with its diverse natural scenery, warm tropical climate, abundance of public beaches, oceanic surroundings, active volcanoes, and clear skies on the Big Island. On a single island, the climate around the coasts can range from dry tropical (less than 20 inches or 510 millimeters annual rainfall) to wet tropical; on the slopes, environments range from tropical rainforest (more than 200 inches or 5,100 millimeters per year), through a temperate climate, to alpine conditions with a cold, dry climate. The rainy climate impacts soil development, which largely determines ground permeability, affecting the distribution of streams and wetlands. Summer highs usually reach around 88 °F (31 °C) during the day, with the temperature reaching a low of 75 °F (24 °C) at night. Winter day temperatures are usually around 83 °F (28 °C) Snow, not usually associated with the tropics, falls at 13,800 feet (4,200 m) on Mauna Kea and Mauna Loa on Hawaii Island in some winter months. Climates vary considerably on each island; they can be divided into windward and leeward (koʻolau and kona, respectively) areas based upon location relative to the higher mountains.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.03292181069958848, 0.5, 0.061776061776061784, 0.038610038610038616]
+[0.008264462809917356, 0.13333333333333333, 0.015564202334630352, 0.009727626459143969]
+[0.02880658436213992, 0.4375, 0.05405405405405406, 0.03378378378378379]

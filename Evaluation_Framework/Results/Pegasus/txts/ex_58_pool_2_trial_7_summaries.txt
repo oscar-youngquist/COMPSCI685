@@ -1,0 +1,15 @@
+Document:
+kentucky
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Kentucky is one of the most densely populated states in the United States.
+
+GT:
+In 1774 James Harrod founded the first permanent European settlement in Kentucky at the site of present-day Harrodsburg. A 1790 US government report states that 1,500 Kentucky settlers had been killed by Native Americans since the end of the Revolutionary War. In 1786 George Rogers Clark led a group of 1,200 men in actions against Shawnee towns on the Wabash River to begin the Northwest Indian War. On December 31, 1776, the region of Virginia beyond the Appalachian Mountains was established as Kentucky County by the Virginia General Assembly. (Kentucky County was abolished on June 30, 1780, when it was divided into Fayette, Jefferson, and Lincoln counties.) One petition, which had Virginia's assent, came before the Confederation Congress in early July 1788. The United States Congress gave its approval on February 4, 1791. Kentucky was one of the border states during the American Civil War. Although frequently described as never having seceded, representatives from 68 of 110 counties met at Russellville calling themselves the "Convention of the People of Kentucky" and passed an Ordinance of Secession on November 20, 1861. On January 30, 1900, Governor William Goebel, flanked by two bodyguards, was mortally wounded by an assassin while walking to the State Capitol in downtown Frankfort. Goebel was contesting the Kentucky gubernatorial election of 1899, which William S. Taylor was initially believed to have won.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.039301310043668124, 0.6923076923076923, 0.0743801652892562, 0.04648760330578513]
+[0.017543859649122806, 0.3333333333333333, 0.03333333333333333, 0.020833333333333332]
+[0.03056768558951965, 0.5384615384615384, 0.057851239669421496, 0.036157024793388434]

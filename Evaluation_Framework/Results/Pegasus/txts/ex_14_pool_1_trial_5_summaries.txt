@@ -1,0 +1,15 @@
+Document:
+new_york
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+New York is the most populous state in the United States.
+
+GT:
+Two-thirds of the state's population lives in the New York metropolitan area. New York was the only colony not to vote for independence, as the delegates were not authorized to do so. Of New York State's total area, 13.6% consists of water. New York is the only state that includes within its borders parts of the Great Lakes and the Atlantic Ocean. New York is home to the largest African American population and the second largest Asian-American population (after California) in the United States. As many as 800 languages are spoken in New York City, making it the most linguistically diverse city in the world. However, in 2013, the multi-state, New York City-centered metropolitan statistical area produced a gross metropolitan product (GMP) of nearly $1.4 trillion, while in 2012, the corresponding combined statistical area generated a GMP of over $1.7 trillion, both ranking first nationally by a wide margin and behind the GDP of only nine nations.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.06626506024096386, 1.0, 0.12429378531073448, 0.07768361581920905]
+[0.04242424242424243, 0.7, 0.08, 0.049999999999999996]
+[0.05421686746987952, 0.8181818181818182, 0.10169491525423728, 0.0635593220338983]

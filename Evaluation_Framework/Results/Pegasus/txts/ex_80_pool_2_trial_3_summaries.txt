@@ -1,0 +1,15 @@
+Document:
+iowa
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+The state of Iowa is one of the most densely populated states in the United States.
+
+GT:
+In colonial times, Iowa was a part of French Louisiana and Spanish Louisiana; its state flag is patterned after the flag of France. After the Louisiana Purchase, people laid the foundation for an agriculture-based economy in the heart of the Corn Belt. By the time European explorers and traders visited Iowa, American Indians were largely settled farmers with complex economic, social, and political systems. The first known European explorers to document Iowa were Jacques Marquette and Louis Jolliet who traveled the Mississippi River in 1673 documenting several Indigenous villages on the Iowa side. The area of Iowa was claimed for France and remained a French territory until 1763. The French, before their impending defeat in the French and Indian War, transferred ownership to their ally, Spain. The first American settlers officially moved to Iowa in June 1833. Iowa supported the Union during the Civil War, voting heavily for Abraham Lincoln, though there was an antiwar "Copperhead" movement in the state, caused partially by a drop in crop prices caused by the war. Iowa contributed proportionately more men to Civil War military service than did any other state, north or south, sending more than 75,000 volunteers to the armed forces, over one-sixth of whom were killed before the Confederates surrendered at Appomattox. Following the Civil War, Iowa's population continued to grow dramatically, from 674,913 people in 1860 to 1,624,615 in 1880. After bottoming out in the 1980s, Iowa's economy began to become increasingly less dependent on agriculture.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.051181102362204724, 0.8125, 0.0962962962962963, 0.06018518518518518]
+[0.015810276679841896, 0.26666666666666666, 0.029850746268656712, 0.018656716417910446]
+[0.03543307086614173, 0.5625, 0.06666666666666667, 0.04166666666666666]

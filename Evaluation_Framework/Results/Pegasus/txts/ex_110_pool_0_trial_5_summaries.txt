@@ -1,0 +1,15 @@
+Document:
+utah
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Utah is one of the most sparsely populated states in the United States.
+
+GT:
+A group led by two Catholic priests—sometimes called the Domínguez–Escalante expedition—left Santa Fe in 1776, hoping to find a route to the coast of California. In 1821, the year Mexico achieved its independence from Spain, the region became known as part of its territory of Alta California. In late 1824, Jim Bridger became the first known English-speaking person to sight the Great Salt Lake. Following the death of Joseph Smith in 1844, Brigham Young, as president of the Quorum of the Twelve, became the effective leader of the LDS Church in Nauvoo, Illinois. To address the growing conflicts between his people and their neighbors, Young agreed with Illinois Governor Thomas Ford in October 1845 that the Mormons would leave by the following year. Young and the first band of Mormon pioneers reached the Salt Lake Valley on July 24, 1847. Utah was Mexican territory when the first pioneers arrived in 1847. In September 1857, about 120 American settlers of the Baker–Fancher wagon train, en route to California from Arkansas, were murdered by Utah Territorial Militia and some Paiute Native Americans in the Mountain Meadows massacre. On May 10, 1869, the First Transcontinental Railroad was completed at Promontory Summit, north of the Great Salt Lake. During the 1870s and 1880s laws were passed to punish polygamists due, in part, to stories from Utah.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.021929824561403508, 0.38461538461538464, 0.04149377593360996, 0.025933609958506222]
+[0.00881057268722467, 0.16666666666666666, 0.01673640167364017, 0.010460251046025104]
+[0.021929824561403508, 0.38461538461538464, 0.04149377593360996, 0.025933609958506222]

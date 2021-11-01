@@ -1,0 +1,15 @@
+Document:
+louisiana
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Louisiana is a state in the Deep South region of the South Central United States.
+
+GT:
+Article II of the Code Noir of 1724 required owners to provide their slaves with religious education in the state religion, Roman Catholicism. In addition to private organizations, since 1968 the state has maintained the Council for the Development of French in Louisiana (CODOFIL), which promotes use of the French language in the state's tourism, economic development, culture, education and international relations. The Louisiana Science Education Act is a controversial law passed by the Louisiana Legislature on June 11, 2008, and signed into law by Governor Bobby Jindal on June 25. The act allows public school teachers to use supplemental materials in the science classroom which are critical of established science on such topics as the theory of evolution and global warming. In 2000, of all of the states, Louisiana had the highest percentage of students in private schools. Danielle Dreilinger of The Times Picayune wrote in 2014 that "Louisiana parents have a national reputation for favoring private schools." The number of students in enrolled in private schools in Louisiana declined by 9% from circa 2000-2005 until 2014, due to the proliferation of charter schools, the 2008 recession and Hurricane Katrina. Ten parishes in the Baton Rouge and New Orleans area had a combined 17% decline in private school enrollment in that period. This prompted private schools to lobby for school vouchers. Louisiana's school voucher program is known as the Louisiana Scholarship Program. It was available in the New Orleans area beginning in 2008 and in the rest of the state beginning in 2012. In 2013 the number of students using school vouchers to attend private schools was 6,751, and for 2014 it was projected to over 8,800. As per a ruling from Ivan Lemelle, a US district judge, the federal government has the right to review the charter school placements to ensure they do not further racial segregation.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.028662420382165606, 0.6, 0.0547112462006079, 0.03419452887537994]
+[0.009584664536741214, 0.21428571428571427, 0.018348623853211007, 0.011467889908256881]
+[0.028662420382165606, 0.6, 0.0547112462006079, 0.03419452887537994]

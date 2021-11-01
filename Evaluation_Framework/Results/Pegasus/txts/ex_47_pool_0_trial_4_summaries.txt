@@ -1,0 +1,15 @@
+Document:
+maine
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Maine is known for its jagged, rocky coastline.
+
+GT:
+Maine is known for its jagged, rocky coastline; low, rolling mountains; heavily forested interior; picturesque waterways; and its seafood cuisine, especially lobster and clams. Maine's Moosehead Lake is the largest lake wholly in New England, since Lake Champlain is located between Vermont, New York and Québec. Mount Katahdin is the northern terminus of the Appalachian Trail, which extends southerly to Springer Mountain, Georgia, and the southern terminus of the new International Appalachian Trail which, when complete, will run to Belle Isle, Newfoundland and Labrador. Machias Seal Island and North Rock, off the state's Downeast coast, are claimed by both Canada and the American town of Cutler, and are within one of four areas between the two countries whose sovereignty is still in dispute, but it is the only one of the disputed areas containing land. Also in this easternmost area in the Bay of Fundy is the Old Sow, the largest tidal whirlpool in the Western Hemisphere. Prominent glacial features include Somes Sound and Bubble Rock, both part of Acadia National Park on Mount Desert Island. Bubble Rock, a glacial erratic, is a large boulder perched on the edge of Bubble Mountain in Acadia National Park. Acadia National Park is the only national park in New England.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0380952380952381, 1.0, 0.07339449541284404, 0.045871559633027525]
+[0.03349282296650718, 1.0, 0.06481481481481481, 0.04050925925925926]
+[0.0380952380952381, 1.0, 0.07339449541284404, 0.045871559633027525]

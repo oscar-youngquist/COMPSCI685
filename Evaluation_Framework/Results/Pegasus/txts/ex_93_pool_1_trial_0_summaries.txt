@@ -1,0 +1,15 @@
+Document:
+michigan
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Michigan is one of the most densely populated states in the United States.
+
+GT:
+The town quickly became a major fur-trading and shipping post. French attempts to consolidate the fur trade led to the Fox Wars involving the Meskwaki (Fox) and their allies versus the French and their Native allies. In 1760, Montreal fell to the British forces ending the French and Indian War (1754–1763). It held its first democratic elections in August 1792 to send delegates to the new provincial parliament at Newark (now Niagara-on-the-Lake). Ford's development of the moving assembly line in Highland Park marked a new era in transportation. Michigan held its first United States presidential primary election in 1910. In 1927 a school bombing took place in Clinton County. The 2020 coronavirus pandemic in Michigan saw the state suffer one of the largest death tolls in the United States with the metro Detroit area particularly hard hit.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.06293706293706294, 0.6923076923076923, 0.1153846153846154, 0.07211538461538462]
+[0.035211267605633804, 0.4166666666666667, 0.06493506493506494, 0.040584415584415584]
+[0.055944055944055944, 0.6153846153846154, 0.10256410256410257, 0.06410256410256411]

@@ -1,0 +1,15 @@
+Document:
+new_mexico
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+New Mexico is a state in the United States of America.
+
+GT:
+The first known inhabitants of New Mexico were members of the Clovis culture of Paleo-Indians. Francisco Vásquez de Coronado assembled an enormous expedition at Compostela in 1540–1542 to explore and find the mythical Seven Golden Cities of Cibola as described by Fray Marcos de Niza. The name New Mexico was first used by a seeker of gold mines named Francisco de Ibarra, who explored far to the north of New Spain in 1563 and reported his findings as being in "a New Mexico". The settlement of La Villa Real de la Santa Fe de San Francisco de Asís was established as a more permanent capital at the foot of the Sangre de Cristo Mountains in 1610. As a result of the Pueblo Revolt, the only successful revolt against European expansion by Native Americans, these early cities were occupied by the Puebloan peoples until the Spanish returned with an offer of better cultural and religious liberties for the Pueblos. As a part of New Spain, the claims for the province of New Mexico passed to independent Mexico in 1821 following the Mexican War of Independence. Following the victory of the United States in the Mexican–American War (1846–48), under the Treaty of Guadalupe Hidalgo in 1848, Mexico ceded its northern holdings including the territories of California, Texas, and New Mexico, to the United States of America. Congress established the separate New Mexico Territory in September 1850. New Mexico played a role in the Trans-Mississippi Theater of the American Civil War. Both Confederate and Union governments claimed ownership and territorial rights over New Mexico Territory. In the late 19th century, the majority of officially European-descended residents in New Mexico were ethnic Mexicans, many of whom had deep roots in the area from early Spanish colonial times. The United States Congress admitted New Mexico as the 47th state on January 6, 1912. A major oil discovery in 1928 brought wealth to the state, especially Lea County and the town of Hobbs. During World War II, the first atomic bombs were designed and manufactured at Los Alamos, a site developed by the federal government specifically to support a high-intensity scientific effort to rapidly complete research and testing of this weapon. On May 22, 1957, a B-36 accidentally dropped a nuclear bomb 4.5 miles from the control tower while landing at Kirtland Air Force Base. In the late 20th century, Native Americans were authorized by federal law to establish gaming casinos on their reservations under certain conditions, in states which had authorized such gaming. In the 21st century, employment growth areas in New Mexico include electronic circuitry, scientific research, call centers, and Indian casinos.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.022271714922048998, 0.9090909090909091, 0.043478260869565216, 0.027173913043478257]
+[0.015625, 0.7, 0.03056768558951965, 0.019104803493449785]
+[0.022271714922048998, 0.9090909090909091, 0.043478260869565216, 0.027173913043478257]

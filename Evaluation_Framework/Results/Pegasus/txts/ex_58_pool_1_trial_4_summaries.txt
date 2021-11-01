@@ -1,0 +1,15 @@
+Document:
+north_dakota
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+North Dakota is celebrating its 125th anniversary as a state.
+
+GT:
+Due to attacks by Crees, Assiniboines and Chippewas armed with fire weapons, they left the area around 1780 and crossed Missouri some time after. Eventually, the Cheyenne and the Sutaio became one tribe and turned into mounted buffalo hunters with ranges mainly outside North Dakota. The first European to reach the area was the French-Canadian trader Pierre Gaultier, sieur de La Vérendrye, who led an exploration and trading party to the Mandan villages in 1738. guided by Assiniboine Indians. Congress passed an omnibus bill for statehood for North Dakota, South Dakota, Montana, and Washington, titled the Enabling Act of 1889, on February 22, 1889 during the administration of President Grover Cleveland. His successor, Benjamin Harrison, signed the proclamations formally admitting North Dakota and South Dakota to the Union on November 2, 1889. Unrest among wheat farmers, especially among Norwegian immigrants, led to a populist political movement centered in the Non Partisan League ("NPL") around the time of World War I. The original North Dakota State Capitol in Bismarck burned to the ground on December 28, 1930. It was replaced by a limestone-faced art-deco skyscraper that still stands today.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.020833333333333332, 0.4, 0.039603960396039604, 0.02475247524752475]
+[0.005235602094240838, 0.1111111111111111, 0.01, 0.00625]
+[0.020833333333333332, 0.4, 0.039603960396039604, 0.02475247524752475]

@@ -1,0 +1,15 @@
+Document:
+kansas
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at the history and culture of the American state of Kansas.
+
+GT:
+Between 1763 and 1803 the territory of Kansas was integrated into Spanish Louisiana. In 1803, most of modern Kansas was acquired by the United States as part of the Louisiana Purchase. In 1827, Fort Leavenworth became the first permanent settlement of white Americans in the future state. The Kansas–Nebraska Act became law on May 30, 1854, establishing Nebraska Territory and Kansas Territory, and opening the area to broader settlement by whites. Kansas Territory stretched all the way to the Continental Divide and included the sites of present-day Denver, Colorado Springs, and Pueblo. Kansas was admitted to the Union as a free state on January 29, 1861, making it the 34th state to join the United States. At the same time, the Chisholm Trail was opened and the Wild West-era commenced in Kansas. Wild Bill Hickok was a deputy marshal at Fort Riley and a marshal at Hays and Abilene. In one year alone, eight million head of cattle from Texas boarded trains in Dodge City bound for the East, earning Dodge the nickname "Queen of the Cowtowns". Kansas has a history of many firsts in legislative initiatives—it was the first state to institute a system of workers' compensation (1910) and to regulate the securities industry (1911). Kansas also permitted women's suffrage in 1912, almost a decade before the federal constitution was amended to require it. Suffrage in all states would not be guaranteed until ratification of the 19th Amendment to the US Constitution in 1920.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.056, 0.56, 0.10181818181818182, 0.06363636363636363]
+[0.012048192771084338, 0.125, 0.021978021978021976, 0.013736263736263734]
+[0.044, 0.44, 0.08, 0.049999999999999996]

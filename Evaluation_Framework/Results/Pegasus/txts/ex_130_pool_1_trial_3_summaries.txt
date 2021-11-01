@@ -1,0 +1,15 @@
+Document:
+washington
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+A selection of photographs from around the state of Washington.
+
+GT:
+Because of the favorable climate of dry, warm summers and cold winters of central Washington, the state has led the US in apple production since the 1920s. The Cascade Mountain Range also impedes transportation. Washington is crossed by a number of freight railroads, and Amtrak's passenger Cascade route between Eugene, Oregon and Vancouver, BC is the eighth busiest Amtrak service in the US Seattle's King Street Station, the busiest station in Washington, and 15th busiest in the US, serves as the terminus for the two long distance Amtrak routes in Washington, the Empire Builder to Chicago and the Coast Starlight to Los Angeles. The Sounder commuter rail service operates in Seattle and its surrounding cities, between Everett and Lakewood. The intercity network includes the Cascade Tunnel, the longest railroad tunnel in the United States, which is part of the Stevens Pass route on the BNSF Northern Transcom. Hanford Nuclear Reservation is currently the most contaminated nuclear site in the United States and is the focus of the nation's largest environmental cleanup. Colleges and universities include the University of Washington, Seattle University, Washington State University, Western Washington University, Eastern Washington University, Central Washington University, Saint Martin's University, Pacific Lutheran University, Gonzaga University, University of Puget Sound, The Evergreen State College, and Whitman College. Pacific Raceways is a motorsports venue which has hosted the Northwest Nationals of the NHRA Mello Yello Drag Racing Series and a round of the Trans-Am Series. The name proved popular as the forests were full of evergreen trees and the abundance of rain keeps the shrubbery and grasses green throughout the year.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.022222222222222223, 0.6, 0.04285714285714286, 0.026785714285714284]
+[0.007434944237918215, 0.2222222222222222, 0.014388489208633094, 0.008992805755395681]
+[0.022222222222222223, 0.6, 0.04285714285714286, 0.026785714285714284]

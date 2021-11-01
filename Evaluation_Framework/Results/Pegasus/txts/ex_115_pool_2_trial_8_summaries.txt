@@ -1,0 +1,15 @@
+Document:
+iowa
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+The state of Iowa is one of the most densely populated states in the United States.
+
+GT:
+The Clint Eastwood movie The Bridges of Madison County, based on the popular novel of the same name, took place and was filmed in Madison County. What's Eating Gilbert Grape, based on the Peter Hedges novel of the same name, is set in the fictional Iowa town of Endora. In football, Iowa State University and the University of Iowa compete in the Football Bowl Subdivision (FBS), whereas the University of Northern Iowa and Drake University compete in the Football Championship Subdivision (FCS). In NCAA FBS, the University of Iowa Hawkeyes play in the Big Ten Conference and the Iowa State University Cyclones compete in the Big 12 Conference. Des Moines is home to the Iowa Wild, who are affiliated with the Minnesota Wild and are members of the American Hockey League. The Iowa Speedway oval track has hosted auto racing championships such as the IndyCar Series, NASCAR Nationwide Series and NASCAR Truck Series since 2006.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0641025641025641, 0.625, 0.11627906976744184, 0.07267441860465115]
+[0.01935483870967742, 0.2, 0.03529411764705883, 0.022058823529411766]
+[0.057692307692307696, 0.5625, 0.10465116279069768, 0.06540697674418605]
