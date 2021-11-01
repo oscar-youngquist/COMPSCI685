@@ -1,0 +1,15 @@
+Document:
+massachusetts
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Massachusetts is one of the most densely populated states in the United States.
+
+GT:
+Plymouth was the site of the second colony in New England after Popham Colony in 1607 in what is now Maine. Plymouth was founded in 1620 by the Pilgrims, passengers of the Mayflower. Before the American Civil War, Massachusetts was a center for the abolitionist, temperance, and transcendentalist movements. In the early 1600s, after contact had been made with Europeans, large numbers of the indigenous peoples in the northeast of what is now the United States were killed by virgin soil epidemics such as smallpox, measles, influenza, and perhaps leptospirosis. Between 1617 and 1619, what was possibly smallpox killed approximately 90% of the Massachusetts Bay Native Americans. The first English settlers in Massachusetts, the Pilgrims, arrived on the Mayflower at Plymouth in 1620, and developed friendly relations with the native Wampanoag people. This was the second successful permanent English colony in the part of North America that later became the United States, after the Jamestown Colony. Massachusetts was a center of the movement for independence from Great Britain; colonists in Massachusetts had long uneasy relations with the British monarchy, including open rebellion under the Dominion of New England in the 1680s. Although Massachusetts was the first slave-holding colony dating back to the early 1600s, in the years leading up to the American Civil War, Massachusetts was a center of progressivist and abolitionist activity. Although significant opposition to abolitionism existed early on in Massachusetts, resulting in anti-abolitionist riots between 1835 and 1837, opposition to slavery gradually increased throughout the next few decades.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.03557312252964427, 0.6923076923076923, 0.06766917293233084, 0.04229323308270677]
+[0.015873015873015872, 0.3333333333333333, 0.030303030303030304, 0.01893939393939394]
+[0.03162055335968379, 0.6153846153846154, 0.06015037593984962, 0.037593984962406006]

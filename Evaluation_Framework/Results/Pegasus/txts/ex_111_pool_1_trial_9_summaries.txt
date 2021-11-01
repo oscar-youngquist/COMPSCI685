@@ -1,0 +1,15 @@
+Document:
+kentucky
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Kentucky is one of the most densely populated states in the United States.
+
+GT:
+Kentucky maintains eight public four-year universities. There are two general tiers: major research institutions (the University of Kentucky and the University of Louisville) and regional universities, which encompasses the remaining six schools. The regional schools have specific target counties that many of their programs are targeted towards (such as Forestry at Eastern Kentucky University or Cave Management at Western Kentucky University), however most of their curriculum varies little from any other public university. UK and UofL have the highest academic rankings and admissions standards although the regional schools aren't without their national recognized departments – examples being Western Kentucky University's nationally ranked Journalism Department or Morehead State University offering one of the nation's only Space Science degrees. UK is the flagship and land grant of the system and has agriculture extension services in every county. The two research schools split duties related to the medical field, UK handles all medical outreach programs in the eastern half of the state while UofL does all medical outreach in the state's western half. The state's sixteen public two-year colleges have been governed by the Kentucky Community and Technical College System since the passage of the Postsecondary Education Improvement Act of 1997, commonly referred to as House Bill 1. Before the passage of House Bill 1, most of these colleges were under the control of the University of Kentucky. Berea College, located at the extreme southern edge of the Bluegrass below the Cumberland Plateau, was the first coeducational college in the South to admit both black and white students, doing so from its very establishment in 1855. This policy was successfully challenged in the United States Supreme Court in the case of Berea College v. Kentucky in 1908. This decision effectively segregated Berea until the landmark Brown v. Board of Education in 1954. There are 173 school districts and 1,233 public schools in Kentucky. For the 2010 to 2011 school year, there were approximately 647,827 students enrolled in public school. Kentucky has been the site of much educational reform over the past two decades. In 1989 the Kentucky Supreme Court ruled the state's education system was unconstitutional. The response of the General Assembly was passage of the Kentucky Education Reform Act (KERA) the following year. Years later, Kentucky has shown progress, but most agree that further reform is needed. The West Virginia teachers' strike in 2018 inspired teachers in other states, including Kentucky, to take similar action.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.02669902912621359, 0.8461538461538461, 0.05176470588235294, 0.032352941176470584]
+[0.012165450121654502, 0.4166666666666667, 0.023640661938534282, 0.014775413711583925]
+[0.021844660194174758, 0.6923076923076923, 0.04235294117647059, 0.02647058823529412]

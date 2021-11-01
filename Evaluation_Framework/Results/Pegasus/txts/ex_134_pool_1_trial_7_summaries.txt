@@ -1,0 +1,15 @@
+Document:
+massachusetts
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Massachusetts is one of the most densely populated states in the United States.
+
+GT:
+Plymouth was the site of the second colony in New England after Popham Colony in 1607 in what is now Maine. Plymouth was founded in 1620 by the Pilgrims, passengers of the Mayflower. In 1692, the town of Salem and surrounding areas experienced one of America's most infamous cases of mass hysteria, the Salem witch trials. In 1777, General Henry Knox founded the Springfield Armory, which during the Industrial Revolution catalyzed numerous important technological advances, including interchangeable parts. In 1786, Shays' Rebellion, a populist revolt led by disaffected American Revolutionary War veterans, influenced the United States Constitutional Convention. In the 18th century, the Protestant First Great Awakening, which swept Britain and the Thirteen Colonies, originated from the pulpit of Northampton preacher Jonathan Edwards. In the late 18th century, Boston became known as the "Cradle of Liberty" for the agitation there that later led to the American Revolution. The entire Commonwealth of Massachusetts has played a powerful scientific, commercial, and cultural role in the history of the United States. Before the American Civil War, Massachusetts was a center for the abolitionist, temperance, and transcendentalist movements. In the late 19th century, the sports of basketball and volleyball were invented in the western Massachusetts cities of Springfield and Holyoke, respectively. In 2004, Massachusetts became the first US state to legally recognize same-sex marriage as a result of the Massachusetts Supreme Judicial Court's decision in Goodridge v. Department of Public Health.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.04583333333333333, 0.8461538461538461, 0.08695652173913043, 0.05434782608695652]
+[0.02092050209205021, 0.4166666666666667, 0.0398406374501992, 0.024900398406374504]
+[0.0375, 0.6923076923076923, 0.07114624505928853, 0.04446640316205533]

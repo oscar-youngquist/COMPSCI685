@@ -1,0 +1,15 @@
+Document:
+missouri
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Missouri is a state in the Midwestern United States.
+
+GT:
+The Mississippian culture built cities and mounds, before declining in the 14th century. When European explorers arrived in the 17th century, they encountered the Osage and Missouria nations. The French established Louisiana, a part of New France, founding Ste. After a brief period of Spanish rule, the United States acquired the Louisiana Purchase in 1803. Missouri was admitted as a slave state as part of the Missouri Compromise. Missouri played a central role in the westward expansion of the United States, as memorialized by the Gateway Arch. As a border state, Missouri's role in the American Civil War was complex and there were many conflicts within. St. Louis was founded soon after by French fur traders, Pierre Laclède and stepson Auguste Chouteau from New Orleans in 1764. St. Louis became the center of a regional fur trade with Native American tribes that extended up the Missouri and Mississippi rivers, which dominated the regional economy for decades. St. Charles, just west of St. Louis, was the starting point and the return destination of the Lewis and Clark Expedition, which ascended the Missouri River in 1804, to explore the western lands to the Pacific Ocean. The Confederacy recognized Missouri secession on October 30, 1861. Though regular Confederate troops staged some large-scale raids into Missouri, the fighting in the state for the next three years consisted chiefly of guerrilla warfare. Joseph "Holy Joe" Folk was a key leader who made a strong appeal to the middle class and rural evangelical Protestants. He successfully conducted antitrust prosecutions, ended free railroad passes for state officials, extended bribery statutes, improved election laws, required formal registration for lobbyists, made racetrack gambling illegal and enforced the Sunday-closing law. He helped enact Progressive legislation, including an initiative and referendum provision, regulation of elections, education, employment and child labor, railroads, food, business, and public utilities. Between the Civil War and the end of World War II, Missouri transitioned from a rural economy to a hybrid industrial-service-agricultural economy as the Midwest rapidly industrialized. In 2014, Missouri received national attention for the protests and riots that followed the shooting of Michael Brown by a police officer of Ferguson, which led Governor Jay Nixon to call out the Missouri National Guard.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.01871657754010695, 0.7777777777777778, 0.03655352480417754, 0.022845953002610962]
+[0.005361930294906166, 0.25, 0.010498687664041995, 0.006561679790026247]
+[0.01871657754010695, 0.7777777777777778, 0.03655352480417754, 0.022845953002610962]

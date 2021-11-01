@@ -1,0 +1,15 @@
+Document:
+indiana
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Indiana is one of the most densely populated states in the United States.
+
+GT:
+Indiana's 1816 constitution was the first in the country to implement a state-funded public school system. About half of all college students in Indiana are enrolled in state-supported four-year schools. The overall goal of these new state standards is to ensure Indiana students have the necessary skills and requirements needed to enter college or the workforce upon high school graduation. Mathematics, English/Language Arts, Science, and Social Studies are among the top, prioritized standards. Many of Indiana's private colleges and universities are affiliated with religious groups. The state's community college system, Ivy Tech Community College of Indiana, serves nearly 200,000 students annually, making it the state's largest public post-secondary educational institution and the nation's largest singly accredited statewide community college system.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.061068702290076333, 0.6153846153846154, 0.1111111111111111, 0.06944444444444445]
+[0.007692307692307693, 0.08333333333333333, 0.014084507042253521, 0.008802816901408451]
+[0.05343511450381679, 0.5384615384615384, 0.09722222222222222, 0.06076388888888889]

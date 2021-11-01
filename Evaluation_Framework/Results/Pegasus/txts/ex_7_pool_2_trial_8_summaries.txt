@@ -1,0 +1,15 @@
+Document:
+missouri
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Missouri is a state in the Midwestern United States.
+
+GT:
+Well-known Missourians include Chuck Berry, Sheryl Crow, Walt Disney, Edwin Hubble, Nelly, Brad Pitt, Harry S. Truman, and Mark Twain. Some of the largest companies based in the state include Cerner, Express Scripts, Monsanto, Emerson Electric, Edward Jones, HRBlock, Wells Fargo Advisors, Centene Corporation, and O'Reilly Auto Parts. Well-known universities in Missouri include the University of Missouri, St. Louis University, Washington University in St. Louis and Missouri Western State University. Missouri has been called the "Mother of the West" and the "Cave State", but its most famous nickname is the "Show Me State". The state is named for the Missouri River, which was named after the indigenous Missouri Indians, a Siouan-language tribe. It is said they were called the ouemessourita (wimihsoorita), meaning "those who have dugout canoes", by the Miami-Illinois language speakers. However, Missouri's unofficial nickname is the "Show Me State," which appears on its license plates. Other nicknames for Missouri include "The Lead State", "The Bullion State", "The Ozark State", "The Mother of the West", "The Iron Mountain State", and "Pennsylvania of the West". The official state motto is Latin: "Salus Populi Suprema Lex Esto", which means "Let the welfare of the people be the supreme law." Although today it is usually considered part of the Midwest, Missouri was historically seen by many as a border state, chiefly because of the settlement of migrants from the South and its status as a slave state before the Civil War, balanced by the influence of St. Louis. The Bootheel was the epicenter of the four New Madrid Earthquakes of 1811 and 1812. Missouri is home to an endangered dialect of the French language known as Missouri French.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.024822695035460994, 0.7777777777777778, 0.048109965635738834, 0.030068728522336774]
+[0.0071174377224199285, 0.25, 0.01384083044982699, 0.00865051903114187]
+[0.02127659574468085, 0.6666666666666666, 0.041237113402061855, 0.02577319587628866]

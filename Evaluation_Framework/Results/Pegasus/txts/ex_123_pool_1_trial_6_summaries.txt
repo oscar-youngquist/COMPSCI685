@@ -1,0 +1,15 @@
+Document:
+idaho
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+As part of our series of letters from African-Canadian journalists, filmmaker and columnist Farai Sevenzo looks at the state of Idaho.
+
+GT:
+A number of science and technology firms are either headquartered in Idaho or have factories there, and the state also contains the Idaho National Laboratory, which is the country's largest Department of Energy facility. The official state nickname is the "Gem State", which references Idaho's natural beauty. Idaho is a Rocky Mountain state with abundant natural resources and scenic areas. Idaho's highest point is Borah Peak, 12,662 ft (3,859 m), in the Lost River Range north of Mackay. Idaho's lowest point, 710 ft (216 m), is in Lewiston, where the Clearwater River joins the Snake River and continues into Washington. The Sawtooth Range is often considered Idaho's most famous mountain range. Other mountain ranges in Idaho include the Bitterroot Range, the White Cloud Mountains, the Lost River Range, the Clearwater Mountains, and the Salmon River Mountains.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.04895104895104895, 0.3181818181818182, 0.08484848484848484, 0.05303030303030304]
+[0.007042253521126761, 0.047619047619047616, 0.012269938650306749, 0.007668711656441719]
+[0.04195804195804196, 0.2727272727272727, 0.07272727272727272, 0.04545454545454545]

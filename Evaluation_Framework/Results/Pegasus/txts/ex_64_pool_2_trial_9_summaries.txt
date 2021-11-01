@@ -1,0 +1,15 @@
+Document:
+pennsylvania
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Pennsylvania is the 33rd-largest state by area.
+
+GT:
+Pennsylvania ( (listen) PEN-səl-VAY-nee-ə) (Pennsylvania German: Pennsilfaani), officially the Commonwealth of Pennsylvania, is a state in the Mid-Atlantic, Appalachian, and Great Lakes regions of the Northeastern United States. Between 1730 and when it was shut down by Parliament with the Currency Act of 1764, the Pennsylvania Colony made its own paper money to account for the shortage of actual gold and silver. The Second Continental Congress, which also met in Philadelphia (in May 1775), drew up and signed the Declaration of Independence in Philadelphia, but when that city was captured by the British, the Continental Congress escaped westward, meeting at the Lancaster courthouse on Saturday, September 27, 1777, and then to York. The Constitution was drafted and signed at the Pennsylvania State House, now known as Independence Hall, and the same building where the Declaration of Independence was signed. The Three Mile Island accident was the most significant nuclear accident in US commercial nuclear power plant history. United Airlines Flight 93 crashed into a field near Shanksville during the September 11th attacks, killing 44. The majority of Hispanics in Pennsylvania are of Puerto Rican descent, having one of the largest and fastest-growing Puerto Rican populations in the country. Pennsylvania German is often—even though misleadingly—called "Pennsylvania Dutch". Pennsylvania German is still very vigorous as a first language among Old Order Amish and Old Order Mennonites (principally in the Lancaster County area), whereas it is almost extinct as an everyday language outside the plain communities, though a few words have passed into English usage. Pennsylvania is home to the nation's first zoo, the Philadelphia Zoo.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.025830258302583026, 0.875, 0.05017921146953405, 0.03136200716845878]
+[0.003703703703703704, 0.14285714285714285, 0.007220216606498195, 0.004512635379061372]
+[0.02214022140221402, 0.75, 0.04301075268817203, 0.026881720430107527]

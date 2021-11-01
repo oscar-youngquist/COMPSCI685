@@ -1,0 +1,15 @@
+Document:
+missouri
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Missouri is a state in the Midwestern United States.
+
+GT:
+The Missouri State Board of Education has general authority over all public education in the state of Missouri. It is made up of eight citizens appointed by the governor and confirmed by the Missouri Senatorte. Education is compulsory from ages seven to seventeen. It is required that any parent, guardian, or another person with custody of a child between the ages of seven and seventeen, the compulsory attendance age for the district, must ensure the child is enrolled in and regularly attends public, private, parochial school, home school or a combination of schools for the full term of the school year. Compulsory attendance also ends when children complete sixteen credits in high school. Children in Missouri between the ages of five and seven are not required to be enrolled in school. However, if they are enrolled in a public school, their parent, guardian, or custodian must ensure they regularly attend. Homeschooling is legal in Missouri and is an option to meet the compulsory education requirement. It is neither monitored nor regulated by the state's Department of Elementary and Secondary Education The state funds a $2000, renewable merit-based scholarship, Bright Flight, given to the top three percent of Missouri high school graduates who attend a university in-state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.03349282296650718, 0.7777777777777778, 0.06422018348623854, 0.040137614678899085]
+[0.004807692307692308, 0.125, 0.009259259259259259, 0.005787037037037037]
+[0.028708133971291867, 0.6666666666666666, 0.055045871559633024, 0.034403669724770644]

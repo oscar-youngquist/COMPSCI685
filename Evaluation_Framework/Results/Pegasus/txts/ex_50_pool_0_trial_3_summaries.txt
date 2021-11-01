@@ -1,0 +1,15 @@
+Document:
+california
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+California is a state in the Pacific Region of the United States.
+
+GT:
+California's public educational system is supported by a unique constitutional amendment that requires a minimum annual funding level for grades K–12 and community colleges that grow with the economy and student enrollment figures. In 2016, California's K–12 public school per-pupil spending was ranked 22nd in the nation ($11,500 per student vs. $11,800 for the US average). A 2007 study concluded that California's public school system was "broken" in that it suffered from over-regulation. California's public postsecondary education offers three separate systems: California is also home to such notable private universities as Stanford University, the University of Southern California, the California Institute of Technology, and the Claremont Colleges. About 1,102 school districts, independent of cities and counties, handle California's public education. California school districts may be organized as elementary districts, high school districts, unified school districts combining elementary and high school grades, or community college districts.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.044585987261146494, 0.5833333333333334, 0.08284023668639054, 0.051775147928994084]
+[0.01282051282051282, 0.18181818181818182, 0.02395209580838323, 0.01497005988023952]
+[0.044585987261146494, 0.5833333333333334, 0.08284023668639054, 0.051775147928994084]

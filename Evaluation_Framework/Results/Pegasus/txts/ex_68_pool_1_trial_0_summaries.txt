@@ -1,0 +1,15 @@
+Document:
+west_virginia
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+West Virginia Governor Joe Manchin has announced that he will not seek re-election in 2016.
+
+GT:
+West Virginia became a state following the Wheeling Conventions of 1861, at the start of the American Civil War. West Virginia was admitted to the Union on June 20, 1863, and was a key border state during the war. Many ancient man-made earthen mounds from various prehistoric mound builder cultures survive, especially in the areas of present-day Moundsville, South Charleston, and Romney. In the 1670s during the Beaver Wars, the powerful Iroquois, five allied nations based in present-day New York and Pennsylvania, drove out other American Indian tribes from the region in order to reserve the upper Ohio Valley as a hunting ground. In 1671, General Abraham Wood, at the direction of Royal Governor William Berkeley of the Virginia Colony, sent a party from Fort Henry led by Thomas Batts and Robert Fallam to survey this territory. After the War, with the new railroads came a practical method to transport large quantities of coal to expanding US and export markets. The completion of the Chesapeake and Ohio Railway (C&O) across the state to the new city of Huntington on the Ohio River in 1872 opened access to the New River Coal Field. As coal mining and related work became major employment activities in the state, there was considerable labor strife as working conditions, safety issues and economic concerns arose. Harpers Ferry was the site of John Brown's 1859 raid on the US Armory and Arsenal.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.016666666666666666, 0.25, 0.03125, 0.01953125]
+[0.0041841004184100415, 0.06666666666666667, 0.007874015748031494, 0.004921259842519685]
+[0.016666666666666666, 0.25, 0.03125, 0.01953125]

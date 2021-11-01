@@ -1,0 +1,15 @@
+Document:
+arizona
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+The state of Arizona is bordered by Mexico to the north, New Mexico to the south and California to the east.
+
+GT:
+Southern Arizona is known for its desert climate, with very hot summers and mild winters. Its climate has exceptionally hot summers and mild winters. Due to its large area and variations in elevation, the state has a wide variety of localized climate conditions. In the lower elevations, the climate is primarily desert, with mild winters and extremely hot summers. Typically, from late fall to early spring, the weather is mild, averaging a minimum of 60 °F (16 °C). November through February are the coldest months, with temperatures typically ranging from 40 to 75 °F (4 to 24 °C), with occasional frosts. About midway through February, the temperatures start to rise, with warm days, and cool, breezy nights. The summer months of June through September bring a dry heat from 90 to 120 °F (32 to 49 °C), with occasional high temperatures exceeding 125 °F (52 °C) having been observed in the desert area. Arizona's all-time record high is 128 °F (53 °C) recorded at Lake Havasu City on June 29, 1994, and July 5, 2007; the all-time record low of −40 °F (−40 °C) was recorded at Hawley Lake on January 7, 1971. Due to the primarily dry climate, large diurnal temperature variations occur in less-developed areas of the desert above 2,500 ft (760 m). The swings can be as large as 83 °F (46 °C) in the summer months. In the state's urban centers, the effects of local warming result in much higher measured night-time lows than in the recent past. Arizona has an average annual rainfall of 12.7 in (323 mm), which comes during two rainy seasons, with cold fronts coming from the Pacific Ocean during the winter and a monsoon in the summer. The monsoon season occurs toward the end of summer. In July or August, the dewpoint rises dramatically for a brief period. Dewpoints as high as 81 °F (27 °C) have been recorded during the Phoenix monsoon season. This hot moisture brings lightning, thunderstorms, wind, and torrential, if usually brief, downpours. Arizona's northern third is a plateau at significantly higher altitudes than the lower desert, and has an appreciably cooler climate, with cold winters and mild summers, though the climate remains semiarid to arid. Extremely cold temperatures are not unknown; cold air systems from the northern states and Canada occasionally push into the state, bringing temperatures below 0 °F (−18 °C) to the state's northern parts. Indicative of the variation in climate, Arizona is the state which has both the metropolitan area with the most days over 100 °F (38 °C) (Phoenix), and the metropolitan area in the lower 48 states with the most days with a low temperature below freezing (Flagstaff).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0262582056892779, 0.5714285714285714, 0.050209205020920494, 0.031380753138075305]
+[0.008771929824561403, 0.2, 0.01680672268907563, 0.010504201680672268]
+[0.0262582056892779, 0.5714285714285714, 0.050209205020920494, 0.031380753138075305]

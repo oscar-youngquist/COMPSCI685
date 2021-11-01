@@ -1,0 +1,15 @@
+Document:
+new_mexico
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+New Mexico is a state in the United States of America.
+
+GT:
+It is one of the Mountain States and shares the Four Corners region with Utah, Colorado, and Arizona. The economy of New Mexico is dependent on oil drilling, mineral extraction, dryland farming, cattle ranching, acequia and landrace agriculture, lumber milling, retail trade, scientific research laboratories, technological development, as well as the arts, especially textiles and visual arts. New Mexico received its name long before the present-day nation of Mexico won independence from Spain and adopted that name in 1821. Though the name "Mexico" itself derives from Nahuatl, and in that language it originally referred to the heartland of the Empire of the Mexicas (Aztec Empire) in the Valley of Mexico far from the area of New Mexico, Spanish explorers also used the term "Mexico" to name the region of New Mexico (Nuevo México in Spanish) in 1563. The most important of New Mexico's rivers are the Rio Grande, Pecos, Canadian, San Juan, and Gila. The Rio Grande is tied for the fourth-longest river in the United States. Astronomical observatories in New Mexico take advantage of unusually clear skies, including the Apache Point Observatory, the Very Large Array, the Magdalena Ridge Observatory, and others. New Mexico is the third-largest crude oil and ninth-largest natural gas producer in the United States. The Albuquerque International Sunport is the state's primary port of entry for air transportation. Virgin Galactic, a space tourism company, plans to make this their primary operating base. New Mexico is one of eight states that fund college scholarships through the state lottery.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.03861003861003861, 0.9090909090909091, 0.07407407407407407, 0.046296296296296294]
+[0.01937984496124031, 0.5, 0.03731343283582089, 0.02332089552238806]
+[0.03474903474903475, 0.8181818181818182, 0.06666666666666667, 0.041666666666666664]

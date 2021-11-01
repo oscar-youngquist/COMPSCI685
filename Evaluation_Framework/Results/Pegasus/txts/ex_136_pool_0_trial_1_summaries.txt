@@ -1,0 +1,15 @@
+Document:
+wisconsin
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Wisconsin is a battleground state in the 2016 presidential election.
+
+GT:
+Wisconsin ( (listen)) is a state in the Great Lakes region of the Midwestern United States, bordered by Minnesota to the west; Iowa to the southwest; Illinois to the south; Lake Michigan to the east; Michigan to the northeast; and Lake Superior to the north. The word Wisconsin originates from the name given to the Wisconsin River by one of the Algonquian-speaking Native American groups living in the region at the time of European contact. Wisconsin has been home to a wide variety of cultures over the past 14,000 years. Wisconsin became a territorial possession of the United States in 1783 after the American Revolutionary War. Statewide FBI Crime statistics for 2009 include 144 murders/non-negligent manslaughter; 1,108 rapes; 4,850 robberies; 8,431 aggravated assaults; and 147,486 property crimes. Wisconsin produces about a quarter of America's cheese, leading the nation in cheese production. It is second in milk production, after California, and third in per-capita milk production, behind California and Vermont. Wisconsin is second in butter production, producing about one-quarter of the nation's butter. The state ranks first nationally in the production of corn for silage, cranberries ginseng, and snap beans for processing. Wisconsin is home to a very large and diversified manufacturing economy, with special focus on transportation and capital equipment. Wisconsin is a major producer of paper, packaging, and other consumer goods. Tourism is a major industry in Wisconsin—the state's third largest, according to the Department of Tourism. Wisconsin has no production of oil, gas, or coal. Milwaukee hosts Summerfest, dubbed "The World's Largest Music Festival", every year. Drinking has long been considered a significant part of Wisconsin culture, and the state ranks at or near the top of national measures of per-capita alcohol consumption, consumption of alcohol per state, and proportion of drinkers. Outdoor activities are popular in Wisconsin, especially hunting and fishing. Wisconsin is represented by major league teams in three sports: football, baseball, and basketball.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.018018018018018018, 0.6, 0.034985422740524776, 0.021865889212827987]
+[0.012048192771084338, 0.4444444444444444, 0.02346041055718475, 0.01466275659824047]
+[0.018018018018018018, 0.6, 0.034985422740524776, 0.021865889212827987]

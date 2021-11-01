@@ -1,0 +1,15 @@
+Document:
+delaware
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+The state's motto is "In God We Trust".
+
+GT:
+It was initially colonized by Dutch traders at Zwaanendael, near the present town of Lewes, in 1631. Delaware was one of the 13 colonies participating in the American Revolution. On December 7, 1787, Delaware became the first state to ratify the Constitution of the United States, and has since been known as The First State. In 1638 New Sweden, a Swedish trading post and colony, was established at Fort Christina (now in Wilmington) by Peter Minuit at the head of a group of Swedes, Finns and Dutch. In 1651 the Dutch, reinvigorated by the leadership of Peter Stuyvesant, established a fort at present-day New Castle, and in 1655 they conquered the New Sweden colony, annexing it into the Dutch New Netherland. Only nine years later, in 1664, the Dutch were conquered by a fleet of English ships by Sir Robert Carr under the direction of James, the Duke of York. Anticipating the Declaration of Independence, Patriot leaders Thomas McKean and Caesar Rodney convinced the Colonial Assembly to declare itself separated from British and Pennsylvania rule on June 15, 1776. Only the dramatic overnight ride of Caesar Rodney gave the delegation the votes needed to cast Delaware's vote for independence. In August 1777 General Sir William Howe led a British army through Delaware on his way to a victory at the Battle of Brandywine and capture of the city of Philadelphia. The only real engagement on Delaware soil was the Battle of Cooch's Bridge, fought on September 3, 1777, at Cooch's Bridge in New Castle County, although there was a minor Loyalist rebellion in 1778. Delaware voted against secession on January 3, 1861, and so remained in the Union. Delaware essentially freed the few slaves who were still in bondage shortly after the Civil War but rejected the 13th, 14th, and 15th Amendments to the Constitution; the 13th Amendment was rejected on February 8, 1865, the 14th Amendment was rejected on February 8, 1867, and the 15th Amendment was rejected on March 18, 1869. Delaware officially ratified the 13th, 14th, and 15th amendments on February 12, 1901. On July 1, 2013, same-sex marriage was legalized, and all civil unions would be converted into marriages. Delaware's fourth and current constitution, adopted in 1897, provides for executive, judicial and legislative branches. Delaware was the last US state to use judicial corporal punishment, in 1952. Delaware was the origin of Belton v. Gebhart (1952), one of the four cases which were combined into Brown v. Board of Education, the Supreme Court of the United States decision that led to the end of officially segregated public schools.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0091324200913242, 0.4444444444444444, 0.017897091722595078, 0.011185682326621925]
+[0.0, 0.0, 0.0, 0.0]
+[0.0091324200913242, 0.4444444444444444, 0.017897091722595078, 0.011185682326621925]

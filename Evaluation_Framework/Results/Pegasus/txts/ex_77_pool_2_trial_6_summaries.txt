@@ -1,0 +1,15 @@
+Document:
+colorado
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Colorado is a state in the western United States encompassing most of the southern Rocky Mountains as well as the northeastern portion of the Colorado Plateau and the western edge of the Great Plains.
+
+GT:
+The region has been inhabited by Native Americans for more than 13,000 years, with the Lindenmeier Site containing artifacts dating from approximately 9200 BCE to 1000 BCE; the eastern edge of the Rocky Mountains was a major migration route for early peoples who spread throughout the Americas. The Rocky Mountains within Colorado contain 53 true peaks with a total of 58 that are 14,000 feet (4,267 m) or higher in elevation above sea level, known as fourteeners. Much of the alpine snow melts by mid-August with the exception of a few snow-capped peaks and a few small glaciers. The Western Slope area of Colorado includes the western face of the Rocky Mountains and all of the state to the western border. Just west of the plains and into the foothills, there are a wide variety of climate types. Locations merely a few miles apart can experience entirely different weather depending on the topography.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13924050632911392, 0.6470588235294118, 0.22916666666666669, 0.14322916666666666]
+[0.044585987261146494, 0.21212121212121213, 0.07368421052631578, 0.04605263157894736]
+[0.10126582278481013, 0.47058823529411764, 0.16666666666666669, 0.10416666666666667]

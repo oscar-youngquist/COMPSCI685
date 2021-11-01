@@ -1,0 +1,15 @@
+Document:
+california
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+California is a state in the Pacific Region of the United States.
+
+GT:
+Settled by successive waves of arrivals during at least the last 13,000 years, California was one of the most culturally and linguistically diverse areas in pre-Columbian North America. The first Europeans to explore the California coast were the members of a Spanish sailing expedition led by Portuguese captain Juan Rodríguez Cabrillo; they entered San Diego Bay on September 28, 1542, and reached at least as far north as San Miguel Island. After the Portolà expedition of 1769–70, Spanish missionaries led by Junipero Serra began setting up 21 California Missions on or near the coast of Alta (Upper) California, beginning in San Diego. In 1821, the Mexican War of Independence gave Mexico (including California) independence from Spain. The early government of the newly independent Mexico was highly unstable, and in a reflection of this, from 1831 onwards, California also experienced a series of armed disputes, both internal and with the central Mexican government. After ushering in the period of organized emigration to California, Marsh became involved in a military battle between the much-hated Mexican general, Manuel Micheltorena and the California governor he had replaced, Juan Bautista Alvarado. In 1846, a group of American settlers in and around Sonoma rebelled against Mexican rule during the Bear Flag Revolt. The California Republic was short lived Following the Treaty of Guadalupe Hidalgo (February 2, 1848) that ended the war, the westernmost portion of the annexed Mexican territory of Alta California soon became the American state of California, and the remainder of the old territory was then subdivided into the new American Territories of Arizona, Nevada, Colorado and Utah. In 1848, only one week before the official American annexation of the area, gold was discovered in California, this being an event which was to forever alter both the state's demographics and its finances. In 1849, a state Constitutional Convention was first held in Monterey. On September 9, 1850, as part of the Compromise of 1850, California became a free state and September 9 a state holiday. During the American Civil War (1861–1865), California sent gold shipments eastwards to Washington in support of the Union. The 1906 San Francisco earthquake and 1928 St. Francis Dam flood remain the deadliest in UShistory.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.021505376344086023, 0.6666666666666666, 0.04166666666666667, 0.02604166666666667]
+[0.008086253369272238, 0.2727272727272727, 0.015706806282722516, 0.009816753926701572]
+[0.021505376344086023, 0.6666666666666666, 0.04166666666666667, 0.02604166666666667]

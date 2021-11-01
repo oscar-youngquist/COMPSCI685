@@ -1,0 +1,15 @@
+Document:
+oregon
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Oregon is one of the most densely populated states in the United States.
+
+GT:
+Oregon ( (listen) ORR-(ih)-gən) is a state in the Pacific Northwest region on the West Coast of the United States. The Columbia River delineates much of Oregon's northern boundary with Washington, while the Snake River delineates much of its eastern boundary with Idaho. The earliest evidence of the name Oregon has Spanish origins. Oregon is 295 miles (475 km) north to south at longest distance, and 395 miles (636 km) east to west. Western Oregon's mountainous regions, home to three of the most prominent mountain peaks of the United States including Mount Hood, were formed by the volcanic activity of the Juan de Fuca Plate, a tectonic plate that poses a continued threat of volcanic activity and earthquakes in the region. Typical of a western state, Oregon is home to a unique and diverse array of wildlife. Most of Oregon has a generally mild climate, though there is significant variation given the variety of landscapes across the state. Industrial expansion began in earnest following the 1933–37 construction of the Bonneville Dam on the Columbia River. As of 2015, Oregon ranks as the 17th highest in median household income at $60,834. Oregon's diverse landscapes provide ideal environments for various types of farming. Vast forests have historically made Oregon one of the nation's major timber-producing and logging states, but forest fires (such as the Tillamook Burn), over-harvesting, and lawsuits over proper management of the extensive federal forest holdings have reduced the timber produced. Tourism is also a strong industry in the state. Tourism is centered on the state's natural features – mountains, forests, waterfalls, rivers, beaches and lakes, including Crater Lake National Park, Multnomah Falls, the Painted Hills, the Deschutes River, and the Oregon Caves. Mount Hood and Mount Bachelor also draw visitors year-round for skiing and other snow activities. Oregon is also the home of large corporations in other industries.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.034375, 0.8461538461538461, 0.06606606606606606, 0.04129129129129129]
+[0.025078369905956112, 0.6666666666666666, 0.048338368580060416, 0.03021148036253776]
+[0.028125, 0.6923076923076923, 0.05405405405405406, 0.033783783783783786]

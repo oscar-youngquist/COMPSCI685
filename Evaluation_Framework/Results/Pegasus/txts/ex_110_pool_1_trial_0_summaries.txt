@@ -1,0 +1,15 @@
+Document:
+idaho
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+As part of our series of letters from African-Canadian journalists, filmmaker and columnist Farai Sevenzo looks at the state of Idaho.
+
+GT:
+Humans may have been present in the Idaho area as long as 14,500 years ago. A Late Upper Paleolithic site was identified at Cooper's Ferry in western Idaho near the town of Cottonwood by archaeologists in 2019. Idaho, as part of the Oregon Country, was claimed by both the United States and Great Britain until the United States gained undisputed jurisdiction in 1846. From 1843 to 1849, present-day Idaho was under the de facto jurisdiction of the Provisional Government of Oregon. Between then and the creation of the Idaho Territory on March 4, 1863, at Lewiston, parts of the present-day state were included in the Oregon, Washington, and Dakota Territories. The first non-indigenous settlement was Kullyspell House, established on the shore of Lake Pend Oreille for fur trading in 1809 by David Thompson of the North West Company. This post, known as "MacKenzie's Post" or "Clearwater", operated until the Pacific Fur Company was bought out by the North West Company in 1813, after which it was abandoned.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.06358381502890173, 0.5, 0.11282051282051281, 0.07051282051282051]
+[0.011627906976744186, 0.09523809523809523, 0.02072538860103627, 0.01295336787564767]
+[0.05202312138728324, 0.4090909090909091, 0.09230769230769231, 0.05769230769230771]

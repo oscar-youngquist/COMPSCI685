@@ -1,0 +1,15 @@
+Document:
+washington
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+A selection of photographs from around the state of Washington.
+
+GT:
+As of the 2008–2009 school year, 1,040,750 students were enrolled in elementary and secondary schools in Washington, with 59,562 teachers employed to educate them. Washington School Information Processing Cooperative (a non-profit opt-in state agency) provides information management systems for fiscal & human resources and student data. Elementary and secondary schools are under the jurisdiction of the Washington State Office of Superintendent of Public Instruction (OSPI). High school juniors and seniors in Washington have the option of using the state's Running Start program. The state also has several public arts focused high schools including Tacoma School of the Arts, the Vancouver School of Arts and Academics, and The Center School. There are also four Science and Math based high schools: one in the Tri-Cities known as Delta, one in Tacoma known as SAMI, another in Seattle known as Raisbeck Aviation High School, and one in Redmond known as Tesla STEM High School. There are more than 40 institutions of higher education in Washington. Colleges and universities include the University of Washington, Seattle University, Washington State University, Western Washington University, Eastern Washington University, Central Washington University, Saint Martin's University, Pacific Lutheran University, Gonzaga University, University of Puget Sound, The Evergreen State College, and Whitman College.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.02843601895734597, 0.6, 0.05429864253393665, 0.033936651583710405]
+[0.009523809523809525, 0.2222222222222222, 0.018264840182648404, 0.011415525114155254]
+[0.02843601895734597, 0.6, 0.05429864253393665, 0.033936651583710405]

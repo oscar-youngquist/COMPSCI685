@@ -1,0 +1,15 @@
+Document:
+hawaii
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+The state of Hawaii is one of the most densely populated states in the United States.
+
+GT:
+The Kingdom of Hawaiʻi was sovereign from 1810 until 1893 when the monarchy was overthrown by resident American and European capitalists and landholders. Hawaiʻi was an independent republic from 1894 until August 12, 1898, when it officially became a territory of the United States. Hawaiʻi was admitted as a US state on August 21, 1959. Based on archaeological evidence, the earliest habitation of the Hawaiian Islands dates to around AD 300, probably by Polynesian settlers from the Marquesas Islands. The 1778 arrival of British explorer Captain James Cook marked the first documented contact by a European explorer with Hawaiʻi. Early British influence can be seen in the design of the flag of Hawaiʻi, which bears the Union Jack in the top-left corner. These visitors introduced diseases to the once-isolated islands, causing the Hawaiian population to drop precipitously. By 1820, disease, famine and wars between the chiefs killed more than half of the Native Hawaiian population. In 1887, Kalākaua was forced to sign the 1887 Constitution of the Kingdom of Hawaiʻi. In 1893, Queen Liliʻuokalani announced plans for a new constitution to proclaim herself an absolute monarch. On January 14, 1893, a group of mostly Euro-American business leaders and residents formed the Committee of Safety to stage a coup d'état against the kingdom and seek annexation by the United States. United States Government Minister John L. Stevens, responding to a request from the Committee of Safety, summoned a company of US Marines. According to historian William Russ, the monarchy was unable to protect itself. In 1993, the US Congress passed a joint Apology Resolution regarding the overthrow; it was signed by President Bill Clinton. After William McKinley won the 1896 US presidential election, advocates pressed to annex the Republic of Hawaiʻi. In 1900, Hawaiʻi was granted self-governance and retained ʻIolani Palace as the territorial capitol building. Despite several attempts to become a state, Hawaii remained a territory for 60 years. In March 1959, Congress passed the Hawaiʻi Admissions Act, which US President Dwight D. Eisenhower signed into law. After attaining statehood, Hawaiʻi quickly modernized through construction and a rapidly growing tourism economy.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.03260869565217391, 0.75, 0.06249999999999999, 0.0390625]
+[0.010899182561307902, 0.26666666666666666, 0.020942408376963352, 0.013089005235602094]
+[0.02717391304347826, 0.625, 0.05208333333333333, 0.032552083333333336]

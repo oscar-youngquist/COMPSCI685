@@ -1,0 +1,15 @@
+Document:
+connecticut
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Connecticut is one of the most densely populated states in the United States.
+
+GT:
+Areas maintained by the National Park Service include Appalachian National Scenic Trail, Quinebaug and Shetucket Rivers Valley National Heritage Corridor, and Weir Farm National Historic Site. Foxwoods Resort Casino and Mohegan Sun are the two biggest tourist draws and number among the state's largest employers The Bridgeport & Port Jefferson Ferry travels between Bridgeport, Connecticut and Port Jefferson, New York by crossing Long Island Sound. The state hosts several major sporting events. Lime Rock Park in Salisbury is a 1.5-mile (2.4 km) road racing course, home to the International Motor Sports Association, SCCA, United States Auto Club, and K&N Pro Series East races.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07476635514018691, 0.6153846153846154, 0.13333333333333333, 0.08333333333333333]
+[0.009433962264150943, 0.08333333333333333, 0.01694915254237288, 0.010593220338983049]
+[0.06542056074766354, 0.5384615384615384, 0.11666666666666665, 0.07291666666666666]

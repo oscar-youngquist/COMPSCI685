@@ -1,0 +1,15 @@
+Document:
+tennessee
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Tennessee is one of the most densely populated states in the United States.
+
+GT:
+The Great Smoky Mountains National Park, the nation's most visited national park, is located in the eastern part of the state, and a section of the Appalachian Trail roughly follows the Tennessee–North Carolina border. Other major tourist attractions include the Tennessee Aquarium and Chattanooga Choo-Choo Hotel in Chattanooga; Dollywood in Pigeon Forge; Ripley's Aquarium of the Smokies and Ober Gatlinburg in Gatlinburg; the Parthenon, the Country Music Hall of Fame and Museum, and Ryman Auditorium in Nashville; the Jack Daniel's Distillery in Lynchburg; Elvis Presley's Graceland residence and tomb, the Memphis Zoo, the National Civil Rights Museum in Memphis; and Bristol Motor Speedway in Bristol. Clingmans Dome, which lies on Tennessee's eastern border, is the highest point on the Appalachian Trail, and is the third highest peak in the United States east of the Mississippi River. Fifty-four state parks, covering some 132,000 acres (530 km2) as well as parts of the Great Smoky Mountains National Park and Cherokee National Forest, and Cumberland Gap National Historical Park are in Tennessee. Sportsmen and visitors are attracted to Reelfoot Lake, originally formed by the 1811–12 New Madrid earthquakes; stumps and other remains of a once dense forest, together with the lotus bed covering the shallow waters, give the lake an eerie beauty. Other major attractions in Nashville include the Tennessee State Museum, Parthenon, and the Belle Meade Plantation. Other major attractions include the American Museum of Science and Energy in Oak Ridge, the Bristol Motor Speedway in Bristol, Jack Daniel's Distillery in Lynchburg, and the Hiwassee and Ocoee rivers in Polk County. Tennessee is home to five National Scenic Byways, including the Natchez Trace Parkway, the East Tennessee Crossing Byway, the Great River Road, The Trace, and the Cherohala Skyway. Four Civil War battlefields in Tennessee are preserved by the National Park Service: Chickamauga and Chattanooga National Military Park, Stones River National Battlefield, Shiloh National Military Park, and Fort Donelson National Battlefield.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.03333333333333333, 0.8461538461538461, 0.0641399416909621, 0.04008746355685131]
+[0.015197568389057751, 0.4166666666666667, 0.02932551319648094, 0.018328445747800588]
+[0.024242424242424242, 0.6153846153846154, 0.0466472303206997, 0.029154518950437313]

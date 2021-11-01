@@ -1,0 +1,15 @@
+Document:
+new_hampshire
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+The state's motto is "Live Free or Die".
+
+GT:
+The New Hampshire Motor Speedway in Loudon is an oval track and road course which has been visited by national motorsport championship series such as the NASCAR Cup Series, the NASCAR Xfinity Series, the NASCAR Camping World Truck Series, NASCAR Whelen Modified Tour, American Canadian Tour (ACT), the Champ Car and the IndyCar Series. Other motor racing venues include Star Speedway and New England Dragway in Epping, Lee Speedway in Lee, Twin State Speedway in Claremont, Monadnock Speedway in Winchester and Canaan Fair Speedway in Canaan. New Hampshire has two universities competing at the NCAA Division I in all collegiate sports: the Dartmouth Big Green (Ivy League) and the New Hampshire Wildcats (America East Conference), as well as three NCAA Division II teams: Franklin Pierce Ravens, Saint Anselm Hawks and Southern New Hampshire Penmen (Northeast-10 Conference). In the spring, New Hampshire's many sap houses hold sugaring-off open houses. In summer and early autumn, New Hampshire is home to many county fairs, the largest being the Hopkinton State Fair, in Contoocook. New Hampshire's Lakes Region is home to many summer camps, especially around Lake Winnipesaukee, and is a popular tourist destination. The Peterborough Players have performed every summer in Peterborough since 1933. The Barnstormers Theatre in Tamworth, founded in 1931, is one of the longest-running professional summer theaters in the United States. In September, New Hampshire is host to the New Hampshire Highland Games. In the winter, New Hampshire's ski areas and snowmobile trails attract visitors from a wide area. Funspot, the world's largest video arcade (now termed a museum), is in Laconia.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.01486988847583643, 0.4444444444444444, 0.02877697841726619, 0.017985611510791363]
+[0.0, 0.0, 0.0, 0.0]
+[0.01486988847583643, 0.4444444444444444, 0.02877697841726619, 0.017985611510791363]

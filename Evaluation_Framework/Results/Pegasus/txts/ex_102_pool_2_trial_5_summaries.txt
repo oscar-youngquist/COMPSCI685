@@ -1,0 +1,15 @@
+Document:
+mississippi
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Images courtesy of AFP, EPA, Getty Images and Reuters
+
+GT:
+Gambling towns in Mississippi have attracted increased tourism: they include the Gulf Coast resort towns of Bay St. Louis, Gulfport and Biloxi, and the Mississippi River towns of Tunica (the third largest gaming area in the United States), Greenville, Vicksburg and Natchez. The federally recognized Mississippi Band of Choctaw Indians has established a gaming casino on its reservation, which yields revenue to support education and economic development. Jackson established the USA International Ballet Competition, which is held every four years. The Magnolia Independent Film Festival, still held annually in Starkville, is the first and oldest in the state. The state is creating a Mississippi Blues Trail, with dedicated markers explaining historic sites significant to the history of blues music, such as Clarksdale's Riverside Hotel, where Bessie Smith died after her auto accident on Highway 61. The Riverside Hotel is just one of many historical blues sites in Clarksdale. The Delta Blues Museum there is visited by tourists from all over the world. Close by is "Ground Zero", a contemporary blues club and restaurant co-owned by actor Morgan Freeman. Elvis Presley, who created a sensation in the 1950s as a crossover artist and contributed to rock 'n' roll, was a native of Tupelo.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.00980392156862745, 0.2222222222222222, 0.018779342723004695, 0.011737089201877934]
+[0.0, 0.0, 0.0, 0.0]
+[0.00980392156862745, 0.2222222222222222, 0.018779342723004695, 0.011737089201877934]

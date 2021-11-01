@@ -1,0 +1,15 @@
+Document:
+indiana
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Indiana is one of the most densely populated states in the United States.
+
+GT:
+In the past, almost all of Indiana had a humid continental climate, with cold winters and hot, wet summers; only the extreme southern portion of the state lay within the humid subtropical climate, which receives more precipitation than other parts of Indiana. But as of the 2016 update, about half the state is now classified as humid subtropical. In midsummer there is generally a little less variation across the state, as average high/low temperatures range from around 84 °F/64 °F (29 °C/18 °C) in the far north to 90 °F/69 °F (32 °C/21 °C) in the far south. While droughts occasionally occur in the state, rainfall totals are distributed relatively equally throughout the year. Precipitation totals range from 35 inches (89 cm) near Lake Michigan in northwest Indiana to 45 inches (110 cm) along the Ohio River in the south, while the state's average is 40 inches (100 cm). Annual snowfall in Indiana varies widely across the state, ranging from 80 inches (200 cm) in the northwest along Lake Michigan to 14 inches (36 cm) in the far south. Lake effect snow accounts for roughly half the snowfall in northwest and north central Indiana due to the effects of the moisture and relative warmth of Lake Michigan upwind. In a 2012 report, Indiana was ranked eighth in a list of the top 20 tornado-prone states based on National Weather Service data from 1950 through 2011.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.03305785123966942, 0.6153846153846154, 0.06274509803921569, 0.0392156862745098]
+[0.008298755186721992, 0.16666666666666666, 0.015810276679841896, 0.009881422924901186]
+[0.028925619834710745, 0.5384615384615384, 0.054901960784313725, 0.03431372549019608]

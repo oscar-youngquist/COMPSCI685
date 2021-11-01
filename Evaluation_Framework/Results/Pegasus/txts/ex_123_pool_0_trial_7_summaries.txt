@@ -1,0 +1,15 @@
+Document:
+new_jersey
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+New Jersey is a state in the Mid-Atlantic region of the Northeastern United States.
+
+GT:
+New Jersey hosts several business headquarters, including twenty-four Fortune 500 companies. Like every state, New Jersey has its own cuisine, religious communities, museums, and halls of fame. The Meadowlands Sports Complex is home to the Meadowlands Racetrack, one of three major harness racing tracks in the state. There is also a mineral museum Ogdensburg in Sussex County. Visitors and residents take advantage of and contribute to performances at the numerous music, theater, and dance companies and venues located throughout the state, including: New Jersey is the location of most of the boardwalks in the US, with nearly every town and city along the Jersey Shore area each having a boardwalk with various attractions, entertainment, shopping, dining, miniature golf, arcades, water parks with various water rides, including water slides, lazy rivers, wave pools, etc., and amusement parks hosting rides and attractions including roller coasters, carousels, Ferris wheels, bumper cars, teacups, etc.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.06622516556291391, 0.6666666666666666, 0.12048192771084339, 0.07530120481927711]
+[0.02666666666666667, 0.2857142857142857, 0.04878048780487805, 0.03048780487804878]
+[0.052980132450331126, 0.5333333333333333, 0.09638554216867469, 0.06024096385542168]

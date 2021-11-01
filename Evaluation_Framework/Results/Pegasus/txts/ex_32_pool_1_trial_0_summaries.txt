@@ -1,0 +1,15 @@
+Document:
+colorado
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Colorado is a state in the western United States encompassing most of the southern Rocky Mountains as well as the northeastern portion of the Colorado Plateau and the western edge of the Great Plains.
+
+GT:
+The climate of Colorado is more complex than states outside of the Mountain States region. Unlike most other states, southern Colorado is not always warmer than northern Colorado. Most of Colorado is made up of mountains, foothills, high plains, and desert lands. Mountains and surrounding valleys greatly affect local climate. As a general rule, with an increase in elevation comes a decrease in temperature and an increase in precipitation. Northeast, east, and southeast Colorado are mostly the high plains, while Northern Colorado is a mix of high plains, foothills, and mountains. Northwest and west Colorado are predominantly mountainous, with some desert lands mixed in. Southwest and southern Colorado are a complex mixture of desert and mountain areas. The climate of the Eastern Plains is semiarid (Köppen climate classification: BSk) with low humidity and moderate precipitation, usually from 15 to 25 inches (380 to 640 millimeters) annually. The area is known for its abundant sunshine and cool, clear nights, which give this area a great average diurnal temperature range. The difference between the highs of the days and the lows of the nights can be considerable as warmth dissipates to space during clear nights, the heat radiation not being trapped by clouds. The Front Range urban corridor, where most of the population of Colorado resides, lies in a pronounced precipitation shadow as a result of being on the lee side of the Rocky Mountains. Just west of the plains and into the foothills, there are a wide variety of climate types. Most valleys have a semi-arid climate not unlike the eastern plains, which transitions to an alpine climate at the highest elevations. Microclimates also exist in local areas that run nearly the entire spectrum of climates, including subtropical highland (Cfb/Cwb), humid subtropical (Cfa), humid continental (Dfa/Dfb), Mediterranean (Csa/Csb) and subarctic (Dfc). Extreme weather changes are common in Colorado, although a significant portion of the extreme weather occurs in the least populated areas of the state. Thunderstorms are common east of the Continental Divide in the spring and summer, yet are usually brief. Hail is a common sight in the mountains east of the Divide and across the eastern Plains, especially the northeast part of the state. Hail is the most commonly reported warm-season severe weather hazard, and occasionally causes human injuries, as well as significant property damage. The eastern Plains are subject to some of the biggest hail storms in North America.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.06633906633906633, 0.7941176470588235, 0.12244897959183673, 0.07653061224489796]
+[0.029556650246305417, 0.36363636363636365, 0.05466970387243735, 0.03416856492027334]
+[0.051597051597051594, 0.6176470588235294, 0.09523809523809523, 0.059523809523809514]

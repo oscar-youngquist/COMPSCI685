@@ -1,0 +1,15 @@
+Document:
+iowa
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+The state of Iowa is one of the most densely populated states in the United States.
+
+GT:
+Iowa derives its name from the Ioway people, one of the many Native American nations whose territory comprised the future state at the time of European colonization. In 2008, twelve people were killed by tornadoes in Iowa, making it the deadliest year since 1968 and also the second most tornadoes in a year with 105, matching the total from 2001. Iowa's all-time hottest temperature of 118 °F (48 °C) was recorded at Keokuk on July 20, 1934, during a nationwide heat wave; the all-time lowest temperature of −47 °F (−44 °C) was recorded at Washta on January 12, 1912. Iowa has a long tradition of state and county fairs. The first and second Iowa State Fairs were held in the more developed eastern part of the state at Fairfield. The first fair was held October 25–27, 1854, at a cost of around $323.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08163265306122448, 0.75, 0.147239263803681, 0.0920245398773006]
+[0.0273972602739726, 0.26666666666666666, 0.049689440993788817, 0.031055900621118012]
+[0.06802721088435375, 0.625, 0.12269938650306751, 0.0766871165644172]

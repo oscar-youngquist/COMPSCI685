@@ -1,0 +1,15 @@
+Document:
+oregon
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Oregon is one of the most densely populated states in the United States.
+
+GT:
+Most of Oregon has a generally mild climate, though there is significant variation given the variety of landscapes across the state. The state's western region (west of the Cascade Range) has an oceanic climate, populated by dense evergreen mixed forests. Western Oregon's climate is heavily influenced by the Pacific Ocean; the western third of Oregon is very wet in the winter, moderately to very wet during the spring and fall, and dry during the summer. The relative humidity of Western Oregon is high except during summer days, which are semi-dry to semi-humid; Eastern Oregon typically sees low humidity year-round. The state's southwestern portion, particularly the Rogue Valley, has a Mediterranean climate with drier and sunnier winters and hotter summers, similar to Northern California. Oregon's northeastern portion has a steppe climate, and its high terrain regions have a subarctic climate. Like Western Europe, Oregon, and the Pacific Northwest in general, is considered warm for its latitude, and the state has far milder winters at a given elevation than comparable latitudes elsewhere in North America, such as the Upper Midwest, Ontario, Quebec and New England. The eastern two thirds of Oregon, which largely comprise high desert, have cold, snowy winters and very dry summers. Much of the east is semiarid to arid like the rest of the Great Basin, though the Blue Mountains are wet enough to support extensive forests. Most of Oregon receives significant snowfall, but the Willamette Valley, where 60 percent of the population lives, has considerably milder winters for its latitude and typically sees only light snowfall.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.04150943396226415, 0.8461538461538461, 0.07913669064748201, 0.04946043165467626]
+[0.011363636363636364, 0.25, 0.02173913043478261, 0.013586956521739132]
+[0.033962264150943396, 0.6923076923076923, 0.06474820143884892, 0.040467625899280574]

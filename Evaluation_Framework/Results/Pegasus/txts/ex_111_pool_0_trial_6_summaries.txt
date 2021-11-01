@@ -1,0 +1,15 @@
+Document:
+north_carolina
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+North Carolina has one of the lowest unemployment rates in the United States.
+
+GT:
+Elementary and secondary public schools are overseen by the North Carolina Department of Public Instruction. The North Carolina Superintendent of Public Instruction is the secretary of the North Carolina State Board of Education, but the board, rather than the superintendent, holds most of the legal authority for making public education policy. North Carolina has 115 public school systems, each of which is overseen by a local school board. A county may have one or more systems within it. The largest school systems in North Carolina are the Wake County Public School System, Charlotte-Mecklenburg Schools, Guilford County Schools, Winston-Salem/Forsyth County Schools, and Cumberland County Schools. In total there are 2,425 public schools in the state, including over 200 charter schools. North Carolina Schools were segregated until the Brown v. Board of Education trial and the release of the Pearsall Plan. In 1795, North Carolina opened the first public university in the United States—the University of North Carolina (now named the University of North Carolina at Chapel Hill). More than 200 years later, the University of North Carolina system encompasses 17 public universities including North Carolina State University, North Carolina A&T State University, North Carolina Central University, the University of North Carolina at Chapel Hill, the University of North Carolina at Greensboro, East Carolina University, Western Carolina University, Winston-Salem State University, the University of North Carolina at Asheville, the University of North Carolina at Charlotte, the University of North Carolina at Pembroke, UNC Wilmington, Elizabeth City State University, Appalachian State University, Fayetteville State University, and UNC School of the Arts, and . North Carolina is also home to many well-known private colleges and universities, including Duke University, Wake Forest University, Pfeiffer University, Lees-McRae College, Davidson College, Barton College, North Carolina Wesleyan College, Elon University, Guilford College, Livingstone College, Salem College, Shaw University (the first historically black college or university in the South), Laurel University, William Peace University, Meredith College, Methodist University, Belmont Abbey College (the only Catholic college in the Carolinas), Campbell University, University of Mount Olive, Montreat College, High Point University, Lenoir-Rhyne University (the only Lutheran university in North Carolina) and Wingate University.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.027700831024930747, 0.7692307692307693, 0.05347593582887701, 0.03342245989304814]
+[0.016666666666666666, 0.5, 0.03225806451612903, 0.02016129032258064]
+[0.027700831024930747, 0.7692307692307693, 0.05347593582887701, 0.03342245989304814]

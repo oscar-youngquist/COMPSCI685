@@ -1,0 +1,15 @@
+Document:
+ohio
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Ohio is one of the most densely populated states in the United States.
+
+GT:
+Ohio's system of public education is outlined in Article VI of the state constitution, and in Title XXXIII of the Ohio Revised Code. Ohio University, the first university in the Northwest Territory, was also the first public institution in Ohio. Substantively, Ohio's system is similar to those found in other states. At the State level, the Ohio Department of Education, which is overseen by the Ohio State Board of Education, governs primary and secondary educational institutions. At the municipal level, there are approximately 700 school districts statewide. The Ohio Board of Regents coordinates and assists with Ohio's institutions of higher education which have recently been reorganized into the University System of Ohio under Governor Strickland. The system averages an annual enrollment of more than 400,000 students, making it one of the five largest state university systems in the US Ohio schools consistently ranking in the top 50 nationally of the US News & World Report of liberal arts colleges are Kenyon College, Oberlin College, and Denison University. Ranking in the top 100 nationally of the US News & World Report of national research universities are Case Western Reserve University, Ohio State University and Miami University.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.04568527918781726, 0.6923076923076923, 0.08571428571428572, 0.05357142857142857]
+[0.015306122448979591, 0.25, 0.028846153846153844, 0.018028846153846152]
+[0.04568527918781726, 0.6923076923076923, 0.08571428571428572, 0.05357142857142857]

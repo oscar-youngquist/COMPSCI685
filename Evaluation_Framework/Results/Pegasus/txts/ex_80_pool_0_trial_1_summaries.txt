@@ -1,0 +1,15 @@
+Document:
+alabama
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+The state of Alabama is celebrating its 150th anniversary this year.
+
+GT:
+From the American Civil War until World War II, Alabama, like many states in the southern US, suffered economic hardship, in part because of its continued dependence on agriculture. Despite the growth of major industries and urban centers, white rural interests dominated the state legislature from 1901 to the 1960s. Following World War II, Alabama grew as the state's economy changed from one primarily based on agriculture to one with diversified interests. The agrarian Mississippian culture covered most of the state from 1000 to 1600 CE, with one of its major centers built at what is now the Moundville Archaeological Site in Moundville, Alabama. Among the historical tribes of Native American people living in present-day Alabama at the time of European contact were the Cherokee, an Iroquoian language people; and the Muskogean-speaking Alabama (Alibamu), Chickasaw, Choctaw, Creek, and Koasati. After the French lost to the British in the Seven Years' War, it became part of British West Florida from 1763 to 1783. After the United States victory in the American Revolutionary War, the territory was divided between the United States and Spain. The latter retained control of this western territory from 1783 until the surrender of the Spanish garrison at Mobile to US forces on April 13, 1813.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.037914691943127965, 0.7272727272727273, 0.07207207207207209, 0.04504504504504506]
+[0.004761904761904762, 0.1, 0.009090909090909092, 0.005681818181818182]
+[0.02843601895734597, 0.5454545454545454, 0.05405405405405406, 0.033783783783783786]

@@ -1,0 +1,15 @@
+Document:
+ohio
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Ohio is one of the most densely populated states in the United States.
+
+GT:
+The Ohio Lottery has contributed over $15.5 billion to public education in its 34-year history. Ohio's system of public education is outlined in Article VI of the state constitution, and in Title XXXIII of the Ohio Revised Code. At the State level, the Ohio Department of Education, which is overseen by the Ohio State Board of Education, governs primary and secondary educational institutions. The Ohio Board of Regents coordinates and assists with Ohio's institutions of higher education which have recently been reorganized into the University System of Ohio under Governor Strickland. The system averages an annual enrollment of more than 400,000 students, making it one of the five largest state university systems in the US The Ohio Public Library Information Network (OPLIN) is an organization that provides Ohio residents with internet access to their 251 public libraries. OPLIN also provides Ohioans with free home access to high-quality, subscription research databases.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.057692307692307696, 0.6923076923076923, 0.10650887573964497, 0.06656804733727811]
+[0.01935483870967742, 0.25, 0.035928143712574856, 0.02245508982035928]
+[0.05128205128205128, 0.6153846153846154, 0.09467455621301775, 0.05917159763313609]

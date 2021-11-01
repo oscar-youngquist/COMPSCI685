@@ -1,0 +1,15 @@
+Document:
+michigan
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Michigan is one of the most densely populated states in the United States.
+
+GT:
+Michigan ( (listen)) is a state in the Great Lakes and Midwestern regions of the United States. Its capital is Lansing, and its largest city is Detroit. Michigan is the only state to consist of two peninsulas. When the first European explorers arrived, the most populous tribes were Algonquian peoples, which include the Anishinaabe groups of Ojibwe (referred to as "Chippewa" in the United States), Odaawaa/Odawa (Ottawa), and the Boodewaadamii/Bodéwadmi (Potawatomi). Michigan's economy underwent a transformation at the turn of the 20th century. With the growth, the auto industry created jobs in Detroit that attracted immigrants from Europe and migrants from across the United States, including both blacks and whites from the rural South. By 1920, Detroit was the fourth-largest city in the US. Since 1838, the city has been noted for its furniture industry. In 1927 a school bombing took place in Clinton County. Michigan is the leading auto-producing state in the US, with the industry primarily located throughout the Midwestern United States; Ontario, Canada; and the Southern United States. With almost ten million residents, Michigan is a large and influential state, ranking tenth in population among the fifty states. The 2020 coronavirus pandemic in Michigan saw the state suffer one of the largest death tolls in the United States with the metro Detroit area particularly hard hit. Michigan is governed as a republic, with three branches of government: the executive branch consisting of the Governor of Michigan and the other independently elected constitutional officers; the legislative branch consisting of the House of Representatives and Senatorte; and the judicial branch. Michigan remained fairly reliably Republican at the presidential level for much of the 20th century. In 1846, Michigan became the first state in the Union, as well as the first government in the world, to abolish the death penalty. Home rule cities can generally do anything not prohibited by law. The Great Lakes that border Michigan from east to west are Lake Erie, Lake Huron, Lake Michigan and Lake Superior. The state has numerous large islands, the principal ones being the North Manitou and South Manitou, Beaver, and Fox groups in Lake Michigan; Isle Royale and Grande Isle in Lake Superior; Marquette, Bois Blanc, and Mackinac islands in Lake Huron; and Neebish, Sugar, and Drummond islands in St. Mary's River. Michigan has about 150 lighthouses, the most of any US state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.03015075376884422, 0.9230769230769231, 0.058394160583941604, 0.0364963503649635]
+[0.020151133501259445, 0.6666666666666666, 0.039119804400977995, 0.024449877750611245]
+[0.02763819095477387, 0.8461538461538461, 0.053527980535279816, 0.033454987834549886]

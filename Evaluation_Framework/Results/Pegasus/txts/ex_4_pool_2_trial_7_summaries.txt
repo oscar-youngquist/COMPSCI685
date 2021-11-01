@@ -1,0 +1,15 @@
+Document:
+utah
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Utah is one of the most sparsely populated states in the United States.
+
+GT:
+In 2013, the US Census Bureau estimated that Utah had the second-fastest-growing population of any state. A 2012 Gallup national survey found Utah overall to be the "best state to live in the future" based on 13 forward-looking measurements including various economic, lifestyle, and health-related outlook metrics. According to the 2007 State New Economy Index, Utah is ranked the top state in the nation for Economic Dynamism, determined by "the degree to which state economies are knowledge-based, globalized, entrepreneurial, information technology-driven and innovation-based". In 2014, Utah was ranked number one in Forbes' list of "Best States For Business". In terms of "small business friendliness", in 2014 Utah emerged as number one, based on a study drawing upon data from more than 12,000 small business owners. Utah collects personal income tax Utah does not charge intangible property taxes and does not impose an inheritance tax.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.06578947368421052, 0.7692307692307693, 0.1212121212121212, 0.07575757575757576]
+[0.019867549668874173, 0.25, 0.03680981595092025, 0.023006134969325156]
+[0.046052631578947366, 0.5384615384615384, 0.08484848484848485, 0.05303030303030303]

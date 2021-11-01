@@ -1,0 +1,15 @@
+Document:
+montana
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Montana is one of the most sparsely populated states in the United States.
+
+GT:
+Montana's Constitution specifically reads, "the state recognizes the distinct and unique cultural heritage of the American Indians and is committed in its educational goals to the preservation of their cultural integrity." The Indian Education for All Act was passed in 1999 to provide funding for this mandate and ensure implementation. For kindergarten through 12th-grade students, an "Indian Education for All" curriculum from the Montana Office of Public Instruction is available free to all schools. The first schools were subscription schools that typically met in the teacher's home. The first formal school on record was at Fort Owen in Bitterroot valley in 1862. The first school term started in early winter and lasted only until February 28. Classes were taught by Mr. Robinson. The first legislature authorized counties to levy taxes for schools, which set the foundations for public schooling. Madison County was the first to take advantage of the newly authorized taxes and it formed fhe first public school in Virginia City in 1886. Elementary and secondary education are overseen by the Office of Public Instruction (led by the elected superintendent of public instruction), in cooperation with the governor-appointed Board of Public Education. Higher education is overseen by a governor-appointed Board of Regents, which in turn appoints a commissioner of higher education. The Office of the Commissioner of Higher Education acts in an executive capacity on behalf of the regents, and oversees the state-run Montana University System.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.03292181069958848, 0.6153846153846154, 0.06250000000000001, 0.03906250000000001]
+[0.008264462809917356, 0.16666666666666666, 0.015748031496062992, 0.009842519685039372]
+[0.02880658436213992, 0.5384615384615384, 0.0546875, 0.03417968750000001]

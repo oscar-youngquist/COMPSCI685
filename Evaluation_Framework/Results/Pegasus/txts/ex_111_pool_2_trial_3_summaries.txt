@@ -1,0 +1,15 @@
+Document:
+nevada
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Nevada has one of the lowest unemployment rates in the United States.
+
+GT:
+Education in Nevada is achieved through public and private elementary, middle, and high schools, as well as colleges and universities. A May 2015 educational reform law expanded school choice options to 450,000 Nevada students who are at up to 185% of the federal poverty level. Education savings accounts (ESAs) are enabled by the new law to help pay the tuition for private schools. Alternatively, families "can use funds in these accounts to also pay for textbooks and tutoring". Approximately 86.9% of Nevada high school students graduate, putting it below the national average of 88.3%. The Nevada Aerospace Hall of Fame provides educational resources and promotes the aerospace and aviation history of the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.05172413793103448, 0.5, 0.09375, 0.05859375000000001]
+[0.008695652173913044, 0.09090909090909091, 0.015873015873015872, 0.009920634920634918]
+[0.05172413793103448, 0.5, 0.09375, 0.05859375000000001]

@@ -1,0 +1,15 @@
+Document:
+louisiana
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Louisiana is a state in the Deep South region of the South Central United States.
+
+GT:
+The first European explorers to visit Louisiana came in 1528 when a Spanish expedition led by Pánfilo de Narváez located the mouth of the Mississippi River. In 1542, Hernando de Soto's expedition skirted to the north and west of the state (encountering Caddo and Tunica groups) and then followed the Mississippi River down to the Gulf of Mexico in 1543. In 1682, the French explorer Robert Cavelier de La Salle named the region Louisiana to honor King Louis XIV of France. From then until the United States acquired the territory in the Louisiana Purchase of 1803, France and Spain jockeyed for control of New Orleans and the lands west of the Mississippi. In 1800, France's Napoleon Bonaparte reacquired Louisiana from Spain in the Treaty of San Ildefonso, an arrangement kept secret for two years. The Louisiana Black Code of 1806 made the cruel punishment of slaves a crime, but owners and overseers were seldom prosecuted for such acts. A transfer ceremony was held in New Orleans on November 29, 1803. Louisiana became the eighteenth US state on April 30, 1812; the Territory of Orleans became the State of Louisiana and the Louisiana Territory was simultaneously renamed the Missouri Territory. In 1849, the state moved the capital from New Orleans to Baton Rouge.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.046296296296296294, 0.6666666666666666, 0.08658008658008658, 0.054112554112554105]
+[0.013953488372093023, 0.21428571428571427, 0.026200873362445417, 0.016375545851528384]
+[0.046296296296296294, 0.6666666666666666, 0.08658008658008658, 0.054112554112554105]

@@ -1,0 +1,15 @@
+Document:
+arizona
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+The state of Arizona is bordered by Mexico to the north, New Mexico to the south and California to the east.
+
+GT:
+The fiscal year 2006–07 general fund budget, approved by the Arizona Legislature in June 2006, was slightly less than $10 billion. Besides the money spent on state agencies, it also included more than $500 million in income and property tax cuts, pay raises for government employees, and additional funding for the K–12 education system. Public schools in Arizona are separated into about 220 local school districts which operate independently, but are governed in most cases by elected county school superintendents; these are in turn overseen by the Arizona State Board of Education and the Arizona Department of Education. A state Superintendent of Public Instruction (elected in partisan elections every even-numbered year when there is not a presidential election, for a four-year term). In 2005, a School District Redistricting Commission was established with the goal of combining and consolidating many of these districts. Arizona has a wide network of two-year vocational schools and community colleges. These colleges were governed historically by a separate statewide board of directors but, in 2002, the state legislature transferred almost all oversight authority to individual community college districts.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.058823529411764705, 0.5238095238095238, 0.10576923076923077, 0.06610576923076923]
+[0.005376344086021506, 0.05, 0.00970873786407767, 0.0060679611650485445]
+[0.0427807486631016, 0.38095238095238093, 0.07692307692307691, 0.04807692307692307]

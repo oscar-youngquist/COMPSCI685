@@ -1,0 +1,15 @@
+Document:
+kentucky
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Kentucky is one of the most densely populated states in the United States.
+
+GT:
+Kentucky maintains eight public four-year universities. There are two general tiers: major research institutions (the University of Kentucky and the University of Louisville) and regional universities, which encompasses the remaining six schools. The regional schools have specific target counties that many of their programs are targeted towards (such as Forestry at Eastern Kentucky University or Cave Management at Western Kentucky University), however most of their curriculum varies little from any other public university. The state's sixteen public two-year colleges have been governed by the Kentucky Community and Technical College System since the passage of the Postsecondary Education Improvement Act of 1997, commonly referred to as House Bill 1. Before the passage of House Bill 1, most of these colleges were under the control of the University of Kentucky. Berea College, located at the extreme southern edge of the Bluegrass below the Cumberland Plateau, was the first coeducational college in the South to admit both black and white students, doing so from its very establishment in 1855. This policy was successfully challenged in the United States Supreme Court in the case of Berea College v. Kentucky in 1908. This decision effectively segregated Berea until the landmark Brown v. Board of Education in 1954. In 1989 the Kentucky Supreme Court ruled the state's education system was unconstitutional. The response of the General Assembly was passage of the Kentucky Education Reform Act (KERA) the following year. Years later, Kentucky has shown progress, but most agree that further reform is needed.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0398406374501992, 0.7692307692307693, 0.07575757575757576, 0.04734848484848485]
+[0.016, 0.3333333333333333, 0.030534351145038167, 0.019083969465648856]
+[0.035856573705179286, 0.6923076923076923, 0.06818181818181819, 0.04261363636363637]

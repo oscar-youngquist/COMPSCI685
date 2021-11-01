@@ -1,0 +1,15 @@
+Document:
+arizona
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+The state of Arizona is bordered by Mexico to the north, New Mexico to the south and California to the east.
+
+GT:
+Public schools in Arizona are separated into about 220 local school districts which operate independently, but are governed in most cases by elected county school superintendents; these are in turn overseen by the Arizona State Board of Education and the Arizona Department of Education. A state Superintendent of Public Instruction (elected in partisan elections every even-numbered year when there is not a presidential election, for a four-year term). In 2005, a School District Redistricting Commission was established with the goal of combining and consolidating many of these districts. Arizona is served by three public universities: The University of Arizona, Arizona State University, and Northern Arizona University. These schools are governed by the Arizona Board of Regents. Private higher education in Arizona is dominated by a large number of for-profit and "chain" (multi-site) universities. Arizona has a wide network of two-year vocational schools and community colleges. These colleges were governed historically by a separate statewide board of directors but, in 2002, the state legislature transferred almost all oversight authority to individual community college districts.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.06179775280898876, 0.5238095238095238, 0.11055276381909547, 0.06909547738693467]
+[0.01694915254237288, 0.15, 0.03045685279187817, 0.019035532994923856]
+[0.056179775280898875, 0.47619047619047616, 0.10050251256281406, 0.0628140703517588]

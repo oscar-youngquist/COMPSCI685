@@ -1,0 +1,15 @@
+Document:
+idaho
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+As part of our series of letters from African-Canadian journalists, filmmaker and columnist Farai Sevenzo looks at the state of Idaho.
+
+GT:
+It officially became US territory with the signing of the Oregon Treaty of 1846, but a separate Idaho Territory was not organized until 1863, instead being included for periods in Oregon Territory and Washington Territory. Idaho was eventually admitted to the Union on July 3, 1890, becoming the 43rd state. Idaho, as part of the Oregon Country, was claimed by both the United States and Great Britain until the United States gained undisputed jurisdiction in 1846. The Lewis and Clark expedition crossed Idaho in 1805 on the way to the Pacific and in 1806 on the return, largely following the Clearwater River both directions. The first non-indigenous settlement was Kullyspell House, established on the shore of Lake Pend Oreille for fur trading in 1809 by David Thompson of the North West Company. After some tribulation as a territory, including the chaotic transfer of the territorial capital from Lewiston to Boise, disenfranchisement of Mormon polygamists upheld by the US Supreme Court in 1877, and a federal attempt to split the territory between Washington Territory which gained statehood in 1889, a year before Idaho, and the state of Nevada which had been a state since 1864, Idaho achieved statehood in 1890. In 1864, Clinton DeWitt Smith removed the territorial seal and the state constitution from a locked safe, and took them to Boise. The University of Idaho in Moscow was the first university in the state (founded in 1889). Central Idaho is home to one of North America's oldest ski resorts, Sun Valley, where the world's first chairlift was installed in 1936.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.03802281368821293, 0.45454545454545453, 0.07017543859649122, 0.043859649122807015]
+[0.019083969465648856, 0.23809523809523808, 0.0353356890459364, 0.022084805653710248]
+[0.03802281368821293, 0.45454545454545453, 0.07017543859649122, 0.043859649122807015]

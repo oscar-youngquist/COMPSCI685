@@ -1,0 +1,15 @@
+Document:
+new_hampshire
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+The state's motto is "Live Free or Die".
+
+GT:
+In the spring, New Hampshire's many sap houses hold sugaring-off open houses. In summer and early autumn, New Hampshire is home to many county fairs, the largest being the Hopkinton State Fair, in Contoocook. New Hampshire's Lakes Region is home to many summer camps, especially around Lake Winnipesaukee, and is a popular tourist destination. The Peterborough Players have performed every summer in Peterborough since 1933. The Barnstormers Theatre in Tamworth, founded in 1931, is one of the longest-running professional summer theaters in the United States. The fall foliage peaks in mid-October. In the winter, New Hampshire's ski areas and snowmobile trails attract visitors from a wide area. After the lakes freeze over they become dotted with ice fishing ice houses, known locally as bobhouses. Funspot, the world's largest video arcade (now termed a museum), is in Laconia.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.027777777777777776, 0.4444444444444444, 0.05228758169934641, 0.032679738562091505]
+[0.0, 0.0, 0.0, 0.0]
+[0.027777777777777776, 0.4444444444444444, 0.05228758169934641, 0.032679738562091505]

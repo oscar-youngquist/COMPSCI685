@@ -1,0 +1,15 @@
+Document:
+georgia
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Georgia is home to the world's largest airport, Hartsfield-Jackson Atlanta International Airport.
+
+GT:
+The British colony of Georgia was founded by James Oglethorpe on February 12, 1733. The Trustees implemented an elaborate plan for the colony's settlement, known as the Oglethorpe Plan, which envisioned an agrarian society of yeoman farmers and prohibited slavery. The colony was invaded by the Spanish in 1742, during the War of Jenkins' Ear. The Province of Georgia was one of the Thirteen Colonies that revolted against British rule in the American Revolution by signing the 1776 Declaration of Independence. The State of Georgia's first constitution was ratified in February 1777. Georgia was the 10th state to ratify the Articles of Confederation on July 24, 1778, and was the 4th state to ratify the United States Constitution on January 2, 1788. After the Creek War (1813–1814), General Andrew Jackson forced the Muscogee (Creek) tribes to surrender land to the state of Georgia, including in the Treaty of Fort Jackson (1814), surrendering 21 million acres in what is now southern Georgia and central Alabama, and the Treaty of Indian Springs (1825). In 1829, gold was discovered in the North Georgia mountains leading to the Georgia Gold Rush and establishment of a federal mint in Dahlonega, which continued in operation until 1861. In early 1861, Georgia joined the Confederacy (with secessionists having a slight majority of delegates) and became a major theater of the Civil War. Major battles took place at Chickamauga, Kennesaw Mountain, and Atlanta. In December 1864, a large swath of the state from Atlanta to Savannah was destroyed during General William Tecumseh Sherman's March to the Sea. An Atlanta-born Baptist minister who was part of the educated middle class that had developed in Atlanta's African-American community, Martin Luther King Jr., emerged as a national leader in the civil rights movement. On February 5, 1958, during a training mission flown by a B-47, a Mark 15 nuclear bomb, also known as the Tybee Bomb, was lost off the coast of Tybee Island near Savannah. In 1980, construction was completed on an expansion of what is now named Hartsfield–Jackson Atlanta International Airport (ATL). The busiest and most efficient airport in the world, it accommodates more than a hundred million passengers annually.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.032432432432432434, 0.8571428571428571, 0.0625, 0.0390625]
+[0.016260162601626018, 0.46153846153846156, 0.03141361256544503, 0.019633507853403148]
+[0.02702702702702703, 0.7142857142857143, 0.052083333333333336, 0.03255208333333333]

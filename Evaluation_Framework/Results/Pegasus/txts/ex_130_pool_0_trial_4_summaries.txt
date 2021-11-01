@@ -1,0 +1,15 @@
+Document:
+hawaii
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+The state of Hawaii is one of the most densely populated states in the United States.
+
+GT:
+Notable college sports events in Hawaii include the Maui Invitational Tournament, Diamond Head Classic (basketball) and Hawaii Bowl (football). Hawaii has hosted the Sony Open in Hawaii golf tournament since 1965, the Tournament of Champions golf tournament since 1999, the Lotte Championship golf tournament since 2012, the Honolulu Marathon since 1973, the Ironman World Championship triathlon race since 1978, the Ultraman triathlon since 1983, the National Football League's Pro Bowl from 1980 to 2016, the 2000 FINA World Open Water Swimming Championships, and the 2008 Pan-Pacific Championship and 2012 Hawaiian Islands Invitational soccer tournaments. In 2003, according to state government data, there were more than 6.4 million visitors, with expenditures of over $10 billion, to the Hawaiian Islands. Substantial numbers of Japanese tourists still visit the islands but have now been surpassed by Chinese and Koreans due to the collapse of the value of the Yen and the weak Japanese economy. The annual Merrie Monarch Festival is an international Hula competition. The Hawaii International Film Festival is the premier film festival for Pacific rim cinema. Honolulu hosts the state's long-running LGBT film festival, the Rainbow Film Festival.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.052083333333333336, 0.625, 0.09615384615384616, 0.06009615384615385]
+[0.010471204188481676, 0.13333333333333333, 0.019417475728155338, 0.012135922330097087]
+[0.041666666666666664, 0.5, 0.07692307692307693, 0.04807692307692307]

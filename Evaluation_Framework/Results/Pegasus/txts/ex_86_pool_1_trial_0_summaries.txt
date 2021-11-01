@@ -1,0 +1,15 @@
+Document:
+massachusetts
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Massachusetts is one of the most densely populated states in the United States.
+
+GT:
+The entire Commonwealth of Massachusetts has played a powerful scientific, commercial, and cultural role in the history of the United States. Before the American Civil War, Massachusetts was a center for the abolitionist, temperance, and transcendentalist movements. In the late 19th century, the sports of basketball and volleyball were invented in the western Massachusetts cities of Springfield and Holyoke, respectively. Bostonian John Adams, known as the "Atlas of Independence", was highly involved in both separation from Britain and the Constitution of Massachusetts, which effectively (the Elizabeth Freeman and Quock Walker cases as interpreted by William Cushing) made Massachusetts the first state to abolish slavery. In 1966, Massachusetts became the first state to directly elect an African American to the US senate with Edward Brooke. On May 17, 2004, Massachusetts became the first state in the US to legalize same-sex marriage after a Massachusetts Supreme Judicial Court ruling in November 2003 determined that the exclusion of same-sex couples from the right to a civil marriage was unconstitutional. In 2018, Massachusetts's overall educational system was ranked the top among all fifty US states by US News & World Report. Massachusetts is home to 121 institutions of higher education. Harvard University and the Massachusetts Institute of Technology, both located in Cambridge, consistently rank among the world's best private universities and universities in general.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.04035874439461883, 0.6923076923076923, 0.07627118644067796, 0.04766949152542373]
+[0.02702702702702703, 0.5, 0.05128205128205129, 0.032051282051282055]
+[0.03139013452914798, 0.5384615384615384, 0.05932203389830509, 0.03707627118644068]

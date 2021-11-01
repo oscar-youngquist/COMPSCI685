@@ -1,0 +1,15 @@
+Document:
+vermont
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+The state of Vermont has one of the lowest murder rates in the United States.
+
+GT:
+The annual mean temperature for the state is 43 °F (6 °C). Vermont has a humid continental climate, with muddy springs, in general a mild early summer, hot Augusts; it has colorful autumns: Vermont's hills reveal red, orange, and (on sugar maples) gold foliage as cold weather approaches. Winters are colder at higher elevations. It has a Köppen climate classification of Dfb, a warm humid continental climate. The rural northeastern section known as the "Northeast Kingdom" often averages 10 °F (5.6 °C) colder than the southern areas of the state during winter. The annual snowfall averages between 60 and 100 inches (1,500 and 2,500 mm) depending on elevation. Vermont is the seventh coldest state in the country. The state receives between 2,200 and 2,400 hours of sunshine annually. New England as a whole receives a range of less than 2,000 hours of sunshine in part of New Hampshire to as much as 2,600 hours of sunshine per year in Connecticut and Rhode Island.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.05813953488372093, 0.6666666666666666, 0.10695187165775402, 0.06684491978609626]
+[0.023391812865497075, 0.2857142857142857, 0.043243243243243246, 0.02702702702702703]
+[0.05232558139534884, 0.6, 0.09625668449197862, 0.060160427807486636]

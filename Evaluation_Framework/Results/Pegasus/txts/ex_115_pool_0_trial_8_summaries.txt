@@ -1,0 +1,15 @@
+Document:
+alabama
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+The state of Alabama is celebrating its 150th anniversary this year.
+
+GT:
+Alabama is home to a diverse array of flora and fauna in habitats that range from the Tennessee Valley, Appalachian Plateau, and Ridge-and-Valley Appalachians of the north to the Piedmont, Canebrake, and Black Belt of the central region to the Gulf Coastal Plain and beaches along the Gulf of Mexico in the south. College football is extremely popular in Alabama, particularly the University of Alabama Crimson Tide and Auburn University Tigers, rivals in the Southeastern Conference. Alabama has several professional and semi-professional sports teams, including three minor league baseball teams. The Talladega Superspeedway motorsports complex hosts a series of NASCAR events. The ATP Birmingham was a World Championship Tennis tournament held from 1973 to 1980. Alabama has hosted several professional golf tournaments, such as the 1984 and 1990 PGA Championship at Shoal Creek, the Barbasol Championship (PGA Tour), the Mobile LPGA Tournament of Champions, Airbus LPGA Classic, and Yokohama Tire LPGA Classic (LPGA Tour), and The Tradition (Champions Tour).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.024691358024691357, 0.36363636363636365, 0.04624277456647398, 0.02890173410404624]
+[0.012422360248447204, 0.2, 0.023391812865497075, 0.014619883040935672]
+[0.018518518518518517, 0.2727272727272727, 0.034682080924855495, 0.02167630057803468]

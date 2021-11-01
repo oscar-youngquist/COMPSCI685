@@ -1,0 +1,15 @@
+Document:
+florida
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Images courtesy of AFP, EPA, Getty Images and Reuters
+
+GT:
+The first European contact was made in 1513 by Spanish explorer Juan Ponce de León, who called it la Florida ([la floˈɾiða] "the land of flowers") upon landing there. Florida was the principal location of the Seminole Wars (1816 – 1858), the longest and most extensive of Indian Wars in United States history. Florida has attracted many writers such as Marjorie Kinnan Rawlings, Ernest Hemingway and Tennessee Williams, and continues to attract celebrities and athletes. Several beaches in Florida have turquoise and emerald-colored coastal waters. Florida has the longest coastline in the contiguous United States, approximately 1,350 miles (2,170 km), not including the contribution of the many barrier islands. Florida has a total of 4,510 islands that are ten acres (4 ha) or larger in area.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.015151515151515152, 0.2222222222222222, 0.028368794326241138, 0.01773049645390071]
+[0.0, 0.0, 0.0, 0.0]
+[0.015151515151515152, 0.2222222222222222, 0.028368794326241138, 0.01773049645390071]

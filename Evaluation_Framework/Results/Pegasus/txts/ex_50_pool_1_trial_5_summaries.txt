@@ -1,0 +1,15 @@
+Document:
+new_york
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+New York is the most populous state in the United States.
+
+GT:
+The SUNY system consists of 64 community colleges, technical colleges, undergraduate colleges, and doctoral-granting institutions, including several universities. Columbia University, Cornell University and New York University are among the most prominent of the larger higher education institutions in New York, all of them leading, world-renowned private universities and members of the Association of American Universities, the pre-eminent group of research universities in the United States. New York is also home to what is widely regarded as the best performing arts schools in the world. The University of the State of New York accredits and sets standards for elementary, middle-level, and secondary education in the state, while the New York State Education Department oversees public schools and controls their standardized tests. The New York City Department of Education manages the New York City Public Schools system. In 1900, the state passed another law requiring integrated schools. During the 2013 fiscal year, New York spent more on public education per pupil than any other state, according to US Census Bureau statistics.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.057803468208092484, 0.9090909090909091, 0.10869565217391304, 0.06793478260869565]
+[0.03488372093023256, 0.6, 0.06593406593406594, 0.041208791208791215]
+[0.046242774566473986, 0.7272727272727273, 0.08695652173913043, 0.05434782608695652]

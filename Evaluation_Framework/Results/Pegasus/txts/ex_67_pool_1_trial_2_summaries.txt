@@ -1,0 +1,15 @@
+Document:
+idaho
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+As part of our series of letters from African-Canadian journalists, filmmaker and columnist Farai Sevenzo looks at the state of Idaho.
+
+GT:
+Although the state's western border is about 350 miles (560 km) from the Pacific Ocean, the maritime influence is still felt in Idaho, especially in the winter when cloud cover, humidity, and precipitation are at their maximum extent. This influence has a moderating effect in the winter where temperatures are not as low as would otherwise be expected for a northern state with predominantly high elevations. The maritime influence is least prominent in the state's eastern part where the precipitation patterns are often reversed, with wetter summers and drier winters, and seasonal temperature differences are more extreme, showing a more semi-arid continental climate. Idaho can be hot, although extended periods over 98 °F (37 °C) are rare, except for the lowest point in elevation, Lewiston, which correspondingly sees little snow. Hot summer days are tempered by the low relative humidity and cooler evenings during summer months since, for most of the state, the highest diurnal difference in temperature is often in the summer. Winters can be cold, although extended periods of bitter cold weather below zero are unusual.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.055248618784530384, 0.45454545454545453, 0.09852216748768472, 0.06157635467980294]
+[0.005555555555555556, 0.047619047619047616, 0.009950248756218907, 0.006218905472636815]
+[0.03314917127071823, 0.2727272727272727, 0.059113300492610835, 0.03694581280788177]

@@ -1,0 +1,15 @@
+Document:
+tennessee
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Tennessee is one of the most densely populated states in the United States.
+
+GT:
+Tennessee has a rich variety of public, private, charter, and specialized education facilities ranging from pre-school through university. In 2015, state legislators began efforts on the "Drive to 55" movement, which plans to increase the number of college-educated residents to at least 55% of the state's population. Then Governor Bill Haslam signed legislation that started the Tennessee Promise program. Public higher education is under the oversight of the Tennessee Higher Education Commission which provides guidance to two public university systems—the University of Tennessee system and the Tennessee Board of Regents. In addition a number of private colleges and universities are located throughout the state. Public primary and secondary education systems are operated by county, city, or special school districts to provide education at the local level. These school districts operate under the direction of the Tennessee Department of Education. Private schools are found in many counties.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.06, 0.6923076923076923, 0.11042944785276072, 0.06901840490797545]
+[0.006711409395973154, 0.08333333333333333, 0.012422360248447204, 0.007763975155279502]
+[0.04666666666666667, 0.5384615384615384, 0.08588957055214724, 0.05368098159509203]

@@ -1,0 +1,15 @@
+Document:
+south_carolina
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+South Carolina is a state in the Deep South region of the Southern United States.
+
+GT:
+South Carolina became the eighth state to ratify the US Constitution on May 23, 1788. It also became the first state to vote in favor of secession from the Union on December 20, 1860. After the American Civil War, it was readmitted into the United States on June 25, 1868. Sixty years later, in 1629, King of England Charles I established the Province of Carolina, an area covering what is now South and North Carolina, Georgia and Tennessee. In 1719, the colony was officially made a crown colony. In 1729, North Carolina was split off into a separate colony. On March 26, 1776, the colony adopted the Constitution of South Carolina, electing John Rutledge as the state's first president. In February, 1778, South Carolina became the first state to ratify the Articles of Confederation, the initial governing document of the United States, and in May 1788, South Carolina ratified the United States Constitution, becoming the eighth state to enter the union. During the American Revolutionary War (1775–1783), about a third of combat action took place in South Carolina, more than in any other state. Until the 1868 presidential election, South Carolina's legislature, not the voters, chose the state's electors for the presidential election.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.057971014492753624, 0.8, 0.1081081081081081, 0.06756756756756757]
+[0.014563106796116505, 0.21428571428571427, 0.027272727272727275, 0.017045454545454544]
+[0.05314009661835749, 0.7333333333333333, 0.0990990990990991, 0.06193693693693694]

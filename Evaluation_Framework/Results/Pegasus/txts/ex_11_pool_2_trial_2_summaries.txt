@@ -1,0 +1,15 @@
+Document:
+rhode_island
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Rhode Island is one of the most densely populated states in the US.
+
+GT:
+Brown University was founded in 1764 as the College in the British Colony of Rhode Island and Providence Plantations. It was one of nine Colonial colleges granted charters before the American Revolution, but was the first college in America to accept students regardless of religious affiliation. Notable villages include Kingston in the town of South Kingstown, which houses the University of Rhode Island; Wickford in the town of North Kingstown, the site of an annual international art festival; and Wakefield where the Town Hall is located for the Town of South Kingstown. Today, much of the economy of Rhode Island is based in services, particularly healthcare and education, and still manufacturing to some extent. Per the 2013 American Communities Survey, Rhode Island has the highest paid elementary school teachers in the country, with an average salary of $75,028 (adjusted to inflation). Rhode Island has several colleges and universities:
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.053691275167785234, 0.6153846153846154, 0.09876543209876543, 0.06172839506172839]
+[0.033783783783783786, 0.4166666666666667, 0.06250000000000001, 0.0390625]
+[0.04697986577181208, 0.5384615384615384, 0.08641975308641975, 0.05401234567901234]

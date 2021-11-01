@@ -1,0 +1,15 @@
+Document:
+iowa
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+The state of Iowa is one of the most densely populated states in the United States.
+
+GT:
+In colonial times, Iowa was a part of French Louisiana and Spanish Louisiana; its state flag is patterned after the flag of France. After the Louisiana Purchase, people laid the foundation for an agriculture-based economy in the heart of the Corn Belt. In the latter half of the 20th century, Iowa's agricultural economy made the transition to a diversified economy of advanced manufacturing, processing, financial services, information technology, biotechnology, and green energy production. The area of Iowa was claimed for France and remained a French territory until 1763. Iowa was part of a territory known as La Louisiane or Louisiana, and European traders were interested in lead and furs obtained by Indigenous people. After the 1803 Louisiana Purchase, Congress divided the Louisiana Purchase into two parts—the Territory of Orleans and the District of Louisiana, with present-day Iowa falling in the latter. Fort Madison was defeated by British-supported Indigenous people in 1813 during the War of 1812, and Fort Shelby in Prairie du Chien, Wisconsin, also fell to the British. In 1856 the Iowa Legislature passed an unprecedented act allowing the Meskawki to purchase the land. However, in contrast to the unprecidented act of the Iowa Legislature, the United States Federal Government, through the use of Treaties, forced the Ho-Chunk from Iowa in 1848, and forced the Dakota from Iowa by 1858. The first American settlers officially moved to Iowa in June 1833. Iowa supported the Union during the Civil War, voting heavily for Abraham Lincoln, though there was an antiwar "Copperhead" movement in the state, caused partially by a drop in crop prices caused by the war. In 1917, the United States entered World War I and farmers as well as all Iowans experienced a wartime economy. The Great Depression and World War II accelerated the shift away from smallholder farming to larger farms, and began a trend of urbanization. The farm crisis of the 1980s caused a major recession in Iowa, causing poverty not seen since the Depression. After bottoming out in the 1980s, Iowa's economy began to become increasingly less dependent on agriculture. The Iowa Economic Development Authority, created in 2011 has replaced the Iowa Department of Economic Development and its annual reports are a source of economic information.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.031746031746031744, 0.75, 0.06091370558375634, 0.03807106598984771]
+[0.015915119363395226, 0.4, 0.030612244897959183, 0.019132653061224487]
+[0.026455026455026454, 0.625, 0.05076142131979695, 0.031725888324873094]

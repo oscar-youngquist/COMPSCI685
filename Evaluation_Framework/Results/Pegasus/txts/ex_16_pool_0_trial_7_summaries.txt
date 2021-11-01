@@ -1,0 +1,15 @@
+Document:
+maryland
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+The state of Maryland has been named after the English Queen Henrietta Maria, known in England as Queen Mary.
+
+GT:
+In 1902, the state regulated conditions in mines; outlawed child laborers under the age of 12; mandated compulsory school attendance; and enacted the nation's first workers' compensation law. The "Bonus Army" marched through the state in 1932 on its way to Washington, D.C. Maryland instituted its first income tax in 1937 to generate revenue for schools and welfare. The highest educational official in the state is the State Superintendent of Schools, who is appointed by the State Board of Education to a four-year term of office. The Maryland General Assembly has given the Superintendent and State Board autonomy to make educationally related decisions, limiting its influence on the day-to-day functions of public education. Each county and county-equivalent in Maryland has a local Board of Education charged with running the public schools in that particular jurisdiction. The budget for education was $5.5 billion in 2009, representing about 40 percent of the state's general fund. In 2003, Maryland law was changed to allow for the creation of publicly funded charter schools, although the charter schools must be approved by their local Board of Education and are not exempt from state laws on education, including collective bargaining laws.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.034482758620689655, 0.3684210526315789, 0.06306306306306306, 0.039414414414414414]
+[0.009900990099009901, 0.1111111111111111, 0.01818181818181818, 0.011363636363636366]
+[0.034482758620689655, 0.3684210526315789, 0.06306306306306306, 0.039414414414414414]

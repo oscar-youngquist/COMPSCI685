@@ -1,0 +1,15 @@
+Document:
+montana
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Montana is one of the most sparsely populated states in the United States.
+
+GT:
+Montana contains Glacier National Park, "The Crown of the Continent"; and parts of Yellowstone National Park, including three of the park's five entrances. Other federally recognized sites include the Little Bighorn National Monument, Bighorn Canyon National Recreation Area, Big Hole National Battlefield, and the National Bison Range. The two largest schools, the University of Montana and Montana State University, are members of the Big Sky Conference and have enjoyed a strong athletic rivalry since the early twentieth century. Hiking, fishing, hunting, watercraft recreation, camping, golf, cycling, horseback riding, and skiing are popular activities. The state has robust recreational lake trout and kokanee salmon fisheries in the west, walleye can be found in many parts of the state, while northern pike, smallmouth and largemouth bass fisheries as well as catfish and paddlefish can be found in the waters of eastern Montana. Both downhill skiing and cross-country skiing are popular in Montana, which has 15 developed downhill ski areas open to the public, including: Big Sky Resort and Whitefish Mountain Resort are destination resorts, while the remaining areas do not have overnight lodging at the ski area, though several host restaurants and other amenities.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.03608247422680412, 0.5384615384615384, 0.06763285024154589, 0.04227053140096618]
+[0.010362694300518135, 0.16666666666666666, 0.01951219512195122, 0.012195121951219513]
+[0.03608247422680412, 0.5384615384615384, 0.06763285024154589, 0.04227053140096618]

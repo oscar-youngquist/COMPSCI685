@@ -1,0 +1,15 @@
+Document:
+indiana
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Indiana is one of the most densely populated states in the United States.
+
+GT:
+The first inhabitants in what is now Indiana were the Paleo-Indians, who arrived about 8000 BCE after the melting of the glaciers at the end of the Ice Age. In 1679, French explorer René-Robert Cavelier, Sieur de La Salle was the first European to cross into Indiana after reaching present-day South Bend at the Saint Joseph River. In 1787, the US defined the Northwest Territory which included the area of present-day Indiana. In 1800, Congress separated Ohio from the Northwest Territory, designating the rest of the land as the Indiana Territory. Starting with the Battle of Fallen Timbers in 1794 and the Treaty of Greenville in 1795, Native American titles to Indiana lands were extinguished by usurpation, purchase, or war and treaty. On June 10, 1816, delegates assembled at Corydon to write the constitution, which was completed in 19 days. President James Madison approved Indiana's admission into the union as the nineteenth state on December 11, 1816. Many European immigrants went west to settle in Indiana in the early 19th century. In the early 20th century, Indiana developed into a strong manufacturing state with ties to the new auto industry. Industry became the primary employer, a trend that continued into the 1960s. Urbanization during the 1950s and 1960s led to substantial growth in the state's cities. The 1973 oil crisis created a recession that hurt the automotive industry in Indiana. The restructuring and deindustrialization trend continued until the 1980s, when the national and state economy began to diversify and recover.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.03125, 0.6153846153846154, 0.05947955390334572, 0.03717472118959108]
+[0.00784313725490196, 0.16666666666666666, 0.0149812734082397, 0.009363295880149813]
+[0.02734375, 0.5384615384615384, 0.05204460966542751, 0.032527881040892194]

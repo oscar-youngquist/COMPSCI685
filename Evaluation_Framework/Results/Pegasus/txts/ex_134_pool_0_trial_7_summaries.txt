@@ -1,0 +1,15 @@
+Document:
+alaska
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+All images are copyrighted.
+
+GT:
+Alaska ( (listen); Aleut: Alax̂sxax̂; Inupiaq: Alaasikaq; Pacific Gulf Yupik: Alas'kaaq; Tlingit: Anáaski) is a US state on the northwest extremity of the country's West Coast, just across the Bering Strait. Alaska was occupied by various indigenous peoples for thousands of years before the arrival of Europeans. The state is considered the entry point for the settlement of North America by way of the Bering land bridge. The Russians were the first Europeans to settle the area beginning in the 18th century, eventually establishing Russian America, which spanned most of the current state. The expense and difficulty of maintaining this distant possession prompted its sale to the US in 1867 for US$7.2 million, or approximately two cents per acre ($4.74/km2). The area went through several administrative changes before becoming organized as a territory on May 11, 1912. It was admitted as the 49th state of the US on January 3, 1959.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0, 0.0, 0.0, 0.0]
+[0.0, 0.0, 0.0, 0.0]
+[0.0, 0.0, 0.0, 0.0]

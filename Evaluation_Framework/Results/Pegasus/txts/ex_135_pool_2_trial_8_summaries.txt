@@ -1,0 +1,15 @@
+Document:
+illinois
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Illinois is one of the most densely populated states in the United States.
+
+GT:
+Local municipalities and their respective school districts operate individual public schools, but the ISBE audits performance of public schools with the Illinois School Report Card. The ISBE also makes recommendations to state leaders concerning education spending and policies. Education is compulsory for ages 7–17 in Illinois. Schools are commonly, but not exclusively, divided into three tiers of primary and secondary education: elementary school, middle school or junior high school, and high school. Many areas in the state are actually located in two school districts—one for high school, the other for elementary and middle schools. Using the criterion established by the Carnegie Foundation for the Advancement of Teaching, there are eleven "National Universities" in the state. The University of Chicago is continuously ranked as one of the world's top ten universities on various independent university rankings, and its Booth School of Business, along with Northwestern's Kellogg School of Management consistently rank within the top five graduate business schools in the country and top ten globally. Illinois also has more than twenty additional accredited four-year universities, both public and private, and dozens of small liberal arts colleges across the state. Schools in Illinois are funded primarily by property taxes, based on state assessment of property values, rather than direct state contributions.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.04205607476635514, 0.6923076923076923, 0.07929515418502203, 0.04955947136563877]
+[0.014084507042253521, 0.25, 0.02666666666666667, 0.01666666666666667]
+[0.04205607476635514, 0.6923076923076923, 0.07929515418502203, 0.04955947136563877]

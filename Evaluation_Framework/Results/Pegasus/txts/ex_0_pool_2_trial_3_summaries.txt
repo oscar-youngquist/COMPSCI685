@@ -1,0 +1,15 @@
+Document:
+utah
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Utah is one of the most sparsely populated states in the United States.
+
+GT:
+Most Utahns are of Northern European descent. In 2011 one-third of Utah's workforce was reported to be bilingual, developed through a program of acquisition of second languages beginning in elementary school, and related to Mormonism's missionary goals for its young people. Utah has seven universities that compete in Division I of the NCAA. Three of the schools have football programs that participate in the top-level Football Bowl Subdivision: Utah in the Pac-12 Conference, Utah State in the Mountain West Conference, and BYU as an independent (although BYU competes in the non-football West Coast Conference for most other sports). In addition, Weber State and Southern Utah (SUU) compete in the Big Sky Conference of the FCS. Dixie State, with an FCS football program, and Utah Valley, with no football program, are members of the Western Athletic Conference (WAC). Dixie State began a four-year transition to Division I in 2020. Since the WAC has been a non-football conference since 2013, Dixie State football plays as an FCS independent.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.05172413793103448, 0.6923076923076923, 0.0962566844919786, 0.06016042780748664]
+[0.017341040462427744, 0.25, 0.03243243243243243, 0.020270270270270268]
+[0.04597701149425287, 0.6153846153846154, 0.08556149732620322, 0.05347593582887701]

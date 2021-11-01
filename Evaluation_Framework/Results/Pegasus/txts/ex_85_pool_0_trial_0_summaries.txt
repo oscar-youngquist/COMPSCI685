@@ -1,0 +1,15 @@
+Document:
+kentucky
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Kentucky is one of the most densely populated states in the United States.
+
+GT:
+Kentucky was admitted into the Union as the 15th state on June 1, 1792, splitting from Virginia in the process. It is home to the world's longest cave system: Mammoth Cave National Park, as well as the greatest length of navigable waterways and streams in the contiguous United States and the two largest man-made lakes east of the Mississippi River. Kentucky has a non-contiguous part known as Kentucky Bend, at the far west corner of the state. The epicenter of the 1811–12 New Madrid earthquakes was near this area, causing the Mississippi River to flow backwards in some places. Kentucky has more navigable miles of water than any other state in the union, other than Alaska. Kentucky produces 95% of the world's supply of bourbon whiskey, and the number of barrels of bourbon being aged in Kentucky (more than 5.7 million) exceeds the state's population. As the state is bounded by two of the largest rivers in North America, water transportation has historically played a major role in Kentucky's economy.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.056179775280898875, 0.7692307692307693, 0.10471204188481674, 0.06544502617801047]
+[0.022598870056497175, 0.3333333333333333, 0.042328042328042326, 0.026455026455026454]
+[0.0449438202247191, 0.6153846153846154, 0.08376963350785341, 0.05235602094240838]

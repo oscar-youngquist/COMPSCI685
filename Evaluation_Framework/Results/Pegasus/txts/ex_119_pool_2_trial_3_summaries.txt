@@ -1,0 +1,15 @@
+Document:
+utah
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Utah is one of the most sparsely populated states in the United States.
+
+GT:
+The state has a highly diversified economy, with major sectors including transportation, education, information technology and research, government services, mining; it is also a major tourist destination for outdoor recreation. In 2011 one-third of Utah's workforce was reported to be bilingual, developed through a program of acquisition of second languages beginning in elementary school, and related to Mormonism's missionary goals for its young people. Utah collects personal income tax The state sales tax has a base rate of 6.45 percent, with cities and counties levying additional local sales taxes that vary among the municipalities. Property taxes are assessed and collected locally. Utah does not charge intangible property taxes and does not impose an inheritance tax.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07563025210084033, 0.6923076923076923, 0.13636363636363635, 0.08522727272727272]
+[0.0, 0.0, 0.0, 0.0]
+[0.05042016806722689, 0.46153846153846156, 0.0909090909090909, 0.05681818181818181]

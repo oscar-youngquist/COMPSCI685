@@ -1,0 +1,15 @@
+Document:
+vermont
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+The state of Vermont has one of the lowest murder rates in the United States.
+
+GT:
+For some 12,000 years, indigenous peoples inhabited this area. During the 17th century, French colonists claimed the territory as part of the Kingdom of France's colony of New France. Vermont was admitted to the newly established United States as the fourteenth state in 1791. During the mid-19th century, Vermont was a strong source of abolitionist sentiment, although it was also tied to King Cotton through the development of textile mills in the region, which relied on southern cotton. There are five distinct physiographic regions of Vermont. By the mid-19th century, wild turkeys were exterminated in the state through overhunting and destruction of habitat. The use of DDT for insect control resulted in ospreys laying eggs that were too thin to support the development of young. From 2008 to 2010, White-nose syndrome killed an estimated two-thirds of all cave-wintering bats in the state. The New England cottontail disappeared from the state in the early 1970s, out-competed by the eastern cottontail rabbit, imported in the 1800s for hunting. Out of a total of 33 species of bumblebee, by 2013 the number declined to 19 or 20 species in the state. Invasive species included the Asian spotted-wing drosophila, which started damaging berry crops in 2012. Invasive wild honeysuckle has been deemed a threat to the state's forests, native species of plants, and wildlife. Climate change appears to be affecting the maple sugar industry. In the mid-20th century, descendants began to reclaim their French names, especially surnames. In an era influenced by ideas of Social Darwinism, some Vermont leaders promoted eugenics, an idea that the population could be managed and improved by limiting marriage and reproduction by certain members classified as unfit or defective. From 1925 to 1928 the Eugenics Survey of Vermont conducted research and recorded the histories of families it determined were degenerate or dependent. In 1931 Vermont was the 29th state to pass a eugenics law. In addition to the increased intensity and flooding caused by climate change, the state has suffered several extreme natural disasters in the 20th and 21st centuries related to hurricanes, and extensive rain and flooding. Linguists have identified speech patterns found among Vermonters as belonging to Western New England English, a dialect of New England English, which features full pronunciation of all r sounds, pronouncing horse and hoarse the same, and pronouncing vowels in father and bother the same, none of which are features traditionally shared in neighboring Eastern New England English. Dairy farming is the primary source of agricultural income.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.025821596244131457, 0.7333333333333333, 0.049886621315192746, 0.031179138321995464]
+[0.011764705882352941, 0.35714285714285715, 0.02277904328018223, 0.014236902050113895]
+[0.023474178403755867, 0.6666666666666666, 0.04535147392290249, 0.028344671201814057]

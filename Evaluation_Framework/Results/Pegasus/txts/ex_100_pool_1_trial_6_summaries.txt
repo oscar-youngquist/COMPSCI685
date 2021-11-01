@@ -1,0 +1,15 @@
+Document:
+indiana
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Indiana is one of the most densely populated states in the United States.
+
+GT:
+Indiana's name means "Land of the Indians", or simply "Indian Land". In 1787, the US defined the Northwest Territory which included the area of present-day Indiana. In 1810, the Shawnee tribal chief Tecumseh and his brother Tenskwatawa encouraged other indigenous tribes in the territory to resist European settlement. Tensions rose and the US authorized Harrison to launch a preemptive expedition against Tecumseh's Confederacy; the US gained victory at the Battle of Tippecanoe on November 7, 1811. Most Native American tribes in the state were later removed to west of the Mississippi River in the 1820s and 1830s after US negotiations and the purchase of their lands. With a total area (land and water) of 36,418 square miles (94,320 km2), Indiana ranks as the 38th largest state in size. The average altitude of Indiana is about 760 feet (230 m) above sea level. The highest point in the state is Hoosier Hill in Wayne County at 1,257 feet (383 m) above sea level. The state includes two natural regions of the United States: the Central Lowlands and the Interior Low Plateaus. Major river systems in Indiana include the Whitewater, White, Blue, Wabash, St. Joseph, and Maumee rivers. Indiana is one of 13 US states that are divided into more than one time zone. As of the 2010 census, Indiana's median household income was $44,616, ranking it 36th among the United States and the District of Columbia. Indiana is home to several current and former military installations. Indiana has an extensive history with auto racing. As of 2013 Indiana has produced more National Basketball Association (NBA) players per capita than any other state. In 2016, Indiana was home to seven Fortune 500 companies with a combined $142.5 billion in revenue. Indiana has a flat state income tax rate of 3.23%. Indiana's 1816 constitution was the first in the country to implement a state-funded public school system. Many of Indiana's private colleges and universities are affiliated with religious groups.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.032448377581120944, 0.8461538461538461, 0.0625, 0.0390625]
+[0.023668639053254437, 0.6666666666666666, 0.04571428571428571, 0.028571428571428567]
+[0.02654867256637168, 0.6923076923076923, 0.05113636363636363, 0.031960227272727265]

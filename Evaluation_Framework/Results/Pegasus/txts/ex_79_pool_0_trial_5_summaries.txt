@@ -1,0 +1,15 @@
+Document:
+new_jersey
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+New Jersey is a state in the Mid-Atlantic region of the Northeastern United States.
+
+GT:
+As of 2010, there were 605 school districts in the state. In 2010, the state government paid all teachers' premiums for health insurance, but currently all NJ public teachers pay a portion of their own health insurance premiums. New Jersey is known for the quality of its education. According to 2011 Newsweek statistics, students of High Technology High School in Lincroft, Monmouth County and Bergen County Academies in Hackensack, Bergen County registered average SAT scores of 2145 and 2100, respectively, representing the second- and third-highest scores, respectively, of all listed US high schools. In 2013, Rutgers University, headquartered in New Brunswick, Middlesex County as the flagship institution of higher education in New Jersey, regained medical and dental schools, augmenting its profile as a national research university as well. In 2014, New Jersey's school systems were ranked at the top of all fifty US states by financial website Wallethub.com. A 2017 UCLA Civil Rights project found that New Jersey has the sixth-most segregated classrooms in the United States.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.06432748538011696, 0.7333333333333333, 0.11827956989247312, 0.0739247311827957]
+[0.029411764705882353, 0.35714285714285715, 0.05434782608695653, 0.033967391304347824]
+[0.05847953216374269, 0.6666666666666666, 0.10752688172043011, 0.06720430107526881]

@@ -1,0 +1,15 @@
+Document:
+washington
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+A selection of photographs from around the state of Washington.
+
+GT:
+A Mediterranean climate predominates in western Washington, and a much drier semi-arid climate prevails east of the Cascade Range. Major factors determining Washington's climate include the large semi-permanent high pressure and low pressure systems of the north Pacific Ocean, the continental air masses of North America, and the Olympic and Cascade mountains. In the spring and summer, a high pressure anticyclone system dominates the north Pacific Ocean, causing air to spiral out in a clockwise fashion. For Washington, this means prevailing winds from the northwest bring relatively cool air and a predictably dry season. In the autumn and winter, a low-pressure cyclone system takes over in the north Pacific Ocean. The air spiraling inward in a counter-clockwise fashion causes Washington's prevailing winds to come from the southwest, and bring relatively warm and moist air masses and a predictably wet season. The term "Pineapple Express" is used colloquially to describe atmospheric river events, where repeated storm systems are directed by this persistent cyclone from tropical and near-tropical Pacific regions into the Pacific Northwest. Despite western Washington's having a marine climate similar to many coastal cities of Europe, there are exceptions such as the "Big Snow" events of 1880, 1881, 1893, and 1916, and the "deep freeze" winters of 1883–1884, 1915–1916, 1949–1950, and 1955–1956, among others. During these events, western Washington experienced up to 6 feet (1.8 m) of snow, sub-zero (−18 °C) temperatures, three months with snow on the ground, and lakes and rivers frozen over for weeks. Seattle's lowest officially recorded temperature is 0 °F (−18 °C) set on January 31, 1950, but low-altitude areas approximately three hours away from Seattle have recorded lows as cold as −48 °F (−44 °C). The Southern Oscillation greatly influences weather during the cold season. During the El Niño phase, the jet stream enters the US farther south through California, therefore late fall and winter are drier than normal with less snowpack. The La Niña phase reinforces the jet stream through the Pacific Northwest, causing Washington to have more rain and snow than average. Rainfall in Washington varies dramatically going from east to west. The average annual temperature ranges from 51 °F (11 °C) on the Pacific coast to 40 °F (4 °C) in the northeast.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.015384615384615385, 0.6, 0.030000000000000002, 0.01875]
+[0.0, 0.0, 0.0, 0.0]
+[0.015384615384615385, 0.6, 0.030000000000000002, 0.01875]

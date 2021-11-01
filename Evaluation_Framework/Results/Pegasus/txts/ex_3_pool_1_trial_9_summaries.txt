@@ -1,0 +1,15 @@
+Document:
+oregon
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Oregon is one of the most densely populated states in the United States.
+
+GT:
+The City of Portland imposes an Arts Education and Access Income Tax on residents over 18—a flat tax of $35 collected from individuals earning $1,000 or more per year and residing in a household with an annual income exceeding the federal poverty level. The tax funds Portland school teachers, and art focused non-profit organizations in Portland. 55% of state revenues are spent on public education, 23% on human services (child protective services, Medicaid, and senior services), 17% on public safety, and 5% on other services. Recently, new kosher food and Jewish educational offerings have led to a rapid increase in Portland's Orthodox Jewish population. In the 2013–2014 school year, the state had 567,000 students in public schools. There were 197 public school districts, served by 19 education service districts. Especially since the 1990 passage of Measure 5, which set limits on property tax levels, Oregon has struggled to fund higher education. Since then, Oregon has cut its higher education budget and now ranks 46th in the country in state spending per student. However, 2007 legislation funded the university system far beyond the governor's requested budget though still capping tuition increases at 3% per year. Oregon supports a total of seven public universities and one affiliate. It is home to three public research universities: The University of Oregon (UO) in Eugene and Oregon State University (OSU) in Corvallis, both classified as research universities with very high research activity, and Portland State University which is classified as a research university with high research activity.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.03861003861003861, 0.7692307692307693, 0.07352941176470587, 0.04595588235294117]
+[0.003875968992248062, 0.08333333333333333, 0.007407407407407408, 0.00462962962962963]
+[0.02702702702702703, 0.5384615384615384, 0.051470588235294115, 0.03216911764705882]

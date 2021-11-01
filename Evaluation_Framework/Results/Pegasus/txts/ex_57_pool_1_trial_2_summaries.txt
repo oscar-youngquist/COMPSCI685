@@ -1,0 +1,15 @@
+Document:
+south_carolina
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+South Carolina is a state in the Deep South region of the Southern United States.
+
+GT:
+The Atlantic Coastal Plain consists of sediments and sedimentary rocks that range in age from Cretaceous to Present. The terrain is relatively flat and the soil is composed predominantly of sand, silt, and clay. South Carolina has several major lakes covering over 683 square miles (1,770 km2). South Carolina has many venues for visual and performing arts. The Gibbes Museum of Art in Charleston, the Greenville County Museum of Art, the Columbia Museum of Art, Spartanburg Art Museum, and the South Carolina State Museum in Columbia among others provide access to visual arts to the state. One of the nation's major performing arts festivals, Spoleto Festival USA, is held annually in Charleston. According to the South Carolina Arts Commission, creative industries generate $9.2 billion annually and support over 78,000 jobs in the state. The state has the fourth largest state-maintained system in the country, consisting of 11 Interstates, numbered highways, state highways, and secondary roads, totalling approximately 41,500 miles. As of 2010, South Carolina is one of three states that have not agreed to use competitive international math and language standards.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.053475935828877004, 0.6666666666666666, 0.099009900990099, 0.06188118811881189]
+[0.021505376344086023, 0.2857142857142857, 0.04000000000000001, 0.025000000000000005]
+[0.0481283422459893, 0.6, 0.0891089108910891, 0.055693069306930694]

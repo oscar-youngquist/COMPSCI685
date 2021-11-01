@@ -1,0 +1,15 @@
+Document:
+oregon
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Oregon is one of the most densely populated states in the United States.
+
+GT:
+Western Oregon's climate is heavily influenced by the Pacific Ocean; the western third of Oregon is very wet in the winter, moderately to very wet during the spring and fall, and dry during the summer. The relative humidity of Western Oregon is high except during summer days, which are semi-dry to semi-humid; Eastern Oregon typically sees low humidity year-round. The state's southwestern portion, particularly the Rogue Valley, has a Mediterranean climate with drier and sunnier winters and hotter summers, similar to Northern California. Oregon's northeastern portion has a steppe climate, and its high terrain regions have a subarctic climate. Like Western Europe, Oregon, and the Pacific Northwest in general, is considered warm for its latitude, and the state has far milder winters at a given elevation than comparable latitudes elsewhere in North America, such as the Upper Midwest, Ontario, Quebec and New England. However, the state ranks fifth for coolest summer temperatures of any state in the country, after Maine, Idaho, Wyoming, and Alaska. The eastern two thirds of Oregon, which largely comprise high desert, have cold, snowy winters and very dry summers. Much of the east is semiarid to arid like the rest of the Great Basin, though the Blue Mountains are wet enough to support extensive forests. Most of Oregon receives significant snowfall, but the Willamette Valley, where 60 percent of the population lives, has considerably milder winters for its latitude and typically sees only light snowfall. Oregon's highest recorded temperature is 119 °F (48 °C) at Pendleton on August 10, 1898, and the lowest recorded temperature is −54 °F (−48 °C) at Senatorca on February 10, 1933.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.036101083032490974, 0.7692307692307693, 0.06896551724137931, 0.04310344827586207]
+[0.014492753623188406, 0.3333333333333333, 0.027777777777777776, 0.017361111111111112]
+[0.02888086642599278, 0.6153846153846154, 0.055172413793103454, 0.034482758620689655]

@@ -1,0 +1,15 @@
+Document:
+oregon
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Oregon is one of the most densely populated states in the United States.
+
+GT:
+Humans have inhabited the area that is now Oregon for at least 15,000 years. While there is considerable evidence that Paleo-Indians inhabited the region, the oldest evidence of habitation in Oregon was found at Fort Rock Cave and the Paisley Caves in Lake County. The first Europeans to visit Oregon were Spanish explorers led by Juan Rodríguez Cabrillo, who sighted southern Oregon off the Pacific coast in 1543. French Canadians, Scots, Métis and other continental natives (e.g. Iroquois) trappers arrived in the late 18th and early 19th centuries, soon to be followed by Catholic clergy. The Lewis and Clark Expedition travelled through northern Oregon also in search of the Northwest Passage. British explorer David Thompson also conducted overland exploration. Also in 1811, New Yorker John Jacob Astor financed the establishment of Fort Astoria at the mouth of the Columbia River as a western outpost to his Pacific Fur Company; this was the first permanent European settlement in Oregon. The Treaty of 1818 established joint British and American occupancy of the region west of the Rocky Mountains to the Pacific Ocean. By the 1820s and 1830s, the Hudson's Bay Company dominated the Pacific Northwest from its Columbia District headquarters at Fort Vancouver (built in 1825 by the district's chief factor, John McLoughlin, across the Columbia from present-day Portland). Starting in 1842–43, the Oregon Trail brought many new American settlers to the Oregon Country. In December 1844, Oregon passed its Black Exclusion Law, which prohibited African Americans from entering the territory while simultaneously prohibiting slavery. Oregon was admitted to the Union on February 14, 1859, though no one in Oregon knew it, until March 15. On May 5, 1945, six civilians were killed by a Japanese balloon bomb that exploded on Gearhart Mountain near Bly. Industrial expansion began in earnest following the 1933–37 construction of the Bonneville Dam on the Columbia River. During the 1970s, the Pacific Northwest was particularly affected by the 1973 oil crisis, with Oregon suffering a substantial shortage. In 1994, Oregon became the first US state to legalize physician-assisted suicide through the Oregon Death with Dignity Act. A measure to legalize recreational use of marijuana in Oregon was approved on November 4, 2014, making Oregon only the second state at the time to have legalized gay marriage, physician-assisted suicide, and recreational marijuana.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.022727272727272728, 0.6923076923076923, 0.04400977995110025, 0.027506112469437655]
+[0.005063291139240506, 0.16666666666666666, 0.00982800982800983, 0.006142506142506142]
+[0.022727272727272728, 0.6923076923076923, 0.04400977995110025, 0.027506112469437655]

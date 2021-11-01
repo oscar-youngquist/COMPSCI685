@@ -1,0 +1,15 @@
+Document:
+hawaii
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+The state of Hawaii is one of the most densely populated states in the United States.
+
+GT:
+State Senatortor Sam Slom says state taxes are comparatively higher than other states because the state government handles education, health care, and social services that are usually handled at a county or municipal level in most other states. Hawaii has the only school system within the US that is unified statewide. Policy decisions are made by the fourteen-member state Board of Education, which sets policy and hires the superintendent of schools, who oversees the state Department of Education. The Department of Education is divided into seven districts Public elementary, middle and high school test scores in Hawaii are below national averages on tests mandated under the No Child Left Behind Act. The Hawaii Board of Education requires all eligible students to take these tests and report all student test scores. Independent and charter schools can select their students, while the public schools are open to all students in their district. The Kamehameha Schools are the only schools in the US that openly grant admission to students based on ancestry; collectively, they are one of the wealthiest schools in the United States, if not the world, having over eleven billion US dollars in estate assets. Kalawao County has no elected government, and as mentioned above there are no local school districts and instead all local public education is administered at the state level by the Hawaii Department of Education.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0611353711790393, 0.875, 0.11428571428571428, 0.07142857142857142]
+[0.02631578947368421, 0.4, 0.04938271604938271, 0.030864197530864196]
+[0.048034934497816595, 0.6875, 0.08979591836734695, 0.056122448979591844]

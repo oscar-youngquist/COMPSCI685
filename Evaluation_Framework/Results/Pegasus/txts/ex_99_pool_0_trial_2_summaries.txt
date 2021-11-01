@@ -1,0 +1,15 @@
+Document:
+south_dakota
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+South Dakota is one of the most sparsely populated states in the United States.
+
+GT:
+South Dakota ( (listen)) is a US state in the Midwestern region of the United States. It is named after the Lakota and Dakota Sioux Native American tribes, who comprise a large portion of the population and historically dominated the territory. South Dakota is the seventeenth largest by area, but the 5th least populous, and the 5th least densely populated of the 50 United States. As the southern part of the former Dakota Territory, South Dakota became a state on November 2, 1889, simultaneously with North Dakota. Humans have inhabited the area for several millennia, with the Sioux becoming dominant by the early 19th century. Much of South Dakota (except for the Black Hills area) is dominated by a temperate grassland biome. South Dakota has a continental climate with four distinct seasons, ranging from cold, dry winters to warm and semi-humid summers. In 1803, the United States purchased the Louisiana Territory, an area that included most of South Dakota, from Napoleon Bonaparte, and President Thomas Jefferson organized a group commonly referred to as the "Lewis and Clark Expedition" to explore the region. A growing population and political concerns (admitting two states meant having four new senators for the Republican Party) caused Dakota Territory to be divided in half and President Benjamin Harrison signed proclamations formally admitting South Dakota and North Dakota to the union on November 2, 1889. Economic stability returned with the US entry into World War II in 1941, when demand for the state's agricultural and industrial products grew as the nation mobilized for war. The United States Census Bureau estimates the population of South Dakota was 884,659 on July 1, 2019, an 8.66% increase since the 2010 United States Census, only North Dakota, Alaska, Vermont, and Wyoming have fewer residents. The unemployment rate in Fort Thompson, on the Crow Creek Reservation, is 70%, and 21% of households lack plumbing or basic kitchen appliances. A 1995 study by the US Census Bureau found 58% of homes on the Pine Ridge Indian Reservation did not have a telephone. The current-dollar gross state product of South Dakota was $39.8 billion as of 2010, the fifth-smallest total state output in the US South Dakota has 83,609 miles (134,556 km) of highways, roads, and streets, along with 679 miles (1,093 km) of interstate highways.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.030690537084398978, 0.8571428571428571, 0.05925925925925927, 0.03703703703703704]
+[0.017948717948717947, 0.5384615384615384, 0.0347394540942928, 0.021712158808932996]
+[0.030690537084398978, 0.8571428571428571, 0.05925925925925927, 0.03703703703703704]

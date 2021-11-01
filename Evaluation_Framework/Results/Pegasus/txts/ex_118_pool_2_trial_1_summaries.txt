@@ -1,0 +1,15 @@
+Document:
+minnesota
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Minnesota is known as the "Land of 10,000 Lakes".
+
+GT:
+The first Europeans to enter the region were French voyageurs, fur traders who arrived in the 17th century. The portion of the state east of the Mississippi River became part of the United States at the end of the American Revolutionary War, when the Second Treaty of Paris was signed. Land west of the Mississippi was acquired with the Louisiana Purchase, though part of the Red River Valley was disputed until the Treaty of 1818. In 1805 Zebulon Pike bargained with Native Americans to acquire land at the confluence of the Minnesota and Mississippi rivers to create a military reservation. The construction of Fort Snelling followed between 1819 and 1825. In 1839 the army forced them off military lands. From 1812 to 1821 Minnesota was part of the Territory of Missouri. When Iowa gained statehood western Minnesota was in an Unorganized Territory again. Minnesota became the 32nd US state on May 11, 1858. In 1861 residents of Mankato formed the Knights of the Forest, with a goal of eliminating all Native Americans from Minnesota. The six-week war ended with the execution of 38 Dakota and the exile of many to the Crow Creek Reservation in Dakota Territory. As many as 800 settlers died during the war. Minnesota Governor Alexander Ramsey subsequently declared that "the Sioux Indians of Minnesota must be exterminated or driven forever beyond the borders of the state.” He also placed a bounty of $25/scalp on the heads of the Dakota men. Over 1,600 Dakota women, children and elderly walked from the Lower Sioux Agency to Fort Snelling to be held until the spring thaw allowed riverboats to take them out of Minnesota to Crow Creek by the Great Sioux Reservation. The remainder had fled, the Canadians having set aside two parcels of 7,000 and 8,000 acres for those who crossed into Manitoba. The Canadians were not eager to take in the displaced Minnesota Sioux, but went on to set aside even more land for them. In 1863 he negotiated the Treaty of Old Crossing, whereby the Ojibwe ceded all their land in northern Minnesota and moved to reservations. St. Anthony Falls was later tapped to provide power for flour mills. By 1900 Minnesota mills, led by Pillsbury, Northwestern and the Washburn-Crosby Company (a forerunner of General Mills), were grinding 14.1% of the nation's grain. Minnesota became a center of technology after World War II.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.014814814814814815, 0.6, 0.02891566265060241, 0.018072289156626505]
+[0.0, 0.0, 0.0, 0.0]
+[0.012345679012345678, 0.5, 0.024096385542168672, 0.01506024096385542]

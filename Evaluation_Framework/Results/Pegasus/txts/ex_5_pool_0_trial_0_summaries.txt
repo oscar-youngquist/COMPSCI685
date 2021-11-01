@@ -1,0 +1,15 @@
+Document:
+new_hampshire
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+The state's motto is "Live Free or Die".
+
+GT:
+New Hampshire's workforce is 90% in nonfarm employment, with 18% employed in trade, transportation, and utilities; 17% in education and health care; 12% in government; 11% in professional and business services; and 10% in leisure and hospitality. New Hampshire has more than 80 public high schools, many of which serve more than one town. The largest is Pinkerton Academy in Derry, which is owned by a private non-profit organization and serves as the public high school of a number of neighboring towns. There are at least 30 private high schools in the state. New Hampshire is also the home of several prestigious university-preparatory schools, such as Phillips Exeter Academy, St. Paul's School, Proctor Academy, Brewster Academy, and Kimball Union Academy. In 2008 the state tied with Massachusetts as having the highest scores on the SAT and ACT standardized tests given to high school students. New Hampshire has two universities competing at the NCAA Division I in all collegiate sports: the Dartmouth Big Green (Ivy League) and the New Hampshire Wildcats (America East Conference), as well as three NCAA Division II teams: Franklin Pierce Ravens, Saint Anselm Hawks and Southern New Hampshire Penmen (Northeast-10 Conference). Annually since 2002, high-school statewide all-stars compete against Vermont in ten sports during "Twin State" playoffs.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.018433179723502304, 0.4444444444444444, 0.03539823008849558, 0.022123893805309738]
+[0.004629629629629629, 0.125, 0.008928571428571428, 0.005580357142857143]
+[0.013824884792626729, 0.3333333333333333, 0.026548672566371685, 0.016592920353982302]

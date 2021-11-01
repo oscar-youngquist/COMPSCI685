@@ -1,0 +1,15 @@
+Document:
+south_carolina
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+South Carolina is a state in the Deep South region of the Southern United States.
+
+GT:
+South Carolina has a humid subtropical climate (Köppen climate classification Cfa), although high-elevation areas in the Upstate area have fewer subtropical characteristics than areas on the Atlantic coastline. In the summer, South Carolina is hot and humid, with daytime temperatures averaging between 86–93 °F (30–34 °C) in most of the state and overnight lows averaging 70–75 °F (21–24 °C) on the coast and from 66–73 °F (19–23 °C) inland. Coastal areas of the state have very mild winters, with high temperatures approaching an average of 60 °F (16 °C) and overnight lows around 40 °F (5–8 °C). While precipitation is abundant the entire year in almost the entire state, the coast tends to have a slightly wetter summer, while inland, the spring and autumn transitions tend to be the wettest periods and winter the driest season, with November being the driest month. Snowfall in South Carolina is minimal in the lower elevation areas south and east of Columbia. South Carolina is also prone to tropical cyclones and tornadoes. South Carolina averages around 50 days of thunderstorm activity a year.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.05851063829787234, 0.7333333333333333, 0.10837438423645321, 0.06773399014778325]
+[0.0213903743315508, 0.2857142857142857, 0.03980099502487562, 0.024875621890547265]
+[0.047872340425531915, 0.6, 0.08866995073891626, 0.055418719211822655]

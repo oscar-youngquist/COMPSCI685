@@ -1,0 +1,15 @@
+Document:
+west_virginia
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+West Virginia Governor Joe Manchin has announced that he will not seek re-election in 2016.
+
+GT:
+It was then moved to Charleston, a more central city, from 1870 to 1875, when it returned to Wheeling. In 1885 the capitol burned down and it was moved back to Charleston that year, where it has remained ever since. West Virginia is home to college sports teams from two schools—West Virginia and Marshall—that play in NCAA Division I. West Virginia is also home to several professional minor league baseball, football, soccer, and other sports teams. Camp Washington-Carver, a Mountain Cultural Arts Center located at Clifftop in Fayette County, hosts an annual Appalachian String Band Festival. The West Virginia Symphony Orchestra was founded in 1939, as the Charleston Civic Orchestra, before becoming the Charleston Symphony Orchestra in 1943. The West Virginia Cultural Center in Charleston is home to the West Virginia Division of Culture and History, which helps underwrite and coordinate a large number of musical activities.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.03333333333333333, 0.3125, 0.060240963855421686, 0.03765060240963855]
+[0.006711409395973154, 0.06666666666666667, 0.012195121951219511, 0.007621951219512195]
+[0.02666666666666667, 0.25, 0.04819277108433735, 0.030120481927710843]

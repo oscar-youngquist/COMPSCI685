@@ -1,0 +1,15 @@
+Document:
+texas
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Texas is the second largest state by population in the United States.
+
+GT:
+Texas modernized and expanded its system of higher education through the 1960s. The state created a comprehensive plan for higher education, funded in large part by oil revenues, and a central state apparatus designed to manage state institutions more efficiently. These changes helped Texas universities receive federal research funds. Between 2006 and 2007, Texas spent $7,275 per pupil, ranking it below the national average of $9,389. The pupil/teacher ratio was 14.9, below the national average of 15.3. Texas paid instructors $41,744, below the national average of $46,593. Texas has over 1,000 school districts; all districts except the Stafford Municipal School District are independent from municipal government and many cross city boundaries. School districts have the power to tax their residents and to assert eminent domain over privately owned property. Due to court-mandated equitable school financing for school districts, the state has a controversial tax redistribution system called the "Robin Hood plan". This plan transfers property tax revenue from wealthy school districts to poor ones. Students in Texas take the State of Texas Assessments of Academic Readiness (STAAR) in primary and secondary school. STAAR assess students' attainment of reading, writing, mathematics, science, and social studies skills required under Texas education standards and the No Child Left Behind Act. The test replaced the Texas Assessment of Knowledge and Skills (TAKS) test in the 2011–2012 school year. The state's two most widely recognized flagship universities are The University of Texas at Austin and Texas A&M University, ranked as the 21st and 41st best universities in the nation according to 2020's latest Center for World University Rankings report, respectively. Some observers also include the University of Houston and Texas Tech University as tier one flagships alongside UT Austin and A&M. Texas's controversial alternative affirmative action plan, Texas House Bill 588, guarantees Texas students who graduated in the top 10 percent of their high school class automatic admission to state-funded universities. The bill encourages demographic diversity while attempting to avoid problems stemming from the Hopwood v. Texas (1996) case. Thirty-six (36) separate and distinct public universities exist in Texas, of which 32 belong to one of the six state university systems.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.01876675603217158, 0.5833333333333334, 0.036363636363636355, 0.022727272727272724]
+[0.002688172043010753, 0.09090909090909091, 0.005221932114882507, 0.0032637075718015673]
+[0.01876675603217158, 0.5833333333333334, 0.036363636363636355, 0.022727272727272724]

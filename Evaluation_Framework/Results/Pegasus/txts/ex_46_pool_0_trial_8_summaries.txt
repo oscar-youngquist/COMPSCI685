@@ -1,0 +1,15 @@
+Document:
+maine
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Maine is known for its jagged, rocky coastline.
+
+GT:
+There are thirty institutions of higher learning in Maine. The three colleges collectively form the Colby-Bates-Bowdoin Consortium and are ranked among the best colleges in the United States Maine's per-student public expenditure for elementary and secondary schools was 21st in the nation in 2012, at $12,344. Private schools in Maine are funded independently of the state and its furthered domains. Private schools are less common than public schools. A large number of private elementary schools with under 20 students exist, but most private high schools in Maine can be described as "semi-private".
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.030612244897959183, 0.375, 0.056603773584905655, 0.035377358490566044]
+[0.0, 0.0, 0.0, 0.0]
+[0.030612244897959183, 0.375, 0.056603773584905655, 0.035377358490566044]

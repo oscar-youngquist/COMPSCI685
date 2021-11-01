@@ -1,0 +1,15 @@
+Document:
+indiana
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+Indiana is one of the most densely populated states in the United States.
+
+GT:
+The first inhabitants in what is now Indiana were the Paleo-Indians, who arrived about 8000 BCE after the melting of the glaciers at the end of the Ice Age. Divided into small groups, the Paleo-Indians were nomads who hunted large game such as mastodons. They created stone tools made out of chert by chipping, knapping and flaking. Indiana is one of 13 US states that are divided into more than one time zone. Indiana's time zones have fluctuated over the past century. At present most of the state observes Eastern Time Debate continues on the matter. From 1880 to 1924, a resident of Indiana was included in all but one presidential election. Indiana Representative William Hayden English was nominated for vice president and ran with Winfield Scott Hancock in the 1880 election. Indiana has an extensive history with auto racing. Indianapolis hosts the Indianapolis 500 mile race over Memorial Day weekend at the Indianapolis Motor Speedway every May. The name of the race is usually shortened to "Indy 500" and also goes by the nickname "The Greatest Spectacle in Racing". As of 2013 Indiana has produced more National Basketball Association (NBA) players per capita than any other state. Muncie has produced the most per capita of any American city, with two other Indiana cities in the top ten. In 2016, Indiana was home to seven Fortune 500 companies with a combined $142.5 billion in revenue. Columbus-based Cummins, Inc. and Indianapolis-based Eli Lilly and Company and Simon Property Group were recognized in Fortune publication's "2017 World's Most Admired Companies List", ranking in each of their respective industries. Indiana's 1816 constitution was the first in the country to implement a state-funded public school system. It also allotted one township for a public university. However, the plan turned out to be far too idealistic for a pioneer society, as tax money was not accessible for its organization.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.030864197530864196, 0.7692307692307693, 0.05934718100890208, 0.037091988130563795]
+[0.018575851393188854, 0.5, 0.03582089552238806, 0.022388059701492536]
+[0.030864197530864196, 0.7692307692307693, 0.05934718100890208, 0.037091988130563795]
