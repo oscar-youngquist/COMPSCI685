@@ -26,6 +26,7 @@ class T5_Base(Model):
     def __init__(self, data_path, shared_docs_path, num_examples, finetune=False):
         super().__init__(data_path, shared_docs_path, num_examples)
         self.df = pd.read_csv(self.data_path)
+        self.df_aug = pd.read_csv(self.data_path[:-4] + "paraphrase1.csv") # Need to test and debug
         self.filter_obj = Sentence_Prefilter_Wrapper(data_path, shared_docs_path)
         
         self.model = T5ForConditionalGeneration.from_pretrained(model_path)

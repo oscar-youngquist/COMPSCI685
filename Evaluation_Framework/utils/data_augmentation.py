@@ -14,7 +14,7 @@ if __name__ == "__main__":
 
 
     with open(path / 'processed_state_sentences.csv', 'r') as infile:
-        with open(path / 'paraphrased_state_sentences.csv', 'w') as outfile:
+        with open(path / 'processed_state_sentences_paraphrase1.csv', 'w') as outfile:
             reader = csv.DictReader(infile)
             writer = csv.DictWriter(outfile, reader.fieldnames)
             writer.writeheader()
