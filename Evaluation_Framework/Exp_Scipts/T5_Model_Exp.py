@@ -23,8 +23,12 @@ from Models.T5_Model import T5_Base
 
 parser = ArgumentParser(description="Experiment runner for pegasus base and fine-tuned pegasus")
 parser.add_argument('--finetune', action='store_true')
+parser.add_argument('--data_aug', action='store_true')
+parser.add_argument('--gamma', dest='gamma', type=float, default=1.0)
 args = parser.parse_args()
 finetune = args.finetune
+data_aug = args.data_aug
+gamma = args.gamma
 
 
 ##############
@@ -94,10 +98,11 @@ exp_runner = ExperimentRunner(num_examples, num_test, users_path, data_path, min
 
 # create the model(s) you are going to evaluate
 #     data_path, shared_docs_path, num_examples
-if finetune:
-    pegasus_model = T5_Base(data_path, shared_docs_path, num_examples, finetune=True)
-else:
-    pegasus_model = T5_Base(data_path, shared_docs_path, num_examples)
+pegasus_model = T5_Base(data_path, shared_docs_path, num_examples, finetune, data_aug, gamma)
+# if finetune:
+#     pegasus_model = T5_Base(data_path, shared_docs_path, num_examples, finetune=True)
+# else:
+#     pegasus_model = T5_Base(data_path, shared_docs_path, num_examples)
 
 # perform the actual experiment
 #   Could loop over several models/params. In Models, can 
