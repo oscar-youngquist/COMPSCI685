@@ -9,12 +9,13 @@ from multiprocessing import Pool
 from utils.EvaluationScore import EvaluationScore
 from utils.UserDataReader import UserDataReader
 from Models.Model import Model
+import wandb
 
 
 
 class ExperimentRunner:
 
-    def __init__(self, num_examples, num_test, users_path, data_path, min_range, max_index):
+    def __init__(self, num_examples, num_test, users_path, data_path, min_range, max_index, use_wandb=False):
         self.num_examples = num_examples
         self.num_test = num_test
         self.users_path = users_path
@@ -35,6 +36,8 @@ class ExperimentRunner:
 
         # list containing the range of examples to split into examples/test data
         self.ex_range = [i for i in range(0, (num_examples+num_test))]
+
+        self.use_wandb = wandb # Allow user to turn on or off wandb logging
 
 
     ###
@@ -208,7 +211,7 @@ class ExperimentRunner:
     ###
     #    Function called in experiment scripts to kick off model analysis 
     ### 
-    def get_model_analysis(self, model, num_trials, save_results, model_name, exp_folder=None, multi_processing=True):
+    def get_model_analysis(self, model, num_trials, save_results, model_name, exp_folder=None, multi_processing=True, use_wandb=False):
         # get the current working directory 
         dir_path = os.path.dirname(os.path.realpath(__file__))
         
@@ -267,5 +270,10 @@ class ExperimentRunner:
                 for rouge_results in avg_results:
                     logging.info(rouge_results)
                 logging.info("\n\n")
+
+            if self.wandb:
+                wandb.log("avg_results: ", avg_results)
+                wandb.log("avg runtime: ", np.mean(ex_runtimes), axis=0)
+
 
 

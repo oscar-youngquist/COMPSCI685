@@ -14,9 +14,10 @@ import logging
 set_global_logging_level(logging.ERROR, ["transformers", "nlp", "torch", "tensorflow", "tensorboard", "wandb"])
 import os
 from os.path import join
+import wandb
 
 
-model_path = join(os.path.dirname(os.path.realpath(__file__)),"saved_models/t5-small")
+model_path = join(os.path.dirname(os.path.realpath(__file__)), *["saved_models", "t5-small"])
 
 class T5_Base(Model):
 
@@ -24,10 +25,12 @@ class T5_Base(Model):
     #    and pass them in accordingly from the Exp/script.
 
     # NOTE: New parameter - finetune, a command-line arg for exp script to use basic (no data augmentation or wiki-pretraining) finetuning
-    def __init__(self, data_path, shared_docs_path, num_examples, finetune=False, aug_dir="../../backtranslation/paraphrases", gamma=1.0):
+    def __init__(self, data_path, shared_docs_path, num_examples, finetune=False, data_aug=False, aug_path="", gamma=1.0, use_wandb=False):
         super().__init__(data_path, shared_docs_path, num_examples)
+        self.use_wandb = use_wandb
         self.df = pd.read_csv(self.data_path)
-        self.aug_dir = aug_dir
+        self.data_aug = data_aug
+        self.aug_path = aug_path
         self.filter_obj = Sentence_Prefilter_Wrapper(data_path, shared_docs_path)
 
         # Download T5 every time instead of having to manually git clone
@@ -59,6 +62,9 @@ class T5_Base(Model):
         self.finetune_epochs=30
         self.smoothing=0.05
 
+        # Other hyperparameters (might not need to be changed)
+        self.generation_num_beams = 1
+        self.warmup_ratio = 0.1
 
         # should definitely look into all of these parameters
         # should also look into papers for param recommendations/tricks for fine-tuning Transfomers in general
@@ -68,11 +74,19 @@ class T5_Base(Model):
             do_train=True,
             learning_rate=self.lr,
             num_train_epochs=self.finetune_epochs,
-            generation_num_beams=1,
+            generation_num_beams=self.generation_num_beams,
             label_smoothing_factor=self.smoothing,
             per_device_train_batch_size=self.batch_size,
-            warmup_ratio=0.1, 
+            warmup_ratio=self.warmup_ratio,
         )
+        if self.use_wandb:
+            wandb.config.update({"lr": self.lr,
+                       "adam_epsilon": self.adam_ep,
+                       "label_smoothing_factor": self.smoothing,
+                       "num_train_epochs": self.finetune_epochs,
+                       "generation_num_beams": 1,
+                       "batch_size": self.batch_size,
+                       "warmup_ratio": 0.1})
 
 
     # reset model to default state after. Be explicitly very clear about the data management. 
@@ -96,7 +110,7 @@ class T5_Base(Model):
                 fine_tune_model_aug(trainer_args=self.fine_tune_args, model=self.model, tokenizer=self.tokenizer, token_len=self.input_token_len, lr=self.lr, adam_ep=self.adam_ep,
                                 batch_size=self.batch_size, epochs=self.finetune_epochs, example_summaries=example_summaries,
                                 sentence_prefilter=self.filter_obj.nearest_neighbor_bert_summary_filtering,
-                                prefilter_len=int(2*avg_len), df=self.df, aug_dir=self.aug_dir, gamma=self.gamma, device=self.device)
+                                prefilter_len=int(2*avg_len), df=self.df, aug_path=self.aug_path, gamma=self.gamma, device=self.device, use_wandb=self.use_wandb)
             else:
                 # function in utils/model_training.py that actual does the training of the
                 fine_tune_model(trainer_args=self.fine_tune_args, model=self.model, tokenizer=self.tokenizer, token_len=self.input_token_len, lr=self.lr, adam_ep=self.adam_ep,

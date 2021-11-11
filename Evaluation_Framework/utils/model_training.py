@@ -6,6 +6,7 @@ from utils.utils import get_sentences, get_avg_example_length, set_global_loggin
 import torch.nn.functional as F
 import os
 import pandas as pd
+import wandb
 
 class SubSumEDataset(torch.utils.data.Dataset):
     def __init__(self, encodings, labels):
@@ -118,16 +119,19 @@ def fine_tune_model(trainer_args, model, tokenizer, token_len, lr, adam_ep, batc
 # currently uses Huggingfaces seq2seq trainer to train model, but there is commented out code for training with a natice pytorch loop
 # feel free to pick either. I picekd trainer because it must have built in method to stablize training that we could benefit from.
 def fine_tune_model_aug(trainer_args, model, tokenizer, token_len, lr, adam_ep, batch_size, epochs, example_summaries,
-                    sentence_prefilter, prefilter_len, df, aug_dir, gamma, device):
+                    sentence_prefilter, prefilter_len, df, aug_path, gamma, device, wandb):
     model.to(device)
+
+    if wandb:
+        wandb.watch(model)
 
     train_dataset = build_datasets(tokenizer, token_len, sentence_prefilter, prefilter_len, example_summaries, df)
 
     train_dataset_aug = {}
 
     # Build augmented dataset by dynamically looping through all files in directory
-    for i in range(len(next(os.walk(aug_dir))[2])):
-        df_aug = pd.read_csv(aug_dir + "paraphrase" + i + ".csv")
+    for i in range(len(next(os.walk(aug_path))[2])):
+        df_aug = pd.read_csv(aug_path + "paraphrase" + i + ".csv")
         train_dataset_aug[i] = build_datasets(tokenizer, token_len, sentence_prefilter, prefilter_len, example_summaries,
                                            df_aug)
 
@@ -173,6 +177,10 @@ def fine_tune_model_aug(trainer_args, model, tokenizer, token_len, lr, adam_ep, 
                 aug_total_consistency_loss += consistency_loss
 
             loss = supervised_loss + gamma * aug_total_consistency_loss
+
+            if wandb:
+                wandb.log({"loss": loss, "supervised_loss": supervised_loss, "consistency_loss": aug_total_consistency_loss})
+
             loss.backward() # TODO: check that grad doesn't propagate through to supervised examples? No_grad should work though
             optim.step()
 
