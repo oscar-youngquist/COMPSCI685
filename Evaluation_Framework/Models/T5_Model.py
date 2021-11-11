@@ -24,12 +24,10 @@ class T5_Base(Model):
     #    and pass them in accordingly from the Exp/script.
 
     # NOTE: New parameter - finetune, a command-line arg for exp script to use basic (no data augmentation or wiki-pretraining) finetuning
-    def __init__(self, data_path, shared_docs_path, num_examples, finetune=False, data_aug=False, gamma=1.0):
+    def __init__(self, data_path, shared_docs_path, num_examples, finetune=False, aug_dir="../../backtranslation/paraphrases", gamma=1.0):
         super().__init__(data_path, shared_docs_path, num_examples)
         self.df = pd.read_csv(self.data_path)
-        self.data_aug = data_aug
-        if data_aug:
-            self.df_aug = pd.read_csv(self.data_path[:-4] + "_paraphrase1.csv") # Load augmented data
+        self.aug_dir = aug_dir
         self.filter_obj = Sentence_Prefilter_Wrapper(data_path, shared_docs_path)
 
         # Download T5 every time instead of having to manually git clone
@@ -98,7 +96,7 @@ class T5_Base(Model):
                 fine_tune_model_aug(trainer_args=self.fine_tune_args, model=self.model, tokenizer=self.tokenizer, token_len=self.input_token_len, lr=self.lr, adam_ep=self.adam_ep,
                                 batch_size=self.batch_size, epochs=self.finetune_epochs, example_summaries=example_summaries,
                                 sentence_prefilter=self.filter_obj.nearest_neighbor_bert_summary_filtering,
-                                prefilter_len=int(2*avg_len), df=self.df, df_aug=self.df_aug, gamma=self.gamma, device=self.device)
+                                prefilter_len=int(2*avg_len), df=self.df, aug_dir=self.aug_dir, gamma=self.gamma, device=self.device)
             else:
                 # function in utils/model_training.py that actual does the training of the
                 fine_tune_model(trainer_args=self.fine_tune_args, model=self.model, tokenizer=self.tokenizer, token_len=self.input_token_len, lr=self.lr, adam_ep=self.adam_ep,

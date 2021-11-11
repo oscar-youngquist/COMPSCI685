@@ -4,6 +4,8 @@ from torch.utils.data import DataLoader, dataloader
 import gc
 from utils.utils import get_sentences, get_avg_example_length, set_global_logging_level
 import torch.nn.functional as F
+import os
+import pandas as pd
 
 class SubSumEDataset(torch.utils.data.Dataset):
     def __init__(self, encodings, labels):
@@ -116,12 +118,18 @@ def fine_tune_model(trainer_args, model, tokenizer, token_len, lr, adam_ep, batc
 # currently uses Huggingfaces seq2seq trainer to train model, but there is commented out code for training with a natice pytorch loop
 # feel free to pick either. I picekd trainer because it must have built in method to stablize training that we could benefit from.
 def fine_tune_model_aug(trainer_args, model, tokenizer, token_len, lr, adam_ep, batch_size, epochs, example_summaries,
-                    sentence_prefilter, prefilter_len, df, df_aug, gamma, device):
+                    sentence_prefilter, prefilter_len, df, aug_dir, gamma, device):
     model.to(device)
 
-    # Build datasets the same way but with different df of augmented sentences
     train_dataset = build_datasets(tokenizer, token_len, sentence_prefilter, prefilter_len, example_summaries, df)
-    train_dataset_aug = build_datasets(tokenizer, token_len, sentence_prefilter, prefilter_len, example_summaries, df_aug)
+
+    train_dataset_aug = {}
+
+    # Build augmented dataset by dynamically looping through all files in directory
+    for i in range(len(next(os.walk(aug_dir))[2])):
+        df_aug = pd.read_csv(aug_dir + "paraphrase" + i + ".csv")
+        train_dataset_aug[i] = build_datasets(tokenizer, token_len, sentence_prefilter, prefilter_len, example_summaries,
+                                           df_aug)
 
     # Custom dataloader that loads 1 batch of input data as well as 1 batch of augmented data
     # To do larger augmented batch size (e.g., 10 augmented sentences), simply add train_dataset_aug1, aug2, ...
@@ -148,20 +156,23 @@ def fine_tune_model_aug(trainer_args, model, tokenizer, token_len, lr, adam_ep, 
             with torch.no_grad():
                 supervised_loss = outputs['loss']
 
-            # TODO: in case of multiple augmented examples per input example, concatenate all of these to one larger batch
-            # Augmented data
-            input_ids = batch_aug['input_ids'].to(device)
-            attention_mask = batch_aug['attention_mask'].to(device)
-            labels = batch_aug['labels'].to(device)
-            outputs_aug = model(input_ids, attention_mask=attention_mask, labels=labels)
+            # TODO: change this to do one large batch, that is what UDA does
+            # Run augmented data through model multiple times
+            aug_total_consistency_loss = 0
+            for i in range(len(batch_aug)):
+                input_ids = batch_aug[i]['input_ids'].to(device)
+                attention_mask = batch_aug[i]['attention_mask'].to(device)
+                labels = batch_aug[i]['labels'].to(device)
+                outputs_aug = model(input_ids, attention_mask=attention_mask, labels=labels)
 
-            # Consistency loss: KL divergence between distribution on augmented and original input
-            input_log_probs = F.log_softmax(outputs['logits'], dim=-1)
-            aug_log_probs = F.log_softmax(outputs_aug['logits'], dim=-1)
-            consistency_loss = kl_for_log_probs(input_log_probs, aug_log_probs)
-            consistency_loss = torch.sum(consistency_loss) # UDA paper does mean, zero shot BART paper does sum
+                # Consistency loss: KL divergence between distribution on augmented and original input
+                input_log_probs = F.log_softmax(outputs['logits'], dim=-1)
+                aug_log_probs = F.log_softmax(outputs_aug['logits'], dim=-1)
+                consistency_loss = kl_for_log_probs(input_log_probs, aug_log_probs)
+                consistency_loss = torch.sum(consistency_loss) # UDA paper does mean, zero shot BART paper does sum
+                aug_total_consistency_loss += consistency_loss
 
-            loss = supervised_loss + gamma * consistency_loss
+            loss = supervised_loss + gamma * aug_total_consistency_loss
             loss.backward() # TODO: check that grad doesn't propagate through to supervised examples? No_grad should work though
             optim.step()
 

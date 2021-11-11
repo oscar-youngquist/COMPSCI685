@@ -4,10 +4,10 @@ The Evaluation Framework folder contains code (distributed across a few sub-dire
 
 The SubSumE folder contains the SubSumE dataset itself (both in the RAW and processed)
 
-To create a new environment for this project (on linux64): #
-`conda create --name 685 --file spec-file.txt `
+To create a new environment for this project: 
+`conda create --name 685 python=3.6
 
-To create an environment using pip: `pip install transformers torch nltk spacy SentencePiece scipy scikit-learn rouge_score numpy pandas matplotlib lfs`
+Install requirements using pip: `pip install transformers torch nltk spacy SentencePiece scipy scikit-learn rouge_score numpy pandas matplotlib`
 
 Then, run the following commands:
 
