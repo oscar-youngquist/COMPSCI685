@@ -22,24 +22,29 @@ from utils.UserDataReader import UserDataReader
 # import your own models here
 from Models.T5_Model import T5_Base
 
-parser = ArgumentParser(description="Experiment runner for pegasus base and fine-tuned pegasus")
-parser.add_argument('--use_wandb', action='store_true')
-parser.add_argument('--wandb_silent', action='store_true')
-parser.add_argument('--finetune', action='store_true')
-parser.add_argument('--data_aug', action='store_true')
-parser.add_argument('--gamma', type=float, default=1.0)
-parser.add_argument('--num_trials', type=int, default=10)
-parser.add_argument('--num_examples', type=int, default=5)
-parser.add_argument('--num_test', type=int, default=3)
+parser = ArgumentParser(description="Experiment runner for t5 base and fine-tuned t5")
+parser.add_argument('--use_wandb', action='store_true') # Use weights and biases to track hyperparameters and training runs
+parser.add_argument('--wandb_silent', action='store_true') # Wandb silent mode, does not output any text about project run/syncing
+parser.add_argument('--verbose', action='store_false') # Print every predicted example (on by default, for long runs it should be turned off to clean up output)
+parser.add_argument('--finetune', action='store_true') # Fine tune model (as opposed to frozen model)
+parser.add_argument('--data_aug', action='store_true') # Use data augmentation (UDA)
+parser.add_argument('--num_aug', type=int, default=10) # Number of augmented examples per training example (max of 10 currently)
+parser.add_argument('--gamma', type=float, default=1.0) # Data augmentation: coefficient for multiplying consistency loss (UDA uses 1)
+parser.add_argument('--num_trials', type=int, default=10) # Number of complete prediction runs through all user examples (use 1 for hyperparameter tuning)
+parser.add_argument('--num_examples', type=int, default=5) # Number of user-summaries used as examples
+parser.add_argument('--num_test', type=int, default=3) # Number of user-summaries used for testing
+parser.add_argument('--max_range', type=int, default=138) # Number of users, max of 138 (use 20 for hyperparameter tuning)
 args = parser.parse_args()
 
 config = Namespace()
 config.use_wandb = args.use_wandb
+config.verbose = args.verbose
 config.finetune = args.finetune
 config.data_aug = args.data_aug
+config.num_aug = args.num_aug
 config.gamma = args.gamma
 
-# variables for experiment
+# experiment configuration
 config.num_examples = args.num_examples     # number of user-summaries used as examples
 config.num_test = args.num_test     # number of user-summaries used for testing
 config.shared_docs_path = os.path.join(Path(__file__).parent.parent.parent, "SubSumE_Data") # path to shared documents in dataset
@@ -47,7 +52,7 @@ config.aug_path = os.path.join(Path(__file__).parent.parent.parent, *["backtrans
 config.data_path = os.path.join(config.shared_docs_path, "processed_state_sentences.csv")      # path to the processed sentences csv
 config.users_path = os.path.join(config.shared_docs_path, "train")     # path to the misc. shared data (might not be needed anymore)
 config.min_range = 0    # these min/max values are left-over from multi-processing experiments in which we would create n SuDocu models and then have each process (# of total user-summary instances)/n users. Thus we needed a min/max for the files to be read into memory by each model
-config.max_range = 138
+config.max_range = args.max_range
 config.num_trials = args.num_trials     # number of times to evaluate all the examples
 config.exp_folder = ""      # results folder for this experimental run, only used if running a) more than one model or b) the same model more than once
                                 # model_name folder is added as a sub-folder to this one
@@ -114,11 +119,8 @@ exp_runner = ExperimentRunner(config.num_examples, config.num_test, config.users
 
 # create the model(s) you are going to evaluate
 #     data_path, shared_docs_path, num_examples
-pegasus_model = T5_Base(config.data_path, config.shared_docs_path, config.num_examples, config.finetune, config.data_aug, config.aug_path, config.gamma, use_wandb=config.use_wandb)
-# if finetune:
-#     pegasus_model = T5_Base(data_path, shared_docs_path, num_examples, finetune=True)
-# else:
-#     pegasus_model = T5_Base(data_path, shared_docs_path, num_examples)
+model = T5_Base(config.data_path, config.shared_docs_path, config.num_examples, config.finetune,
+                config.data_aug, config.aug_path, config.gamma, use_wandb=config.use_wandb, verbose=config.verbose, num_aug=config.num_aug)
 
 # perform the actual experiment
 #   Could loop over several models/params. In Models, can 
@@ -126,7 +128,7 @@ pegasus_model = T5_Base(config.data_path, config.shared_docs_path, config.num_ex
 #   as needed.                                                                   
 #
 #     model, num_trials, save_results (print results to log file), model_name, exp_folder=None, multi_processing=True // artifcact, huggingface API does not allow for multi-processing
-exp_runner.get_model_analysis(pegasus_model, config.num_trials, True, config.model_name, multi_processing=False, use_wandb=config.use_wandb)
+exp_runner.get_model_analysis(model, config.num_trials, True, config.model_name, multi_processing=False, use_wandb=config.use_wandb)
 
 if config.use_wandb:
     wandb.finish()

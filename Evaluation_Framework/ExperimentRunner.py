@@ -37,7 +37,7 @@ class ExperimentRunner:
         # list containing the range of examples to split into examples/test data
         self.ex_range = [i for i in range(0, (num_examples+num_test))]
 
-        self.use_wandb = wandb # Allow user to turn on or off wandb logging
+        self.use_wandb = use_wandb # Allow user to turn on or off wandb logging
 
 
     ###

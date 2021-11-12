@@ -25,12 +25,14 @@ class T5_Base(Model):
     #    and pass them in accordingly from the Exp/script.
 
     # NOTE: New parameter - finetune, a command-line arg for exp script to use basic (no data augmentation or wiki-pretraining) finetuning
-    def __init__(self, data_path, shared_docs_path, num_examples, finetune=False, data_aug=False, aug_path="", gamma=1.0, use_wandb=False):
+    def __init__(self, data_path, shared_docs_path, num_examples, finetune=False, data_aug=False, aug_path="", gamma=1.0, use_wandb=False, verbose=True, num_aug=None):
         super().__init__(data_path, shared_docs_path, num_examples)
+        self.verbose = verbose
         self.use_wandb = use_wandb
         self.df = pd.read_csv(self.data_path)
         self.data_aug = data_aug
         self.aug_path = aug_path
+        self.num_aug = num_aug
         self.filter_obj = Sentence_Prefilter_Wrapper(data_path, shared_docs_path)
 
         # Download T5 every time instead of having to manually git clone
@@ -110,7 +112,7 @@ class T5_Base(Model):
                 fine_tune_model_aug(trainer_args=self.fine_tune_args, model=self.model, tokenizer=self.tokenizer, token_len=self.input_token_len, lr=self.lr, adam_ep=self.adam_ep,
                                 batch_size=self.batch_size, epochs=self.finetune_epochs, example_summaries=example_summaries,
                                 sentence_prefilter=self.filter_obj.nearest_neighbor_bert_summary_filtering,
-                                prefilter_len=int(2*avg_len), df=self.df, aug_path=self.aug_path, gamma=self.gamma, device=self.device, use_wandb=self.use_wandb)
+                                prefilter_len=int(2*avg_len), df=self.df, aug_path=self.aug_path, gamma=self.gamma, device=self.device, use_wandb=self.use_wandb, num_aug=self.num_aug)
             else:
                 # function in utils/model_training.py that actual does the training of the
                 fine_tune_model(trainer_args=self.fine_tune_args, model=self.model, tokenizer=self.tokenizer, token_len=self.input_token_len, lr=self.lr, adam_ep=self.adam_ep,
@@ -130,7 +132,6 @@ class T5_Base(Model):
         del summaries
         del output
 
-        print(avg_token_len)
         
         
         # use SBERT to get the most similar sentences to the target document: 2* the average length of the example summaries
@@ -153,7 +154,9 @@ class T5_Base(Model):
         torch.cuda.empty_cache()  
 
         prediction = " ".join(sentences)
-        print(prediction)
-        print(f"FINISHED PREDICTION {self.p_num}")
+        if self.verbose:
+            print("avg token len: ", avg_token_len)
+            print(prediction)
+            print(f"FINISHED PREDICTION {self.p_num}")
         self.p_num += 1
         return prediction
