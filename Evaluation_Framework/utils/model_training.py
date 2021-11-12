@@ -119,7 +119,7 @@ def fine_tune_model(trainer_args, model, tokenizer, token_len, lr, adam_ep, batc
 # currently uses Huggingfaces seq2seq trainer to train model, but there is commented out code for training with a natice pytorch loop
 # feel free to pick either. I picekd trainer because it must have built in method to stablize training that we could benefit from.
 def fine_tune_model_aug(trainer_args, model, tokenizer, token_len, lr, adam_ep, batch_size, epochs, example_summaries,
-                    sentence_prefilter, prefilter_len, df, aug_path, gamma, device, wandb):
+                    sentence_prefilter, prefilter_len, df, aug_path, gamma, device, wandb, num_aug=None):
     model.to(device)
 
     if wandb:
@@ -129,8 +129,10 @@ def fine_tune_model_aug(trainer_args, model, tokenizer, token_len, lr, adam_ep, 
 
     train_dataset_aug = {}
 
+    if num_aug is None:
+        num_aug = len(next(os.walk(aug_path))[2])
     # Build augmented dataset by dynamically looping through all files in directory
-    for i in range(len(next(os.walk(aug_path))[2])):
+    for i in range(num_aug):
         df_aug = pd.read_csv(aug_path + "paraphrase" + i + ".csv")
         train_dataset_aug[i] = build_datasets(tokenizer, token_len, sentence_prefilter, prefilter_len, example_summaries,
                                            df_aug)
