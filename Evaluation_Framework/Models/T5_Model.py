@@ -25,7 +25,7 @@ class T5_Base(Model):
     #    and pass them in accordingly from the Exp/script.
 
     # NOTE: New parameter - finetune, a command-line arg for exp script to use basic (no data augmentation or wiki-pretraining) finetuning
-    def __init__(self, data_path, shared_docs_path, num_examples, finetune=False, data_aug=False, aug_path="", gamma=1.0, use_wandb=False, verbose=True, num_aug=None):
+    def __init__(self, data_path, shared_docs_path, num_examples, finetune=False, data_aug=False, aug_path="", gamma=1.0, use_wandb=False, verbose=False, num_aug=None):
         super().__init__(data_path, shared_docs_path, num_examples)
         self.verbose = verbose
         self.use_wandb = use_wandb
