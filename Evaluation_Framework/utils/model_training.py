@@ -131,15 +131,15 @@ def fine_tune_model_aug(trainer_args, model, tokenizer, token_len, lr, adam_ep, 
 
     train_dataset = build_datasets(tokenizer, token_len, sentence_prefilter, prefilter_len, example_summaries, df)
 
-    train_dataset_aug = {}
+    train_dataset_aug = []
 
     if num_aug is None:
         num_aug = len(next(os.walk(aug_path))[2])
     # Build augmented dataset by dynamically looping through all files in directory
     for i in range(num_aug):
         df_aug = pd.read_csv(os.path.join(aug_path, f"paraphrase{i}.csv"))
-        train_dataset_aug[i] = build_datasets(tokenizer, token_len, sentence_prefilter, prefilter_len, example_summaries,
-                                           df_aug)
+        train_dataset_aug.append(build_datasets(tokenizer, token_len, sentence_prefilter, prefilter_len, example_summaries,
+                                           df_aug))
 
     # Custom dataloader that loads 1 batch of input data as well as 1 batch of augmented data
     # To do larger augmented batch size (e.g., 10 augmented sentences), simply add train_dataset_aug1, aug2, ...
@@ -147,13 +147,15 @@ def fine_tune_model_aug(trainer_args, model, tokenizer, token_len, lr, adam_ep, 
     train_loader_aug = torch.utils.data.DataLoader(
              AugmentedDataset(
                  train_dataset,
-                 train_dataset_aug
+                 *train_dataset_aug
              ),
              batch_size=batch_size, shuffle=True)
     optim = AdamW(model.parameters(), lr=lr, eps=adam_ep) #1e-8
 
     for epoch in range(epochs):
-        for (batch, batch_aug) in train_loader_aug:
+        for combined_batch in train_loader_aug:
+            batch = combined_batch[0]
+            batch_aug = combined_batch[1:]
             optim.zero_grad()
 
             # Input data
@@ -170,6 +172,7 @@ def fine_tune_model_aug(trainer_args, model, tokenizer, token_len, lr, adam_ep, 
             # Run augmented data through model multiple times
             aug_total_consistency_loss = 0
             for i in range(len(batch_aug)):
+                import pdb; pdb.set_trace()
                 input_ids = batch_aug[i]['input_ids'].to(device)
                 attention_mask = batch_aug[i]['attention_mask'].to(device)
                 labels = batch_aug[i]['labels'].to(device)

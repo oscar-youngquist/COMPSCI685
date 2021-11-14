@@ -68,7 +68,7 @@ wandb.init(
     # ex: entity="carey",
     # Set the project where this run will be logged
     project="685",
-    entity="etower",
+    entity="adamrivelli",
     config=config,
     mode="online" if config.use_wandb else "disabled"
 )
