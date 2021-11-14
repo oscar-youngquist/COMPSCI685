@@ -123,10 +123,10 @@ def fine_tune_model(trainer_args, model, tokenizer, token_len, lr, adam_ep, batc
 # currently uses Huggingfaces seq2seq trainer to train model, but there is commented out code for training with a natice pytorch loop
 # feel free to pick either. I picekd trainer because it must have built in method to stablize training that we could benefit from.
 def fine_tune_model_aug(trainer_args, model, tokenizer, token_len, lr, adam_ep, batch_size, epochs, example_summaries,
-                    sentence_prefilter, prefilter_len, df, aug_path, gamma, device, wandb, num_aug=None):
+                    sentence_prefilter, prefilter_len, df, aug_path, gamma, device, use_wandb, num_aug=None):
     model.to(device)
 
-    if wandb:
+    if use_wandb:
         wandb.watch(model)
 
     train_dataset = build_datasets(tokenizer, token_len, sentence_prefilter, prefilter_len, example_summaries, df)
@@ -184,7 +184,7 @@ def fine_tune_model_aug(trainer_args, model, tokenizer, token_len, lr, adam_ep, 
 
             loss = supervised_loss + gamma * aug_total_consistency_loss
 
-            if wandb:
+            if use_wandb:
                 wandb.log({"loss": loss, "supervised_loss": supervised_loss, "consistency_loss": aug_total_consistency_loss})
 
             loss.backward() # TODO: check that grad doesn't propagate through to supervised examples? No_grad should work though

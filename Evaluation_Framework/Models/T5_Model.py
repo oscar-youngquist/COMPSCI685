@@ -112,7 +112,7 @@ class T5_Base(Model):
                 fine_tune_model_aug(trainer_args=self.fine_tune_args, model=self.model, tokenizer=self.tokenizer, token_len=self.input_token_len, lr=self.lr, adam_ep=self.adam_ep,
                                 batch_size=self.batch_size, epochs=self.finetune_epochs, example_summaries=example_summaries,
                                 sentence_prefilter=self.filter_obj.nearest_neighbor_bert_summary_filtering,
-                                prefilter_len=int(2*avg_len), df=self.df, aug_path=self.aug_path, gamma=self.gamma, device=self.device, wandb=self.use_wandb, num_aug=self.num_aug)
+                                prefilter_len=int(2*avg_len), df=self.df, aug_path=self.aug_path, gamma=self.gamma, device=self.device, use_wandb=self.use_wandb, num_aug=self.num_aug)
             else:
                 # function in utils/model_training.py that actual does the training of the
                 fine_tune_model(trainer_args=self.fine_tune_args, model=self.model, tokenizer=self.tokenizer, token_len=self.input_token_len, lr=self.lr, adam_ep=self.adam_ep,
