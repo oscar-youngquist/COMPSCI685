@@ -137,7 +137,7 @@ def fine_tune_model_aug(trainer_args, model, tokenizer, token_len, lr, adam_ep, 
         num_aug = len(next(os.walk(aug_path))[2])
     # Build augmented dataset by dynamically looping through all files in directory
     for i in range(num_aug):
-        df_aug = pd.read_csv(aug_path + "paraphrase" + i + ".csv")
+        df_aug = pd.read_csv(os.path.join(aug_path, f"paraphrase{i}.csv"))
         train_dataset_aug[i] = build_datasets(tokenizer, token_len, sentence_prefilter, prefilter_len, example_summaries,
                                            df_aug)
 
