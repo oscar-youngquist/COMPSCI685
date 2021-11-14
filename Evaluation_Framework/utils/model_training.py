@@ -172,7 +172,6 @@ def fine_tune_model_aug(trainer_args, model, tokenizer, token_len, lr, adam_ep, 
             # Run augmented data through model multiple times
             aug_total_consistency_loss = 0
             for i in range(len(batch_aug)):
-                import pdb; pdb.set_trace()
                 input_ids = batch_aug[i]['input_ids'].to(device)
                 attention_mask = batch_aug[i]['attention_mask'].to(device)
                 labels = batch_aug[i]['labels'].to(device)
