@@ -56,7 +56,11 @@ def build_datasets(tokenizer, token_len, sentence_prefilter, prefilter_len, exam
             texts.append(trimmed_document)
             # print(trimmed_document)
 
-        summaries = [" ".join(summary['sentences']) for summary in example_summaries]
+        summaries = [get_sentences(
+            summary['sentence_ids'],
+            summary['state_name'],
+            df
+        ) for summary in example_summaries]
 
         texts = tokenize_batch(tokenizer, token_len, texts)
         summaries = tokenize_batch(tokenizer, token_len, summaries, output=True)
