@@ -59,7 +59,7 @@ class ExperimentRunner:
         scores = self.eval_scorer.compareScore(predicted_summary, gt_summary)
 
         # ~ 10% chance of being saved off
-        if save_prob < 0.1:
+        if save_prob < 0.5:
             with open(join(output_file_path, "txts/", "ex_{}_pool_{}_trial_{}_summaries.txt".format(ex_num, pool_num, trial_num)), "w") as outfile:
                     outfile.write("Document:\n")
                     outfile.write(target_doc)

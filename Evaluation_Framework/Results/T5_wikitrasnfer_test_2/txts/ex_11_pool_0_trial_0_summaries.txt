@@ -1,0 +1,15 @@
+Document:
+new_mexico
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+population is estimated at a total of 121,900 sq m (314,900 sq km2) in the state of New Mexico . New Mexico is the third largest state by population, with a total population of 121,900 sq m (100 sq km2) . New Mexico is the third largest state in the world, with a population of 121,900 sq m (3,500 sq m) . New Mexico is a state with a population of 121,590 sq m,
+
+GT:
+New Mexico's statewide average precipitation is 12.9 inches (330 mm) a year, with average monthly amounts peaking in the summer, as at Albuquerque, and Las Cruces in the south. The average annual temperatures can range from 65 °F (18 °C) in the southeast to below 40 °F (4 °C) in the northern mountains. During the summer, daytime temperatures can often exceed 100 °F (38 °C) at elevations below 5,000 feet (1,500 m), the average high temperature in July ranges from 99 °F (37 °C) at the lower elevations down to 78 °F (26 °C) at the higher elevations. In the colder months of November to March, many cities in New Mexico can have nighttime temperature lows in the teens above zero, or lower. The highest temperature recorded in New Mexico was 122 °F (50 °C) at the Waste Isolation Pilot Plant (WIPP) near Loving on June 27, 1994, and the lowest recorded temperature is −50 °F (−46 °C) at Gavilan (near Lindrith) on February 1, 1951. Astronomical observatories in New Mexico take advantage of unusually clear skies, including the Apache Point Observatory, the Very Large Array, the Magdalena Ridge Observatory, and others.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12244897959183673, 0.3116883116883117, 0.1758241758241758, 0.10989010989010989]
+[0.03076923076923077, 0.07894736842105263, 0.04428044280442805, 0.027675276752767528]
+[0.08163265306122448, 0.2077922077922078, 0.11721611721611722, 0.07326007326007326]

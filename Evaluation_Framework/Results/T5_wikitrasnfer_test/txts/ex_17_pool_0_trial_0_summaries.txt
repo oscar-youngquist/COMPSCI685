@@ -1,0 +1,15 @@
+Document:
+kansas
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+the Kansas Act, which was introduced in 1861, was a 'free state' . the state of Kansas is the 34th most-populated state in the nation . the state is a native of the kansa and is a 'free state' .
+
+GT:
+The US Army Reserve also has the 451st Expeditionary Sustainment Command headquartered in Wichita that serves reservists and their units from around the region. Manhattan Regional Airport in Manhattan offers daily flights to Dallas/Fort Worth International Airport and Chicago's O'Hare International Airport, making it the second-largest commercial airport in the state. Sporting Kansas City, who have played their home games at Village West in Kansas City, since 2008, are the first top-tier professional sports league and first Major League Soccer team to be located within Kansas. In 2011 the team moved to their new home, a $165m soccer specific stadium now known as Children's Mercy Park. The Kansas Speedway located in Kansas City hosts races of the NASCAR, IndyCar, and ARCA circuits. Also, the National Hot Rod Association (NHRA) holds drag racing events at Heartland Park Topeka. While there are no franchises of the four major professional sports within the state, many Kansans are fans of the state's major college sports teams, especially the Jayhawks of the University of Kansas (KU), and the Wildcats of Kansas State University (KSU or "K-State"). Both KU and K-State have tradition-rich programs in men's basketball.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10396039603960396, 0.5526315789473685, 0.17500000000000002, 0.10937500000000001]
+[0.03482587064676617, 0.1891891891891892, 0.05882352941176471, 0.03676470588235294]
+[0.07920792079207921, 0.42105263157894735, 0.13333333333333333, 0.08333333333333334]

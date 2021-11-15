@@ -14,13 +14,13 @@ def get_avg_example_length(example_summaries, df):
         # get the example currently being processed
         ex = example_summaries[i]
 
-        sentence_ids = [int(s) for s in ex["sentence_ids"]]
+        sentences = ex["sentences"]
 
         # keep track of the lengths of the example summaries
-        avg_sentence_len += float(len(sentence_ids))
+        avg_sentence_len += float(len(sentences))
 
-        for s_id in sentence_ids:
-            sentence = df[df['sid'] == s_id]['sentence'].to_numpy()[0]
+        for sentence in sentences:
+            # sentence = df[df['sid'] == s_id]['sentence'].to_numpy()[0]
             avg_word_len += len(word_tokenize(sentence))
 
     # get the min and max of every topic from across all the summaries

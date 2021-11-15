@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# very large sub-directory for wiki-transfer data 
+Wiki_Dump/ProcessedArticles/
+Evaluation_Framework/Exp_Scipts/t5_trainer_wiki/
+
+
 # C extensions
 *.so
 

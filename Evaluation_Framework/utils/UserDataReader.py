@@ -8,7 +8,7 @@ import numpy as np
 import re
 
 class UserDataReader:
-    def __init__(self,folder_path,data_csv_path, min_range, max_range):
+    def __init__(self,folder_path, data_csv_path, min_range, max_range):
         self.path = folder_path
         self.userdata_json = self.read_all_userdata(self.path, min_range, max_range)
         self.df = pd.read_csv(data_csv_path)
