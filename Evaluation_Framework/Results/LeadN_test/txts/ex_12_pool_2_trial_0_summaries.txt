@@ -1,0 +1,18 @@
+Document:
+georgia
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Georgia () is a state in the Deep South region of the Southern United States, bordered to the north by Tennessee and North Carolina; to the northeast by South Carolina; to the southeast by the Atlantic Ocean; to the south by Florida; and to the west by Alabama. Georgia is the 24th-largest in area and 8th-most populous of the 50 United States. Its 2019 estimated population was 10,617,423, according to the US Census Bureau. Atlanta, a "beta(+)" global city, is both the state's capital and its largest city. The Atlanta metropolitan area, with an estimated population of more than 6 million people in 2019, is the 9th most populous metropolitan area in the United States and contains about 57% of Georgia's entire population. Founded in 1733 as a British colony, Georgia was the last and southernmost of the original Thirteen Colonies to be established. Named after King George II of Great Britain, the Colony of Georgia covered the area from South Carolina south to Spanish Florida and west to French Louisiana at the Mississippi River. On January 2, 1788, Georgia became the fourth state to ratify the United States Constitution. From 1802 to 1804, western Georgia was split to form the Mississippi Territory, which later was admitted as the US states of Alabama and Mississippi. Georgia declared its secession from the Union on January 19, 1861, and was one of the original seven Confederate States.
+
+GT:
+Atlanta now is even called the "Hollywood of the South". In the Atlanta area, World of Coke, Georgia Aquarium, Zoo Atlanta and Stone Mountain are important tourist attractions. Stone Mountain is Georgia's "most popular attraction"; receiving more than four million tourists per year. The Georgia Aquarium, in Atlanta, was the largest aquarium in the world in 2010 according to Guinness World Records. Callaway Gardens, in western Georgia, is a family resort. The area is also popular with golfers. The Savannah Historic District attracts more than eleven million tourists each year. The Golden Isles is a string of barrier islands off the Atlantic coast of Georgia near Brunswick that includes beaches, golf courses and the Cumberland Island National Seashore. Several sites honor the lives and careers of noted American leaders: the Little White House in Warm Springs, which served as the summer residence of President Franklin Delano Roosevelt while he was being treated for polio; President Jimmy Carter's hometown of Plains and the Carter Presidential Center in Atlanta; the Martin Luther King Jr. National Historical Park in Atlanta, which is the final resting place of Martin Luther King Jr. and Coretta Scott King; and Atlanta's Ebenezer Baptist Church, where Dr. King preached.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3431372549019608, 0.2916666666666667, 0.31531531531531537, 0.1970720720720721]
+[0.08374384236453201, 0.07112970711297072, 0.07692307692307691, 0.04807692307692308]
+[0.20098039215686275, 0.17083333333333334, 0.18468468468468469, 0.11542792792792793]
+
+
+SBERT sim. Score: 0.4632236659526825

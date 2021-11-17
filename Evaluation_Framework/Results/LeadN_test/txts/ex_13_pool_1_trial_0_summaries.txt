@@ -1,0 +1,18 @@
+Document:
+north_dakota
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+North Dakota ( (listen)) is a state in the Midwestern United States. It is named after the Lakota and Dakota Sioux Native American tribes, who comprise a large portion of the population and historically dominated the territory. It is the nineteenth largest in area, the fourth least populous, and the fourth most sparsely populated of the 50 states. Its capital is Bismarck, and its largest city is Fargo. North Dakota was admitted to the Union on November 2, 1889, along with its neighboring state, South Dakota. They were the 39th and 40th states admitted to the union. President Benjamin Harrison shuffled the statehood papers before signing them so that no one could tell which became a state first. For convenience, the two states are officially numbered in alphabetical order.
+
+GT:
+The state has 11 public colleges and universities, five tribal community colleges, and four private schools. The largest institutions are North Dakota State University and the University of North Dakota. The higher education system consists of the following institutions: North Dakota University System (public institutions): Tribal institutions: Private institutions:
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3877551020408163, 0.1484375, 0.21468926553672316, 0.134180790960452]
+[0.08333333333333333, 0.031496062992125984, 0.045714285714285714, 0.028571428571428567]
+[0.2653061224489796, 0.1015625, 0.14689265536723164, 0.09180790960451977]
+
+
+SBERT sim. Score: 0.5335432291030884

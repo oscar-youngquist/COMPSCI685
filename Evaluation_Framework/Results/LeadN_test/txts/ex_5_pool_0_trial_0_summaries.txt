@@ -1,0 +1,18 @@
+Document:
+south_carolina
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+South Carolina ( (listen)) is a state in the Deep South region of the Southern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia across the Savannah River. South Carolina is the 40th most extensive and 23rd most populous US state. In 2019 its GDP was $249.9 billion. South Carolina is composed of 46 counties. The capital is Columbia with a population of 133,451 in 2018; while its largest city is Charleston with a 2018 population of 136,208. The Greenville–Anderson–Mauldin metropolitan area is the largest in the state, with a 2018 population estimate of 906,626.
+
+GT:
+As of 2010, South Carolina is one of three states that have not agreed to use competitive international math and language standards. In 2014, the South Carolina Supreme Court ruled the state had failed to provide a "minimally adequate" education to children in all parts of the state as required by the state's constitution. South Carolina has 1,144 K–12 schools in 85 school districts with an enrollment of 712,244 as of fall 2009. As of the 2008–2009 school year, South Carolina spent $9,450 per student which places it 31st in the country for per student spending. In 2015, the national average SAT score was 1490 and the South Carolina average was 1442, 48 points lower than the national average. South Carolina is the only state which owns and operates a statewide school bus system. South Carolina has diverse institutions from large state-funded research universities to small colleges that cultivate a liberal arts, religious or military tradition.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2822085889570552, 0.4, 0.33093525179856115, 0.20683453237410068]
+[0.06172839506172839, 0.08771929824561403, 0.07246376811594203, 0.04528985507246376]
+[0.1656441717791411, 0.23478260869565218, 0.19424460431654675, 0.12140287769784171]
+
+
+SBERT sim. Score: 0.612472414970398

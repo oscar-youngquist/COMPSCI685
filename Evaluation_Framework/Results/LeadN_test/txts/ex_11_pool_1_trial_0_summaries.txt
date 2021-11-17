@@ -1,0 +1,18 @@
+Document:
+florida
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Florida ( (listen), Spanish pronunciation: [floˈɾiða]) is a state located in the southeastern region of the United States. With a population of over 21 million, Florida is the third-most populous and the 22nd-most extensive of the 50 United States. The state is bordered to the west by the Gulf of Mexico, to the northwest by Alabama, to the north by Georgia, to the east by the Atlantic Ocean, and to the south by the Straits of Florida. The state's capital is Tallahassee and its most populous municipality is Jacksonville. The Miami metropolitan area, with a population of almost 6.2 million, is the most populous urban area in Florida and the seventh-most populous in the United States. Other urban areas in the state with a population of more than one million are Tampa Bay, Orlando, and Jacksonville. Florida's $1.0 trillion economy is the fourth-largest of any US state, and if it were a country, Florida would be the 16th-largest economy in the world. The first European contact was made in 1513 by Spanish explorer Juan Ponce de León, who called it la Florida ([la floˈɾiða] "the land of flowers") upon landing there. At various points in its colonial history, Florida was administered by Spain and Great Britain.
+
+GT:
+The climate of Florida is tempered somewhat by the fact that no part of the state is distant from the ocean. With an average daily temperature of 70.7 °F (21.5 °C), it is the warmest state in the US In the summer, high temperatures in the state rarely exceed 100 °F (37.8 °C). Due to its subtropical and tropical climate, Florida rarely receives measurable snowfall. Florida's nickname is the "Sunshine State", but severe weather is a common occurrence in the state. Florida has one of the highest average precipitation levels of any state, in large part because afternoon thunderstorms are common in much of the state from late spring until early autumn. A narrow eastern part of the state including Orlando and Jacksonville receives between 2,400 and 2,800 hours of sunshine annually. Florida leads the United States in tornadoes per area (when including waterspouts), but they do not typically reach the intensity of those in the Midwest and Great Plains. Hurricanes pose a severe threat each year from June 1 to November 30, particularly from August to October. Florida is the most hurricane-prone state, with subtropical or tropical water on a lengthy coastline. In 1992, Florida was the site of what was then the costliest weather disaster in US history, Hurricane Andrew, which caused more than $25 billion in damages when it struck during August; it held that distinction until 2005, when Hurricane Katrina surpassed it, and it has since been surpassed by six other hurricanes.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3794466403162055, 0.4383561643835616, 0.4067796610169491, 0.2542372881355932]
+[0.1111111111111111, 0.12844036697247707, 0.11914893617021276, 0.07446808510638298]
+[0.18972332015810275, 0.2191780821917808, 0.20338983050847456, 0.1271186440677966]
+
+
+SBERT sim. Score: 0.5834403038024902

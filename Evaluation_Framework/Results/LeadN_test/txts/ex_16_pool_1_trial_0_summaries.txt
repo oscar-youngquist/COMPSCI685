@@ -1,0 +1,18 @@
+Document:
+utah
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Utah ( YOO-tah, (listen) YOO-taw) is a state in the Western United States. It is bordered by Colorado to the east, Wyoming to the northeast, Idaho to the north, Arizona to the south and Nevada to the west. It also touches a corner of New Mexico in the southeast. Of the fifty US states, Utah is the 13th-largest by area; with a population over three million, it is the 30th-most-populous and 11th-least-densely populated. Urban development is mostly concentrated in two areas: the Wasatch Front in the north-central part of the state, which is home to roughly two-thirds of the population and includes the capital city, Salt Lake City; and Washington County in the south, with more than 170,000 residents. Most of the western half of Utah lies in the Great Basin. The territory of modern Utah has been inhabited by various indigenous groups for thousands of years, including the ancient Puebloans, the Navajo and the Ute. The Spanish were the first Europeans to arrive in the mid-16th century, though the region's difficult geography and climate made it a peripheral part of New Spain and later Mexico. Even while it was part of Mexico, many of Utah's earliest settlers were American, particularly Mormons fleeing marginalization and persecution from the United States. Following the Mexican–American War, it became part of the Utah Territory, which included what is now Colorado and Nevada. Disputes between the dominant Mormon community and the federal government delayed Utah's admission as a state; only after the outlawing of polygamy was it admitted as the 45th, in 1896. A little more than half of all Utahns are Mormons, the vast majority of whom are members of the Church of Jesus Christ of Latter-day Saints (LDS Church), which has its world headquarters in Salt Lake City.
+
+GT:
+A group led by two Catholic priests—sometimes called the Domínguez–Escalante expedition—left Santa Fe in 1776, hoping to find a route to the coast of California. In 1821, the year Mexico achieved its independence from Spain, the region became known as part of its territory of Alta California. In late 1824, Jim Bridger became the first known English-speaking person to sight the Great Salt Lake. Following the death of Joseph Smith in 1844, Brigham Young, as president of the Quorum of the Twelve, became the effective leader of the LDS Church in Nauvoo, Illinois. To address the growing conflicts between his people and their neighbors, Young agreed with Illinois Governor Thomas Ford in October 1845 that the Mormons would leave by the following year. Young and the first band of Mormon pioneers reached the Salt Lake Valley on July 24, 1847. Utah was Mexican territory when the first pioneers arrived in 1847. In September 1857, about 120 American settlers of the Baker–Fancher wagon train, en route to California from Arkansas, were murdered by Utah Territorial Militia and some Paiute Native Americans in the Mountain Meadows massacre. On May 10, 1869, the First Transcontinental Railroad was completed at Promontory Summit, north of the Great Salt Lake. During the 1870s and 1880s laws were passed to punish polygamists due, in part, to stories from Utah.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.4298245614035088, 0.31511254019292606, 0.36363636363636365, 0.2272727272727273]
+[0.08370044052863436, 0.06129032258064516, 0.07076350093109869, 0.04422718808193668]
+[0.21052631578947367, 0.15434083601286175, 0.17810760667903527, 0.11131725417439703]
+
+
+SBERT sim. Score: 0.6203727722167969

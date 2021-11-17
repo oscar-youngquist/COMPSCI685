@@ -1,0 +1,18 @@
+Document:
+indiana
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Indiana ( (listen)) is a US state in the Midwestern and Great Lakes regions of North America. It is the 38th-largest by area and the 17th-most populous of the 50 United States. Its capital and largest city is Indianapolis. Indiana was admitted to the United States as the 19th state on December 11, 1816. It borders Lake Michigan to the northwest, Michigan to the north, Ohio to the east, the Ohio River and Kentucky to the south and southeast, and the Wabash River and Illinois to the west. Before becoming a territory, various indigenous peoples inhabited Indiana for thousands of years. Since its founding as a territory, settlement patterns in Indiana have reflected regional cultural segmentation present in the Eastern United States; the state's northernmost tier was settled primarily by people from New England and New York, Central Indiana by migrants from the Mid-Atlantic states and adjacent Ohio, and Southern Indiana by settlers from the Southern states, particularly Kentucky and Tennessee. Indiana has a diverse economy with a gross state product of $359.12 billion in 2017. It has several metropolitan areas with populations greater than 100,000 and a number of smaller industrial cities and towns. Indiana is home to professional sports teams, including the NFL's Indianapolis Colts and the NBA's Indiana Pacers, and hosts several notable competitive events, including the Indianapolis 500. Indiana's name means "Land of the Indians", or simply "Indian Land". It also stems from Indiana's territorial history. On May 7, 1800, the United States Congress passed legislation to divide the Northwest Territory into two areas and named the western section the Indiana Territory.
+
+GT:
+The highest point in the state is Hoosier Hill in Wayne County at 1,257 feet (383 m) above sea level. The lowest point at 320 feet (98 m) above sea level is in Posey County, where the Wabash River meets the Ohio River. The state includes two natural regions of the United States: the Central Lowlands and the Interior Low Plateaus. Major river systems in Indiana include the Whitewater, White, Blue, Wabash, St. Joseph, and Maumee rivers. The Wabash River, which is the longest free-flowing river east of the Mississippi River, is the official river of Indiana. Indianapolis is the capital of Indiana and its largest city. Indiana's four largest metropolitan areas are Indianapolis, Fort Wayne, Evansville, and South Bend. Indianapolis hosts the Indianapolis 500 mile race over Memorial Day weekend at the Indianapolis Motor Speedway every May. The name of the race is usually shortened to "Indy 500" and also goes by the nickname "The Greatest Spectacle in Racing". The track also hosts the Brickyard 400 (NASCAR) and the Red Bull Indianapolis Grand Prix. From 2000 to 2007, it hosted the United States Grand Prix (Formula One). Indiana features the world's largest and most prestigious drag race, the NHRA Mac Tools US Nationals, held each Labor Day weekend at Lucas Oil Raceway at Indianapolis in Clermont, Indiana. Indiana is also host to a major unlimited hydroplane racing power boat race circuits in the major H1 Unlimited league, the Madison Regatta (Madison, Indiana).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.38866396761133604, 0.3490909090909091, 0.36781609195402304, 0.2298850574712644]
+[0.10569105691056911, 0.0948905109489051, 0.09999999999999999, 0.06249999999999999]
+[0.19838056680161945, 0.1781818181818182, 0.1877394636015326, 0.11733716475095786]
+
+
+SBERT sim. Score: 1.0

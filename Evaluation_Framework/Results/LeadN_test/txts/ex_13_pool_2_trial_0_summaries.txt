@@ -1,0 +1,18 @@
+Document:
+nevada
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Nevada (, Spanish: [neˈβaða]) is a state in the Western United States. It is bordered by Oregon to the northwest, Idaho to the northeast, California to the west, Arizona to the southeast, and Utah to the east. Nevada is the 7th-most extensive, the 19th-least populous, but the 9th-least densely populated of the US states. Nearly three-quarters of Nevada's people live in Clark County, which contains the Las Vegas–Paradise metropolitan area, including three of the state's four largest incorporated cities. Nevada's capital is Carson City. Nevada is officially known as the "Silver State" because of the importance of silver to its history and economy. It is also known as the "Battle Born State" because it achieved statehood during the Civil War (the words "Battle Born" also appear on the state flag); as the "Sagebrush State", for the native plant of the same name; and as the "Sage-hen State". The name means "snow-covered" in Spanish, referring to Nevada's small overlap with the Sierra Nevada mountain range; however, the rest of Nevada is largely desert and semi-arid, much of it within the Great Basin.
+
+GT:
+Education in Nevada is achieved through public and private elementary, middle, and high schools, as well as colleges and universities. A May 2015 educational reform law expanded school choice options to 450,000 Nevada students who are at up to 185% of the federal poverty level. Education savings accounts (ESAs) are enabled by the new law to help pay the tuition for private schools. Alternatively, families "can use funds in these accounts to also pay for textbooks and tutoring". Approximately 86.9% of Nevada high school students graduate, putting it below the national average of 88.3%. The Nevada Aerospace Hall of Fame provides educational resources and promotes the aerospace and aviation history of the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.31896551724137934, 0.19072164948453607, 0.23870967741935484, 0.14919354838709678]
+[0.043478260869565216, 0.025906735751295335, 0.032467532467532464, 0.020292207792207792]
+[0.1896551724137931, 0.1134020618556701, 0.14193548387096774, 0.08870967741935484]
+
+
+SBERT sim. Score: 0.4293995797634125

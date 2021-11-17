@@ -1,0 +1,18 @@
+Document:
+georgia
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Georgia () is a state in the Deep South region of the Southern United States, bordered to the north by Tennessee and North Carolina; to the northeast by South Carolina; to the southeast by the Atlantic Ocean; to the south by Florida; and to the west by Alabama. Georgia is the 24th-largest in area and 8th-most populous of the 50 United States. Its 2019 estimated population was 10,617,423, according to the US Census Bureau. Atlanta, a "beta(+)" global city, is both the state's capital and its largest city. The Atlanta metropolitan area, with an estimated population of more than 6 million people in 2019, is the 9th most populous metropolitan area in the United States and contains about 57% of Georgia's entire population. Founded in 1733 as a British colony, Georgia was the last and southernmost of the original Thirteen Colonies to be established. Named after King George II of Great Britain, the Colony of Georgia covered the area from South Carolina south to Spanish Florida and west to French Louisiana at the Mississippi River. On January 2, 1788, Georgia became the fourth state to ratify the United States Constitution. From 1802 to 1804, western Georgia was split to form the Mississippi Territory, which later was admitted as the US states of Alabama and Mississippi.
+
+GT:
+Georgia county and city public school systems are administered by school boards with members elected at the local level. Residents and activist groups in Fayette County, Georgia sued the board of commissioners and school board for maintaining an election system based on at-large voting, which tended to increase the power of the majority and effectively prevented minority participation on elected local boards for nearly 200 years. Georgia high schools (grades nine through twelve) are required to administer a standardized, multiple choice End of Course Test, or EOCT, in each of eight core subjects: algebra, geometry, US history, economics, biology, physical science, ninth grade literature and composition, and American literature. Although a minimum test score is not required for the student to receive credit in the course, completion of the test is mandatory. Georgia has 85 public colleges, universities, and technical colleges in addition to more than 45 private institutes of higher learning. Georgia's workforce of more than 6.3 million is constantly refreshed by the growing number of people who move there along with the 90,000 graduates from the universities, colleges and technical colleges across the state, including the highly ranked University of Georgia, Georgia Institute of Technology, Georgia State University and Emory University. The HOPE Scholarship, funded by the state lottery, is available to all Georgia residents who have graduated from high school or earned a General Educational Development certificate. The student must maintain a 3.2 or higher grade point average and attend a public college or university in the state. The Georgia Historical Society, an independent educational and research institution, has a research center located in Savannah. The research center's library and archives hold the oldest collection of materials related to Georgia history in the nation.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2901023890784983, 0.38636363636363635, 0.3313840155945419, 0.20711500974658872]
+[0.0410958904109589, 0.0547945205479452, 0.04696673189823874, 0.029354207436399216]
+[0.14675767918088736, 0.19545454545454546, 0.16764132553606237, 0.10477582846003898]
+
+
+SBERT sim. Score: 0.4828990399837494

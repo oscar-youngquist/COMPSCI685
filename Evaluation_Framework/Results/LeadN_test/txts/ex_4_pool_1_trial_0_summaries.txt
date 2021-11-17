@@ -1,0 +1,18 @@
+Document:
+wisconsin
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Wisconsin ( (listen)) is a state in the Great Lakes region of the Midwestern United States, bordered by Minnesota to the west; Iowa to the southwest; Illinois to the south; Lake Michigan to the east; Michigan to the northeast; and Lake Superior to the north. Wisconsin is the 23rd-largest state by total area and the 20th-most populous. The state capital is Madison, and its largest city is Milwaukee, which is on the western shore of Lake Michigan. The state is divided into 72 counties. Wisconsin's geography is diverse, having been greatly impacted by glaciers during the Ice Age with the exception of the Driftless Area. The Northern Highland and Western Upland along with a part of the Central Plain occupies the western part of the state, with lowlands stretching to the shore of Lake Michigan. Wisconsin is third to Ontario and Michigan in the length of its Great Lakes coastline.
+
+GT:
+The state capital is Madison, and its largest city is Milwaukee, which is on the western shore of Lake Michigan. Tourist destinations such as the House on the Rock near Spring Green, Circus World Museum in Baraboo, and The Dells of the Wisconsin River draw thousands of visitors annually, and festivals such as Summerfest and the EAA Oshkosh Airshow draw international attention, along with hundreds of thousands of visitors. Given the large number of lakes and rivers in the state, water recreation is very popular. In the North Country, what had been an industrial area focused on timber has largely been transformed into a vacation destination. Popular interest in the environment and environmentalism, added to traditional interests in hunting and fishing, has attracted a large urban audience within driving range. The distinctive Door Peninsula, which extends off the eastern coast of the state, contains one of the state's tourist destinations, Door County. Door County is a popular destination for boaters because of the large number of natural harbors, bays, and boat launches on both the Green Bay and Lake Michigan sides of the peninsula that forms the county. The area draws more than two million visitors yearly to its quaint villages, seasonal cherry picking, and fish boils.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.35096153846153844, 0.48026315789473684, 0.4055555555555555, 0.2534722222222222]
+[0.1642512077294686, 0.2251655629139073, 0.1899441340782123, 0.1187150837988827]
+[0.20192307692307693, 0.27631578947368424, 0.23333333333333336, 0.14583333333333331]
+
+
+SBERT sim. Score: 0.575673520565033

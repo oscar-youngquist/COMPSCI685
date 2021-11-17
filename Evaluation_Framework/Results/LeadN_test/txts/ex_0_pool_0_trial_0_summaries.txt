@@ -1,0 +1,18 @@
+Document:
+ohio
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Ohio (listen) is a state in the East North Central region of the Midwestern United States. Of the fifty states, it is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated. The state's capital and largest city is Columbus, with the Columbus metro area, Greater Cincinnati, and Greater Cleveland being the largest metropolitan areas. Ohio is bordered by Lake Erie to the north, Pennsylvania to the east, West Virginia to the southeast, Kentucky to the southwest, Indiana to the west, and Michigan to the northwest. Ohio is historically known as the "Buckeye State" after its Ohio buckeye trees, and Ohioans are also known as "Buckeyes". The state takes its name from the Ohio River, whose name in turn originated from the Senatorca word ohiːyo', meaning "good river", "great river", or "large creek". Ohio arose from the lands west of Appalachia that were contested from colonial times through the Northwest Indian Wars of the late 18th century. It was partitioned from the resulting Northwest Territory, which was the first frontier of the new United States, and became the 17th state admitted to the Union on March 1, 1803, and the first under the Northwest Ordinance. Ohio was the first post-colonial free state admitted to the union, and became one of the earliest and most influential industrial powerhouses in the 20th century; although it has transitioned to a more information and service based economy in the 21st century, Ohio remains an industrial state, ranking seventh in GDP as of 2019, with the third largest manufacturing sector and second largest automobile production. The government of Ohio is composed of the executive branch, led by the governor; the legislative branch, consisting of the bicameral Ohio General Assembly; and the judicial branch, led by the state Supreme Court.
+
+GT:
+Columbus is the capital of Ohio, located near the geographic center of the state and well known for The Ohio State University. Lima and Toledo are the major cities in Northwest Ohio. Cincinnati anchors Southwest Ohio and is the largest economy in the state. The Cincinnati metropolitan area extends into Kentucky and Indiana, the Steubenville metropolitan area extends into West Virginia, the Toledo metropolitan area extends into Michigan, and the Youngstown metropolitan area extends into Pennsylvania. The Rock and Roll Hall of Fame and the Rhythm and Blues Music Hall of Fame are both located in Cleveland. Cincinnati is home to the American Classical Music Hall of Fame and Museum. Playhouse Square in downtown Cleveland is the second largest performing arts center in the United States, home to ten theaters.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.5615384615384615, 0.2347266881028939, 0.33106575963718826, 0.20691609977324263]
+[0.15503875968992248, 0.06451612903225806, 0.09111617312072894, 0.056947608200455586]
+[0.3076923076923077, 0.12861736334405144, 0.18140589569160995, 0.11337868480725623]
+
+
+SBERT sim. Score: 0.6281101107597351

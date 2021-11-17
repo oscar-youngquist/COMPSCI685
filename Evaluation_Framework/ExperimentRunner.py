@@ -6,9 +6,12 @@ import random
 import logging
 from timeit import default_timer as timer
 from multiprocessing import Pool
+from sentence_transformers import SentenceTransformer
+import torch
 from utils.EvaluationScore import EvaluationScore
 from utils.UserDataReader import UserDataReader
 from Models.Model import Model
+from scipy.spatial.distance import cosine
 import wandb
 
 
@@ -38,6 +41,8 @@ class ExperimentRunner:
         self.ex_range = [i for i in range(0, (num_examples+num_test))]
 
         self.use_wandb = use_wandb # Allow user to turn on or off wandb logging
+        self.sen_transformer = SentenceTransformer('all-MiniLM-L6-v2')
+        self.device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
 
     ###
@@ -61,8 +66,20 @@ class ExperimentRunner:
         # get the Rouge scores of the summaries
         scores = self.eval_scorer.compareScore(predicted_summary, gt_summary)
 
+        # get the SBERT cosine sim. score
+        pred_sum_econding = self.sen_transformer.encode(sentences=predicted_summary, batch_size=1,
+                                                    convert_to_numpy=True, device=self.device, show_progress_bar=False)
+        gt_summ_encoding = self.sen_transformer.encode(sentences=gt_summary, batch_size=1,
+                                                        convert_to_numpy=True, device=self.device,  show_progress_bar=False)
+        self.sen_transformer.to('cpu')
+        torch.cuda.empty_cache()
+
+        summ_sim = 1 - cosine(pred_sum_econding, gt_summ_encoding)
+
+        # print(summ_sim)
+
         # ~ 10% chance of being saved off
-        if save_prob < 0.5:
+        if save_prob < 0.1:
             with open(join(output_file_path, "txts/", "ex_{}_pool_{}_trial_{}_summaries.txt".format(ex_num, pool_num, trial_num)), "w") as outfile:
                     outfile.write("Document:\n")
                     outfile.write(target_doc)
@@ -75,9 +92,10 @@ class ExperimentRunner:
                     outfile.write("\n\nRouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:\n")
                     for rouge_results in scores:
                         outfile.write(str(rouge_results) + "\n")
+                    outfile.write("\n\nSBERT sim. Score: {}".format(summ_sim))
                     outfile.close()
         
-        return (scores, (eval_end_time - eval_start_time))
+        return (scores, (eval_end_time - eval_start_time), summ_sim)
 
 
     ###
@@ -90,6 +108,7 @@ class ExperimentRunner:
         all_example_scores = []    # list to hold the all of the rouges scores for every example
         all_runtimes = []          # list to hold all of the runtimes for every example
         all_scores_by_intent = {}  # dictionary to hold scores by intent
+        all_example_sbert_scores = [] # list to hold the SBERT cosine simialirty scores
 
         # iterate over every intent to initialize the by intent
         #     scores dictionary
@@ -141,6 +160,9 @@ class ExperimentRunner:
             # runtimes per batch
             runtimes_per_batch = []
 
+            # sbert scores per batch
+            sbert_scores_per_batch = []
+
             # log that we are solving the test examples
             if processed_ctr % 10 == 0:
                     logging.info("Evaluating Test Examples") 
@@ -169,13 +191,15 @@ class ExperimentRunner:
                 for rouge_scores in res:
                     scores_per_batch.append(rouge_scores[0])
                     runtimes_per_batch.append(rouge_scores[1])
+                    sbert_scores_per_batch.append(rouge_scores[2])
                 # end of using multi-processing loop
             else:
                 for doc, gt_summ in zip(test_docs, test_gt):
-                    score, runtime = self.evaluate_example(model, doc, gt_summ, example_set.tolist(), intent_text, output_file_path, i, pool_num, trial_num, processed_ctr)
+                    score, runtime, sim_score = self.evaluate_example(model, doc, gt_summ, example_set.tolist(), intent_text, output_file_path, i, pool_num, trial_num, processed_ctr)
                     pool_num += 1
                     scores_per_batch.append(score)
                     runtimes_per_batch.append(runtime)
+                    sbert_scores_per_batch.append(sim_score)
 
             # end_time of evaluation loop
             end_total = timer()
@@ -198,12 +222,15 @@ class ExperimentRunner:
             # add this batch score to the appropriate intent
             all_scores_by_intent[intent_text].append(scores_per_batch.tolist())
             
-            # append the p/r scores to the list containing all p/r scores for all examples
+            # append the p/r/f1/f2 scores to the list containing all p/r scores for all examples
             all_example_scores.append(scores_per_batch)
             all_runtimes.append(runtimes_per_batch)
 
+            # append all of the SBERT cosine sim. scores
+            all_example_sbert_scores.append(sbert_scores_per_batch)
+
         # end of all examples for-loop
-        return (np.array(all_example_scores).squeeze(), np.array(all_runtimes).squeeze(), all_scores_by_intent)
+        return (np.array(all_example_scores).squeeze(), np.array(all_runtimes).squeeze(), all_scores_by_intent, np.array(all_example_sbert_scores).squeeze())
 
 
 
@@ -247,7 +274,7 @@ class ExperimentRunner:
 
         # loop over the number of trials
         for i in range(num_trials):
-            ex_scores, ex_runtimes, intent_results = self.model_get_evaluation(model, i, output_file_path, multi_processing)
+            ex_scores, ex_runtimes, intent_results, sbert_scores = self.model_get_evaluation(model, i, output_file_path, multi_processing)
 
             # save off the results
             # save total scores as NPZ indexed by model
@@ -255,6 +282,10 @@ class ExperimentRunner:
             
             # save total runtimes as NPZ indexed by model
             np.savez(join(output_file_path, ("all_runtimes_%s_%s_trail_%d" % (str(self.min_range), str(self.max_range), i))), scores=ex_runtimes)
+
+            # save total sbert sim scores as NPZ indexed by model
+            np.savez(join(output_file_path, ("all_sbert_scores_%s_%s_trail_%d" % (str(self.min_range), str(self.max_range), i))), scores=sbert_scores)
+            
             
             # save the by-intent sorted results
             with open(join(output_file_path, ("all_scores_range_by_intent_%s_%s_trail_%d.txt" % (str(self.min_range), str(self.max_range), i))), 'w') as outfile:
@@ -263,15 +294,18 @@ class ExperimentRunner:
 
             # display trail results if appropriate
             if (save_results):
-                avg_results = np.mean(ex_scores, axis=0)
+                avg_results_ = np.mean(ex_scores, axis=1)
+                avg_results = np.mean(avg_results_, axis=0)
+                avg_results_sbert = np.mean(sbert_scores)
                 logging.info("*********************** trial num: %d *************************" % i)
                 logging.info("\nAverage p, r, f1, and f2 scores")
                 logging.info("Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:")
                 for rouge_results in avg_results:
                     logging.info(rouge_results)
+                logging.info("\nAverage SBERT Sim. Score: %.4f" % (avg_results_sbert))
                 logging.info("\n\n")
 
-            if self.wandb:
+            if self.use_wandb:
                 wandb.log("avg_results: ", avg_results)
                 wandb.log("avg runtime: ", np.mean(ex_runtimes), axis=0)
 

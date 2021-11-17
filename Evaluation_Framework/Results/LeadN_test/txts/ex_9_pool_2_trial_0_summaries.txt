@@ -1,0 +1,18 @@
+Document:
+massachusetts
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Massachusetts ( (listen), ), officially known as the Commonwealth of Massachusetts, is the most populous state in the New England region of the Northeastern United States. It borders on the Atlantic Ocean to the east, the states of Connecticut and Rhode Island to the south, New Hampshire and Vermont to the north, and New York to the west. The capital of Massachusetts is Boston, which is also the most populous city in New England. It is home to the Greater Boston metropolitan area, a region influential upon American history, academia, and industry. Originally dependent on agriculture, fishing and trade, Massachusetts was transformed into a manufacturing center during the Industrial Revolution. During the 20th century, Massachusetts's economy shifted from manufacturing to services. Modern Massachusetts is a global leader in biotechnology, engineering, higher education, finance, and maritime trade. Plymouth was the site of the second colony in New England after Popham Colony in 1607 in what is now Maine. Plymouth was founded in 1620 by the Pilgrims, passengers of the Mayflower.
+
+GT:
+In 1852, Massachusetts became the first state to pass compulsory education laws. In 2018, Massachusetts's overall educational system was ranked the top among all fifty US states by US News & World Report. Massachusetts was the first state in North America to require municipalities to appoint a teacher or establish a grammar school with the passage of the Massachusetts Education Law of 1647, and 19th century reforms pushed by Horace Mann laid much of the groundwork for contemporary universal public education which was established in 1852. Massachusetts is home to the oldest school in continuous existence in North America (The Roxbury Latin School, founded in 1645), as well as the country's oldest public elementary school (The Mather School, founded in 1639), its oldest high school (Boston Latin School, founded in 1635), its oldest continuously operating boarding school (The Governor's Academy, founded in 1763), its oldest college (Harvard University, founded in 1636), and its oldest women's college (Mount Holyoke College, founded in 1837). Massachusetts is also home to the highest ranked private high school in the United States, Phillips Academy in Andover, Massachusetts, which was founded in 1778. Harvard University and the Massachusetts Institute of Technology, both located in Cambridge, consistently rank among the world's best private universities and universities in general. In addition to Harvard and MIT, several other Massachusetts universities currently rank in the top 50 at the undergraduate level nationally in the widely cited rankings of US News and World Report: Tufts University (#27), Boston College (#32), Brandeis University (#34), Boston University (#37) and Northeastern University (#40). Massachusetts is also home to three of the top five US News and World Report's best Liberal Arts Colleges: Williams College (#1), Amherst College (#2), and Wellesley College (#4). The public University of Massachusetts (nicknamed UMass) features five campuses in the state, with its flagship campus in Amherst, which enrolls more than 25,000.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2358490566037736, 0.44642857142857145, 0.308641975308642, 0.19290123456790126]
+[0.0694006309148265, 0.1317365269461078, 0.09090909090909091, 0.05681818181818183]
+[0.12578616352201258, 0.23809523809523808, 0.16460905349794236, 0.10288065843621397]
+
+
+SBERT sim. Score: 1.0

@@ -1,0 +1,18 @@
+Document:
+michigan
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+Michigan ( (listen)) is a state in the Great Lakes and Midwestern regions of the United States. Its name comes from the Ojibwe word mishigami, meaning "large water" or "large lake". With a population of approximately 10 million, Michigan is the tenth most populous state, the 11th most extensive state by area, and the largest by area east of the Mississippi River. Its capital is Lansing, and its largest city is Detroit. Metro Detroit is among the nation's most populous and largest metropolitan economies. Michigan is the only state to consist of two peninsulas. The Lower Peninsula is shaped like a mitten. The Upper Peninsula (often called "the U.P.") is separated from the Lower Peninsula by the Straits of Mackinac, a five-mile (8 km) channel that joins Lake Huron to Lake Michigan. The Mackinac Bridge connects the peninsulas. Michigan has the longest freshwater coastline of any political subdivision in the world, being bordered by four of the five Great Lakes, plus Lake Saint Clair. It also has 64,980 inland lakes and ponds. The area was first occupied by a succession of Native American tribes over thousands of years.
+
+GT:
+The first Europeans to reach what became Michigan were those of Étienne Brûlé's expedition in 1622. In 1701, French explorer and army officer Antoine de la Mothe Cadillac founded Fort Pontchartrain du Détroit or "Fort Pontchartrain on-the-Strait" on the strait, known as the Detroit River, between lakes Saint Clair and Erie. During the War of 1812, the United States forces at Fort Detroit surrendered Michigan Territory (effectively consisting of Detroit and the surrounding area) after a nearly bloodless siege in 1812. Michigan Territory governor and judges established the University of Michigan in 1817, as the Catholepistemiad, or the University of Michigania. A Constitutional Convention of Assent, led by Gershom Mott Williams, was held to lead the territory to statehood.In October 1835 the people approved the Constitution of 1835, thereby forming a state government, although Congressional recognition was delayed pending resolution of a boundary dispute with Ohio known as the Toledo War. Ford's development of the moving assembly line in Highland Park marked a new era in transportation.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3390804597701149, 0.3089005235602094, 0.3232876712328767, 0.20205479452054798]
+[0.05202312138728324, 0.04736842105263158, 0.049586776859504134, 0.030991735537190084]
+[0.1724137931034483, 0.15706806282722513, 0.1643835616438356, 0.10273972602739725]
+
+
+SBERT sim. Score: 0.49299147725105286

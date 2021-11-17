@@ -1,0 +1,18 @@
+Document:
+maine
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Maine ( (listen)) is a state in the New England region of the Northeastern United States, bordered by New Hampshire to the west; the Atlantic Ocean to the southeast; and the Canadian provinces of New Brunswick and Quebec to the northeast and northwest, respectively. Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states. It is also the northeasternmost among the contiguous United States, the northernmost state east of the Great Lakes, and the only state to border only one other state. Maine is known for its jagged, rocky coastline; low, rolling mountains; heavily forested interior; picturesque waterways; and its seafood cuisine, especially lobster and clams. There is a humid continental climate throughout most of the state, including coastal areas. Its most populous city is Portland, and its capital is Augusta. For thousands of years after the glaciers retreated during the last Ice Age, indigenous peoples were the only inhabitants of the territory that is now Maine. At the time of European arrival, several Algonquian-speaking peoples inhabited the area. The first European settlement in the area was by the French in 1604 on Saint Croix Island, by Pierre Dugua, Sieur de Mons. The first English settlement was the short-lived Popham Colony, established by the Plymouth Company in 1607. A number of English settlements were established along the coast of Maine in the 1620s, although the rugged climate, deprivations, and conflict with the local peoples caused many to fail.
+
+GT:
+There are thirty institutions of higher learning in Maine. The three colleges collectively form the Colby-Bates-Bowdoin Consortium and are ranked among the best colleges in the United States Maine's per-student public expenditure for elementary and secondary schools was 21st in the nation in 2012, at $12,344. Private schools in Maine are funded independently of the state and its furthered domains. Private schools are less common than public schools. A large number of private elementary schools with under 20 students exist, but most private high schools in Maine can be described as "semi-private".
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3469387755102041, 0.13545816733067728, 0.1948424068767908, 0.12177650429799426]
+[0.09278350515463918, 0.036, 0.05187319884726224, 0.0324207492795389]
+[0.21428571428571427, 0.08366533864541832, 0.12034383954154726, 0.07521489971346704]
+
+
+SBERT sim. Score: 0.3723331093788147
