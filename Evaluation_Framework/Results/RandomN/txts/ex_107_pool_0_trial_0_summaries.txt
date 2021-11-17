@@ -1,0 +1,15 @@
+Document:
+ohio
+
+Intent:
+What are some of the most interesting things about this state?
+\Predicted Summary:
+The largest ancestry groups (which the Census defines as not including racial terms) in the state are: 11 by the council for best friendly-policy states according to their Small Business Survival Index 2009. The capital was then moved to Zanesville for two years, as part of a state legislative compromise to get a bill passed. Specifically, 26% of Ohio's population identified as Evangelical Protestant, 22% as Mainline Protestant, and 21% as Catholic. Many of these Ohio-country nations were multi-ethnic (sometimes multi-linguistic) societies born out of the earlier devastation brought about by disease, war, and subsequent social instability. One of those pioneer routes, known in the early 20th century as "Main Market Route 3", was chosen in 1913 to become part of the historic Lincoln Highway which was the first road across America, connecting New York City to San Francisco. The Rock and Roll Hall of Fame and the Rhythm and Blues Music Hall of Fame are both located in Cleveland.
+
+GT:
+The state takes its name from the Ohio River, whose name in turn originated from the Senatorca word ohiːyo', meaning "good river", "great river", or "large creek". Ohio arose from the lands west of Appalachia that were contested from colonial times through the Northwest Indian Wars of the late 18th century. Ohio also had the nation's largest population of Slovene speakers, second largest of Slovak speakers, second largest of Pennsylvania Dutch (German) speakers, and the third largest of Serbian speakers. One of those pioneer routes, known in the early 20th century as "Main Market Route 3", was chosen in 1913 to become part of the historic Lincoln Highway which was the first road across America, connecting New York City to San Francisco. Eight US presidents hailed from Ohio at the time of their elections, giving rise to its nickname "mother of presidents", a sobriquet it shares with Virginia. It is also termed "modern mother of presidents", in contrast to Virginia's status as the origin of presidents earlier in American history.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.43352601156069365, 0.45454545454545453, 0.4437869822485207, 0.27736686390532544]
+[0.2558139534883721, 0.2682926829268293, 0.2619047619047619, 0.16369047619047622]
+[0.3468208092485549, 0.36363636363636365, 0.35502958579881655, 0.22189349112426038]

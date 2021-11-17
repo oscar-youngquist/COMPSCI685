@@ -1,0 +1,15 @@
+Document:
+wisconsin
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+However, Walker was defeated for a third term in 2018 by Democrat Tony Evers. As the state's highest appellate court, the Wisconsin Supreme Court may hear both appeals from lower courts and original actions. Wisconsin is the 23rd-largest state by total area and the 20th-most populous. Towns are unincorporated minor civil divisions of counties with limited self-government. Maier remained in office for 28 years, the longest-serving mayor in Milwaukee history. A third of that ten percent comes from out of state sources, mostly wind generated electricity from Minnesota and Iowa. Wisconsin is divided into eight congressional districts. The Milwaukee Art Museum, with its brise soleil designed by Santiago Calatrava, is known for its interesting architecture.
+
+GT:
+Tourist destinations such as the House on the Rock near Spring Green, Circus World Museum in Baraboo, and The Dells of the Wisconsin River draw thousands of visitors annually, and festivals such as Summerfest and the EAA Oshkosh Airshow draw international attention, along with hundreds of thousands of visitors. Given the large number of lakes and rivers in the state, water recreation is very popular. In the North Country, what had been an industrial area focused on timber has largely been transformed into a vacation destination. Popular interest in the environment and environmentalism, added to traditional interests in hunting and fishing, has attracted a large urban audience within driving range. The distinctive Door Peninsula, which extends off the eastern coast of the state, contains one of the state's tourist destinations, Door County. Such festivals include Summerfest, Oktoberfest, Polish Fest, Festa Italiana, Irish Fest, Bastille Days, Syttende Mai (Norwegian Constitution Day), Brat(wurst) Days in Sheboygan, Polka Days, Cheese Days in Monroe and Mequon, African World Festival, Indian Summer, Arab Fest, Wisconsin Highland Games, and many others. Winter events include skiing, ice fishing and snowmobile derbies. Outdoor activities are popular in Wisconsin, especially hunting and fishing.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1683673469387755, 0.275, 0.20886075949367086, 0.1305379746835443]
+[0.02564102564102564, 0.04201680672268908, 0.03184713375796178, 0.01990445859872611]
+[0.08673469387755102, 0.14166666666666666, 0.10759493670886076, 0.06724683544303797]

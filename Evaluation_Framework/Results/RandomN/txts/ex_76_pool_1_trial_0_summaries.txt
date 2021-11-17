@@ -1,0 +1,15 @@
+Document:
+arizona
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+In 2002, this was an area of the Rodeo–Chediski Fire, the worst fire in state history until 2011. During this time, the air contains large amounts of water vapor. There are ski resorts in the areas of Flagstaff, Alpine, and Tucson. The Yuma Metropolitan Statistical Area has a population of 160,000. The municipalities of Clarkdale, Cottonwood, Jerome, Sedona, and Tucson also passed civil unions. A fierce debate erupted between supporters and detractors of the law. Auto racing is another sport known in the state. It is the 6th largest and the 14th most populous of the 50 states. Hohokam, Mogollon and Ancestral Puebloan cultures were among those that flourished throughout the state. From statehood through the late 1940s, Arizona was primarily dominated by the Democratic Party. The fast-growing Phoenix and Tucson suburbs became increasingly friendly to Republicans from the 1950s onward. (This was the most closely contested state in what was otherwise a landslide victory for Johnson that year.) Lake Havasu City has a population of about 53,000 people. The state rate on transient lodging (hotel/motel) is 7.27%.
+
+GT:
+Besides the money spent on state agencies, it also included more than $500 million in income and property tax cuts, pay raises for government employees, and additional funding for the K–12 education system. Public schools in Arizona are separated into about 220 local school districts which operate independently, but are governed in most cases by elected county school superintendents; these are in turn overseen by the Arizona State Board of Education and the Arizona Department of Education. A state Superintendent of Public Instruction (elected in partisan elections every even-numbered year when there is not a presidential election, for a four-year term). In 2005, a School District Redistricting Commission was established with the goal of combining and consolidating many of these districts. Arizona is served by three public universities: The University of Arizona, Arizona State University, and Northern Arizona University. These schools are governed by the Arizona Board of Regents. Private higher education in Arizona is dominated by a large number of for-profit and "chain" (multi-site) universities. Arizona has a wide network of two-year vocational schools and community colleges. These colleges were governed historically by a separate statewide board of directors but, in 2002, the state legislature transferred almost all oversight authority to individual community college districts. The Maricopa County Community College District includes 11 community colleges throughout Maricopa County and is one of the largest in the nation.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.26495726495726496, 0.33695652173913043, 0.29665071770334933, 0.1854066985645933]
+[0.034334763948497854, 0.04371584699453552, 0.038461538461538464, 0.02403846153846154]
+[0.13675213675213677, 0.17391304347826086, 0.15311004784688995, 0.0956937799043062]

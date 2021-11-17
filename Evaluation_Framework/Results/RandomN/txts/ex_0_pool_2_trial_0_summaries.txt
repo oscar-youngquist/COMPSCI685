@@ -1,0 +1,15 @@
+Document:
+colorado
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+In southmost Colorado is the large San Luis Valley, where the headwaters of the Rio Grande are located. Colorado is one of the Mountain States and is a part of the western and southwestern United States. Notable peaks of the Rocky Mountains include Longs Peak, Mount Evans, Pikes Peak, and the Spanish Peaks near Walsenburg, in southern Colorado. Much of the alpine snow melts by mid-August with the exception of a few snow-capped peaks and a few small glaciers. In 2015, Furious 7 was to film driving sequences on Pikes Peak Highway in Colorado. In 1864, Territorial Governor John Evans appointed the Reverend John Chivington as Colonel of the Colorado Volunteers with orders to protect white settlers from Cheyenne and Arapaho warriors who were accused of stealing cattle. This region with Denver at its center had an estimated population of 4,495,181 on July 1, 2012, an increase of +3.73% since the 2010 United States Census. The estimated population of Colorado is 5,758,736 as of 2019, an increase of 14.5% since the 2010 United States Census.
+
+GT:
+Higher education in and near the Western Slope can be found at Colorado Mesa University in Grand Junction, Western Colorado University in Gunnison, Fort Lewis College in Durango, and Colorado Mountain College in Glenwood Springs and Steamboat Springs. The Four Corners Monument in the southwest corner of Colorado marks the common boundary of Colorado, New Mexico, Arizona, and Utah; the only such place in the United States. The United States Census Bureau estimates that the population of Colorado was 5,758,736 as of 2019, a 14.51% increase since the 2010 United States Census. Colorado's most populous city and capital, is Denver. The Greater Denver Metropolitan Area, with an estimated 2017 population of 3,515,374, is considered the largest metropolitan area within the state and is found within the larger Front Range Urban Corridor, home to about five million. The state of Colorado has more than 3,000 districts with taxing authority. These districts may provide schools, law enforcement, fire protection, water, sewage, drainage, irrigation, transportation, recreation, infrastructure, cultural facilities, business support, redevelopment, or other services.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.41899441340782123, 0.4098360655737705, 0.41436464088397795, 0.2589779005524862]
+[0.11797752808988764, 0.11538461538461539, 0.11666666666666668, 0.07291666666666667]
+[0.20670391061452514, 0.20218579234972678, 0.20441988950276244, 0.1277624309392265]

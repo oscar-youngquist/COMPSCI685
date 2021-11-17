@@ -1,0 +1,15 @@
+Document:
+north_dakota
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Nicole Linkletter and CariDee English were winning contestants of Cycles 5 and 7, respectively, of America's Next Top Model. North Dakota expanded Medicaid in 2014, and its health insurance exchange is the federal site, HealthCare.gov. Municipal courts serve the cities, and most cases start in the district courts, which are courts of general jurisdiction. Williston is near the confluence of the Missouri River and the Yellowstone River near Montana. Western North Dakota saw a boom in oil exploration in the late 1970s and early 1980s, as rising petroleum prices made development profitable. The primary historic tribal nations in or around North Dakota, are the Lakota and the Dakota ("The Great Sioux Nation" or "Oceti Sakowin", meaning the seven council fires), the Blackfoot, the Cheyenne, the Chippewa (known as Ojibwe in Canada), and the Mandan. Many of the state's merchants also rely on agriculture. But a period of higher rainfall ended, and many migrants weren't successful in the arid conditions. Minot is a city in northern North Dakota and is home of the North Dakota State Fair and Norsk Høstfest. Due to attacks by Crees, Assiniboines and Chippewas armed with fire weapons, they left the area around 1780 and crossed Missouri some time after. One of North Dakota's nicknames is the Peace Garden State.
+
+GT:
+Most of the state is covered in grassland This diverse terrain supports nearly 2,000 species of plants. North Dakota has a continental climate with warm summers and cold winters. The temperature differences are significant because of its far inland position and being in the center of the Northern Hemisphere, with roughly equal distances to the North Pole and the Equator. But a period of higher rainfall ended, and many migrants weren't successful in the arid conditions. A unique feature of the North Dakota Interstate Highway system is virtually all of it is paved in concrete, not blacktop, because of the extreme weather conditions it must endure.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.5092592592592593, 0.2511415525114155, 0.3363914373088685, 0.2102446483180428]
+[0.2336448598130841, 0.11467889908256881, 0.15384615384615385, 0.09615384615384616]
+[0.37962962962962965, 0.1872146118721461, 0.25076452599388377, 0.15672782874617736]

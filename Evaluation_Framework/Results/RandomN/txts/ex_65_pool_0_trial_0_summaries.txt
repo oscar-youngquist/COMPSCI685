@@ -1,0 +1,15 @@
+Document:
+ohio
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+The largest ancestry groups (which the Census defines as not including racial terms) in the state are: The Civil War would not have been fought. At a special session at the old state capital in Chillicothe, the Ohio state legislature approved a new petition for statehood which was delivered to Washington, D.C., on horseback. It was also at Putnam's recommendation that the land would be surveyed and laid out in townships of six miles square. The senior US senator, Sherrod Brown, is a Democrat, while the junior, Rob Portman, is a Republican. From just over 45,000 residents in 1800, Ohio's population grew faster than 10% per decade (except for the 1940 census) until the 1970 census, which recorded just over 10.65 million Ohioans. According to a Pew Forum poll, as of 2008, 76% of Ohioans identified as Christian. The Western Ohio Seismic Zone and a portion of the Southern Great Lakes Seismic Zone are located in the state, and numerous faults lie under the surface. The Small Business & Entrepreneurship Council ranked the state No.
+
+GT:
+Putnam, in the Puritan tradition, was influential in establishing education in the Northwest Territory. By employment, Ohio's largest sector is trade/transportation/utilities, which employs 1,010,000 Ohioans, or 19.4% of Ohio's workforce, while the health care and education sector employs 825,000 Ohioans (15.8%). The Ohio Lottery has contributed over $15.5 billion to public education in its 34-year history. Ohio's system of public education is outlined in Article VI of the state constitution, and in Title XXXIII of the Ohio Revised Code. Ohio University, the first university in the Northwest Territory, was also the first public institution in Ohio. At the State level, the Ohio Department of Education, which is overseen by the Ohio State Board of Education, governs primary and secondary educational institutions. At the municipal level, there are approximately 700 school districts statewide. The Ohio Board of Regents coordinates and assists with Ohio's institutions of higher education which have recently been reorganized into the University System of Ohio under Governor Strickland. The system averages an annual enrollment of more than 400,000 students, making it one of the five largest state university systems in the US Ohio schools consistently ranking in the top 50 nationally of the US News & World Report of liberal arts colleges are Kenyon College, Oberlin College, and Denison University. Ohio is home to some of the nation's highest-ranked public libraries. The 2008 study by Thomas J. Hennen Jr. ranked Ohio as number one in a state-by-state comparison.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2723735408560311, 0.39106145251396646, 0.3211009174311926, 0.2006880733944954]
+[0.04296875, 0.06179775280898876, 0.05069124423963134, 0.03168202764976959]
+[0.13229571984435798, 0.18994413407821228, 0.1559633027522936, 0.09747706422018347]

@@ -1,0 +1,15 @@
+Document:
+mississippi
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+With the Depression coming so soon after the flood, the state suffered badly during those years. As in the rest of the Deep South, thunderstorms are common in Mississippi, especially in the southern part of the state. http://www.mvk.usace.army.mil/Missions/Recreation/Enid-Lake/ Regional losses and the Mississippi River Levee Association's lobbying for a flood control bill helped gain passage of national bills in 1917 and 1923 to provide federal matching funds for local levee districts, on a scale of 2:1. Paleo-Indians in the South were hunter-gatherers who pursued the megafauna that became extinct following the end of the Pleistocene age. This was a catalyst for Congressional passage the following year of the Voting Rights Act of 1965. Elvis Presley, who created a sensation in the 1950s as a crossover artist and contributed to rock 'n' roll, was a native of Tupelo. With control of the ballot box and more access to credit, white planters bought out such farmers, expanding their ownership of Delta bottomlands. The planters' dependence on hundreds of thousands of slaves for labor and the severe wealth imbalances among whites, played strong roles both in state politics and in planters' support for secession. The convention was the first political organization in the state to include African-American representatives, 17 among the 100 members (32 counties had black majorities at the time). Commonly cultivated trees include loblolly pine, longleaf pine, cherrybark oak, and cottonwood. Both white and black transient workers were hired to build the levees in the late 19th century.
+
+GT:
+Areas under the management of the National Park Service include: Gambling towns in Mississippi have attracted increased tourism: they include the Gulf Coast resort towns of Bay St. Louis, Gulfport and Biloxi, and the Mississippi River towns of Tunica (the third largest gaming area in the United States), Greenville, Vicksburg and Natchez. Jackson established the USA International Ballet Competition, which is held every four years. The Magnolia Independent Film Festival, still held annually in Starkville, is the first and oldest in the state. The state is creating a Mississippi Blues Trail, with dedicated markers explaining historic sites significant to the history of blues music, such as Clarksdale's Riverside Hotel, where Bessie Smith died after her auto accident on Highway 61. The Riverside Hotel is just one of many historical blues sites in Clarksdale. The Delta Blues Museum there is visited by tourists from all over the world. Close by is "Ground Zero", a contemporary blues club and restaurant co-owned by actor Morgan Freeman.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3151515151515151, 0.19923371647509577, 0.24413145539906103, 0.15258215962441316]
+[0.06707317073170732, 0.04230769230769231, 0.0518867924528302, 0.03242924528301887]
+[0.18181818181818182, 0.11494252873563218, 0.1408450704225352, 0.0880281690140845]

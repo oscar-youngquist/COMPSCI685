@@ -1,0 +1,15 @@
+Document:
+vermont
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Insured paid $10 toward each generic prescription. In 2007, the state's House of Representatives rejected a measure which would have legalized assisted suicide for the terminally ill, by a vote of 82–63. As of 2014, 51.3% of Vermont's population was born in the state (compared with 58.7% for the United States). In the Northeast Kingdom, the Bread and Puppet Theatre holds weekly shows in Glover in a natural outdoor amphitheater. Bombus terricola (the yellow-banded bumblebee), although once common in Vermont, has not been seen in most of its range since 1999 and is now absent from the state. In 2006, there was a gap between state testing standards and national, which is biased in favor of the state standards by 30%, on average. Organic farming increased in 2006–07, but leveled off in 2008–09. It is better able to detect and avoid predators. In May 2010 Vermont's 6.2% unemployment rate was the fourth lowest in the nation. The national average was $3,447. This contributed $1.7 billion to the state's economy.
+
+GT:
+Vermont was named the nation's smartest state in 2005 and 2006. In 2006, there was a gap between state testing standards and national, which is biased in favor of the state standards by 30%, on average. In 2017, spending $1.6 billion on education for 76,000 public school children, represents more than $21,000 per student. In 2011, 91% of the population had graduated from high school compared with 85% nationally. Almost 34% have at least an undergraduate degree compared with 28% nationally. Experimentation at the University of Vermont by George Perkins Marsh, and later the influence of Vermont-born philosopher and educator John Dewey brought about the concepts of electives and learning by doing. Vermont has five colleges within the Vermont State Colleges system, University of Vermont (UVM), and thirteen other private, degree-granting colleges, including Bennington College, Champlain College, Goddard College, Marlboro College, Middlebury College, Saint Michael's College, the Vermont Law School, and Norwich University. In 2016, the University of Vermont charged the second highest tuition in the nation for four years, $61,000 for in-state students, to $147,000 for out-of-state students.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.4031413612565445, 0.4230769230769231, 0.41286863270777474, 0.25804289544235925]
+[0.1631578947368421, 0.1712707182320442, 0.16711590296495957, 0.10444743935309975]
+[0.225130890052356, 0.23626373626373626, 0.2305630026809651, 0.1441018766756032]

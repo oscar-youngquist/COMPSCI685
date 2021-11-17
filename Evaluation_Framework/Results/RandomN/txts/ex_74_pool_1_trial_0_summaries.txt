@@ -1,0 +1,15 @@
+Document:
+nevada
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+In a 2009 Gallup poll only 30% of Nevadans said they attended church weekly or almost weekly, compared to 42% of all Americans (only four states were found to have a lower attendance rate than Nevada's). North Carolina is the only other team to accomplish that (2007–08, 2008–09). In portions of the state outside of the Las Vegas and Reno metropolitan areas mining plays a major economic role. Las Vegas is a minority majority city. Nevada's tax laws are intended to draw new residents and businesses to the state. Republican Richard Nixon in 1968 and in 1972, Republican Ronald Reagan in 1980 and in 1984, Republican George H.W. A review of gaming statistics can be found at Nevada gaming area. The south sees the north as the "old guard" trying to rule as an oligarchy. Because of subsequent declines in mining output and the decline of the agricultural sector during the Great Depression, Nevada again legalized gambling on March 19, 1931, with approval from the legislature. Nevada has one hotel room for every 14 residents, far above the national average of one hotel room per 67 residents. The name "Nevada" comes from the Spanish nevada [neˈβaða], meaning "snow-covered".
+
+GT:
+Nevada is the driest state in the United States. It is made up of mostly desert and semi-arid climate regions, and, with the exception of the Las Vegas Valley, the average summer diurnal temperature range approaches 40 °F (22 °C) in much of the state. While winters in northern Nevada are long and fairly cold, the winter season in the southern part of the state tends to be of short duration and mild. Most parts of Nevada receive scarce precipitation during the year. The most rain that falls in the state falls on the lee side (east and northeast slopes) of the Sierra Nevada. The average annual rainfall per year is about 7 inches (180 mm); the wettest parts get around 40 inches (1,000 mm). Nevada's highest recorded temperature is 125 °F (52 °C) at Laughlin on June 29, 1994 and the lowest recorded temperature is −50 °F (−46 °C) at San Jacinto on January 8, 1937. Nevada's 125 °F (52 °C) reading is the third highest statewide record high temperature of a US state, just behind Arizona's 128 °F (53 °C) reading and California's 134 °F (57 °C) reading.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.29591836734693877, 0.2815533980582524, 0.2885572139303483, 0.18034825870646767]
+[0.06153846153846154, 0.05853658536585366, 0.060000000000000005, 0.037500000000000006]
+[0.17346938775510204, 0.1650485436893204, 0.1691542288557214, 0.10572139303482586]

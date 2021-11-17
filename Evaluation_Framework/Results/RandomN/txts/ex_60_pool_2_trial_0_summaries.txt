@@ -1,0 +1,15 @@
+Document:
+colorado
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+The Denver Pacific Railway reached Denver in June the following year, and the Kansas Pacific arrived two months later to forge the second line across the continent. It was the second-largest earthquake in Colorado's history. Mexico eventually ratified the Adams-Onís Treaty in 1831. The more extensive Denver-Aurora-Boulder, CO Combined Statistical Area had an estimated population of 3,515,374 on July 1, 2017, an increase of +13.73% since the 2010 United States Census. Colorado is open to cannabis (marijuana) tourism. This point, which is the highest low elevation point of any state, is higher than the high elevation points of 18 states and the District of Columbia. The Confederacy made no further attempts to seize the Southwestern United States. As of 2018, the Democratic Party holds a 19 to 16 majority in the Senatorte and a 41 to 24 majority in the House.
+
+GT:
+The Food & Wine Classic is held annually each June in Aspen, Colorado. Aspen also has a reputation as the culinary capital of the Rocky Mountain region. Denver is known for steak, but now has a diverse culinary scene with many restaurants. Colorado's grape growing regions contain the highest elevation vineyards in the United States, with most viticulture in the state practiced between 4,000 and 7,000 feet (1,219 and 2,134 m) above sea level. Colorado is home to many nationally praised microbreweries, including New Belgium Brewing Company, Odell Brewing Company, Great Divide Brewing Company, and Bristol Brewing Company. The area of northern Colorado near and between the cities of Denver, Boulder, and Fort Collins is known as the "Napa Valley of Beer" due to its high density of craft breweries.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3208955223880597, 0.2866666666666667, 0.3028169014084507, 0.1892605633802817]
+[0.045112781954887216, 0.040268456375838924, 0.0425531914893617, 0.02659574468085106]
+[0.17164179104477612, 0.15333333333333332, 0.16197183098591547, 0.10123239436619717]

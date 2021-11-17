@@ -1,0 +1,15 @@
+Document:
+wisconsin
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Wisconsin briefly became one of the nation's leading producers of wheat during the 1860s. The Badger men's basketball team won the national title in 1941 and made trips to college basketball's Final Four in 2000, 2014, and 2015. Walker enacted other bills promoting conservative governance, such as a right-to-work law, abortion restrictions, and legislation removing certain gun controls. In a trial stemming from the incident, the Wisconsin Supreme Court ultimately declared the Fugitive Slave Law unconstitutional. Teams play from May until August. Senatortor Russ Feingold and Republicans took two previously Democratic-held House seats, creating a 5–3 Republican majority House delegation. Even so, French traders continued to work in the region after the war, and some, beginning with Charles de Langlade in 1764, settled in Wisconsin permanently, rather than returning to British-controlled Canada. Immigration resulted in a net increase of 59,251 people, and migration from within the US resulted in a net decrease of 72,006 people. By fall of that year, the best prairie groves of the counties surrounding what is now Milwaukee were occupied by farmers from the New England states. Milwaukee Mitchell International Airport is the only international commercial airport located in Wisconsin.
+
+GT:
+Tourist destinations such as the House on the Rock near Spring Green, Circus World Museum in Baraboo, and The Dells of the Wisconsin River draw thousands of visitors annually, and festivals such as Summerfest and the EAA Oshkosh Airshow draw international attention, along with hundreds of thousands of visitors. Given the large number of lakes and rivers in the state, water recreation is very popular. The distinctive Door Peninsula, which extends off the eastern coast of the state, contains one of the state's tourist destinations, Door County. Door County is a popular destination for boaters because of the large number of natural harbors, bays, and boat launches on both the Green Bay and Lake Michigan sides of the peninsula that forms the county. The area draws more than two million visitors yearly to its quaint villages, seasonal cherry picking, and fish boils. Milwaukee hosts Summerfest, dubbed "The World's Largest Music Festival", every year. This festival is held at the lakefront Henry Maier Festival Park just south of downtown, as are a summer-long array of ethnic musical festivals.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2777777777777778, 0.24509803921568626, 0.26041666666666663, 0.16276041666666666]
+[0.03910614525139665, 0.034482758620689655, 0.03664921465968587, 0.022905759162303665]
+[0.15, 0.1323529411764706, 0.140625, 0.08789062500000001]

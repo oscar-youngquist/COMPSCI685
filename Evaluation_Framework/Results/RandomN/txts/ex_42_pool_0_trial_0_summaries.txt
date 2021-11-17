@@ -1,0 +1,15 @@
+Document:
+kentucky
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+The current governor is Andy Beshear, and the lieutenant governor is Jacqueline Coleman. The House of Representatives has 100 members, and is led by the Speaker of the House, currently David Osborne of the Republican Party. In 2019 tourism grew to $7.6 billion in economic impact. Since that time, the "Welcome to Kentucky" signs at border areas have an "Unbridled Spirit" symbol on them. Much of the interior of the state was controlled by the Algonquian Cisca As of 2010, the Association of Religion Data Archives (ARDA) reported the following groupings of Kentucky's 4,339,367 residents: UK is the flagship and land grant of the system and has agriculture extension services in every county. Post rock band Slint also hails from Louisville.
+
+GT:
+The executive branch is organized into the following "cabinets", each headed by a secretary who is also a member of the governor's cabinet: The state's sixteen public two-year colleges have been governed by the Kentucky Community and Technical College System since the passage of the Postsecondary Education Improvement Act of 1997, commonly referred to as House Bill 1. There are 173 school districts and 1,233 public schools in Kentucky. For the 2010 to 2011 school year, there were approximately 647,827 students enrolled in public school. The response of the General Assembly was passage of the Kentucky Education Reform Act (KERA) the following year. Kentucky integrated its schools after the 1954 Brown v. Board of Education verdict, later adopting the first state civil rights act in the South in 1966.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.34328358208955223, 0.368, 0.3552123552123552, 0.22200772200772198]
+[0.05263157894736842, 0.056451612903225805, 0.05447470817120622, 0.03404669260700389]
+[0.20149253731343283, 0.216, 0.20849420849420847, 0.1303088803088803]
