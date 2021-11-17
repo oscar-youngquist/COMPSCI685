@@ -1,0 +1,15 @@
+Document:
+north_dakota
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+North Dakota is the largest in area, the fourth least populous, and the fourth most sparsely populated . North Dakota has the largest city in the world, and is home to the largest city . North Dakota is the second largest state in the midwestern u.s., and the largest city in the world .
+
+GT:
+North Dakota's major fine art museums and venues include the Chester Fritz Auditorium, Empire Arts Center, the Fargo Theatre, North Dakota Museum of Art, and the Plains Art Museum. Outdoor attractions like the 144-mile Maah Daah Hey Trail and activities like fishing and hunting attract visitors. The state is known for the Lewis & Clark Trail and being the winter camp of the Corps of Discovery. Areas popular with visitors include Theodore Roosevelt National Park in the western part of the state. Regular events in the state that attract tourists include Norsk Høstfest in Minot, billed as North America's largest Scandinavian festival; the Medora Musical; and the North Dakota State Fair. Many international tourists now also come to visit the Oscar-Zero Missile Alert Facility.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.21875, 0.5384615384615384, 0.3111111111111111, 0.19444444444444445]
+[0.05511811023622047, 0.13725490196078433, 0.07865168539325842, 0.04915730337078652]
+[0.1484375, 0.36538461538461536, 0.21111111111111108, 0.13194444444444442]

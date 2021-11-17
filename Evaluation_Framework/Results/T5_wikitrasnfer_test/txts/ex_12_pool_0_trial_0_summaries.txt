@@ -1,0 +1,15 @@
+Document:
+vermont
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+settlers established the Vermont Republic in 1777 as an independent state . settlers disputed the extent of the area, which is the most-populated state capital in the state . Vermont is the second-least-populated state in the u.s. state . the Vermont Republic abolished slavery before the afghan invasion .
+
+GT:
+The annual mean temperature for the state is 43 °F (6 °C). Vermont has a humid continental climate, with muddy springs, in general a mild early summer, hot Augusts; it has colorful autumns: Vermont's hills reveal red, orange, and (on sugar maples) gold foliage as cold weather approaches. The rural northeastern section known as the "Northeast Kingdom" often averages 10 °F (5.6 °C) colder than the southern areas of the state during winter. Vermont is the seventh coldest state in the country. The highest recorded temperature was 105 °F (41 °C), at Vernon, on July 4, 1911. The lowest recorded temperature was −50 °F (−46 °C), at Bloomfield, on December 30, 1933; this is the lowest temperature recorded in New England alongside Big Black River, which recorded a verified −50 °F (−46 °C) in 2009. The state receives between 2,200 and 2,400 hours of sunshine annually.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17333333333333334, 0.5306122448979592, 0.2613065326633166, 0.16331658291457288]
+[0.04697986577181208, 0.14583333333333334, 0.07106598984771574, 0.044416243654822336]
+[0.11333333333333333, 0.3469387755102041, 0.1708542713567839, 0.10678391959798994]

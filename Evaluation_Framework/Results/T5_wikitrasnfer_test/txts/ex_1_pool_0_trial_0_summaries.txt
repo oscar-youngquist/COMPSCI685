@@ -1,0 +1,15 @@
+Document:
+louisiana
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+the French colony of the 18th century colony in 18th century . many natives came from african peoples of the same region of the west . Louisiana is the 19th most populous by area and the 25th most populous of the 50 states . it is the only US state with political subdivisions .
+
+GT:
+Louisiana is home to over 40 public and private colleges and universities, including Louisiana State University in Baton Rouge and Tulane University in New Orleans. Louisiana's two oldest and largest HBCUs (Historically black colleges and universities) are Southern University in Baton Rouge and Grambling State University in Grambling. Both these Southwestern Athletic Conference (SWAC) schools compete against each other in football annually in the much anticipated Bayou Classic during Thanksgiving weekend in the Mercedes-Benz Superdome. The Louisiana Science Education Act is a controversial law passed by the Louisiana Legislature on June 11, 2008, and signed into law by Governor Bobby Jindal on June 25. In 2000, of all of the states, Louisiana had the highest percentage of students in private schools. The number of students in enrolled in private schools in Louisiana declined by 9% from circa 2000-2005 until 2014, due to the proliferation of charter schools, the 2008 recession and Hurricane Katrina. Louisiana's school voucher program is known as the Louisiana Scholarship Program.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.125, 0.42, 0.1926605504587156, 0.12041284403669728]
+[0.011976047904191617, 0.04081632653061224, 0.018518518518518517, 0.011574074074074073]
+[0.08333333333333333, 0.28, 0.12844036697247707, 0.08027522935779817]
