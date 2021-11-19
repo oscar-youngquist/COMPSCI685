@@ -33,6 +33,7 @@ class AugmentedDataset(torch.utils.data.Dataset):
         return min(len(d) for d in self.datasets)
 
 def kl_for_log_probs(log_p, log_q):
+    print(f"Log_p: {log_p.size()}\nLog_q: {log_q.size()}")
     p = torch.exp(log_p)
     neg_ent = torch.sum(p * log_p, axis=-1)
     neg_cross_ent = torch.sum(p * log_q, axis=-1)
@@ -56,11 +57,7 @@ def build_datasets(tokenizer, token_len, sentence_prefilter, prefilter_len, exam
             texts.append(trimmed_document)
             # print(trimmed_document)
 
-        summaries = [get_sentences(
-            summary['sentence_ids'],
-            summary['state_name'],
-            df
-        ) for summary in example_summaries]
+        summaries = [" ".join(summary['sentences']) for summary in example_summaries]
 
         texts = tokenize_batch(tokenizer, token_len, texts)
         summaries = tokenize_batch(tokenizer, token_len, summaries, output=True)
