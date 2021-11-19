@@ -33,7 +33,6 @@ class AugmentedDataset(torch.utils.data.Dataset):
         return min(len(d) for d in self.datasets)
 
 def kl_for_log_probs(log_p, log_q):
-    print(f"Log_p: {log_p.size()}\nLog_q: {log_q.size()}")
     p = torch.exp(log_p)
     neg_ent = torch.sum(p * log_p, axis=-1)
     neg_cross_ent = torch.sum(p * log_q, axis=-1)
@@ -153,6 +152,7 @@ def fine_tune_model_aug(trainer_args, model, tokenizer, token_len, lr, adam_ep, 
         for combined_batch in train_loader_aug:
             batch = combined_batch[0]
             batch_aug = combined_batch[1:]
+            num_aug = len(batch_aug)
             optim.zero_grad()
 
             # Input data
@@ -167,19 +167,14 @@ def fine_tune_model_aug(trainer_args, model, tokenizer, token_len, lr, adam_ep, 
 
             # TODO: change this to do one large batch, that is what UDA does
             # Run augmented data through model multiple times
-            aug_total_consistency_loss = 0
-            for i in range(len(batch_aug)):
-                input_ids = batch_aug[i]['input_ids'].to(device)
-                attention_mask = batch_aug[i]['attention_mask'].to(device)
-                labels = batch_aug[i]['labels'].to(device)
-                outputs_aug = model(input_ids, attention_mask=attention_mask, labels=labels)
+            input_log_probs = F.log_softmax(outputs['logits'], dim=-1)
 
-                # Consistency loss: KL divergence between distribution on augmented and original input
-                input_log_probs = F.log_softmax(outputs['logits'], dim=-1)
-                aug_log_probs = F.log_softmax(outputs_aug['logits'], dim=-1)
-                consistency_loss = kl_for_log_probs(input_log_probs, aug_log_probs)
-                consistency_loss = torch.sum(consistency_loss) # UDA paper does mean, zero shot BART paper does sum
-                aug_total_consistency_loss += consistency_loss
+            aug_input_ids = torch.cat(list([b['input_ids'] for b in batch_aug]), dim=0).to(device)
+            aug_attention_mask = torch.cat(list([b['attention_mask'] for b in batch_aug]), dim=0).to(device)
+            aug_labels = torch.cat(list([b['labels'] for b in batch_aug]), dim=0).to(device)
+            aug_logits = model(aug_input_ids, attention_mask=aug_attention_mask, labels=aug_labels)['logits']
+            aug_log_probs = F.log_softmax(aug_logits, dim=-1)
+            aug_total_consistency_loss = torch.sum(kl_for_log_probs(input_log_probs.repeat(num_aug, 1, 1), aug_log_probs))
 
             loss = supervised_loss + gamma * aug_total_consistency_loss
 
@@ -189,10 +184,15 @@ def fine_tune_model_aug(trainer_args, model, tokenizer, token_len, lr, adam_ep, 
             loss.backward() # TODO: check that grad doesn't propagate through to supervised examples? No_grad should work though
             optim.step()
 
+            aug_input_ids.to('cpu')
+            aug_attention_mask.to('cpu')
+            aug_labels.to('cpu')
+
             input_ids.to('cpu')
             attention_mask.to('cpu')
             labels.to('cpu')
             torch.cuda.empty_cache()
+
 
     model.to('cpu')
     torch.cuda.empty_cache()
