@@ -23,7 +23,7 @@ class T5_Wiki(Model):
     #    and pass them in accordingly from the Exp/script.
 
     # NOTE: New parameter - finetune, a command-line arg for exp script to use basic (no data augmentation or wiki-pretraining) finetuning
-    def __init__(self, data_path, shared_docs_path, num_examples, wiki_path):
+    def __init__(self, data_path, shared_docs_path, num_examples, wiki_path, lr, bs, epchs):
         super().__init__(data_path, shared_docs_path, num_examples)
         self.df = pd.read_csv(self.data_path)
         self.filter_obj = Sentence_Prefilter_Wrapper(data_path, shared_docs_path)
@@ -36,7 +36,6 @@ class T5_Wiki(Model):
         
         # I don't think these will change
         self.input_token_len = 512
-        self.batch_size=6
 
         # these could all be passed into the constructor and iterated over gird-search style from
         #     a loop in the EXP script
@@ -45,10 +44,11 @@ class T5_Wiki(Model):
         ##### namely, pass in an exp_folder name like: "t5_ft_hyperparam_lr_batchsize" and whenever you make a new model with a new set of parameters make the model 
         ##### change based on those params. Then the folders for storing results will be automatically handled                                                      #####
         ##### ALSO: always make sure you are updating the name of the log file for any experiment                                                      #####
-        self.lr = 5e-6
+        self.lr =lr
         self.adam_ep = 1e-8
-        self.finetune_epochs=5
-        self.smoothing=0.05
+        self.finetune_epochs=epchs
+        self.smoothing=0.1
+        self.batch_size=bs
 
 
         # should definitely look into all of these parameters
@@ -58,30 +58,29 @@ class T5_Wiki(Model):
             output_dir="t5_trainer_wiki",
             do_train=True,
             learning_rate=self.lr,
-            num_train_epochs=10,
+            num_train_epochs=self.finetune_epochs,
             generation_num_beams=1,
             label_smoothing_factor=self.smoothing,
             per_device_train_batch_size=self.batch_size,
             warmup_ratio=0.1, 
-            # warmup_steps=2, # 25
             load_best_model_at_end=True,
-            # lr_scheduler_type='polynomial',
+            lr_scheduler_type='polynomial',
             fp16=True,
             save_strategy='epoch',
             evaluation_strategy='epoch'  
         )
 
 
-        self.fine_tune_args = Seq2SeqTrainingArguments(
-            output_dir="t5_trainer",
-            do_train=True,
-            learning_rate=self.lr,
-            num_train_epochs=self.finetune_epochs,
-            generation_num_beams=1,
-            label_smoothing_factor=self.smoothing,
-            per_device_train_batch_size=self.batch_size,
-            warmup_ratio=0.1, 
-        )
+        # self.fine_tune_args = Seq2SeqTrainingArguments(
+        #     output_dir="t5_trainer",
+        #     do_train=True,
+        #     learning_rate=self.lr,
+        #     num_train_epochs=self.finetune_epochs,
+        #     generation_num_beams=1,
+        #     label_smoothing_factor=self.smoothing,
+        #     per_device_train_batch_size=self.batch_size,
+        #     warmup_ratio=0.1, 
+        # )
 
 
     # reset model to default state after. Be explicitly very clear about the data management. 
@@ -103,10 +102,10 @@ class T5_Wiki(Model):
         wiki_trasnfer_training(self.wiki_args, self.model, processed_ctr, self.wiki_path,
             self.tokenizer, self.input_token_len, self.device)
 
-        fine_tune_model(trainer_args=self.fine_tune_args, model=self.model, tokenizer=self.tokenizer, token_len=self.input_token_len, lr=self.lr, adam_ep=self.adam_ep,
-                            batch_size=self.batch_size, epochs=self.finetune_epochs, example_summaries=example_summaries,
-                            sentence_prefilter=self.filter_obj.nearest_neighbor_bert_summary_filtering,
-                            prefilter_len=int(2*avg_len), df=self.df, device=self.device)
+        # fine_tune_model(trainer_args=self.fine_tune_args, model=self.model, tokenizer=self.tokenizer, token_len=self.input_token_len, lr=self.lr, adam_ep=self.adam_ep,
+        #                     batch_size=self.batch_size, epochs=self.finetune_epochs, example_summaries=example_summaries,
+        #                     sentence_prefilter=self.filter_obj.nearest_neighbor_bert_summary_filtering,
+        #                     prefilter_len=int(2*avg_len), df=self.df, device=self.device)
 
         summaries = [" ".join(summary['sentences']) for summary in example_summaries]
 
@@ -119,6 +118,8 @@ class T5_Wiki(Model):
 
         del summaries
         del output        
+
+        self.model.to(self.device)
         
         # use SBERT to get the most similar sentences to the target document: 2* the average length of the example summaries
         #     this is done as an initial pruning step and is something I have seen done a few times for long-passage abstractive summarization.
