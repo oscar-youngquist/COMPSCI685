@@ -82,7 +82,7 @@ num_trials = 1                                                                  
 exp_folder = ""                                                                                         # results folder for this experimental run, only used if running a) more than one model or b) the same model more than once
                                                                                                         #     model_name folder is added as a sub-folder to this one 
 
-wiki_path = "../../Wiki_Dump/ProcessedArticles/train_example_datasets/training_example_{}.txt"
+wiki_path = os.path.join(Path(__file__).parent.parent.parent, "Wiki_Dump/ProcessedArticles/train_example_datasets/training_example_{}.txt")
 
 # create an instance of the experiment runner class
 # num_examples, num_test, users_path, data_path, min_range, max_index
