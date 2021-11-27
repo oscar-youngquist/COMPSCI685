@@ -151,47 +151,80 @@ def fine_tune_model_aug(trainer_args, model, tokenizer, token_len, lr, adam_ep, 
     for epoch in range(epochs):
         for combined_batch in train_loader_aug:
             batch = combined_batch[0]
+
+            batch_input_ids = batch['input_ids']
+            batch_attention_mask = batch['attention_mask']
+            batch_labels = batch['labels']
+
             batch_aug = combined_batch[1:]
+
+            batch_aug_input_ids = torch.cat(list([b['input_ids'] for b in batch_aug]), dim=0)
+            batch_aug_attention_mask = torch.cat(list([b['attention_mask'] for b in batch_aug]), dim=0)
+            batch_aug_labels = torch.cat(list([b['labels'] for b in batch_aug]), dim=0)
+
             num_aug = len(batch_aug)
-            optim.zero_grad()
 
-            # Input data
-            input_ids = batch['input_ids'].to(device)
-            attention_mask = batch['attention_mask'].to(device)
-            labels = batch['labels'].to(device)
-            outputs = model(input_ids, attention_mask=attention_mask, labels=labels)
+            for i in range(5):
+                optim.zero_grad()
+                # Input data
 
-            # Regular T5 supervised loss
-            with torch.no_grad():
-                supervised_loss = outputs['loss']
+                input_ids = batch_input_ids[i].unsqueeze(0).to(device)
+                attention_mask = batch_attention_mask[i].unsqueeze(0).to(device)
+                labels = batch_labels[i].unsqueeze(0).to(device)
 
-            # TODO: change this to do one large batch, that is what UDA does
-            # Run augmented data through model multiple times
-            input_log_probs = F.log_softmax(outputs['logits'], dim=-1)
 
-            aug_input_ids = torch.cat(list([b['input_ids'] for b in batch_aug]), dim=0).to(device)
-            aug_attention_mask = torch.cat(list([b['attention_mask'] for b in batch_aug]), dim=0).to(device)
-            aug_labels = torch.cat(list([b['labels'] for b in batch_aug]), dim=0).to(device)
-            aug_logits = model(aug_input_ids, attention_mask=aug_attention_mask, labels=aug_labels)['logits']
-            aug_log_probs = F.log_softmax(aug_logits, dim=-1)
-            aug_total_consistency_loss = torch.sum(kl_for_log_probs(input_log_probs.repeat(num_aug, 1, 1), aug_log_probs))
+                outputs = model(input_ids, attention_mask=attention_mask, labels=labels)
 
-            loss = supervised_loss + gamma * aug_total_consistency_loss
+                input_ids.to('cpu')
+                attention_mask.to('cpu')
+                labels.to('cpu')
+                input_ids = None
+                attention_mask = None
+                labels = None
 
-            if use_wandb:
-                wandb.log({"loss": loss, "supervised_loss": supervised_loss, "consistency_loss": aug_total_consistency_loss})
+                # Regular T5 supervised loss
+                with torch.no_grad():
+                    supervised_loss = outputs['loss']
+                    supervised_logits = outputs['logits']
+                    outputs = None
 
-            loss.backward() # TODO: check that grad doesn't propagate through to supervised examples? No_grad should work though
-            optim.step()
 
-            aug_input_ids.to('cpu')
-            aug_attention_mask.to('cpu')
-            aug_labels.to('cpu')
+                # TODO: change this to do one large batch, that is what UDA does
+                # Run augmented data through model multiple times
 
-            input_ids.to('cpu')
-            attention_mask.to('cpu')
-            labels.to('cpu')
-            torch.cuda.empty_cache()
+                aug_input_ids = batch_aug_input_ids[i::5].to(device)
+                aug_attention_mask = batch_aug_attention_mask[i::5].to(device)
+                aug_labels = batch_aug_labels[i::5].to(device)
+                aug_outputs = model(aug_input_ids, attention_mask=aug_attention_mask, labels=aug_labels)
+
+                aug_input_ids.to('cpu')
+                aug_attention_mask.to('cpu')
+                aug_labels.to('cpu')
+                aug_input_ids = None
+                aug_attention_mask = None
+                aug_labels = None
+                gc.collect()
+                torch.cuda.empty_cache()
+
+                aug_logits = aug_outputs['logits'].to(device)
+                aug_outputs = None
+
+                aug_log_probs = F.log_softmax(aug_logits, dim=-1).to(device)
+                aug_logits.to('cpu')
+                aug_logits = None
+                input_log_probs = F.log_softmax(supervised_logits, dim=-1).to(device)
+
+                aug_total_consistency_loss = torch.sum(kl_for_log_probs(input_log_probs.repeat(num_aug, 1, 1), aug_log_probs)).to(device)
+
+                loss = supervised_loss + gamma * aug_total_consistency_loss
+
+                if use_wandb:
+                    wandb.log({"loss": loss, "supervised_loss": supervised_loss, "consistency_loss": aug_total_consistency_loss})
+
+                loss.backward() # TODO: check that grad doesn't propagate through to supervised examples? No_grad should work though
+                optim.step()
+
+                torch.cuda.empty_cache()
 
 
     model.to('cpu')
