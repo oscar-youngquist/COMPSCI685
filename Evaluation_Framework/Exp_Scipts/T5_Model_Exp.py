@@ -34,6 +34,8 @@ parser.add_argument('--num_trials', type=int, default=10) # Number of complete p
 parser.add_argument('--num_examples', type=int, default=5) # Number of user-summaries used as examples
 parser.add_argument('--num_test', type=int, default=3) # Number of user-summaries used for testing
 parser.add_argument('--max_range', type=int, default=138) # Number of users, max of 138 (use 20 for hyperparameter tuning)
+parser.add_argument('--lr', type=float, default=5e-6)
+parser.add_argument('--epochs', type=int, default=30)
 args = parser.parse_args()
 
 config = Namespace()
@@ -43,6 +45,8 @@ config.finetune = args.finetune
 config.data_aug = args.data_aug
 config.num_aug = args.num_aug
 config.gamma = args.gamma
+config.lr = args.lr
+config.epochs = args.epochs
 
 # experiment configuration
 config.num_examples = args.num_examples     # number of user-summaries used as examples
@@ -96,7 +100,7 @@ if not exists(join(cwd, "Logs/")):
 ### TODO #####
 ##############
 # TODO: add your own log file name
-log_file = join(cwd, "Logs/", f"{config.model_name}.log")
+log_file = join(cwd, "Logs/", f"{config.model_name}_lr_{config.lr}_epochs_{config.epochs}.log")
 
 # set up logger
 root = logging.getLogger()
@@ -119,8 +123,19 @@ exp_runner = ExperimentRunner(config.num_examples, config.num_test, config.users
 
 # create the model(s) you are going to evaluate
 #     data_path, shared_docs_path, num_examples
-model = T5_Base(config.data_path, config.shared_docs_path, config.num_examples, config.finetune,
-                config.data_aug, config.aug_path, config.gamma, use_wandb=config.use_wandb, verbose=config.verbose, num_aug=config.num_aug)
+model = T5_Base(config.data_path,
+                config.shared_docs_path,
+                config.num_examples,
+                config.finetune,
+                config.data_aug,
+                config.aug_path,
+                config.gamma,
+                lr=config.lr,
+                epochs=config.epochs,
+                use_wandb=config.use_wandb,
+                verbose=config.verbose,
+                num_aug=config.num_aug
+)
 
 # perform the actual experiment
 #   Could loop over several models/params. In Models, can 

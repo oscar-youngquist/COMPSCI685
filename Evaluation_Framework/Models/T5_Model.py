@@ -25,7 +25,7 @@ class T5_Base(Model):
     #    and pass them in accordingly from the Exp/script.
 
     # NOTE: New parameter - finetune, a command-line arg for exp script to use basic (no data augmentation or wiki-pretraining) finetuning
-    def __init__(self, data_path, shared_docs_path, num_examples, finetune=False, data_aug=False, aug_path="", gamma=1.0, use_wandb=False, verbose=False, num_aug=None):
+    def __init__(self, data_path, shared_docs_path, num_examples, epochs=30, lr=5e-6, finetune=False, data_aug=False, aug_path="", gamma=1.0, use_wandb=False, verbose=False, num_aug=None):
         super().__init__(data_path, shared_docs_path, num_examples)
         self.verbose = verbose
         self.use_wandb = use_wandb
@@ -47,6 +47,7 @@ class T5_Base(Model):
         self.finetune = finetune
         self.device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
         self.p_num = 1
+        self.num_pred = 0
         
         # I don't think these will change
         self.input_token_len = 512
@@ -59,9 +60,9 @@ class T5_Base(Model):
         ##### namely, pass in an exp_folder name like: "t5_ft_hyperparam_lr_batchsize" and whenever you make a new model with a new set of parameters make the model 
         ##### change based on those params. Then the folders for storing results will be automatically handled                                                      #####
         ##### ALSO: always make sure you are updating the name of the log file for any experiment                                                      #####
-        self.lr = 5e-6
+        self.lr = lr
         self.adam_ep = 1e-8
-        self.finetune_epochs=30
+        self.finetune_epochs=epochs
         self.smoothing=0.05
 
         # Other hyperparameters (might not need to be changed)
@@ -86,9 +87,9 @@ class T5_Base(Model):
                        "adam_epsilon": self.adam_ep,
                        "label_smoothing_factor": self.smoothing,
                        "num_train_epochs": self.finetune_epochs,
-                       "generation_num_beams": 1,
+                       "generation_num_beams": self.generation_num_beams,
                        "batch_size": self.batch_size,
-                       "warmup_ratio": 0.1})
+                       "warmup_ratio": self.warmup_ratio})
 
 
     # reset model to default state after. Be explicitly very clear about the data management. 
@@ -106,19 +107,21 @@ class T5_Base(Model):
         avg_len, _ = get_avg_example_length(example_summaries, self.df)
 
         if self.finetune:
-            self.reset_model()
+            if (self.num_pred % 3) == 0: # reset and train
+                self.reset_model()
 
-            if self.data_aug:
-                fine_tune_model_aug(trainer_args=self.fine_tune_args, model=self.model, tokenizer=self.tokenizer, token_len=self.input_token_len, lr=self.lr, adam_ep=self.adam_ep,
-                                batch_size=self.batch_size, epochs=self.finetune_epochs, example_summaries=example_summaries,
-                                sentence_prefilter=self.filter_obj.nearest_neighbor_bert_summary_filtering,
-                                prefilter_len=int(2*avg_len), df=self.df, aug_path=self.aug_path, gamma=self.gamma, device=self.device, use_wandb=self.use_wandb, num_aug=self.num_aug)
-            else:
-                # function in utils/model_training.py that actual does the training of the
-                fine_tune_model(trainer_args=self.fine_tune_args, model=self.model, tokenizer=self.tokenizer, token_len=self.input_token_len, lr=self.lr, adam_ep=self.adam_ep,
-                                batch_size=self.batch_size, epochs=self.finetune_epochs, example_summaries=example_summaries,
-                                sentence_prefilter=self.filter_obj.nearest_neighbor_bert_summary_filtering,
-                                prefilter_len=int(2*avg_len), df=self.df, device=self.device)
+                if self.data_aug:
+                    fine_tune_model_aug(trainer_args=self.fine_tune_args, model=self.model, tokenizer=self.tokenizer, token_len=self.input_token_len, lr=self.lr, adam_ep=self.adam_ep,
+                                    batch_size=self.batch_size, epochs=self.finetune_epochs, example_summaries=example_summaries,
+                                    sentence_prefilter=self.filter_obj.nearest_neighbor_bert_summary_filtering,
+                                    prefilter_len=int(2*avg_len), df=self.df, aug_path=self.aug_path, gamma=self.gamma, device=self.device, use_wandb=self.use_wandb, num_aug=self.num_aug)
+                else:
+                    # function in utils/model_training.py that actual does the training of the
+                    fine_tune_model(trainer_args=self.fine_tune_args, model=self.model, tokenizer=self.tokenizer, token_len=self.input_token_len, lr=self.lr, adam_ep=self.adam_ep,
+                                    batch_size=self.batch_size, epochs=self.finetune_epochs, example_summaries=example_summaries,
+                                    sentence_prefilter=self.filter_obj.nearest_neighbor_bert_summary_filtering,
+                                    prefilter_len=int(2*avg_len), df=self.df, device=self.device)
+                self.num_pred += 1
 
         summaries = [" ".join(summary['sentences']) for summary in example_summaries]
 
@@ -150,7 +153,6 @@ class T5_Base(Model):
         sentences = [self.tokenizer.decode(g, skip_special_tokens=True, clean_up_tokenization_spaces=False) for g in summary_ids]     
 
         inputs.to('cpu')
-        self.model.to('cpu')
         torch.cuda.empty_cache()  
 
         prediction = " ".join(sentences)
