@@ -1,0 +1,18 @@
+Document:
+tennessee
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Tennessee ( (listen), locally ), officially the State of Tennessee, is a state in the southeastern United States. Tennessee is the 36th largest by area and the 16th most populous of the 50 states. It is bordered by eight states, with Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The Appalachian Mountains dominate the eastern part of the state, and the Mississippi River forms its western border. Nashville is the state's capital and largest city, with a 2019 population of 670,820 and a 2019 metro population of 1,934,317. Tennessee's second largest city is Memphis, which had a population of 651,073 and metro population of 1,346,045 in 2019. The state of Tennessee is rooted in the Watauga Association, a 1772 frontier pact generally regarded as the first constitutional government west of the Appalachians. What is now Tennessee was initially part of North Carolina, and later part of the Southwest Territory. Tennessee was admitted to the Union as the 16th state on June 1, 1796. Tennessee was the last state to leave the Union and join the Confederacy at the outbreak of the American Civil War in 1861.
+
+GT:
+Most of the state has a humid subtropical climate, with the exception of some of the higher elevations in the Appalachians, which are classified as having a mountain temperate or humid continental climate due to cooler temperatures. Generally, the state has hot summers and mild to cool winters with generous precipitation throughout the year, with highest average monthly precipitation generally in the winter and spring months, between December and April. The driest months, on average, are August to October. On average the state receives 50 inches (130 cm) of precipitation annually. Snowfall ranges from 5 inches (13 cm) in West Tennessee to over 80 inches (200 cm) in the highest mountains in East Tennessee. Summers in the state are generally hot and humid, with most of the state averaging a high of around 90 °F (32 °C) during the summer months. Winters tend to be mild to cool, increasing in coolness at higher elevations. Generally, for areas outside the highest mountains, the average overnight lows are near freezing for most of the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3583815028901734, 0.29107981220657275, 0.32124352331606215, 0.20077720207253885]
+[0.06395348837209303, 0.05188679245283019, 0.05729166666666667, 0.03580729166666667]
+[0.20809248554913296, 0.16901408450704225, 0.18652849740932642, 0.11658031088082903]
+
+
+SBERT sim. Score: 0.5760789513587952

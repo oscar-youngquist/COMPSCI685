@@ -32,7 +32,7 @@ if not exists(join(cwd, "Logs/")):
 
 # define the file for the logging object
 # TODO: add your own log file name
-log_file = join(cwd, "Logs/", "LeadN.log")
+log_file = join(cwd, "Logs/", "LeadN_test.log")
 
 # set up logger
 root = logging.getLogger()
@@ -51,14 +51,17 @@ root.addHandler(file_handler)
 
 # variables for experiment
 num_examples = 5                                                                                        # number of user-summaries used as examples
-num_test = 3                                 
+num_test = 3
+
+# print(Path(__file__).parent)
+# shared_docs_path = "../../SubSumE_Data"
 shared_docs_path = os.path.join(Path(__file__).parent.parent.parent, "SubSumE_Data")
 data_path = os.path.join(shared_docs_path, "processed_state_sentences.csv")        # path to the processed sentences csv
 users_path = os.path.join(shared_docs_path, "Train/")                               # path to the user-files used for this experiment                              # path to the misc. shared data (might not be needed anymore)
 min_range = 0                                                                                           # these min/max values are left-over from multi-processing experiments in which we would create n SuDocu models and then have each process (# of total user-summary instances)/n users. Thus we needed a min/max for the files to be read into memory by each model
-max_range = 138
+max_range = 20
 num_trials = 1 # 1 trial is OK for LeadN because it's deterministic                                                                                    # number of times to evaluate all the examples
-model_name = "LeadN"                                                                                  # name of the model used for this experiment (creates a folder with this name in the results directory)
+model_name = "LeadN_test"                                                                                  # name of the model used for this experiment (creates a folder with this name in the results directory)
 exp_folder = ""                                                                                         # results folder for this experimental run, only used if running a) more than one model or b) the same model more than once
                                                                                                         #     model_name folder is added as a sub-folder to this one 
 

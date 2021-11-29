@@ -1,0 +1,18 @@
+Document:
+idaho
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Idaho ( (listen)) is a state in the Pacific Northwest region of the United States. It borders the state of Montana to the east and northeast, Wyoming to the east, Nevada and Utah to the south, and Washington and Oregon to the west. To the north, it shares a small portion of the Canadian border with the province of British Columbia. With a population of approximately 1.7 million and an area of 83,570 square miles (216,400 km2), Idaho is the 14th largest, the 12th least populous and the 7th least densely populated of the 50 US states. The state's capital and largest city is Boise. For thousands of years Idaho has been inhabited by Native American peoples. In the early 19th century, Idaho was considered part of the Oregon Country, an area disputed between the United States and the British Empire. It officially became US territory with the signing of the Oregon Treaty of 1846, but a separate Idaho Territory was not organized until 1863, instead being included for periods in Oregon Territory and Washington Territory.
+
+GT:
+Idaho has a state gambling lottery which contributed $333.5 million in payments to all Idaho public schools and Idaho higher education from 1990 to 2006. Idahoans may apply for state tax credits for taxes paid to other states, as well as for donations to Idaho state educational entities and some nonprofit youth and rehabilitation facilities. As of January 2020, the State of Idaho contains 105 school districts and 62 charter schools. Idaho school districts are governed by elected school boards, which are elected in November of odd-numbered years, except for the Boise School District, whose elections are held in September. The Idaho State Board of Education oversees three comprehensive universities. Idaho State University in Pocatello opened in 1901 as the Academy of Idaho, attained four-year status in 1947 and university status in 1963. Idaho has four regional community colleges: North Idaho College in Coeur d'Alene; College of Southern Idaho in Twin Falls; College of Western Idaho in Nampa, which opened in 2009, College of Eastern Idaho in Idaho Falls, which transitioned from a technical college in 2017. Private institutions in Idaho are Boise Bible College, affiliated with congregations of the Christian churches and churches of Christ; Brigham Young University-Idaho in Rexburg, which is affiliated with The Church of Jesus Christ of Latter-day Saints and a sister college to Brigham Young University; The College of Idaho in Caldwell, which still maintains a loose affiliation with the Presbyterian Church; Northwest Nazarene University in Nampa; and New Saint Andrews College in Moscow, of reformed Christian theological background.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.24615384615384617, 0.3575418994413408, 0.29157175398633256, 0.18223234624145787]
+[0.02702702702702703, 0.03932584269662921, 0.032036613272311214, 0.020022883295194506]
+[0.1423076923076923, 0.20670391061452514, 0.16856492027334852, 0.10535307517084282]
+
+
+SBERT sim. Score: 0.5675895810127258

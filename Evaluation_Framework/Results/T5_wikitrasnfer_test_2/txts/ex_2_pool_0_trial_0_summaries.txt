@@ -1,0 +1,15 @@
+Document:
+north_dakota
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+North Dakota, 1889, shale formation in North Dakota, North Dakota . North Dakota is the capital of the state of North Dakota, and is the capital of the state . North Dakota is the third largest state in the nation, with the largest city of the country . the state is the nation's largest largest state, the southeastern western country .
+
+GT:
+The state has 11 public colleges and universities, five tribal community colleges, and four private schools. The largest institutions are North Dakota State University and the University of North Dakota. The higher education system consists of the following institutions: North Dakota University System (public institutions): Tribal institutions: Private institutions:
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3469387755102041, 0.29310344827586204, 0.3177570093457944, 0.19859813084112146]
+[0.14583333333333334, 0.12280701754385964, 0.13333333333333333, 0.08333333333333334]
+[0.24489795918367346, 0.20689655172413793, 0.22429906542056074, 0.14018691588785046]

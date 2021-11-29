@@ -1,0 +1,15 @@
+Document:
+maine
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+the Popham Colony, established by the Plymouth Company in 1607 . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states . Maine is known for its jagged, rocky coastline; low, rolling mountains; heavily forested interior; picturesque waterways .
+
+GT:
+The original inhabitants of the territory that is now Maine were Algonquian-speaking Wabanaki peoples, including the Passamaquoddy, Maliseet, Penobscot, Androscoggin, and Kennebec. European contact with what is now called Maine may have started around 1200 CE when Norwegians are believed to have interacted with the native Penobscot in present-day Hancock County, most likely through trade. The first European confirmed settlement in modern-day Maine was in 1604 on Saint Croix Island, led by French explorer Pierre Dugua, Sieur de Mons. The Plymouth Company established the first English settlement in Maine at the Popham Colony in 1607, the same year as the settlement at Jamestown, Virginia. The French established two Jesuit missions: one on Penobscot Bay in 1609, and the other on Mount Desert Island in 1613. The province within its current boundaries became part of the Massachusetts Bay Colony in 1652. After the British defeated the French in Acadia in the 1740s, the territory from the Penobscot River east fell under the nominal authority of the Province of Nova Scotia, and together with present-day New Brunswick formed the Nova Scotia county of Sunbury, with its court of general sessions at Campobello. American and British forces contended for Maine's territory during the American Revolution and the War of 1812, with the British occupying eastern Maine in both conflicts via the Colony of New Ireland. Maine was physically separate from the rest of Massachusetts. Maine's original state capital was Portland, Maine's largest city, until it was moved to the more central Augusta in 1832. The 20th Maine Volunteer Infantry Regiment, under the command of Colonel Joshua Lawrence Chamberlain, prevented the Union Army from being flanked at Little Round Top by the Confederate Army during the Battle of Gettysburg. Four US Navy ships have been named USMaine, most famously the armored cruiser USMaine (ACR-1), whose sinking by an explosion on February 15, 1898 precipitated the Spanish–American War.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07763975155279502, 0.5208333333333334, 0.13513513513513514, 0.08445945945945944]
+[0.024922118380062305, 0.1702127659574468, 0.043478260869565216, 0.02717391304347826]
+[0.046583850931677016, 0.3125, 0.08108108108108109, 0.05067567567567568]

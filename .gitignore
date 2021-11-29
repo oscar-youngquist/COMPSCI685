@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# very large sub-directory for wiki-transfer data 
+Wiki_Dump/ProcessedArticles/
+Evaluation_Framework/Exp_Scipts/t5_trainer_wiki/
+Evaluation_Framework/Exp_Scipts/wandb/
+
+
 # C extensions
 *.so
 
@@ -139,3 +145,4 @@ dmypy.json
 cython_debug/
 
 .DS_Store
+.idea

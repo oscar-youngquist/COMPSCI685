@@ -1,0 +1,18 @@
+Document:
+south_carolina
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+South Carolina ( (listen)) is a state in the Deep South region of the Southern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia across the Savannah River. South Carolina is the 40th most extensive and 23rd most populous US state. In 2019 its GDP was $249.9 billion. South Carolina is composed of 46 counties. The capital is Columbia with a population of 133,451 in 2018; while its largest city is Charleston with a 2018 population of 136,208. The Greenville–Anderson–Mauldin metropolitan area is the largest in the state, with a 2018 population estimate of 906,626. South Carolina was named in honor of King Charles I of England, who first formed the English colony, with Carolus being Latin for "Charles". South Carolina became the eighth state to ratify the US Constitution on May 23, 1788. It also became the first state to vote in favor of secession from the Union on December 20, 1860. After the American Civil War, it was readmitted into the United States on June 25, 1868.
+
+GT:
+South Carolina has a humid subtropical climate (Köppen climate classification Cfa), although high-elevation areas in the Upstate area have fewer subtropical characteristics than areas on the Atlantic coastline. In the summer, South Carolina is hot and humid, with daytime temperatures averaging between 86–93 °F (30–34 °C) in most of the state and overnight lows averaging 70–75 °F (21–24 °C) on the coast and from 66–73 °F (19–23 °C) inland. Coastal areas of the state have very mild winters, with high temperatures approaching an average of 60 °F (16 °C) and overnight lows around 40 °F (5–8 °C). Inland, the average January overnight low is around 32 °F (0 °C) in Columbia and temperatures well below freezing in the Upstate. While precipitation is abundant the entire year in almost the entire state, the coast tends to have a slightly wetter summer, while inland, the spring and autumn transitions tend to be the wettest periods and winter the driest season, with November being the driest month. Snowfall in South Carolina is minimal in the lower elevation areas south and east of Columbia. Annual average total amounts range from 2 to 6 inches. The Blue Ridge Escarpment receives the most average total measurable snowfall
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3, 0.3333333333333333, 0.3157894736842105, 0.19736842105263158]
+[0.04784688995215311, 0.05319148936170213, 0.05037783375314862, 0.031486146095717885]
+[0.17142857142857143, 0.19047619047619047, 0.18045112781954886, 0.11278195488721805]
+
+
+SBERT sim. Score: 0.49109745025634766

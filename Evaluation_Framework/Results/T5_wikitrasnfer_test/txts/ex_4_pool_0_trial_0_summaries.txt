@@ -1,0 +1,15 @@
+Document:
+vermont
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+, the most-populous state in the United States. Vermont is the sixth-smallest state by state in the United States . the Vermont Republic abolished slavery before the Vermont Republic abolished slavery . after the French colony of the occupied territories, the settlers were seized by the settlers . the settlers were occupied by indigenous peoples in the area .
+
+GT:
+To equitably support education, some towns are required by Act 60 to send some of their collected taxes to be redistributed to school districts lacking adequate support. A political issue has been Act 60, which balances taxation for education funding. This has resulted in the town of Killington trying to secede from Vermont and join New Hampshire due to what the locals say is an unfair tax burden. In 2006, there was a gap between state testing standards and national, which is biased in favor of the state standards by 30%, on average. However, when allowance for race is considered, a 2007 US Government list of test scores shows Vermont white fourth graders performed 25th in the nation for reading (229) and 26th for math (247). In 2017, spending $1.6 billion on education for 76,000 public school children, represents more than $21,000 per student. Education Week ranked the state second in high school graduation rates for 2007. In 2011, 91% of the population had graduated from high school compared with 85% nationally. Almost 34% have at least an undergraduate degree compared with 28% nationally. In 2013, the ratio of pupils to teachers was the lowest in the country. In 2016, the University of Vermont charged the second highest tuition in the nation for four years, $61,000 for in-state students, to $147,000 for out-of-state students. This compares with an average of 34,800 nationally for in-state students.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11428571428571428, 0.5, 0.18604651162790695, 0.11627906976744184]
+[0.01639344262295082, 0.07272727272727272, 0.026755852842809364, 0.016722408026755852]
+[0.07755102040816327, 0.3392857142857143, 0.12624584717607973, 0.07890365448504984]

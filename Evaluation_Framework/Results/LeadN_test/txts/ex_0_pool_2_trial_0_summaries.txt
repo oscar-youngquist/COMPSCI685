@@ -1,0 +1,18 @@
+Document:
+mississippi
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Mississippi ( (listen)) is a state in the Deep South region of the Southern United States, bordered to the north by Tennessee; to the east by Alabama; to the south by the Gulf of Mexico; to the southwest by Louisiana; and to the northwest by Arkansas. Mississippi's western boundary is largely defined by the Mississippi River. Mississippi is the 32nd largest and 34th-most populous of the 50 US states. Jackson is both the state's capital and largest city. Greater Jackson is the state's most populous metropolitan area, with an estimated population of 580,166 in 2018. On December 10, 1817, Mississippi became the 20th state admitted to the Union. By 1860, Mississippi was the nation's top cotton-producing state and enslaved persons accounted for 55% of the state population. Mississippi declared its secession from the Union on March 23, 1861, and was one of the seven original Confederate States, which constituted the largest slaveholding states in the nation. Following the Civil War, it was restored to the Union on February 23, 1870.
+
+GT:
+Jackson is both the state's capital and largest city. Greater Jackson is the state's most populous metropolitan area, with an estimated population of 580,166 in 2018. Major lakes include Ross Barnett Reservoir, Arkabutla, Sardis, and Grenada, with the largest being Sardis Lake. Gambling towns in Mississippi have attracted increased tourism: they include the Gulf Coast resort towns of Bay St. Louis, Gulfport and Biloxi, and the Mississippi River towns of Tunica (the third largest gaming area in the United States), Greenville, Vicksburg and Natchez. Jackson established the USA International Ballet Competition, which is held every four years. The Magnolia Independent Film Festival, still held annually in Starkville, is the first and oldest in the state. George Ohr, known as the "Mad Potter of Biloxi" and the father of abstract expressionism in pottery, lived and worked in Biloxi, MS. The state is creating a Mississippi Blues Trail, with dedicated markers explaining historic sites significant to the history of blues music, such as Clarksdale's Riverside Hotel, where Bessie Smith died after her auto accident on Highway 61.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.4022346368715084, 0.4090909090909091, 0.4056338028169014, 0.2535211267605634]
+[0.21348314606741572, 0.21714285714285714, 0.21529745042492915, 0.13456090651558072]
+[0.26256983240223464, 0.26704545454545453, 0.26478873239436623, 0.1654929577464789]
+
+
+SBERT sim. Score: 0.5335741639137268

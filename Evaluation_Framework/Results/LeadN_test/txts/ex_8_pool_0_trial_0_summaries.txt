@@ -1,0 +1,18 @@
+Document:
+montana
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Montana ( (listen)) is a state in the Northwestern United States. It is bordered by Idaho to the west; North Dakota and South Dakota to the east; Wyoming to the south; and by the Canadian provinces of Alberta, British Columbia, and Saskatchewan to the north. It is the fourth-largest state by area, the eighth-least populous state, and the third-least densely populated state. The western half of Montana contains numerous mountain ranges, while the eastern half is characterized by western prairie terrain and badlands, with more (albeit smaller) mountain ranges found throughout the state. In all, 77 named ranges are part of the Rocky Mountains. Montana has no official nickname but several unofficial ones, most notably "Big Sky Country", "The Treasure State", "Land of the Shining Mountains", and "The Last Best Place". The economy is primarily based on agriculture, including ranching and cereal grain farming.
+
+GT:
+Montana contains Glacier National Park, "The Crown of the Continent"; and parts of Yellowstone National Park, including three of the park's five entrances. Other federally recognized sites include the Little Bighorn National Monument, Bighorn Canyon National Recreation Area, Big Hole National Battlefield, and the National Bison Range. The two largest schools, the University of Montana and Montana State University, are members of the Big Sky Conference and have enjoyed a strong athletic rivalry since the early twentieth century. Hiking, fishing, hunting, watercraft recreation, camping, golf, cycling, horseback riding, and skiing are popular activities. The state has robust recreational lake trout and kokanee salmon fisheries in the west, walleye can be found in many parts of the state, while northern pike, smallmouth and largemouth bass fisheries as well as catfish and paddlefish can be found in the waters of eastern Montana. Both downhill skiing and cross-country skiing are popular in Montana, which has 15 developed downhill ski areas open to the public, including: Big Sky Resort and Whitefish Mountain Resort are destination resorts, while the remaining areas do not have overnight lodging at the ski area, though several host restaurants and other amenities.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.27835051546391754, 0.3698630136986301, 0.3176470588235294, 0.19852941176470584]
+[0.06217616580310881, 0.08275862068965517, 0.07100591715976332, 0.04437869822485207]
+[0.15463917525773196, 0.2054794520547945, 0.1764705882352941, 0.11029411764705883]
+
+
+SBERT sim. Score: 0.6025416254997253

@@ -1,0 +1,18 @@
+Document:
+ohio
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Ohio (listen) is a state in the East North Central region of the Midwestern United States. Of the fifty states, it is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated. The state's capital and largest city is Columbus, with the Columbus metro area, Greater Cincinnati, and Greater Cleveland being the largest metropolitan areas. Ohio is bordered by Lake Erie to the north, Pennsylvania to the east, West Virginia to the southeast, Kentucky to the southwest, Indiana to the west, and Michigan to the northwest. Ohio is historically known as the "Buckeye State" after its Ohio buckeye trees, and Ohioans are also known as "Buckeyes". The state takes its name from the Ohio River, whose name in turn originated from the Senatorca word ohiːyo', meaning "good river", "great river", or "large creek". Ohio arose from the lands west of Appalachia that were contested from colonial times through the Northwest Indian Wars of the late 18th century. It was partitioned from the resulting Northwest Territory, which was the first frontier of the new United States, and became the 17th state admitted to the Union on March 1, 1803, and the first under the Northwest Ordinance. Ohio was the first post-colonial free state admitted to the union, and became one of the earliest and most influential industrial powerhouses in the 20th century; although it has transitioned to a more information and service based economy in the 21st century, Ohio remains an industrial state, ranking seventh in GDP as of 2019, with the third largest manufacturing sector and second largest automobile production.
+
+GT:
+Putnam, in the Puritan tradition, was influential in establishing education in the Northwest Territory. By employment, Ohio's largest sector is trade/transportation/utilities, which employs 1,010,000 Ohioans, or 19.4% of Ohio's workforce, while the health care and education sector employs 825,000 Ohioans (15.8%). The Ohio Lottery has contributed over $15.5 billion to public education in its 34-year history. Ohio's system of public education is outlined in Article VI of the state constitution, and in Title XXXIII of the Ohio Revised Code. Ohio University, the first university in the Northwest Territory, was also the first public institution in Ohio. At the State level, the Ohio Department of Education, which is overseen by the Ohio State Board of Education, governs primary and secondary educational institutions. At the municipal level, there are approximately 700 school districts statewide. The Ohio Board of Regents coordinates and assists with Ohio's institutions of higher education which have recently been reorganized into the University System of Ohio under Governor Strickland. The system averages an annual enrollment of more than 400,000 students, making it one of the five largest state university systems in the US Ohio schools consistently ranking in the top 50 nationally of the US News & World Report of liberal arts colleges are Kenyon College, Oberlin College, and Denison University. Ohio is home to some of the nation's highest-ranked public libraries. The 2008 study by Thomas J. Hennen Jr. ranked Ohio as number one in a state-by-state comparison.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3540856031128405, 0.3285198555956679, 0.3408239700374532, 0.21301498127340823]
+[0.07421875, 0.06884057971014493, 0.07142857142857142, 0.044642857142857144]
+[0.1867704280155642, 0.17328519855595667, 0.17977528089887637, 0.11235955056179774]
+
+
+SBERT sim. Score: 0.5752128958702087

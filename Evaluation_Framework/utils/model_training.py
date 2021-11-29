@@ -1,3 +1,4 @@
+import json
 from transformers import Seq2SeqTrainer, Seq2SeqTrainingArguments, AdamW
 import torch
 from torch.utils.data import DataLoader, dataloader
@@ -69,8 +70,17 @@ def build_datasets(tokenizer, token_len, sentence_prefilter, prefilter_len, exam
         # train_dataset = {'input_ids': texts, 'labels': summaries}
         return train_dataset
 
+
+def build_datasets_wiki(tokenizer, token_len, inputs, labels):
+        texts = tokenize_batch(tokenizer, token_len, inputs)
+        summaries = tokenize_batch(tokenizer, token_len, labels, output=True)
+
+        dataset = SubSumEDataset(texts, summaries)
+        # train_dataset = {'input_ids': texts, 'labels': summaries}
+        return dataset
+
 # currently uses Huggingfaces seq2seq trainer to train model, but there is commented out code for training with a natice pytorch loop
-# feel free to pick either. I picekd trainer because it must have built in method to stablize training that we could benefit from. 
+# feel free to pick either. I picked trainer because it must have built in method to stablize training that we could benefit from. 
 def fine_tune_model(trainer_args, model, tokenizer, token_len, lr, adam_ep, batch_size, epochs, example_summaries, sentence_prefilter, prefilter_len, df, device):
     # lr = 5e-6
     # smoothing = 0.1
@@ -82,9 +92,9 @@ def fine_tune_model(trainer_args, model, tokenizer, token_len, lr, adam_ep, batc
 
     train_dataset = build_datasets(tokenizer, token_len, sentence_prefilter, prefilter_len, example_summaries, df)
 
-    # train_loader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True) # 5
+    train_loader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True) # 5
 
-    # optim = AdamW(model.parameters(), lr=lr, eps=adam_ep) #1e-8
+    # optim = AdamW(model.parameters(), lr=lr, eps=1e-8)
     
     t = Seq2SeqTrainer(model=model, args=trainer_args, train_dataset=train_dataset)
 
@@ -94,18 +104,23 @@ def fine_tune_model(trainer_args, model, tokenizer, token_len, lr, adam_ep, batc
     #     for batch in train_loader:
     #         t.training_step(model=model, input=batch)
 
-    #         # optim.zero_grad()
-    #         # input_ids = batch['input_ids'].to(device)
-    #         # attention_mask = batch['attention_mask'].to(device)
-    #         # labels = batch['labels'].to(device)
+    #         optim.zero_grad()
+            
+    #         input_ids = batch['input_ids'].to(device)
+    #         attention_mask = batch['attention_mask'].to(device)
+    #         labels = batch['labels'].to(device)
 
-    #         # outputs = model(input_ids, attention_mask=attention_mask, labels=labels)
-    #         # loss = outputs[0]
-    #         # loss.backward()
-    #         # optim.step()
-    #         # input_ids.to('cpu')
-    #         # attention_mask.to('cpu')
-    #         # labels.to('cpu')
+    #         outputs = model(input_ids, attention_mask=attention_mask, labels=labels)
+            
+            
+            
+    #         loss = outputs[0]
+    #         loss.backward()
+    #         optim.step()
+            
+    #         input_ids.to('cpu')
+    #         attention_mask.to('cpu')
+    #         labels.to('cpu')
     #         torch.cuda.empty_cache()
 
     model.to('cpu')
@@ -234,3 +249,38 @@ def fine_tune_model_aug(trainer_args, model, tokenizer, token_len, lr, adam_ep, 
     del train_loader_aug
     del optim
     gc.collect()
+
+
+def wiki_trasnfer_training(trainer_args, model, example_ctr, base_path, tokenizer, token_len, device):
+    model.to(device)
+
+    with open(base_path.format(example_ctr), "r") as f:
+        data = json.load(f)
+
+        # load training data for this batch
+        labels = data[1][:1000]
+        inputs = data[0][:1000]
+
+        # split into rain/val (90/10) set
+        total = len(inputs)
+        num_train = int(total * 0.9)
+
+        train_examples = [inputs[i] for i in range(num_train)]
+        train_labels = [labels[i] for i in range(num_train)]
+
+        val_examples = [inputs[i] for i in range(num_train, total)]
+        val_labels = [labels[i] for i in range(num_train, total)]
+
+        # make training and validation datasets
+        train_data = build_datasets_wiki(tokenizer, token_len, train_examples, train_labels)
+        val_data = build_datasets_wiki(tokenizer, token_len, val_examples, val_labels)
+
+
+        
+        t = Seq2SeqTrainer(model=model, args=trainer_args, train_dataset=train_data, eval_dataset=val_data)
+
+        t.train()
+
+        model.to('cpu')
+        torch.cuda.empty_cache()
+        gc.collect()

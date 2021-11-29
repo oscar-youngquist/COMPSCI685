@@ -1,0 +1,15 @@
+Document:
+virginia
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+is the largest state in the world, with a population of 8.54 million . Virginia is the largest population in the country, and is the largest in the country . Virginia is the largest in the region of the country, with the largest population of the Commonwealth . Virginia is the capital of the Commonwealth; the state government is the state's state government .
+
+GT:
+The state government does fund some institutions, including the Virginia Museum of Fine Arts and the Science Museum of Virginia. The Harrison Opera House, in Norfolk, is home of the Virginia Opera. The Virginia Symphony Orchestra operates in and around Hampton Roads. Virginia has launched many award-winning traditional musical artists and internationally successful popular music acts, as well as Hollywood actors. The Virginia State Fair is held at the Meadow Event Park every September. Also in September is the Neptune Festival in Virginia Beach, which celebrates the city, the waterfront, and regional artists. A proposed arena in Virginia Beach designed for an NBA franchise became the latest unsuccessful sports initiative when the city council there ended support in 2017.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.26666666666666666, 0.5161290322580645, 0.3516483516483517, 0.21978021978021978]
+[0.03361344537815126, 0.06557377049180328, 0.04444444444444444, 0.027777777777777773]
+[0.175, 0.3387096774193548, 0.23076923076923075, 0.14423076923076922]

@@ -1,0 +1,15 @@
+Document:
+north_dakota
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+in the midwestern United States. North Dakota is home to the tallest man-made structure in the western Hemisphere . North Dakota is the nineteenth largest in area, the fourth least populous, and the fourth most sparsely populated of the 50 states . the statehood papers are numbered in alphabetical order .
+
+GT:
+North Dakota has a continental climate with warm summers and cold winters. The temperature differences are significant because of its far inland position and being in the center of the Northern Hemisphere, with roughly equal distances to the North Pole and the Equator. Outdoor activities such as hunting and fishing are hobbies for many North Dakotans. Ice fishing, skiing, and snowmobiling are also popular during the winter months. Residents of North Dakota may own or visit a cabin along a lake. Popular sport fish include walleye, perch, and northern pike.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17777777777777778, 0.32653061224489793, 0.2302158273381295, 0.14388489208633096]
+[0.06741573033707865, 0.125, 0.08759124087591241, 0.05474452554744525]
+[0.12222222222222222, 0.22448979591836735, 0.15827338129496404, 0.0989208633093525]

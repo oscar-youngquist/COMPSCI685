@@ -1,0 +1,18 @@
+Document:
+kansas
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Kansas ( (listen)) is a US state in the Midwestern United States. Its capital is Topeka and its largest city is Wichita. Kansas is bordered by Nebraska to the north Kansas is named after the Kansas River, which in turn was named after the Kansa Native Americans who lived along its banks. The tribe's name (natively kką:ze) is often said to mean "people of the (south) wind" although this was probably not the term's original meaning. For thousands of years, what is now Kansas was home to numerous and diverse Native American tribes. Tribes in the eastern part of the state generally lived in villages along the river valleys. Tribes in the western part of the state were semi-nomadic and hunted large herds of bison. Kansas was first settled by Americans in 1827 with the establishment of Fort Leavenworth. The pace of settlement accelerated in the 1850s, in the midst of political wars over the slavery debate.
+
+GT:
+Several institutions of higher education are located in Northeast Kansas including Baker University (the oldest university in the state, founded in 1858 and affiliated with the United Methodist Church) in Baldwin City, Benedictine College (sponsored by St. Benedict's Abbey and Mount St. Scholastica Monastery and formed from the merger of St. Benedict's College (1858) and Mount St. Scholastica College (1923)) in Atchison, MidAmerica Nazarene University in Olathe, Ottawa University in Ottawa and Overland Park, Kansas City Kansas Community College and KU Medical Center in Kansas City, and KU Edwards Campus in Overland Park. During his campaign for the 2010 election, Governor Sam Brownback called for a complete "phase out of Kansas's income tax". He made cuts to education and some state services to offset lost revenue. Education in Kansas is governed at the primary and secondary school level by the Kansas State Board of Education. The state's public colleges and universities are supervised by the Kansas Board of Regents. Twice since 1999 the Board of Education has approved changes in the state science curriculum standards that encouraged the teaching of intelligent design. Both times, the standards were reversed after changes in the composition of the board in the next election.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.29411764705882354, 0.375, 0.3296703296703296, 0.20604395604395603]
+[0.054187192118226604, 0.06918238993710692, 0.06077348066298343, 0.03798342541436464]
+[0.18137254901960784, 0.23125, 0.20329670329670332, 0.12706043956043958]
+
+
+SBERT sim. Score: 0.3678165674209595
