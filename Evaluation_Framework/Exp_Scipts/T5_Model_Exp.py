@@ -123,18 +123,19 @@ exp_runner = ExperimentRunner(config.num_examples, config.num_test, config.users
 
 # create the model(s) you are going to evaluate
 #     data_path, shared_docs_path, num_examples
-model = T5_Base(config.data_path,
-                config.shared_docs_path,
-                config.num_examples,
-                config.finetune,
-                config.data_aug,
-                config.aug_path,
-                config.gamma,
-                lr=config.lr,
-                epochs=config.epochs,
-                use_wandb=config.use_wandb,
-                verbose=config.verbose,
-                num_aug=config.num_aug
+model = T5_Base(
+    data_path=config.data_path,
+    shared_docs_path=config.shared_docs_path,
+    num_examples=config.num_examples,
+    finetune=config.finetune,
+    data_aug=config.data_aug,
+    aug_path=config.aug_path,
+    gamma=config.gamma,
+    lr=config.lr,
+    epochs=config.epochs,
+    use_wandb=config.use_wandb,
+    verbose=config.verbose,
+    num_aug=config.num_aug
 )
 
 # perform the actual experiment
