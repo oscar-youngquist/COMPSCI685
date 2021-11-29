@@ -271,7 +271,7 @@ class ExperimentRunner:
                     logging.info(rouge_results)
                 logging.info("\n\n")
 
-            if self.wandb:
+            if self.use_wandb:
                 wandb.log("avg_results: ", avg_results)
                 wandb.log("avg runtime: ", np.mean(ex_runtimes), axis=0)
 
