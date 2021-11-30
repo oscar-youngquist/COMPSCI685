@@ -25,7 +25,7 @@ from Models.T5_Model import T5_Base
 parser = ArgumentParser(description="Experiment runner for t5 base and fine-tuned t5")
 parser.add_argument('--use_wandb', action='store_true') # Use weights and biases to track hyperparameters and training runs
 parser.add_argument('--wandb_silent', action='store_true') # Wandb silent mode, does not output any text about project run/syncing
-parser.add_argument('--wandb_username', type=string, default="")
+parser.add_argument('--wandb_username', type=str, default="")
 parser.add_argument('--verbose', action='store_true') # Print every predicted example (on by default, for long runs it should be turned off to clean up output)
 parser.add_argument('--finetune', action='store_true') # Fine tune model (as opposed to frozen model)
 parser.add_argument('--data_aug', action='store_true') # Use data augmentation (UDA)
