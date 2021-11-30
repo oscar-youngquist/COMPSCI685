@@ -86,7 +86,7 @@ wiki_path = os.path.join(Path(__file__).parent.parent.parent, "Wiki_Dump/Process
 
 # create an instance of the experiment runner class
 # num_examples, num_test, users_path, data_path, min_range, max_index
-exp_runner = ExperimentRunner(num_examples, num_test, users_path, data_path, min_range, max_range)
+exp_runner = ExperimentRunner(num_examples, num_test, users_path, data_path, min_range, max_range, shared_docs_path)
 os.environ["WANDB_SILENT"] = "true"
 
 # perform the actual experiment
