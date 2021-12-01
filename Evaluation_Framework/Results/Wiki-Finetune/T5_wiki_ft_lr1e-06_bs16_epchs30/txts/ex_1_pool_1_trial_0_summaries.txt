@@ -1,0 +1,18 @@
+Document:
+wisconsin
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+a French explorer who called the river Meskousing to Ouisconsin . Wisconsin is a state in the Great Lakes region of the Midwestern United States . Wisconsin is the 23rd-largest state by total area and the 20th-most populous .
+
+GT:
+Most of Wisconsin is classified as warm-summer humid continental climate (Köppen Dfb), while southern and southwestern portions are classified as hot-summer humid continental climate (Köppen Dfa). The highest temperature ever recorded in the state was in the Wisconsin Dells, on July 13, 1936, where it reached 114 °F (46 °C). The lowest temperature ever recorded in Wisconsin was in the village of Couderay, where it reached −55 °F (−48 °C) on both February 2 and 4, 1996. Wisconsin also receives a large amount of regular snowfall averaging around 40 inches (100 cm) in the southern portions with up to 160 inches (410 cm) annually in the Lake Superior snowbelt each year. Factors such as cultural identification with the state's heritage of German immigration, the long-standing presence of major breweries in Milwaukee, and a cold climate are often associated with the prevalence of drinking in Wisconsin. Winter events include skiing, ice fishing and snowmobile derbies.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1125, 0.47368421052631576, 0.18181818181818182, 0.11363636363636363]
+[0.012578616352201259, 0.05405405405405406, 0.020408163265306124, 0.012755102040816329]
+[0.06875, 0.2894736842105263, 0.11111111111111113, 0.06944444444444445]
+
+
+SBERT sim. Score: 0.5054622292518616

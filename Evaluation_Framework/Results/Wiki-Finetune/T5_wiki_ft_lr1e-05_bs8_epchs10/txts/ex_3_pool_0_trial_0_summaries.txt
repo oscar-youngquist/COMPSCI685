@@ -1,0 +1,18 @@
+Document:
+new_jersey
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+New Jersey is the fourth-smallest state state of of the the world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world world
+
+GT:
+This toll road, which overlaps with Interstate 95 for much of its length, carries traffic between Delaware and New York, and up and down the East Coast in general. Newark Liberty International Airport (EWR) is one of the busiest airports in the United States. Two smaller commercial airports, Atlantic City International Airport and rapidly growing Trenton-Mercer Airport, also operate in other parts of the state. NJ Transit operates extensive rail and bus service throughout the state. There is also a mineral museum Ogdensburg in Sussex County. Visitors and residents take advantage of and contribute to performances at the numerous music, theater, and dance companies and venues located throughout the state, including: New Jersey is the location of most of the boardwalks in the US, with nearly every town and city along the Jersey Shore area each having a boardwalk with various attractions, entertainment, shopping, dining, miniature golf, arcades, water parks with various water rides, including water slides, lazy rivers, wave pools, etc., and amusement parks hosting rides and attractions including roller coasters, carousels, Ferris wheels, bumper cars, teacups, etc.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.05555555555555555, 0.08928571428571429, 0.06849315068493152, 0.0428082191780822]
+[0.0223463687150838, 0.036036036036036036, 0.027586206896551727, 0.01724137931034483]
+[0.05, 0.08035714285714286, 0.06164383561643836, 0.038527397260273974]
+
+
+SBERT sim. Score: 0.36626043915748596

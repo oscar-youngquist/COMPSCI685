@@ -1,0 +1,18 @@
+Document:
+illinois
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+,,,,,, and the is a state in the Midwestern and Great Lakes regions of the United States. It has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all states. Illinois has long had a reputation as a bellwether both in social and cultural terms and through the 1980s, in politics.
+
+GT:
+By the early 2000s, Illinois's economy had moved toward a dependence on high-value-added services, such as financial trading, higher education, law, logistics, and medicine. Illinois is a leader in music education, having hosted the Midwest Clinic International Band and Orchestra Conference since 1946, as well being home to the Illinois Music Educators Association (IMEA), one of the largest professional music educator's organizations in the country. The Illinois State Board of Education (ISBE) is autonomous of the governor and the state legislature, and administers public education in the state. Local municipalities and their respective school districts operate individual public schools, but the ISBE audits performance of public schools with the Illinois School Report Card. The ISBE also makes recommendations to state leaders concerning education spending and policies. Education is compulsory for ages 7–17 in Illinois. Schools are commonly, but not exclusively, divided into three tiers of primary and secondary education: elementary school, middle school or junior high school, and high school. Many areas in the state are actually located in two school districts—one for high school, the other for elementary and middle schools.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14893617021276595, 0.4745762711864407, 0.22672064777327938, 0.1417004048582996]
+[0.0213903743315508, 0.06896551724137931, 0.03265306122448979, 0.02040816326530612]
+[0.10638297872340426, 0.3389830508474576, 0.16194331983805668, 0.10121457489878542]
+
+
+SBERT sim. Score: 0.43974658846855164

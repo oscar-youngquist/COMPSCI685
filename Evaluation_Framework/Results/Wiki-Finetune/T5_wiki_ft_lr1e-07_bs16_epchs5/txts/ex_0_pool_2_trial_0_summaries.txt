@@ -1,0 +1,18 @@
+Document:
+iowa
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+is the 26th most extensive in total area and the 30th most populous of the 50 US states . Iowa is bordered by the Mississippi River to the east and the Missouri River and Big Sioux River to the west . Iowa is the only state whose east and west borders are formed almost entirely by rivers .
+
+GT:
+Iowa has a humid continental climate throughout the state (Köppen climate classification Dfa) with extremes of both heat and cold. The average annual temperature at Des Moines is 50 °F (10 °C); for some locations in the north, such as Mason City, the figure is about 45 °F (7 °C), while Keokuk, on the Mississippi River, averages 52 °F (11 °C). Snowfall is common, with Des Moines getting about 26 days of snowfall a year, and other places, such as Shenandoah getting about 11 days of snowfall in a year. Spring ushers in the beginning of the severe weather season. Iowa averages about 50 days of thunderstorm activity per year. The 30-year annual average Tornadoes in Iowa is 47. Iowa summers are known for heat and humidity, with daytime temperatures sometimes near 90 °F (32 °C) and occasionally exceeding 100 °F (38 °C). Average winters in the state have been known to drop well below freezing, even dropping below −18 °F (−28 °C). Iowa has a relatively smooth gradient of varying precipitation across the state, with areas in the southeast of the state receiving an average of over 38 inches (97 cm) of rain annually, and the northwest of the state receiving less than 28 inches (71 cm). The pattern of precipitation across Iowa is seasonal, with more rain falling in the summer months. Virtually statewide, the driest month is January or February, and the wettest month is June, owing to frequent showers and thunderstorms, some of which produce hail, damaging winds and/or tornadoes. In Des Moines, roughly in the center of the state, over two-thirds of the 34.72 inches (88.2 cm) of rain falls from April through September, and about half the average annual precipitation falls from May through August, peaking in June.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09333333333333334, 0.509090909090909, 0.15774647887323942, 0.09859154929577464]
+[0.023411371237458192, 0.12962962962962962, 0.03966005665722379, 0.02478753541076487]
+[0.06666666666666667, 0.36363636363636365, 0.11267605633802817, 0.07042253521126761]
+
+
+SBERT sim. Score: 0.492397665977478

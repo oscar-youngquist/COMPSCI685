@@ -1,0 +1,18 @@
+Document:
+illinois
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+,,, and the Erie Canal (1848) made transportation between the Great Lakes and the Mississippi River valley faster and cheaper . Illinois has been noted as a microcosm of the entire United States . Illinois has been noted as a bellwether both in social and cultural terms and through the 1980s, in politics .
+
+GT:
+With Chicago in northeastern Illinois, small industrial cities and immense agricultural productivity in the north and center of the state, and natural resources such as coal, timber, and petroleum in the south, Illinois has a diverse economic base, and is a major transportation hub. The Port of Chicago connects the state to international ports via two main routes: from the Great Lakes, via the Saint Lawrence Seaway, to the Atlantic Ocean and from the Great Lakes to the Mississippi River, via the Illinois River, through the Illinois Waterway. The capital of Illinois is Springfield, which is located in the central part of the state. Rockford, at 152,871, is the third-largest city in the state, and is the largest city in the state not located within the Chicago suburbs. Illinois has numerous museums The modern Abraham Lincoln Presidential Library and Museum in Springfield is the largest and most attended presidential library in the country. Other historical museums in the state include the Polish Museum of America in Chicago; Magnolia Manor in Cairo; Easley Pioneer Museum in Ipava; the Elihu Benjamin Washburne; Ulysses S. Grant Homes, both in Galena; and the Chanute Air Museum, located on the former Chanute Air Force Base in Rantoul. The Chicago metropolitan area also hosts two zoos: The Brookfield Zoo, located about ten miles west of the city center in suburban Brookfield, contains more than 2,300 animals and covers 216 acres (87 ha). Illinois is a leader in music education, having hosted the Midwest Clinic International Band and Orchestra Conference since 1946, as well being home to the Illinois Music Educators Association (IMEA), one of the largest professional music educator's organizations in the country. Each summer since 2004, Southern Illinois University Carbondale has played host to the Southern Illinois Music Festival, which presents dozens of performances throughout the region. The Great Migration of poor black workers from the South into the industrial cities brought traditional jazz and blues music to the city, resulting in Chicago blues and "Chicago-style" Dixieland jazz.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08579881656804733, 0.58, 0.14948453608247422, 0.09342783505154638]
+[0.02967359050445104, 0.20408163265306123, 0.05181347150259068, 0.032383419689119175]
+[0.0650887573964497, 0.44, 0.1134020618556701, 0.0708762886597938]
+
+
+SBERT sim. Score: 0.4910655617713928

@@ -1,0 +1,18 @@
+Document:
+new_mexico
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+New Mexico is the 36th largest state by population . the economy of the state depends on oil drilling, mineral extraction, dryland farming, cattle ranching, acequia and landrace agriculture . a large number of US military personnel are employed in the state of New Mexico .
+
+GT:
+New Mexico's statewide average precipitation is 12.9 inches (330 mm) a year, with average monthly amounts peaking in the summer, as at Albuquerque, and Las Cruces in the south. The average annual temperatures can range from 65 °F (18 °C) in the southeast to below 40 °F (4 °C) in the northern mountains. During the summer, daytime temperatures can often exceed 100 °F (38 °C) at elevations below 5,000 feet (1,500 m), the average high temperature in July ranges from 99 °F (37 °C) at the lower elevations down to 78 °F (26 °C) at the higher elevations. In the colder months of November to March, many cities in New Mexico can have nighttime temperature lows in the teens above zero, or lower. The highest temperature recorded in New Mexico was 122 °F (50 °C) at the Waste Isolation Pilot Plant (WIPP) near Loving on June 27, 1994, and the lowest recorded temperature is −50 °F (−46 °C) at Gavilan (near Lindrith) on February 1, 1951. Astronomical observatories in New Mexico take advantage of unusually clear skies, including the Apache Point Observatory, the Very Large Array, the Magdalena Ridge Observatory, and others.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08163265306122448, 0.37209302325581395, 0.13389121338912133, 0.08368200836820082]
+[0.015384615384615385, 0.07142857142857142, 0.02531645569620253, 0.015822784810126583]
+[0.061224489795918366, 0.27906976744186046, 0.100418410041841, 0.06276150627615062]
+
+
+SBERT sim. Score: 0.39597833156585693

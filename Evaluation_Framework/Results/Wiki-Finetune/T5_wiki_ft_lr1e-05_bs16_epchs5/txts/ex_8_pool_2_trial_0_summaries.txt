@@ -1,0 +1,18 @@
+Document:
+california
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+the second largest subnational economy in the world . California is considered the origin of hippie counterculture, beach and car culture . it is considered the origin of the hippie counterculture, beach and car culture, the Internet, and the internet . California is considered the origin of the hippie counterculture, beach and car culture, the Internet, and the internet .
+
+GT:
+Although most of the state has a Mediterranean climate, due to the state's large size the climate ranges from polar to subtropical. The cool California Current offshore often creates summer fog near the coast. Farther inland, there are colder winters and hotter summers. The maritime moderation results in the shoreline summertime temperatures of Los Angeles and San Francisco being the coolest of all major metropolitan areas of the United States and uniquely cool compared to areas on the same latitude in the interior and on the east coast of the North American continent. Even the San Diego shoreline bordering Mexico is cooler in summer than most areas in the contiguous United States. Just a few miles inland, summer temperature extremes are significantly higher, with downtown Los Angeles being several degrees warmer than at the coast. The same microclimate phenomenon is seen in the climate of the Bay Area, where areas sheltered from the sea experience significantly hotter summers than nearby areas closer to the ocean. Northern parts of the state have more rain than the south. California's mountain ranges also influence the climate: some of the rainiest parts of the state are west-facing mountain slopes. Northwestern California has a temperate climate, and the Central Valley has a Mediterranean climate but with greater temperature extremes than the coast. The high mountains, including the Sierra Nevada, have an alpine climate with snow in winter and mild to moderate heat in summer. California's mountains produce rain shadows on the eastern side, creating extensive deserts. The higher elevation deserts of eastern California have hot summers and cold winters, while the low deserts east of the Southern California mountains have hot summers and nearly frostless mild winters. Death Valley, a desert with large expanses below sea level, is considered the hottest location in the world; the highest temperature in the world, 134 °F (56.7 °C), was recorded there on July 10, 1913. The lowest temperature in California was −45 °F (−43 °C) on January 20, 1937 in Boca.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07988165680473373, 0.48214285714285715, 0.13705583756345177, 0.08565989847715737]
+[0.020771513353115726, 0.12727272727272726, 0.03571428571428571, 0.022321428571428572]
+[0.0621301775147929, 0.375, 0.10659898477157362, 0.06662436548223351]
+
+
+SBERT sim. Score: 0.3092746138572693

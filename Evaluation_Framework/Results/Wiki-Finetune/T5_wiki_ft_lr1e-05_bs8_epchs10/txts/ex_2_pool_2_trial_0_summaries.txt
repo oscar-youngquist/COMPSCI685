@@ -1,0 +1,18 @@
+Document:
+illinois
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Illinois is the world's fifth largest gross domestic product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product product
+
+GT:
+With Chicago in northeastern Illinois, small industrial cities and immense agricultural productivity in the north and center of the state, and natural resources such as coal, timber, and petroleum in the south, Illinois has a diverse economic base, and is a major transportation hub. The Port of Chicago connects the state to international ports via two main routes: from the Great Lakes, via the Saint Lawrence Seaway, to the Atlantic Ocean and from the Great Lakes to the Mississippi River, via the Illinois River, through the Illinois Waterway. The capital of Illinois is Springfield, which is located in the central part of the state. Rockford, at 152,871, is the third-largest city in the state, and is the largest city in the state not located within the Chicago suburbs. Illinois has numerous museums The modern Abraham Lincoln Presidential Library and Museum in Springfield is the largest and most attended presidential library in the country. Other historical museums in the state include the Polish Museum of America in Chicago; Magnolia Manor in Cairo; Easley Pioneer Museum in Ipava; the Elihu Benjamin Washburne; Ulysses S. Grant Homes, both in Galena; and the Chanute Air Museum, located on the former Chanute Air Force Base in Rantoul. The Chicago metropolitan area also hosts two zoos: The Brookfield Zoo, located about ten miles west of the city center in suburban Brookfield, contains more than 2,300 animals and covers 216 acres (87 ha). Illinois is a leader in music education, having hosted the Midwest Clinic International Band and Orchestra Conference since 1946, as well being home to the Illinois Music Educators Association (IMEA), one of the largest professional music educator's organizations in the country. Each summer since 2004, Southern Illinois University Carbondale has played host to the Southern Illinois Music Festival, which presents dozens of performances throughout the region. The Great Migration of poor black workers from the South into the industrial cities brought traditional jazz and blues music to the city, resulting in Chicago blues and "Chicago-style" Dixieland jazz.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.01775147928994083, 0.05357142857142857, 0.02666666666666667, 0.016666666666666666]
+[0.005934718100890208, 0.018018018018018018, 0.008928571428571428, 0.005580357142857143]
+[0.014792899408284023, 0.044642857142857144, 0.022222222222222223, 0.013888888888888886]
+
+
+SBERT sim. Score: 0.3027235269546509

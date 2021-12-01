@@ -1,0 +1,18 @@
+Document:
+virginia
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Virginia is the most-populous city in the southern United States . the Commonwealth is a state in the mid-Atlantic region of the Southern United States . the state legislature is the Virginia General Assembly, which was established in 1619 .
+
+GT:
+The geography and climate of the Commonwealth are shaped by the Blue Ridge Mountains and the Chesapeake Bay, which provide habitat for much of its flora and fauna. Virginia has a humid subtropical climate that transitions to humid continental west of the Blue Ridge Mountains. Seasonal extremes vary from average lows of 25 °F (−4 °C) in January to average highs of 86 °F (30 °C) in July. The Atlantic Ocean and Gulf Stream have a strong effect on eastern and southeastern coastal areas of the commonwealth, making the climate there warmer and more constant. Most of Virginia's recorded extremes in temperature and precipitation have occurred in the Blue Ridge Mountains and areas west. Virginia receives an average of 43.34 inches (110 cm) of precipitation annually, with the Shenandoah Valley being the state's driest region due to the mountains on either side. Virginia has around 35–45 days with thunderstorms annually, and storms are common in the late afternoon and evenings between April and September. These months are also the most common for tornadoes, 19 of which touched down in the state in 2019. Hurricanes and tropical storms can occur from August to October, and though they typically impact coastal regions, the deadliest natural disaster in Virginia was Hurricane Camille, which killed over 150 people in 1969, mainly inland in Nelson County. Between December and March, cold-air damming caused by the Appalachian Mountains can lead to significant snowfalls across the state, such as the January 2016 blizzard, which created the state's highest recorded snowfall of 36.6 inches (93 cm) near Bluemont. Virginia only received 13.1 inches (33 cm) of snow during winter 2018–19, just above the state's average of 10 inches (25 cm). Urban heat islands can be found in many Virginia cities and suburbs, particularly in neighborhoods linked to historic redlining.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08038585209003216, 0.6410256410256411, 0.14285714285714288, 0.08928571428571427]
+[0.02258064516129032, 0.18421052631578946, 0.040229885057471264, 0.02514367816091954]
+[0.05466237942122187, 0.4358974358974359, 0.09714285714285714, 0.06071428571428571]
+
+
+SBERT sim. Score: 0.4653421938419342

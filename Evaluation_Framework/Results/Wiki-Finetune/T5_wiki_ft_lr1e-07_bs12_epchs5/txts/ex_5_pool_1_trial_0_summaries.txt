@@ -1,0 +1,18 @@
+Document:
+virginia
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+, the Commonwealth of Virginia, is a state in the Mid-Atlantic region of the Southern United States . Virginia has a total area of 42,774.2 square miles (110,784.7 km2), including 3,180.13 square miles (8,236.5 km2) of water . Virginia is the 35th state in the region, between the Atlantic Coast and the Appalachian Mountains .
+
+GT:
+Virginia's educational system consistently ranks in the top five states on the US Department of Education's National Assessment of Educational Progress, with Virginia students outperforming the average in all subject areas and grade levels tested. All school divisions must adhere to educational standards set forth by the Virginia Department of Education, which maintains an assessment and accreditation regime known as the Standards of Learning to ensure accountability. As off the 2018–19 academic year, a total of 1,290,576 students were enrolled in 2,293 local and regional schools in the Commonwealth, including eight charter schools, and an additional 98 alternative and special education centers across 133 school divisions. In 2019, 91.5 percent of high school students graduated on-time after four years, an increase of two percent from 2013, and 89.3 percent of adults over the age 25 had their high school diploma. Despite ending school segregation in the 1960s, seven percent of Virginia's public schools were rated as "intensely segregated" by The Civil Rights Project at UCLA in 2019, and the number has risen since 1989, when only three percent were. Virginia has comparatively large public school districts, typically comprising entire counties or cites, and this helps mitigate funding gaps seen in other states such that non-white districts average slightly more funding, $255 per student as of 2019, than majority white districts. Virginia also operates 23 community colleges on 40 campuses which enrolled more than 228,000 degree-seeking students during the 2018–2019 school year.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11372549019607843, 0.48333333333333334, 0.1841269841269841, 0.11507936507936507]
+[0.027559055118110236, 0.11864406779661017, 0.04472843450479234, 0.02795527156549521]
+[0.0784313725490196, 0.3333333333333333, 0.12698412698412698, 0.07936507936507936]
+
+
+SBERT sim. Score: 0.40932244062423706

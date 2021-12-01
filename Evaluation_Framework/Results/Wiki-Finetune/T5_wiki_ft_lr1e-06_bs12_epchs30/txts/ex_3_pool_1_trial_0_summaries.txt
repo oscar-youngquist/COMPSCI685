@@ -1,0 +1,18 @@
+Document:
+virginia
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+is the largest state in the United States. Virginia is the most-populous city in the world. Virginia is the most-populous city in the world. the Commonwealth is the largest political subdivision in the world. the Commonwealth is the largest state in the world. the Commonwealth is the largest state in the world. the Commonwealth is the largest state in the world. the Commonwealth is the largest state in the world. the Commonwealth is the largest state in the world. the Commonwealth is the largest state in the world. the Commonwealth is the largest state
+
+GT:
+The state government does fund some institutions, including the Virginia Museum of Fine Arts and the Science Museum of Virginia. The Harrison Opera House, in Norfolk, is home of the Virginia Opera. The Virginia Symphony Orchestra operates in and around Hampton Roads. Virginia has launched many award-winning traditional musical artists and internationally successful popular music acts, as well as Hollywood actors. The Virginia State Fair is held at the Meadow Event Park every September. Also in September is the Neptune Festival in Virginia Beach, which celebrates the city, the waterfront, and regional artists. A proposed arena in Virginia Beach designed for an NBA franchise became the latest unsuccessful sports initiative when the city council there ended support in 2017.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.23333333333333334, 0.2916666666666667, 0.2592592592592593, 0.16203703703703706]
+[0.008403361344537815, 0.010526315789473684, 0.009345794392523364, 0.005841121495327103]
+[0.21666666666666667, 0.2708333333333333, 0.24074074074074076, 0.15046296296296297]
+
+
+SBERT sim. Score: 0.333166241645813

@@ -1,0 +1,18 @@
+Document:
+alabama
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+,,,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+GT:
+Partially as a response to chronic underfunding of education for African Americans in the South, the Rosenwald Fund began funding the construction of what came to be known as Rosenwald Schools. In Alabama these schools were designed and the construction partially financed with Rosenwald funds, which paid one-third of the construction costs. In 1954, the US Supreme Court ruled in Brown v. Board of Education that public schools had to be desegregated, but Alabama was slow to comply. Republicans hold six of the eight elected seats on the Alabama State Board of Education. Public primary and secondary education in Alabama is under the purview of the Alabama State Board of Education as well as local oversight by 67 county school boards and 60 city boards of education. Public school funding is appropriated through the Alabama Legislature through the Education Trust Fund. In 2007, more than 82 percent of schools made adequate yearly progress (AYP) toward student proficiency under the National No Child Left Behind law, using measures determined by the state of Alabama. While Alabama's public education system has improved in recent decades, it lags behind in achievement compared to other states. Generally prohibited in the West at large, school corporal punishment is not unusual in Alabama, with 27,260 public school students paddled at least one time, according to government data for the 2011–2012 school year. Alabama's programs of higher education include 14 four-year public universities, two-year community colleges, and 17 private, undergraduate and graduate universities. In the state are four medical schools (as of fall 2015) (University of Alabama School of Medicine, University of South Alabama and Alabama College of Osteopathic Medicine and The Edward Via College of Osteopathic Medicine—Auburn Campus), two veterinary colleges (Auburn University and Tuskegee University), a dental school (University of Alabama School of Dentistry), an optometry college (University of Alabama at Birmingham), two pharmacy schools (Auburn University and Samford University), and five law schools (University of Alabama School of Law, Birmingham School of Law, Cumberland School of Law, Miles Law School, and the Thomas Goode Jones School of Law). Public, post-secondary education in Alabama is overseen by the Alabama Commission on Higher Education and the Alabama Department of Postsecondary Education. Colleges and universities in Alabama offer degree programs from two-year associate degrees to a multitude of doctoral level programs.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0, 0.0, 0.0, 0.0]
+[0.0, 0.0, 0.0, 0.0]
+[0.0, 0.0, 0.0, 0.0]
+
+
+SBERT sim. Score: -0.10807479172945023

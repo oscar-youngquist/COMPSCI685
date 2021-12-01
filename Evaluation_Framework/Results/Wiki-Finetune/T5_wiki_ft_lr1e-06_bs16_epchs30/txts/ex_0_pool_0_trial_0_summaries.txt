@@ -1,0 +1,18 @@
+Document:
+pennsylvania
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Pennsylvania is the 33rd-largest state by area, and the 5th-most populous state according to the most recent official US Census count in 2010 . Pennsylvania is the 9th-most densely populated of the 50 states, according to the most recent official US Census count in 2010 . Pennsylvania is the 9th-most densely populated of the 50 states, and the 5th-most populous state by area .
+
+GT:
+Pennsylvania's diverse topography also produces a variety of climates, though the entire state experiences cold winters and humid summers. Straddling two major zones, the majority of the state, except for the southeastern corner, has a humid continental climate (Köppen climate classification Dfa). The southern portion of the state has a humid subtropical climate. The largest city, Philadelphia, has some characteristics of the humid subtropical climate (Köppen Cfa) that covers much of Delaware and Maryland to the south. Summers are generally hot and humid. Moving toward the mountainous interior of the state, the winter climate becomes colder, the number of cloudy days increases, and snowfall amounts are greater. Western areas of the state, particularly locations near Lake Erie, can receive over 100 inches (250 cm) of snowfall annually, and the entire state receives plentiful precipitation throughout the year. The state may be subject to severe weather from spring through summer into autumn. Tornadoes occur annually in the state, sometimes in large numbers, such as 30 recorded tornadoes in 2011; generally speaking, these tornadoes do not cause significant damage.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1388888888888889, 0.3787878787878788, 0.2032520325203252, 0.12703252032520324]
+[0.0223463687150838, 0.06153846153846154, 0.03278688524590164, 0.020491803278688527]
+[0.1111111111111111, 0.30303030303030304, 0.16260162601626016, 0.10162601626016261]
+
+
+SBERT sim. Score: 0.4636772572994232

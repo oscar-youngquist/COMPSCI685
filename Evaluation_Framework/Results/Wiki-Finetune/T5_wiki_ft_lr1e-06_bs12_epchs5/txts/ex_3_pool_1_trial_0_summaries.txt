@@ -1,0 +1,18 @@
+Document:
+virginia
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+, the Commonwealth of Virginia, is a state in the Mid-Atlantic region of the Southern United States . Virginia has a total area of 42,774.2 square miles (110,784.7 km2), including 3,180.13 square miles (8,236.5 km2) of water . Virginia is the most-populous city, and Fairfax County is the most-populous political subdivision .
+
+GT:
+The state government does fund some institutions, including the Virginia Museum of Fine Arts and the Science Museum of Virginia. The Harrison Opera House, in Norfolk, is home of the Virginia Opera. The Virginia Symphony Orchestra operates in and around Hampton Roads. Virginia has launched many award-winning traditional musical artists and internationally successful popular music acts, as well as Hollywood actors. The Virginia State Fair is held at the Meadow Event Park every September. Also in September is the Neptune Festival in Virginia Beach, which celebrates the city, the waterfront, and regional artists. A proposed arena in Virginia Beach designed for an NBA franchise became the latest unsuccessful sports initiative when the city council there ended support in 2017.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.19166666666666668, 0.3898305084745763, 0.2569832402234637, 0.16061452513966482]
+[0.03361344537815126, 0.06896551724137931, 0.04519774011299435, 0.02824858757062147]
+[0.11666666666666667, 0.23728813559322035, 0.1564245810055866, 0.09776536312849161]
+
+
+SBERT sim. Score: 0.4126291871070862

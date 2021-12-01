@@ -1,0 +1,18 @@
+Document:
+idaho
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Idaho is a state in the Pacific Northwest region of the United States States . It is the 14th largest state in the world, and is the largest state state in the world . Idaho is the 14th largest state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state state
+
+GT:
+Although the state's western border is about 350 miles (560 km) from the Pacific Ocean, the maritime influence is still felt in Idaho, especially in the winter when cloud cover, humidity, and precipitation are at their maximum extent. This influence has a moderating effect in the winter where temperatures are not as low as would otherwise be expected for a northern state with predominantly high elevations. The maritime influence is least prominent in the state's eastern part where the precipitation patterns are often reversed, with wetter summers and drier winters, and seasonal temperature differences are more extreme, showing a more semi-arid continental climate. Idaho can be hot, although extended periods over 98 °F (37 °C) are rare, except for the lowest point in elevation, Lewiston, which correspondingly sees little snow. Hot summer days are tempered by the low relative humidity and cooler evenings during summer months since, for most of the state, the highest diurnal difference in temperature is often in the summer. Winters can be cold, although extended periods of bitter cold weather below zero are unusual. Idaho's all-time highest temperature of 118 °F (48 °C) was recorded at Orofino on July 28, 1934; the all-time lowest temperature of −60 °F (−51 °C) was recorded at Island Park Dam on January 18, 1943.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10909090909090909, 0.22857142857142856, 0.14769230769230768, 0.0923076923076923]
+[0.0228310502283105, 0.04807692307692308, 0.030959752321981428, 0.01934984520123839]
+[0.07727272727272727, 0.1619047619047619, 0.10461538461538461, 0.06538461538461539]
+
+
+SBERT sim. Score: 0.534421980381012

@@ -1,0 +1,18 @@
+Document:
+illinois
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+,,, and the Erie Canal (1848) made transportation between the Great Lakes and the Mississippi River valley faster and cheaper . The Illinois and Michigan Canal (1848) made transportation between the Great Lakes and the Mississippi River valley faster and cheaper . the state has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all states .
+
+GT:
+By the early 2000s, Illinois's economy had moved toward a dependence on high-value-added services, such as financial trading, higher education, law, logistics, and medicine. Illinois is a leader in music education, having hosted the Midwest Clinic International Band and Orchestra Conference since 1946, as well being home to the Illinois Music Educators Association (IMEA), one of the largest professional music educator's organizations in the country. The Illinois State Board of Education (ISBE) is autonomous of the governor and the state legislature, and administers public education in the state. Local municipalities and their respective school districts operate individual public schools, but the ISBE audits performance of public schools with the Illinois School Report Card. The ISBE also makes recommendations to state leaders concerning education spending and policies. Education is compulsory for ages 7–17 in Illinois. Schools are commonly, but not exclusively, divided into three tiers of primary and secondary education: elementary school, middle school or junior high school, and high school. Many areas in the state are actually located in two school districts—one for high school, the other for elementary and middle schools.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12234042553191489, 0.3709677419354839, 0.184, 0.11499999999999999]
+[0.016042780748663103, 0.04918032786885246, 0.024193548387096774, 0.015120967741935483]
+[0.09042553191489362, 0.27419354838709675, 0.136, 0.08499999999999999]
+
+
+SBERT sim. Score: 0.21459178626537323

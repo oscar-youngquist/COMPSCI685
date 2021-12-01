@@ -1,0 +1,18 @@
+Document:
+colorado
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+, the Colorado River, which was a major migration route for early peoples . Colorado is the 8th most extensive and 21st most populous state in the world . Colorado is a state in the western United States encompassing most of the southern Rocky Mountains .
+
+GT:
+The Spanish Empire claimed Colorado as part of its New Mexico province prior to US involvement in the region. Colonel Pike and his men were arrested by Spanish cavalrymen in the San Luis Valley the following February, taken to Chihuahua, and expelled from Mexico the following July. The US relinquished its claim to all land south and west of the Arkansas River and south of 42nd parallel north and west of the 100th meridian west as part of its purchase of Florida from Spain with the Adams-Onís Treaty of 1819. Having settled its border with Spain, the US admitted the southeastern portion of the Territory of Missouri to the Union as the state of Missouri on August 10, 1821. The remainder of Missouri Territory, including what would become northeastern Colorado, became unorganized territory, and remained so for 33 years over the question of slavery. On August 1, 1876 (four weeks after the Centennial of the United States), US President Ulysses S. Grant signed a proclamation admitting Colorado to the Union as the 38th state and earning it the moniker "Centennial State". The discovery of a major silver lode near Leadville in 1878 triggered the Colorado Silver Boom. Poor labor conditions and discontent among miners resulted in several major clashes between strikers and the Colorado National Guard, including the 1903-1904 Western Federation of Miners Strike and Colorado Coalfield War, the latter of which included the Ludlow massacre that killed a dozen women and children. Both the 1913-1914 Coalfield War and the Denver streetcar strike of 1920 resulted in federal troops intervening to end the violence. In 1927, the Columbine Mine massacre resulted in six dead strikers following a confrontation with Colorado Rangers. More than 5,000 Colorado miners—many immigrants—are estimated to have died in accidents since records began to be formally collected following an accident in Crested Butte that killed 59 in 1884.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07232704402515723, 0.5476190476190477, 0.12777777777777777, 0.0798611111111111]
+[0.01892744479495268, 0.14634146341463414, 0.033519553072625705, 0.02094972067039106]
+[0.050314465408805034, 0.38095238095238093, 0.0888888888888889, 0.05555555555555555]
+
+
+SBERT sim. Score: 0.40609344840049744

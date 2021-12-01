@@ -1,0 +1,18 @@
+Document:
+alabama
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Alabama is the 30th largest urban economy in the world . the largest city by population is Montgomery, Alabama, is the largest city by population . the largest city by population is Montgomery, Alabama, is the largest city by population population .
+
+GT:
+The state is classified as humid subtropical (Cfa) under the Koppen Climate Classification. The average annual temperature is 64 °F (18 °C). Generally, Alabama has very hot summers and mild winters with copious precipitation throughout the year. Alabama receives an average of 56 inches (1,400 mm) of rainfall annually and enjoys a lengthy growing season of up to 300 days in the southern part of the state. Summers in Alabama are among the hottest in the US, with high temperatures averaging over 90 °F (32 °C) throughout the summer in some parts of the state. Alabama is also prone to tropical storms and even hurricanes. Areas of the state far away from the Gulf are not immune to the effects of the storms, which often dump tremendous amounts of rain as they move inland and weaken. The Gulf Coast, around Mobile Bay, averages between 70 and 80 days per year with thunder reported. This activity decreases somewhat further north in the state, but even the far north of the state reports thunder on about 60 days per year. Occasionally, thunderstorms are severe with frequent lightning and large hail; the central and northern parts of the state are most vulnerable to this type of storm. Alabama ranks ninth in the number of deaths from lightning and tenth in the number of deaths from lightning strikes per capita. Alabama, along with Oklahoma and Iowa, has the most confirmed F5 and EF5 tornadoes of any state, according to statistics from the National Climatic Data Center for the period January 1, 1950, to June 2013. Several long-tracked F5/EF5 tornadoes have contributed to Alabama reporting more tornado fatalities since 1950 than any other state. The peak season for tornadoes varies from the northern to southern parts of the state. Alabama is one of the few places in the world that has a secondary tornado season in November and December besides the typically severe spring. Winters are generally mild in Alabama, as they are throughout most of the Southeastern United States, with average January low temperatures around 40 °F (4 °C) in Mobile and around 32 °F (0 °C) in Birmingham. Although snow is a rare event in much of Alabama, areas of the state north of Montgomery may receive a dusting of snow a few times every winter, with an occasional moderately heavy snowfall every few years.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.043037974683544304, 0.4358974358974359, 0.07834101382488479, 0.048963133640553]
+[0.01015228426395939, 0.10526315789473684, 0.018518518518518517, 0.011574074074074073]
+[0.03291139240506329, 0.3333333333333333, 0.05990783410138249, 0.03744239631336406]
+
+
+SBERT sim. Score: 0.349732905626297

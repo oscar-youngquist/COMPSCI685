@@ -1,0 +1,18 @@
+Document:
+california
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+It is considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered considered
+
+GT:
+Although most of the state has a Mediterranean climate, due to the state's large size the climate ranges from polar to subtropical. The cool California Current offshore often creates summer fog near the coast. Farther inland, there are colder winters and hotter summers. The maritime moderation results in the shoreline summertime temperatures of Los Angeles and San Francisco being the coolest of all major metropolitan areas of the United States and uniquely cool compared to areas on the same latitude in the interior and on the east coast of the North American continent. Even the San Diego shoreline bordering Mexico is cooler in summer than most areas in the contiguous United States. Just a few miles inland, summer temperature extremes are significantly higher, with downtown Los Angeles being several degrees warmer than at the coast. The same microclimate phenomenon is seen in the climate of the Bay Area, where areas sheltered from the sea experience significantly hotter summers than nearby areas closer to the ocean. Northern parts of the state have more rain than the south. California's mountain ranges also influence the climate: some of the rainiest parts of the state are west-facing mountain slopes. Northwestern California has a temperate climate, and the Central Valley has a Mediterranean climate but with greater temperature extremes than the coast. The high mountains, including the Sierra Nevada, have an alpine climate with snow in winter and mild to moderate heat in summer. California's mountains produce rain shadows on the eastern side, creating extensive deserts. The higher elevation deserts of eastern California have hot summers and cold winters, while the low deserts east of the Southern California mountains have hot summers and nearly frostless mild winters. Death Valley, a desert with large expanses below sea level, is considered the hottest location in the world; the highest temperature in the world, 134 °F (56.7 °C), was recorded there on July 10, 1913. The lowest temperature in California was −45 °F (−43 °C) on January 20, 1937 in Boca.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.005917159763313609, 0.017699115044247787, 0.008869179600886918, 0.005543237250554323]
+[0.002967359050445104, 0.008928571428571428, 0.004454342984409799, 0.0027839643652561247]
+[0.005917159763313609, 0.017699115044247787, 0.008869179600886918, 0.005543237250554323]
+
+
+SBERT sim. Score: 0.06256283819675446

@@ -1,0 +1,18 @@
+Document:
+pennsylvania
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Pennsilfaani, officially the Commonwealth of Pennsylvania, is a state in the Mid-Atlantic, Appalachian and Great Lakes regions of the Northeastern United States States . Pennsylvania is the 33rd-largest state by area, and the 5th-most populous state according to the latest census count . Pennsylvania is the 9th-largest state by area, and the 5th-largest state by area area, according to the latest census count .
+
+GT:
+Pennsylvania has 500 public school districts, thousands of private schools, publicly funded colleges and universities, and over 100 private institutions of higher education. In general, under state law, school attendance in Pennsylvania is mandatory for a child from the age of 8 until the age of 17, or until graduation from an accredited high school, whichever is earlier. The Pennsylvania State System of Higher Education (PASSHE) is the public university system of the Commonwealth, with 14 state-owned schools. West Chester University has by far the largest student body of the 14 universities. The Commonwealth System of Higher Education is an organizing body of the four state-related schools in Pennsylvania; these schools (Pennsylvania State University, Lincoln University, the University of Pittsburgh, and Temple University) are independent institutions that receive some state funding. There are also 15 publicly funded two-year community colleges and technical schools that are separate from the PASSHE system. Additionally, there are many private two- and four-year technical schools, colleges, and universities. Carnegie Mellon University, The Pennsylvania State University, the University of Pennsylvania, and the University of Pittsburgh are members of the Association of American Universities, an invitation-only organization of leading research universities. The Lake Erie College of Osteopathic Medicine (LECOM) is a private graduate school of medicine, dentistry, and pharmacy with a main campus in Erie, Pennsylvania, and a branch campus located in Greensburg, Pennsylvania (with two other campuses outside of Pennsylvania). With over 2,200 enrolled medical students, the College of Osteopathic Medicine at LECOM is the largest medical school in the United States.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13358778625954199, 0.5303030303030303, 0.21341463414634146, 0.13338414634146342]
+[0.038314176245210725, 0.15384615384615385, 0.06134969325153374, 0.03834355828220858]
+[0.08778625954198473, 0.3484848484848485, 0.1402439024390244, 0.08765243902439024]
+
+
+SBERT sim. Score: 0.4205653965473175

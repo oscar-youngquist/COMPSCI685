@@ -1,0 +1,18 @@
+Document:
+alabama
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+,,,aamo, or Albaamo, is a tribe of the Alabama people, a Muskogean-speaking tribe whose members lived just below the confluence of the Coosa and Tallapoosa rivers . Alabama is the 30th largest by area and the 24th-most populous of the US states . Alabama is the largest by area and the most populous of the US states . Alabama is the most industrialized city; the largest city by land area is
+
+GT:
+Alabama's capital is Montgomery. The largest city by population is Birmingham, which has long been the most industrialized city; the largest city by land area is Huntsville. The oldest city is Mobile, founded by French colonists in 1702 as the capital of French Louisiana. Alabama's highest temperature of 112 °F (44 °C) was recorded on September 5, 1925, in the unincorporated community of Centerville. The record low of −27 °F (−33 °C) occurred on January 30, 1966, in New Market. Alabama is home to a diverse array of flora and fauna in habitats that range from the Tennessee Valley, Appalachian Plateau, and Ridge-and-Valley Appalachians of the north to the Piedmont, Canebrake, and Black Belt of the central region to the Gulf Coastal Plain and beaches along the Gulf of Mexico in the south. The state is home to various attractions, natural features, parks and events that attract visitors from around the globe, notably the annual Hangout Music Festival, held on the public beaches of Gulf Shores; the Alabama Shakespeare Festival, one of the ten largest Shakespeare festivals in the world; the Robert Trent Jones Golf Trail, a collection of championship caliber golf courses distributed across the state; casinos such as Victoryland; amusement parks such as Alabama Splash Adventure; the Riverchase Galleria, one of the largest shopping centers in the southeast; Guntersville Lake, voted the best lake in Alabama by Southern Living Magazine readers; and the Alabama Museum of Natural History, the oldest museum in the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.18, 0.6428571428571429, 0.28124999999999994, 0.17578124999999997]
+[0.07228915662650602, 0.2608695652173913, 0.11320754716981131, 0.07075471698113207]
+[0.108, 0.38571428571428573, 0.16875, 0.10546875]
+
+
+SBERT sim. Score: 0.4187363088130951

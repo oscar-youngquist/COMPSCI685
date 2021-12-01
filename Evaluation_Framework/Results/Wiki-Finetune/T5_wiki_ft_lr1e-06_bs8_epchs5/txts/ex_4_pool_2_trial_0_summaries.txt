@@ -1,0 +1,18 @@
+Document:
+illinois
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+,,, and the Erie Canal (1848) made transportation between the Great Lakes and the Mississippi River valley faster and cheaper . Illinois has been noted as a microcosm of the entire United States . Illinois has been noted as a bellwether both in social and cultural terms and through the 1980s, in politics .
+
+GT:
+By the early 2000s, Illinois's economy had moved toward a dependence on high-value-added services, such as financial trading, higher education, law, logistics, and medicine. Illinois is a leader in music education, having hosted the Midwest Clinic International Band and Orchestra Conference since 1946, as well being home to the Illinois Music Educators Association (IMEA), one of the largest professional music educator's organizations in the country. The Illinois State Board of Education (ISBE) is autonomous of the governor and the state legislature, and administers public education in the state. Local municipalities and their respective school districts operate individual public schools, but the ISBE audits performance of public schools with the Illinois School Report Card. The ISBE also makes recommendations to state leaders concerning education spending and policies. Education is compulsory for ages 7–17 in Illinois. Schools are commonly, but not exclusively, divided into three tiers of primary and secondary education: elementary school, middle school or junior high school, and high school. Many areas in the state are actually located in two school districts—one for high school, the other for elementary and middle schools.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10638297872340426, 0.4, 0.16806722689075632, 0.10504201680672268]
+[0.0106951871657754, 0.04081632653061224, 0.016949152542372878, 0.01059322033898305]
+[0.07446808510638298, 0.28, 0.11764705882352941, 0.07352941176470588]
+
+
+SBERT sim. Score: 0.3206007480621338

@@ -1,0 +1,18 @@
+Document:
+illinois
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+,,, and the Erie Canal (1848) made transportation between the Great Lakes and the Mississippi River valley faster and cheaper . Illinois has been noted as a microcosm of the entire United States . the state has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all states .
+
+GT:
+Illinois has a climate that varies widely throughout the year. Because of its nearly 400-mile distance between its northernmost and southernmost extremes, as well as its mid-continental situation, most of Illinois has a humid continental climate (Köppen climate classification Dfa), with hot, humid summers and cold winters. The southern part of the state, from about Carbondale southward, has a humid subtropical climate (Koppen Cfa), with more moderate winters. Average yearly precipitation for Illinois varies from just over 48 inches (1,219 mm) at the southern tip to around 35 inches (889 mm) in the northern portion of the state. Normal annual snowfall exceeds 38 inches (965 mm) in the Chicago area, while the southern portion of the state normally receives less than 14 inches (356 mm). The all-time high temperature was 117 °F (47 °C), recorded on July 14, 1954, at East St. Louis, and the all-time low temperature was −38 °F (−39 °C), recorded on January 31, 2019, during the January 2019 North American cold wave at a weather station near Mount Carroll, and confirmed on March 5, 2019. Illinois averages approximately 51 days of thunderstorm activity a year, which ranks somewhat above average in the number of thunderstorm days for the United States. Illinois is vulnerable to tornadoes, with an average of 35 occurring annually, which puts much of the state at around five tornadoes per 10,000 square miles (30,000 km2) annually.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1078838174273859, 0.48148148148148145, 0.17627118644067796, 0.11016949152542375]
+[0.020833333333333332, 0.09433962264150944, 0.034129692832764506, 0.021331058020477814]
+[0.07053941908713693, 0.3148148148148148, 0.11525423728813558, 0.07203389830508473]
+
+
+SBERT sim. Score: 0.40428242087364197

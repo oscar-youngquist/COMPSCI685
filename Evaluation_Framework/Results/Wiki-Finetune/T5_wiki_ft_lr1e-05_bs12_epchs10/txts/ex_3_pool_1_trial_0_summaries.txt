@@ -1,0 +1,18 @@
+Document:
+virginia
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+the Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth Commonwealth
+
+GT:
+The state government does fund some institutions, including the Virginia Museum of Fine Arts and the Science Museum of Virginia. The Harrison Opera House, in Norfolk, is home of the Virginia Opera. The Virginia Symphony Orchestra operates in and around Hampton Roads. Virginia has launched many award-winning traditional musical artists and internationally successful popular music acts, as well as Hollywood actors. The Virginia State Fair is held at the Meadow Event Park every September. Also in September is the Neptune Festival in Virginia Beach, which celebrates the city, the waterfront, and regional artists. A proposed arena in Virginia Beach designed for an NBA franchise became the latest unsuccessful sports initiative when the city council there ended support in 2017.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.008333333333333333, 0.008928571428571428, 0.008620689655172412, 0.005387931034482758]
+[0.0, 0.0, 0.0, 0.0]
+[0.008333333333333333, 0.008928571428571428, 0.008620689655172412, 0.005387931034482758]
+
+
+SBERT sim. Score: 0.06683450937271118

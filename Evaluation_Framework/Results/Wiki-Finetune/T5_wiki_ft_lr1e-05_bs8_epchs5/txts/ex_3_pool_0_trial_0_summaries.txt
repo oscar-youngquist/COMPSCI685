@@ -1,0 +1,18 @@
+Document:
+new_jersey
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+the developed developed into the region of the Northeast region of the Northeast region of the Northeast region of the Northeast region . New Jersey is the fourth-largest state by area area, with 8,882,190 residents per year . New Jersey is the fourth-largest state by area area area area area area area area area area area area area area area area area area area area area area area area area area area area area area area area area area area area area area area area area area area area area area area area area area area area
+
+GT:
+This toll road, which overlaps with Interstate 95 for much of its length, carries traffic between Delaware and New York, and up and down the East Coast in general. Newark Liberty International Airport (EWR) is one of the busiest airports in the United States. Two smaller commercial airports, Atlantic City International Airport and rapidly growing Trenton-Mercer Airport, also operate in other parts of the state. NJ Transit operates extensive rail and bus service throughout the state. There is also a mineral museum Ogdensburg in Sussex County. Visitors and residents take advantage of and contribute to performances at the numerous music, theater, and dance companies and venues located throughout the state, including: New Jersey is the location of most of the boardwalks in the US, with nearly every town and city along the Jersey Shore area each having a boardwalk with various attractions, entertainment, shopping, dining, miniature golf, arcades, water parks with various water rides, including water slides, lazy rivers, wave pools, etc., and amusement parks hosting rides and attractions including roller coasters, carousels, Ferris wheels, bumper cars, teacups, etc.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12777777777777777, 0.23232323232323232, 0.16487455197132617, 0.10304659498207885]
+[0.0335195530726257, 0.061224489795918366, 0.04332129963898916, 0.027075812274368227]
+[0.08333333333333333, 0.15151515151515152, 0.1075268817204301, 0.0672043010752688]
+
+
+SBERT sim. Score: 0.45626962184906006

@@ -1,0 +1,18 @@
+Document:
+virginia
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+is the largest state in the United States, between the Atlantic Coast and the Appalachian Mountains . Virginia is the largest-populous city in the country, with 36% of them living in the metropolitan area . the state legislature is the Virginia General Assembly, which was established in 1619 .
+
+GT:
+The geography and climate of the Commonwealth are shaped by the Blue Ridge Mountains and the Chesapeake Bay, which provide habitat for much of its flora and fauna. Virginia has a humid subtropical climate that transitions to humid continental west of the Blue Ridge Mountains. Seasonal extremes vary from average lows of 25 °F (−4 °C) in January to average highs of 86 °F (30 °C) in July. The Atlantic Ocean and Gulf Stream have a strong effect on eastern and southeastern coastal areas of the commonwealth, making the climate there warmer and more constant. Most of Virginia's recorded extremes in temperature and precipitation have occurred in the Blue Ridge Mountains and areas west. Virginia receives an average of 43.34 inches (110 cm) of precipitation annually, with the Shenandoah Valley being the state's driest region due to the mountains on either side. Virginia has around 35–45 days with thunderstorms annually, and storms are common in the late afternoon and evenings between April and September. These months are also the most common for tornadoes, 19 of which touched down in the state in 2019. Hurricanes and tropical storms can occur from August to October, and though they typically impact coastal regions, the deadliest natural disaster in Virginia was Hurricane Camille, which killed over 150 people in 1969, mainly inland in Nelson County. Between December and March, cold-air damming caused by the Appalachian Mountains can lead to significant snowfalls across the state, such as the January 2016 blizzard, which created the state's highest recorded snowfall of 36.6 inches (93 cm) near Bluemont. Virginia only received 13.1 inches (33 cm) of snow during winter 2018–19, just above the state's average of 10 inches (25 cm). Urban heat islands can be found in many Virginia cities and suburbs, particularly in neighborhoods linked to historic redlining.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09646302250803858, 0.6382978723404256, 0.16759776536312848, 0.1047486033519553]
+[0.02903225806451613, 0.1956521739130435, 0.050561797752808994, 0.03160112359550562]
+[0.06430868167202572, 0.425531914893617, 0.111731843575419, 0.06983240223463688]
+
+
+SBERT sim. Score: 0.4354207515716553

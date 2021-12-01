@@ -1,0 +1,18 @@
+Document:
+illinois
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+,,,,,, and, is a state in the Midwestern and Great Lakes regions of the United States . Illinois has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all states . the capital of Illinois is Springfield, which is located in the central part of the state .
+
+GT:
+Illinois has a climate that varies widely throughout the year. Because of its nearly 400-mile distance between its northernmost and southernmost extremes, as well as its mid-continental situation, most of Illinois has a humid continental climate (Köppen climate classification Dfa), with hot, humid summers and cold winters. The southern part of the state, from about Carbondale southward, has a humid subtropical climate (Koppen Cfa), with more moderate winters. Average yearly precipitation for Illinois varies from just over 48 inches (1,219 mm) at the southern tip to around 35 inches (889 mm) in the northern portion of the state. Normal annual snowfall exceeds 38 inches (965 mm) in the Chicago area, while the southern portion of the state normally receives less than 14 inches (356 mm). The all-time high temperature was 117 °F (47 °C), recorded on July 14, 1954, at East St. Louis, and the all-time low temperature was −38 °F (−39 °C), recorded on January 31, 2019, during the January 2019 North American cold wave at a weather station near Mount Carroll, and confirmed on March 5, 2019. Illinois averages approximately 51 days of thunderstorm activity a year, which ranks somewhat above average in the number of thunderstorm days for the United States. Illinois is vulnerable to tornadoes, with an average of 35 occurring annually, which puts much of the state at around five tornadoes per 10,000 square miles (30,000 km2) annually.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12863070539419086, 0.5849056603773585, 0.21088435374149658, 0.13180272108843535]
+[0.05416666666666667, 0.25, 0.08904109589041095, 0.05565068493150685]
+[0.08713692946058091, 0.39622641509433965, 0.14285714285714285, 0.08928571428571429]
+
+
+SBERT sim. Score: 0.43459346890449524

@@ -1,0 +1,18 @@
+Document:
+virginia
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+Virginia is the most-populous city in the country . Virginia is the most-populous city in the country . the state legislature is the Virginia General Assembly . the state government is unique in how it treats cities and counties equally .
+
+GT:
+The state government does fund some institutions, including the Virginia Museum of Fine Arts and the Science Museum of Virginia. The Harrison Opera House, in Norfolk, is home of the Virginia Opera. The Virginia Symphony Orchestra operates in and around Hampton Roads. Virginia has launched many award-winning traditional musical artists and internationally successful popular music acts, as well as Hollywood actors. The Virginia State Fair is held at the Meadow Event Park every September. Also in September is the Neptune Festival in Virginia Beach, which celebrates the city, the waterfront, and regional artists. A proposed arena in Virginia Beach designed for an NBA franchise became the latest unsuccessful sports initiative when the city council there ended support in 2017.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.18333333333333332, 0.5641025641025641, 0.27672955974842767, 0.17295597484276728]
+[0.03361344537815126, 0.10526315789473684, 0.050955414012738856, 0.03184713375796178]
+[0.125, 0.38461538461538464, 0.18867924528301888, 0.11792452830188681]
+
+
+SBERT sim. Score: 0.37908610701560974

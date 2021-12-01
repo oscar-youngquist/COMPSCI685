@@ -1,0 +1,18 @@
+Document:
+illinois
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+the Great Lakes and the Great Lakes River valley are the major major cities in the state . Illinois has the fifth largest gross domestic product (GDP) and the fifth largest gross domestic product (GDP) of the state . Illinois has a diverse economic base and is a major transportation hub in the state of Illinois .
+
+GT:
+By the early 2000s, Illinois's economy had moved toward a dependence on high-value-added services, such as financial trading, higher education, law, logistics, and medicine. Illinois is a leader in music education, having hosted the Midwest Clinic International Band and Orchestra Conference since 1946, as well being home to the Illinois Music Educators Association (IMEA), one of the largest professional music educator's organizations in the country. The Illinois State Board of Education (ISBE) is autonomous of the governor and the state legislature, and administers public education in the state. Local municipalities and their respective school districts operate individual public schools, but the ISBE audits performance of public schools with the Illinois School Report Card. The ISBE also makes recommendations to state leaders concerning education spending and policies. Education is compulsory for ages 7–17 in Illinois. Schools are commonly, but not exclusively, divided into three tiers of primary and secondary education: elementary school, middle school or junior high school, and high school. Many areas in the state are actually located in two school districts—one for high school, the other for elementary and middle schools.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13829787234042554, 0.48148148148148145, 0.21487603305785125, 0.13429752066115702]
+[0.0427807486631016, 0.1509433962264151, 0.06666666666666667, 0.041666666666666664]
+[0.09574468085106383, 0.3333333333333333, 0.14876033057851237, 0.09297520661157023]
+
+
+SBERT sim. Score: 0.39664900302886963

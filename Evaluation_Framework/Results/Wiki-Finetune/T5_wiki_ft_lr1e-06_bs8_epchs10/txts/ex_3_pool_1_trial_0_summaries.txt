@@ -1,0 +1,18 @@
+Document:
+virginia
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+is the largest state in the United States, between the Atlantic Coast and the Appalachian Mountains . Virginia is the most-populous city, and Fairfax County is the most-populous political subdivision . the state legislature is the Virginia General Assembly, which was established in 1619 .
+
+GT:
+The state government does fund some institutions, including the Virginia Museum of Fine Arts and the Science Museum of Virginia. The Harrison Opera House, in Norfolk, is home of the Virginia Opera. The Virginia Symphony Orchestra operates in and around Hampton Roads. Virginia has launched many award-winning traditional musical artists and internationally successful popular music acts, as well as Hollywood actors. The Virginia State Fair is held at the Meadow Event Park every September. Also in September is the Neptune Festival in Virginia Beach, which celebrates the city, the waterfront, and regional artists. A proposed arena in Virginia Beach designed for an NBA franchise became the latest unsuccessful sports initiative when the city council there ended support in 2017.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.175, 0.4772727272727273, 0.25609756097560976, 0.16006097560975607]
+[0.03361344537815126, 0.09302325581395349, 0.04938271604938272, 0.030864197530864196]
+[0.13333333333333333, 0.36363636363636365, 0.1951219512195122, 0.12195121951219513]
+
+
+SBERT sim. Score: 0.4626617729663849

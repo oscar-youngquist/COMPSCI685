@@ -1,0 +1,18 @@
+Document:
+new_jersey
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+the of the, the second-wealthest US state by median household income . New Jersey was first inhabited by Native Americans for at least 2,800 years . New Jersey was the second-wealthest state by median household income .
+
+GT:
+As of 2010, there were 605 school districts in the state. In 2010, the state government paid all teachers' premiums for health insurance, but currently all NJ public teachers pay a portion of their own health insurance premiums. New Jersey is known for the quality of its education. According to 2011 Newsweek statistics, students of High Technology High School in Lincroft, Monmouth County and Bergen County Academies in Hackensack, Bergen County registered average SAT scores of 2145 and 2100, respectively, representing the second- and third-highest scores, respectively, of all listed US high schools. In 2013, Rutgers University, headquartered in New Brunswick, Middlesex County as the flagship institution of higher education in New Jersey, regained medical and dental schools, augmenting its profile as a national research university as well. In 2014, New Jersey's school systems were ranked at the top of all fifty US states by financial website Wallethub.com. A 2017 UCLA Civil Rights project found that New Jersey has the sixth-most segregated classrooms in the United States.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0935672514619883, 0.43243243243243246, 0.15384615384615385, 0.09615384615384615]
+[0.029411764705882353, 0.1388888888888889, 0.04854368932038835, 0.030339805825242715]
+[0.07602339181286549, 0.35135135135135137, 0.125, 0.078125]
+
+
+SBERT sim. Score: 0.4271397590637207

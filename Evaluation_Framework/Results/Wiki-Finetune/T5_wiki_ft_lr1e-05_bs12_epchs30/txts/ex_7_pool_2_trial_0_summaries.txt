@@ -1,0 +1,18 @@
+Document:
+west_virginia
+
+Intent:
+What are the major historical events in this state?
+\Predicted Summary:
+The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The
+
+GT:
+In the 1670s during the Beaver Wars, the powerful Iroquois, five allied nations based in present-day New York and Pennsylvania, drove out other American Indian tribes from the region in order to reserve the upper Ohio Valley as a hunting ground. Residents of the western and northern counties set up a separate government under Francis Pierpont in 1861, which they called the Restored Government. Trading posts were established by European traders along the Potomac and James rivers. During the Beaver Wars, other tribes moved into the region. In 1671, General Abraham Wood, at the direction of Royal Governor William Berkeley of the Virginia Colony, sent a party from Fort Henry led by Thomas Batts and Robert Fallam to survey this territory. Christopher Gist, a surveyor in the employ of the first Ohio Company, which was composed chiefly of Virginians, explored the country along the Ohio River north of the mouth of the Kanawha River between 1751 and 1752. Shortly before the American Revolutionary War, in 1774 the Crown Governor of Virginia John Murray, 4th Earl of Dunmore, led a force over the mountains. A body of militia under then-Colonel Andrew Lewis dealt the Shawnee Indians, under Hokoleskwa (or "Cornstalk"), a crushing blow during the Battle of Point Pleasant at the junction of the Kanawha and the Ohio rivers.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11818181818181818, 0.23008849557522124, 0.15615615615615616, 0.0975975975975976]
+[0.0, 0.0, 0.0, 0.0]
+[0.11818181818181818, 0.23008849557522124, 0.15615615615615616, 0.0975975975975976]
+
+
+SBERT sim. Score: -0.05717887356877327

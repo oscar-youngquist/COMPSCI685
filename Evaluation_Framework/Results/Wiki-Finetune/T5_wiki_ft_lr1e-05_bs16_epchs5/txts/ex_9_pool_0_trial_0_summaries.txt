@@ -1,0 +1,18 @@
+Document:
+louisiana
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+Louisiana is the 19th-smallest by area and the 25th most populous of the 50 US states . Louisiana is bordered by the state of Texas to the west, Arkansas to the north, Mississippi to the east, and the Gulf of Mexico to the south . Louisiana is the only US state with political subdivisions termed parishes, which are equivalent to counties .
+
+GT:
+Louisiana has a humid subtropical climate (Köppen climate classification Cfa), with long, hot, humid summers and short, mild winters. The subtropical characteristics of the state are due to its low latitude, low lying topography, and the influence of the Gulf of Mexico, which at its farthest point is no more than 200 mi (320 km) away. Rain is frequent throughout the year, although from April to September is slightly wetter than the rest of the year, which is the state's wet season. In summer, thunderstorms build during the heat of the day and bring intense but brief, tropical downpours. In winter, rainfall is more frontal and less intense. Summers in southern Louisiana have high temperatures from June through September averaging 90 °F (32 °C) or more, and overnight lows averaging above 70 °F (21 °C). At times, temperatures in the 90s F, combined with dew points in the upper 70s F, create sensible temperatures over 120 °F (49 °C). Temperatures are generally warm in the winter in the southern part of the state, with highs around New Orleans, Baton Rouge, the rest of south Louisiana, and the Gulf of Mexico averaging 66 °F (19 °C). The northern part of the state is mildly cool in the winter, with highs averaging 59 °F (15 °C). The overnight lows in the winter average well above freezing throughout the state, with 46 °F (8 °C) the average near the Gulf and an average low of 37 °F (3 °C) in the winter in the northern part of the state. On occasion, cold fronts from low-pressure centers to the north, reach Louisiana in winter. Low temperatures near 20 °F (−7 °C) occur on occasion in the northern part of the state but rarely do so in the southern part of the state. Snow is rare near the Gulf of Mexico, although residents in the northern parts of the state might receive a dusting of snow a few times each decade. Louisiana is often affected by tropical cyclones and is very vulnerable to strikes by major hurricanes, particularly the lowlands around and in the New Orleans area. The area is also prone to frequent thunderstorms, especially in the summer. The entire state averages over 60 days of thunderstorms a year, more than any other state except Florida. Louisiana averages 27 tornadoes annually. Tornadoes are more common from January to March in the southern part of the state, and from February through March in the northern part of the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09352517985611511, 0.65, 0.16352201257861637, 0.10220125786163523]
+[0.03125, 0.22033898305084745, 0.05473684210526317, 0.034210526315789476]
+[0.06954436450839328, 0.48333333333333334, 0.12159329140461216, 0.0759958071278826]
+
+
+SBERT sim. Score: 0.5464791655540466

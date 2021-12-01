@@ -1,0 +1,18 @@
+Document:
+new_mexico
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+New Mexico is the 36th largest state by population . the state is the sixth largest state by population . the state is the sixth largest state by population .
+
+GT:
+New Mexico's statewide average precipitation is 12.9 inches (330 mm) a year, with average monthly amounts peaking in the summer, as at Albuquerque, and Las Cruces in the south. The average annual temperatures can range from 65 °F (18 °C) in the southeast to below 40 °F (4 °C) in the northern mountains. During the summer, daytime temperatures can often exceed 100 °F (38 °C) at elevations below 5,000 feet (1,500 m), the average high temperature in July ranges from 99 °F (37 °C) at the lower elevations down to 78 °F (26 °C) at the higher elevations. In the colder months of November to March, many cities in New Mexico can have nighttime temperature lows in the teens above zero, or lower. The highest temperature recorded in New Mexico was 122 °F (50 °C) at the Waste Isolation Pilot Plant (WIPP) near Loving on June 27, 1994, and the lowest recorded temperature is −50 °F (−46 °C) at Gavilan (near Lindrith) on February 1, 1951. Astronomical observatories in New Mexico take advantage of unusually clear skies, including the Apache Point Observatory, the Very Large Array, the Magdalena Ridge Observatory, and others.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.04591836734693878, 0.3333333333333333, 0.08071748878923767, 0.05044843049327355]
+[0.005128205128205128, 0.038461538461538464, 0.00904977375565611, 0.005656108597285068]
+[0.04591836734693878, 0.3333333333333333, 0.08071748878923767, 0.05044843049327355]
+
+
+SBERT sim. Score: 0.37963733077049255

@@ -1,0 +1,18 @@
+Document:
+utah
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+is the 13th largest state in the western United States . it is bordered by Colorado to the east, Wyoming to the northeast, Idaho to the north, Arizona to the south and Nevada to the west . Utah is the only state where a majority belongs to a single church .
+
+GT:
+Urban development is mostly concentrated in two areas: the Wasatch Front in the north-central part of the state, which is home to roughly two-thirds of the population and includes the capital city, Salt Lake City; and Washington County in the south, with more than 170,000 residents. With five national parks (Arches, Bryce Canyon, Canyonlands, Capitol Reef, and Zion), Utah has the third most national parks of any state after Alaska and California. In addition, Utah features eight national monuments (Cedar Breaks, Dinosaur, Grand Staircase-Escalante, Hovenweep, Natural Bridges, Bears Ears, Rainbow Bridge, and Timpanogos Cave), two national recreation areas (Flaming Gorge and Glen Canyon), seven national forests (Ashley, Caribou-Targhee, Dixie, Fishlake, Manti-La Sal, Sawtooth, and Uinta-Wasatch-Cache), and numerous state parks and monuments. The Moab area, in the southeastern part of the state, is known for its challenging mountain biking trails, including Slickrock. Moab also hosts the famous Moab Jeep Safari semiannually. Utah has seen an increase in tourism since the 2002 Winter Olympics. Park City is home to the United States Ski Team. Utah's ski resorts are primarily located in northern Utah near Salt Lake City, Park City, Ogden, and Provo. Between 2007 and 2011 Deer Valley in Park City, has been ranked the top ski resort in North America in a survey organized by Ski Magazine. The 2009 Ski Magazine reader survey concluded that six of the top ten resorts deemed most "accessible", and six of the top ten with the best snow conditions, were located in Utah. In Southern Utah, Brian Head Ski Resort is located in the mountains near Cedar City. Former Olympic venues including Utah Olympic Park and Utah Olympic Oval are still in operation for training and competition and allows the public to participate in numerous activities including ski jumping, bobsleigh, and speed skating.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08143322475570032, 0.5208333333333334, 0.1408450704225352, 0.08802816901408449]
+[0.016339869281045753, 0.10638297872340426, 0.028328611898016998, 0.017705382436260624]
+[0.06188925081433225, 0.3958333333333333, 0.10704225352112677, 0.06690140845070423]
+
+
+SBERT sim. Score: 0.39978253841400146

@@ -1,0 +1,18 @@
+Document:
+mississippi
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+is the largest and 34th-most populous of the 50 US states . Mississippi is the 32nd largest and 34th-most populous of the 50 states . by 1860, Mississippi was the nation's top cotton-producing state .
+
+GT:
+Mississippi has a humid subtropical climate with long, hot and humid summers, and short, mild winters. Temperatures average about 81 °F (27 °C) in July and about 42 °F (6 °C) in January. The temperature varies little statewide in the summer; however, in winter, the region near Mississippi Sound is significantly warmer than the inland portion of the state. The recorded temperature in Mississippi has ranged from −19 °F (−28 °C), in 1966, at Corinth in the northeast, to 115 °F (46 °C), in 1930, at Holly Springs in the north. Heavy snowfall rarely occurs, but isn't unheard of, such as during the New Year's Eve 1963 snowstorm. Yearly precipitation generally increases from north to south, with the regions closer to the Gulf being the most humid. Small amounts of snow fall in northern and central Mississippi The late summer and fall is the seasonal period of risk for hurricanes moving inland from the Gulf of Mexico, especially in the southern part of the state. As in the rest of the Deep South, thunderstorms are common in Mississippi, especially in the southern part of the state. On average, Mississippi has around 27 tornadoes annually; the northern part of the state has more tornadoes earlier in the year and the southern part a higher frequency later in the year. Two of the five deadliest tornadoes in United States history have occurred in the state. About seven F5 tornadoes have been recorded in the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07346938775510205, 0.5, 0.12811387900355872, 0.0800711743772242]
+[0.012295081967213115, 0.08571428571428572, 0.02150537634408602, 0.013440860215053764]
+[0.05714285714285714, 0.3888888888888889, 0.099644128113879, 0.06227758007117437]
+
+
+SBERT sim. Score: 0.4295588731765747

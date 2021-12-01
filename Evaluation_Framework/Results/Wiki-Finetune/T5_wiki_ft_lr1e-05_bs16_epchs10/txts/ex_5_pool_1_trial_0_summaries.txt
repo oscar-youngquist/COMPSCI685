@@ -1,0 +1,18 @@
+Document:
+virginia
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+Virginia is the most-populous city in the world, with a population of over 8.54 million . the Commonwealth is the largest population population in the world, with a population of over 8.54 million . the Commonwealth is the largest population population in the world, with a population of over 8.54 million .
+
+GT:
+Virginia's educational system consistently ranks in the top five states on the US Department of Education's National Assessment of Educational Progress, with Virginia students outperforming the average in all subject areas and grade levels tested. All school divisions must adhere to educational standards set forth by the Virginia Department of Education, which maintains an assessment and accreditation regime known as the Standards of Learning to ensure accountability. As off the 2018–19 academic year, a total of 1,290,576 students were enrolled in 2,293 local and regional schools in the Commonwealth, including eight charter schools, and an additional 98 alternative and special education centers across 133 school divisions. In 2019, 91.5 percent of high school students graduated on-time after four years, an increase of two percent from 2013, and 89.3 percent of adults over the age 25 had their high school diploma. Despite ending school segregation in the 1960s, seven percent of Virginia's public schools were rated as "intensely segregated" by The Civil Rights Project at UCLA in 2019, and the number has risen since 1989, when only three percent were. Virginia has comparatively large public school districts, typically comprising entire counties or cites, and this helps mitigate funding gaps seen in other states such that non-white districts average slightly more funding, $255 per student as of 2019, than majority white districts. Virginia also operates 23 community colleges on 40 campuses which enrolled more than 228,000 degree-seeking students during the 2018–2019 school year.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07450980392156863, 0.3584905660377358, 0.12337662337662338, 0.07711038961038962]
+[0.015748031496062992, 0.07692307692307693, 0.0261437908496732, 0.016339869281045753]
+[0.06274509803921569, 0.3018867924528302, 0.1038961038961039, 0.06493506493506494]
+
+
+SBERT sim. Score: 0.35123372077941895

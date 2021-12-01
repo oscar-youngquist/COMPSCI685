@@ -1,0 +1,18 @@
+Document:
+utah
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+is a state in the Western United States. Utah ( YOO-tah, YOO-taw) is a state in the western United States. it is bordered by Colorado to the east, Wyoming to the northeast, Idaho to the north, Arizona to the south and Nevada to the west. Utah is the 13th-largest by area; with a population over three million, it is the 30th-most-populous and 11th-least-densely populated
+
+GT:
+Urban development is mostly concentrated in two areas: the Wasatch Front in the north-central part of the state, which is home to roughly two-thirds of the population and includes the capital city, Salt Lake City; and Washington County in the south, with more than 170,000 residents. With five national parks (Arches, Bryce Canyon, Canyonlands, Capitol Reef, and Zion), Utah has the third most national parks of any state after Alaska and California. In addition, Utah features eight national monuments (Cedar Breaks, Dinosaur, Grand Staircase-Escalante, Hovenweep, Natural Bridges, Bears Ears, Rainbow Bridge, and Timpanogos Cave), two national recreation areas (Flaming Gorge and Glen Canyon), seven national forests (Ashley, Caribou-Targhee, Dixie, Fishlake, Manti-La Sal, Sawtooth, and Uinta-Wasatch-Cache), and numerous state parks and monuments. The Moab area, in the southeastern part of the state, is known for its challenging mountain biking trails, including Slickrock. Moab also hosts the famous Moab Jeep Safari semiannually. Utah has seen an increase in tourism since the 2002 Winter Olympics. Park City is home to the United States Ski Team. Utah's ski resorts are primarily located in northern Utah near Salt Lake City, Park City, Ogden, and Provo. Between 2007 and 2011 Deer Valley in Park City, has been ranked the top ski resort in North America in a survey organized by Ski Magazine. The 2009 Ski Magazine reader survey concluded that six of the top ten resorts deemed most "accessible", and six of the top ten with the best snow conditions, were located in Utah. In Southern Utah, Brian Head Ski Resort is located in the mountains near Cedar City. Former Olympic venues including Utah Olympic Park and Utah Olympic Oval are still in operation for training and competition and allows the public to participate in numerous activities including ski jumping, bobsleigh, and speed skating.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11726384364820847, 0.5142857142857142, 0.1909814323607427, 0.11936339522546419]
+[0.02287581699346405, 0.10144927536231885, 0.03733333333333333, 0.023333333333333334]
+[0.0781758957654723, 0.34285714285714286, 0.1273209549071618, 0.07957559681697612]
+
+
+SBERT sim. Score: 0.4905482530593872

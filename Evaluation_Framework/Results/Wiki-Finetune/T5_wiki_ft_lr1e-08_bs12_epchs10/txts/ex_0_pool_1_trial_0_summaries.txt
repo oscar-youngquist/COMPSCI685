@@ -1,0 +1,18 @@
+Document:
+mississippi
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+, the Mississippi River, which flows along and defines its western boundary . Mississippi is bordered to the north by Tennessee; to the east by Alabama; to the south by the Gulf of Mexico; to the southwest by Louisiana; and to the northwest by Arkansas . Mississippi is the 32nd largest and 34th-most populous of the 50 US states .
+
+GT:
+Mississippi has a humid subtropical climate with long, hot and humid summers, and short, mild winters. Temperatures average about 81 °F (27 °C) in July and about 42 °F (6 °C) in January. The temperature varies little statewide in the summer; however, in winter, the region near Mississippi Sound is significantly warmer than the inland portion of the state. The recorded temperature in Mississippi has ranged from −19 °F (−28 °C), in 1966, at Corinth in the northeast, to 115 °F (46 °C), in 1930, at Holly Springs in the north. Heavy snowfall rarely occurs, but isn't unheard of, such as during the New Year's Eve 1963 snowstorm. Yearly precipitation generally increases from north to south, with the regions closer to the Gulf being the most humid. Small amounts of snow fall in northern and central Mississippi The late summer and fall is the seasonal period of risk for hurricanes moving inland from the Gulf of Mexico, especially in the southern part of the state. As in the rest of the Deep South, thunderstorms are common in Mississippi, especially in the southern part of the state. On average, Mississippi has around 27 tornadoes annually; the northern part of the state has more tornadoes earlier in the year and the southern part a higher frequency later in the year. Two of the five deadliest tornadoes in United States history have occurred in the state. About seven F5 tornadoes have been recorded in the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11428571428571428, 0.49122807017543857, 0.18543046357615892, 0.11589403973509933]
+[0.028688524590163935, 0.125, 0.04666666666666667, 0.029166666666666664]
+[0.09387755102040816, 0.40350877192982454, 0.15231788079470196, 0.09519867549668874]
+
+
+SBERT sim. Score: 0.5400077700614929

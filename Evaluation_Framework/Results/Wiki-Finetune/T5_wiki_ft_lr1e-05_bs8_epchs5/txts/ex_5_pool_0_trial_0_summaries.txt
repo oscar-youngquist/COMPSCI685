@@ -1,0 +1,18 @@
+Document:
+new_jersey
+
+Intent:
+What is the state's policy regarding education?
+\Predicted Summary:
+New Jersey is the fourth-smallest state by area, with 8,882,190 residents . New Jersey was first inhabited by Native Americans for at least 2,800 years . the state was the second-largest state by median household income of the nation .
+
+GT:
+As of 2010, there were 605 school districts in the state. In 2010, the state government paid all teachers' premiums for health insurance, but currently all NJ public teachers pay a portion of their own health insurance premiums. New Jersey is known for the quality of its education. According to 2011 Newsweek statistics, students of High Technology High School in Lincroft, Monmouth County and Bergen County Academies in Hackensack, Bergen County registered average SAT scores of 2145 and 2100, respectively, representing the second- and third-highest scores, respectively, of all listed US high schools. In 2013, Rutgers University, headquartered in New Brunswick, Middlesex County as the flagship institution of higher education in New Jersey, regained medical and dental schools, augmenting its profile as a national research university as well. In 2014, New Jersey's school systems were ranked at the top of all fifty US states by financial website Wallethub.com. A 2017 UCLA Civil Rights project found that New Jersey has the sixth-most segregated classrooms in the United States.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10526315789473684, 0.42857142857142855, 0.16901408450704228, 0.10563380281690142]
+[0.03529411764705882, 0.14634146341463414, 0.056872037914691934, 0.03554502369668246]
+[0.06432748538011696, 0.2619047619047619, 0.10328638497652581, 0.06455399061032863]
+
+
+SBERT sim. Score: 0.4857504963874817

@@ -1,0 +1,18 @@
+Document:
+hawaii
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+is the fourth largest island state in the world. Hawaii is the third largest island state in the world, the third largest island state in the world . Hawaii is one of a handful of US states to have once been an independent nation . Hawaii encompasses nearly the entire Hawaiian archipelago, composed of 137 volcanic volcanic islands spanning 1,500 miles (2,400 km2) and is the fourth largest island island island island island island island island island island island island island island island island island island island island island island island island island island
+
+GT:
+Hawaiʻi's climate is typical for the tropics, although temperatures and humidity tend to be less extreme because of near-constant trade winds from the east. Summer highs usually reach around 88 °F (31 °C) during the day, with the temperature reaching a low of 75 °F (24 °C) at night. Winter day temperatures are usually around 83 °F (28 °C) Snow, not usually associated with the tropics, falls at 13,800 feet (4,200 m) on Mauna Kea and Mauna Loa on Hawaii Island in some winter months. Snow rarely falls on Haleakalā. Mount Waiʻaleʻale on Kauaʻi has the second-highest average annual rainfall on Earth, about 460 inches (12,000 mm) per year. Most of Hawaii experiences only two seasons The warmest temperature recorded in the state, in Pahala on April 27, 1931, is 100 °F (38 °C), making it tied with Alaska as the lowest record high temperature observed in a US state. Hawaiʻi's record low temperature is 12 °F (−11 °C) observed in May 1979, on the summit of Mauna Kea. Hawaiʻi is the only state to have never recorded sub-zero Fahrenheit temperatures. Climates vary considerably on each island; they can be divided into windward and leeward (koʻolau and kona, respectively) areas based upon location relative to the higher mountains. Windward sides face cloud cover.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13157894736842105, 0.3191489361702128, 0.1863354037267081, 0.11645962732919254]
+[0.02643171806167401, 0.06451612903225806, 0.037500000000000006, 0.0234375]
+[0.08771929824561403, 0.2127659574468085, 0.12422360248447203, 0.07763975155279502]
+
+
+SBERT sim. Score: 0.4058287441730499

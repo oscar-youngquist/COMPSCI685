@@ -1,0 +1,18 @@
+Document:
+new_jersey
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+\Predicted Summary:
+, New Jersey was the second-wealthest state by median household income . New Jersey was first inhabited by Native Americans for at least 2,800 years . the state was the site of several important battles during the American Revolutionary War .
+
+GT:
+This toll road, which overlaps with Interstate 95 for much of its length, carries traffic between Delaware and New York, and up and down the East Coast in general. Newark Liberty International Airport (EWR) is one of the busiest airports in the United States. Two smaller commercial airports, Atlantic City International Airport and rapidly growing Trenton-Mercer Airport, also operate in other parts of the state. NJ Transit operates extensive rail and bus service throughout the state. There is also a mineral museum Ogdensburg in Sussex County. Visitors and residents take advantage of and contribute to performances at the numerous music, theater, and dance companies and venues located throughout the state, including: New Jersey is the location of most of the boardwalks in the US, with nearly every town and city along the Jersey Shore area each having a boardwalk with various attractions, entertainment, shopping, dining, miniature golf, arcades, water parks with various water rides, including water slides, lazy rivers, wave pools, etc., and amusement parks hosting rides and attractions including roller coasters, carousels, Ferris wheels, bumper cars, teacups, etc.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07222222222222222, 0.3333333333333333, 0.11872146118721459, 0.07420091324200911]
+[0.0111731843575419, 0.05263157894736842, 0.018433179723502304, 0.01152073732718894]
+[0.05, 0.23076923076923078, 0.08219178082191782, 0.051369863013698634]
+
+
+SBERT sim. Score: 0.30997616052627563

@@ -1,0 +1,18 @@
+Document:
+arkansas
+
+Intent:
+How is the weather of the state?
+\Predicted Summary:
+the the imposed a rule that would not reapportion the legislature . Arkansas is the 29th largest by area and the 33rd most populous US state . Arkansas is the largest city in the state's eastern part of the state . Arkansas is the largest city in the state's eastern part of the state .
+
+GT:
+Arkansas generally has a humid subtropical climate. While not bordering the Gulf of Mexico, Arkansas, is still close enough to this warm, large body of water for it to influence the weather in the state. Generally, Arkansas, has hot, humid summers and slightly drier, mild to cool winters. In Little Rock, the daily high temperatures average around 93 °F (34 °C) with lows around 73 °F (23 °C) in July. In January highs average around 51 °F (11 °C) and lows around 32 °F (0 °C). In Siloam Springs in the northwest part of the state, the average high and low temperatures in July are 89 and 67 °F (32 and 19 °C) and in January the average high and low are 44 and 23 °F (7 and −5 °C). Annual precipitation throughout the state averages between about 40 and 60 inches (1,000 and 1,500 mm); somewhat wetter in the south and drier in the northern part of the state. Snowfall is infrequent but most common in the northern half of the state. The half of the state south of Little Rock is more apt to see ice storms. Arkansas's all-time record high is 120 °F (49 °C) at Ozark on August 10, 1936; the all-time record low is −29 °F (−34 °C) at Gravette, on February 13, 1905. Arkansas is known for extreme weather and frequent storms. A typical year brings thunderstorms, tornadoes, hail, snow and ice storms. Between both the Great Plains and the Gulf States, Arkansas, receives around 60 days of thunderstorms. Arkansas is located in Tornado Alley, and as a result, a few of the most destructive tornadoes in US history have struck the state. While sufficiently far from the coast to avoid a direct hit from a hurricane, Arkansas can often get the remnants of a tropical system, which dumps tremendous amounts of rain in a short time and often spawns smaller tornadoes.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10526315789473684, 0.6415094339622641, 0.18085106382978722, 0.11303191489361701]
+[0.046583850931677016, 0.28846153846153844, 0.08021390374331551, 0.05013368983957219]
+[0.07739938080495357, 0.4716981132075472, 0.13297872340425534, 0.08311170212765959]
+
+
+SBERT sim. Score: 0.4639117121696472
