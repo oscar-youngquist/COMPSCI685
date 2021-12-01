@@ -77,7 +77,7 @@ shared_docs_path = os.path.join(Path(__file__).parent.parent.parent, "SubSumE_Da
 data_path = os.path.join(shared_docs_path, "processed_state_sentences.csv")        # path to the processed sentences csv
 users_path = os.path.join(shared_docs_path, "Test/")                             # path to the misc. shared data (might not be needed anymore)
 min_range = 0                                                                                           # these min/max values are left-over from multi-processing experiments in which we would create n SuDocu models and then have each process (# of total user-summary instances)/n users. Thus we needed a min/max for the files to be read into memory by each model
-max_range = 10
+max_range = 137
 num_trials = 1                                                                                         # number of times to evaluate all the examples
 exp_folder = ""                                                                                         # results folder for this experimental run, only used if running a) more than one model or b) the same model more than once
                                                                                                         #     model_name folder is added as a sub-folder to this one 
