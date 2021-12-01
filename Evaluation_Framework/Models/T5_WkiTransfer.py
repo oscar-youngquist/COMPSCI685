@@ -36,6 +36,7 @@ class T5_Wiki(Model):
         
         # I don't think these will change
         self.input_token_len = 512
+        self.num_pred = 0
 
         # these could all be passed into the constructor and iterated over gird-search style from
         #     a loop in the EXP script
@@ -63,11 +64,10 @@ class T5_Wiki(Model):
             label_smoothing_factor=self.smoothing,
             per_device_train_batch_size=self.batch_size,
             warmup_ratio=0.1, 
-            load_best_model_at_end=True,
-            lr_scheduler_type='polynomial',
+            # lr_scheduler_type='polynomial', use if lr < 1e-7
             fp16=True,
-            save_strategy='epoch',
-            evaluation_strategy='epoch'  
+            evaluation_strategy="epoch",
+            save_strategy="no"
         )
 
 
@@ -96,11 +96,17 @@ class T5_Wiki(Model):
         # get the average length of the example in terms of 1) sentences and 2) words (tokens via nltk word_tokenize)
         avg_len, _ = get_avg_example_length(example_summaries, self.df)
 
-        self.reset_model()
-
-        # function in utils/model_training.py that actual does the training of the
-        wiki_trasnfer_training(self.wiki_args, self.model, processed_ctr, self.wiki_path,
-            self.tokenizer, self.input_token_len, self.device)
+        if (self.num_pred == 0):
+          self.reset_model()
+          # function in utils/model_training.py that actual does the training of the
+          wiki_trasnfer_training(self.wiki_args, self.model, processed_ctr, self.wiki_path,
+              self.tokenizer, self.input_token_len, self.device)
+          self.num_pred += 1
+        else:
+          self.num_pred += 1
+        
+        if self.num_pred == 3:
+          self.num_pred = 0
 
         # fine_tune_model(trainer_args=self.fine_tune_args, model=self.model, tokenizer=self.tokenizer, token_len=self.input_token_len, lr=self.lr, adam_ep=self.adam_ep,
         #                     batch_size=self.batch_size, epochs=self.finetune_epochs, example_summaries=example_summaries,
