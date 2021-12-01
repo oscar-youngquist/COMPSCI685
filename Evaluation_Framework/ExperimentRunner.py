@@ -1,6 +1,7 @@
 import numpy as np
 import os
 from os.path import join
+import pandas as pd
 import json
 import random
 import logging
@@ -10,6 +11,8 @@ from sentence_transformers import SentenceTransformer
 import torch
 from utils.EvaluationScore import EvaluationScore
 from utils.UserDataReader import UserDataReader
+from utils.filtering import Sentence_Prefilter_Wrapper
+from utils.utils import get_sentences, get_avg_example_length, suppress_stdout, set_global_logging_level
 from Models.Model import Model
 from scipy.spatial.distance import cosine
 import wandb
@@ -18,13 +21,17 @@ import wandb
 
 class ExperimentRunner:
 
-    def __init__(self, num_examples, num_test, users_path, data_path, min_range, max_index, use_wandb=False):
+    def __init__(self, num_examples, num_test, users_path, data_path, min_range, max_index, shared_docs_path, use_wandb=False):
         self.num_examples = num_examples
         self.num_test = num_test
         self.users_path = users_path
         self.data_path = data_path
         self.min_range = min_range
         self.max_range = max_index
+
+        # used to save data for error analysis
+        self.df = pd.read_csv(self.data_path)
+        self.filter_obj = Sentence_Prefilter_Wrapper(data_path, shared_docs_path)
         
         # create a user data reader object
         self.udr = UserDataReader(self.users_path, self.data_path, self.min_range, self.max_range)
@@ -50,7 +57,12 @@ class ExperimentRunner:
     #        used by SuDocu
     ### 
     def evaluate_example(self, model, target_doc, gt_summary, example_summaries, intent, output_file_path, ex_num, pool_num, trial_num, processed_ctr):
-        
+        avg_len, _ = get_avg_example_length(example_summaries, self.df)
+        filtered_sentence_ids = self.filter_obj.nearest_neighbor_bert_summary_filtering(example_summaries=example_summaries, test_doc=target_doc, top_k=int(avg_len))
+        # get the actual (in order) sentences from the target document
+        target_doc_sentences = get_sentences(filtered_sentence_ids, target_doc, self.df)
+
+
         # probability of saving off this file randomly
         save_prob = random.uniform(0, 1)
 
@@ -79,12 +91,14 @@ class ExperimentRunner:
         # print(summ_sim)
 
         # ~ 10% chance of being saved off
-        if save_prob < 0.1:
+        if save_prob < 0.5:
             with open(join(output_file_path, "txts/", "ex_{}_pool_{}_trial_{}_summaries.txt".format(ex_num, pool_num, trial_num)), "w") as outfile:
                     outfile.write("Document:\n")
                     outfile.write(target_doc)
                     outfile.write("\n\nIntent:\n")
                     outfile.write(intent)
+                    outfile.write("\n\nInput:\n")
+                    outfile.write(target_doc_sentences)
                     outfile.write("\n\Predicted Summary:\n")
                     outfile.write(predicted_summary)
                     outfile.write("\n\nGT:\n")
@@ -102,7 +116,7 @@ class ExperimentRunner:
     #    Helper function to return the topic score and length constraints
     #        used by SuDocu
     ### 
-    def model_get_evaluation(self, model, trial_num, output_file_path, multi_processing=True):
+    def model_get_evaluation(self, model, trial_num, output_file_path, multi_processing=True, ex_split=None):
         
         processed_ctr = 0          # keep track of the number of processed examples
         all_example_scores = []    # list to hold the all of the rouges scores for every example
@@ -132,7 +146,10 @@ class ExperimentRunner:
             documents = np.array(list(intent.values())[0])
 
             # get a random training subset
-            train_split = random.sample(range(0, len(example_summaries)), self.num_examples)
+            if (ex_split == None):
+                train_split = random.sample(range(0, len(example_summaries)), self.num_examples)
+            else:
+                train_split = ex_split
                 
             # list to hold the test indices for this combination
             test_indices = []
@@ -308,6 +325,83 @@ class ExperimentRunner:
             if self.use_wandb:
                 wandb.log({"avg_results": avg_results})
                 wandb.log({"avg_runtime": np.mean(ex_runtimes, axis=0)})
+
+    ###
+    #    Function called in experiment scripts to kick off model analysis 
+    ### 
+    def get_model_analysis_final(self, model, save_results, model_name, exp_folder=None, multi_processing=True, use_wandb=False):
+        # get the current working directory 
+        dir_path = os.path.dirname(os.path.realpath(__file__))
+        
+        # make the overall results folder if it does not exist
+        if not os.path.exists(join(dir_path, "Results/")):
+            os.makedirs(join(dir_path, "Results/"))
+
+        # variable to hold the output filepath for this experiment
+        output_file_path = join(dir_path, "Results/")
+
+        # if we are saving these results into an experiments folder
+        #     add it to the filepath and make it if it doesn't exist
+        if (exp_folder != None):
+            output_file_path = join(output_file_path, exp_folder)
+
+            # make the experiment folder if it doesn't already exist
+            if not os.path.exists(output_file_path):
+                os.makedirs(output_file_path)
+        
+        # add the specific model we are evaluating to the path
+        output_file_path = join(output_file_path, model_name)
+
+        # make the output-model directory if it does not already exist
+        if not os.path.exists(output_file_path):
+            os.makedirs(output_file_path)
+
+        # lastly, create the txts/ folder to hold the saved off summaries
+        if not os.path.exists(join(output_file_path, "txts/")):
+            os.makedirs(join(output_file_path, "txts/"))
+
+        # directory up-keep complete, run experiment
+        logging.info("Directory Construction Complete, begining experiments")
+
+        splits = [[0, 1, 2, 3, 4], [7, 6, 5, 4, 3]]
+
+
+        # loop over the number of trials
+        for i in range(2):
+            ex_scores, ex_runtimes, intent_results, sbert_scores = self.model_get_evaluation(model, i, output_file_path, multi_processing, ex_split=splits[i])
+
+            # save off the results
+            # save total scores as NPZ indexed by model
+            np.savez(join(output_file_path, ("all_scores_range_%s_%s_trail_%d" % (str(self.min_range), str(self.max_range), i))), scores=ex_scores)
+            
+            # save total runtimes as NPZ indexed by model
+            np.savez(join(output_file_path, ("all_runtimes_%s_%s_trail_%d" % (str(self.min_range), str(self.max_range), i))), scores=ex_runtimes)
+
+            # save total sbert sim scores as NPZ indexed by model
+            np.savez(join(output_file_path, ("all_sbert_scores_%s_%s_trail_%d" % (str(self.min_range), str(self.max_range), i))), scores=sbert_scores)
+            
+            
+            # save the by-intent sorted results
+            with open(join(output_file_path, ("all_scores_range_by_intent_%s_%s_trail_%d.txt" % (str(self.min_range), str(self.max_range), i))), 'w') as outfile:
+                json.dump(intent_results, outfile)
+                outfile.close()
+
+            # display trail results if appropriate
+            if (save_results):
+                avg_results_ = np.mean(ex_scores, axis=1)
+                avg_results = np.mean(avg_results_, axis=0)
+                avg_results_sbert = np.mean(sbert_scores)
+                logging.info("*********************** trial num: %d *************************" % i)
+                logging.info("\nAverage p, r, f1, and f2 scores")
+                logging.info("Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:")
+                for rouge_results in avg_results:
+                    logging.info(rouge_results)
+                logging.info("\nAverage SBERT Sim. Score: %.4f" % (avg_results_sbert))
+                logging.info("\n\n")
+
+            if self.use_wandb:
+                wandb.log("avg_results: ", avg_results)
+                wandb.log("avg runtime: ", np.mean(ex_runtimes), axis=0)
 
 
 
