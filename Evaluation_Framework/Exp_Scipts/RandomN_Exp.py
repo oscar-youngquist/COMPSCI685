@@ -72,4 +72,4 @@ random_n_model = RandomN(data_path, shared_docs_path, num_examples)
 
 # perform the actual experiment
 #     model, num_trials, display_results, model_name, exp_folder=None, multi_processing=True
-exp_runner.get_model_analysis(random_n_model, num_trials, True, model_name, multi_processing=False)
+exp_runner.get_model_analysis_final(random_n_model, num_trials, True, model_name, multi_processing=False)

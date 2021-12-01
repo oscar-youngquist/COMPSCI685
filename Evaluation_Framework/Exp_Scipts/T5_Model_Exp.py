@@ -146,7 +146,7 @@ model = T5_Base(
 #   as needed.                                                                   
 #
 #     model, num_trials, save_results (print results to log file), model_name, exp_folder=None, multi_processing=True // artifcact, huggingface API does not allow for multi-processing
-exp_runner.get_model_analysis(model, config.num_trials, True, config.model_name, multi_processing=False, use_wandb=config.use_wandb)
+exp_runner.get_model_analysis_final(model, config.num_trials, True, config.model_name, multi_processing=False, use_wandb=config.use_wandb)
 
 if config.use_wandb:
     wandb.finish()
