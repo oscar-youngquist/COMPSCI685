@@ -6,6 +6,9 @@ from pathlib import Path
 from argparse import ArgumentParser, Namespace
 import wandb
 
+
+# test call: .py --finetune --data_aug --lr x --gamma x --epochs x
+
 # update the python path to include the parent directory  
 currentdir = os.path.dirname(os.path.realpath(__file__))
 parentdir = os.path.dirname(currentdir)
