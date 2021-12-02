@@ -32,7 +32,7 @@ if not exists(join(cwd, "Logs/")):
 
 # define the file for the logging object
 # TODO: add your own log file name
-log_file = join(cwd, "Logs/", "RandomN.log")
+log_file = join(cwd, "Logs/", "RandomN_test.log")
 
 # set up logger
 root = logging.getLogger()
@@ -58,7 +58,7 @@ users_path = os.path.join(shared_docs_path, "Test/")
 min_range = 0
 max_range = 137
 num_trials = 1
-model_name = "RandomN"
+model_name = "RandomN_test"
 exp_folder = ""
 
 
