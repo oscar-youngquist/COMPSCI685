@@ -119,12 +119,14 @@ file_handler = logging.FileHandler(log_file, mode="w", encoding=None, delay=Fals
 file_handler.setLevel(logging.DEBUG)
 root.addHandler(file_handler)
 
+shared_docs_path = os.path.join(Path(__file__).parent.parent.parent, "SubSumE_Data")
+
 # add the exception logging behavior to the logger
 # sys.excepthook = exceptionhook
 
 # create an instance of the experiment runner class
 # num_examples, num_test, users_path, data_path, min_range, max_index
-exp_runner = ExperimentRunner(config.num_examples, config.num_test, config.users_path, config.data_path, config.min_range, config.max_range, use_wandb=config.use_wandb)
+exp_runner = ExperimentRunner(config.num_examples, config.num_test, config.users_path, config.data_path, config.min_range, config.max_range, shared_docs_path, use_wandb=config.use_wandb)
 
 # create the model(s) you are going to evaluate
 #     data_path, shared_docs_path, num_examples

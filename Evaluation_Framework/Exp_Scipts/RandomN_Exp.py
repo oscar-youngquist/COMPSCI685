@@ -64,7 +64,7 @@ exp_folder = ""
 
 # create an instance of the experiment runner class
 # num_examples, num_test, users_path, data_path, min_range, max_index
-exp_runner = ExperimentRunner(num_examples, num_test, users_path, data_path, min_range, max_range)
+exp_runner = ExperimentRunner(num_examples, num_test, users_path, data_path, min_range, max_range, shared_docs_path)
 
 # create the model(s) you are going to evaluate
 #     data_path, shared_docs_path, num_examples, max_solvs=50, length_modifier=0.25
