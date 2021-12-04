@@ -1,0 +1,21 @@
+Document:
+minnesota
+
+Intent:
+How is the government structured in this state?
+
+Input:
+As with the federal government of the United States, power in Minnesota is divided into three branches: executive, legislative, and judicial. The executive branch is headed by the governor. The governor has a cabinet consisting of the leaders of various state government agencies, called commissioners. The other elected constitutional offices are secretary of state, attorney general, and state auditor. Constitutional officeholders: The Minnesota Legislature is a bicameral body consisting of the Senatorte and the House of Representatives. Each district has one senator and two representatives, each senatorial district being divided into A and B sections for members of the House. Senatortors serve for four years and representatives for two years.
+\Predicted Summary:
+Minnesota ( (listen)) is a state in the Upper Midwest, Great Lakes, and northern region of the United States. Minnesota was admitted as the 32nd US state on May 11, 1858, created from the eastern half of the Minnesota Territory. The state is known as the "Land of 10,000 Lakes". Its official motto is L'Étoile du Nord, French for "The Star of the North". Minnesota is the 12th largest in area and the 22nd most populous of the US states. Nearly 55% of its residents live in the Minneapolis–Saint Paul metropolitan area (known as the "Twin Cities"), the state's main hub of transportation, business, industry, education, arts, and government. Urban centers in "Greater Minnesota" include Duluth, Mankato, Moorhead, Rochester and St. Cloud.
+
+GT:
+As with the federal government of the United States, power in Minnesota is divided into three branches: executive, legislative, and judicial. The executive branch is headed by the governor. Governor Tim Walz, DFL (Democratic–Farmer–Labor), took office on January 7, 2019. The governor has a cabinet consisting of the leaders of various state government agencies, called commissioners. The other elected constitutional offices are secretary of state, attorney general, and state auditor. The Minnesota Legislature is a bicameral body consisting of the Senatorte and the House of Representatives. The state has 67 districts, each with about 60,000 people. Each district has one senator and two representatives, each senatorial district being divided into A and B sections for members of the House. Senatortors serve for four years and representatives for two years. Minnesota's court system has three levels. Most cases start in the district courts, which are courts of general jurisdiction. There are 279 district court judgeships in ten judicial districts. Appeals from the trial courts and challenges to certain governmental decisions are heard by the Minnesota Court of Appeals, consisting of 19 judges who typically sit in three-judge panels. The seven-justice Minnesota Supreme Court hears all appeals from the tax court, the workers' compensation court of appeals, first-degree murder convictions, and discretionary appeals from the court of appeals; it also has original jurisdiction over election disputes.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.22943722943722944, 0.424, 0.297752808988764, 0.18609550561797752]
+[0.05652173913043478, 0.10483870967741936, 0.07344632768361582, 0.04590395480225989]
+[0.14285714285714285, 0.264, 0.1853932584269663, 0.11587078651685392]
+
+
+SBERT sim. Score: 0.460380882024765

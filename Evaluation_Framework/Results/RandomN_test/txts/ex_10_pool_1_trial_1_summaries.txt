@@ -1,0 +1,21 @@
+Document:
+north_dakota
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Transportation in North Dakota is overseen by the North Dakota Department of Transportation. The major Interstate highways are Interstate 29 and Interstate 94, with I-29 and I-94 meeting at Fargo, with I-29 oriented north to south along the eastern edge of the state, and I-94 bisecting the state from east to west between Minnesota and Montana. Many branch lines formerly used by BNSF and Canadian Pacific Railway are now operated by the Dakota, Missouri Valley and Western Railroad and the Red River Valley and Western Railroad. North Dakota's principal airports are the Hector International Airport (FAR) in Fargo, Grand Forks International Airport (GFK), Bismarck Municipal Airport (BIS), Minot International Airport (MOT) and Williston Basin International Airport (XWA) in Williston. Amtrak's Empire Builder runs through North Dakota, making stops at Fargo (2:13 am westbound, 3:35 am eastbound), Grand Forks (4:52 am westbound, 12:57 am eastbound), Minot (around 9 am westbound and around 9:30 pm eastbound), and four other stations. Intercity bus service is provided by Greyhound and Jefferson Lines. Public transit in North Dakota includes daily fixed-route bus systems in Fargo, Bismarck-Mandan, Grand Forks, and Minot, paratransit service in 57 communities, along with multi-county rural transit systems.
+\Predicted Summary:
+Traditional iron cemetery grave markers are a famous art form practiced by ethnic Germans. North Dakota is one of the top resettlement locations for refugees proportionally. This makes North Dakota the US state with the largest percentage in population growth since 2011. Owners of real property in North Dakota pay property tax to their county, municipality, school district, and special taxing districts. Kellan Lutz has appeared in movies such as Stick It, Accepted, Prom Night, and Twilight. It tried to insulate North Dakota from the power of out-of-state banks and corporations. The state's legal code is named the North Dakota Century Code. The executive branch is headed by the elected governor.
+
+GT:
+The major Interstate highways are Interstate 29 and Interstate 94, with I-29 and I-94 meeting at Fargo, with I-29 oriented north to south along the eastern edge of the state, and I-94 bisecting the state from east to west between Minnesota and Montana. BNSF and the Canadian Pacific Railway operate the state's largest rail systems. North Dakota's principal airports are the Hector International Airport (FAR) in Fargo, Grand Forks International Airport (GFK), Bismarck Municipal Airport (BIS), Minot International Airport (MOT) and Williston Basin International Airport (XWA) in Williston. Amtrak's Empire Builder runs through North Dakota, making stops at Fargo (2:13 am westbound, 3:35 am eastbound), Grand Forks (4:52 am westbound, 12:57 am eastbound), Minot (around 9 am westbound and around 9:30 pm eastbound), and four other stations. Intercity bus service is provided by Greyhound and Jefferson Lines. Public transit in North Dakota includes daily fixed-route bus systems in Fargo, Bismarck-Mandan, Grand Forks, and Minot, paratransit service in 57 communities, along with multi-county rural transit systems.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2, 0.3157894736842105, 0.24489795918367346, 0.1530612244897959]
+[0.03910614525139665, 0.061946902654867256, 0.04794520547945205, 0.029965753424657536]
+[0.10555555555555556, 0.16666666666666666, 0.1292517006802721, 0.08078231292517007]
+
+
+SBERT sim. Score: 0.30760660767555237

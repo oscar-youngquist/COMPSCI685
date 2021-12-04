@@ -1,0 +1,21 @@
+Document:
+pennsylvania
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The legislature meets in the State Capitol there. The current Governor is Tom Wolf. The other elected officials composing the executive branch are the Lieutenant Governor John Fetterman, Attorney General Joshua Shapiro, Auditor General Timothy DeFoor, and Pennsylvania Treasurer Stacy Garrity. The Governor and Lieutenant Governor run as a ticket in the general election and are up for re-election every four years during the midterm elections. The elections for Attorney General, Auditor General, and Treasurer are held every four years coinciding with a Presidential election. Pennsylvania has a bicameral legislature set up by Commonwealth's constitution in 1790. The General Assembly includes 50 Senatortors and 203 Representatives. As of the 2018 elections, the Republicans hold the majority in the State House and Senatorte. All judges in Pennsylvania are elected The state holds 20 electoral votes. In 2010, Republicans recaptured a US Senatorte seat as well as a majority of the state's congressional seats, control of both chambers of the state legislature and the governor's mansion.
+\Predicted Summary:
+Pennsylvania ( (listen) PEN-səl-VAY-nee-ə) (Pennsylvania German: Pennsilfaani), officially the Commonwealth of Pennsylvania, is a state in the Mid-Atlantic, Appalachian, and Great Lakes regions of the Northeastern United States. The Commonwealth is bordered by Delaware to the southeast, Maryland to the south, West Virginia to the southwest, Ohio to the west, Lake Erie and the Canadian province of Ontario to the northwest, New York to the north, and New Jersey to the east, while the Appalachian Mountains run through its middle. Pennsylvania is the 33rd-largest state by area, and the 5th-most populous state according to the most recent official US Census count in 2010. It is the 9th-most densely populated of the 50 states. Pennsylvania's two most populous cities are Philadelphia (1,580,863), and Pittsburgh (302,407). The state capital and its 13th-largest city is Harrisburg. Pennsylvania has 140 miles (225 km) of waterfront along Lake Erie and the Delaware River. The state is one of the 13 original founding states of the United States; it came into being in 1681 as a result of a royal land grant to William Penn, the son of the state's namesake. Part of Pennsylvania (along the Delaware River), together with the present State of Delaware, had earlier been organized as the Colony of New Sweden. It was the second state to ratify the United States Constitution, on December 12, 1787. Independence Hall, where the United States Declaration of Independence and United States Constitution were drafted, is located in Philadelphia, the state's largest city. During the American Civil War, the Battle of Gettysburg was fought in the south central region of the state.
+
+GT:
+The current Governor is Tom Wolf. The other elected officials composing the executive branch are the Lieutenant Governor John Fetterman, Attorney General Joshua Shapiro, Auditor General Timothy DeFoor, and Pennsylvania Treasurer Stacy Garrity. The Governor and Lieutenant Governor run as a ticket in the general election and are up for re-election every four years during the midterm elections. The elections for Attorney General, Auditor General, and Treasurer are held every four years coinciding with a Presidential election. Pennsylvania has a bicameral legislature set up by Commonwealth's constitution in 1790. The General Assembly includes 50 Senatortors and 203 Representatives. Pennsylvania is divided into 60 judicial districts, most of which (except Philadelphia) have magisterial district judges (formerly called district justices and justices of the peace), who preside mainly over preliminary hearings in felony and misdemeanor offenses, all minor (summary) criminal offenses, and small civil claims.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.32413793103448274, 0.16785714285714284, 0.22117647058823528, 0.13823529411764704]
+[0.041666666666666664, 0.021505376344086023, 0.028368794326241134, 0.017730496453900707]
+[0.1724137931034483, 0.08928571428571429, 0.11764705882352941, 0.07352941176470587]
+
+
+SBERT sim. Score: 0.469708651304245

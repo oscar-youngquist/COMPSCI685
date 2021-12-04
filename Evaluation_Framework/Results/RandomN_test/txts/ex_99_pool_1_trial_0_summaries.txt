@@ -1,0 +1,21 @@
+Document:
+minnesota
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Attendance at theatrical, musical, and comedy events in the area is strong. Other large annual festivals include the Saint Paul Winter Carnival, the Minnesota Renaissance Festival, Minneapolis' Aquatennial and Mill City Music Festival, Moondance Jam in Walker, Sonshine Christian music festival in Willmar, the Judy Garland Festival in Grand Rapids, the Eelpout Festival on Leech Lake, and the WE Fest in Detroit Lakes. Minnesota has an active program of organized amateur and professional sports. Tourism has become an important industry, especially in the Lake region. Activities include water sports such as water skiing, which originated in the state, boating, canoeing, and fishing. State and national forests and the seventy-two state parks are used year-round for hunting, camping, and hiking.
+\Predicted Summary:
+Saint Paul is adjacent to Minnesota's most populous city, Minneapolis; they and their suburbs are collectively known as the Twin Cities metropolitan area, the country's 16th-largest metropolitan area and home to about 55 percent of the state's population. Dial-a-Ride service is available for persons with disabilities in a majority of Minnesota Counties. The state has 67 districts, each with about 60,000 people. Minnesota's portion of Lake Superior is the largest at 962,700 acres (389,600 ha; 3,896 km2) and deepest (at 1,290 ft (390 m)) body of water in the state. A 2010 survey by the Pew Forum on Religion and Public Life showed that 32 percent of Minnesotans were affiliated with Mainline Protestant traditions, 21 percent were Evangelical Protestants, 28 percent Roman Catholic, 1 percent each Jewish, Muslim, Buddhist, and Black Protestant, and smaller amounts of other faiths, with 13 percent unaffiliated. The Mayo Clinic and the University of Minnesota are partners in the Minnesota Partnership for Biotechnology and Medical Genomics, a state-funded program that conducts research into cancer, Alzheimer's disease, heart health, obesity, and other areas. In 1805 Zebulon Pike bargained with Native Americans to acquire land at the confluence of the Minnesota and Mississippi rivers to create a military reservation.
+
+GT:
+Minnesota's leading fine art museums include the Minneapolis Institute of Art, the Walker Art Center, the Frederick R. Weisman Art Museum, and The Museum of Russian Art (TMORA). The world-renowned Guthrie Theater moved into a new Minneapolis facility in 2006, boasting three stages and overlooking the Mississippi River. In the United States, Minneapolis's number of theater companies ranks behind only New York City's, and about 2.3 million theater tickets were sold in the Twin Cities annually as of 2006. Minnesota musicians include Holly Henry, Bob Dylan, Eddie Cochran, The Andrews Sisters, The Castaways, The Trashmen, Prince, Soul Asylum, David Ellefson, Chad Smith, John Wozniak, Hüsker Dü, Owl City, The Replacements, and Dessa. A Prairie Home Companion which first aired in 1974, became a long-running comedy radio show on National Public Radio. A cult scifi cable TV show, Mystery Science Theater 3000, was created by Joel Hodgson in Hopkins, and Minneapolis, MN. A small segment of the Scandinavian population attend a traditional lutefisk dinner to celebrate Christmas. The Minnesota State Fair, advertised as The Great Minnesota Get-Together, is an icon of state culture.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.33157894736842103, 0.2916666666666667, 0.3103448275862069, 0.1939655172413793]
+[0.05291005291005291, 0.046511627906976744, 0.0495049504950495, 0.03094059405940594]
+[0.15263157894736842, 0.13425925925925927, 0.14285714285714285, 0.08928571428571429]
+
+
+SBERT sim. Score: 0.24954724311828613

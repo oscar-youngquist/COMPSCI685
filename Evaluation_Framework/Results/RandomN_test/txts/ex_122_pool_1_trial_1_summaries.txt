@@ -1,0 +1,21 @@
+Document:
+michigan
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Other national protected areas in the state include: Keweenaw National Historical Park, Pictured Rocks National Lakeshore, Sleeping Bear Dunes National Lakeshore, Huron National Forest, Manistee National Forest, Hiawatha National Forest, Ottawa National Forest and Father Marquette National Memorial. With 78 state parks, 19 state recreation areas, and six state forests, Michigan has the largest state park and state forest system of any state. The state is an important source of engineering job opportunities. A wide variety of commodity crops, fruits, and vegetables are grown in Michigan, making it second only to California among US states in the diversity of its agriculture. Destinations draw vacationers, hunters, and nature enthusiasts from across the United States and Canada. The forests, lakes and thousands of miles of beaches are top attractions. Hunting and fishing are significant industries in the state. The forest products industry and recreational users contribute $12 billion and 200,000 associated jobs annually to the state's economy. The state has numerous historical markers, which can themselves become the center of a tour.
+\Predicted Summary:
+The Bath School disaster, perpetrated by an adult man, resulted in the deaths of 38 schoolchildren and constitutes the deadliest mass murder in a school in US history. Charter townships can opt to use county-wide services instead, such as deputies from the county sheriff's office instead of a home-based force of ordinance officers. General Motors, Ford, and Chrysler reached agreements with the United Auto Workers Union to transfer the liabilities for their respective health care and benefit funds to a 501(c)(9) Voluntary Employee Beneficiary Association (VEBA). The Michigan Constitution allows for the direct participation of the electorate by statutory initiative and referendum, recall, and constitutional initiative and referral (Article II, § 9, defined as "the power to propose laws and to enact and reject laws, called the initiative, and the power to approve or reject laws enacted by the legislature, called the referendum. The surface on either side of this range is rugged. Residential housing was in short supply, and it took years for the market to catch up with the population boom. Much of suburban Detroit—which includes parts of Oakland, Macomb, and Wayne counties—is politically competitive between the two parties. The Metro Detroit area in Southeast Michigan is the state's largest metropolitan area (roughly 50% of the population resides there) and the eleventh largest in the United States. Michigan has nine international road crossings with Ontario, Canada: They later moved to Little Caesars Arena to join the Pistons as tenants in 2017.
+
+GT:
+In 2018, the state electorate passed proposals to create an independent redistricting commission, and to legalize the recreational use of marijuana. In 2020, voters approved two ballot measures, one to increase the limit of money from sales of gas and oil from state-owned land that can benefit state parks, and another to require a warrant for search or seizure of electronic data and communications. The state is home to several areas maintained by the National Park Service including: Isle Royale National Park, in Lake Superior, about 30 miles (48 km) southeast of Thunder Bay, Ontario. With 78 state parks, 19 state recreation areas, and six state forests, Michigan has the largest state park and state forest system of any state. Michigan's schools and colleges rank among the nation's best. The state has maintained its early commitment to public education. The state's infrastructure gives it a competitive edge Michigan led the nation in job creation improvement in 2010. Michigan's personal income tax is a flat rate of 4.25%. A wide variety of commodity crops, fruits, and vegetables are grown in Michigan, making it second only to California among US states in the diversity of its agriculture.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.39800995024875624, 0.32, 0.35476718403547675, 0.22172949002217293]
+[0.035, 0.028112449799196786, 0.031180400890868595, 0.019487750556792874]
+[0.18407960199004975, 0.148, 0.164079822616408, 0.10254988913525498]
+
+
+SBERT sim. Score: 0.4388611614704132

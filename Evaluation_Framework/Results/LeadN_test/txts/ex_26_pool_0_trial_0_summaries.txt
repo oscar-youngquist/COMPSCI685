@@ -1,0 +1,21 @@
+Document:
+arkansas
+
+Intent:
+How is the government structured in this state?
+
+Input:
+As with the federal government of the United States, political power in Arkansas is divided into three branches: executive, legislative, and judicial. The six other elected executive positions in Arkansas are lieutenant governor, secretary of state, attorney general, treasurer, auditor, and land commissioner. The governor also appoints the leaders of various state boards, committees, and departments. In Arkansas, the lieutenant governor is elected separately from the governor and thus can be from a different political party. The Arkansas General Assembly is the state's bicameral bodies of legislators, composed of the Senatorte and House of Representatives. These districts are redrawn decennially with each US census, and in election years ending in "2", the entire body is put up for reelection. 25 state district court judges preside over 15 districts, with more districts created in 2013 and 2017. The twelve judges of the Arkansas Court of Appeals are elected from judicial districts to renewable six-year terms. The state has four seats in US House of Representatives.
+\Predicted Summary:
+Arkansas () is a state in the south central United States, home to more than three million people as of 2018. Its name is from the Osage language, of Siouan derivation; it denoted their related kin, the Quapaw people. The state's diverse geography ranges from the mountainous regions of the Ozark and Ouachita Mountains, which make up the US Interior Highlands, to the densely forested land in the south known as the Arkansas Timberlands, to the eastern lowlands along the Mississippi River and the Arkansas Delta. Arkansas is the 29th largest by area and the 33rd most populous US state. The capital and most populous city is Little Rock, in the central part of the state, a hub for transportation, business, culture, and government. The northwestern corner of the state, including the Fayetteville–Springdale–Rogers Metropolitan Area and Fort Smith metropolitan area, is a population, education, and economic center. The largest city in the state's eastern part is Jonesboro. The largest city in the state's southeastern part is Pine Bluff. The Territory of Arkansas was admitted to the Union as the 25th state on June 15, 1836.
+
+GT:
+As with the federal government of the United States, political power in Arkansas is divided into three branches: executive, legislative, and judicial. Each officer's term is four years long. Office holders are term-limited to two full terms plus any partial terms before the first full term. The six other elected executive positions in Arkansas are lieutenant governor, secretary of state, attorney general, treasurer, auditor, and land commissioner. The governor also appoints the leaders of various state boards, committees, and departments. In Arkansas, the lieutenant governor is elected separately from the governor and thus can be from a different political party. The Arkansas General Assembly is the state's bicameral bodies of legislators, composed of the Senatorte and House of Representatives. The Senatorte contains 35 members from districts of approximately equal population. Following the election, half of the seats are designated as two-year seats and are up for reelection again in two years, these "half-terms" do not count against a legislator's term limits. Arkansas House members can serve a maximum of three two-year terms.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3407821229050279, 0.32275132275132273, 0.33152173913043476, 0.20720108695652173]
+[0.056179775280898875, 0.05319148936170213, 0.0546448087431694, 0.03415300546448088]
+[0.1787709497206704, 0.1693121693121693, 0.17391304347826084, 0.10869565217391303]
+
+
+SBERT sim. Score: 0.46300938725471497

@@ -1,0 +1,21 @@
+Document:
+wisconsin
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+The state capital is Madison, and its largest city is Milwaukee, which is on the western shore of Lake Michigan. Railroads were built across the state to help transport grains to market, and industries like J.I. Wisconsin is bordered by the Montreal River This region is part of the Driftless Area, which also includes portions of Iowa, Illinois, and Minnesota. Wisconsin is served by eight commercial service airports, in addition to a number of general aviation airports. The Wisconsin Department of Transportation is responsible for planning, building and maintaining the state's highways. Eight Interstate Highways are located in the state. Amtrak provides daily passenger rail service between Chicago and Milwaukee through the Hiawatha Service. Also provided is cross-country service via the Empire Builder with stops in several cities across Wisconsin. Commuter rail provider Metra's Union Pacific North (UP-N) line has its northern terminus in Kenosha, the only Metra line and station in the state of Wisconsin. The 2.1 mile (3.4 km) initial line runs from Milwaukee Intermodal Station to Burns Commons.
+\Predicted Summary:
+The phenomenon was referred to as "sewer socialism" because the elected officials were more concerned with public works and reform than with revolution (although revolutionary socialism existed in the city as well). The Badger men's basketball team won the national title in 1941 and made trips to college basketball's Final Four in 2000, 2014, and 2015. The debate became especially intense in 1854 after Joshua Glover, a runaway slave from Missouri, was captured in Racine. According to the 2016 American Community Survey, 6.5% of Wisconsin's population were of Hispanic or Latino origin (of any race): Mexican (4.7%), Puerto Rican (0.9%), Cuban (0.1%), and other Hispanic or Latino origin (0.7%). Politics in early Wisconsin were defined by the greater national debate over slavery. Amtrak provides daily passenger rail service between Chicago and Milwaukee through the Hiawatha Service. Wisconsin is divided into eight congressional districts. The circuit courts are Wisconsin's trial courts, they have original jurisdiction in all civil and criminal cases within the state. The string of cities along the western edge of Lake Michigan is generally considered to be an example of a megalopolis. Wisconsin is situated on two Great Lakes and has many inland lakes of varied size; the state contains 11,188 square miles (28,980 km2) of water, more than all but three other states—Alaska, Michigan, and Florida. Lambeau Field, located in Green Bay, Wisconsin, is home to the National Football League's Green Bay Packers. On February 14, 2011, the Wisconsin State Capitol erupted with protests when the Legislature took up a bill that would end most collective bargaining rights for state employees, except for wages, to address the $3.6 bil.
+
+GT:
+Wisconsin is served by eight commercial service airports, in addition to a number of general aviation airports. Milwaukee Mitchell International Airport is the only international commercial airport located in Wisconsin. Eight Interstate Highways are located in the state. Amtrak provides daily passenger rail service between Chicago and Milwaukee through the Hiawatha Service. Also provided is cross-country service via the Empire Builder with stops in several cities across Wisconsin. Commuter rail provider Metra's Union Pacific North (UP-N) line has its northern terminus in Kenosha, the only Metra line and station in the state of Wisconsin. The Hop, a modern streetcar system in Milwaukee, began service in 2018.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.48623853211009177, 0.1853146853146853, 0.2683544303797468, 0.16772151898734178]
+[0.17592592592592593, 0.06666666666666667, 0.09669211195928754, 0.06043256997455471]
+[0.3119266055045872, 0.11888111888111888, 0.17215189873417724, 0.10759493670886076]
+
+
+SBERT sim. Score: 0.48912301659584045

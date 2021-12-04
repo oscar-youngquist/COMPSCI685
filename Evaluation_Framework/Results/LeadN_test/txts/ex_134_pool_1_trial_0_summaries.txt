@@ -1,0 +1,21 @@
+Document:
+new_jersey
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+This was the fourth-highest percentage of any state in the country. For further information on various ethnoracial groups and neighborhoods prominently featured within New Jersey, see the following articles: Like every state, New Jersey has its own cuisine, religious communities, museums, and halls of fame. The state is home to many diner manufacturers and has over 600 diners, more than any other place in the world. (The others are Kentucky, Louisiana, Mississippi, and Virginia.) Visitors and residents take advantage of and contribute to performances at the numerous music, theater, and dance companies and venues located throughout the state, including:
+\Predicted Summary:
+New Jersey is a state in the Mid-Atlantic region of the Northeastern United States. It is bordered on the north and east by the state of New York; on the east, southeast, and south by the Atlantic Ocean; on the west by the Delaware River and Pennsylvania; and on the southwest by Delaware Bay and the State of Delaware. New Jersey is the fourth-smallest state by area but the 11th-most populous, with 8,882,190 residents as of 2019 and an area of 8,722.58 square miles, making it the most densely populated of the 50 US states. The capital is Trenton, while the largest city is Newark. All but one county in New Jersey lie within the combined statistical areas of New York City or Philadelphia; consequently, the state's largest metropolitan area falls within Greater New York. New Jersey was first inhabited by Native Americans for at least 2,800 years, with the Lenape being the dominant group by the time Europeans arrived in the early 17th century.
+
+GT:
+As of 2020, New Jersey was home to the highest number of millionaires per capita of all US states, with 9.76% of households—more than 323,000 of 3.3 million statewide—meeting the criteria. New Jersey is the birthplace of modern inventions such as: FM radio, the motion picture camera, the lithium battery, the light bulb, transistors, and the electric train. Other New Jersey creations include: the drive-in movie, the cultivated blueberry, cranberry sauce, the postcard, the boardwalk, the zipper, the phonograph, saltwater taffy, the dirigible, the seedless watermelon, the first use of a submarine in warfare, and the ice cream cone. The state is home to many diner manufacturers and has over 600 diners, more than any other place in the world. New Jersey is frequently the target of jokes in American culture, especially from New York City-based television shows, such as Saturday Night Live. New Jersey is known for several foods developed within the region, including Taylor Ham (also known as pork roll), cheesesteaks, and scrapple.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.37209302325581395, 0.367816091954023, 0.3699421965317919, 0.23121387283236994]
+[0.0935672514619883, 0.09248554913294797, 0.09302325581395347, 0.05813953488372092]
+[0.20930232558139536, 0.20689655172413793, 0.20809248554913293, 0.1300578034682081]
+
+
+SBERT sim. Score: 0.4612143635749817

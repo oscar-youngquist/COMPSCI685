@@ -1,0 +1,21 @@
+Document:
+mississippi
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Mississippi is the 32nd largest and 34th-most populous of the 50 US states. With large areas of agriculture and rural towns, Mississippi frequently ranks low among states in measures of health, education, and development, and high in measures of poverty. Their population in the state overall has increased in the 21st century. Mississippi had the highest rate of obesity of any US state from 2005 to 2008, and also ranks first in the nation for high blood pressure, diabetes, and adult inactivity. Before Hurricane Katrina struck the Gulf Coast, Mississippi was the second-largest gambling state in the Union, after Nevada and ahead of New Jersey. In 2012, Mississippi had the sixth largest gambling revenue of any state, with $2.25 billion. As of December 2018, the state's unemployment rate was 4.7%, the seventh highest in the country after Arizona (4.9%), Louisiana (4.9%), New Mexico (5.0%), West Virginia (5.1%), District of Columbia (5.4%) and Alaska (6.5%). This ranks the state second-highest nationally, and represents an increase from 1995, when Mississippi received $1.54 per dollar of taxes in federal spending and was 3rd highest nationally. Mississippi is one of five states that elects its state officials in odd-numbered years (the others are Kentucky, Louisiana, New Jersey and Virginia). Mississippi is the only American state where people in cars may legally consume beer.
+\Predicted Summary:
+The most damage occurred in the lower Delta, including Washington and Bolivar counties. On August 17, 1969, Category 5 Hurricane Camille hit the Mississippi coast, killing 248 people and causing US$1.5 billion in damage (1969 dollars). Several of these species were extirpated during the construction of the Tennessee-Tombigbee Waterway. But in the state as a whole, only a small minority of white children were withdrawn from public schools. Both the governor and lieutenant governor are elected to four-year terms of office. Mississippi has a humid subtropical climate classification. From 1858 to 1861, the state took over levee building, accomplishing it through contractors and hired labor. The committee found severe destitution among the laboring classes. In these roles, the ethnic Chinese carved out a niche in the state between black and white, where they were concentrated in the Delta. The legislature's 1990 decision to legalize casino gambling along the Mississippi River and the Gulf Coast has led to increased revenues and economic gains for the state. In the migration of 1910–1940, they left a society that had been steadily closing off opportunity.
+
+GT:
+Mississippi has a humid subtropical climate with long, hot and humid summers, and short, mild winters. The temperature varies little statewide in the summer; however, in winter, the region near Mississippi Sound is significantly warmer than the inland portion of the state. Mississippi is heavily forested, with over half of the state's area covered by wild or cultivated trees. Mississippi has six airports with commercial passenger service, the busiest in Jackson (Jackson-Evers International Airport) and one in Gulfport (Gulfport-Biloxi International Airport) Amtrak provides scheduled passenger service along two routes, the Crescent and City of New Orleans. The state is creating a Mississippi Blues Trail, with dedicated markers explaining historic sites significant to the history of blues music, such as Clarksdale's Riverside Hotel, where Bessie Smith died after her auto accident on Highway 61.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.30656934306569344, 0.22459893048128343, 0.25925925925925924, 0.16203703703703703]
+[0.07352941176470588, 0.053763440860215055, 0.062111801242236024, 0.03881987577639752]
+[0.17518248175182483, 0.12834224598930483, 0.14814814814814817, 0.0925925925925926]
+
+
+SBERT sim. Score: 0.5203671455383301

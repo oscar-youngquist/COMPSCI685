@@ -1,0 +1,21 @@
+Document:
+south_dakota
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+South Dakota has 83,609 miles (134,556 km) of highways, roads, and streets, along with 679 miles (1,093 km) of interstate highways. Two major interstates pass through South Dakota: Interstate 90, which runs east and west through the southern half of the state; and Interstate 29, running north and south in the eastern portion of the state. The I-29 corridor features generally higher rates of population and economic growth than areas in eastern South Dakota further from the interstate. Also in the state are the shorter Interstates 190, a spur into central Rapid City, and 229, a loop around southern and eastern Sioux Falls. Several major US highways pass through the state. US routes 12, 14, 16, 18 and 212 travel east and west, while US routes 81, 83, 85 and 281 run north and south. Other state carriers include Dakota Southern Railway, Dakota and Iowa Railroad, Ellis and Eastern Railroad, Sunflour Railroad, Canadian Pacific Railway, and the Sisseton Milbank Railroad. Rail transportation in the state is mostly freight, but there are two passenger heritage railroads: the Black Hills Central and the Prairie Village, Herman, and Milwaukee.
+\Predicted Summary:
+South Dakota ( (listen)) is a US state in the Midwestern region of the United States. It is named after the Lakota and Dakota Sioux Native American tribes, who comprise a large portion of the population and historically dominated the territory. South Dakota is the seventeenth largest by area, but the 5th least populous, and the 5th least densely populated of the 50 United States. As the southern part of the former Dakota Territory, South Dakota became a state on November 2, 1889, simultaneously with North Dakota. It is either the 39th or 40th state admitted to the union. President Benjamin Harrison shuffled the statehood papers before signing them so that no one could tell which became a state first. Pierre is the state capital and Sioux Falls, with a population of about 187,200, is South Dakota's largest city. South Dakota is bordered by the states of North Dakota (to the north), Minnesota (to the east), Iowa (to the southeast), Nebraska (to the south), Wyoming (to the west), and Montana (to the northwest). The state is bisected by the Missouri River, dividing South Dakota into two geographically and socially distinct halves, known to residents as "East River" and "West River".
+
+GT:
+South Dakota has 83,609 miles (134,556 km) of highways, roads, and streets, along with 679 miles (1,093 km) of interstate highways. Two major interstates pass through South Dakota: Interstate 90, which runs east and west through the southern half of the state; and Interstate 29, running north and south in the eastern portion of the state. Railroads have played an important role in South Dakota transportation since the mid-19th century. Some 4,420 miles (7,110 km) of railroad track were built in South Dakota during the late 19th century and early 20th century, but only 1,839 miles (2,960 km) are active. South Dakota's largest commercial airports in terms of passenger traffic are the Sioux Falls Regional Airport and Rapid City Regional Airport. Delta Air Lines, Frontier Airlines, and Allegiant Airlines, as well as commuter airlines using the brand affiliation with major airlines serve the two largest airports.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.36129032258064514, 0.27860696517412936, 0.3146067415730337, 0.19662921348314605]
+[0.1038961038961039, 0.08, 0.0903954802259887, 0.05649717514124295]
+[0.1935483870967742, 0.14925373134328357, 0.16853932584269662, 0.1053370786516854]
+
+
+SBERT sim. Score: 0.5981487035751343

@@ -1,0 +1,21 @@
+Document:
+arizona
+
+Intent:
+What drives the economy in this state?
+
+Input:
+It is also part of the Western and the Mountain states. It is the 6th largest and the 14th most populous of the 50 states. The boom and bust economy of mining also left hundreds of ghost towns across the territory, but copper mining continued to prosper with the territory producing more copper than any other state by 1907, which earned Arizona the nickname "the Copper State" at the time of statehood. The state continues to produce half of the nation's newly mined copper. Cotton farming and copper mining, two of Arizona's most important statewide industries, suffered heavily during the Great Depression. The 2011 total gross state product was $259 billion. This figure gives Arizona a larger economy than such countries as Ireland, Finland, and New Zealand. The composition of the state's economy is moderately diverse; although health care, transportation and the government remain the largest sectors. The state's per capita income is $40,828, ranking 39th in the US Early in its history, Arizona's economy relied on the "five C's": copper (see Copper mining in Arizona), cotton, cattle, citrus, and climate (tourism). Copper is still extensively mined from many expansive open-pit and underground mines, accounting for two-thirds of the nation's output. The largest employment sectors in Arizona are (August 2020, Nonfarm Employment):
+\Predicted Summary:
+Arizona ( (listen) ARR-iz-OH-nə It is also part of the Western and the Mountain states. It is the 6th largest and the 14th most populous of the 50 states. Its capital and largest city is Phoenix. Arizona shares the Four Corners region with Utah, Colorado, and New Mexico; its other neighboring states are Nevada and California to the west and the Mexican states of Sonora and Baja California to the south and southwest. Arizona is the 48th state and last of the contiguous states to be admitted to the Union, achieving statehood on February 14, 1912. Historically part of the territory of Alta California in New Spain, it became part of independent Mexico in 1821. After being defeated in the Mexican–American War, Mexico ceded much of this territory to the United States in 1848. The southernmost portion of the state was acquired in 1853 through the Gadsden Purchase. Southern Arizona is known for its desert climate, with very hot summers and mild winters. Northern Arizona features forests of pine, Douglas fir, and spruce trees; the Colorado Plateau; mountain ranges (such as the San Francisco Mountains); as well as large, deep canyons, with much more moderate summer temperatures and significant winter snowfalls. There are ski resorts in the areas of Flagstaff, Alpine, and Tucson. In addition to the internationally known Grand Canyon National Park, which is one of the world's seven natural wonders, there are several national forests, national parks, and national monuments.
+
+GT:
+The composition of the state's economy is moderately diverse; although health care, transportation and the government remain the largest sectors. Early in its history, Arizona's economy relied on the "five C's": copper (see Copper mining in Arizona), cotton, cattle, citrus, and climate (tourism). Copper is still extensively mined from many expansive open-pit and underground mines, accounting for two-thirds of the nation's output. The state government is Arizona's largest employer, while Banner Health is the state's largest private employer, with more than 39,000 employees (2016). The largest employment sectors in Arizona are (August 2020, Nonfarm Employment): All fifteen Arizona counties levy a tax. Incorporated municipalities also levy transaction privilege taxes which, with the exception of their hotel/motel tax, are generally in the range of 1-to-3%.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.38235294117647056, 0.21138211382113822, 0.27225130890052357, 0.1701570680628272]
+[0.044444444444444446, 0.024489795918367346, 0.031578947368421054, 0.01973684210526316]
+[0.21323529411764705, 0.11788617886178862, 0.15183246073298431, 0.0948952879581152]
+
+
+SBERT sim. Score: 0.5311406850814819

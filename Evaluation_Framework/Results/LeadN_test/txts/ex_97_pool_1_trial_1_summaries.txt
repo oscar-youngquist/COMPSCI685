@@ -1,0 +1,21 @@
+Document:
+michigan
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+These are augmented by several dozen short line railroads. The vast majority of rail service in Michigan is devoted to freight, with Amtrak and various scenic railroads the exceptions. Amtrak passenger rail services the state, connecting many southern and western Michigan cities to Chicago, Illinois. The Gerald R. Ford International Airport in Grand Rapids is the next busiest airport in the state, served by eight airlines to 23 destinations. Flint Bishop International Airport is the third largest airport in the state, served by four airlines to several primary hubs. Smaller regional and local airports are located throughout the state including on several islands.
+\Predicted Summary:
+Michigan ( (listen)) is a state in the Great Lakes and Midwestern regions of the United States. Its name comes from the Ojibwe word mishigami, meaning "large water" or "large lake". With a population of approximately 10 million, Michigan is the tenth most populous state, the 11th most extensive state by area, and the largest by area east of the Mississippi River. Its capital is Lansing, and its largest city is Detroit. Metro Detroit is among the nation's most populous and largest metropolitan economies. Michigan is the only state to consist of two peninsulas. The Lower Peninsula is shaped like a mitten.
+
+GT:
+Michigan is served by four Class I railroads: the Canadian National Railway, the Canadian Pacific Railway, CSX Transportation, and the Norfolk Southern Railway. These are augmented by several dozen short line railroads. Amtrak passenger rail services the state, connecting many southern and western Michigan cities to Chicago, Illinois. There are plans for commuter rail for Detroit and its suburbs (see SEMCOG Commuter Rail). The Detroit Metropolitan Airport in the western suburb of Romulus, was in 2010 the 16th busiest airfield in North America measured by passenger traffic. Smaller regional and local airports are located throughout the state including on several islands.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2871287128712871, 0.28431372549019607, 0.28571428571428575, 0.17857142857142858]
+[0.04, 0.039603960396039604, 0.03980099502487562, 0.024875621890547265]
+[0.15841584158415842, 0.1568627450980392, 0.15763546798029554, 0.09852216748768473]
+
+
+SBERT sim. Score: 0.4598827362060547

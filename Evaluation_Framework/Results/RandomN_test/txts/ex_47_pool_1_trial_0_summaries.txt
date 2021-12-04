@@ -1,0 +1,21 @@
+Document:
+nevada
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Amtrak's California Zephyr train uses the Union Pacific's original transcontinental railroad line in daily service from Chicago to Emeryville, California, serving Elko, Winnemucca, and Reno. Amtrak Thruway Motorcoaches provide connecting service from Las Vegas to trains at Needles, California, Los Angeles, and Bakersfield, California; and from Stateline, Nevada, to Sacramento, California. The Union Pacific Railroad has some railroads in the north and south of Nevada. Greyhound Lines provide some bus service to the state. Nevada also is served by several US highways: US 6, US 50, US 93, US 95 and US 395. There are also 189 Nevada state routes. Nevada is one of a few states in the US that do not have a continuous interstate highway linking its two major population centers – the road connection between the Las Vegas and Reno areas is a combination of several different Interstate and US highways. RTC RIDE operates a system of local transit bus service throughout the Reno-Sparks metropolitan area. Other transit systems in the state include Carson City's JAC.
+\Predicted Summary:
+At the 2010 Census, 6.9% of the state's population were reported as under 5, 24.6% were under 18, and 12.0% were 65 or older. State Assemblyman Harry Mortenson proposed a bill to recognize the alternate (quasi-Spanish) pronunciation of Nevada, though the bill was not supported by most legislators and never received a vote. Finally, the response from Washington came on October 31, 1864: "the pain is over, the child is born, Nevada this day was admitted into the Union". I-215 and I-515 also serve the Las Vegas metropolitan area. Bars are permitted to remain open 24 hours, with no "last call". Education in Nevada is achieved through public and private elementary, middle, and high schools, as well as colleges and universities. Nevada's tax laws are intended to draw new residents and businesses to the state. The 1861 southern boundary is commemorated by Nevada Historical Markers 57 and 58 in Lincoln and Nye counties. Washoe County is the second-most populous county of Nevada. In FY08 their 266 casinos (not counting ones with annual revenue under a million dollars) brought in $12 billion in gaming revenue and another $13 billion in non-gaming revenue.
+
+GT:
+Amtrak's California Zephyr train uses the Union Pacific's original transcontinental railroad line in daily service from Chicago to Emeryville, California, serving Elko, Winnemucca, and Reno. The Union Pacific Railroad has some railroads in the north and south of Nevada. Greyhound Lines provide some bus service to the state. Interstate 15 (I-15) passes through the southern tip of the state, serving Las Vegas and other communities. The state is one of just a few in the country to allow semi-trailer trucks with three trailers – what might be called a "road train" in Australia. RTC Transit is the public transit system in the Las Vegas metropolitan area. The agency is the largest transit agency in the state and operates a network of bus service across the Las Vegas Valley, including the use of The Deuce, double-decker buses, on the Las Vegas Strip and several outlying routes. RTC RIDE operates a system of local transit bus service throughout the Reno-Sparks metropolitan area. Other transit systems in the state include Carson City's JAC. Additionally, a 4-mile (6.4 km) monorail system provides public transportation in the Las Vegas area. McCarran International Airport in Las Vegas is the busiest airport serving Nevada. The Reno-Tahoe International Airport (formerly known as the Reno Cannon International Airport) is the other major airport in the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.26991150442477874, 0.3034825870646766, 0.28571428571428575, 0.1785714285714286]
+[0.04888888888888889, 0.055, 0.05176470588235294, 0.03235294117647059]
+[0.13274336283185842, 0.14925373134328357, 0.14051522248243561, 0.08782201405152226]
+
+
+SBERT sim. Score: 0.45533493161201477

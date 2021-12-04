@@ -1,0 +1,21 @@
+Document:
+minnesota
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Attendance at theatrical, musical, and comedy events in the area is strong. Other large annual festivals include the Saint Paul Winter Carnival, the Minnesota Renaissance Festival, Minneapolis' Aquatennial and Mill City Music Festival, Moondance Jam in Walker, Sonshine Christian music festival in Willmar, the Judy Garland Festival in Grand Rapids, the Eelpout Festival on Leech Lake, and the WE Fest in Detroit Lakes. Minnesota has an active program of organized amateur and professional sports. Tourism has become an important industry, especially in the Lake region. Activities include water sports such as water skiing, which originated in the state, boating, canoeing, and fishing. State and national forests and the seventy-two state parks are used year-round for hunting, camping, and hiking.
+\Predicted Summary:
+Minnesota ( (listen)) is a state in the Upper Midwest, Great Lakes, and northern region of the United States. Minnesota was admitted as the 32nd US state on May 11, 1858, created from the eastern half of the Minnesota Territory. The state is known as the "Land of 10,000 Lakes". Its official motto is L'Étoile du Nord, French for "The Star of the North". Minnesota is the 12th largest in area and the 22nd most populous of the US states. Nearly 55% of its residents live in the Minneapolis–Saint Paul metropolitan area (known as the "Twin Cities"), the state's main hub of transportation, business, industry, education, arts, and government. Urban centers in "Greater Minnesota" include Duluth, Mankato, Moorhead, Rochester and St.
+
+GT:
+Minnesota's leading fine art museums include the Minneapolis Institute of Art, the Walker Art Center, the Frederick R. Weisman Art Museum, and The Museum of Russian Art (TMORA). The world-renowned Guthrie Theater moved into a new Minneapolis facility in 2006, boasting three stages and overlooking the Mississippi River. In the United States, Minneapolis's number of theater companies ranks behind only New York City's, and about 2.3 million theater tickets were sold in the Twin Cities annually as of 2006. Minnesota musicians include Holly Henry, Bob Dylan, Eddie Cochran, The Andrews Sisters, The Castaways, The Trashmen, Prince, Soul Asylum, David Ellefson, Chad Smith, John Wozniak, Hüsker Dü, Owl City, The Replacements, and Dessa. A Prairie Home Companion which first aired in 1974, became a long-running comedy radio show on National Public Radio. A cult scifi cable TV show, Mystery Science Theater 3000, was created by Joel Hodgson in Hopkins, and Minneapolis, MN. A small segment of the Scandinavian population attend a traditional lutefisk dinner to celebrate Christmas. The Minnesota State Fair, advertised as The Great Minnesota Get-Together, is an icon of state culture.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2789473684210526, 0.4274193548387097, 0.3375796178343949, 0.2109872611464968]
+[0.06349206349206349, 0.0975609756097561, 0.07692307692307693, 0.04807692307692308]
+[0.12631578947368421, 0.1935483870967742, 0.15286624203821655, 0.09554140127388534]
+
+
+SBERT sim. Score: 0.37453168630599976

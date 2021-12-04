@@ -1,0 +1,21 @@
+Document:
+montana
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Historically, the state was traversed by the main lines of three east–west transcontinental routes: the Milwaukee Road, the Great Northern, and the Northern Pacific. Today, the BNSF Railway is the state's largest railroad, its main transcontinental route incorporating the former Great Northern main line across the state. Montana RailLink, a privately held Class II railroad, operates former Northern Pacific trackage in western Montana. In addition, Amtrak's Empire Builder train runs through the north of the state, stopping in Libby, Whitefish, West Glacier, Essex, East Glacier Park, Browning, Cut Bank, Shelby, Havre, Malta, Glasgow, and Wolf Point. Still the state's most important east–west travel corridor, the route is today served by Interstate 90 and Interstate 94 which roughly follow the same route as the Northern Pacific. Routes 2 and 12 and Montana Highway 200 also traverse the entire state from east to west. Other major north–south highways include US
+\Predicted Summary:
+Many individuals claiming conscientious objector status from throughout the US were sent to Montana during the war as smokejumpers and for other forest fire-fighting duties. The District Courts also have de novo appellate jurisdiction from inferior courts (city courts, justice courts, and municipal courts), and oversee naturalization proceedings. Indian survivors who had signed treaties were generally required to move onto reservations. Historically, the state was traversed by the main lines of three east–west transcontinental routes: the Milwaukee Road, the Great Northern, and the Northern Pacific. Vegetation of the state includes lodgepole pine, ponderosa pine, Douglas fir, larch, spruce, aspen, birch, red cedar, hemlock, ash, alder, rocky mountain maple and cottonwood trees. The Clark Fork of the Columbia (not to be confused with the Clarks Fork of the Yellowstone River) rises near Butte and flows northwest to Missoula, where it is joined by the Blackfoot River and Bitterroot River. The legislature in turn adopted this recommendation by a wide margin.
+
+GT:
+Railroads have been an important method of transportation in Montana since the 1880s. In addition, Amtrak's Empire Builder train runs through the north of the state, stopping in Libby, Whitefish, West Glacier, Essex, East Glacier Park, Browning, Cut Bank, Shelby, Havre, Malta, Glasgow, and Wolf Point. Bozeman Yellowstone International Airport is the busiest airport in the state of Montana, surpassing Billings Logan International Airport in the spring of 2013. Montana's other major airports include Missoula International Airport, Great Falls International Airport, Glacier Park International Airport, Helena Regional Airport, Bert Mooney Airport and Yellowstone Airport. Historically, US Route 10 was the primary east–west highway route across Montana, connecting the major cities in the southern half of the state. Montana's only north–south Interstate Highway is Interstate 15. Highway 212, the primary paved route between the two, passes through the northeast corner of Wyoming between Montana and South Dakota.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.25165562913907286, 0.2360248447204969, 0.24358974358974358, 0.15224358974358976]
+[0.03333333333333333, 0.03125, 0.03225806451612904, 0.020161290322580648]
+[0.1390728476821192, 0.13043478260869565, 0.1346153846153846, 0.0841346153846154]
+
+
+SBERT sim. Score: 0.5033137202262878

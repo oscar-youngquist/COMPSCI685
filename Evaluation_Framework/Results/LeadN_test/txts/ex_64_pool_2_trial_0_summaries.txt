@@ -1,0 +1,21 @@
+Document:
+ohio
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Of the fifty states, it is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated. Ohio was the first post-colonial free state admitted to the union, and became one of the earliest and most influential industrial powerhouses in the 20th century; although it has transitioned to a more information and service based economy in the 21st century, Ohio remains an industrial state, ranking seventh in GDP as of 2019, with the third largest manufacturing sector and second largest automobile production. The industry of Ohio made the state one of the most important states in the Union during the Civil war. This ranks Ohio's economy as the seventh-largest of all fifty states and the District of Columbia. Forbes ranked the state No. Ohio has the third largest manufacturing workforce behind California and Texas. Ohio's manufacturing sector is the third-largest of all fifty United States states in terms of gross domestic product.
+\Predicted Summary:
+Ohio (listen) is a state in the East North Central region of the Midwestern United States. Of the fifty states, it is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated. The state's capital and largest city is Columbus, with the Columbus metro area, Greater Cincinnati, and Greater Cleveland being the largest metropolitan areas. Ohio is bordered by Lake Erie to the north, Pennsylvania to the east, West Virginia to the southeast, Kentucky to the southwest, Indiana to the west, and Michigan to the northwest. Ohio is historically known as the "Buckeye State" after its Ohio buckeye trees, and Ohioans are also known as "Buckeyes". The state takes its name from the Ohio River, whose name in turn originated from the Senatorca word ohiːyo', meaning "good river", "great river", or "large creek". Ohio arose from the lands west of Appalachia that were contested from colonial times through the Northwest Indian Wars of the late 18th century.
+
+GT:
+In 2010, Ohio was ranked second in the country for best business climate by Site Selection magazine, based on a business-activity database. The state has also won three consecutive Governor's Cup awards from the magazine, based on business growth and developments. As of 2016, Ohio's gross domestic product (GDP) was $626 billion. This ranks Ohio's economy as the seventh-largest of all fifty states and the District of Columbia. The Small Business & Entrepreneurship Council ranked the state No. 10 for best business-friendly tax systems in their Business Tax Index 2009, including a top corporate tax and capital gains rate that were both ranked No. Playhouse Square in downtown Cleveland is the second largest performing arts center in the United States, home to ten theaters. The Cleveland Orchestra is one of the historic Big Five orchestras in the US, and is considered one of the best worldwide.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3509933774834437, 0.3063583815028902, 0.3271604938271605, 0.2044753086419753]
+[0.08, 0.06976744186046512, 0.07453416149068323, 0.046583850931677016]
+[0.17880794701986755, 0.15606936416184972, 0.16666666666666666, 0.10416666666666667]
+
+
+SBERT sim. Score: 0.4916551113128662

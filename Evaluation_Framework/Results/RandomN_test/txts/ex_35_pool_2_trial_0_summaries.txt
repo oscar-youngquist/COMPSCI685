@@ -1,0 +1,21 @@
+Document:
+utah
+
+Intent:
+How is the government structured in this state?
+
+Input:
+A steady stream of governors appointed by the president quit the position, often citing the traditions of their supposed territorial government. Utah government is divided into three branches: executive, legislative, and judicial. The governor is elected for a four-year term. The Utah State Legislature consists of a Senatorte and a House of Representatives. State senators serve four-year terms and representatives two-year terms. The Utah Legislature meets each year in January for an annual 45-day session. It consists of five justices, who are appointed by the governor, and then subject to retention election. The Utah Court of Appeals handles cases from the trial courts. Trial level courts are the district courts and justice courts. All justices and judges, like those on the Utah Supreme Court, are subject to retention election after appointment. Utah is divided into political jurisdictions designated as counties.
+\Predicted Summary:
+It is known as Utah's Dixie because early settlers were able to grow some cotton there. On March 22, 2013, one miner died and another was injured after they became trapped in a cave-in at a part of the Castle Valley Mining Complex, about 16 kilometres (9.9 mi) west of the small mining town of Huntington in Emery County. Conspicuous in the speech of some in the central valley, although less frequent now in Salt Lake City, is a reversal of vowels, so that farm and barn sound like form and born and, conversely, form and born sound like farm and barn. This figure equates to $3.8 billion of service contributed, ranking Utah number one for volunteerism in the nation. Utah is the second-least populous US state to have a major professional sports league franchise, after the Vegas Golden Knights joined the National Hockey League in 2017. The bill was signed into law by Republican Governor Gary Herbert and states that parents who allow their children to engage in certain activities without supervision are not considered neglectful. Although the LDS Church has officially repudiated such statements on many occasions, Democratic candidates—including LDS Democrats—believe Republicans capitalize on the perception that the Republican Party is doctrinally superior. The territory was then left in LDS hands until Patrick E. Connor arrived with a regiment of California volunteers in 1862. One of western Utah's most impressive, but least visited attractions is Notch Peak, the tallest limestone cliff in North America, located west of Delta. In 2011, 28.6% of Utah's population younger than the age of one were ethnic minorities, meaning they had at least one parent who was of a race other than non-Hispanic white. The city of Ogden, Utah was named after Peter Skene Ogden, a Canadian explorer who traded furs in the Weber Valley. The largest ancestry groups in the state are:
+
+GT:
+Utah government is divided into three branches: executive, legislative, and judicial. The governor is elected for a four-year term. The Utah State Legislature consists of a Senatorte and a House of Representatives. State senators serve four-year terms and representatives two-year terms. The Utah Legislature meets each year in January for an annual 45-day session. The Utah Supreme Court is the court of last resort in Utah. It consists of five justices, who are appointed by the governor, and then subject to retention election. The Utah Court of Appeals handles cases from the trial courts. All justices and judges, like those on the Utah Supreme Court, are subject to retention election after appointment. Utah is divided into political jurisdictions designated as counties. The constitution of Utah was enacted in 1895. Utah's Constitution has been amended many times since its inception.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.4097222222222222, 0.1838006230529595, 0.253763440860215, 0.1586021505376344]
+[0.04895104895104895, 0.021875, 0.03023758099352052, 0.018898488120950324]
+[0.2013888888888889, 0.09034267912772585, 0.12473118279569892, 0.07795698924731181]
+
+
+SBERT sim. Score: 0.4215056002140045

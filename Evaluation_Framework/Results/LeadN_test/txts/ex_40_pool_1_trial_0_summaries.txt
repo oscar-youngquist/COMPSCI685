@@ -1,0 +1,21 @@
+Document:
+minnesota
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Principal transportation corridors radiate from the Twin Cities metropolitan area and along interstate corridors in Greater Minnesota. The major Interstate highways are Interstate 35 (I-35), I-90, and I-94, with I-35 and I-94 connecting the Minneapolis–St. Paul area, and I-90 traveling east-west along the southern edge of the state. There are nearly two dozen rail corridors in Minnesota, most of which go through Minneapolis–St. There is water transportation along the Mississippi River system and from the ports of Lake Superior. Intercity bus providers include Jefferson Lines, Greyhound, and Megabus. Local public transit is provided by bus networks in the larger cities and by two rail services. From there, light rail runs to Saint Paul Union Depot on the Green Line, and to the MSP airport and the Mall of America via the Blue Line.
+\Predicted Summary:
+Minnesota ( (listen)) is a state in the Upper Midwest, Great Lakes, and northern region of the United States. Minnesota was admitted as the 32nd US state on May 11, 1858, created from the eastern half of the Minnesota Territory. The state is known as the "Land of 10,000 Lakes". Its official motto is L'Étoile du Nord, French for "The Star of the North". Minnesota is the 12th largest in area and the 22nd most populous of the US states. Nearly 55% of its residents live in the Minneapolis–Saint Paul metropolitan area (known as the "Twin Cities"), the state's main hub of transportation, business, industry, education, arts, and government. Urban centers in "Greater Minnesota" include Duluth, Mankato, Moorhead, Rochester and St. Cloud.
+
+GT:
+Transportation in Minnesota is overseen by the Minnesota Department of Transportation (MnDOT) at the state level and by regional and local governments at the local level. The major Interstate highways are Interstate 35 (I-35), I-90, and I-94, with I-35 and I-94 connecting the Minneapolis–St. Minnesota's principal airport is Minneapolis–St. Paul International Airport (MSP), a major passenger and freight hub for Delta Air Lines and Sun Country Airlines. Public transit services are available in the regional urban centers in Minnesota including Metro Transit in the Twin Cities, opt out suburban operators Minnesota Valley Transit Authority, SouthWest Transit, Plymouth Metrolink, Maple Grove Transit and others. In addition to bus services, Amtrak's daily Empire Builder (Chicago–Seattle/Portland) train runs through Minnesota, calling at the Saint Paul Union Depot and five other stations. Intercity bus providers include Jefferson Lines, Greyhound, and Megabus.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.27702702702702703, 0.328, 0.30036630036630035, 0.18772893772893773]
+[0.08843537414965986, 0.10483870967741936, 0.0959409594095941, 0.0599630996309963]
+[0.1554054054054054, 0.184, 0.16849816849816848, 0.1053113553113553]
+
+
+SBERT sim. Score: 0.5442637801170349

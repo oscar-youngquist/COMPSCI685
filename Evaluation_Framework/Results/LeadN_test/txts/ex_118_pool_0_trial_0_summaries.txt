@@ -1,0 +1,21 @@
+Document:
+rhode_island
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The charter apportioned legislative seats equally among the state's towns, over-representing rural areas and under-representing the growing industrial centers. The state's current governor is Gina Raimondo (D), and the lieutenant governor is Daniel McKee (D). Rhode Island is one of a few states that do not have an official governor's residence. See List of Rhode Island Governors. The state legislature is the Rhode Island General Assembly, consisting of the 75-member House of Representatives and the 38-member Senatorte. Both houses of the bicameral body are currently dominated by the Democratic Party; the presence of the Republican Party is minor in the state government, with Republicans holding a handful of seats in both the Senatorte and House of Representatives. Rhode Island is divided into five counties but it has no county governments. The entire state is divided into municipalities, which handle all local government affairs.
+\Predicted Summary:
+Rhode Island ( (listen), like road) is a state in the New England region of the United States. It is the smallest US state by area and the seventh least populous (1,059,361 as of 2019), but it is also the second most densely populated behind New Jersey. The state takes its name from Rhode Island; however, most of the state is located on the mainland. The state has land borders with Connecticut to the west, Massachusetts to the north and east, and the Atlantic Ocean to the south via Rhode Island Sound and Block Island Sound. It also shares a small maritime border with New York. Providence is the state capital and most populous city in Rhode Island. On May 4, 1776, the Colony of Rhode Island and Providence Plantations was the first of the Thirteen Colonies to renounce its allegiance to the British Crown, and it was the fourth state to ratify the Articles of Confederation, doing so on February 9, 1778. The state boycotted the 1787 convention which drew up the United States Constitution and initially refused to ratify it; it was the last of the original 13 states to do so, on May 29, 1790.
+
+GT:
+The state's current governor is Gina Raimondo (D), and the lieutenant governor is Daniel McKee (D). Raimondo became Rhode Island's first female governor with a plurality of the vote in the November 2014 state elections. Its United States senators are Jack Reed (D) and Sheldon Whitehouse (D). Rhode Island's two United States representatives are David Cicilline (D-1) and Jim Langevin (D-2). Rhode Island is one of a few states that do not have an official governor's residence. The state legislature is the Rhode Island General Assembly, consisting of the 75-member House of Representatives and the 38-member Senatorte. Both houses of the bicameral body are currently dominated by the Democratic Party; the presence of the Republican Party is minor in the state government, with Republicans holding a handful of seats in both the Senatorte and House of Representatives.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.4068965517241379, 0.2964824120603015, 0.3430232558139535, 0.21438953488372092]
+[0.11805555555555555, 0.08585858585858586, 0.09941520467836257, 0.06213450292397661]
+[0.2482758620689655, 0.18090452261306533, 0.20930232558139536, 0.1308139534883721]
+
+
+SBERT sim. Score: 0.5449086427688599

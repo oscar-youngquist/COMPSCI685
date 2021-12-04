@@ -1,0 +1,21 @@
+Document:
+florida
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+This is the second-highest number of islands of any state In the pre-automobile era, railroads played a key role in the state's development, particularly in coastal areas. Florida is one of the largest states east of the Mississippi River, and only Alaska and Michigan are larger in water area. This is the third-most diverse state in the union, behind California and Texas, both larger states. This was the sixth highest percentage of any US state. The area is often seen as a merging point of the conservative northern portion of the state and the liberal southern portion, making it the biggest swing area in the state. Agriculture is the second largest industry in the state.
+\Predicted Summary:
+Florida ( (listen), Spanish pronunciation: [floˈɾiða]) is a state located in the southeastern region of the United States. With a population of over 21 million, Florida is the third-most populous and the 22nd-most extensive of the 50 United States. The state is bordered to the west by the Gulf of Mexico, to the northwest by Alabama, to the north by Georgia, to the east by the Atlantic Ocean, and to the south by the Straits of Florida. The state's capital is Tallahassee and its most populous municipality is Jacksonville. The Miami metropolitan area, with a population of almost 6.2 million, is the most populous urban area in Florida and the seventh-most populous in the United States. Other urban areas in the state with a population of more than one million are Tampa Bay, Orlando, and Jacksonville. Florida's $1.0 trillion economy is the fourth-largest of any US state, and if it were a country, Florida would be the 16th-largest economy in the world. The first European contact was made in 1513 by Spanish explorer Juan Ponce de León, who called it la Florida ([la floˈɾiða] "the land of flowers") upon landing there.
+
+GT:
+Due to its subtropical and tropical climate, Florida rarely receives measurable snowfall. Florida is host to many types of wildlife including: Florida is a low per capita energy user. Florida's economy ranks among the largest in the world. Tourism makes up one of the largest sectors of the state economy, with nearly 1.4 million people employed in the tourism industry in 2016 (a record for the state, surpassing the 1.2 million employment from 2015). Florida has the largest collection of Art Deco and Streamline Moderne buildings, both in the United States and in the entire world, most of which are located in the Miami metropolitan area, especially Miami Beach's Art Deco District, constructed as the city was becoming a resort destination. Florida overall was ranked the 7th best state in America for educating students at all levels by US News & World Report in 2018. Florida has three NFL teams, two MLB teams, two NBA teams, two NHL teams, and two MLS teams.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.42168674698795183, 0.3431372549019608, 0.3783783783783784, 0.23648648648648649]
+[0.12121212121212122, 0.09852216748768473, 0.10869565217391305, 0.06793478260869566]
+[0.21686746987951808, 0.17647058823529413, 0.1945945945945946, 0.12162162162162161]
+
+
+SBERT sim. Score: 0.6803495287895203

@@ -1,0 +1,21 @@
+Document:
+michigan
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Agriculture also serves a significant role, making the state a leading grower of fruit in the US, including blueberries, cherries, apples, grapes, and peaches. The state is an important source of engineering job opportunities. A wide variety of commodity crops, fruits, and vegetables are grown in Michigan, making it second only to California among US states in the diversity of its agriculture. The state has 54,800 farms utilizing 10,000,000 acres (40,000 km2) of land which sold $6.49 billion worth of products in 2010. Hunting and fishing are significant industries in the state. The forest products industry and recreational users contribute $12 billion and 200,000 associated jobs annually to the state's economy.
+\Predicted Summary:
+Michigan ( (listen)) is a state in the Great Lakes and Midwestern regions of the United States. Its name comes from the Ojibwe word mishigami, meaning "large water" or "large lake". With a population of approximately 10 million, Michigan is the tenth most populous state, the 11th most extensive state by area, and the largest by area east of the Mississippi River. Its capital is Lansing, and its largest city is Detroit. Metro Detroit is among the nation's most populous and largest metropolitan economies. Michigan is the only state to consist of two peninsulas. The Lower Peninsula is shaped like a mitten.
+
+GT:
+Although Michigan developed a diverse economy, it is widely known as the center of the US automotive industry, which developed as a major economic force in the early 20th century. It is home to the country's three major automobile companies (whose headquarters are all in Metro Detroit). While sparsely populated, the Upper Peninsula is important for tourism due to its abundance of natural resources, while the Lower Peninsula is a center of manufacturing, forestry, agriculture, services, and high-tech industry. Products and services include automobiles, food products, information technology, aerospace, military equipment, furniture, and mining of copper and iron ore. Michigan is the third leading grower of Christmas trees with 60,520 acres (245 km2) of land dedicated to Christmas tree farming. Michigan ranks first in the nation in licensed hunters (over one million) who contribute $2 billion annually to its economy. The forest products industry and recreational users contribute $12 billion and 200,000 associated jobs annually to the state's economy.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.27439024390243905, 0.4411764705882353, 0.33834586466165417, 0.21146616541353386]
+[0.06134969325153374, 0.09900990099009901, 0.07575757575757575, 0.04734848484848485]
+[0.12804878048780488, 0.20588235294117646, 0.15789473684210528, 0.09868421052631579]
+
+
+SBERT sim. Score: 0.5091429948806763

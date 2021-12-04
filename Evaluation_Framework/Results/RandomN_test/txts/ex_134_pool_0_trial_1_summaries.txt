@@ -1,0 +1,21 @@
+Document:
+wisconsin
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Like neighboring Minnesota, the state remains a center of German American and Scandinavian American culture. Yankees also speculated in real estate, platted towns such as Racine, Beloit, Burlington, and Janesville, and established schools, civic institutions, and Congregationalist churches. Wisconsin's economy also diversified during the early years of statehood. A large part of the state's manufacturing sector includes commercial food processing, including well-known brands such as Oscar Mayer, Tombstone frozen pizza, Johnsonville brats, and Usinger's sausage. Given the large number of lakes and rivers in the state, water recreation is very popular. The varied landscape of Wisconsin makes the state a popular vacation destination for outdoor recreation.
+\Predicted Summary:
+The Republicans lost control of the state Senatorte. Although German immigrants settled throughout the state, the largest concentration was in Milwaukee. Walker won the election by 53% to 46% and became the first governor in United States history to retain his seat after a recall election. One notable event in the fur trading industry in Wisconsin occurred in 1791, when two free African Americans set up a fur trading post among the Menominee at present day Marinette. Case & Company in Racine were founded to build agricultural equipment. Republican Ron Johnson defeated Democratic incumbent US
+
+GT:
+Tourist destinations such as the House on the Rock near Spring Green, Circus World Museum in Baraboo, and The Dells of the Wisconsin River draw thousands of visitors annually, and festivals such as Summerfest and the EAA Oshkosh Airshow draw international attention, along with hundreds of thousands of visitors. In the North Country, what had been an industrial area focused on timber has largely been transformed into a vacation destination. Popular interest in the environment and environmentalism, added to traditional interests in hunting and fishing, has attracted a large urban audience within driving range. The distinctive Door Peninsula, which extends off the eastern coast of the state, contains one of the state's tourist destinations, Door County. Door County is a popular destination for boaters because of the large number of natural harbors, bays, and boat launches on both the Green Bay and Lake Michigan sides of the peninsula that forms the county. The area draws more than two million visitors yearly to its quaint villages, seasonal cherry picking, and fish boils.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13953488372093023, 0.2553191489361702, 0.1804511278195489, 0.11278195488721805]
+[0.023391812865497075, 0.043010752688172046, 0.030303030303030304, 0.01893939393939394]
+[0.09302325581395349, 0.1702127659574468, 0.12030075187969926, 0.07518796992481204]
+
+
+SBERT sim. Score: 0.3242928981781006

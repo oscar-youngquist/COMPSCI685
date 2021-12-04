@@ -1,0 +1,21 @@
+Document:
+utah
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The state has a highly diversified economy, with major sectors including transportation, education, information technology and research, government services, mining; it is also a major tourist destination for outdoor recreation. Economies are dominated by mining, oil shale, oil, and natural gas-drilling, ranching, and recreation. Major industries of Utah include: mining, cattle ranching, salt production, and government services. According to the 2007 State New Economy Index, Utah is ranked the top state in the nation for Economic Dynamism, determined by "the degree to which state economies are knowledge-based, globalized, entrepreneurial, information technology-driven and innovation-based". In 2014, Utah was ranked number one in Forbes' list of "Best States For Business". In eastern Utah petroleum production is a major industry. Since the days of the Utah Territory mining has played a major role in Utah's economy. Today mining activity still plays a major role in the state's economy.
+\Predicted Summary:
+The law states that such drinks must now have new state-approved labels on the front of the products that contain capitalized letters in bold type telling consumers the drinks contain alcohol and at what percentage. Salt Lake City won the bid for the 2002 Winter Olympic Games, and this served as a great boost to the economy. The bill was signed into law by Republican Governor Gary Herbert and states that parents who allow their children to engage in certain activities without supervision are not considered neglectful. Utah ( YOO-tah, (listen) YOO-taw) is a state in the Western United States. Southern Utah became a popular filming spot for arid, rugged scenes featured in the popular mid-century western film genre. Utah has the highest total birth rate and accordingly, the youngest population of any US state. When Utah applied for statehood again, it was accepted. A commuter rail line known as FrontRunner, also operated by UTA, runs between Ogden and Provo via Salt Lake City. A 2012 study found that the proportion of winter (January–March) precipitation falling as snow has decreased by nine percent during the last half century, a combined result from a significant increase in rainfall and a minor decrease in snowfall.
+
+GT:
+Major industries of Utah include: mining, cattle ranching, salt production, and government services. In terms of "small business friendliness", in 2014 Utah emerged as number one, based on a study drawing upon data from more than 12,000 small business owners. In eastern Utah petroleum production is a major industry. In central Utah, coal production accounts for much of the mining activity. Tourism is a major industry in Utah. With five national parks (Arches, Bryce Canyon, Canyonlands, Capitol Reef, and Zion), Utah has the third most national parks of any state after Alaska and California. Utah has seen an increase in tourism since the 2002 Winter Olympics.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3644859813084112, 0.18840579710144928, 0.2484076433121019, 0.1552547770700637]
+[0.08490566037735849, 0.043689320388349516, 0.057692307692307696, 0.03605769230769231]
+[0.21495327102803738, 0.1111111111111111, 0.1464968152866242, 0.09156050955414013]
+
+
+SBERT sim. Score: 0.5359594225883484

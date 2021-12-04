@@ -1,0 +1,21 @@
+Document:
+montana
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The economy is primarily based on agriculture, including ranching and cereal grain farming. Other significant economic resources include oil, gas, coal, mining, and lumber. The health care, service, and government sectors also are significant to the state's economy. A series of major mining discoveries in the western third of the state starting in 1862 found gold, silver, copper, lead, and coal (and later oil) which attracted tens of thousands of miners to the area. The largest mining operations were in the city of Butte, which had important silver deposits and gigantic copper deposits. The war created a boom for Montana mining, lumber, and farming interests, as demand for war materials and food increased. The wheat farms in eastern Montana make the state a major producer; the wheat has a relatively high protein content, thus commands premium prices. Significant industries exist for lumber and mineral extraction; the state's resources include gold, coal, silver, talc, and vermiculite.
+\Predicted Summary:
+The Hell Creek Formation in Northeast Montana is a major source of dinosaur fossils. On January 3, 2012, the Census and Economic Information Center (CEIC) at the Montana Department of Commerce estimated Montana had hit the one million population mark sometime between November and December 2011. Montana's two US senators are Jon Tester (Democrat), who was reelected in 2018, and Steve Daines (Republican), first elected in 2014. In June 1917, the US Congress passed the Espionage Act of 1917, which was extended by the Sedition Act of 1918. Montana is one of only two contiguous states (along with Colorado) that are antipodal to land. Montana has only one representative in the US House, having lost its second district in the 1990 census reapportionment. The US Department of the Interior Bureau of Reclamation administers approximately 300,000 acres (1,200 km2) of land and water surface in the state. Montana schoolchildren played a significant role in selecting several state symbols. District Courts have jurisdiction primarily over most civil cases, cases involving a monetary claim against the state, felony criminal cases, probate, and cases at law and in equity.
+
+GT:
+The economy is primarily based on agriculture, including ranching and cereal grain farming. Other significant economic resources include oil, gas, coal, mining, and lumber. The health care, service, and government sectors also are significant to the state's economy. Montana's fastest-growing sector is tourism; nearly 13 million annual tourists visit Glacier National Park, Yellowstone National Park, Beartooth Highway, Flathead Lake, Big Sky Resort, and other attractions. Cattle ranching has been central to Montana's history and economy since Johnny Grant began wintering cattle in the Deer Lodge Valley in the 1850s and traded cattle fattened in fertile Montana valleys with emigrants on the Oregon Trail. Significant industries exist for lumber and mineral extraction; the state's resources include gold, coal, silver, talc, and vermiculite. Tourism is also important to the economy, with more than ten million visitors a year to Glacier National Park, Flathead Lake, the Missouri River headwaters, the site of the Battle of Little Bighorn, and three of the five entrances to Yellowstone National Park.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2485207100591716, 0.22340425531914893, 0.2352941176470588, 0.14705882352941174]
+[0.03571428571428571, 0.03208556149732621, 0.033802816901408454, 0.02112676056338028]
+[0.15976331360946747, 0.14361702127659576, 0.1512605042016807, 0.09453781512605045]
+
+
+SBERT sim. Score: 0.39604660868644714

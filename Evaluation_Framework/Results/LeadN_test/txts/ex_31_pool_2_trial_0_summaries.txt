@@ -1,0 +1,21 @@
+Document:
+illinois
+
+Intent:
+What drives the economy in this state?
+
+Input:
+With Chicago in northeastern Illinois, small industrial cities and immense agricultural productivity in the north and center of the state, and natural resources such as coal, timber, and petroleum in the south, Illinois has a diverse economic base, and is a major transportation hub. John Deere's invention of the self-scouring steel plow turned Illinois's rich prairie into some of the world's most productive and valuable farmland, attracting immigrant farmers from Germany and Sweden. Many people from other parts of the country were attracted to the state by employment caused by the expanding industrial base. Agriculture, particularly corn and soybeans, as well as educational institutions and manufacturing centers, figure prominently in Central Illinois. Illinois's major agricultural outputs are corn, soybeans, hogs, cattle, dairy products, and wheat. As of 2011, Illinois is ranked as the 4th-most productive manufacturing state in the country, behind California, Texas, and Ohio. As of 2006, the leading manufacturing industries in Illinois, based upon value-added, were chemical manufacturing ($18.3 billion), machinery manufacturing ($13.4 billion), food manufacturing ($12.9 billion), fabricated metal products ($11.5 billion), transportation equipment ($7.4 billion), plastics and rubber products ($7.0 billion), and computer and electronic products ($6.1 billion).
+\Predicted Summary:
+Illinois ( (listen) IL-ə-NOY) is a state in the Midwestern and Great Lakes regions of the United States. It has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all US states. Illinois has been noted as a microcosm of the entire United States. With Chicago in northeastern Illinois, small industrial cities and immense agricultural productivity in the north and center of the state, and natural resources such as coal, timber, and petroleum in the south, Illinois has a diverse economic base, and is a major transportation hub. The Port of Chicago connects the state to international ports via two main routes: from the Great Lakes, via the Saint Lawrence Seaway, to the Atlantic Ocean and from the Great Lakes to the Mississippi River, via the Illinois River, through the Illinois Waterway. The Mississippi River, the Ohio River, and the Wabash River form parts of the boundaries of Illinois. For decades, Chicago's O'Hare International Airport has been ranked as one of the world's busiest airports. Illinois has long had a reputation as a bellwether both in social and cultural terms and, through the 1980s, in politics.
+
+GT:
+With Chicago in northeastern Illinois, small industrial cities and immense agricultural productivity in the north and center of the state, and natural resources such as coal, timber, and petroleum in the south, Illinois has a diverse economic base, and is a major transportation hub. By the early 2000s, Illinois's economy had moved toward a dependence on high-value-added services, such as financial trading, higher education, law, logistics, and medicine. In some cases, these services clustered around institutions that hearkened back to Illinois's earlier economies. For example, the Chicago Mercantile Exchange, a trading exchange for global derivatives, had begun its life as an agricultural futures market. Other important non-manufacturing industries include publishing, tourism, and energy production and distribution.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.5206611570247934, 0.3181818181818182, 0.3949843260188088, 0.24686520376175553]
+[0.35833333333333334, 0.2182741116751269, 0.2712933753943218, 0.1695583596214511]
+[0.4462809917355372, 0.2727272727272727, 0.3385579937304075, 0.2115987460815047]
+
+
+SBERT sim. Score: 0.6353476047515869

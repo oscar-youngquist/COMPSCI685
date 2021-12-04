@@ -1,0 +1,21 @@
+Document:
+illinois
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all US states. Illinois has been noted as a microcosm of the entire United States. As of 2011, Illinois is ranked as the 4th-most productive manufacturing state in the country, behind California, Texas, and Ohio. The state features 13 athletic programs that compete in NCAA Division I, the highest level of US college sports. The University of Chicago is continuously ranked as one of the world's top ten universities on various independent university rankings, and its Booth School of Business, along with Northwestern's Kellogg School of Management consistently rank within the top five graduate business schools in the country and top ten globally. As of 19 August 2010, six of these rank in the "first tier" among the top 500 National Universities in the nation, as determined by the US News & World Report rankings: the University of Chicago, Northwestern University, the University of Illinois at Urbana–Champaign, Loyola University Chicago, the Illinois Institute of Technology, DePaul University, University of Illinois at Chicago, Illinois State University, Southern Illinois University Carbondale, and Northern Illinois University. Illinois also ranks third among the fifty states with the most interstate mileage, coming in after California and Texas, which are much bigger states in area.
+\Predicted Summary:
+Illinois ( (listen) IL-ə-NOY) is a state in the Midwestern and Great Lakes regions of the United States. It has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all US states. Illinois has been noted as a microcosm of the entire United States. With Chicago in northeastern Illinois, small industrial cities and immense agricultural productivity in the north and center of the state, and natural resources such as coal, timber, and petroleum in the south, Illinois has a diverse economic base, and is a major transportation hub. The Port of Chicago connects the state to international ports via two main routes: from the Great Lakes, via the Saint Lawrence Seaway, to the Atlantic Ocean and from the Great Lakes to the Mississippi River, via the Illinois River, through the Illinois Waterway. The Mississippi River, the Ohio River, and the Wabash River form parts of the boundaries of Illinois. For decades, Chicago's O'Hare International Airport has been ranked as one of the world's busiest airports.
+
+GT:
+Illinois is a leader in music education, having hosted the Midwest Clinic International Band and Orchestra Conference since 1946, as well being home to the Illinois Music Educators Association (IMEA), one of the largest professional music educator's organizations in the country. Each summer since 2004, Southern Illinois University Carbondale has played host to the Southern Illinois Music Festival, which presents dozens of performances throughout the region. Past featured artists include the Eroica Trio and violinist David Kim. As one of the United States' major metropolises, all major sports leagues have teams headquartered in Chicago. The state features 13 athletic programs that compete in NCAA Division I, the highest level of US college sports.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.37719298245614036, 0.24293785310734464, 0.29553264604810997, 0.1847079037800687]
+[0.10619469026548672, 0.06818181818181818, 0.08304498269896193, 0.0519031141868512]
+[0.21929824561403508, 0.14124293785310735, 0.1718213058419244, 0.10738831615120274]
+
+
+SBERT sim. Score: 0.36686399579048157

@@ -1,0 +1,21 @@
+Document:
+alaska
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Also in Southeast were the Haida, now well known for their unique arts. The fairs are mostly located in communities with historic or current agricultural activity, and feature local farmers exhibiting produce in addition to more high-profile commercial activities such as carnival rides, concerts and food. The Alaska Native Heritage Center celebrates the rich heritage of Alaska's 11 cultural groups. Influences on music in Alaska include the traditional music of Alaska Natives as well as folk music brought by later immigrants from Russia and Europe. Prominent musicians from Alaska include singer Jewel, traditional Aleut flautist Mary Youngblood, folk singer-songwriter Libby Roderick, Christian music singer-songwriter Lincoln Brewster, metal/post hardcore band 36 Crazyfists and the groups Pamyua and Portugal. There are many established music festivals in Alaska, including the Alaska Folk Festival, the Fairbanks Summer Arts Festival] the Anchorage Folk Festival, the Athabascan Old-Time Fiddling Festival, the Sitka Jazz Festival, and the Sitka Summer Music Festival. The most prominent orchestra in Alaska is the Anchorage Symphony Orchestra, though the Fairbanks Symphony Orchestra and Juneau Symphony are also notable. The Anchorage Opera is currently the state's only professional opera company, though there are several volunteer and semi-professional organizations in the state as well.
+\Predicted Summary:
+The Court of Appeals is required to hear appeals from certain lower-court decisions, including those regarding criminal prosecutions, juvenile delinquency, and habeas corpus. Estimates for the number of Muslims in Alaska range from 2,000 to 5,000. The Matanuska-Susitna Borough, the majority of Fairbanks (including North Pole and the military base), and South Anchorage typically have the strongest Republican showing. The Alaska Bush, central Juneau, midtown and downtown Anchorage, and the areas surrounding the University of Alaska Fairbanks campus and Ester have been strongholds of the Democratic Party. For most of Alaska's first decade under the United States flag, Sitka was the only community inhabited by American settlers. Alaska's main export product (excluding oil and natural gas) is seafood, primarily salmon, cod, Pollock and crab. At 2.5 miles (4.0 km), the tunnel was the longest road tunnel in North America until 2007. In 2010, Alaska ranked as the 47th state by population, ahead of North Dakota, Vermont, and Wyoming (and Washington, D.C.). As a result, an increasing number of Russian Orthodox churches gradually became established within Alaska.
+
+GT:
+Some of Alaska's popular annual events are the Iditarod Trail Sled Dog Race from Anchorage to Nome, World Ice Art Championships in Fairbanks, the Blueberry Festival and Alaska Hummingbird Festival in Ketchikan, the Sitka Whale Fest, and the Stikine River Garnet Fest in Wrangell. The Alaska Native Heritage Center celebrates the rich heritage of Alaska's 11 cultural groups. Their purpose is to encourage cross-cultural exchanges among all people and enhance self-esteem among Native people. The Alaska Native Arts Foundation promotes and markets Native art from all regions and cultures in the State, using the internet. Influences on music in Alaska include the traditional music of Alaska Natives as well as folk music brought by later immigrants from Russia and Europe. There are many established music festivals in Alaska, including the Alaska Folk Festival, the Fairbanks Summer Arts Festival] the Anchorage Folk Festival, the Athabascan Old-Time Fiddling Festival, the Sitka Jazz Festival, and the Sitka Summer Music Festival.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3333333333333333, 0.2918918918918919, 0.31123919308357345, 0.1945244956772334]
+[0.049689440993788817, 0.043478260869565216, 0.0463768115942029, 0.02898550724637681]
+[0.17901234567901234, 0.15675675675675677, 0.1671469740634006, 0.10446685878962537]
+
+
+SBERT sim. Score: 0.5059860348701477

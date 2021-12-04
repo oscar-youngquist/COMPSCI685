@@ -1,0 +1,21 @@
+Document:
+new_hampshire
+
+Intent:
+How is the government structured in this state?
+
+Input:
+New Hampshire has a bifurcated executive branch, consisting of the governor and a five-member executive council which votes on state contracts worth more than $5,000 and "advises and consents" to the governor's nominations to major state positions such as department heads and all judgeships and pardon requests. New Hampshire does not have a lieutenant governor; the Senatorte president serves as "acting governor" whenever the governor is unable to perform the duties. The legislature is called the General Court. It consists of the House of Representatives and the Senatorte. Most towns generally operate on the town meeting form of government, where the registered voters in the town act as the town legislature, and a board of selectmen acts as the executive of the town. Larger towns and the state's thirteen cities operate either on a council–manager or council–mayor form of government. There is no difference, from the state government's point of view, between towns and cities besides the form of government. All state-level statutes treat all municipalities identically. Republicans control the governor's office and both chambers of the state legislature, a governing trifecta in which the Republicans have full governing power. In the 116th United States Congress, it is one of only eight states with an entirely Democratic delegation, five of which are in New England (the others are Delaware, Hawaii, and New Mexico).
+\Predicted Summary:
+According to a 2013 study by Phoenix Marketing International, New Hampshire had the eighth-highest percentage of millionaire households in the United States, at 6.48% of all households. State highway markers still depict the Old Man of the Mountain despite that rock formation's demise in 2003. New Hampshire municipalities are classified as towns or cities, which differ primarily by the form of government. Starting in 1952, New Hampshire gained national and international attention for its presidential primary held early in every presidential election year. Several route numbers align with the same route numbers in neighboring states. The (preliminary) seasonally unemployment rate in April 2019 was 2.4% based on a 767,500 person civilian workforce with 749,000 people in employment. Lighter snowfalls of several inches occur frequently throughout winter, often associated with an Alberta Clipper. The 1990 USDA plant hardiness zones for New Hampshire range from zone 3b in the north to zone 5b in the south. In 2006, Democrats won both congressional seats (electing Carol Shea-Porter in the first district and Paul Hodes in the second), re-elected Governor John Lynch, and gained a majority on the Executive Council and in both houses for the first time since 1911. New Hampshire also elected Frank Guinta (R) for its First Congressional District representative and Ann Kuster (D) for its Second Congressional District representative. All but two of these unincorporated areas are in Coos County.
+
+GT:
+New Hampshire is a "Dillon Rule" state, meaning the state retains all powers not specifically granted to municipalities. New Hampshire municipalities are classified as towns or cities, which differ primarily by the form of government. Most towns generally operate on the town meeting form of government, where the registered voters in the town act as the town legislature, and a board of selectmen acts as the executive of the town. Larger towns and the state's thirteen cities operate either on a council–manager or council–mayor form of government. The Democratic Party and the Republican Party are the two largest parties in the state. New Hampshire is internationally known for the New Hampshire primary, the first primary in the quadrennial American presidential election cycle. State law requires that the Secretary of State schedule this election at least one week before any "similar event".
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.5, 0.3025210084033613, 0.37696335078534027, 0.23560209424083767]
+[0.20279720279720279, 0.12236286919831224, 0.15263157894736845, 0.09539473684210528]
+[0.2847222222222222, 0.1722689075630252, 0.21465968586387435, 0.1341623036649215]
+
+
+SBERT sim. Score: 0.6760510206222534

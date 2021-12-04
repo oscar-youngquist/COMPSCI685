@@ -1,0 +1,21 @@
+Document:
+minnesota
+
+Intent:
+What drives the economy in this state?
+
+Input:
+In recent decades its economy has diversified, shifting from traditional industries such as agriculture and resource extraction to services and finance. Once primarily a producer of raw materials, Minnesota's economy has transformed to emphasize finished products and services. Perhaps the most significant characteristic of the economy is its diversity Minnesota's economy had a gross domestic product of $383 billion in 2019, with 33 of the United States' top 1,000 publicly traded companies by revenue headquartered in Minnesota, including Target, UnitedHealth Group, 3M, General Mills, US Bancorp, Ameriprise, Hormel, Land O' Lakes, SuperValu, Best Buy, and Valspar. Although less than one percent of the population is now employed in the agricultural sector, it remains a major part of the state's economy, ranking sixth in the nation in the value of products sold. The state is the nation's largest producer of sugar beets, sweet corn, and peas for processing, and farm-raised turkeys. Minnesota is also a large producer of corn and soybeans, and has the most food cooperatives per capita in the United States. In 2016 the state produced 60 percent of the country's usable iron ore.
+\Predicted Summary:
+On October 1, 2007, Minnesota became the 17th state to enact the Freedom to Breathe Act, a statewide smoking ban in restaurants and bars. Planting became more specialized with hybridization of corn and wheat, and farm machinery such as tractors and combines became the norm. Along with this Metropolitan Planning Organizations (MPOs), such as the Metropolitan Council, provide planning and oversight of land use actions in metropolitan areas. Upon becoming Indian Commissioner, Ramsey set out to get the Ojibwe too. Professional women's sports include the Minnesota Lynx of the Women's National Basketball Association, winners of the 2011, 2013, 2015, and 2017 WNBA Championships, the Minnesota Lightning of the United Soccer Leagues W-League, the Minnesota Vixen of the Independent Women's Football League, the Minnesota Valkyrie of the Legends Football League, and the Minnesota Whitecaps of the National Women's Hockey League. The team plays at Allianz Field in St. Paul. In early 1863, Ramsey resigned as governor to become the Federal Indian Commissioner. A two percent biodiesel blend has been required in diesel fuel since 2005. Saint Paul is adjacent to Minnesota's most populous city, Minneapolis; they and their suburbs are collectively known as the Twin Cities metropolitan area, the country's 16th-largest metropolitan area and home to about 55 percent of the state's population.
+
+GT:
+Once primarily a producer of raw materials, Minnesota's economy has transformed to emphasize finished products and services. Perhaps the most significant characteristic of the economy is its diversity Minnesota's economy had a gross domestic product of $383 billion in 2019, with 33 of the United States' top 1,000 publicly traded companies by revenue headquartered in Minnesota, including Target, UnitedHealth Group, 3M, General Mills, US Bancorp, Ameriprise, Hormel, Land O' Lakes, SuperValu, Best Buy, and Valspar. Although less than one percent of the population is now employed in the agricultural sector, it remains a major part of the state's economy, ranking sixth in the nation in the value of products sold. The state is the nation's largest producer of sugar beets, sweet corn, and peas for processing, and farm-raised turkeys. Minnesota is also a large producer of corn and soybeans, and has the most food cooperatives per capita in the United States. In 2016 the state produced 60 percent of the country's usable iron ore. The nation's first indoor shopping mall was Edina's Southdale Center, and its largest is Bloomington's Mall of America.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.359375, 0.31221719457013575, 0.3341404358353511, 0.20883777239709442]
+[0.08376963350785341, 0.07272727272727272, 0.07785888077858881, 0.048661800486618]
+[0.18229166666666666, 0.1583710407239819, 0.16949152542372883, 0.10593220338983052]
+
+
+SBERT sim. Score: 0.45324379205703735

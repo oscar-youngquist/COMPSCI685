@@ -1,0 +1,21 @@
+Document:
+pennsylvania
+
+Intent:
+What drives the economy in this state?
+
+Input:
+At the beginning of the 20th century, Pennsylvania's economy centered on steel production, logging, coal mining, textile production and other forms of industrial manufacturing. Pennsylvania's 2018 total gross state product (GSP) of $803 billion ranks the state 6th in the nation. Much of the Commonwealth is rural Philadelphia is home to six Fortune 500 companies, with more located in suburbs like King of Prussia; it is a leader in the financial and insurance industry. In all, Pennsylvania is home to fifty Fortune 500 companies.Hershey is home to The Hershey Company, one of the largest chocolate manufacturers in the world. Pennsylvania ranks 19th overall in agricultural production. The financial impact of agriculture in Pennsylvania includes employment of more than 66,800 people employed by the food manufacturing industry; and over $1.7 billion in food product export (in 2011). It was also a keystone state economically, having both the industry common to the North (making such wares as Conestoga wagons and rifles) and the agriculture common to the South (producing feed, fiber, food, and tobacco). "The Coal State", "The Oil State", "The Chocolate State", and "The Steel State" were adopted when those were the state's greatest industries.
+\Predicted Summary:
+Pennsylvania ( (listen) PEN-səl-VAY-nee-ə) (Pennsylvania German: Pennsilfaani), officially the Commonwealth of Pennsylvania, is a state in the Mid-Atlantic, Appalachian, and Great Lakes regions of the Northeastern United States. The Commonwealth is bordered by Delaware to the southeast, Maryland to the south, West Virginia to the southwest, Ohio to the west, Lake Erie and the Canadian province of Ontario to the northwest, New York to the north, and New Jersey to the east, while the Appalachian Mountains run through its middle. Pennsylvania is the 33rd-largest state by area, and the 5th-most populous state according to the most recent official US Census count in 2010. It is the 9th-most densely populated of the 50 states. Pennsylvania's two most populous cities are Philadelphia (1,580,863), and Pittsburgh (302,407). The state capital and its 13th-largest city is Harrisburg. Pennsylvania has 140 miles (225 km) of waterfront along Lake Erie and the Delaware River. The state is one of the 13 original founding states of the United States; it came into being in 1681 as a result of a royal land grant to William Penn, the son of the state's namesake. Part of Pennsylvania (along the Delaware River), together with the present State of Delaware, had earlier been organized as the Colony of New Sweden.
+
+GT:
+Philadelphia in the southeast corner, Pittsburgh in the southwest corner, Erie in the northwest corner, Scranton-Wilkes-Barre in the northeast corner, and Allentown-Bethlehem-Easton in the east central region are urban manufacturing centers. Philadelphia is home to six Fortune 500 companies, with more located in suburbs like King of Prussia; it is a leader in the financial and insurance industry. Pittsburgh is home to eight Fortune 500 companies, including US Steel, PPG Industries, and H.J. In all, Pennsylvania is home to fifty Fortune 500 companies.Hershey is home to The Hershey Company, one of the largest chocolate manufacturers in the world. As in the US as a whole and in most states, the largest private employer in the Commonwealth is Walmart, followed by the University of Pennsylvania. Sport hunting in Pennsylvania provides a massive boost for the Commonwealth's economy.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.4405594405594406, 0.28378378378378377, 0.34520547945205476, 0.21575342465753425]
+[0.11971830985915492, 0.07692307692307693, 0.09366391184573002, 0.05853994490358127]
+[0.24475524475524477, 0.15765765765765766, 0.19178082191780824, 0.11986301369863014]
+
+
+SBERT sim. Score: 0.5243065357208252

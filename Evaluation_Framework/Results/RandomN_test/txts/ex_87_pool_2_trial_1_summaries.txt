@@ -1,0 +1,21 @@
+Document:
+oregon
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Oregon is also the top timber producer of the contiguous United States, and the timber industry dominated the state's economy in the 20th century. It is the ninth largest state in the United States. Tourism is also a strong industry in the state. The state's coastal region produces significant tourism as well. Oregon is also the home of large corporations in other industries. 55% of state revenues are spent on public education, 23% on human services (child protective services, Medicaid, and senior services), 17% on public safety, and 5% on other services.
+\Predicted Summary:
+Oregon claims the D River as the shortest river in the world, though the state of Montana makes the same claim of its Roe River. The City of Portland imposes an Arts Education and Access Income Tax on residents over 18—a flat tax of $35 collected from individuals earning $1,000 or more per year and residing in a household with an annual income exceeding the federal poverty level. Since the 1980 census, Oregon has had five congressional districts. Recent legislatures have had to be called into special session repeatedly to address revenue shortfalls resulting from economic downturns, bringing to a head the need for more frequent legislative sessions. In the early 21st century, the team's popularity declined due to personnel and financial issues, but revived after the departure of controversial players and the acquisition of new players such as Brandon Roy and LaMarcus Aldridge, and still later Damian Lillard. The state's coastal region produces significant tourism as well. The "kicker law" stipulates that when income tax collections exceed state economists' estimates by two percent or more, any excess must be returned to taxpayers.
+
+GT:
+Typical of a western state, Oregon is home to a unique and diverse array of wildlife. Most of Oregon has a generally mild climate, though there is significant variation given the variety of landscapes across the state. Tourism is also a strong industry in the state. Tourism is centered on the state's natural features – mountains, forests, waterfalls, rivers, beaches and lakes, including Crater Lake National Park, Multnomah Falls, the Painted Hills, the Deschutes River, and the Oregon Caves. High technology industries located in Silicon Forest have been a major employer since the 1970s. Oregon is also the home of large corporations in other industries. Oregon is one of only five states that have no sales tax. Oregon has frequently been cited by statistical agencies for having a smaller percentage of religious communities than other US states. Approximately 90.5% of Oregon high school students graduate, improving on the national average of 88.3% as measured from the 2010 United States Census.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3148148148148148, 0.2727272727272727, 0.2922636103151862, 0.18266475644699137]
+[0.049689440993788817, 0.043010752688172046, 0.046109510086455335, 0.02881844380403458]
+[0.14814814814814814, 0.12834224598930483, 0.13753581661891118, 0.08595988538681948]
+
+
+SBERT sim. Score: 0.6097124218940735

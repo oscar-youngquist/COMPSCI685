@@ -1,0 +1,21 @@
+Document:
+ohio
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Of the fifty states, it is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated. Summers are typically hot and humid throughout the state, while winters generally range from cool to cold. It encompassed what became Ohio, Indiana, Illinois, Michigan, Wisconsin and part of Minnesota. This ranks Ohio's economy as the seventh-largest of all fifty states and the District of Columbia. Forbes ranked the state No. Ohio has the third largest manufacturing workforce behind California and Texas. Ohio has the largest bioscience sector in the Midwest, and is a national leader in the "green" economy. Substantively, Ohio's system is similar to those found in other states.
+\Predicted Summary:
+Ohio (listen) is a state in the East North Central region of the Midwestern United States. Of the fifty states, it is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated. The state's capital and largest city is Columbus, with the Columbus metro area, Greater Cincinnati, and Greater Cleveland being the largest metropolitan areas. Ohio is bordered by Lake Erie to the north, Pennsylvania to the east, West Virginia to the southeast, Kentucky to the southwest, Indiana to the west, and Michigan to the northwest. Ohio is historically known as the "Buckeye State" after its Ohio buckeye trees, and Ohioans are also known as "Buckeyes". The state takes its name from the Ohio River, whose name in turn originated from the Senatorca word ohiːyo', meaning "good river", "great river", or "large creek". Ohio arose from the lands west of Appalachia that were contested from colonial times through the Northwest Indian Wars of the late 18th century. It was partitioned from the resulting Northwest Territory, which was the first frontier of the new United States, and became the 17th state admitted to the Union on March 1, 1803, and the first under the Northwest Ordinance. Ohio was the first post-colonial free state admitted to the union, and became one of the earliest and most influential industrial powerhouses in the 20th century; although it has transitioned to a more information and service based economy in the 21st century, Ohio remains an industrial state, ranking seventh in GDP as of 2019, with the third largest manufacturing sector and second largest automobile production.
+
+GT:
+Although predominantly not in a subtropical climate, some warmer-climate flora and fauna do reach well into Ohio. Columbus is the capital of Ohio, located near the geographic center of the state and well known for The Ohio State University. Akron, Canton, Cleveland, Mansfield, and Youngstown are in the Northeast, known for major industrial companies Goodyear Tire and Rubber and Timken, top ranked colleges Case Western Reserve University and Kent State University, the Cleveland Clinic, and cultural attractions including the Cleveland Museum of Art, Big Five group Cleveland Orchestra, Playhouse Square, the Pro Football Hall of Fame, and the Rock and Roll Hall of Fame. The state has also won three consecutive Governor's Cup awards from the magazine, based on business growth and developments. This ranks Ohio's economy as the seventh-largest of all fifty states and the District of Columbia. The Ohio Lottery has contributed over $15.5 billion to public education in its 34-year history. Ohio is home to some of the nation's highest-ranked public libraries. The Rock and Roll Hall of Fame and the Rhythm and Blues Music Hall of Fame are both located in Cleveland. Cleveland disc jockey Alan Freed is credited with coining the term and promoting rock and roll in the early 1950s. Ohio is home to eight professional sports teams across the five different major leagues in the United States.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3879310344827586, 0.3249097472924188, 0.35363457760314343, 0.22102161100196463]
+[0.07792207792207792, 0.06521739130434782, 0.07100591715976332, 0.044378698224852076]
+[0.2025862068965517, 0.16967509025270758, 0.18467583497053047, 0.11542239685658152]
+
+
+SBERT sim. Score: 0.5680944919586182

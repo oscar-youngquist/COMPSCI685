@@ -1,0 +1,21 @@
+Document:
+nevada
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Amtrak's California Zephyr train uses the Union Pacific's original transcontinental railroad line in daily service from Chicago to Emeryville, California, serving Elko, Winnemucca, and Reno. Amtrak Thruway Motorcoaches provide connecting service from Las Vegas to trains at Needles, California, Los Angeles, and Bakersfield, California; and from Stateline, Nevada, to Sacramento, California. The Union Pacific Railroad has some railroads in the north and south of Nevada. Greyhound Lines provide some bus service to the state. Nevada also is served by several US highways: US 6, US 50, US 93, US 95 and US 395. There are also 189 Nevada state routes. Other transit systems in the state include Carson City's JAC.
+\Predicted Summary:
+Nevada is the driest state in the United States. As of 2011, 63.6% of Nevada's population younger than age 1 were minorities. In 1883, Washoe County annexed the portion that remained in Nevada. Nevada and California have by far the longest diagonal line (in respect to the cardinal directions) as a state boundary at just over 400 miles (640 km). The United States annexed the area in 1848 after its victory in the Mexican–American War, and it was incorporated as part of Utah Territory in 1850. Silver is a distant second, with 10,300,000 ounces (290,000,000 g) worth $69 million mined in 2004 (see Silver mining in Nevada). The Nevada state parks comprise protected areas managed by the state of Nevada, including state parks, state historic sites, and state recreation areas. It is illegal in larger jurisdictions such as Clark County (which contains Las Vegas), Washoe County (which contains Reno), and the independent city of Carson City.
+
+GT:
+Amtrak's California Zephyr train uses the Union Pacific's original transcontinental railroad line in daily service from Chicago to Emeryville, California, serving Elko, Winnemucca, and Reno. Amtrak Thruway Motorcoaches provide connecting service from Las Vegas to trains at Needles, California, Los Angeles, and Bakersfield, California; and from Stateline, Nevada, to Sacramento, California. The Union Pacific Railroad has some railroads in the north and south of Nevada. Greyhound Lines provide some bus service to the state. Interstate 15 (I-15) passes through the southern tip of the state, serving Las Vegas and other communities. Nevada also is served by several US highways: US 6, US 50, US 93, US 95 and US 395. Nevada is one of a few states in the US that do not have a continuous interstate highway linking its two major population centers – the road connection between the Las Vegas and Reno areas is a combination of several different Interstate and US highways. The state is one of just a few in the country to allow semi-trailer trucks with three trailers – what might be called a "road train" in Australia. RTC Transit is the public transit system in the Las Vegas metropolitan area. The agency is the largest transit agency in the state and operates a network of bus service across the Las Vegas Valley, including the use of The Deuce, double-decker buses, on the Las Vegas Strip and several outlying routes. Additionally, a 4-mile (6.4 km) monorail system provides public transportation in the Las Vegas area.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.25098039215686274, 0.39263803680981596, 0.3062200956937799, 0.19138755980861247]
+[0.04330708661417323, 0.06790123456790123, 0.05288461538461538, 0.033052884615384616]
+[0.12549019607843137, 0.19631901840490798, 0.15311004784688995, 0.09569377990430623]
+
+
+SBERT sim. Score: 0.4704916179180145

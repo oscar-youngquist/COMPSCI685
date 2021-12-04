@@ -1,0 +1,21 @@
+Document:
+washington
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+The state's various areas of wilderness offer sanctuary, with substantially large populations of shorebirds and marine mammals. Prominent among their industries were salmon fishing and, notably among the Makah, whale hunting. Early prominent industries in the state included agriculture and lumber. Other industries that developed in the state included fishing, salmon canning and mining. Significant business within the state include the design and manufacture of aircraft (Boeing), automotive (Paccar), computer software development (Microsoft, Bungie, Amazon, Nintendo of America, Valve, ArenaNet), telecom (T-Mobile US), electronics, biotechnology, aluminum production, lumber and wood products (Weyerhaeuser), mining, beverages (Starbucks, Jones Soda), real estate (John L. Scott, Colliers International, Windermere Real Estate, Kidder Mathews), retail (Nordstrom, Eddie Bauer, Car Toys, Costco, R.E.I. Washington is a leading agricultural state. Pacific Raceways is a motorsports venue which has hosted the Northwest Nationals of the NHRA Mello Yello Drag Racing Series and a round of the Trans-Am Series. The state song is "Washington, My Home", the state bird is the American goldfinch, the state fruit is the apple, and the state vegetable is the Walla Walla sweet onion.
+\Predicted Summary:
+Washington has the largest Pacific Northwest population, followed by Oregon, then Idaho. While there are some viticultural activities in the cooler, wetter western half of the state, almost all (99%) of wine grape production takes place in the desert-like eastern half. The La Niña phase reinforces the jet stream through the Pacific Northwest, causing Washington to have more rain and snow than average. Washington produces seven principal varieties of apples which are exported to more than sixty countries. The creation of Idaho Territory in 1863 established the final eastern border. The act was mostly repealed in 1995 before it could go into full effect. The lowest temperature recorded in the state was −48 °F (−44 °C) in Winthrop and Mazama. Seattle-Tacoma International Airport (Sea-Tac) is the major commercial airport of greater Seattle.
+
+GT:
+The Seattle Open Invitational golf tournament was part of the PGA Tour from the 1930s to the 1960s. The GTE Northwest Classic was part of the Senatoror PGA Tour from 1986 to 1995, and the Boeing Classic since 2005. In addition, the 2015 US Open was held at Chambers Bay, and several major tournaments were held at Sahalee Country Club. Pacific Raceways is a motorsports venue which has hosted the Northwest Nationals of the NHRA Mello Yello Drag Racing Series and a round of the Trans-Am Series. The WTA Seattle tennis tournament was part of the WTA Tour from 1977 to 1982. The Climate Pledge Arena has hosted several mixed martial arts events, such as UFC Fight Night: Nogueira vs. Davis, UFC on Fox: Henderson vs. Diaz, and UFC on Fox: Johnson vs. Moraga.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2740740740740741, 0.27205882352941174, 0.27306273062730624, 0.1706642066420664]
+[0.007462686567164179, 0.007407407407407408, 0.007434944237918215, 0.004646840148698884]
+[0.14074074074074075, 0.13970588235294118, 0.14022140221402213, 0.08763837638376383]
+
+
+SBERT sim. Score: 0.37925875186920166

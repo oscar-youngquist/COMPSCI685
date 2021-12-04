@@ -1,0 +1,21 @@
+Document:
+west_virginia
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Huntington in the southwest is close to the states of Ohio and Kentucky, while Martinsburg and Harpers Ferry in the Eastern Panhandle region are considered part of the Washington metropolitan area, in between the states of Maryland and Virginia. Highways form the backbone of transportation systems in West Virginia, with over 37,300 miles (60,000 km) of public roads in the state. Airports, railroads, and rivers complete the commercial transportation modes for West Virginia. Commercial air travel is facilitated by airports in Charleston, Huntington, Morgantown, Beckley, Lewisburg, Clarksburg, and Parkersburg. Recreational transportation opportunities abound in West Virginia, including hiking trails, rail trails, ATV off-road trails, white water rafting rivers, and two tourist railroads, the Cass Scenic Railroad and the Potomac Eagle Scenic Railroad. West Virginia is crossed by seven Interstate Highways. From there it runs east into Maryland. The interstates are supplemented by roads constructed under the Appalachian Corridor system. Corridor D, carrying US 50, runs from the Ohio River, and I-77, at Parkersburg to I-79 at Clarksburg. Amtrak's Cardinal roughly parallels I-64's path through the state.
+\Predicted Summary:
+About 75% of the state is within the Cumberland Plateau and Allegheny Plateau regions. The issue was finally settled in 1915, when the Supreme Court of the United States ruled that West Virginia owed Virginia $12,393,929.50. The climate of West Virginia is generally a humid subtropical climate (Köppen climate classification Cfa, except Dfb at the higher elevations) with warm to hot, humid summers and chilly winters, increasing in severity with elevation. This sometimes leads to the belief that these communities are "unchurched". The festival began in 1947. On May 13, 1862 the state legislature of the reorganized government approved the formation of the new state. In the 2016 elections, the Republicans held on to their seats and made gains in the State Senatorte and gained three statewide offices. The Department of Tax and Revenue supervises and otherwise assists counties and municipalities in their work of assessment and tax rate determination. The five largest ancestry groups in West Virginia are: German (18.9%), Irish (15.1%) American (12.9%), English (11.8%) and Italian (4.7%) In the 2000 Census People who identified their ethnicity as simply American made up 18.7% of the population. The state is regarded as a "deep red" state at the federal level.
+
+GT:
+Highways form the backbone of transportation systems in West Virginia, with over 37,300 miles (60,000 km) of public roads in the state. Commercial air travel is facilitated by airports in Charleston, Huntington, Morgantown, Beckley, Lewisburg, Clarksburg, and Parkersburg. West Virginia University in Morgantown boasts the PRT (personal rapid transit) system, the state's only single-rail public transit system. Recreational transportation opportunities abound in West Virginia, including hiking trails, rail trails, ATV off-road trails, white water rafting rivers, and two tourist railroads, the Cass Scenic Railroad and the Potomac Eagle Scenic Railroad. The interstates are supplemented by roads constructed under the Appalachian Corridor system. Because of the mountainous nature of the entire state, West Virginia has several notable tunnels and bridges.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.29838709677419356, 0.17535545023696683, 0.22089552238805973, 0.13805970149253732]
+[0.07317073170731707, 0.04285714285714286, 0.05405405405405406, 0.033783783783783786]
+[0.1935483870967742, 0.11374407582938388, 0.14328358208955222, 0.08955223880597014]
+
+
+SBERT sim. Score: 0.40530267357826233

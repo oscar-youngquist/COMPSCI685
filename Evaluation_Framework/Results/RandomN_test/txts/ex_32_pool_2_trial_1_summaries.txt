@@ -1,0 +1,21 @@
+Document:
+florida
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+In the pre-automobile era, railroads played a key role in the state's development, particularly in coastal areas. Numerous other railroads were built all over the interior of the state. The fast-growing I-4 corridor area, which runs through Central Florida and connects the cities of Daytona Beach, Orlando, and Tampa/St. Port Tampa Bay meanwhile is the largest in the state, having the most tonnage. Highways. Florida's interstates, state highways, and US Intercity bus travel, which utilizes Florida's highway system, is provided by Greyhound, Megabus, and Amtrak Thruway Motorcoach. Florida's primary interstate routes include: Florida's seven large hub and medium hub airports, as classified by the FAA, are the following:
+\Predicted Summary:
+The Miami Masters is an ATP World Tour Masters 1000 and WTA Premier tennis event, whereas the Delray Beach International Tennis Championships is an ATP World Tour 250 event. Florida is a major golf hub. American flamingos are rare to see in Florida due to being hunted in the 1900s, where it was to a point considered completely extirpated. The US annexed the Mobile District of West Florida to the Mississippi Territory in 1812. The Independent Colleges and Universities of Florida is an association of 28 private, educational institutions in the state. In 2016, Florida had the highest percentage of West Indians in the United States at 4.5%, with 2.3% (483,874) from Haitian ancestry, 1.5% (303,527) Jamaican, and 0.2% (31,966) Bahamian, with the other West Indian groups making up the rest. The British settlers who had remained also resented Spanish rule, leading to a rebellion in 1810 and the establishment for ninety days of the so-called Free and Independent Republic of West Florida on September 23. The British divided and consolidated the Florida provinces (Las Floridas) into East Florida and West Florida, a division the Spanish government kept after the brief British period. Medicaid paid for 60% of all births in Florida in 2009.
+
+GT:
+Florida has many seaports that serve container ships, tank ships, and cruise lines. Major ports in Florida include Port Tampa Bay in Tampa, Port Everglades in Fort Lauderdale, Port of Jacksonville in Jacksonville, PortMiami in Miami, Port Canaveral in Brevard County, Port Manatee in Manatee County, and Port of Palm Beach in Riviera Beach. The world's top three busiest cruise ports are found in Florida with PortMiami as the busiest and Port Canaveral and Port Everglades as the second and third busiest. Florida's highway system contains 1,495 mi (2,406 km) of interstate highway, and 10,601 mi (17,061 km) of non-interstate highway, such as state highways and US Intercity bus travel, which utilizes Florida's highway system, is provided by Greyhound, Megabus, and Amtrak Thruway Motorcoach. Florida has 131 public airports.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.291970802919708, 0.18867924528301888, 0.2292263610315186, 0.14326647564469913]
+[0.014705882352941176, 0.009478672985781991, 0.011527377521613832, 0.007204610951008646]
+[0.17518248175182483, 0.11320754716981132, 0.13753581661891118, 0.08595988538681949]
+
+
+SBERT sim. Score: 0.406922310590744

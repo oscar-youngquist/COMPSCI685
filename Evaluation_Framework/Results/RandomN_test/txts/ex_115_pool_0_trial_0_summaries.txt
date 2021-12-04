@@ -1,0 +1,21 @@
+Document:
+arkansas
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Several main corridors pass through Little Rock, including Interstate 30 (I-30) and I-40 (the nation's 3rd-busiest trucking corridor). The state maintains a large system of state highways today, in addition to eight Interstates and 20 US This segment of I-49 currently follows mostly the same route as the former section of I-540 that extended north of I-40. The state also has the 13th largest state highway system in the nation. Arkansas is served by 2,750 miles (4,430 km) of railroad track divided among twenty-six railroad companies including three Class I railroads. Freight railroads are concentrated in southeast Arkansas to serve the industries in the region. There are four airports with commercial service: Clinton National Airport (formerly Little Rock National Airport or Adams Field), Northwest Arkansas Regional Airport, Fort Smith Regional Airport, and Texarkana Regional Airport, with dozens of smaller airports in the state.
+\Predicted Summary:
+In 2018, the Southern Poverty Law Center (an organization which tracks hate groups) identified 14 distinct hate groups in the state. The governor of Arkansas is Asa Hutchinson, a Republican, who was inaugurated on January 13, 2015. According to CNBC, Arkansas ranks as the 20th best state for business, with the 2nd-lowest cost of doing business, 5th-lowest cost of living, 11th best workforce, 20th-best economic climate, 28th-best educated workforce, 31st-best infrastructure and the 32nd-friendliest regulatory environment. Owners and operators of the cotton plantation economy in southeast Arkansas firmly supported slavery, as they perceived slave labor as the best or "only" economically viable method of harvesting their commodity crops. As of 2010 many Arkansas local newspapers are owned by WEHCO Media, Alabama-based Lancaster Management, Kentucky-based Paxton Media Group, Missouri-based Rust Communications, Nevada-based Stephens Media, and New York-based GateHouse Media. Struggling to stay in power, in the 1890s the Democrats in Arkansas followed other Southern states in passing legislation and constitutional amendments that disfranchised blacks and poor whites. Arkansas is home to many caves, such as Blanchard Springs Caverns. The United States Census Bureau classifies Arkansas as a southern state, sub-categorized among the West South Central States.
+
+GT:
+Transportation in Arkansas is overseen by the Arkansas Department of Transportation (ArDOT), headquartered in Little Rock. Several main corridors pass through Little Rock, including Interstate 30 (I-30) and I-40 (the nation's 3rd-busiest trucking corridor). In northeast Arkansas, I-55 travels north from Memphis to Missouri, with a new spur to Jonesboro (I-555). Arkansas is served by 2,750 miles (4,430 km) of railroad track divided among twenty-six railroad companies including three Class I railroads. The Texas Eagle, an Amtrak passenger train, serves five stations in the state Walnut Ridge, Little Rock, Malvern, Arkadelphia, and Texarkana. Arkansas also benefits from the use of its rivers for commerce. The Mississippi River and Arkansas River are both major rivers. There are four airports with commercial service: Clinton National Airport (formerly Little Rock National Airport or Adams Field), Northwest Arkansas Regional Airport, Fort Smith Regional Airport, and Texarkana Regional Airport, with dozens of smaller airports in the state. Public transit and community transport services for the elderly or those with developmental disabilities are provided by agencies such as the Central Arkansas Transit Authority and the Ozark Regional Transit, organizations that are part of the Arkansas Transit Association.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.285, 0.2753623188405797, 0.28009828009828003, 0.17506142506142502]
+[0.05025125628140704, 0.04854368932038835, 0.04938271604938271, 0.0308641975308642]
+[0.135, 0.13043478260869565, 0.13267813267813267, 0.08292383292383292]
+
+
+SBERT sim. Score: 0.4604388177394867

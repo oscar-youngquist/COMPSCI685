@@ -1,0 +1,21 @@
+Document:
+rhode_island
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+The MBTA Commuter Rail's Providence/Stoughton Line links Providence and T. F. Green Airport with Boston. Green Airport. Amtrak's Acela Express stops at Providence Station (the only Acela stop in Rhode Island), linking Providence to other cities in the Northeast Corridor. Amtrak's Northeast Regional service makes stops at Providence Station, Kingston, and Westerly. Rhode Island's primary airport for passenger and cargo transport is T. F. Green Airport in Warwick, though most Rhode Islanders who wish to travel internationally on direct flights and those who seek a greater availability of flights and destinations often fly through Logan International Airport in Boston. Initially built as the easternmost link in the (now cancelled) extension of I-84 from Hartford, Connecticut, a portion of US Route 6 (US 6) through northern Rhode Island is limited-access and links I-295 with downtown Providence. In the lobby of T. F. Green, the state's main airport, is a large life-sized sailboat, and the state's license plates depict an ocean wave or a sailboat.
+\Predicted Summary:
+Rhode Island ( (listen), like road) is a state in the New England region of the United States. It is the smallest US state by area and the seventh least populous (1,059,361 as of 2019), but it is also the second most densely populated behind New Jersey. The state takes its name from Rhode Island; however, most of the state is located on the mainland. The state has land borders with Connecticut to the west, Massachusetts to the north and east, and the Atlantic Ocean to the south via Rhode Island Sound and Block Island Sound. It also shares a small maritime border with New York. Providence is the state capital and most populous city in Rhode Island. On May 4, 1776, the Colony of Rhode Island and Providence Plantations was the first of the Thirteen Colonies to renounce its allegiance to the British Crown, and it was the fourth state to ratify the Articles of Confederation, doing so on February 9, 1778. The state boycotted the 1787 convention which drew up the United States Constitution and initially refused to ratify it; it was the last of the original 13 states to do so, on May 29, 1790.
+
+GT:
+The Rhode Island Public Transit Authority (RIPTA) operates statewide intra- and intercity bus transport from its hubs at Kennedy Plaza in Providence, Pawtucket, and Newport. From 2000 through 2008, RIPTA offered seasonal ferry service linking Providence and Newport (already connected by highway) funded by grant money from the United States Department of Transportation. The MBTA Commuter Rail's Providence/Stoughton Line links Providence and T. F. Green Airport with Boston. Amtrak's Acela Express stops at Providence Station (the only Acela stop in Rhode Island), linking Providence to other cities in the Northeast Corridor. Rhode Island's primary airport for passenger and cargo transport is T. F. Green Airport in Warwick, though most Rhode Islanders who wish to travel internationally on direct flights and those who seek a greater availability of flights and destinations often fly through Logan International Airport in Boston. Interstate 95 (I-95) runs southwest to northeast across the state, linking Rhode Island with other states along the East Coast. Newport Harbor, in particular, holds many pleasure boats.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2807017543859649, 0.24120603015075376, 0.2594594594594595, 0.16216216216216217]
+[0.06470588235294118, 0.05555555555555555, 0.059782608695652176, 0.03736413043478261]
+[0.1695906432748538, 0.1457286432160804, 0.15675675675675674, 0.09797297297297294]
+
+
+SBERT sim. Score: 0.45783019065856934

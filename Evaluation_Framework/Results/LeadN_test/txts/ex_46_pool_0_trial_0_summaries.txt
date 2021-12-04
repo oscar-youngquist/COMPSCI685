@@ -1,0 +1,21 @@
+Document:
+colorado
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Grand Junction is also along the major railroad of the Western Slope, the Union Pacific. This railroad also provides the tracks for Amtrak's California Zephyr passenger train, which crosses the Rocky Mountains between Denver and Grand Junction via a route on which there are no continuous highways. Colorado's primary mode of transportation (in terms of passengers) is its highway system. The state is home to a network of US and Colorado highways that provide access to all principal areas of the state. DIA handles by far the largest volume of commercial air traffic in Colorado, and is the busiest US hub airport between Chicago and the Pacific coast, making Denver the most important airport for connecting passenger traffic in the western United States. Extensive public transportation bus services are offered both intra-city and inter-city—including the Denver metro area's extensive RTD services. The Regional Transportation District (RTD) operates the popular RTD Bus & Rail transit system in the Denver Metropolitan Area. Amtrak operates two passenger rail lines in Colorado, the California Zephyr and Southwest Chief. Both Union Pacific and BNSF have extensive freight operations in Colorado. Colorado's freight railroad network consists of 2,688 miles of Class I trackage.
+\Predicted Summary:
+Colorado ( (listen), other variants) is a state in the western United States encompassing most of the southern Rocky Mountains as well as the northeastern portion of the Colorado Plateau and the western edge of the Great Plains. It is the 8th most extensive and 21st most populous US state. The estimated population of Colorado is 5,758,736 as of 2019, an increase of 14.5% since the 2010 United States Census. The region has been inhabited by Native Americans for more than 13,000 years, with the Lindenmeier Site containing artifacts dating from approximately 9200 BCE to 1000 BCE; the eastern edge of the Rocky Mountains was a major migration route for early peoples who spread throughout the Americas. The state was named for the Colorado River, which early Spanish explorers named the Río Colorado ("Red River") for the ruddy silt the river carried from the mountains. The Territory of Colorado was organized on February 28, 1861, and on August 1, 1876, US President Ulysses S. Grant signed Proclamation 230 admitting Colorado to the Union as the 38th state. Colorado is nicknamed the "Centennial State" because it became a state one century after the signing of the United States Declaration of Independence. Colorado is bordered by Wyoming to the north, Nebraska to the northeast, Kansas to the east, Oklahoma to the southeast, New Mexico to the south, Utah to the west, and touches Arizona to the southwest at the Four Corners. Colorado is noted for its vivid landscape of mountains, forests, high plains, mesas, canyons, plateaus, rivers and desert lands. Colorado is one of the Mountain States and is a part of the western and southwestern United States. Denver is the capital and most populous city in Colorado.
+
+GT:
+Colorado's primary mode of transportation (in terms of passengers) is its highway system. Denver International Airport (DIA) is the fifth-busiest domestic US airport and twentieth busiest airport in the world by passenger traffic. Extensive public transportation bus services are offered both intra-city and inter-city—including the Denver metro area's extensive RTD services. The Regional Transportation District (RTD) operates the popular RTD Bus & Rail transit system in the Denver Metropolitan Area. As of January 2013 the RTD rail system had 170 light-rail vehicles, serving 47 miles (76 km) of track. Amtrak operates two passenger rail lines in Colorado, the California Zephyr and Southwest Chief.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.28440366972477066, 0.10689655172413794, 0.15538847117794488, 0.09711779448621555]
+[0.046296296296296294, 0.01730103806228374, 0.02518891687657431, 0.015743073047858942]
+[0.1926605504587156, 0.07241379310344828, 0.10526315789473686, 0.06578947368421054]
+
+
+SBERT sim. Score: 0.4603450894355774

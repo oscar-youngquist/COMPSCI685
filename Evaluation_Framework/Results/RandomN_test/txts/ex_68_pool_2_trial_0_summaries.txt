@@ -1,0 +1,21 @@
+Document:
+california
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+California is considered a global trendsetter in popular culture, communication, information, innovation, environmentalism, economics, politics, and entertainment. California groups also were diverse in their political organization with bands, tribes, villages, and on the resource-rich coasts, large chiefdoms, such as the Chumash, Pomo and Salinan. As a result of these efforts, California is regarded as a world center of the entertainment and music industries, of technology, engineering, and the aerospace industry, and as the United States center of agricultural production. This includes the relatively cool summers of the Humboldt Bay region around Eureka, the extreme heat of Death Valley, and the mountain climate of Mammoth in the Sierra Nevada. In the 1960s, popular music groups such as The Beach Boys promoted the image of Californians as laid-back, tanned beach-goers. Hollywood and the rest of the Los Angeles area is a major global center for entertainment, with the US film industry's "Big Five" major film studios (Columbia, Disney, Paramount, Universal, and Warner Bros.) being based in or around the area. Universal Music Group, one of the "Big Four" record labels, is based in Santa Monica. California is also the birthplace of several international music genres, including the Bakersfield sound, Bay Area thrash metal, g-funk, nu metal, stoner rock, surf music, West Coast hip hop, and West Coast jazz.
+\Predicted Summary:
+Both valleys derive their names from the rivers that flow through them. The San Francisco Bay Area is home to several prominent internet media and social media companies, including three of the "Big Five" technology companies (Apple, Facebook, and Google) as well as other services such as Netflix, Pandora Radio, Twitter, Yahoo!, and YouTube. The San Francisco–Oakland Bay Bridge (often abbreviated the "Bay Bridge"), completed in 1936, transports about 280,000 vehicles per day on two-decks. California boasts several superlatives in its collection of flora: the largest trees, the tallest trees, and the oldest trees. However, as of 2002, Californians were relatively under-represented in the military as a proportion to its population. California is a state in the Pacific Region of the United States. In the 1992 US Senatorte election, California became the first state to elect a Senatorte delegation entirely composed of women, due to the victories of Feinstein and Barbara Boxer. Numerous trout species are found, among them rainbow, golden, and cutthroat.
+
+GT:
+It is considered the origin of the hippie counterculture, beach and car culture, the Internet, and the personal computer, among others. In the 1960s, popular music groups such as The Beach Boys promoted the image of Californians as laid-back, tanned beach-goers. The San Francisco Bay Area is home to several prominent internet media and social media companies, including three of the "Big Five" technology companies (Apple, Facebook, and Google) as well as other services such as Netflix, Pandora Radio, Twitter, Yahoo!, and YouTube. One of the oldest radio stations in the United States still in existence, KCBS (AM) in the Bay Area, was founded in 1909. Universal Music Group, one of the "Big Four" record labels, is based in Santa Monica. California is also the birthplace of several international music genres, including the Bakersfield sound, Bay Area thrash metal, g-funk, nu metal, stoner rock, surf music, West Coast hip hop, and West Coast jazz. A Pew Research Center survey revealed that California is somewhat less religious than the rest of the states: 62 percent of Californians say they are "absolutely certain" of their belief in God, while in the nation 71 percent say so. The survey also revealed 48 percent of Californians say religion is "very important", compared to 56 percent nationally.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.4046511627906977, 0.5209580838323353, 0.45549738219895286, 0.2846858638743456]
+[0.2383177570093458, 0.3072289156626506, 0.26842105263157895, 0.16776315789473684]
+[0.29767441860465116, 0.38323353293413176, 0.33507853403141363, 0.2094240837696335]
+
+
+SBERT sim. Score: 0.49373868107795715

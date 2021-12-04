@@ -1,0 +1,21 @@
+Document:
+south_dakota
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+South Dakota has 83,609 miles (134,556 km) of highways, roads, and streets, along with 679 miles (1,093 km) of interstate highways. Two major interstates pass through South Dakota: Interstate 90, which runs east and west through the southern half of the state; and Interstate 29, running north and south in the eastern portion of the state. The I-29 corridor features generally higher rates of population and economic growth than areas in eastern South Dakota further from the interstate. Also in the state are the shorter Interstates 190, a spur into central Rapid City, and 229, a loop around southern and eastern Sioux Falls. Several major US highways pass through the state. US routes 12, 14, 16, 18 and 212 travel east and west, while US routes 81, 83, 85 and 281 run north and south. Other state carriers include Dakota Southern Railway, Dakota and Iowa Railroad, Ellis and Eastern Railroad, Sunflour Railroad, Canadian Pacific Railway, and the Sisseton Milbank Railroad. Rail transportation in the state is mostly freight, but there are two passenger heritage railroads: the Black Hills Central and the Prairie Village, Herman, and Milwaukee.
+\Predicted Summary:
+A Republican-supported bill passed in March 2019 requires that all public schools display "In God We Trust" in a prominent location. The experiences of the Dust Bowl, coupled with local bank foreclosures and the general economic effects of the Great Depression, resulted in many South Dakotans leaving the state. Businesses on the reservation collect the tax and the state refunds to the Indian Tribes the percentage of sales tax collections relating to the ratio of Indian population to total population in the county or area affected. South Dakota contains two National Scenic Byways. Although most rural counties and small towns have lost population, the Sioux Falls area, the larger counties along Interstate 29, the Black Hills, and many Indian reservations have all gained population. Although other industries have expanded rapidly in recent decades, agricultural production is still very important to the state's economy, especially in rural areas. The North American continental pole of inaccessibility is between Allen and Kyle, 1,024 mi (1,648 km) from the nearest coastline. The Crazy Horse Memorial is a large mountainside sculpture near Mount Rushmore being built using private funds. Popular species of game include pheasants, white-tailed deer, mule deer, and turkeys, as well as waterfowl such as Canada geese, snow geese, and mallards.
+
+GT:
+South Dakota has 83,609 miles (134,556 km) of highways, roads, and streets, along with 679 miles (1,093 km) of interstate highways. Two major interstates pass through South Dakota: Interstate 90, which runs east and west through the southern half of the state; and Interstate 29, running north and south in the eastern portion of the state. Railroads have played an important role in South Dakota transportation since the mid-19th century. Some 4,420 miles (7,110 km) of railroad track were built in South Dakota during the late 19th century and early 20th century, but only 1,839 miles (2,960 km) are active. South Dakota's largest commercial airports in terms of passenger traffic are the Sioux Falls Regional Airport and Rapid City Regional Airport. Delta Air Lines, Frontier Airlines, and Allegiant Airlines, as well as commuter airlines using the brand affiliation with major airlines serve the two largest airports.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.32903225806451614, 0.23943661971830985, 0.27717391304347827, 0.17323369565217392]
+[0.07142857142857142, 0.05188679245283019, 0.060109289617486336, 0.037568306010928955]
+[0.16774193548387098, 0.12206572769953052, 0.14130434782608697, 0.08831521739130434]
+
+
+SBERT sim. Score: 0.4533200263977051

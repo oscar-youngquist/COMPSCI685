@@ -1,0 +1,21 @@
+Document:
+missouri
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Two of the nation's three busiest rail centers are in Missouri. Kansas City is the second-largest freight rail center in the US (but is first in the amount of tonnage handled). Like Kansas City, St. Louis is a major destination for train freight. Amtrak passenger trains serve Kansas City, La Plata, Jefferson City, St. Louis, Lee's Summit, Independence, Warrensburg, Hermann, Washington, Kirkwood, Sedalia, and Poplar Bluff. It is one of the largest systems (by track mileage) in the United States. The Gateway Multimodal Transportation Center in St. Louis is the largest active multi-use transportation center in the state. Greyhound and Trailways provide inter-city bus service in Missouri.
+\Predicted Summary:
+In 2007, Forbes named Missouri's largest metropolitan area, St. Louis, America's "best city for smokers". Among private institutions Washington University in St. Louis and Saint Louis University are two top ranked schools in the US. Serum was rushed to the area, and medical personnel stopped the epidemic. With more than six million residents, it is the 18th-most populous state of the country. Oil wells in Missouri produced 120,000 barrels of crude oil in fiscal 2012. Missouri's highest recorded temperature is 118 °F (48 °C) at Warsaw and Union on July 14, 1954, while the lowest recorded temperature is −40 °F (−40 °C) also at Warsaw on February 13, 1905. White Palace was filmed in St. Louis. Worth County is the smallest (266).
+
+GT:
+Missouri has two major airport hubs: St. Louis Lambert International Airport and Kansas City International Airport. Southern Missouri has the Springfield–Branson National Airport (SGF) with multiple non-stop destinations. Residents of Mid-Missouri use Columbia Regional Airport (COU) to fly to Chicago (ORD), Dallas (DFW) or Denver (DEN). Two of the nation's three busiest rail centers are in Missouri. Kansas City is the second-largest freight rail center in the US (but is first in the amount of tonnage handled). Amtrak passenger trains serve Kansas City, La Plata, Jefferson City, St. Louis, Lee's Summit, Independence, Warrensburg, Hermann, Washington, Kirkwood, Sedalia, and Poplar Bluff. A proposed high-speed rail route in Missouri as part of the Chicago Hub Network has received $31 million in funding. The only urban light rail/subway system operating in Missouri is MetroLink, which connects the city of St. Louis with suburbs in Illinois and St. Louis County. The Gateway Multimodal Transportation Center in St. Louis is the largest active multi-use transportation center in the state. Many cities have regular fixed-route systems, and many rural counties have rural public transit services. The Mississippi River and Missouri River are commercially navigable over their entire lengths in Missouri. Following the passage of Amendment 3 in late 2004, the Missouri Department of Transportation (MoDOT) began its Smoother, Safer, Sooner road-building program with a goal of bringing 2,200 miles (3,500 km) of highways up to good condition by December 2007.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.19433198380566802, 0.3779527559055118, 0.2566844919786096, 0.16042780748663102]
+[0.04065040650406504, 0.07936507936507936, 0.053763440860215055, 0.033602150537634407]
+[0.09716599190283401, 0.1889763779527559, 0.1283422459893048, 0.08021390374331551]
+
+
+SBERT sim. Score: 0.4634021520614624

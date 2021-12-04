@@ -1,0 +1,21 @@
+Document:
+illinois
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all US states. Illinois has been noted as a microcosm of the entire United States. Springfield, the state's capital, comes in as sixth-most populous with 117,352 residents. Illinois also produces wine, and the state is home to two American viticultural areas. As of 2011, Illinois is ranked as the 4th-most productive manufacturing state in the country, behind California, Texas, and Ohio. Illinois also has the 11th highest gasoline tax by state, at 37.5 cents per gallon. The state features 13 athletic programs that compete in NCAA Division I, the highest level of US college sports. Many areas in the state are actually located in two school districts—one for high school, the other for elementary and middle schools. Illinois has the distinction of having the most primary (two-digit) interstates pass through it among all the 50 states with 13. Illinois also ranks third among the fifty states with the most interstate mileage, coming in after California and Texas, which are much bigger states in area.
+\Predicted Summary:
+The southern part of the state, from about Carbondale southward, has a humid subtropical climate (Koppen Cfa), with more moderate winters. Louis line to bring the maximum speed up to 110 mph (180 km/h), which would reduce the trip time by an hour and a half. Beginning with President Abraham Lincoln's first call for troops and continuing throughout the war, Illinois mustered 150 infantry regiments, which were numbered from the 7th to the 156th regiments. The Illinois Territory was created on February 3, 1809, with its capital at Kaskaskia, an early French settlement. Chicago, along the shores of Lake Michigan, is the nation's third largest city. Several museums in Chicago are ranked as some of the best in the world. Illinois has numerous museums As of September 2009, Illinois had 1116.06 MW of installed wind power nameplate capacity with another 741.9 MW under construction. Mattoon was recently chosen as the site for the Department of Energy's FutureGen project, a 275-megawatt experimental zero emission coal-burning power plant that the DOE just gave a second round of funding. Of the foreign-born population, 43.7% were naturalized US citizens, and 56.3% were not US citizens. Some localities possess home rule, which allows them to govern themselves to a certain extent.
+
+GT:
+Three US presidents have been elected while living in Illinois: Abraham Lincoln, Ulysses S. Grant, and Barack Obama. The southern part of the state, from about Carbondale southward, has a humid subtropical climate (Koppen Cfa), with more moderate winters. Illinois's minimum wage will rise to $15 per hour by 2025, making it one of the highest in the nation. As of 2011, Illinois is ranked as the 4th-most productive manufacturing state in the country, behind California, Texas, and Ohio. About three-quarters of the state's manufacturers are located in the Northeastern Opportunity Return Region, with 38 percent of Illinois's approximately 18,900 manufacturing plants located in Cook County. In the 1980s and 1990s, heavy rock, punk, and hip hop also became popular in Chicago. As one of the United States' major metropolises, all major sports leagues have teams headquartered in Chicago. Many minor league teams also call Illinois their home.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.42857142857142855, 0.30414746543778803, 0.35579514824797837, 0.22237196765498654]
+[0.1895424836601307, 0.13425925925925927, 0.15718157181571815, 0.09823848238482386]
+[0.2727272727272727, 0.1935483870967742, 0.22641509433962262, 0.14150943396226415]
+
+
+SBERT sim. Score: 0.6361879706382751

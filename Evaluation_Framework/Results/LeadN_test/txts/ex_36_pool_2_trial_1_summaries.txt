@@ -1,0 +1,21 @@
+Document:
+virginia
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Virginia's economy has many sectors: agriculture in the Shenandoah Valley; federal agencies in Northern Virginia, including the headquarters of the US Department of Defense and Central Intelligence Agency; and military facilities in Hampton Roads, the site of the region's main seaport. Virginia's economy has diverse sources of income, including local and federal government, military, farming and high-tech. Additionally, in 2014 a survey of 12,000 small business owners found Virginia to be one of the most friendly states for small businesses. Virginia has the highest concentration of technology workers of any state, and the fourth-highest number of technology workers after California, Texas, and New York. Northern Virginia, once considered the state's dairy capital, now hosts software, communication technology, defense contracting companies, particularly in the Dulles Technology Corridor and Tysons Corner areas. Tourism in Virginia supported an estimated 234,000 jobs in 2018, making tourism the state's fifth largest industry. Though agriculture has declined significantly since 1960 when there were twice as many farms, it remains the largest single industry in Virginia, providing for over 334,000 jobs. Soybeans were the most profitable crop in Virginia in 2017, ahead of corn and cut flowers as other leading agricultural products. Though it is no longer the primary crop, Virginia is still the third-largest producer of tobacco in the United States.
+\Predicted Summary:
+Virginia ( (listen)), officially the Commonwealth of Virginia, is a state in the Mid-Atlantic region of the Southern United States, between the Atlantic Coast and the Appalachian Mountains. The geography and climate of the Commonwealth are shaped by the Blue Ridge Mountains and the Chesapeake Bay, which provide habitat for much of its flora and fauna. The capital of the Commonwealth is Richmond; Virginia Beach is the most-populous city, and Fairfax County is the most-populous political subdivision. The Commonwealth's estimated population as of 2019 is over 8.54 million, with 36% of them living in the Baltimore–Washington metropolitan area. The area's history begins with several indigenous groups, including the Powhatan. In 1607 the London Company established the Colony of Virginia as the first permanent English colony in the New World. Virginia's state nickname, the Old Dominion, is a reference to this status. Slave labor and the land acquired from displaced Native American tribes each played a significant role in the colony's early politics and plantation economy. Virginia was one of the 13 Colonies in the American Revolution. In the American Civil War, Virginia's Secession Convention resolved to join the Confederacy while the First Wheeling Convention resolved to remain in the Union, leading to a split that created West Virginia.
+
+GT:
+Virginia's economy has many sectors: agriculture in the Shenandoah Valley; federal agencies in Northern Virginia, including the headquarters of the US Department of Defense and Central Intelligence Agency; and military facilities in Hampton Roads, the site of the region's main seaport. Virginia's economy has diverse sources of income, including local and federal government, military, farming and high-tech. Tourism in Virginia supported an estimated 234,000 jobs in 2018, making tourism the state's fifth largest industry. It generated $26 billion, an increase 4.4 percent from 2017. Though agriculture has declined significantly since 1960 when there were twice as many farms, it remains the largest single industry in Virginia, providing for over 334,000 jobs. Virginia is also the country's third-largest producer of seafood as of 2018, with sea scallops, oysters, Chesapeake blue crabs, menhaden, and hardshell clams as the largest seafood harvests by value, and France, Canada, and Hong Kong as the top export destinations.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.35185185185185186, 0.2626728110599078, 0.30079155672823216, 0.1879947229551451]
+[0.055900621118012424, 0.041666666666666664, 0.04774535809018568, 0.02984084880636605]
+[0.1728395061728395, 0.12903225806451613, 0.14775725593667546, 0.09234828496042216]
+
+
+SBERT sim. Score: 0.5045927166938782

@@ -1,0 +1,21 @@
+Document:
+louisiana
+
+Intent:
+How is the government structured in this state?
+
+Input:
+Louisiana is the only US state with political subdivisions termed parishes, which are equivalent to counties. It was grouped with Texas in what was administered as the Fifth Military District. The state also has a use tax, which includes 4% to be distributed by the Department of Revenue to local governments. Most parishes have an elected government known as the Police Jury, dating from the colonial days. It is the legislative and executive government of the parish, and is elected by the voters. A more limited number of parishes operate under home rule charters, electing various forms of government. Louisiana is unique among US states in using a system for its state and local elections similar to that of modern France. All other states (except Washington, California, and Maine) use single-party primaries followed by a general election between party candidates, each conducted by either a plurality voting system or runoff voting, to elect senators, representatives, and statewide officials. Its troopers have statewide jurisdiction with power to enforce all laws of the state, including city and parish ordinances.
+\Predicted Summary:
+Both these units have served overseas during the War on Terror. It lost one House seat due to stagnant population growth in the 2010 Census. Louisiana's secession was announced on January 26, 1861, and it became part of the Confederate States of America. At one time, the land was added to when spring floods from the Mississippi River added sediment and stimulated marsh growth; the land is now shrinking. The state's two US senators are Bill Cassidy (R) and John Neely Kennedy (R). Through the centuries, the various Isleño communities of Louisiana have kept alive different elements of their Canary Islander heritage while also adopting and building upon the customs and traditions of the communities that surround them. This being said, the transmission of Spanish and other customs has completely halted in St. Bernard with those having competency in Spanish being octogenarians. On July 28, 1936, the two branches were consolidated to form the Louisiana Department of State Police; its motto was "courtesy, loyalty, service". Artillery marched his troops into town and had the American flag run up the fort's flagpole. Despite demands by United States Rep. James Hillhouse and by the pamphleteer Thomas Paine to enforce existing federal law against slavery in the newly acquired territory, slavery prevailed because it was the source of great profits and the lowest-cost labor.
+
+GT:
+The current Louisiana governor is Democrat John Bel Edwards. The current United States senators are Republicans John Neely Kennedy and Bill Cassidy. Louisiana has six congressional districts and is represented in the US House of Representatives by five Republicans and one Democrat. Louisiana had eight votes in the Electoral College for the 2012 election. Louisiana is divided into 64 parishes (the equivalent of counties in most other states). Most parishes have an elected government known as the Police Jury, dating from the colonial days. A more limited number of parishes operate under home rule charters, electing various forms of government. The Louisiana political and legal structure has maintained several elements from the times of French and Spanish governance. One is the use of the term "parish" (from the French: paroisse) in place of "county" for administrative subdivision. Another is the legal system of civil law based on French, German, and Spanish legal codes and ultimately Roman law, as opposed to English common law. Louisiana's civil law system is what the majority of nations in the world use, especially in Europe and its former colonies, excluding those that derive from the British Empire. In 1997, Louisiana became the first state to offer the option of a traditional marriage or a covenant marriage.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3867924528301887, 0.36283185840707965, 0.3744292237442922, 0.23401826484018268]
+[0.052132701421800945, 0.04888888888888889, 0.05045871559633028, 0.03153669724770643]
+[0.17452830188679244, 0.16371681415929204, 0.1689497716894977, 0.10559360730593607]
+
+
+SBERT sim. Score: 0.5171006321907043

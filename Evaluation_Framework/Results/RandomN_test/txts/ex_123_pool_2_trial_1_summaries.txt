@@ -1,0 +1,21 @@
+Document:
+alabama
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+The state's economy in the 21st century is based on management, automotive, finance, manufacturing, aerospace, mineral extraction, healthcare, education, retail, and technology. The state has numerous place names of Native American origin. Temperatures tend to be warmer in the southern part of the state with its proximity to the Gulf of Mexico, while the northern parts of the state, especially in the Appalachian Mountains in the northeast, tend to be slightly cooler. The state is usually ranked among the top in nation for its range of overall biodiversity. Residents of the state, along with those in five other states, were least likely in the nation to be physically active during leisure time. As of 2018, Alabama has the sixth highest poverty rate among states in the US According to Business Insider, Alabama ranked 14th in most popular states to visit in 2014. Alabama is one of seven states that levy a tax on food at the same rate as other goods, and one of two states (the other being neighboring Mississippi) which fully taxes groceries without any offsetting relief for low-income families.
+\Predicted Summary:
+Alabama's highest temperature of 112 °F (44 °C) was recorded on September 5, 1925, in the unincorporated community of Centerville. According to the 2011 US News & World Report, Alabama had three universities ranked in the top 100 Public Schools in America (University of Alabama at 31, Auburn University at 36, and University of Alabama at Birmingham at 73). Huntsville served as temporary capital from 1819 to 1820, when the seat of government moved to Cahaba in Dallas County. "Alabama—History and Culture". Additionally, Alabama has four National Forests: Conecuh, Talladega, Tuskegee, and William B. Bankhead. Through the legislative delegations, the Alabama legislature kept control of county governments. Reflecting this emigration, the population growth rate in Alabama (see "historical populations" table below) dropped by nearly half from 1910 to 1920. Republicans hold six of the eight elected seats on the Alabama State Board of Education. In 1954, the US Supreme Court ruled in Brown v. Board of Education that public schools had to be desegregated, but Alabama was slow to comply.
+
+GT:
+With a total of 1,500 miles (2,400 km) of inland waterways, Alabama has among the most of any state. The state is classified as humid subtropical (Cfa) under the Koppen Climate Classification. Temperatures tend to be warmer in the southern part of the state with its proximity to the Gulf of Mexico, while the northern parts of the state, especially in the Appalachian Mountains in the northeast, tend to be slightly cooler. Summers in Alabama are among the hottest in the US, with high temperatures averaging over 90 °F (32 °C) throughout the summer in some parts of the state. The state is home to various attractions, natural features, parks and events that attract visitors from around the globe, notably the annual Hangout Music Festival, held on the public beaches of Gulf Shores; the Alabama Shakespeare Festival, one of the ten largest Shakespeare festivals in the world; the Robert Trent Jones Golf Trail, a collection of championship caliber golf courses distributed across the state; casinos such as Victoryland; amusement parks such as Alabama Splash Adventure; the Riverchase Galleria, one of the largest shopping centers in the southeast; Guntersville Lake, voted the best lake in Alabama by Southern Living Magazine readers; and the Alabama Museum of Natural History, the oldest museum in the state. Mobile is known for having the oldest organized Mardi Gras celebration in the United States, beginning in 1703. Mardi Gras is an official state holiday in Mobile and Baldwin counties. College football is extremely popular in Alabama, particularly the University of Alabama Crimson Tide and Auburn University Tigers, rivals in the Southeastern Conference.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.22388059701492538, 0.3508771929824561, 0.2733485193621868, 0.17084282460136677]
+[0.052434456928838954, 0.08235294117647059, 0.06407322654462243, 0.04004576659038902]
+[0.12686567164179105, 0.19883040935672514, 0.15489749430523916, 0.09681093394077449]
+
+
+SBERT sim. Score: 0.47851768136024475

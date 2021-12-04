@@ -1,0 +1,21 @@
+Document:
+new_hampshire
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+New Hampshire is the 5th smallest by area and the 10th least populous US state. It is the state with the highest percentage of timberland area in the country. It contains less than 5% of the state's population, suffers relatively high poverty, and is steadily losing population as the logging and paper industries decline. Winters are cold and snowy throughout the state, and especially severe in the northern and mountainous areas. The northern parts of the state produced lumber, and the mountains provided tourist attractions. New Hampshire has the highest percentage (22.9%) of residents with French/French-Canadian/Acadian ancestry of any US state. A survey suggests people in New Hampshire and Vermont are less likely than other Americans to attend weekly services and only 54% say they are "absolutely certain there is a God" compared to 71% in the rest of the nation. New Hampshire and Vermont are also at the lowest levels among states in religious commitment. The state's largest economic sectors in 2018, based on contribution to GDP, are: 15% real estate and rental and leasing; 13% professional business services; 12% manufacturing; 10% government and government services; and 9% health care and social services. In the 116th United States Congress, it is one of only eight states with an entirely Democratic delegation, five of which are in New England (the others are Delaware, Hawaii, and New Mexico).
+\Predicted Summary:
+Only 20% of respondents in New Hampshire categorized themselves as "very religious", while the nationwide average was 40%. The state was named after the southern English county of Hampshire by Captain John Mason. It was the only state in the country to switch from supporting Republican George W. Bush in the 2000 election to supporting his Democratic challenger in the 2004 election, when John Kerry, a senator from neighboring Massachusetts, won the state. The governor of New Hampshire, since January 5, 2017, is Chris Sununu (Republican). According to the Energy Information Administration, New Hampshire's energy consumption and per capita energy consumption are among the lowest in the country. The center of population has moved south 12 miles (19 km) since 1950, a reflection of the fact the state's fastest growth has been along its southern border, which is within commuting range of Boston and other Massachusetts cities. Beginning in 1992, New Hampshire became a swing state in national and local elections, and in that time has supported Democrats in all presidential elections except 2000. Today, of the state's total manufacturing dollar value, these sectors contribute only two percent for textiles, two percent for leather goods, and nine percent for machining. New Hampshire is internationally known for the New Hampshire primary, the first primary in the quadrennial American presidential election cycle. All but two of these unincorporated areas are in Coos County. Only one town—Pittsburg—shares a land border with the state of Vermont.
+
+GT:
+New Hampshire has no general sales tax, nor income tax other than on interest and dividends. The New Hampshire primary is the first primary in the US presidential election cycle. Most of New Hampshire averages fewer than 20 days of thunderstorms per year and an average of two tornadoes occur annually statewide. A survey suggests people in New Hampshire and Vermont are less likely than other Americans to attend weekly services and only 54% say they are "absolutely certain there is a God" compared to 71% in the rest of the nation. Median household income in 2017 was $74,801, the fourth highest in the country (including Washington, DC). New Hampshire has a well-maintained, well-signed network of Interstate highways, US highways, and state highways. New Hampshire is also the home of several prestigious university-preparatory schools, such as Phillips Exeter Academy, St. Paul's School, Proctor Academy, Brewster Academy, and Kimball Union Academy.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.44516129032258067, 0.2793522267206478, 0.3432835820895523, 0.21455223880597019]
+[0.13636363636363635, 0.08536585365853659, 0.105, 0.065625]
+[0.2, 0.12550607287449392, 0.15422885572139303, 0.09639303482587062]
+
+
+SBERT sim. Score: 0.7037622332572937

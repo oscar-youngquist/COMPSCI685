@@ -1,0 +1,21 @@
+Document:
+delaware
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+One major branch of the US Interstate Highway System, Interstate 95 (I-95), crosses Delaware southwest-to-northeast across New Castle County. In addition to I-95, there are six US highways that serve Delaware: US 9, US 13, US 40, US 113, US 202, and US 301. There are also several state highways that cross the state of Delaware; a few of them include DE 1, DE 9, and DE 404. US 40 is a primary east–west route, connecting Maryland with New Jersey. The state also operates three toll highways, the Delaware Turnpike, which is I-95, between Maryland and New Castle; the Korean War Veterans Memorial Highway, which is DE 1, between Wilmington and Dover; and the US 301 toll road between the Maryland border and DE 1 in New Castle County. It is the first of several signed bike routes planned in Delaware. Amtrak has two stations in Delaware along the Northeast Corridor; the relatively quiet Newark Rail Station in Newark, and the busier Wilmington Rail Station in Wilmington. The Northeast Corridor is also served by SEPTA's Wilmington/Newark Line of Regional Rail, which serves Claymont, Wilmington, Churchmans Crossing, and Newark. Multiple short-line railroads provide freight service in Delaware. The Delmarva Central Railroad operates the most trackage of the short-line railroads, running from an interchange with Norfolk Southern in Porter south through Dover, Harrington, and Seaford to Delmar, with another line running from Harrington to Frankford and branches from Ellendale to Milton and from Georgetown to Gravel Hill.
+\Predicted Summary:
+Delaware ( (listen) DEL-ə-wair) is a state in the Mid-Atlantic region of the United States, bordering Maryland to its south and west; Pennsylvania to its north; and New Jersey and the Atlantic Ocean to its east. The state takes its name from the nearby Delaware River named after Thomas West, 3rd Baron De La Warr, an English nobleman and Virginia's first colonial governor. Delaware occupies the northeastern portion of the Delmarva Peninsula and some islands and territory within the Delaware River. It is the second-smallest and sixth-least populous state, but also the sixth-most densely populated. Delaware's largest city is Wilmington, while the state capital is Dover, the second-largest city in the state. The state is divided into three counties, having the lowest number of any state; from north to south, they are New Castle County, Kent County, and Sussex County. While the southern two counties have historically been predominantly agricultural, New Castle is more urbanized. In a similar vein to Maryland, Delaware's geography, culture, and history combine elements of the Mid-Atlantic, Northeastern, and Southern regions of the country. Before its coastline was explored by Europeans in the 16th century, Delaware was inhabited by several groups of Native Americans, including the Lenape in the north and Nanticoke in the south. It was initially colonized by Dutch traders at Zwaanendael, near the present town of Lewes, in 1631.
+
+GT:
+One major branch of the US Interstate Highway System, Interstate 95 (I-95), crosses Delaware southwest-to-northeast across New Castle County. In addition to I-95, there are six US highways that serve Delaware: US 9, US 13, US 40, US 113, US 202, and US 301. There are also several state highways that cross the state of Delaware; a few of them include DE 1, DE 9, and DE 404. A bicycle route, Delaware Bicycle Route 1, spans the north–south length of the state from the Maryland border in Fenwick Island to the Pennsylvania border north of Montchanin. Three ferries operate in the state of Delaware: Amtrak has two stations in Delaware along the Northeast Corridor; the relatively quiet Newark Rail Station in Newark, and the busier Wilmington Rail Station in Wilmington.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.43703703703703706, 0.251063829787234, 0.31891891891891894, 0.1993243243243243]
+[0.08955223880597014, 0.05128205128205128, 0.06521739130434782, 0.04076086956521739]
+[0.2222222222222222, 0.1276595744680851, 0.16216216216216217, 0.10135135135135136]
+
+
+SBERT sim. Score: 0.6227108240127563

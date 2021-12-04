@@ -1,0 +1,21 @@
+Document:
+south_dakota
+
+Intent:
+What drives the economy in this state?
+
+Input:
+West of the Missouri River, ranching is the predominant agricultural activity, and the economy is more dependent on tourism and defense spending. The growth in these areas has compensated for losses in the rest of the state. The service industry is the largest economic contributor in South Dakota. Government spending is another important segment of the state's economy, providing over ten percent of the gross state product. Agriculture has historically been a key component of the South Dakota economy. Although other industries have expanded rapidly in recent decades, agricultural production is still very important to the state's economy, especially in rural areas. Agriculture-related industries such as meat packing and ethanol production also have a considerable economic impact on the state. In 2006, tourism provided an estimated 33,000 jobs in the state and contributed over two billion dollars to the economy of South Dakota.
+\Predicted Summary:
+The newspaper, now published in New York and known as Indian Country Today, is available in every state in the country. The United States Census Bureau estimates the population of South Dakota was 884,659 on July 1, 2019, an 8.66% increase since the 2010 United States Census, only North Dakota, Alaska, Vermont, and Wyoming have fewer residents. The Black Hills, a group of low pine-covered mountains sacred to the Sioux, are in the southwest part of the state. US routes 12, 14, 16, 18 and 212 travel east and west, while US routes 81, 83, 85 and 281 run north and south. The current high school graduation rate is 89.9%, and the average ACT score is 21.8, slightly above the national average of 21.1. The Stampede and Storm share the Denny Sanford Premier Center. South Dakota's largest commercial airports in terms of passenger traffic are the Sioux Falls Regional Airport and Rapid City Regional Airport. The highest recorded temperature is 120 °F (49 °C) at Usta on July 15, 2006 and the lowest recorded temperature is −58 °F (−50 °C) at McIntosh on February 17, 1936. For many years, South Dakota was one of the only states in the country without an NCAA Division I football or basketball team.
+
+GT:
+The tourism industry has grown considerably since the completion of the interstate system in the 1960s, with the Black Hills becoming more important as a destination. The financial service industry began to grow in the state as well, with Citibank moving its credit card operations from New York to Sioux Falls in 1981, a move that has been followed by several other financial companies. South Dakota was the first state to eliminate caps on interest rates. The service industry is the largest economic contributor in South Dakota. Government spending is another important segment of the state's economy, providing over ten percent of the gross state product. Another important sector in South Dakota's economy is tourism. In 2006, tourism provided an estimated 33,000 jobs in the state and contributed over two billion dollars to the economy of South Dakota.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.41843971631205673, 0.27314814814814814, 0.330532212885154, 0.20658263305322128]
+[0.12857142857142856, 0.08372093023255814, 0.10140845070422534, 0.06338028169014084]
+[0.2127659574468085, 0.1388888888888889, 0.1680672268907563, 0.10504201680672268]
+
+
+SBERT sim. Score: 0.49085941910743713

@@ -1,0 +1,21 @@
+Document:
+rhode_island
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Since the Great Depression, the Rhode Island Democratic Party has dominated local politics. The 350th Anniversary of the founding of Rhode Island was celebrated with a free concert held on the tarmac of the Quonset State Airport on August 31, 1986. African immigrants, including Cape Verdean Americans, Liberian Americans, Nigerian Americans and Ghanaian Americans, form significant and growing communities in Rhode Island. Notable villages include Kingston in the town of South Kingstown, which houses the University of Rhode Island; Wickford in the town of North Kingstown, the site of an annual international art festival; and Wakefield where the Town Hall is located for the Town of South Kingstown. The Farrelly brothers and Seth MacFarlane depict Rhode Island in popular culture, often making comedic parodies of the state. The movie High Society (starring Bing Crosby, Grace Kelly, and Frank Sinatra) was set in Newport, Rhode Island. Newport Harbor, in particular, holds many pleasure boats. Since its construction in 1980, it has been featured in several movies and television shows, and has come to be recognized as a cultural landmark by many locals. The Rebellion play their home games at Classical High School in Providence.
+\Predicted Summary:
+Route 403 links Route 4 with Quonset Point. The headquarters of Citizens Financial Group is located in Providence, the 14th largest bank in the United States. Notable villages include Kingston in the town of South Kingstown, which houses the University of Rhode Island; Wickford in the town of North Kingstown, the site of an annual international art festival; and Wakefield where the Town Hall is located for the Town of South Kingstown. It was once the entrance to a famous Narragansett casino that burned down in 1900. However, with the Great Depression, most textile factories relocated to southern US states. See congressional districts map. The bill, sponsored by Senatortor Juan Pichardo and Representative Scott Slater and signed into law by the Governor, made Rhode Island the first state in the US to prohibit school construction on Brownfield Sites where there is an ongoing potential for toxic vapors to negatively impact indoor air quality. There are 39 cities and towns in Rhode Island. The change was approved by voters 52.8% to 47.2% as part of the 2020 United States elections, and will take effect upon final certification of the election results. Both the white New England and the red Manhattan varieties are popular, but there is also a unique clear-broth chowder known as Rhode Island Clam Chowder available in many restaurants.
+
+GT:
+According to the 2000 US Census, 84% of the population aged 5 and older spoke only American English, while 8.07% spoke Spanish at home, 3.80% Portuguese, 1.96% French, 1.39% Italian and 0.78% speak other languages at home accordingly. Rhode Island has a higher percentage of Americans of Portuguese ancestry, including Portuguese Americans and Cape Verdean Americans than any other state in the nation. Italian Americans make up a plurality in central and southern Providence County and French-Canadian Americans form a large part of northern Providence County. Americans of English ancestry still have a presence in the state as well, especially in Washington County, and are often referred to as "Swamp Yankees." African immigrants, including Cape Verdean Americans, Liberian Americans, Nigerian Americans and Ghanaian Americans, form significant and growing communities in Rhode Island. Rhode Islanders developed a unique style of architecture in the 17th century called the stone-ender.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3051948051948052, 0.21076233183856502, 0.2493368700265252, 0.15583554376657827]
+[0.0718954248366013, 0.04954954954954955, 0.058666666666666666, 0.03666666666666666]
+[0.15584415584415584, 0.10762331838565023, 0.1273209549071618, 0.07957559681697612]
+
+
+SBERT sim. Score: 0.3583185374736786

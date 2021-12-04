@@ -1,0 +1,21 @@
+Document:
+alabama
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+The state's economy in the 21st century is based on management, automotive, finance, manufacturing, aerospace, mineral extraction, healthcare, education, retail, and technology. The state is usually ranked among the top in nation for its range of overall biodiversity. The state has invested in aerospace, education, health care, banking, and various heavy industries, including automobile manufacturing, mineral extraction, steel production and fabrication. According to the US Bureau of Economic Analysis, the 2008 total gross state product was $170 billion, or $29,411 per capita. As of 2018, Alabama has the sixth highest poverty rate among states in the US According to Business Insider, Alabama ranked 14th in most popular states to visit in 2014.
+\Predicted Summary:
+Alabama () is a state in the Deep South region of the Southern United States, bordered by Tennessee to the north; Georgia to the east; Florida and the Gulf of Mexico to the south; and Mississippi to the west. Alabama is the 30th largest by area and the 24th-most populous of the US states. With a total of 1,500 miles (2,400 km) of inland waterways, Alabama has among the most of any state. Alabama is nicknamed the Yellowhammer State, after the state bird. Alabama is also known as the "Heart of Dixie" and the "Cotton State". The state tree is the longleaf pine, and the state flower is the camellia. Alabama's capital is Montgomery.
+
+GT:
+The average annual temperature is 64 °F (18 °C). Temperatures tend to be warmer in the southern part of the state with its proximity to the Gulf of Mexico, while the northern parts of the state, especially in the Appalachian Mountains in the northeast, tend to be slightly cooler. College football is extremely popular in Alabama, particularly the University of Alabama Crimson Tide and Auburn University Tigers, rivals in the Southeastern Conference. In the 2013 season, Alabama averaged over 100,000 fans per game and Auburn averaged over 80,000—both numbers among the top twenty in the nation. Bryant–Denny Stadium is the home of the Alabama football team, and has a seating capacity of 101,821, and is the fifth largest stadium in America. Jordan-Hare Stadium is the home field of the Auburn football team and seats up to 87,451. Alabama has several professional and semi-professional sports teams, including three minor league baseball teams.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.34591194968553457, 0.4700854700854701, 0.39855072463768115, 0.2490942028985507]
+[0.10126582278481013, 0.13793103448275862, 0.11678832116788322, 0.07299270072992702]
+[0.20125786163522014, 0.27350427350427353, 0.23188405797101452, 0.14492753623188406]
+
+
+SBERT sim. Score: 0.5017929077148438

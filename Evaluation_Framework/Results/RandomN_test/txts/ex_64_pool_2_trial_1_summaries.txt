@@ -1,0 +1,21 @@
+Document:
+massachusetts
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+The state has been ranked as one of the top states in the United States for citizens to live in, as well as one of the most expensive. In 2018, Massachusetts's overall educational system was ranked the top among all fifty US states by US News & World Report. The per capita personal income in 2012 was $53,221, making it the third-highest state in the nation. CNBC's list of "Top States for Business for 2014" has recognized Massachusetts as the 25th-best state in the nation for business, and for the second year in a row the state was ranked by Bloomberg as the most innovative state in America. According to a 2013 study by Phoenix Marketing International, Massachusetts had the sixth-largest number of millionaires per capita in the United States, with a ratio of 6.73 percent. In February 2017, US News & World Report ranked Massachusetts the best state in the United States based upon 60 metrics including healthcare, education, crime, infrastructure, opportunity, economy, and government.
+\Predicted Summary:
+To that end, average precipitation in the Northeast United States has risen by ten percent from 1895 to 2011, and the number of heavy precipitation events has increased by seventy percent during that time. Massachusetts has three foreign-trade zones, the Massachusetts Port Authority of Boston, the Port of New Bedford, and the City of Holyoke. In the late 19th century, the Olympic sports of basketball and volleyball were invented in the Western Massachusetts cities of Springfield and Holyoke, respectively. A number of major golf events have taken place in Massachusetts, including nine US The 1969 closure of the Springfield Armory, in particular, spurred an exodus of high-paying jobs from Western Massachusetts, which suffered greatly as it de-industrialized during the last 40 years of the 20th century. Democrats have an absolute grip on the Massachusetts congressional delegation The state imposes a 6.25% sales tax on retail sales of tangible personal property—except for groceries, clothing (up to $175.00), and periodicals.
+
+GT:
+Modern Massachusetts is a global leader in biotechnology, engineering, higher education, finance, and maritime trade. The entire Commonwealth of Massachusetts has played a powerful scientific, commercial, and cultural role in the history of the United States. Harvard University in Cambridge is the oldest institution of higher learning in the United States, with the largest financial endowment of any university, and Harvard Law School has educated a contemporaneous majority of Justices of the Supreme Court of the United States. Kendall Square in Cambridge has been called "the most innovative square mile on the planet", in reference to the high concentration of entrepreneurial start-ups and quality of innovation which have emerged in the vicinity of the square since 2010. Both Harvard and MIT, also in Cambridge, have been ranked among the most highly regarded academic institutions in the world. Massachusetts' public-school students place among the top tier in the world in academic performance. The state has been ranked as one of the top states in the United States for citizens to live in, as well as one of the most expensive.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.32044198895027626, 0.35365853658536583, 0.33623188405797105, 0.2101449275362319]
+[0.05555555555555555, 0.06134969325153374, 0.058309037900874626, 0.03644314868804665]
+[0.19337016574585636, 0.21341463414634146, 0.20289855072463767, 0.12681159420289856]
+
+
+SBERT sim. Score: 0.39569440484046936

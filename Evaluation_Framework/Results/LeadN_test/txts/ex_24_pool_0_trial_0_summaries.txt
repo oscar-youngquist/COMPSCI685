@@ -1,0 +1,21 @@
+Document:
+west_virginia
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Huntington in the southwest is close to the states of Ohio and Kentucky, while Martinsburg and Harpers Ferry in the Eastern Panhandle region are considered part of the Washington metropolitan area, in between the states of Maryland and Virginia. Highways form the backbone of transportation systems in West Virginia, with over 37,300 miles (60,000 km) of public roads in the state. Airports, railroads, and rivers complete the commercial transportation modes for West Virginia. Commercial air travel is facilitated by airports in Charleston, Huntington, Morgantown, Beckley, Lewisburg, Clarksburg, and Parkersburg. Recreational transportation opportunities abound in West Virginia, including hiking trails, rail trails, ATV off-road trails, white water rafting rivers, and two tourist railroads, the Cass Scenic Railroad and the Potomac Eagle Scenic Railroad. West Virginia is crossed by seven Interstate Highways. From there it runs east into Maryland. The interstates are supplemented by roads constructed under the Appalachian Corridor system. Corridor D, carrying US 50, runs from the Ohio River, and I-77, at Parkersburg to I-79 at Clarksburg. Amtrak's Cardinal roughly parallels I-64's path through the state.
+\Predicted Summary:
+West Virginia ( (listen)) is a state in the Appalachian and Mid-Atlantic regions of the Southern United States. It is bordered by Pennsylvania to the northeast, Maryland to the east and northeast, Virginia to the southeast, Kentucky to the southwest, and Ohio to the northwest. West Virginia is the 41st-largest state by area and ranks 38th in population, with around 1.791 million residents. The capital and largest city is Charleston. West Virginia became a state following the Wheeling Conventions of 1861, at the start of the American Civil War. Delegates from the Unionist counties of northwestern Virginia decided to break away from Virginia, which also included secessionist counties in the new state. West Virginia was admitted to the Union on June 20, 1863, and was a key border state during the war. It was the only state to form by separating from a Confederate state, the first to separate from any state since Maine separated from Massachusetts, and was one of two states (along with Nevada) admitted to the Union during the American Civil War. While a portion of its residents held slaves, most were yeoman farmers, and the delegates provided for gradual abolition of slavery in the new state Constitution and the state's legislature passed the 13th Amendment that abolished slavery on February 3, 1865. The Northern Panhandle extends adjacent to Pennsylvania and Ohio form a tri-state area, with the West Virginia cities of Wheeling and Weirton just across the border from the Pittsburgh metropolitan area, while Bluefield is less than 70 miles (110 km) from North Carolina.
+
+GT:
+Highways form the backbone of transportation systems in West Virginia, with over 37,300 miles (60,000 km) of public roads in the state. Commercial air travel is facilitated by airports in Charleston, Huntington, Morgantown, Beckley, Lewisburg, Clarksburg, and Parkersburg. West Virginia University in Morgantown boasts the PRT (personal rapid transit) system, the state's only single-rail public transit system. Recreational transportation opportunities abound in West Virginia, including hiking trails, rail trails, ATV off-road trails, white water rafting rivers, and two tourist railroads, the Cass Scenic Railroad and the Potomac Eagle Scenic Railroad. The interstates are supplemented by roads constructed under the Appalachian Corridor system. Because of the mountainous nature of the entire state, West Virginia has several notable tunnels and bridges.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3709677419354839, 0.17490494296577946, 0.23772609819121443, 0.14857881136950904]
+[0.0975609756097561, 0.04580152671755725, 0.06233766233766234, 0.03896103896103896]
+[0.24193548387096775, 0.11406844106463879, 0.1550387596899225, 0.09689922480620156]
+
+
+SBERT sim. Score: 0.5161926746368408

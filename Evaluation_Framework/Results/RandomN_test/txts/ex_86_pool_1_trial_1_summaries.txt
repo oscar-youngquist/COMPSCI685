@@ -1,0 +1,21 @@
+Document:
+oregon
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Portland, with 647,805, ranks as the 26th among US cities. It would earn the nickname "Stumptown", and would later become recognized as one of the most dangerous port cities in the United States due to racketeering and illegal activities at the turn of the 20th century. Bend, near the geographic center of the state, is one of the ten fastest-growing metropolitan areas in the United States. Tourism is also a strong industry in the state. The state's coastal region produces significant tourism as well. The State currently collects the tax for TriMet and the Lane Transit District. Oregon was the nation's "Top Moving Destination" in 2014, with two families moving into the state for every one moving out (66.4% to 33.6%). Oregon was also the top moving destination in 2013, and the second-most popular destination in 2010 through 2012.
+\Predicted Summary:
+It has been noted as one of the top ten aquariums in North America. Since then, Oregon has cut its higher education budget and now ranks 46th in the country in state spending per student. Because of the abundance of waterways in the state, it is also a major producer of hydroelectric energy. Much of the east is semiarid to arid like the rest of the Great Basin, though the Blue Mountains are wet enough to support extensive forests. Beginning in the 1880s, the growth of railroads expanded the state's lumber, wheat, and other agricultural markets, and the rapid growth of its cities. It has three branches: Oregon is also home to Mentor Graphics Corporation, a world leader in electronic design automation located in Wilsonville and employs roughly 4,500 people worldwide. 22.6% of the population were under the age of 18 Plentiful salmon made parts of the river, such as Celilo Falls, hubs of economic activity for thousands of years.
+
+GT:
+The Columbia River, which forms much of Oregon's northern border, also played a major role in the region's geological evolution, as well as its economic and cultural development. The Columbia is one of North America's largest rivers, and one of two rivers to cut through the Cascades (the Klamath River in southern Oregon is the other). Beginning in the 1880s, the growth of railroads expanded the state's lumber, wheat, and other agricultural markets, and the rapid growth of its cities. Industrial expansion began in earnest following the 1933–37 construction of the Bonneville Dam on the Columbia River. Hydroelectric power, food, and lumber provided by Oregon helped fuel the development of the West, although the periodic fluctuations in the US building industry have hurt the state's economy on multiple occasions. Portland in particular experienced a population boom between 1900 and 1930, tripling in size; the arrival of World War II also provided the northwest region of the state with an industrial boom, where Liberty ships and aircraft carriers were constructed.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.44, 0.4723926380368098, 0.4556213017751479, 0.28476331360946744]
+[0.20114942528735633, 0.21604938271604937, 0.20833333333333334, 0.13020833333333334]
+[0.26285714285714284, 0.2822085889570552, 0.272189349112426, 0.17011834319526628]
+
+
+SBERT sim. Score: 0.6256343722343445

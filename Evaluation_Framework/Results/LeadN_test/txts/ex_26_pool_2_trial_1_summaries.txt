@@ -1,0 +1,21 @@
+Document:
+kansas
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The state is divided into 105 counties with 628 cities, with its largest county by area being Butler County. By state statute, cities are divided into three classes as determined by the population obtained "by any census of enumeration". This is because of the high number of counties and county seats (105) and their intertwining. Executive branch: The executive branch consists of one officer and five elected officers. The governor and lieutenant governor are elected on the same ticket. The attorney general, secretary of state, state treasurer, and state insurance commissioner are each elected separately. Legislative branch: The bicameral Kansas Legislature consists of the Kansas House of Representatives, with 125 members serving two-year terms, and the Kansas Senatorte, with 40 members serving four-year terms. Judicial branch: The judicial branch of the state government is headed by the Kansas Supreme Court. A vacancy is filled by the Governor picking one of three nominees selected by the nine-member Kansas Supreme Court Nominating Commission. The board consists of five Kansas lawyers elected by other Kansas lawyers and four members selected by the governor.
+\Predicted Summary:
+Kansas ( (listen)) is a US state in the Midwestern United States. Its capital is Topeka and its largest city is Wichita. Kansas is bordered by Nebraska to the north Kansas is named after the Kansas River, which in turn was named after the Kansa Native Americans who lived along its banks. The tribe's name (natively kką:ze) is often said to mean "people of the (south) wind" although this was probably not the term's original meaning. For thousands of years, what is now Kansas was home to numerous and diverse Native American tribes. Tribes in the eastern part of the state generally lived in villages along the river valleys. Tribes in the western part of the state were semi-nomadic and hunted large herds of bison. Kansas was first settled by Americans in 1827 with the establishment of Fort Leavenworth. The pace of settlement accelerated in the 1850s, in the midst of political wars over the slavery debate. When it was officially opened to settlement by the US government in 1854 with the Kansas–Nebraska Act, abolitionist Free-Staters from New England and pro-slavery settlers from neighboring Missouri rushed to the territory to determine whether Kansas would become a free state or a slave state.
+
+GT:
+Executive branch: The executive branch consists of one officer and five elected officers. The governor and lieutenant governor are elected on the same ticket. The attorney general, secretary of state, state treasurer, and state insurance commissioner are each elected separately. Legislative branch: The bicameral Kansas Legislature consists of the Kansas House of Representatives, with 125 members serving two-year terms, and the Kansas Senatorte, with 40 members serving four-year terms. Judicial branch: The judicial branch of the state government is headed by the Kansas Supreme Court. Since the mid-20th century, Kansas has remained one of the most socially conservative states in the nation. The state's current delegation to the Congress of the United States includes Republican Senatortors Pat Roberts of Dodge City and Jerry Moran of Manhattan; and Republican Representatives Roger Marshall of Great Bend (District 1), Steve Watkins (District 2), Ron Estes of Wichita (District 4), and Democratic Representative Sharice Davids (District 3). Historically, Kansas has been strongly Republican, dating from the Antebellum age when the Republican Party was created out of the movement opposing the extension of slavery into Kansas Territory.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.34408602150537637, 0.3076923076923077, 0.32487309644670054, 0.20304568527918784]
+[0.07027027027027027, 0.06280193236714976, 0.0663265306122449, 0.04145408163265306]
+[0.1935483870967742, 0.17307692307692307, 0.18274111675126903, 0.11421319796954314]
+
+
+SBERT sim. Score: 0.5348889231681824

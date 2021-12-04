@@ -1,0 +1,21 @@
+Document:
+minnesota
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+There is water transportation along the Mississippi River system and from the ports of Lake Superior. Most other domestic carriers serve the airport. Large commercial jet service is provided at Duluth and Rochester, with scheduled commuter service to four smaller cities via Delta Connection carriers SkyWest Airlines, Compass Airlines, and Endeavor Air. In addition to bus services, Amtrak's daily Empire Builder (Chicago–Seattle/Portland) train runs through Minnesota, calling at the Saint Paul Union Depot and five other stations. Intercity bus providers include Jefferson Lines, Greyhound, and Megabus. Local public transit is provided by bus networks in the larger cities and by two rail services. From there, light rail runs to Saint Paul Union Depot on the Green Line, and to the MSP airport and the Mall of America via the Blue Line.
+\Predicted Summary:
+The Minnesota Vikings have played in the National Football League since their admission as an expansion franchise in 1961. The roots of these volcanic mountains and the action of Precambrian seas formed the Iron Range of northern Minnesota. The Northstar Line commuter rail service runs from Big Lake to the Target Field station in downtown Minneapolis. The rate of population change, and age and gender distributions, approximate the national average. The state's iron-mining industry was established with the discovery of iron in the Vermilion and Mesabi ranges in the 1880s, followed by the Cuyuna Range in the early 1900s. Each district has one senator and two representatives, each senatorial district being divided into A and B sections for members of the House. Minnesota's population continues to grow, primarily in the urban centers. From 1821 to 1834 it was part of an Unorganized Territory.
+
+GT:
+The major Interstate highways are Interstate 35 (I-35), I-90, and I-94, with I-35 and I-94 connecting the Minneapolis–St. There are nearly two dozen rail corridors in Minnesota, most of which go through Minneapolis–St. There is water transportation along the Mississippi River system and from the ports of Lake Superior. Minnesota's principal airport is Minneapolis–St. Paul International Airport (MSP), a major passenger and freight hub for Delta Air Lines and Sun Country Airlines. Large commercial jet service is provided at Duluth and Rochester, with scheduled commuter service to four smaller cities via Delta Connection carriers SkyWest Airlines, Compass Airlines, and Endeavor Air. Public transit services are available in the regional urban centers in Minnesota including Metro Transit in the Twin Cities, opt out suburban operators Minnesota Valley Transit Authority, SouthWest Transit, Plymouth Metrolink, Maple Grove Transit and others. In Greater Minnesota transit services are provided by city systems such as Duluth Transit Authority, Mankato Transit System, MATBUS (Fargo-Moorhead), Rochester Public Transit, Saint Cloud Metro Bus, Winona Public Transit and others. Dial-a-Ride service is available for persons with disabilities in a majority of Minnesota Counties. In addition to bus services, Amtrak's daily Empire Builder (Chicago–Seattle/Portland) train runs through Minnesota, calling at the Saint Paul Union Depot and five other stations. Intercity bus providers include Jefferson Lines, Greyhound, and Megabus. The Northstar Line commuter rail service runs from Big Lake to the Target Field station in downtown Minneapolis. From there, light rail runs to Saint Paul Union Depot on the Green Line, and to the MSP airport and the Mall of America via the Blue Line.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.21942446043165467, 0.4178082191780822, 0.28773584905660377, 0.17983490566037738]
+[0.07942238267148015, 0.15172413793103448, 0.1042654028436019, 0.06516587677725119]
+[0.12589928057553956, 0.23972602739726026, 0.16509433962264153, 0.10318396226415094]
+
+
+SBERT sim. Score: 0.4002167582511902

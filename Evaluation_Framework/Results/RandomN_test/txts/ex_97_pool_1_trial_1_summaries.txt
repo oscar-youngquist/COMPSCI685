@@ -1,0 +1,21 @@
+Document:
+michigan
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+These are augmented by several dozen short line railroads. The vast majority of rail service in Michigan is devoted to freight, with Amtrak and various scenic railroads the exceptions. Amtrak passenger rail services the state, connecting many southern and western Michigan cities to Chicago, Illinois. The Gerald R. Ford International Airport in Grand Rapids is the next busiest airport in the state, served by eight airlines to 23 destinations. Flint Bishop International Airport is the third largest airport in the state, served by four airlines to several primary hubs. Smaller regional and local airports are located throughout the state including on several islands.
+\Predicted Summary:
+Immigration resulted in a net increase of 193,031 people, and migration from within the US resulted in a net decrease of 266,084 people. But the more northern areas of Michigan were held by the British until the peace treaty restored the old boundaries. Benton Harbor is the poorest city in Michigan, with a per capita income of $8,965, while Barton Hills is the richest with a per capita income of $110,683. In the 21st century, it is home to five of the world's leading office furniture companies. They later moved to Little Caesars Arena to join the Pistons as tenants in 2017. From 1997 to 2004, Michigan was the only state to top the 10,000 mark for the number of major new developments; however, the effects of the late 2000s recession have slowed the state's economy. The public school system had a $14.5 billion budget in 2008–09.
+
+GT:
+Michigan is served by four Class I railroads: the Canadian National Railway, the Canadian Pacific Railway, CSX Transportation, and the Norfolk Southern Railway. These are augmented by several dozen short line railroads. Amtrak passenger rail services the state, connecting many southern and western Michigan cities to Chicago, Illinois. There are plans for commuter rail for Detroit and its suburbs (see SEMCOG Commuter Rail). The Detroit Metropolitan Airport in the western suburb of Romulus, was in 2010 the 16th busiest airfield in North America measured by passenger traffic. Smaller regional and local airports are located throughout the state including on several islands.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.22772277227722773, 0.14743589743589744, 0.17898832684824903, 0.11186770428015565]
+[0.02, 0.012903225806451613, 0.01568627450980392, 0.00980392156862745]
+[0.1485148514851485, 0.09615384615384616, 0.11673151750972763, 0.07295719844357976]
+
+
+SBERT sim. Score: 0.27716633677482605

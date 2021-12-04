@@ -1,0 +1,21 @@
+Document:
+iowa
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+It is home to the Iowa State Capitol, the State Historical Society of Iowa Museum, Drake University, Des Moines Art Center, Greater Des Moines Botanical Garden, Principal Riverwalk, the Iowa State Fair, Terrace Hill, and the World Food Prize. Iowa was one of the leading states in the high school movement, and continues to be among the top educational performers today. The state has four major college teams playing in NCAA Division I for all sports. Although Iowa has no professional major league sports teams, Iowa has minor league sports teams in baseball, basketball, hockey, and other sports. All the following teams are NCAA Division I football, basketball, or wrestling teams: The Sioux City Explorers are part of the American Association of Independent Professional Baseball. Iowa has two professional basketball teams. The Sioux City Hornets play in the American Basketball Association.
+\Predicted Summary:
+Iowa's all-time hottest temperature of 118 °F (48 °C) was recorded at Keokuk on July 20, 1934, during a nationwide heat wave; the all-time lowest temperature of −47 °F (−44 °C) was recorded at Washta on January 12, 1912. However, the courts chose to narrowly apply this act, allowing de facto discrimination to continue. Maquoketa Caves State Park, near Maquoketa, contains more caves than any other state park. The state gets considerable attention every four years because the Iowa caucus, gatherings of voters to select delegates to the state conventions, is the first presidential caucus in the country. The Sioux City Bandits play in the Champions Indoor Football league. The Sioux City Explorers are part of the American Association of Independent Professional Baseball. Black Hawk took part in the siege of Fort Madison. Iowa contributed proportionately more men to Civil War military service than did any other state, north or south, sending more than 75,000 volunteers to the armed forces, over one-sixth of whom were killed before the Confederates surrendered at Appomattox. The tax rate differs in each locality and is a composite of county, city or rural township, school district and special levies.
+
+GT:
+The Clint Eastwood movie The Bridges of Madison County, based on the popular novel of the same name, took place and was filmed in Madison County. What's Eating Gilbert Grape, based on the Peter Hedges novel of the same name, is set in the fictional Iowa town of Endora. Slipknot, a heavy metal band, was formed in Des Moines in 1995. The state has four major college teams playing in NCAA Division I for all sports. In football, Iowa State University and the University of Iowa compete in the Football Bowl Subdivision (FBS), whereas the University of Northern Iowa and Drake University compete in the Football Championship Subdivision (FCS). Although Iowa has no professional major league sports teams, Iowa has minor league sports teams in baseball, basketball, hockey, and other sports. The state has four NCAA Division I college teams. Des Moines is home to the Iowa Cubs, a Class AAA team in the Pacific Coast League and affiliate of the Chicago Cubs. Des Moines is home to the Iowa Wild, who are affiliated with the Minnesota Wild and are members of the American Hockey League. Iowa is a hotbed of wrestling in the United States. Iowa and Iowa State have won a combined 30 NCAA Division I titles.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2904761904761905, 0.3065326633165829, 0.29828850855745725, 0.1864303178484108]
+[0.05741626794258373, 0.06060606060606061, 0.05896805896805897, 0.03685503685503686]
+[0.16666666666666666, 0.17587939698492464, 0.17114914425427874, 0.1069682151589242]
+
+
+SBERT sim. Score: 0.5550776720046997

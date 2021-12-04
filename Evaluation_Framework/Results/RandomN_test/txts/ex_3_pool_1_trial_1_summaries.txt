@@ -1,0 +1,21 @@
+Document:
+indiana
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Since its founding as a territory, settlement patterns in Indiana have reflected regional cultural segmentation present in the Eastern United States; the state's northernmost tier was settled primarily by people from New England and New York, Central Indiana by migrants from the Mid-Atlantic states and adjacent Ohio, and Southern Indiana by settlers from the Southern states, particularly Kentucky and Tennessee. Indiana is home to professional sports teams, including the NFL's Indianapolis Colts and the NBA's Indiana Pacers, and hosts several notable competitive events, including the Indianapolis 500. It also stems from Indiana's territorial history. One such complex was the Angel Mounds. They had large public areas such as plazas and platform mounds, where leaders lived or conducted rituals. Since 2000, Fishers has seen the largest population rise amongst the state's twenty largest cities with an increase of 100 percent. The race attracts more than 250,000 people every year, making it the largest single day sporting event in the world. Indiana is also host to a major unlimited hydroplane racing power boat race circuits in the major H1 Unlimited league, the Madison Regatta (Madison, Indiana). Its proximity to large urban centers, such as Indianapolis and Chicago, assure dairying, egg production, and specialty horticulture occur.Other crops include melons, tomatoes, grapes, mint, popping corn, and tobacco in the southern counties.
+\Predicted Summary:
+Huntington serves as the home to the Church of the United Brethren in Christ. A portrait of the Indiana frontier about 1810: The frontier was defined by the Treaty of Fort Wayne in 1809, adding much of the southwestern lands around Vincennes and southeastern lands adjacent to Cincinnati, to areas along the Ohio River as part of US territory. On June 10, 1816, delegates assembled at Corydon to write the constitution, which was completed in 19 days. The remaining miles are operated by 37 regional, local, and switching and terminal railroads. Industry became the primary employer, a trend that continued into the 1960s. In 2008, the Indiana University system agreed to shift most of its associate (2-year) degrees to the Ivy Tech Community College System. In addition, Taylor University is ranked first in the Regional College Midwest Rankings and Rose-Hulman Institute of Technology has been considered the top Undergraduate Engineering school (where a doctorate is not offered) for 15 consecutive years. The Woodland period ended around 1000 AD. The growing season typically spans from 155 days in the north to 185 days in the south. Hamilton County has also grown faster than any county in the states bordering Indiana (Illinois, Michigan, Ohio and Kentucky), and is the 20th-fastest growing county in the country.
+
+GT:
+Indiana has an extensive history with auto racing. Indianapolis hosts the Indianapolis 500 mile race over Memorial Day weekend at the Indianapolis Motor Speedway every May. The name of the race is usually shortened to "Indy 500" and also goes by the nickname "The Greatest Spectacle in Racing". The track also hosts the Brickyard 400 (NASCAR) and the Red Bull Indianapolis Grand Prix. Indiana features the world's largest and most prestigious drag race, the NHRA Mac Tools US Nationals, held each Labor Day weekend at Lucas Oil Raceway at Indianapolis in Clermont, Indiana. Indiana is also host to a major unlimited hydroplane racing power boat race circuits in the major H1 Unlimited league, the Madison Regatta (Madison, Indiana).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.31092436974789917, 0.1712962962962963, 0.2208955223880597, 0.13805970149253732]
+[0.025423728813559324, 0.013953488372093023, 0.018018018018018018, 0.011261261261261259]
+[0.19327731092436976, 0.10648148148148148, 0.1373134328358209, 0.08582089552238806]
+
+
+SBERT sim. Score: 0.35343486070632935

@@ -1,0 +1,21 @@
+Document:
+kansas
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+By 2015, Kansas was one of the most productive agricultural states, producing high yields of wheat, corn, sorghum, and soybeans. Out of all the cities in these Midwestern states, 89% have fewer than 3,000 people, and hundreds of those have fewer than 1,000. The cities of Olathe, Shawnee, De Soto and Gardner have some of the state's fastest growing populations. Among cities with at least one thousand residents, Mission Hills has the highest median income in the state. By far, the most significant agricultural crop in the state is wheat. Kansas is also ranked eighth in US natural gas production. The state's economy is also heavily influenced by the aerospace industry. As a percentage of personal income, it was at 3.8%—above the median value of 2.5% for all rated states and having risen from a value of less than 1% in 1992. Kansas also has the country's third largest state highway system after Texas and California.
+\Predicted Summary:
+Kansas ( (listen)) is a US state in the Midwestern United States. Its capital is Topeka and its largest city is Wichita. Kansas is bordered by Nebraska to the north Kansas is named after the Kansas River, which in turn was named after the Kansa Native Americans who lived along its banks. The tribe's name (natively kką:ze) is often said to mean "people of the (south) wind" although this was probably not the term's original meaning. For thousands of years, what is now Kansas was home to numerous and diverse Native American tribes. Tribes in the eastern part of the state generally lived in villages along the river valleys. Tribes in the western part of the state were semi-nomadic and hunted large herds of bison. Kansas was first settled by Americans in 1827 with the establishment of Fort Leavenworth. The pace of settlement accelerated in the 1850s, in the midst of political wars over the slavery debate.
+
+GT:
+The legal drinking age in Kansas is 21. Education in Kansas is governed at the primary and secondary school level by the Kansas State Board of Education. Twice since 1999 the Board of Education has approved changes in the state science curriculum standards that encouraged the teaching of intelligent design. Kansas has been the setting of many award-winning and popular American films, as well as being the home of some of the oldest operating cinemas in the world. The Kansas State High School Activities Association (KSHSAA) is the organization which oversees interscholastic competition in the state of Kansas at the high school level. The association is perhaps best known for devising the overtime system now used for almost all football games below the professional level (which has also been adopted at all levels of Canadian football).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3795620437956204, 0.325, 0.3501683501683502, 0.21885521885521886]
+[0.07352941176470588, 0.06289308176100629, 0.06779661016949153, 0.0423728813559322]
+[0.23357664233576642, 0.2, 0.2154882154882155, 0.13468013468013468]
+
+
+SBERT sim. Score: 0.37873995304107666

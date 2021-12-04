@@ -1,0 +1,21 @@
+Document:
+florida
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+In the pre-automobile era, railroads played a key role in the state's development, particularly in coastal areas. Numerous other railroads were built all over the interior of the state. Much of the state is at or near sea level. The fast-growing I-4 corridor area, which runs through Central Florida and connects the cities of Daytona Beach, Orlando, and Tampa/St. The area is often seen as a merging point of the conservative northern portion of the state and the liberal southern portion, making it the biggest swing area in the state. Florida has many seaports that serve container ships, tank ships, and cruise lines. The world's top three busiest cruise ports are found in Florida with PortMiami as the busiest and Port Canaveral and Port Everglades as the second and third busiest. Port Tampa Bay meanwhile is the largest in the state, having the most tonnage. Florida's highway system contains 1,495 mi (2,406 km) of interstate highway, and 10,601 mi (17,061 km) of non-interstate highway, such as state highways and US Highways. Florida's interstates, state highways, and US Highways are maintained by the Florida Department of Transportation. Intercity bus travel, which utilizes Florida's highway system, is provided by Greyhound, Megabus, and Amtrak Thruway Motorcoach. Florida's primary interstate routes include: Florida's seven large hub and medium hub airports, as classified by the FAA, are the following:
+\Predicted Summary:
+The economy of Florida is driven almost entirely by its nineteen metropolitan areas. Florida spent $8,920 for each student in 2016, and was 43rd in the nation in expenditures per student. As of 2014, it was the major agricultural concern. Citrus greening disease is incurable. Twenty-three million tourists visited Florida beaches in 2000, spending $22 billion. The Miami Metropolitan Area has the highest GDP of all the metro areas in Florida with $344.9 billion in 2017. The poverty rate in Florida in 2018 was 14%, down from a peak of 17.1% in 2012. Wildfires in Florida occur at all times of the year. The water boundary is 3 nautical miles (3.5 mi Florida is host to many types of wildlife including: A 2002 study in the American Sociological Review concluded that "if the state's 827,000 disenfranchised felons had voted at the same rate as other Floridians, Democratic candidate Al Gore would have won Florida—and the presidency—by more than 80,000 votes." Florida has 67 counties. In 1883, the Pensacola and Atlantic Railroad connected Pensacola and the rest of the Panhandle to the rest of the state. The ease of receiving payments under this law is seen as precipitating a major increase in insurance fraud. The Walt Disney World Resort is the most visited vacation resort in the world with more than 58 million visitors annually, consisting of four theme parks, 27 themed resort hotels, nine non-Disney hotels, two water parks, four golf courses and other recreational venues. Phosphate mining, concentrated in the Bone Valley, is the state's third-largest industry.
+
+GT:
+Florida's highway system contains 1,495 mi (2,406 km) of interstate highway, and 10,601 mi (17,061 km) of non-interstate highway, such as state highways and US Highways. Intercity bus travel, which utilizes Florida's highway system, is provided by Greyhound, Megabus, and Amtrak Thruway Motorcoach. Before the construction of routes under the Federal Aid Highway Act of 1956, Florida began construction of a long cross-state toll road, Florida's Turnpike. Florida has 131 public airports. Florida's seven large hub and medium hub airports, as classified by the FAA, are the following:
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.35714285714285715, 0.12915129151291513, 0.1897018970189702, 0.11856368563685638]
+[0.010309278350515464, 0.003703703703703704, 0.005449591280653951, 0.0034059945504087193]
+[0.20408163265306123, 0.07380073800738007, 0.10840108401084012, 0.06775067750677506]
+
+
+SBERT sim. Score: 0.45886605978012085

@@ -1,0 +1,21 @@
+Document:
+kentucky
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Only Missouri and Tennessee, both of which border eight states, touch more. The other three states officially called "commonwealths" are Massachusetts, Pennsylvania, and Virginia. In 2014 Kentucky was found to be the most affordable US state in which to live. As the state is bounded by two of the largest rivers in North America, water transportation has historically played a major role in Kentucky's economy. This area is often referred to as the Golden triangle as it contains a majority of the state's wealth, population, population growth, and economic growth, it is also where most of the state's largest cities by population are located. Only three US states have capitals with smaller populations than Kentucky's Frankfort (pop. The state is known for bourbon and whiskey distilling, tobacco, horse racing, and college basketball.
+\Predicted Summary:
+Ellis Park, a thoroughbred racetrack, is located in this small piece of Kentucky. In 2019 tourism grew to $7.6 billion in economic impact. 25,527): Augusta, Maine (pop. In southern Kentucky, earthworms are called redworms, a burlap bag is known as a tow sack or the Southern grass sack, and green beans are called snap beans. In January the mean maximum temperatures range from 36 to 44 °F (2 to 7 °C) Some also theorize that the name Kentucky may be a corruption of the word Catawba, in reference to the Catawba people who inhabited Kentucky. Since the later part of the 20th century, several writers from Kentucky have published widely read and critically acclaimed books, including: Wendell Berry (fl.
+
+GT:
+The state is also known for horse racing, bourbon, moonshine, coal, "My Old Kentucky Home" historic state park, automobile manufacturing, tobacco, bluegrass music, college basketball, Louisville Slugger baseball bats, Kentucky Fried Chicken, and the Kentucky colonel. Early in its history, Kentucky gained recognition for its excellent farming conditions. Kentucky has also been a long-standing major center of the tobacco industry – both as a center of business and tobacco farming. Kentucky produces 95% of the world's supply of bourbon whiskey, and the number of barrels of bourbon being aged in Kentucky (more than 5.7 million) exceeds the state's population. As of October 2019, the state's unemployment rate is 4.3%. In 2014 Kentucky was found to be the most affordable US state in which to live.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.26153846153846155, 0.2809917355371901, 0.27091633466135456, 0.16932270916334663]
+[0.023255813953488372, 0.025, 0.024096385542168672, 0.015060240963855422]
+[0.13076923076923078, 0.14049586776859505, 0.13545816733067728, 0.08466135458167331]
+
+
+SBERT sim. Score: 0.459199458360672

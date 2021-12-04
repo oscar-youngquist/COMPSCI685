@@ -1,0 +1,21 @@
+Document:
+south_dakota
+
+Intent:
+What drives the economy in this state?
+
+Input:
+West of the Missouri River, ranching is the predominant agricultural activity, and the economy is more dependent on tourism and defense spending. In recent decades, South Dakota has been transformed from a state dominated by agriculture to one with a more diversified economy. The growth in these areas has compensated for losses in the rest of the state. The service industry is the largest economic contributor in South Dakota. Government spending is another important segment of the state's economy, providing over ten percent of the gross state product. Agriculture has historically been a key component of the South Dakota economy. Although other industries have expanded rapidly in recent decades, agricultural production is still very important to the state's economy, especially in rural areas. The five most valuable agricultural products in South Dakota are cattle, corn (maize), soybeans, wheat, and hogs. Agriculture-related industries such as meat packing and ethanol production also have a considerable economic impact on the state. Another important sector in South Dakota's economy is tourism. In 2006, tourism provided an estimated 33,000 jobs in the state and contributed over two billion dollars to the economy of South Dakota. Retail, finance, and healthcare have assumed greater importance in Sioux Falls, where the economy was originally centered on agri-business and quarrying.
+\Predicted Summary:
+South Dakota ( (listen)) is a US state in the Midwestern region of the United States. It is named after the Lakota and Dakota Sioux Native American tribes, who comprise a large portion of the population and historically dominated the territory. South Dakota is the seventeenth largest by area, but the 5th least populous, and the 5th least densely populated of the 50 United States. As the southern part of the former Dakota Territory, South Dakota became a state on November 2, 1889, simultaneously with North Dakota. It is either the 39th or 40th state admitted to the union. President Benjamin Harrison shuffled the statehood papers before signing them so that no one could tell which became a state first. Pierre is the state capital and Sioux Falls, with a population of about 187,200, is South Dakota's largest city. South Dakota is bordered by the states of North Dakota (to the north), Minnesota (to the east), Iowa (to the southeast), Nebraska (to the south), Wyoming (to the west), and Montana (to the northwest). The state is bisected by the Missouri River, dividing South Dakota into two geographically and socially distinct halves, known to residents as "East River" and "West River". Eastern South Dakota is home to most of the state's population, and the area's fertile soil is used to grow a variety of crops. West of the Missouri River, ranching is the predominant agricultural activity, and the economy is more dependent on tourism and defense spending. Most of the Native American reservations are in West River. The Black Hills, a group of low pine-covered mountains sacred to the Sioux, are in the southwest part of the state.
+
+GT:
+The service industry is the largest economic contributor in South Dakota. This sector includes the retail, finance, and health care industries. Government spending is another important segment of the state's economy, providing over ten percent of the gross state product. Agriculture has historically been a key component of the South Dakota economy. Although other industries have expanded rapidly in recent decades, agricultural production is still very important to the state's economy, especially in rural areas. Another important sector in South Dakota's economy is tourism. In 2006, tourism provided an estimated 33,000 jobs in the state and contributed over two billion dollars to the economy of South Dakota. Fishing contributes over $224 million to South Dakota's economy, and hunting contributes over $303 million.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.4094488188976378, 0.18505338078291814, 0.2549019607843137, 0.15931372549019604]
+[0.15873015873015872, 0.07142857142857142, 0.09852216748768472, 0.06157635467980296]
+[0.28346456692913385, 0.12811387900355872, 0.17647058823529413, 0.11029411764705883]
+
+
+SBERT sim. Score: 0.5370063185691833

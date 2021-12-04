@@ -1,0 +1,21 @@
+Document:
+rhode_island
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+The Rhode Island Public Transit Authority (RIPTA) operates statewide intra- and intercity bus transport from its hubs at Kennedy Plaza in Providence, Pawtucket, and Newport. RIPTA bus routes serve 38 of Rhode Island's 39 cities and towns. RIPTA currently operates 58 routes, including daytime trolley service (using trolley-style replica buses) in Providence and Newport. I-195 provides a limited-access highway connection from Providence (and Connecticut and New York via I-95) to Cape Cod. Initially built as the easternmost link in the (now cancelled) extension of I-84 from Hartford, Connecticut, a portion of US Route 6 (US 6) through northern Rhode Island is limited-access and links I-295 with downtown Providence. Several Rhode Island highways extend the state's limited-access highway network. Route 4 is a major north–south freeway linking Providence and Warwick (via I-95) with suburban and beach communities along Narragansett Bay. Route 37 is an important east–west freeway through Cranston and Warwick and links I-95 with I-295.
+\Predicted Summary:
+Rhode Island ( (listen), like road) is a state in the New England region of the United States. It is the smallest US state by area and the seventh least populous (1,059,361 as of 2019), but it is also the second most densely populated behind New Jersey. The state takes its name from Rhode Island; however, most of the state is located on the mainland. The state has land borders with Connecticut to the west, Massachusetts to the north and east, and the Atlantic Ocean to the south via Rhode Island Sound and Block Island Sound. It also shares a small maritime border with New York. Providence is the state capital and most populous city in Rhode Island. On May 4, 1776, the Colony of Rhode Island and Providence Plantations was the first of the Thirteen Colonies to renounce its allegiance to the British Crown, and it was the fourth state to ratify the Articles of Confederation, doing so on February 9, 1778. The state boycotted the 1787 convention which drew up the United States Constitution and initially refused to ratify it; it was the last of the original 13 states to do so, on May 29, 1790. Formally named the State of Rhode Island and Providence Plantations since its accession to the Union in 1790, voters in the state approved an amendment in November 2020 to the state constitution, renaming itself the State of Rhode Island.
+
+GT:
+The Rhode Island Public Transit Authority (RIPTA) operates statewide intra- and intercity bus transport from its hubs at Kennedy Plaza in Providence, Pawtucket, and Newport. From 2000 through 2008, RIPTA offered seasonal ferry service linking Providence and Newport (already connected by highway) funded by grant money from the United States Department of Transportation. The MBTA Commuter Rail's Providence/Stoughton Line links Providence and T. F. Green Airport with Boston. Rhode Island's primary airport for passenger and cargo transport is T. F. Green Airport in Warwick, though most Rhode Islanders who wish to travel internationally on direct flights and those who seek a greater availability of flights and destinations often fly through Logan International Airport in Boston. Interstate 95 (I-95) runs southwest to northeast across the state, linking Rhode Island with other states along the East Coast. Several bridges cross Narragansett Bay connecting Aquidneck Island and Conanicut Island to the mainland, most notably the Claiborne Pell Newport Bridge and the Jamestown-Verrazano Bridge. The East Bay Bike Path stretches from Providence to Bristol along the eastern shore of Narragansett Bay, while the Blackstone River Bikeway will eventually link Providence and Worcester.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.30569948186528495, 0.24789915966386555, 0.27378190255220414, 0.1711136890951276]
+[0.057291666666666664, 0.046413502109704644, 0.05128205128205128, 0.03205128205128205]
+[0.17616580310880828, 0.14285714285714285, 0.15777262180974475, 0.09860788863109046]
+
+
+SBERT sim. Score: 0.45955342054367065

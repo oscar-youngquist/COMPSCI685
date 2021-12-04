@@ -1,0 +1,21 @@
+Document:
+maine
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Historically, Maine ports played a key role in national transportation. Portland Maine's Portland International Jetport was recently expanded, providing the state with increased air traffic from carriers such as JetBlue and Southwest Airlines. Both are served daily by many major airlines to destinations such as New York, Atlanta, and Orlando. Many smaller airports are scattered throughout Maine, serving only general aviation traffic. The Eastport Municipal Airport, for example, is a city-owned public-use airport with 1,200 general aviation aircraft operations each year from single-engine and ultralight aircraft. Interstate 95 (I-95) travels through Maine, as well as its easterly branch I-295 and spurs I-195, I-395 and the unsigned I-495 (the Falmouth Spur). US 2, Maine State Route 6 (SR 6), and SR 9 are often used by truckers and other motorists of the Maritime Provinces en route to other destinations in the United States or as a short cut to Central Canada. Freight service throughout the state is provided by a handful of regional and shortline carriers: Pan Am Railways (formerly known as Guilford Rail System), which operates the former Boston & Maine and Maine Central railroads; St. Lawrence and Atlantic Railroad; Maine Eastern Railroad; Central Maine and Quebec Railway; and New Brunswick Southern Railway.
+\Predicted Summary:
+Carved by glaciers, Somes Sound is considered to be the only fjord on the eastern seaboard and reaches depths of 175 feet (50 m). Maine has an income tax structure containing two brackets, 6.5 and 7.95 percent of personal income. Bates College in Lewiston was founded in 1855 making it the third oldest institution in the state and the oldest coeducational college in New England. Preliminary data from the USDA for 2012 also indicate Maine was the largest blueberry producer of the major blueberry producing states, with 91,100,000 lbs. The modest population growth in the state has been concentrated in the southern coastal counties Throughout Maine, many municipalities, although each separate governmental entities, nevertheless form portions of a much larger population base. Portland was named Bon Appetit magazine's Restaurant City of the Year in 2018. The Downeaster makes five daily trips. (For more information see extreme points of the United States.)
+
+GT:
+Maine receives passenger jet service at its two largest airports, the Portland International Jetport in Portland, and the Bangor International Airport in Bangor. Both are served daily by many major airlines to destinations such as New York, Atlanta, and Orlando. Many smaller airports are scattered throughout Maine, serving only general aviation traffic. Interstate 95 (I-95) travels through Maine, as well as its easterly branch I-295 and spurs I-195, I-395 and the unsigned I-495 (the Falmouth Spur). In addition, US Route 1 (US 1) starts in Fort Kent and travels to Florida. The Downeaster passenger train, operated by Amtrak, provides passenger service between Brunswick and Boston's North Station, with stops in Freeport, Portland, Old Orchard Beach, Saco, and Wells. The Downeaster makes five daily trips. Freight service throughout the state is provided by a handful of regional and shortline carriers: Pan Am Railways (formerly known as Guilford Rail System), which operates the former Boston & Maine and Maine Central railroads; St. Lawrence and Atlantic Railroad; Maine Eastern Railroad; Central Maine and Quebec Railway; and New Brunswick Southern Railway.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.23626373626373626, 0.27564102564102566, 0.25443786982248523, 0.1590236686390533]
+[0.04419889502762431, 0.05161290322580645, 0.04761904761904762, 0.029761904761904764]
+[0.13186813186813187, 0.15384615384615385, 0.14201183431952663, 0.08875739644970415]
+
+
+SBERT sim. Score: 0.40056201815605164

@@ -1,0 +1,21 @@
+Document:
+north_carolina
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+This was a smaller proportion than in many other Southern states. The state's racial composition in the 2010 Census: It ranked forty-first out of fifty states plus the District of Columbia for median household income. The state has a very diverse economy because of its great availability of hydroelectric power, its pleasant climate, and its wide variety of soils. The state ranks third among the South Atlantic states in population, but leads the region in industry and agriculture. According to a Forbes article written in 2013 Employment in the "Old North State" has gained many different industry sectors. The state's shipping, commercial fishing, and lumber industries are important to its economy.
+\Predicted Summary:
+One of the busiest air stations in the United States Coast Guard is located at the Coast Guard Air Station in Elizabeth City. Golf is a popular summertime leisure activity, and North Carolina has hosted several important professional golf tournaments. Morgan had moved to the northern part of the state to combine with General Greene's newly recruited forces. North Carolina State, Duke University, and University of North Carolina at Chapel Hill, have helped the Raleigh region (Research Triangle) attract an educated workforce and develop more jobs. Today it is the second-largest tobacco company in the US (behind Altria Group). James Taylor grew up around Chapel Hill, and his 1968 song "Carolina in My Mind" has been called an unofficial anthem for the state. The largest battle fought in North Carolina was at Bentonville, which was a futile attempt by Confederate General Joseph Johnston to slow Union General William Tecumseh Sherman's advance through the Carolinas in the spring of 1865. North Carolina had the fourteenth highest poverty rate in the nation at 17.6%.
+
+GT:
+The state has a very diverse economy because of its great availability of hydroelectric power, its pleasant climate, and its wide variety of soils. The state ranks third among the South Atlantic states in population, but leads the region in industry and agriculture. North Carolina has 15 metropolitan areas, and in 2010 was chosen as the third-best state for business by Forbes Magazine, and the second-best state by Chief Executive Officer Magazine. North Carolina is home to four major league sports franchises: the Carolina Panthers of the National Football League, the Charlotte Hornets of the National Basketball Association, and Charlotte FC of Major League Soccer are based in Charlotte, while the Raleigh-based Carolina Hurricanes play in the National Hockey League. North Carolina offers fall colors, freshwater and saltwater fishing, hunting, birdwatching, agritourism, ATV trails, ballooning, rock climbing, biking, hiking, skiing, boating and sailing, camping, canoeing, caving (spelunking), gardens, and arboretums. North Carolinians enjoy outdoor recreation utilizing numerous local bike paths, 34 state parks, and 14 national parks. North Carolina has traditions in art, music, and cuisine. A culinary staple of North Carolina is pork barbecue.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2978723404255319, 0.3181818181818182, 0.3076923076923077, 0.19230769230769232]
+[0.0855614973262032, 0.09142857142857143, 0.08839779005524862, 0.055248618784530384]
+[0.1595744680851064, 0.17045454545454544, 0.16483516483516483, 0.10302197802197799]
+
+
+SBERT sim. Score: 0.5131465792655945

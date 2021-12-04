@@ -1,0 +1,21 @@
+Document:
+montana
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The economy is primarily based on agriculture, including ranching and cereal grain farming. Other significant economic resources include oil, gas, coal, mining, and lumber. The health care, service, and government sectors also are significant to the state's economy. The war created a boom for Montana mining, lumber, and farming interests, as demand for war materials and food increased. The wheat farms in eastern Montana make the state a major producer; the wheat has a relatively high protein content, thus commands premium prices. Significant industries exist for lumber and mineral extraction; the state's resources include gold, coal, silver, talc, and vermiculite.
+\Predicted Summary:
+In February 1918, the Montana legislature had passed the Montana Sedition Act, which was a model for the federal version. Routes 87, 89, 93 and 191. Areas managed by the National Park Service include: Brian Morris, who served as an associate justice of the Montana Supreme Court from 2005 to 2013, currently serves as a judge on the court. The US Department of the Interior Bureau of Land Management controls 8,100,000 acres (33,000 km2) of federal land. These numbers constituted about ten percent of the state's population, and Montana again contributed one of the highest numbers of soldiers per capita of any state. Around 1500 Montanans died as a result of the war and 2437 were wounded, also higher than any other state on a per capita basis.
+
+GT:
+The economy is primarily based on agriculture, including ranching and cereal grain farming. Other significant economic resources include oil, gas, coal, mining, and lumber. The health care, service, and government sectors also are significant to the state's economy. Montana's fastest-growing sector is tourism; nearly 13 million annual tourists visit Glacier National Park, Yellowstone National Park, Beartooth Highway, Flathead Lake, Big Sky Resort, and other attractions. Montana is a relative hub of beer microbrewing, ranking third in the nation in number of craft breweries per capita in 2011. Significant industries exist for lumber and mineral extraction; the state's resources include gold, coal, silver, talc, and vermiculite. Ecotaxes on resource extraction are numerous. Tourism is also important to the economy, with more than ten million visitors a year to Glacier National Park, Flathead Lake, the Missouri River headwaters, the site of the Battle of Little Bighorn, and three of the five entrances to Yellowstone National Park.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.25949367088607594, 0.3106060606060606, 0.2827586206896552, 0.1767241379310345]
+[0.050955414012738856, 0.061068702290076333, 0.05555555555555556, 0.03472222222222222]
+[0.13291139240506328, 0.1590909090909091, 0.14482758620689654, 0.09051724137931033]
+
+
+SBERT sim. Score: 0.409272700548172

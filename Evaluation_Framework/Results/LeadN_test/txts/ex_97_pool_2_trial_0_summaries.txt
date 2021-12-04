@@ -1,0 +1,21 @@
+Document:
+california
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+There are about a dozen important commercial airports and many more general aviation airports throughout the state. Inter-city rail travel is provided by Amtrak California; the three routes, the Capitol Corridor, Pacific Surfliner, and San Joaquin, are funded by Caltrans. These services are the busiest intercity rail lines in the United States outside the Northeast Corridor and ridership is continuing to set records. The routes are becoming increasingly popular over flying, especially on the LAX-SFO route. Furthermore, commuter rail networks serve the San Francisco Bay Area (ACE, BART, Caltrain, SMART), Greater Los Angeles (Metrolink), and San Diego County (Coaster). Intercity bus travel is provided by Greyhound, Megabus, and Amtrak Thruway Motorcoach.
+\Predicted Summary:
+California is a state in the Pacific Region of the United States. With over 39.3 million residents across a total area of approximately 163,696 square miles (423,970 km2), it is the most populous US state and the third-largest by area, as well as the world's thirty-fourth-most-populous subnational entity. California is also the most populated subnational entity in North America, and has its state capital in Sacramento. The Greater Los Angeles area and the San Francisco Bay Area are the nation's second- and fifth-most-populous urban regions, with more than 18.7 million and 9.6 million residents respectively. Los Angeles is California's most populous city, and the country's second-most-populous, after New York City. California also has the nation's most populous county, Los Angeles County, and its largest county by area, San Bernardino County. The City and County of San Francisco is both the country's second most densely populated major city after New York City and the fifth-most-densely populated county, behind only four of the five New York City boroughs.
+
+GT:
+California's vast terrain is connected by an extensive system of controlled-access highways ('freeways'), limited-access roads ('expressways'), and highways. Los Angeles International Airport (LAX), the 4th busiest airport in the world in 2018, and San Francisco International Airport (SFO), the 25th busiest airport in the world in 2018, are major hubs for trans-Pacific and transcontinental traffic. There are about a dozen important commercial airports and many more general aviation airports throughout the state. California also has several important seaports. The giant seaport complex formed by the Port of Los Angeles and the Port of Long Beach in Southern California is the largest in the country and responsible for handling about a fourth of all container cargo traffic in the United States. Inter-city rail travel is provided by Amtrak California; the three routes, the Capitol Corridor, Pacific Surfliner, and San Joaquin, are funded by Caltrans. These services are the busiest intercity rail lines in the United States outside the Northeast Corridor and ridership is continuing to set records. Nearly all counties operate bus lines, and many cities operate their own city bus lines as well. Intercity bus travel is provided by Greyhound, Megabus, and Amtrak Thruway Motorcoach.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.36, 0.3850267379679144, 0.37209302325581395, 0.23255813953488372]
+[0.08040201005025126, 0.08602150537634409, 0.08311688311688313, 0.05194805194805195]
+[0.165, 0.17647058823529413, 0.17054263565891473, 0.1065891472868217]
+
+
+SBERT sim. Score: 0.5344550013542175

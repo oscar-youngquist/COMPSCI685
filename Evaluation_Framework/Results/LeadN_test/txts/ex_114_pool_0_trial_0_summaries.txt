@@ -1,0 +1,21 @@
+Document:
+mississippi
+
+Intent:
+How is the government structured in this state?
+
+Input:
+During Reconstruction, the first Mississippi constitutional convention in 1868, with delegates both black and white, framed a constitution whose major elements would be maintained for 22 years. As with all other US states and the federal government, Mississippi's government is based on the separation of legislative, executive and judicial power. Executive authority in the state rests with the Governor, currently Tate Reeves (R). The lieutenant governor, currently Delbert Hosemann (R), is elected on a separate ballot. Both the governor and lieutenant governor are elected to four-year terms of office. Unlike the federal government, but like many other US States, most of the heads of major executive departments are elected by the citizens of Mississippi rather than appointed by the governor. Mississippi is one of five states that elects its state officials in odd-numbered years (the others are Kentucky, Louisiana, New Jersey and Virginia). Mississippi holds elections for these offices every four years, always in the year preceding presidential elections. The amendment passed 86% to 14%, the largest margin in any state. Section 265 of the Constitution of the State of Mississippi declares that "No person who denies the existence of a Supreme Being shall hold any office in this state."
+\Predicted Summary:
+Mississippi ( (listen)) is a state in the Deep South region of the Southern United States, bordered to the north by Tennessee; to the east by Alabama; to the south by the Gulf of Mexico; to the southwest by Louisiana; and to the northwest by Arkansas. Mississippi's western boundary is largely defined by the Mississippi River. Mississippi is the 32nd largest and 34th-most populous of the 50 US states. Jackson is both the state's capital and largest city. Greater Jackson is the state's most populous metropolitan area, with an estimated population of 580,166 in 2018. On December 10, 1817, Mississippi became the 20th state admitted to the Union. By 1860, Mississippi was the nation's top cotton-producing state and enslaved persons accounted for 55% of the state population. Mississippi declared its secession from the Union on March 23, 1861, and was one of the seven original Confederate States, which constituted the largest slaveholding states in the nation. Following the Civil War, it was restored to the Union on February 23, 1870. Until the Great Migration of the 1930s, African Americans were a majority of Mississippi's population. Mississippi was the site of many prominent events during the civil rights movement, including the Ole Miss riot of 1962 by white students objecting to desegregation, the 1963 assassination of Medgar Evers, and the 1964 Freedom Summer murders of three activists working on voting rights.
+
+GT:
+As with all other US states and the federal government, Mississippi's government is based on the separation of legislative, executive and judicial power. Executive authority in the state rests with the Governor, currently Tate Reeves (R). The lieutenant governor, currently Delbert Hosemann (R), is elected on a separate ballot. Both the governor and lieutenant governor are elected to four-year terms of office. Unlike the federal government, but like many other US States, most of the heads of major executive departments are elected by the citizens of Mississippi rather than appointed by the governor. Mississippi is one of five states that elects its state officials in odd-numbered years (the others are Kentucky, Louisiana, New Jersey and Virginia). Mississippi holds elections for these offices every four years, always in the year preceding presidential elections.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.4, 0.22784810126582278, 0.2903225806451613, 0.18145161290322578]
+[0.1044776119402985, 0.059322033898305086, 0.07567567567567568, 0.04729729729729729]
+[0.23703703703703705, 0.1350210970464135, 0.17204301075268816, 0.10752688172043008]
+
+
+SBERT sim. Score: 0.46306830644607544

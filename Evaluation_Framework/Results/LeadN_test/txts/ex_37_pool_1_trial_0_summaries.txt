@@ -1,0 +1,21 @@
+Document:
+oklahoma
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+The state is in the US Census' Southern region. The state ranks third in the nation for production of natural gas, is the 27th-most agriculturally productive state, and also ranks 5th in production of wheat. The state is the top manufacturer of tires in North America and contains one of the fastest-growing biotechnology industries in the nation. The state also has the second-greatest number of active drilling rigs, and it is even ranked fifth in crude oil reserves. Western ranchers, Native American tribes, Southern settlers, and eastern oil barons have shaped the state's cultural predisposition, and its largest cities have been named among the most underrated cultural destinations in the United States. Collegiate athletics are a popular draw in the state. The state has four schools that compete at the highest level of college sports, NCAA Division I.
+\Predicted Summary:
+Oklahoma ( (listen)) is a state in the South Central region of the United States, bordered by the state of Texas on the south and west, Kansas on the north, Missouri on the northeast, Arkansas on the east, New Mexico on the west, and Colorado on the northwest. Partially in the western extreme of the Upland South, it is the 20th-most extensive and the 28th-most populous of the 50 United States. Its residents are known as Oklahomans (or colloquially "Okies"), and its capital and largest city is Oklahoma City. The state's name is derived from the Choctaw words okla and humma, meaning "red people". It is also known informally by its nickname, "The Sooner State", in reference to the non-Native settlers who staked their claims on land before the official opening date of lands in the western Oklahoma Territory or before the Indian Appropriations Act of 1889, which increased European-American settlement in the eastern Indian Territory. Oklahoma Territory and Indian Territory were merged into the State of Oklahoma when it became the 46th state to enter the union on November 16, 1907. With ancient mountain ranges, prairie, mesas, and eastern forests, most of Oklahoma lies in the Great Plains, Cross Timbers, and the US
+
+GT:
+Oklahoma is host to a diverse range of sectors including aviation, energy, transportation equipment, food processing, electronics, and telecommunications. The state is among the best in pre-kindergarten education, and the National Institute for Early Education Research rated it first in the United States with regard to standards, quality, and access to pre-kindergarten education in 2004, calling it a model for early childhood schooling. Residents of Oklahoma are associated with traits of Southern hospitality—the 2006 Catalogue for Philanthropy (with data from 2004) ranks Oklahomans 7th in the nation for overall generosity. The state has a rich history in ballet with five Native American ballerinas attaining worldwide fame. Oklahoma's centennial celebration was named the top event in the United States for 2007 by the American Bus Association, and consisted of multiple celebrations saving with the 100th anniversary of statehood on November 16, 2007. Oklahoma was the 21st-largest recipient of medical funding from the federal government in 2005, with health-related federal expenditures in the state totaling $75,801,364; immunizations, bioterrorism preparedness, and health education were the top three most funded medical items.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3602150537634409, 0.32211538461538464, 0.34010152284263956, 0.21256345177664973]
+[0.08648648648648649, 0.07729468599033816, 0.08163265306122448, 0.0510204081632653]
+[0.20430107526881722, 0.18269230769230768, 0.19289340101522842, 0.12055837563451777]
+
+
+SBERT sim. Score: 0.5183204412460327

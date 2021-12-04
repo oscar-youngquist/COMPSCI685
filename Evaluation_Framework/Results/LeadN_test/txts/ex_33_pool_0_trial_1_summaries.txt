@@ -1,0 +1,21 @@
+Document:
+ohio
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Because Ohio links the Northeast to the Midwest, much cargo and business traffic passes through its borders along its well-developed highways. Many major east–west transportation corridors go through Ohio. Ohio has a highly developed network of roads and interstate highways. Major north–south routes include I-75 in the west through Toledo, Dayton, and Cincinnati, I-71 through the middle of the state from Cleveland through Columbus and Cincinnati into Kentucky, and I-77 in the eastern part of the state from Cleveland through Akron, Canton, New Philadelphia and Marietta south into West Virginia. Ohio also has a highly developed network of signed state bicycle routes. Ohio has extensive railroads, though today most are only utilized by freight companies. Major cities in the north and south of Ohio lie on Amtrak intercity rail lines. Mass transit exists in many forms in Ohio cities, primarily through bus systems, though Cleveland has light and heavy rail through the GCRTA, and Cincinnati reestablished a streetcar line in 2016.
+\Predicted Summary:
+Ohio (listen) is a state in the East North Central region of the Midwestern United States. Of the fifty states, it is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated. The state's capital and largest city is Columbus, with the Columbus metro area, Greater Cincinnati, and Greater Cleveland being the largest metropolitan areas. Ohio is bordered by Lake Erie to the north, Pennsylvania to the east, West Virginia to the southeast, Kentucky to the southwest, Indiana to the west, and Michigan to the northwest. Ohio is historically known as the "Buckeye State" after its Ohio buckeye trees, and Ohioans are also known as "Buckeyes". The state takes its name from the Ohio River, whose name in turn originated from the Senatorca word ohiːyo', meaning "good river", "great river", or "large creek". Ohio arose from the lands west of Appalachia that were contested from colonial times through the Northwest Indian Wars of the late 18th century. It was partitioned from the resulting Northwest Territory, which was the first frontier of the new United States, and became the 17th state admitted to the Union on March 1, 1803, and the first under the Northwest Ordinance. Ohio was the first post-colonial free state admitted to the union, and became one of the earliest and most influential industrial powerhouses in the 20th century; although it has transitioned to a more information and service based economy in the 21st century, Ohio remains an industrial state, ranking seventh in GDP as of 2019, with the third largest manufacturing sector and second largest automobile production.
+
+GT:
+Many major east–west transportation corridors go through Ohio. Ohio has a highly developed network of roads and interstate highways. Ohio also has a highly developed network of signed state bicycle routes. Many of them follow rail trails, with conversion ongoing. Ohio has several long-distance hiking trails, the most prominent of which is the Buckeye Trail which extends 1,444 mi (2,324 km) in a loop around the state of Ohio. Ohio has extensive railroads, though today most are only utilized by freight companies. Major cities in the north and south of Ohio lie on Amtrak intercity rail lines. Mass transit exists in many forms in Ohio cities, primarily through bus systems, though Cleveland has light and heavy rail through the GCRTA, and Cincinnati reestablished a streetcar line in 2016. Ohio has four international airports, four commercial, and two military.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.38028169014084506, 0.19494584837545126, 0.25775656324582336, 0.1610978520286396]
+[0.05673758865248227, 0.028985507246376812, 0.03836930455635491, 0.02398081534772182]
+[0.19718309859154928, 0.10108303249097472, 0.13365155131264916, 0.08353221957040573]
+
+
+SBERT sim. Score: 0.6145713925361633

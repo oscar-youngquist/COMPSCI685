@@ -1,0 +1,21 @@
+Document:
+nevada
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The tourism industry remains Nevada's largest employer, with mining continuing as a substantial sector of the economy: Nevada is the fourth-largest producer of gold in the world. Mining plays an important role in the economies of the rural counties, with tourism being less prominent. The economy of Nevada is tied to tourism (especially entertainment and gambling related), mining, and cattle ranching. Nevada's industrial outputs are tourism, entertainment, mining, machinery, printing and publishing, food processing, and electric equipment. In portions of the state outside of the Las Vegas and Reno metropolitan areas mining plays a major economic role. Cattle ranching is a major economic activity in rural Nevada.
+\Predicted Summary:
+Incorporated towns in Nevada, known as cities, are given the authority to legislate anything not prohibited by law. State law prohibits prostitution in Clark County (which contains Las Vegas), and Washoe County (which contains Reno). The Nevadan pronunciation is the one used by the state legislature. In 1883, Washoe County annexed the portion that remained in Nevada. The name means "snow-covered" in Spanish, referring to Nevada's small overlap with the Sierra Nevada mountain range; however, the rest of Nevada is largely desert and semi-arid, much of it within the Great Basin. Henderson and North Las Vegas are among the top 20 fastest-growing US cities with populations over 100,000. The PBR World Finals, operated by the bull riding-only Professional Bull Riders, was also held at the Thomas & Mack Center before moving to T-Mobile Arena in 2016.
+
+GT:
+The economy of Nevada is tied to tourism (especially entertainment and gambling related), mining, and cattle ranching. Nevada's industrial outputs are tourism, entertainment, mining, machinery, printing and publishing, food processing, and electric equipment. The economy of Nevada has long been tied to vice industries. "[Nevada was] founded on mining and refounded on sin – beginning with prizefighting and easy divorce a century ago and later extending to gaming and prostitution", said the August 21, 2010 issue of The Economist. In portions of the state outside of the Las Vegas and Reno metropolitan areas mining plays a major economic role. Cattle ranching is a major economic activity in rural Nevada. Nevada's agricultural outputs are cattle, hay, alfalfa, dairy products, onions, and potatoes.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2786885245901639, 0.23943661971830985, 0.25757575757575757, 0.16098484848484848]
+[0.049586776859504134, 0.0425531914893617, 0.045801526717557245, 0.02862595419847328]
+[0.13114754098360656, 0.11267605633802817, 0.12121212121212122, 0.07575757575757576]
+
+
+SBERT sim. Score: 0.546973705291748

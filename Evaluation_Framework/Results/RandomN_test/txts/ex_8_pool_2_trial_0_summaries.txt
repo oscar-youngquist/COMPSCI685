@@ -1,0 +1,21 @@
+Document:
+utah
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+The state has a highly diversified economy, with major sectors including transportation, education, information technology and research, government services, mining; it is also a major tourist destination for outdoor recreation. Utah also has the 14th-highest median average income and the least income inequality of any US state. A 2012 Gallup national survey found Utah overall to be the "best state to live in the future" based on 13 forward-looking measurements including various economic, lifestyle, and health-related outlook metrics. In addition, it had the highest average weekly church attendance of any state, at 51%. According to the 2007 State New Economy Index, Utah is ranked the top state in the nation for Economic Dynamism, determined by "the degree to which state economies are knowledge-based, globalized, entrepreneurial, information technology-driven and innovation-based". In 2014, Utah was ranked number one in Forbes' list of "Best States For Business". According to the 2010 Census, Utah was the second fastest-growing state (at 23.8 percent) in the United States between 2000 and 2010 (behind Nevada).
+\Predicted Summary:
+This is due to the standard ten percent of all earnings that Mormons give to the LDS Church. Utah is the setting of or the filming location for many books, films, television series, music videos, and video games. This terrain is the central feature of protected state and federal parks such as Arches, Bryce Canyon, Canyonlands, Capitol Reef, and Zion national parks, Cedar Breaks, Grand Staircase-Escalante, Hovenweep, and Natural Bridges national monuments, Glen Canyon National Recreation Area (site of the popular tourist destination, Lake Powell), Dead Horse Point and Goblin Valley state parks, and Monument Valley. Disputes between the dominant Mormon community and the federal government delayed Utah's admission as a state; only after the outlawing of polygamy was it admitted as the 45th, in 1896. Utah is an alcoholic beverage control state. He won election to a full four-year term in 2012, defeating the Democrat Peter Cooke with 68% of the vote. The St. George metropolitan area is currently the second fastest-growing in the country after the Las Vegas metropolitan area, while the Heber micropolitan area is also the second fastest-growing in the country (behind Palm Coast, Florida). Because of the American Civil War, federal troops were pulled out of Utah Territory in 1861.
+
+GT:
+In 2013, the US Census Bureau estimated that Utah had the second-fastest-growing population of any state. Utah also has the 14th-highest median average income and the least income inequality of any US state. A 2012 Gallup national survey found Utah overall to be the "best state to live in the future" based on 13 forward-looking measurements including various economic, lifestyle, and health-related outlook metrics. Utah is known for its natural diversity and is home to features ranging from arid deserts with sand dunes to thriving pine forests in mountain valleys. Utah features a dry, semi-arid to desert climate, although its many mountains feature a large variety of climates, with the highest points in the Uinta Mountains being above the timberline. Utah has the lowest child poverty rate in the country, despite its young demographics. Utah has the highest total birth rate and accordingly, the youngest population of any US state. Same-sex marriage became legal in Utah on December 20, 2013 when judge Robert J. Shelby of the United States District Court for the District of Utah issued a ruling in Kitchen v. Herbert.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3157894736842105, 0.2857142857142857, 0.3, 0.1875]
+[0.05291005291005291, 0.04784688995215311, 0.05025125628140704, 0.0314070351758794]
+[0.18421052631578946, 0.16666666666666666, 0.175, 0.10937499999999999]
+
+
+SBERT sim. Score: 0.6284363865852356

@@ -1,0 +1,21 @@
+Document:
+new_mexico
+
+Intent:
+How is the government structured in this state?
+
+Input:
+No fewer than 100 railroads of various names and lineage have operated in the jurisdiction at some point. The executive branch of government is fragmented as outlined in the state constitution. The executive is composed of the governor and other statewide elected officials including the lieutenant governor (elected on the same ticket as the governor), attorney general, secretary of state, state auditor, state treasurer, and commissioner of public lands. The governor appoints a cabinet who lead agencies statutorily designated under their jurisdiction. The New Mexico Legislature consists of the House of Representatives and Senatorte. The judiciary is composed of the New Mexico Supreme Court and lower courts. There is also local government, consisting of counties, municipalities and special districts. Terms for both the governor and lieutenant governor expire in January 2023. Governors serve a term of four years, and may seek re-election for one additional term (limit of two terms). Other constitutional officers, all of whose terms also expire in January 2023, include Secretary of State Maggie Toulouse Oliver (D), Attorney General Hector Balderas (D), State Auditor Brian Colón (D), State Land Commissioner Stephanie Garcia Richard (D), and State Treasurer Tim Eichenberg (D). Currently, both chambers of the New Mexico State Legislature have Democratic majorities. The governor is Michelle Lujan Grisham (D), who succeeded Susana Martinez (R) on January 1, 2019 after she served two terms as governor from 2011 to 2019. The Apache and some Ute live on federal reservations within the state.
+\Predicted Summary:
+In general, personal-use personal property is not subject to property taxation. New Mexico residents may purchase any firearm deemed legal under federal law. This is compared with 21.0% of the nation as a whole according to United States Census Bureau 2014 American Community Survey estimates. At the same time, the region became more economically dependent on the United States. Inhabited by Native Americans for many thousands of years before European exploration, it was colonized by the Spanish in 1598 as part of the Imperial Spanish viceroyalty of New Spain. It was admitted to the Union as the 47th state on January 6, 1912. Present-day New Mexico's pre-Columbian trade is especially remarkable for being undertaken on foot. State law pre-empts all local gun control ordinances. Due to its relatively low population, in combination with numerous federally funded research facilities, New Mexico had the highest concentration of PhD holders of any state in 2000. New Mexico imposes a Gross Receipts Tax (GRT) on many transactions, which may even include some governmental receipts. In the late 19th century, the majority of officially European-descended residents in New Mexico were ethnic Mexicans, many of whom had deep roots in the area from early Spanish colonial times. In prehistoric times, the area was home to Ancestral Puebloans, Mogollon, and the modern extant Comanche and Utes inhabited the state. The United States Congress admitted New Mexico as the 47th state on January 6, 1912.
+
+GT:
+The Constitution of New Mexico established New Mexico's governmental structure. The executive branch of government is fragmented as outlined in the state constitution. The executive is composed of the governor and other statewide elected officials including the lieutenant governor (elected on the same ticket as the governor), attorney general, secretary of state, state auditor, state treasurer, and commissioner of public lands. The governor appoints a cabinet who lead agencies statutorily designated under their jurisdiction. The New Mexico Legislature consists of the House of Representatives and Senatorte. The judiciary is composed of the New Mexico Supreme Court and lower courts. There is also local government, consisting of counties, municipalities and special districts.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.45535714285714285, 0.20901639344262296, 0.28651685393258425, 0.1790730337078652]
+[0.11711711711711711, 0.053497942386831275, 0.07344632768361581, 0.04590395480225989]
+[0.23214285714285715, 0.10655737704918032, 0.14606741573033707, 0.09129213483146068]
+
+
+SBERT sim. Score: 0.48791030049324036

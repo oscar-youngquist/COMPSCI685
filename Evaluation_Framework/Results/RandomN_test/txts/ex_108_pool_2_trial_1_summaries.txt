@@ -1,0 +1,21 @@
+Document:
+north_carolina
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The state mainly continued with an economy based on tobacco, cotton textiles and commodity agriculture. The state has a very diverse economy because of its great availability of hydroelectric power, its pleasant climate, and its wide variety of soils. The state ranks third among the South Atlantic states in population, but leads the region in industry and agriculture. According to a Forbes article written in 2013 Employment in the "Old North State" has gained many different industry sectors. North Carolina is the leading US state in production of flue-cured tobacco and sweet potatoes, and comes second in the farming of pigs and hogs, trout, and turkeys. The state's shipping, commercial fishing, and lumber industries are important to its economy.
+\Predicted Summary:
+Several US House of Representatives seats flipped control in 2012, with the Republicans holding nine seats to the Democrats' four. Over 30,000 North Carolina troops died from disease, battlefield wounds, or starvation. Except for the Earl Granville holdings, it became a royal colony seventeen years later. In 1845, the Baptists split into regional associations of the North and South, over the issue of slavery. The Wyndham Championship is played annually in Greensboro at Sedgefield Country Club. Of the people residing in North Carolina 58.5% were born there; 33.1% were born in another state; 1.0% were born in Puerto Rico, US Island areas, or born abroad to American parent(s); and 7.4% were foreign-born. The federal court ordered redistricting in 2015.
+
+GT:
+The state has a very diverse economy because of its great availability of hydroelectric power, its pleasant climate, and its wide variety of soils. The state ranks third among the South Atlantic states in population, but leads the region in industry and agriculture. North Carolina leads the nation in the production of tobacco, textiles, and furniture. Charlotte, the state's largest city, is a major textile and trade center. North Carolina is the leading US state in production of flue-cured tobacco and sweet potatoes, and comes second in the farming of pigs and hogs, trout, and turkeys. In the three most recent USDA surveys (2002, 2007, 2012), North Carolina also ranked second in the production of Christmas trees.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.29411764705882354, 0.2777777777777778, 0.28571428571428575, 0.1785714285714286]
+[0.01694915254237288, 0.016, 0.01646090534979424, 0.0102880658436214]
+[0.16806722689075632, 0.15873015873015872, 0.16326530612244897, 0.10204081632653061]
+
+
+SBERT sim. Score: 0.27334490418434143

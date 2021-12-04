@@ -1,0 +1,21 @@
+Document:
+idaho
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+For thousands of years Idaho has been inhabited by Native American peoples. The United States Forest Service holds about 38% of Idaho's land, the highest proportion of any state. This includes a natural increase since the last census of 58,884 (111,131 births minus 52,247 deaths) and an increase due to net migration of 75,795 people into the state. There are large numbers of Americans of English and German ancestry in Idaho. The table below shows the racial composition of Idaho's population as of 2016. It accounts for over 25% of the state's revenue and over 70% of the state's exports.
+\Predicted Summary:
+Idaho ( (listen)) is a state in the Pacific Northwest region of the United States. It borders the state of Montana to the east and northeast, Wyoming to the east, Nevada and Utah to the south, and Washington and Oregon to the west. To the north, it shares a small portion of the Canadian border with the province of British Columbia. With a population of approximately 1.7 million and an area of 83,570 square miles (216,400 km2), Idaho is the 14th largest, the 12th least populous and the 7th least densely populated of the 50 US states. The state's capital and largest city is Boise. For thousands of years Idaho has been inhabited by Native American peoples.
+
+GT:
+Idaho has a state gambling lottery which contributed $333.5 million in payments to all Idaho public schools and Idaho higher education from 1990 to 2006. Judy Garland performed the elaborate song-and-dance routine "Born in a Trunk in the Princess Theater in Pocatello, Idaho" in the 1954 version of the film A Star is Born. The 1985 film Pale Rider was primarily filmed in the Boulder Mountains and the Sawtooth National Recreation Area in central Idaho, just north of Sun Valley. The 1988 film Moving, starring Richard Pryor, has the main character take a promotion in Idaho. River Phoenix and Keanu Reeves starred in the 1991 movie My Own Private Idaho, portions of which take place in Idaho. The 2004 cult film Napoleon Dynamite takes place in Preston, Idaho; the film's director, Jared Hess, attended Preston High School.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2553191489361702, 0.3, 0.2758620689655172, 0.17241379310344826]
+[0.04285714285714286, 0.05042016806722689, 0.04633204633204633, 0.02895752895752896]
+[0.18439716312056736, 0.21666666666666667, 0.1992337164750958, 0.12452107279693488]
+
+
+SBERT sim. Score: 0.40119513869285583

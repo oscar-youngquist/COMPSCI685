@@ -1,0 +1,21 @@
+Document:
+ohio
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Ohio was the first post-colonial free state admitted to the union, and became one of the earliest and most influential industrial powerhouses in the 20th century; although it has transitioned to a more information and service based economy in the 21st century, Ohio remains an industrial state, ranking seventh in GDP as of 2019, with the third largest manufacturing sector and second largest automobile production. This ranks Ohio's economy as the seventh-largest of all fifty states and the District of Columbia. Forbes ranked the state No. Ohio has the third largest manufacturing workforce behind California and Texas. Ohio has the largest bioscience sector in the Midwest, and is a national leader in the "green" economy. Ohio is the largest producer in the country of plastics, rubber, fabricated metals, electrical equipment, and appliances. Ohio's manufacturing sector is the third-largest of all fifty United States states in terms of gross domestic product.
+\Predicted Summary:
+In 1788, he served as a judge in the Northwest Territory's first court. Other significant earthquakes in Ohio include: one of magnitude 4.8 near Lima on September 19, 1884; one of magnitude 4.2 near Portsmouth on May 17, 1901; and one of 5.0 in LeRoy Township in Lake County on January 31, 1986, which continued to trigger 13 aftershocks of magnitude 0.5 to 2.4 for two months. The current custom of Congress declaring an official date of statehood did not begin until 1812, with Louisiana's admission as the 18th state. After the war, Putnam and Manasseh Cutler were instrumental in creating the Northwest Ordinance, which opened up the Northwest Territory for settlement. Rufus Putnam served in important capacities in both the French and Indian War and the American Revolutionary War. Their origins are unknown. Lima and Toledo are the major cities in Northwest Ohio. Almost 35,000 Ohioans died in the conflict, and 30,000 were physically wounded.
+
+GT:
+Ohio was the first post-colonial free state admitted to the union, and became one of the earliest and most influential industrial powerhouses in the 20th century; although it has transitioned to a more information and service based economy in the 21st century, Ohio remains an industrial state, ranking seventh in GDP as of 2019, with the third largest manufacturing sector and second largest automobile production. 10 for best business-friendly tax systems in their Business Tax Index 2009, including a top corporate tax and capital gains rate that were both ranked No. Ohio has five of the top 115 colleges in the nation, according to US News and World Report's 2010 rankings, and was ranked No. Ohio's unemployment rate stands at 4.5% as of February 2018, down from 10.7% in May 2010. Ohio has a highly developed network of roads and interstate highways. Ohio also has a highly developed network of signed state bicycle routes. Ohio has several long-distance hiking trails, the most prominent of which is the Buckeye Trail which extends 1,444 mi (2,324 km) in a loop around the state of Ohio. The system averages an annual enrollment of more than 400,000 students, making it one of the five largest state university systems in the US
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2626728110599078, 0.34545454545454546, 0.29842931937172773, 0.18651832460732984]
+[0.018518518518518517, 0.024390243902439025, 0.021052631578947368, 0.013157894736842105]
+[0.11981566820276497, 0.15757575757575756, 0.13612565445026176, 0.0850785340314136]
+
+
+SBERT sim. Score: 0.3640592694282532

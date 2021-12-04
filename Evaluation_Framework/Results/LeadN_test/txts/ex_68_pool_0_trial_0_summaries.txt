@@ -1,0 +1,21 @@
+Document:
+arkansas
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Arkansas's culture is observable in museums, theaters, novels, television shows, restaurants, and athletic venues across the state. The town's attractions included horse racing and other entertainment. Many cities also hold festivals, which draw tourists to Arkansas culture, such as The Bradley County Pink Tomato Festival in Warren, King Biscuit Blues Festival, Ozark Folk Festival, Toad Suck Daze, and Tontitown Grape Festival. The culture of Arkansas includes distinct cuisine, dialect, and traditional festivals. Arkansas features a variety of native music across the state, ranging from the blues heritage of West Memphis, Pine Bluff, Helena–West Helena to rockabilly, bluegrass, and folk music from the Ozarks. Literature set in Arkansas such as I Know Why the Caged Bird Sings by Maya Angelou and A Painted House by John Grisham describe the culture at various time periods. Sports have become an integral part of the culture of Arkansas, and her residents enjoy participating in and spectating various events throughout the year. Over the years, many Arkansans have looked to Arkansas Razorbacks football as the public image of the state.
+\Predicted Summary:
+Arkansas () is a state in the south central United States, home to more than three million people as of 2018. Its name is from the Osage language, of Siouan derivation; it denoted their related kin, the Quapaw people. The state's diverse geography ranges from the mountainous regions of the Ozark and Ouachita Mountains, which make up the US Interior Highlands, to the densely forested land in the south known as the Arkansas Timberlands, to the eastern lowlands along the Mississippi River and the Arkansas Delta. Arkansas is the 29th largest by area and the 33rd most populous US state. The capital and most populous city is Little Rock, in the central part of the state, a hub for transportation, business, culture, and government. The northwestern corner of the state, including the Fayetteville–Springdale–Rogers Metropolitan Area and Fort Smith metropolitan area, is a population, education, and economic center. The largest city in the state's eastern part is Jonesboro.
+
+GT:
+The most enduring icon of Arkansas's hillbilly reputation is The Arkansas Traveller, a painted depiction of a folk tale from the 1840s. Art and history museums display pieces of cultural value for Arkansans and tourists to enjoy. Crystal Bridges Museum of American Art in Bentonville was visited by 604,000 people in 2012, its first year. The museum includes walking trails and educational opportunities in addition to displaying over 450 works covering five centuries of American art. Several historic town sites have been restored as Arkansas state parks, including Historic Washington State Park, Powhatan Historic State Park, and Davidsonville Historic State Park. Arkansas features a variety of native music across the state, ranging from the blues heritage of West Memphis, Pine Bluff, Helena–West Helena to rockabilly, bluegrass, and folk music from the Ozarks. Festivals such as the King Biscuit Blues Festival and Bikes, Blues, and BBQ pay homage to the history of blues in the state. Literature set in Arkansas such as I Know Why the Caged Bird Sings by Maya Angelou and A Painted House by John Grisham describe the culture at various time periods.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3191489361702128, 0.375, 0.3448275862068966, 0.2155172413793103]
+[0.058823529411764705, 0.06918238993710692, 0.06358381502890173, 0.039739884393063585]
+[0.16489361702127658, 0.19375, 0.1781609195402299, 0.11135057471264369]
+
+
+SBERT sim. Score: 0.48677751421928406

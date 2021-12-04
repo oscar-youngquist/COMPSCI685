@@ -1,0 +1,21 @@
+Document:
+washington
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+The state's various areas of wilderness offer sanctuary, with substantially large populations of shorebirds and marine mammals. Prominent among their industries were salmon fishing and, notably among the Makah, whale hunting. Early prominent industries in the state included agriculture and lumber. Other industries that developed in the state included fishing, salmon canning and mining. Significant business within the state include the design and manufacture of aircraft (Boeing), automotive (Paccar), computer software development (Microsoft, Bungie, Amazon, Nintendo of America, Valve, ArenaNet), telecom (T-Mobile US), electronics, biotechnology, aluminum production, lumber and wood products (Weyerhaeuser), mining, beverages (Starbucks, Jones Soda), real estate (John L. Scott, Colliers International, Windermere Real Estate, Kidder Mathews), retail (Nordstrom, Eddie Bauer, Car Toys, Costco, R.E.I. Washington is a leading agricultural state. Pacific Raceways is a motorsports venue which has hosted the Northwest Nationals of the NHRA Mello Yello Drag Racing Series and a round of the Trans-Am Series. The state song is "Washington, My Home", the state bird is the American goldfinch, the state fruit is the apple, and the state vegetable is the Walla Walla sweet onion.
+\Predicted Summary:
+Washington ( (listen)), officially the State of Washington, is a state in the Pacific Northwest region of the United States. Named for George Washington, the first US president, the state was made out of the western part of the Washington Territory, which was ceded by the British Empire in 1846, in accordance with the Oregon Treaty in the settlement of the Oregon boundary dispute. The state, which is bordered on the west by the Pacific Ocean, Oregon to the south, Idaho to the east, and the Canadian province of British Columbia to the north, was admitted to the Union as the 42nd state in 1889. Olympia is the state capital Washington is often referred to as Washington state to distinguish it from the nation's capital, Washington, D.C. Washington is the 18th largest state, with an area of 71,362 square miles (184,827 km2), and the 13th most populous state, with more than 7.6 million people. Approximately 60 percent of Washington's residents live in the Seattle metropolitan area, the center of transportation, business, and industry along Puget Sound, an inlet of the Pacific Ocean consisting of numerous islands, deep fjords, and bays carved out by glaciers. The remainder of the state consists of deep temperate rainforests in the west; mountain ranges in the west, central, northeast, and far southeast; and a semi-arid basin region in the east, central, and south, given over to intensive agriculture.
+
+GT:
+The Seattle Open Invitational golf tournament was part of the PGA Tour from the 1930s to the 1960s. The GTE Northwest Classic was part of the Senatoror PGA Tour from 1986 to 1995, and the Boeing Classic since 2005. In addition, the 2015 US Open was held at Chambers Bay, and several major tournaments were held at Sahalee Country Club. Pacific Raceways is a motorsports venue which has hosted the Northwest Nationals of the NHRA Mello Yello Drag Racing Series and a round of the Trans-Am Series. The WTA Seattle tennis tournament was part of the WTA Tour from 1977 to 1982. The Climate Pledge Arena has hosted several mixed martial arts events, such as UFC Fight Night: Nogueira vs. Davis, UFC on Fox: Henderson vs. Diaz, and UFC on Fox: Johnson vs. Moraga.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.32592592592592595, 0.18410041841004185, 0.23529411764705885, 0.14705882352941177]
+[0.08955223880597014, 0.05042016806722689, 0.06451612903225806, 0.04032258064516129]
+[0.2074074074074074, 0.11715481171548117, 0.1497326203208556, 0.09358288770053476]
+
+
+SBERT sim. Score: 0.2552448511123657

@@ -1,0 +1,21 @@
+Document:
+nevada
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+It is also known as the "Battle Born State" because it achieved statehood during the Civil War (the words "Battle Born" also appear on the state flag); as the "Sagebrush State", for the native plant of the same name; and as the "Sage-hen State". American Indians of the Paiute, Shoshone, and Washoe tribes inhabited what is now Nevada. (The other is Missouri, which acquired additional territory in 1837 due to the Platte Purchase.) Mining booms drew many Greek and Eastern European immigrants to Nevada. Native American tribes in Nevada are the Koso, Paiute, Panamint, Shoshoni, Walapi, Washoe and Ute tribes. People in these rural counties tend to be native Nevada residents, unlike in the Las Vegas and Reno areas, where the vast majority of the population was born in another state. Ranching also has a long tradition in rural Nevada. Due to heavy growth in the southern portion of the state, there is a noticeable divide between the politics of northern and southern Nevada. Historically, northern Nevada has been very Republican. Clark and Washoe counties have long dominated the state's politics. The great majority of the state's elected officials are from either Las Vegas or Reno.
+\Predicted Summary:
+The area formed part of Alta California's territory within the Viceroyalty of New Spain, which gained independence as Mexico in 1821. The average annual rainfall per year is about 7 inches (180 mm); the wettest parts get around 40 inches (1,000 mm). Nevada has been carried by the winner of nearly every presidential election since its first in 1864, only being carried by the defeated candidate eight times since statehood. Over 80% of the state's area is owned by the federal government. In 1866 another part of the western Utah Territory was added to Nevada in the eastern part of the state, setting the current eastern boundary. Calves are generally shipped to out-of-state feedlots in the fall to be fattened for the market. Corporations such as Apple Inc. allegedly have set up investment companies and funds in Nevada to avoid paying taxes. This line begins in Lake Tahoe nearly 4 miles (6.4 km) offshore (in the direction of the boundary), and continues to the Colorado River where the Nevada, California, and Arizona boundaries merge 12 miles (19 km) southwest of the Laughlin Bridge. American Indians of the Paiute, Shoshone, and Washoe tribes inhabited what is now Nevada. Nevada is one of a few states in the US that do not have a continuous interstate highway linking its two major population centers – the road connection between the Las Vegas and Reno areas is a combination of several different Interstate and US highways. The Jewish community is represented by The Rohr Jewish Learning Institute and Chabad. The Bureau of Economic Analysis estimates Nevada's total state product in 2018 was $170 billion.
+
+GT:
+Nevada is the only state where prostitution is legal – in a licensed brothel in a county which has specifically voted to permit it. It is illegal in larger jurisdictions such as Clark County (which contains Las Vegas), Washoe County (which contains Reno), and the independent city of Carson City. In 2009, the Nevada Legislature passed a bill creating a domestic partnership registry which enables gay couples to enjoy the same rights as married couples. Nevada has very liberal alcohol laws. Bars are permitted to remain open 24 hours, with no "last call". Liquor stores, convenience stores and supermarkets may also sell alcohol 24 hours per day and may sell beer, wine and spirits. Resort areas like Las Vegas, Reno, Lake Tahoe, and Laughlin attract visitors from around the nation and world. Prostitution is legal in parts of Nevada in licensed brothels, but only counties with populations under 400,000 have the option to legalize it. Although prostitution is not a major part of the Nevada economy, employing roughly 300 women as independent contractors, it is a very visible endeavor.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3743016759776536, 0.2427536231884058, 0.2945054945054945, 0.18406593406593408]
+[0.06179775280898876, 0.04, 0.04856512141280353, 0.03035320088300221]
+[0.18435754189944134, 0.11956521739130435, 0.14505494505494507, 0.09065934065934066]
+
+
+SBERT sim. Score: 0.4645926058292389

@@ -1,0 +1,21 @@
+Document:
+new_york
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+The state has a maritime border with Rhode Island, east of Long Island, as well as an international border with the Canadian provinces of Quebec to the north and Ontario to the northwest. It was chosen due its relative isolation with proximity to New York City and the rail lines of Jersey City, New Jersey, via a short ferry ride. The major cities of the state developed along the key transportation and trade routes of the early 19th century, including the Erie Canal and railroads paralleling it. New York has one of the most extensive and one of the oldest transportation infrastructures in the country. In addition to the well known New York City Subway system—which is confined within New York City—four suburban commuter railroad systems enter and leave the city: the Long Island Rail Road, Metro-North Railroad, Port Authority Trans-Hudson, and five of New Jersey Transit's rail lines. Other cities and towns in New York have urban and regional public transportation. Portions of the transportation system are intermodal, allowing travelers to switch easily from one mode of transportation to another. One of the most notable examples is AirTrain JFK which allows rail passengers to travel directly to terminals at John F. Kennedy International Airport as well as to the underground New York City Subway system.
+\Predicted Summary:
+In 2000 and 2005, more people moved from New York to Florida than from any one state to another, contributing to New York's becoming the fourth most populous state in 2015 behind Florida, Texas, and California. Farm products came in from the Midwest, and finished manufactured goods moved west. Hempstead is the most populous town in the state; if it were a city, it would be the second largest in New York State, with more than 700,000 residents. With a total area of 54,555 square miles (141,300 km2), New York is the 27th largest state. The SUNY system consists of 64 community colleges, technical colleges, undergraduate colleges, and doctoral-granting institutions, including several universities. New York's robustly increasing Jewish population, the largest outside of Israel, was the highest among states both by percentage and by absolute number in 2012. In fiscal year 2013–14, Wall Street's securities industry generated 19% of New York State's tax revenue. The state's most populous racial group, non-Hispanic white, has declined as a proportion of the state population from 94.6% in 1940 to 58.3% in 2010.
+
+GT:
+New York has one of the most extensive and one of the oldest transportation infrastructures in the country. The New York State Department of Transportation (NYSDOT) is the department of the government of New York responsible for the development and operation of highways, railroads, mass transit systems, ports, waterways, and aviation facilities within New York State. In addition to the well known New York City Subway system—which is confined within New York City—four suburban commuter railroad systems enter and leave the city: the Long Island Rail Road, Metro-North Railroad, Port Authority Trans-Hudson, and five of New Jersey Transit's rail lines. The New York City Department of Transportation (NYCDOT) is the agency of the government of New York City responsible for the management of much of New York City's own transportation infrastructure. The New York State Department of Motor Vehicles (NYSDMV or DMV) is the governmental agency responsible for registering and inspecting automobiles and other motor vehicles, as well as licensing drivers in the State of New York. Portions of the transportation system are intermodal, allowing travelers to switch easily from one mode of transportation to another. One of the most notable examples is AirTrain JFK which allows rail passengers to travel directly to terminals at John F. Kennedy International Airport as well as to the underground New York City Subway system.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2511013215859031, 0.296875, 0.27207637231503584, 0.17004773269689738]
+[0.0752212389380531, 0.08900523560209424, 0.0815347721822542, 0.050959232613908875]
+[0.16299559471365638, 0.19270833333333334, 0.1766109785202864, 0.11038186157517899]
+
+
+SBERT sim. Score: 0.38556942343711853

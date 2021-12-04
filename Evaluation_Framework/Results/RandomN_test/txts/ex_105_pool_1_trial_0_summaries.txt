@@ -1,0 +1,21 @@
+Document:
+tennessee
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Tennessee's major industries include agriculture, manufacturing, and tourism. Major outputs for the state include textiles, cotton, cattle, and electrical power. Tennessee has a reputation as low-tax state and is usually ranked as one of the five states with the lowest tax burden on residents. It is one of nine states that do not have a general income tax The state's sales and use tax rate for most items is 7%, the second-highest in the nation, along with Mississippi, Rhode Island, New Jersey, and Indiana. Tourism contributes billions of dollars every year to the state's economy, and Tennessee is ranked among the Top 10 destinations in the nation. In 2014 a record 100 million people visited the state resulting in $17.7 billion in tourism related spending within the state, an increase of 6.3% over 2013; tax revenue from tourism equaled $1.5 billion.
+\Predicted Summary:
+Old and young, men, women, and children camped near Union troops. Fort Loudoun became the westernmost British outpost to that date. The upper wedge of the Mississippi Delta extends into southwestern Tennessee, and it was in this fertile section that cotton took hold. The state line between Tennessee and North Carolina crosses the summit. They are being used to help breed blight-resistant trees. The tax rate was 6% from 1937 to 2016, but is in the process of being completely phased out by January 1, 2021. In 2008, some 30% of the state's electorate identified as independents.
+
+GT:
+The Great Smoky Mountains National Park, the nation's most visited national park, is located in the eastern part of the state, and a section of the Appalachian Trail roughly follows the Tennessee–North Carolina border. Other major tourist attractions include the Tennessee Aquarium and Chattanooga Choo-Choo Hotel in Chattanooga; Dollywood in Pigeon Forge; Ripley's Aquarium of the Smokies and Ober Gatlinburg in Gatlinburg; the Parthenon, the Country Music Hall of Fame and Museum, and Ryman Auditorium in Nashville; the Jack Daniel's Distillery in Lynchburg; Elvis Presley's Graceland residence and tomb, the Memphis Zoo, the National Civil Rights Museum in Memphis; and Bristol Motor Speedway in Bristol. Tennessee has a reputation as low-tax state and is usually ranked as one of the five states with the lowest tax burden on residents. It is one of nine states that do not have a general income tax The Hall income tax is a tax imposed on most dividends and interest. The tax rate was 6% from 1937 to 2016, but is in the process of being completely phased out by January 1, 2021. The first $1,250 of individual income and $2,500 of joint income is exempt from this tax.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.24019607843137256, 0.494949494949495, 0.32343234323432346, 0.20214521452145212]
+[0.12807881773399016, 0.2653061224489796, 0.1727574750830565, 0.10797342192691031]
+[0.17647058823529413, 0.36363636363636365, 0.23762376237623764, 0.14851485148514854]
+
+
+SBERT sim. Score: 0.3730980455875397

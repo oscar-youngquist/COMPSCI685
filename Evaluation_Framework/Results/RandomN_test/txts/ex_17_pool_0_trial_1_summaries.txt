@@ -1,0 +1,21 @@
+Document:
+maine
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The Maine Constitution structures Maine's state government, composed of three co-equal branches—the executive, legislative, and judicial branches. The state of Maine also has three Constitutional Officers (the Secretary of State, the State Treasurer, and the State Attorney General) and one Statutory Officer (the State Auditor). The legislative branch is the Maine Legislature, a bicameral body composed of the Maine House of Representatives, with 151 members, and the Maine Senatorte, with 35 members. The executive branch is responsible for the execution of the laws created by the Legislature and is headed by the Governor of Maine (currently Janet Mills). They captured the governor's office as well as majorities in both chambers of the state legislature for the first time since the early 1970s. Administration, services, licensing, and ordinances are handled by the state government as well as by respective county governments who have townships within each county's bounds.
+\Predicted Summary:
+This visual contrast of forested slopes sweeping down to the sea has been summed up by American poet Edna St. Vincent Millay of Rockland and Camden, Maine, in "Renascence": In the 1930s, Maine was one of very few states which retained Republican sentiments. Maine has very few large companies that maintain headquarters in the state, and that number has fallen due to consolidations and mergers, particularly in the pulp and paper industry. Commercial sellers of blueberries, a Maine staple, must keep records of their transactions and pay the state 1.5 cents per pound ($1.50 per 100 pounds) of the fruit sold each season. In 2017, the production of Maine's seaweed industry was estimated at $20 million per year. The governor is Democrat Janet Mills. The five largest ancestry groups were: English (20.7%), Irish (17.3%), French (15.7%), German (8.1%), and American (7.8%).
+
+GT:
+The Maine Constitution structures Maine's state government, composed of three co-equal branches—the executive, legislative, and judicial branches. The state of Maine also has three Constitutional Officers (the Secretary of State, the State Treasurer, and the State Attorney General) and one Statutory Officer (the State Auditor). The legislative branch is the Maine Legislature, a bicameral body composed of the Maine House of Representatives, with 151 members, and the Maine Senatorte, with 35 members. The executive branch is responsible for the execution of the laws created by the Legislature and is headed by the Governor of Maine (currently Janet Mills). The Governor is elected every four years The judicial branch is responsible for interpreting state laws.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3333333333333333, 0.26174496644295303, 0.2932330827067669, 0.1832706766917293]
+[0.08620689655172414, 0.06756756756756757, 0.07575757575757576, 0.047348484848484855]
+[0.2222222222222222, 0.174496644295302, 0.1954887218045113, 0.12218045112781956]
+
+
+SBERT sim. Score: 0.4170328378677368

@@ -1,0 +1,21 @@
+Document:
+mississippi
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Their large earthworks, which expressed their cosmology of political and religious concepts, still stand throughout the Mississippi and Ohio River valleys. Blacks and whites in Mississippi generated rich, quintessentially American music traditions: gospel music, country music, jazz, blues and rock and roll. Many musicians carried their music north to Chicago, where they made it the heart of that city's jazz and blues. Gambling towns in Mississippi have attracted increased tourism: they include the Gulf Coast resort towns of Bay St. Louis, Gulfport and Biloxi, and the Mississippi River towns of Tunica (the third largest gaming area in the United States), Greenville, Vicksburg and Natchez. While Mississippi has been especially known for its music and literature, it has embraced other forms of art. Musicians of the state's Delta region were historically significant to the development of the blues. While the state has had a reputation for being racist, Mississippi musicians created new forms by combining and creating variations on musical traditions from Africa, African American traditions, and the musical traditions of white Southerners strongly shaped by Scots-Irish and other styles. and Afroman, Mississippi musicians have been significant in all genres.
+\Predicted Summary:
+Mississippi is bordered to the north by Tennessee, to the east by Alabama, to the south by Louisiana and a narrow coast on the Gulf of Mexico; and to the west, across the Mississippi River, by Louisiana and Arkansas. The state was thinly settled, with population concentrated in the riverfront areas and towns. The retail sales tax rate in Mississippi is 7%. With Mississippi's fiscal conservatism, in which Medicaid, welfare, food stamps, and other social programs are often cut, eligibility requirements are tightened, and stricter employment criteria are imposed, Mississippi ranks as having the second-highest ratio of spending to tax receipts of any state. They have had to work to have their interests and children represented. From opera star Leontyne Price to the alternative rock band 3 Doors Down, to gulf and western singer Jimmy Buffett, modern rock/jazz/world music guitarist-producer Clifton Hyde, to rappers David Banner, Big K.R.I.T. Yellow-brown loess soil is found in the western parts of the state. In the early 20th century, there were still few schools in rural areas, particularly for black children. Mississippi's western boundary is largely defined by the Mississippi River.
+
+GT:
+While Mississippi has been especially known for its music and literature, it has embraced other forms of art. Its strong religious traditions have inspired striking works by outsider artists who have been shown nationally. The Magnolia Independent Film Festival, still held annually in Starkville, is the first and oldest in the state. Musicians of the state's Delta region were historically significant to the development of the blues. Jimmie Rodgers, a native of Meridian and guitarist/singer/songwriter known as the "Father of Country Music", played a significant role in the development of the blues. The state is creating a Mississippi Blues Trail, with dedicated markers explaining historic sites significant to the history of blues music, such as Clarksdale's Riverside Hotel, where Bessie Smith died after her auto accident on Highway 61. Elvis Presley, who created a sensation in the 1950s as a crossover artist and contributed to rock 'n' roll, was a native of Tupelo.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.34394904458598724, 0.27411167512690354, 0.30508474576271183, 0.1906779661016949]
+[0.05128205128205128, 0.04081632653061224, 0.04545454545454545, 0.028409090909090905]
+[0.1592356687898089, 0.12690355329949238, 0.14124293785310732, 0.08827683615819208]
+
+
+SBERT sim. Score: 0.46219345927238464

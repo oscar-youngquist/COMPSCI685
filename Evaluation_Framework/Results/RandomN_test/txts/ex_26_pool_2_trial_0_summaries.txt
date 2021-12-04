@@ -1,0 +1,21 @@
+Document:
+california
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The capital of California is located within Sacramento.The state is organized into three branches of government—the executive branch consisting of the governor and the other independently elected constitutional officers The California executive branch consists of the governor and seven other elected constitutional officers: lieutenant governor, attorney general, secretary of state, state controller, state treasurer, insurance commissioner, and state superintendent of public instruction. They serve four-year terms and may be re-elected only once. Justices of the Supreme Court and Courts of Appeal are appointed by the governor, but are subject to retention by the electorate every 12 years. The administration of the state's court system is controlled by the Judicial Council, composed of the chief justice of the California Supreme Court, 14 judicial officers, four representatives from the State Bar of California, and one member from each house of the state legislature. Each county is governed by an elected board of supervisors. Some larger cities have a directly-elected mayor who oversees the city government. The state of California sends 53 members to the House of Representatives, the nation's largest congressional state delegation. The Democrats also now hold a supermajority in both houses of the state legislature.
+\Predicted Summary:
+Los Angeles is California's most populous city, and the country's second-most-populous, after New York City. Before the passage of California Proposition 14 (2010), California allowed each political party to choose whether to have a closed primary or a primary where only party members and independents vote. In addition, several cities such as Oakland, Berkeley and Davis have declared themselves as nuclear-free zones. California was suddenly no longer a sparsely populated backwater, but seemingly overnight it had grown into a major population center. Among the first tasks of the Convention was a decision on a location for the new state capital. While the Sierra rosy finch is the only bird native to the high Arctic region, other bird species such as the hummingbird and Clark's nutcracker. The first Europeans to explore the California coast were the members of a Spanish sailing expedition led by Portuguese captain Juan Rodríguez Cabrillo; they entered San Diego Bay on September 28, 1542, and reached at least as far north as San Miguel Island. All of California's indigenous languages are endangered, although there are now efforts toward language revitalization. Several dams across the state provide hydro-electric power. Justices of the Supreme Court and Courts of Appeal are appointed by the governor, but are subject to retention by the electorate every 12 years.
+
+GT:
+California is divided into 58 counties. The county government provides countywide services such as law enforcement, jails, elections and voter registration, vital records, property assessment and records, tax collection, public health, health care, social services, libraries, flood control, fire protection, animal control, agricultural regulations, building inspections, ambulance services, and education departments in charge of maintaining statewide standards. Each county is governed by an elected board of supervisors. Incorporated cities and towns in California are either charter or general-law municipalities. General-law municipalities owe their existence to state law and are consequently governed by it Municipalities incorporated in the 19th century tend to be charter municipalities. All ten of the state's most populous cities are charter cities. The Government of San Francisco is the only consolidated city-county in California, where both the city and county governments have been merged into one unified jurisdiction. The state of California sends 53 members to the House of Representatives, the nation's largest congressional state delegation.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.35365853658536583, 0.2577777777777778, 0.29820051413881743, 0.1863753213367609]
+[0.06748466257668712, 0.049107142857142856, 0.056847545219638244, 0.0355297157622739]
+[0.1524390243902439, 0.1111111111111111, 0.12853470437017994, 0.08033419023136248]
+
+
+SBERT sim. Score: 0.4589456021785736

@@ -1,0 +1,21 @@
+Document:
+texas
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Texas shares borders with the states of Louisiana to the east, Arkansas to the northeast, Oklahoma to the north, New Mexico to the west, and the Mexican states of Chihuahua, Coahuila, Nuevo León, and Tamaulipas to the south and southwest, and has a coastline with the Gulf of Mexico to the southeast. Three interstate highways—I-35 to the west (Dallas–Fort Worth to San Antonio, with Austin in between), I-45 to the east (Dallas to Houston), and I-10 to the south (San Antonio to Houston) define the Texas Urban Triangle region. These cities are spread out amongst the state. The state is an important transportation hub. The A-train commuter rail line, operated by DCTA, acts as an extension of the DART Green line into Denton County. In the Austin area, Capital Metropolitan Transportation Authority operates a commuter rail service known as Capital MetroRail to the northwestern suburbs. Three scheduled routes serve the state: the daily Texas Eagle (Chicago–San Antonio); the tri-weekly Sunset Limited (New Orleans–Los Angeles), with stops in Texas; and the daily Heartland Flyer (Fort Worth–Oklahoma City).
+\Predicted Summary:
+The vast geographic, economic, and cultural diversity within the state itself prohibits easy categorization of the whole state into a recognized region of the United States. Texians elected delegates to the Consultation, which created a provisional government. The largest Evangelical Baptists in the state were the Southern Baptist Convention (9%) and independent Baptists (3%). County government runs similar to a "weak" mayor-council system; the county judge has no veto authority, but votes along with the other commissioners. German descendants inhabit much of central and southeast-central Texas. Between 2006 and 2007, Texas spent $7,275 per pupil, ranking it below the national average of $9,389. The Texas Medical Center in Houston, holds the world's largest concentration of research and healthcare institutions, with 47 member institutions. The state's numerous oil tycoons are also a popular pop culture topic as seen in the hit TV series Dallas.
+
+GT:
+Texas has compensated by building America's largest highway and railway systems. The regulatory authority, the Texas Department of Transportation (TxDOT), maintains the state's immense highway system, regulates aviation, and public transportation systems. From the Dallas/Fort Worth area, trucks can reach 93 percent of the nation's population within 48 hours, and 37 percent within 24 hours. Texas has 730 airports, second-most of any state in the nation. Around 1,150 seaports dot Texas's coast with over 1,000 miles (1,600 km) of channels. Since 1911, Texas has led the nation in length of railroad miles within the state. In the Dallas–Fort Worth area, three public transit agencies provide rail service: Dallas Area Rapid Transit (DART), Denton County Transportation Authority (DCTA), and Trinity Metro. Amtrak provides Texas with limited intercity passenger rail service.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2805755395683453, 0.26174496644295303, 0.2708333333333333, 0.16927083333333334]
+[0.07971014492753623, 0.07432432432432433, 0.07692307692307693, 0.04807692307692309]
+[0.16546762589928057, 0.15436241610738255, 0.15972222222222224, 0.0998263888888889]
+
+
+SBERT sim. Score: 0.5386108160018921

@@ -1,0 +1,21 @@
+Document:
+tennessee
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+East Tennessee has several important transportation links with Middle and West Tennessee, as well as the rest of the nation and the world, including several major airports and interstates. I-24, I-81, I-40, I-75, and I-26 along with numerous state highways and other important roads, traverse the Grand Division and connect Chattanooga, Knoxville, and the Tri-Cities, along with other cities and towns such as Cleveland, Athens, and Sevierville. Middle Tennessee is one of the primary state population and transportation centers along with the heart of state government. Major outputs for the state include textiles, cotton, cattle, and electrical power. Because Memphis International Airport is the major hub for FedEx Corporation, it is the world's largest air cargo operation. For passenger rail service, Memphis and Newbern, are served by the Amtrak City of New Orleans line on its run between Chicago, Illinois, and New Orleans, Louisiana.
+\Predicted Summary:
+The TWRA is an independent agency tasked with enforcing all wildlife, boating, and fisheries regulations outside of state parks. Tennessee is home to several Protestant denominations, such as the National Baptist Convention (headquartered in Nashville); the Church of God in Christ and the Cumberland Presbyterian Church (both headquartered in Memphis); the Church of God and The Church of God of Prophecy (both headquartered in Cleveland). An estimated 21–24% of Tennesseans are of predominantly English ancestry. Chattanooga and Knoxville, both in the east near the Great Smoky Mountains, are about a third that size. The frontier fort on the banks of the Watauga River later served as a 1780 staging area for the Overmountain Men in preparation to trek over the Appalachian Mountains, to engage, and to later defeat the British Army at the Battle of Kings Mountain in South Carolina. Some accounts suggest it is a Cherokee modification of an earlier Yuchi word. Middle Tennessee was a common destination of settlers crossing the Appalachians from Virginia in the late 18th century and early 19th century.
+
+GT:
+East Tennessee has several important transportation links with Middle and West Tennessee, as well as the rest of the nation and the world, including several major airports and interstates. Knoxville's McGhee Tyson Airport (TYS) and Chattanooga's Chattanooga Metropolitan Airport (CHA), as well as the Tri-Cities' Tri-Cities Regional Airport (TRI), provide air service to numerous destinations. I-24, I-81, I-40, I-75, and I-26 along with numerous state highways and other important roads, traverse the Grand Division and connect Chattanooga, Knoxville, and the Tri-Cities, along with other cities and towns such as Cleveland, Athens, and Sevierville. Interstate 40 crosses the state in an east–west orientation. Its branch interstate highways include I-240 in Memphis Major airports within the state include Memphis International Airport (MEM), Nashville International Airport (BNA), McGhee Tyson Airport (TYS) outside of Knoxville in Blount County, Chattanooga Metropolitan Airport (CHA), Tri-Cities Regional Airport (TRI), and McKellar-Sipes Regional Airport (MKL), in Jackson. For passenger rail service, Memphis and Newbern, are served by the Amtrak City of New Orleans line on its run between Chicago, Illinois, and New Orleans, Louisiana. Cargo services in Tennessee are primarily served by CSX Transportation, which has a hump yard in Nashville called Radnor Yard. Norfolk Southern Railway operates lines in East Tennessee, through cities including Knoxville and Chattanooga, and operates a classification yard near Knoxville, the John Sevier Yard.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.23829787234042554, 0.3181818181818182, 0.2725060827250608, 0.17031630170316298]
+[0.04700854700854701, 0.06285714285714286, 0.05378973105134474, 0.03361858190709047]
+[0.11914893617021277, 0.1590909090909091, 0.1362530413625304, 0.08515815085158149]
+
+
+SBERT sim. Score: 0.4131777882575989

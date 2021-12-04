@@ -1,0 +1,21 @@
+Document:
+nevada
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Nevada is the 7th-most extensive, the 19th-least populous, but the 9th-least densely populated of the US states. Nevada ranks second in the United States by the number of mountains, behind Alaska, and ahead of California, Montana, and Washington. From about the 1940s until 2003, Nevada was the fastest-growing state in the US percentage-wise. Thus, in terms of population, Nevada is one of the most centralized states in the nation. Due to heavy growth in the southern portion of the state, there is a noticeable divide between the politics of northern and southern Nevada. The north has long maintained control of key positions in state government, even while the population of southern Nevada is larger than the rest of the state combined. The state is ranked just below California, Texas, Florida, and New York in the total number of rooms, but those states have much larger populations.
+\Predicted Summary:
+Nevada has a reputation for its libertarian laws. Las Vegas, Nevada's most populous city, has been the county seat since the county was created in 1909 from a portion of Lincoln County, Nevada. Washoe County includes the Reno–Sparks metropolitan area. Jedediah Smith entered the Las Vegas Valley in 1827, and Peter Skene Ogden traveled the Humboldt River in 1828. This line begins in Lake Tahoe nearly 4 miles (6.4 km) offshore (in the direction of the boundary), and continues to the Colorado River where the Nevada, California, and Arizona boundaries merge 12 miles (19 km) southwest of the Laughlin Bridge. Between them, they cast 87 percent of Nevada's vote, and elect a substantial majority of the state legislature. It was named after Nathaniel Lyon, the first Union General to be killed in the Civil War. While winters in northern Nevada are long and fairly cold, the winter season in the southern part of the state tends to be of short duration and mild.
+
+GT:
+Nevada has had a thriving solar energy sector. An independent study in 2013 concluded that solar users created a $36 million net benefit. Nevada's early reputation as a "divorce haven" arose from the fact that before the no-fault divorce revolution in the 1970s, divorces were difficult to obtain in the United States. Already having legalized gambling and prostitution, Nevada continued the trend of boosting its profile by adopting one of the most liberal divorce statutes in the nation. Nevada's tax laws are intended to draw new residents and businesses to the state. Nevada has no personal income tax or corporate income tax. Since Nevada does not collect income data it cannot share such information with the federal government, the IRS. In 2009, the Nevada Legislature passed a bill creating a domestic partnership registry which enables gay couples to enjoy the same rights as married couples. In FY08 their 266 casinos (not counting ones with annual revenue under a million dollars) brought in $12 billion in gaming revenue and another $13 billion in non-gaming revenue. Prostitution is legal in parts of Nevada in licensed brothels, but only counties with populations under 400,000 have the option to legalize it.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.297029702970297, 0.3592814371257485, 0.3252032520325203, 0.20325203252032523]
+[0.05970149253731343, 0.07228915662650602, 0.0653950953678474, 0.04087193460490463]
+[0.16336633663366337, 0.19760479041916168, 0.17886178861788618, 0.11178861788617887]
+
+
+SBERT sim. Score: 0.49445703625679016

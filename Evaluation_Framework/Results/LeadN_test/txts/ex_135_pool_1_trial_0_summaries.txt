@@ -1,0 +1,21 @@
+Document:
+minnesota
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Logging, farming and railroads were mainstays of Minnesota's early economy. Once primarily a producer of raw materials, Minnesota's economy has transformed to emphasize finished products and services. Although less than one percent of the population is now employed in the agricultural sector, it remains a major part of the state's economy, ranking sixth in the nation in the value of products sold. The state is the nation's largest producer of sugar beets, sweet corn, and peas for processing, and farm-raised turkeys. Minnesota is also a large producer of corn and soybeans, and has the most food cooperatives per capita in the United States. In 2016 the state produced 60 percent of the country's usable iron ore.
+\Predicted Summary:
+Minnesota ( (listen)) is a state in the Upper Midwest, Great Lakes, and northern region of the United States. Minnesota was admitted as the 32nd US state on May 11, 1858, created from the eastern half of the Minnesota Territory. The state is known as the "Land of 10,000 Lakes". Its official motto is L'Étoile du Nord, French for "The Star of the North". Minnesota is the 12th largest in area and the 22nd most populous of the US states. Nearly 55% of its residents live in the Minneapolis–Saint Paul metropolitan area (known as the "Twin Cities"), the state's main hub of transportation, business, industry, education, arts, and government. Urban centers in "Greater Minnesota" include Duluth, Mankato, Moorhead, Rochester and St.
+
+GT:
+Once primarily a producer of raw materials, Minnesota's economy has transformed to emphasize finished products and services. Although less than one percent of the population is now employed in the agricultural sector, it remains a major part of the state's economy, ranking sixth in the nation in the value of products sold. The state is the nation's largest producer of sugar beets, sweet corn, and peas for processing, and farm-raised turkeys. Minnesota is also a large producer of corn and soybeans, and has the most food cooperatives per capita in the United States. Forestry remains strong, including logging, pulpwood processing and paper production, and forest products manufacturing. Although the high-grade ore is now depleted, taconite mining continues, using processes developed locally to save the industry. In 2016 the state produced 60 percent of the country's usable iron ore.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3263888888888889, 0.3790322580645161, 0.3507462686567164, 0.21921641791044774]
+[0.09090909090909091, 0.10569105691056911, 0.09774436090225565, 0.061090225563909785]
+[0.19444444444444445, 0.22580645161290322, 0.208955223880597, 0.13059701492537312]
+
+
+SBERT sim. Score: 0.4573341906070709

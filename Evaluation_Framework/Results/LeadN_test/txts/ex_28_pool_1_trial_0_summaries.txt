@@ -1,0 +1,21 @@
+Document:
+iowa
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+The historic downtown area is also filled with multiple restaurants, bars, and other entertainment venues. The state has four major college teams playing in NCAA Division I for all sports. Although Iowa has no professional major league sports teams, Iowa has minor league sports teams in baseball, basketball, hockey, and other sports. All the following teams are NCAA Division I football, basketball, or wrestling teams: The Sioux City Explorers are part of the American Association of Independent Professional Baseball. Iowa has two professional basketball teams. The Sioux City Hornets play in the American Basketball Association. Iowa has three professional football teams.
+\Predicted Summary:
+Iowa ( (listen)) is a state in the Midwestern United States, bordered by the Mississippi River to the east and the Missouri River and Big Sioux River to the west. It is bordered by six states: Wisconsin to the northeast, Illinois to the east and southeast, Missouri to the south, Nebraska to the west, South Dakota to the northwest, and Minnesota to the north. In colonial times, Iowa was a part of French Louisiana and Spanish Louisiana; its state flag is patterned after the flag of France. After the Louisiana Purchase, people laid the foundation for an agriculture-based economy in the heart of the Corn Belt. In the latter half of the 20th century, Iowa's agricultural economy made the transition to a diversified economy of advanced manufacturing, processing, financial services, information technology, biotechnology, and green energy production. Iowa is the 26th most extensive in total area and the 30th most populous of the 50 US states. The state's capital, most populous city, and largest metropolitan area fully located within the state is Des Moines. A portion of the larger Omaha, Nebraska, metropolitan area extends into three counties of southwest Iowa. Iowa has been listed as one of the safest US states to live in.
+
+GT:
+Slipknot, a heavy metal band, was formed in Des Moines in 1995. The state has four major college teams playing in NCAA Division I for all sports. Des Moines is home to the Iowa Cubs, a Class AAA team in the Pacific Coast League and affiliate of the Chicago Cubs. Des Moines is home to the Iowa Wild, who are affiliated with the Minnesota Wild and are members of the American Hockey League. Iowa is a hotbed of wrestling in the United States. Iowa and Iowa State have won a combined 30 NCAA Division I titles. The Iowa Speedway oval track has hosted auto racing championships such as the IndyCar Series, NASCAR Nationwide Series and NASCAR Truck Series since 2006. The John Deere Classic is a PGA Tour golf event held in the Quad Cities since 1971.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.38686131386861317, 0.25728155339805825, 0.3090379008746356, 0.19314868804664725]
+[0.08823529411764706, 0.05853658536585366, 0.07038123167155426, 0.04398826979472141]
+[0.23357664233576642, 0.1553398058252427, 0.18658892128279883, 0.11661807580174927]
+
+
+SBERT sim. Score: 0.5097543597221375

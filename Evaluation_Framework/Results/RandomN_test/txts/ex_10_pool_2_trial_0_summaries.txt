@@ -1,0 +1,21 @@
+Document:
+north_carolina
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+In mid-century, the state's rural and commercial areas were connected by the construction of a 129 mi (208 km) wooden plank road, known as a "farmer's railroad", from Fayetteville in the east to Bethania (northwest of Winston-Salem). During the Civil War, the Wilmington-to-Raleigh stretch of the railroad would be vital to the Confederate war effort; supplies shipped into Wilmington would be moved by rail through Raleigh to the Confederate capital of Richmond, Virginia. Railroads were built to connect the new industrializing cities. Transportation systems in North Carolina consist of air, water, road, rail, and public transportation including intercity rail via Amtrak and light rail in Charlotte. North Carolina has the second-largest state highway system in the country as well as the largest ferry system on the east coast. North Carolina's airports serve destinations throughout the United States and international destinations in Canada, Europe, Central America, and the Caribbean. North Carolina has a growing passenger rail system with Amtrak serving most major cities.
+\Predicted Summary:
+The Patriots' victory there guaranteed American independence. Also stationed in North Carolina is the Military Ocean Terminal Sunny Point in Southport. James Taylor grew up around Chapel Hill, and his 1968 song "Carolina in My Mind" has been called an unofficial anthem for the state. The western areas were dominated by white families, especially Scots-Irish, who operated small subsistence farms. In April 1865, after losing the Battle of Morrisville, Johnston surrendered to Sherman at Bennett Place, in what is today Durham. Following the collapse of the Confederacy in 1865, North Carolina, along with the rest of the former Confederate States, was put under direct control by the US military and was relieved of its constitutional government and representation within the United States Congress in what is now referred to as the Reconstruction era. Area attractions include Carolina Panthers NFL football team and Charlotte Hornets basketball team, Carowinds amusement park, Charlotte Motor Speedway, US National Whitewater Center, Discovery Place, Great Wolf Lodge, Sea Life Aquarium, Bechtler Museum of Modern Art, Billy Graham Library, Carolinas Aviation Museum, Harvey B. Gantt Center for African-American Arts + Culture, Levine Museum of the New South, McColl Center for Art + Innovation, Mint Museum, and the NASCAR Hall of Fame.
+
+GT:
+Transportation systems in North Carolina consist of air, water, road, rail, and public transportation including intercity rail via Amtrak and light rail in Charlotte. North Carolina has the second-largest state highway system in the country as well as the largest ferry system on the east coast. North Carolina's airports serve destinations throughout the United States and international destinations in Canada, Europe, Central America, and the Caribbean. In 2013 Charlotte Douglas International Airport, which serves as the second busiest hub for American Airlines, ranked as the 23rd busiest airport in the world. North Carolina has a growing passenger rail system with Amtrak serving most major cities. Charlotte is also home to North Carolina's only light rail system known as the Lynx.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.34146341463414637, 0.20588235294117646, 0.2568807339449541, 0.1605504587155963]
+[0.05737704918032787, 0.034482758620689655, 0.043076923076923075, 0.026923076923076925]
+[0.21138211382113822, 0.12745098039215685, 0.15902140672782872, 0.09938837920489295]
+
+
+SBERT sim. Score: 0.29119253158569336

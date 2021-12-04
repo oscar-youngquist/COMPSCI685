@@ -1,0 +1,21 @@
+Document:
+maine
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Maine's agricultural outputs include poultry, eggs, dairy products, cattle, wild blueberries, apples, maple syrup, and maple sugar. Commercial fishing, once a mainstay of the state's economy, maintains a presence, particularly lobstering and groundfishing. In 2017, the production of Maine's seaweed industry was estimated at $20 million per year. Maine's industrial outputs consist chiefly of paper, lumber and wood products, electronic equipment, leather products, food products, textiles, and bio-technology. During the 18th and 19th centuries, wooden shipbuilding of this sort made up a sizable portion of the economy. The state is a major producer of potatoes, wild blueberries, apples, maple syrup and sweet corn. Dairy products and chicken's eggs are other major industries.
+\Predicted Summary:
+Maine ( (listen)) is a state in the New England region of the Northeastern United States, bordered by New Hampshire to the west; the Atlantic Ocean to the southeast; and the Canadian provinces of New Brunswick and Quebec to the northeast and northwest, respectively. Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states. It is also the northeasternmost among the contiguous United States, the northernmost state east of the Great Lakes, and the only state to border only one other state. Maine is known for its jagged, rocky coastline; low, rolling mountains; heavily forested interior; picturesque waterways; and its seafood cuisine, especially lobster and clams. There is a humid continental climate throughout most of the state, including coastal areas. Its most populous city is Portland, and its capital is Augusta. For thousands of years after the glaciers retreated during the last Ice Age, indigenous peoples were the only inhabitants of the territory that is now Maine. At the time of European arrival, several Algonquian-speaking peoples inhabited the area.
+
+GT:
+Maine's agricultural outputs include poultry, eggs, dairy products, cattle, wild blueberries, apples, maple syrup, and maple sugar. Commercial fishing, once a mainstay of the state's economy, maintains a presence, particularly lobstering and groundfishing. In 2015, 14% of the Northeast's total oyster supply came from Maine. Maine's industrial outputs consist chiefly of paper, lumber and wood products, electronic equipment, leather products, food products, textiles, and bio-technology. Tourism and outdoor recreation play a major and increasingly important role in Maine's economy. The state is a popular destination for sport hunting (particularly deer, moose and bear), sport fishing, snowmobiling, skiing, boating, camping and hiking, among other activities.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2727272727272727, 0.16574585635359115, 0.20618556701030924, 0.12886597938144329]
+[0.05504587155963303, 0.03333333333333333, 0.041522491349480974, 0.025951557093425608]
+[0.17272727272727273, 0.10497237569060773, 0.13058419243986255, 0.08161512027491409]
+
+
+SBERT sim. Score: 0.6072556972503662
