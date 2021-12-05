@@ -25,7 +25,7 @@ from Models.T5_WkiTransfer import T5_Wiki
 ### TODO #####
 ##############
 # add your model names here
-model_name = "T5_wiki_ft_split_one"
+model_name = "T5_wiki_aug_ft_split_two"
 
 ###
 #    Helper function used to replaces sys.excepthook to log exceptions to 
@@ -49,7 +49,7 @@ if not exists(join(cwd, "Logs/")):
 ### TODO #####
 ##############
 # TODO: add your own log file name
-log_file = join(cwd, "Logs/", "Wiki_ft_split_one.log")
+log_file = join(cwd, "Logs/", "Wiki_aug_ft_split_two.log")
 
 # set up logger
 root = logging.getLogger()
@@ -81,8 +81,9 @@ max_range = 137
 num_trials = 1                                                                                         # number of times to evaluate all the examples
 exp_folder = ""                                                                                         # results folder for this experimental run, only used if running a) more than one model or b) the same model more than once
                                                                                                         #     model_name folder is added as a sub-folder to this one 
+aug_path =  os.path.join(Path(__file__).parent.parent.parent, *["backtranslation", "paraphrases"])
 
-wiki_path = os.path.join(Path(__file__).parent.parent.parent, "Wiki_Dump/ProcessedArticles/test_example_datasets/test_example_{}.txt")
+wiki_path = os.path.join(Path(__file__).parent.parent.parent, "Wiki_Dump/ProcessedArticles/test_example_datasets_2/test_example_{}.txt")
 
 # create an instance of the experiment runner class
 # num_examples, num_test, users_path, data_path, min_range, max_index
@@ -96,5 +97,5 @@ os.environ["WANDB_SILENT"] = "true"
 #
 #     model, num_trials, save_results (print results to log file), model_name, exp_folder=None, multi_processing=True // artifcact, huggingface API does not allow for multi-processing
 
-t5_wiki_model = T5_Wiki(data_path, shared_docs_path, num_examples, wiki_path, 1e-7, 8, 10)
+t5_wiki_model = T5_Wiki(data_path, shared_docs_path, num_examples, wiki_path, 1e-7, 8, 10, aug_path)
 exp_runner.get_model_analysis_final(t5_wiki_model, True, model_name, multi_processing=False)

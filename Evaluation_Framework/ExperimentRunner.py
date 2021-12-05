@@ -363,7 +363,7 @@ class ExperimentRunner:
         # directory up-keep complete, run experiment
         logging.info("Directory Construction Complete, begining experiments")
 
-        splits = [[0, 1, 2, 3, 4], [7, 6, 5, 4, 3]]
+        splits = [[7, 6, 5, 4, 3]]
         # [0, 1, 2, 3, 4], 
 
 

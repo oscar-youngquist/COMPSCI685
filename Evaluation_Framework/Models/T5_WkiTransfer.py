@@ -23,7 +23,7 @@ class T5_Wiki(Model):
     #    and pass them in accordingly from the Exp/script.
 
     # NOTE: New parameter - finetune, a command-line arg for exp script to use basic (no data augmentation or wiki-pretraining) finetuning
-    def __init__(self, data_path, shared_docs_path, num_examples, wiki_path, lr, bs, epchs):
+    def __init__(self, data_path, shared_docs_path, num_examples, wiki_path, lr, bs, epchs, aug_path):
         super().__init__(data_path, shared_docs_path, num_examples)
         self.df = pd.read_csv(self.data_path)
         self.filter_obj = Sentence_Prefilter_Wrapper(data_path, shared_docs_path)
@@ -37,6 +37,7 @@ class T5_Wiki(Model):
         # I don't think these will change
         self.input_token_len = 512
         self.num_pred = 0
+        self.aug_path = aug_path
 
         # these could all be passed into the constructor and iterated over gird-search style from
         #     a loop in the EXP script
@@ -108,10 +109,10 @@ class T5_Wiki(Model):
         #                     sentence_prefilter=self.filter_obj.nearest_neighbor_bert_summary_filtering,
         #                     prefilter_len=int(2*avg_len), df=self.df, device=self.device)
 
-          # fine_tune_model_aug(trainer_args=self.fine_tune_args, model=self.model, tokenizer=self.tokenizer, token_len=self.input_token_len, lr=self.lr, adam_ep=self.adam_ep,
-          #                       batch_size=self.batch_size, epochs=self.finetune_epochs, example_summaries=example_summaries,
-          #                       sentence_prefilter=self.filter_obj.nearest_neighbor_bert_summary_filtering,
-          #                       prefilter_len=int(2*avg_len), df=self.df, aug_path=self.aug_path, gamma=self.gamma, device=self.device, use_wandb=self.use_wandb, num_aug=self.num_aug)
+          fine_tune_model_aug(trainer_args=self.fine_tune_args, model=self.model, tokenizer=self.tokenizer, token_len=self.input_token_len, lr=1e-6, adam_ep=self.adam_ep,
+                                batch_size=5, epochs=100, example_summaries=example_summaries,
+                                sentence_prefilter=self.filter_obj.nearest_neighbor_bert_summary_filtering,
+                                prefilter_len=int(2*avg_len), df=self.df, aug_path=self.aug_path, gamma=1, device=self.device, use_wandb=False, num_aug=5)
                             
           self.num_pred += 1
         else:
