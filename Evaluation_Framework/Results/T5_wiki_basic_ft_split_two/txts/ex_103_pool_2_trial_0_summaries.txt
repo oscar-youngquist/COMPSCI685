@@ -1,0 +1,21 @@
+Document:
+florida
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The state government consists of three separate branches: judicial, executive, and legislative. The legislature enacts bills, which, if signed by the governor, become law. The Florida Legislature comprises the Florida Senatorte, which has 40 members, and the Florida House of Representatives, which has 120 members. The current governor of Florida is Ron DeSantis.The Florida Supreme Court consists of a chief justice and six justices. In 1970, Democrats took the governorship and the open US Senatorte seat, and maintained dominance for years. Because of this, the area has consistently voted as one of the most Democratic areas of the state. Reapportionment following the 2010 United States Census gave the state two more seats in the House of Representatives. The political make-up of congressional and legislative districts has enabled Republicans to control the governorship and most statewide elective offices, and 17 of the state's 27 seats in the 2012 House of Representatives. In the 2010 elections, Republicans solidified their dominance statewide, by winning the governor's mansion, and maintaining firm majorities in both houses of the state legislature. These have become known as the Fair District Amendments. Each school district has an elected Board of Education that sets policy, budget, goals, and approves expenditures.
+\Predicted Summary:
+. Florida is the second-largest state in the world, with a population of over 21 million . Florida is the third-most populous state in the world, and the seventh-most extensive in the world . the state is the most populous and the seventh-most extensive of the 50 states . the state is the flattest state in the United States, and the largest lake in the world .
+
+GT:
+The basic structure, duties, function, and operations of the government of the State of Florida are defined and established by the Florida Constitution, which establishes the basic law of the state and guarantees various rights and freedoms of the people. The state government consists of three separate branches: judicial, executive, and legislative. The Florida Legislature comprises the Florida Senatorte, which has 40 members, and the Florida House of Representatives, which has 120 members. The current governor of Florida is Ron DeSantis.The Florida Supreme Court consists of a chief justice and six justices. Since the development of the federal NASA Merritt Island launch sites on Cape Canaveral (most notably Kennedy Space Center) in 1962, Florida has developed a sizable aerospace industry. There are 24 military bases in the state, housing three Unified Combatant Commands; United States Central Command in Tampa, United States Southern Command in Doral, and United States Special Operations Command in Tampa.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.24675324675324675, 0.5757575757575758, 0.3454545454545455, 0.21590909090909094]
+[0.05228758169934641, 0.12307692307692308, 0.07339449541284404, 0.045871559633027525]
+[0.16233766233766234, 0.3787878787878788, 0.22727272727272727, 0.14204545454545456]
+
+
+SBERT sim. Score: 0.45137280225753784

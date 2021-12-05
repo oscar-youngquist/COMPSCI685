@@ -1,0 +1,21 @@
+Document:
+illinois
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all US states. Springfield, the state's capital, comes in as sixth-most populous with 117,352 residents. The state's 2019 per capita gross state product was estimated to be around $72,000. As of 2011, Illinois is ranked as the 4th-most productive manufacturing state in the country, behind California, Texas, and Ohio. As of 2017 Chicago had the highest state and local sales tax rate for a US city with a populations above 200,000, at 10.250%. Illinois has the distinction of having the most primary (two-digit) interstates pass through it among all the 50 states with 13. Illinois also ranks third among the fifty states with the most interstate mileage, coming in after California and Texas, which are much bigger states in area.
+\Predicted Summary:
+, and the Mississippi River valley became the most productive farmland in the world . Illinois is a microcosm of the entire United States . Illinois has the fifth largest gross domestic product (GDP), sixth largest population, and 25th largest land area .
+
+GT:
+As of February 2019, the unemployment rate in Illinois reached 4.2%. Illinois's minimum wage will rise to $15 per hour by 2025, making it one of the highest in the nation. Illinois is one of the nation's manufacturing leaders, boasting annual value added productivity by manufacturing of over $107 billion in 2006. As of 2011, Illinois is ranked as the 4th-most productive manufacturing state in the country, behind California, Texas, and Ohio. By the early 2000s, Illinois's economy had moved toward a dependence on high-value-added services, such as financial trading, higher education, law, logistics, and medicine. Illinois is a net importer of fuels for energy, despite large coal resources and some minor oil production. Illinois is ranked second in corn production among US states, and Illinois corn is used to produce 40% of the ethanol consumed in the United States. In 1990, that rate was set at 3%, but in 2010, the General Assembly voted for a temporary increase in the rate to 5%; the new rate went into effect on January 1, 2011; the personal income rate partially sunset on January 1, 2015, to 3.75%, while the corporate income tax fell to 5.25%.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08866995073891626, 0.46153846153846156, 0.1487603305785124, 0.09297520661157026]
+[0.0297029702970297, 0.15789473684210525, 0.05, 0.03125]
+[0.06896551724137931, 0.358974358974359, 0.11570247933884298, 0.07231404958677687]
+
+
+SBERT sim. Score: 0.6606447100639343

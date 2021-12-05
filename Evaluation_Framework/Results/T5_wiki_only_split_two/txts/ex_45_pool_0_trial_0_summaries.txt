@@ -1,0 +1,21 @@
+Document:
+maine
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Historically, Maine ports played a key role in national transportation. Portland Maine's Portland International Jetport was recently expanded, providing the state with increased air traffic from carriers such as JetBlue and Southwest Airlines. Both are served daily by many major airlines to destinations such as New York, Atlanta, and Orlando. Many smaller airports are scattered throughout Maine, serving only general aviation traffic. The Eastport Municipal Airport, for example, is a city-owned public-use airport with 1,200 general aviation aircraft operations each year from single-engine and ultralight aircraft. Interstate 95 (I-95) travels through Maine, as well as its easterly branch I-295 and spurs I-195, I-395 and the unsigned I-495 (the Falmouth Spur). US 2, Maine State Route 6 (SR 6), and SR 9 are often used by truckers and other motorists of the Maritime Provinces en route to other destinations in the United States or as a short cut to Central Canada. The Downeaster passenger train, operated by Amtrak, provides passenger service between Brunswick and Boston's North Station, with stops in Freeport, Portland, Old Orchard Beach, Saco, and Wells. Freight service throughout the state is provided by a handful of regional and shortline carriers: Pan Am Railways (formerly known as Guilford Rail System), which operates the former Boston & Maine and Maine Central railroads; St. Lawrence and Atlantic Railroad; Maine Eastern Railroad; Central Maine and Quebec Railway; and New Brunswick Southern Railway.
+\Predicted Summary:
+the Popham Colony, established by the Plymouth Company in 1607 . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states . Maine is known for its jagged, rocky coastline; low, rolling mountains; heavily forested interior; picturesque waterways .
+
+GT:
+Maine receives passenger jet service at its two largest airports, the Portland International Jetport in Portland, and the Bangor International Airport in Bangor. Essential Air Service also subsidizes service to a number of smaller airports in Maine, bringing small turboprop aircraft to regional airports such as the Augusta State Airport, Hancock County-Bar Harbor Airport, Knox County Regional Airport, and the Northern Maine Regional Airport at Presque Isle. The Eastport Municipal Airport, for example, is a city-owned public-use airport with 1,200 general aviation aircraft operations each year from single-engine and ultralight aircraft. The eastern terminus of the eastern section of US 2 starts in Houlton, near the New Brunswick, Canada border to Rouses Point, New York, at US 11. US 2, Maine State Route 6 (SR 6), and SR 9 are often used by truckers and other motorists of the Maritime Provinces en route to other destinations in the United States or as a short cut to Central Canada. The Downeaster passenger train, operated by Amtrak, provides passenger service between Brunswick and Boston's North Station, with stops in Freeport, Portland, Old Orchard Beach, Saco, and Wells.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09424083769633508, 0.375, 0.1506276150627615, 0.09414225941422595]
+[0.010526315789473684, 0.0425531914893617, 0.016877637130801686, 0.010548523206751056]
+[0.06282722513089005, 0.25, 0.100418410041841, 0.06276150627615062]
+
+
+SBERT sim. Score: 0.308953195810318

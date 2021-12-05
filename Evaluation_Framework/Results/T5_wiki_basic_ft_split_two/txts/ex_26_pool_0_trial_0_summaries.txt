@@ -1,0 +1,21 @@
+Document:
+illinois
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The government of Illinois, under the Constitution of Illinois, has three branches of government: executive, legislative and judicial. The executive branch is split into several statewide elected offices, with the governor as chief executive. The six elected officers are: Governor, Lieutenant Governor, Attorney General, Secretary of State, Comptroller, and Treasurer. It consists of the Supreme Court, Appellate Court, and Circuit Courts. The Supreme Court oversees the administration of the court system. Some localities possess home rule, which allows them to govern themselves to a certain extent.
+\Predicted Summary:
+,, and,, Illinois, and the Mississippi River, the Ohio River, and the Wabash River, are the major roads for the state . Illinois has the fifth largest population (GDP), the sixth largest population, and the 25th largest land area of all states . Illinois has a diverse economic base, and is a major transportation hub .
+
+GT:
+The government of Illinois, under the Constitution of Illinois, has three branches of government: executive, legislative and judicial. The Illinois General Assembly is the state legislature, composed of the 118-member Illinois House of Representatives and the 59-member Illinois Senatorte. The members of the General Assembly are elected at the beginning of each even-numbered year. The executive branch is composed of six elected officers and their offices as well as numerous other departments. The Judiciary of Illinois is the unified court system of Illinois. It consists of the Supreme Court, Appellate Court, and Circuit Courts. Illinois is a Democratic stronghold.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.20588235294117646, 0.40384615384615385, 0.2727272727272727, 0.17045454545454541]
+[0.039603960396039604, 0.0784313725490196, 0.05263157894736842, 0.03289473684210526]
+[0.16666666666666666, 0.3269230769230769, 0.22077922077922077, 0.13798701298701296]
+
+
+SBERT sim. Score: 0.4737653136253357

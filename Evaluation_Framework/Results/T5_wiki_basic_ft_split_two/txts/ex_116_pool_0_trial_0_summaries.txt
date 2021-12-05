@@ -1,0 +1,21 @@
+Document:
+maine
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Most of them are of Canadian origin, but in some cases have been living there since prior to the American Revolutionary War. Commercial fishing, once a mainstay of the state's economy, maintains a presence, particularly lobstering and groundfishing. The state is a popular destination for sport hunting (particularly deer, moose and bear), sport fishing, snowmobiling, skiing, boating, camping and hiking, among other activities. Maine has a long-standing tradition of being home to many shipbuilding companies. There are many such population clusters throughout Maine, but some examples from the municipalities appearing in the above listing are: The state is a major producer of potatoes, wild blueberries, apples, maple syrup and sweet corn. Maine has many vegetable farms and other small, diversified farms. Since the 1980s, the state has gotten a reputation for its local food and restaurant meals.
+\Predicted Summary:
+Maine, Maine, Maine, and the Northeastern United States. Maine is the 12th-smallest by area, the 9th-least populous, and 13th-least densely populated of the 50 states. Maine is the most populous state, the 9th-least populous, and the 13th-least densely populated of the 50 states.
+
+GT:
+The state is a major producer of potatoes, wild blueberries, apples, maple syrup and sweet corn. Dairy products and chicken's eggs are other major industries. Maine has many vegetable farms and other small, diversified farms. In the 1960s and 1970s, the book "Living the Good Life" by Helen Nearing and Scott Nearing caused many young people to move to Maine and engage in small-scale farming and homesteading. Maine has a smaller number of commodity farms and confined animal feeding operations. Maine is home to the Maine Organic Farmers and Gardeners Association and had 535 certified organic farms in 2019. Since the 1980s, the state has gotten a reputation for its local food and restaurant meals. Portland was named Bon Appetit magazine's Restaurant City of the Year in 2018.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17557251908396945, 0.4791666666666667, 0.2569832402234637, 0.1606145251396648]
+[0.023076923076923078, 0.06382978723404255, 0.03389830508474576, 0.021186440677966104]
+[0.10687022900763359, 0.2916666666666667, 0.1564245810055866, 0.09776536312849163]
+
+
+SBERT sim. Score: 0.4505513310432434

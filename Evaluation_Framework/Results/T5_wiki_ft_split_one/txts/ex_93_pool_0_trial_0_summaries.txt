@@ -1,0 +1,21 @@
+Document:
+rhode_island
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The charter apportioned legislative seats equally among the state's towns, over-representing rural areas and under-representing the growing industrial centers. Later that year, the legislature drafted a state constitution, removing property requirements for American-born citizens but keeping them in place for immigrants, and retaining urban under-representation in the legislature. The state has two distinct natural regions. The state's current governor is Gina Raimondo (D), and the lieutenant governor is Daniel McKee (D). See congressional districts map. Rhode Island is one of a few states that do not have an official governor's residence. See List of Rhode Island Governors. The state legislature is the Rhode Island General Assembly, consisting of the 75-member House of Representatives and the 38-member Senatorte. Both houses of the bicameral body are currently dominated by the Democratic Party; the presence of the Republican Party is minor in the state government, with Republicans holding a handful of seats in both the Senatorte and House of Representatives. Federally, Rhode Island is a reliably Democratic state during presidential elections, usually supporting the Democratic presidential nominee. Rhode Island is divided into five counties but it has no county governments. The entire state is divided into municipalities, which handle all local government affairs. The state's 18 largest municipalities ranked by population are : In 2010, the Rhode Island General Assembly passed a new state income tax structure that was then signed into law on June 9, 2010, by Governor Carcieri. Rhode Island has been the first in a number of initiatives.
+\Predicted Summary:
+, Rhode Island, was the first of the Thirteen Colonies to renounce its allegiance to the British Crown . Rhode Island is the smallest US state by area and the seventh least populous (1,059,361 as of 2019) but is also the second most densely populated behind New Jersey . the state's official name is "The Ocean State", a reference to the large bays and inlets that amount to about 14 percent of its total area .
+
+GT:
+The capital of Rhode Island is Providence. Rhode Island is one of a few states that do not have an official governor's residence. The state legislature is the Rhode Island General Assembly, consisting of the 75-member House of Representatives and the 38-member Senatorte. Both houses of the bicameral body are currently dominated by the Democratic Party; the presence of the Republican Party is minor in the state government, with Republicans holding a handful of seats in both the Senatorte and House of Representatives. Rhode Island is divided into five counties but it has no county governments. The entire state is divided into municipalities, which handle all local government affairs.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.26785714285714285, 0.4, 0.32085561497326204, 0.20053475935828874]
+[0.06306306306306306, 0.0945945945945946, 0.07567567567567568, 0.0472972972972973]
+[0.17857142857142858, 0.26666666666666666, 0.21390374331550802, 0.13368983957219252]
+
+
+SBERT sim. Score: 0.5961547493934631

@@ -1,0 +1,21 @@
+Document:
+new_hampshire
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+The state's nickname, "The Granite State", refers to its extensive granite formations and quarries. Manufacturing centers such as Manchester, Nashua and Berlin were hit hard in the 1930s–1940s as major manufacturing industries left New England and moved to the Southern United States or overseas, reflecting nationwide trends. In the 1950s and 1960s, defense contractors moved into many of the former mills, such as Sanders Associates in Nashua; the population of southern New Hampshire surged beginning in the 1980s as major highways connected the region to Greater Boston and established several bedroom communities in the state. It is the state with the highest percentage of timberland area in the country. Much of the state, in particular the White Mountains, is covered by the conifers and northern hardwoods of the New England-Acadian forests. The northern third of the state is locally referred to as the "north country" or "north of the notches", in reference to White Mountain passes that channel traffic. Winters are cold and snowy throughout the state, and especially severe in the northern and mountainous areas. The northern parts of the state produced lumber, and the mountains provided tourist attractions. The media gave New Hampshire and Iowa about half of all the attention paid to all states in the primary process, magnifying the state's decision powers and spurring repeated efforts by out-of-state politicians to change the rules. The four counties covering these two areas account for 72% of the state population, and one (Hillsborough) has nearly 30% of the state population, as well as the two most populous communities, Manchester and Nashua. The Democratic Party and the Republican Party are the two largest parties in the state. Tourist railroads include the Conway Scenic Railroad, Hobo-Winnipesaukee Railroad, and the Mount Washington Cog Railway. The following sports teams are based in New Hampshire: Other motor racing venues include Star Speedway and New England Dragway in Epping, Lee Speedway in Lee, Twin State Speedway in Claremont, Monadnock Speedway in Winchester and Canaan Fair Speedway in Canaan. Annually since 2002, high-school statewide all-stars compete against Vermont in ten sports during "Twin State" playoffs. The Barnstormers Theatre in Tamworth, founded in 1931, is one of the longest-running professional summer theaters in the United States.
+\Predicted Summary:
+New Hampshire is a state in the Northeastern United States region . New Hampshire is the 5th most populous state by area and the largest city . New Hampshire is the largest city in the nation . New Hampshire is the largest city of the country .
+
+GT:
+In the spring, New Hampshire's many sap houses hold sugaring-off open houses. In summer and early autumn, New Hampshire is home to many county fairs, the largest being the Hopkinton State Fair, in Contoocook. New Hampshire's Lakes Region is home to many summer camps, especially around Lake Winnipesaukee, and is a popular tourist destination. The Barnstormers Theatre in Tamworth, founded in 1931, is one of the longest-running professional summer theaters in the United States. In September, New Hampshire is host to the New Hampshire Highland Games. New Hampshire has also registered an official tartan with the proper authorities in Scotland, used to make kilts worn by the Lincoln Police Department while its officers serve during the games. In the winter, New Hampshire's ski areas and snowmobile trails attract visitors from a wide area. After the lakes freeze over they become dotted with ice fishing ice houses, known locally as bobhouses. Funspot, the world's largest video arcade (now termed a museum), is in Laconia.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1893491124260355, 0.7441860465116279, 0.3018867924528302, 0.18867924528301885]
+[0.08333333333333333, 0.3333333333333333, 0.13333333333333333, 0.08333333333333333]
+[0.1242603550295858, 0.4883720930232558, 0.19811320754716982, 0.12382075471698113]
+
+
+SBERT sim. Score: 0.5138709545135498

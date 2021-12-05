@@ -1,0 +1,21 @@
+Document:
+idaho
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+It borders the state of Montana to the east and northeast, Wyoming to the east, Nevada and Utah to the south, and Washington and Oregon to the west. Industries significant for the state economy include manufacturing, agriculture, mining, forestry, and tourism. The states of Washington and Oregon are to the west, Nevada and Utah are to the south, and Montana and Wyoming are to the east. The state has snow-capped mountain ranges, rapids, vast lakes and steep canyons. The new territory included present-day Idaho, Montana, and most of Wyoming. In recent years, Idaho has expanded its commercial base as a tourism and agricultural state to include science and technology industries. Science and technology have become the largest single economic center (over 25% of the state's total revenue) within the state and are greater than agriculture, forestry and mining combined. Other metropolitan areas in order of size are Coeur d'Alene, Idaho Falls, Pocatello and Lewiston. All three varieties of wheat, dark northern spring, hard red, and soft white are grown in the state. Outdoor recreation is a common example ranging from numerous snowmobile and downhill and cross-country ski areas in winter to the evolution of Lewiston as a retirement community based on mild winters, dry, year-round climate and one of the lowest median wind velocities anywhere, combined with the rivers for a wide variety of activities.
+\Predicted Summary:
+is the 14th largest, 12th most populous and 7th most densely populated of the US states . Idaho is a state in the Pacific Northwest region of the United States . it is a state disputed between the United States and the British Empire .
+
+GT:
+Outdoor recreation is a common example ranging from numerous snowmobile and downhill and cross-country ski areas in winter to the evolution of Lewiston as a retirement community based on mild winters, dry, year-round climate and one of the lowest median wind velocities anywhere, combined with the rivers for a wide variety of activities. The Idaho State Board of Education oversees three comprehensive universities. The University of Idaho in Moscow was the first university in the state (founded in 1889). Idaho has four regional community colleges: North Idaho College in Coeur d'Alene; College of Southern Idaho in Twin Falls; College of Western Idaho in Nampa, which opened in 2009, College of Eastern Idaho in Idaho Falls, which transitioned from a technical college in 2017. Private institutions in Idaho are Boise Bible College, affiliated with congregations of the Christian churches and churches of Christ; Brigham Young University-Idaho in Rexburg, which is affiliated with The Church of Jesus Christ of Latter-day Saints and a sister college to Brigham Young University; The College of Idaho in Caldwell, which still maintains a loose affiliation with the Presbyterian Church; Northwest Nazarene University in Nampa; and New Saint Andrews College in Moscow, of reformed Christian theological background. Central Idaho is home to one of North America's oldest ski resorts, Sun Valley, where the world's first chairlift was installed in 1936. Other noted outdoor sites include Hells Canyon, the Salmon River, and its embarkation point of Riggins. The Boise Open professional golf tournament has been played at Hillcrest Country Club since 1990 as part of the Web.com Tour.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07835820895522388, 0.5, 0.13548387096774192, 0.0846774193548387]
+[0.018726591760299626, 0.12195121951219512, 0.03246753246753247, 0.020292207792207795]
+[0.06343283582089553, 0.40476190476190477, 0.10967741935483871, 0.0685483870967742]
+
+
+SBERT sim. Score: 0.48592251539230347

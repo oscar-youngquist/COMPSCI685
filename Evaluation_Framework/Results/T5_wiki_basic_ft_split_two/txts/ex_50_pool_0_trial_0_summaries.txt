@@ -1,0 +1,21 @@
+Document:
+maine
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Most of them are of Canadian origin, but in some cases have been living there since prior to the American Revolutionary War. Over a quarter of the population of Lewiston, Waterville, and Biddeford are Franco-American. Commercial fishing, once a mainstay of the state's economy, maintains a presence, particularly lobstering and groundfishing. Tourism and outdoor recreation play a major and increasingly important role in Maine's economy. The state is a popular destination for sport hunting (particularly deer, moose and bear), sport fishing, snowmobiling, skiing, boating, camping and hiking, among other activities. There are many such population clusters throughout Maine, but some examples from the municipalities appearing in the above listing are: There are also branch campuses in Augusta, Farmington, Fort Kent, Machias, and Presque Isle. The state is a major producer of potatoes, wild blueberries, apples, maple syrup and sweet corn. Since the 1980s, the state has gotten a reputation for its local food and restaurant meals.
+\Predicted Summary:
+Maine was established in 1612 on Saint Croix Island, and the first European settlement in the area was by the French in 1604 on Saint Croix Island . Maine is the 12th-smallest state in the northeastern United States, and the 13th-least densely populated . Maine is known for its jagged, rocky coastline; low, rolling mountains; heavily forested interior; and its seafood cuisine, especially lobster and clams . Maine is the 13th-least denselyly populated
+
+GT:
+Maine has the highest percentage of French Americans of any state. Most of them are of Canadian origin, but in some cases have been living there since prior to the American Revolutionary War. There are particularly high concentrations in the northern part of Maine in Aroostook County, which is part of a cultural region known as Acadia that goes over the border into New Brunswick. The upper Saint John River valley area was once part of the so-called Republic of Madawaska, before the frontier was decided in the Webster-Ashburton Treaty of 1842. Over a quarter of the population of Lewiston, Waterville, and Biddeford are Franco-American. Most of the residents of the Mid Coast and Down East sections are chiefly of British heritage. Smaller numbers of various other groups, including Irish, Italian and Polish, have settled throughout the state since the late 19th and early 20th century immigration waves.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17880794701986755, 0.3698630136986301, 0.24107142857142858, 0.15066964285714288]
+[0.02, 0.041666666666666664, 0.02702702702702703, 0.016891891891891893]
+[0.10596026490066225, 0.2191780821917808, 0.14285714285714288, 0.0892857142857143]
+
+
+SBERT sim. Score: 0.6023556590080261

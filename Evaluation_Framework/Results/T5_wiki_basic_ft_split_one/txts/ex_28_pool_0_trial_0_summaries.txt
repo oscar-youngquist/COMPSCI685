@@ -1,0 +1,21 @@
+Document:
+idaho
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+The United States Forest Service holds about 38% of Idaho's land, the highest proportion of any state. Industries significant for the state economy include manufacturing, agriculture, mining, forestry, and tourism. Idaho's agricultural sector supplies many products, but the state is best known for its potato crop, which comprises around one-third of the nationwide yield. In recent years, Idaho has expanded its commercial base as a tourism and agricultural state to include science and technology industries. Science and technology have become the largest single economic center (over 25% of the state's total revenue) within the state and are greater than agriculture, forestry and mining combined. This made Idaho the tenth fastest-growing state after District of Columbia (+16.74%), Utah (+14.37%), Texas (+14.14%), Florida (+13.29%), Colorado (+13.25%), North Dakota (+13.01%), Nevada (+12.36%), Arizona (+12.20%) and Washington. From 2017 to 2018, Idaho grew the second-fastest, surpassed only by Nevada. It accounts for over 25% of the state's revenue and over 70% of the state's exports. Idaho's industrial economy is growing, with high-tech products leading the way. In 2014, Idaho emerged as the second most small business friendly state, ranking behind Utah, based on a study drawing upon data from more than 12,000 small business owners. The state is rich in renewable energy resources but has limited fossil fuel resources. In addition, Idaho also has the 6th fastest growing population in the United States with the population expected to increase by 31% from 2008 to 2030.
+\Predicted Summary:
+( (listen) is a state in the Pacific Northwest region of the United States . Idaho is the 14th largest, the 12th least populous and 7th least densely populated state . Idaho borders the state's northeast, the Snake River Plain and the Snake River Plain . Idaho is the most populated state in the 50 states .
+
+GT:
+The United States Census Bureau estimates Idaho's population was 1,787,065 on July 1, 2018, a 14% increase since 2010. This made Idaho the tenth fastest-growing state after District of Columbia (+16.74%), Utah (+14.37%), Texas (+14.14%), Florida (+13.29%), Colorado (+13.25%), North Dakota (+13.01%), Nevada (+12.36%), Arizona (+12.20%) and Washington. Gross state product for 2015 was $64.9 billion, and the per capita income based on 2015 GDP and 2015 population estimates was $39,100. Idaho is an important agricultural state, producing nearly one-third of the potatoes grown in the United States. Outdoor recreation is a common example ranging from numerous snowmobile and downhill and cross-country ski areas in winter to the evolution of Lewiston as a retirement community based on mild winters, dry, year-round climate and one of the lowest median wind velocities anywhere, combined with the rivers for a wide variety of activities. Other examples would be ATK Corporation, which operates three ammunition and ammunition components plants in Lewiston. Today, Idaho's largest industry is the science and technology sector. In 2014, Idaho emerged as the second most small business friendly state, ranking behind Utah, based on a study drawing upon data from more than 12,000 small business owners. Idaho has a state gambling lottery which contributed $333.5 million in payments to all Idaho public schools and Idaho higher education from 1990 to 2006. As of 2017, the primary energy source in Idaho was hydropower, and the energy companies had a total retail sales of 23,793,790 megawatthours (MWh).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12734082397003746, 0.6415094339622641, 0.2125, 0.1328125]
+[0.03383458646616541, 0.17307692307692307, 0.05660377358490566, 0.03537735849056604]
+[0.08239700374531835, 0.41509433962264153, 0.13749999999999998, 0.08593749999999999]
+
+
+SBERT sim. Score: 0.6505456566810608

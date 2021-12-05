@@ -1,0 +1,21 @@
+Document:
+illinois
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all US states. Illinois has been noted as a microcosm of the entire United States. The remaining population lives in the smaller cities and rural areas that dot the state's plains. Springfield, the state's capital, comes in as sixth-most populous with 117,352 residents. Illinois also produces wine, and the state is home to two American viticultural areas. As of 2011, Illinois is ranked as the 4th-most productive manufacturing state in the country, behind California, Texas, and Ohio. Many areas in the state are actually located in two school districts—one for high school, the other for elementary and middle schools. Illinois has the distinction of having the most primary (two-digit) interstates pass through it among all the 50 states with 13. Illinois also ranks third among the fifty states with the most interstate mileage, coming in after California and Texas, which are much bigger states in area.
+\Predicted Summary:
+, and the Great Lakes, became the capital of Illinois in the 1880s . Illinois has been a bellwether in social and cultural terms and, through the 1980s, in politics . Illinois has been a bellwether both in social and cultural terms and, through the 1980s, in politics .
+
+GT:
+On August 28, 2017, Illinois Governor Bruce Rauner signed a bill into law that prohibited state and local police from arresting anyone solely due to their immigration status or due to federal detainers. Illinois's eastern border with Indiana consists of a north–south line at 87° 31′ 30″ west longitude in Lake Michigan at the north, to the Wabash River in the south above Post Vincennes. Charles Mound, located in the Driftless region, has the state's highest natural elevation above sea level at 1,235 feet (376 m). Northern Illinois is dominated by Chicago metropolitan area, or Chicagoland, which is the city of Chicago and its suburbs, and the adjoining exurban area into which the metropolis is expanding. Chicago is the largest city in the state and the third-most populous city in the United States, with its 2010 population of 2,695,598. Largely concentrated in the Chicago metropolitan area, followers of the Muslim, Baháʼí, and Jewish religions all call the state home. The dollar gross state product for Illinois was estimated to be US$909 billion in 2019. Illinois's minimum wage will rise to $15 per hour by 2025, making it one of the highest in the nation. Illinois has seen growing interest in the use of wind power for electrical generation. Illinois is ranked second in corn production among US states, and Illinois corn is used to produce 40% of the ethanol consumed in the United States. Several museums in Chicago are ranked as some of the best in the world. Illinois is a leader in music education, having hosted the Midwest Clinic International Band and Orchestra Conference since 1946, as well being home to the Illinois Music Educators Association (IMEA), one of the largest professional music educator's organizations in the country. The Illinois state parks system began in 1908 with what is now Fort Massac State Park, becoming the first park in a system encompassing more than 60 parks and about the same number of recreational and wildlife areas. The Interstate Highways in Illinois are all segments of the Interstate Highway System that are owned and maintained by the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0670391061452514, 0.5333333333333333, 0.11910669975186103, 0.07444168734491313]
+[0.008403361344537815, 0.06818181818181818, 0.014962593516209476, 0.009351620947630923]
+[0.055865921787709494, 0.4444444444444444, 0.09925558312655086, 0.06203473945409428]
+
+
+SBERT sim. Score: 0.4491577446460724

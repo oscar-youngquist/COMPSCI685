@@ -1,0 +1,21 @@
+Document:
+rhode_island
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The charter apportioned legislative seats equally among the state's towns, over-representing rural areas and under-representing the growing industrial centers. The state's current governor is Gina Raimondo (D), and the lieutenant governor is Daniel McKee (D). Rhode Island is one of a few states that do not have an official governor's residence. See List of Rhode Island Governors. The state legislature is the Rhode Island General Assembly, consisting of the 75-member House of Representatives and the 38-member Senatorte. Both houses of the bicameral body are currently dominated by the Democratic Party; the presence of the Republican Party is minor in the state government, with Republicans holding a handful of seats in both the Senatorte and House of Representatives. Rhode Island is divided into five counties but it has no county governments. The entire state is divided into municipalities, which handle all local government affairs.
+\Predicted Summary:
+, Rhode Island, was the first of the Thirteen Colonies to renounce its allegiance to the British Crown . Rhode Island is the smallest US state by area and the seventh least populous (1,059,361 as of 2019) but is also the second most densely populated behind New Jersey . the state's official name is "The Ocean State", a reference to the large bays and inlets that amount to about 14 percent of its total area .
+
+GT:
+The state's current governor is Gina Raimondo (D), and the lieutenant governor is Daniel McKee (D). Raimondo became Rhode Island's first female governor with a plurality of the vote in the November 2014 state elections. Its United States senators are Jack Reed (D) and Sheldon Whitehouse (D). Rhode Island's two United States representatives are David Cicilline (D-1) and Jim Langevin (D-2). Rhode Island is one of a few states that do not have an official governor's residence. The state legislature is the Rhode Island General Assembly, consisting of the 75-member House of Representatives and the 38-member Senatorte. Both houses of the bicameral body are currently dominated by the Democratic Party; the presence of the Republican Party is minor in the state government, with Republicans holding a handful of seats in both the Senatorte and House of Representatives.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2206896551724138, 0.4266666666666667, 0.2909090909090909, 0.18181818181818182]
+[0.05555555555555555, 0.10810810810810811, 0.07339449541284404, 0.045871559633027525]
+[0.15862068965517243, 0.30666666666666664, 0.2090909090909091, 0.1306818181818182]
+
+
+SBERT sim. Score: 0.4999453127384186

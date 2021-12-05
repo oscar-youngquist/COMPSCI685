@@ -1,0 +1,21 @@
+Document:
+maine
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The Maine Constitution structures Maine's state government, composed of three co-equal branches—the executive, legislative, and judicial branches. The state of Maine also has three Constitutional Officers (the Secretary of State, the State Treasurer, and the State Attorney General) and one Statutory Officer (the State Auditor). The legislative branch is the Maine Legislature, a bicameral body composed of the Maine House of Representatives, with 151 members, and the Maine Senatorte, with 35 members. The executive branch is responsible for the execution of the laws created by the Legislature and is headed by the Governor of Maine (currently Janet Mills). They captured the governor's office as well as majorities in both chambers of the state legislature for the first time since the early 1970s. Administration, services, licensing, and ordinances are handled by the state government as well as by respective county governments who have townships within each county's bounds.
+\Predicted Summary:
+, Maine, is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states . Maine is the 12th-smallest by area, and the 9th-least populous, and the 13th-least densely populated of the 50 US states . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the states .
+
+GT:
+The Maine Constitution structures Maine's state government, composed of three co-equal branches—the executive, legislative, and judicial branches. The state of Maine also has three Constitutional Officers (the Secretary of State, the State Treasurer, and the State Attorney General) and one Statutory Officer (the State Auditor). The legislative branch is the Maine Legislature, a bicameral body composed of the Maine House of Representatives, with 151 members, and the Maine Senatorte, with 35 members. The executive branch is responsible for the execution of the laws created by the Legislature and is headed by the Governor of Maine (currently Janet Mills). The Governor is elected every four years The judicial branch is responsible for interpreting state laws.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2564102564102564, 0.46153846153846156, 0.32967032967032966, 0.20604395604395606]
+[0.05172413793103448, 0.09375, 0.06666666666666667, 0.04166666666666667]
+[0.20512820512820512, 0.36923076923076925, 0.26373626373626374, 0.16483516483516483]
+
+
+SBERT sim. Score: 0.4339119791984558

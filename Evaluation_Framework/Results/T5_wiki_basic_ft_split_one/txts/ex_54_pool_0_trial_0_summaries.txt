@@ -1,0 +1,21 @@
+Document:
+florida
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+The state's close proximity to the ocean influences many aspects of Florida culture and daily life. This is the third-most diverse state in the union, behind California and Texas, both larger states. Most of this is in Bone Valley. Many of these were of English or Scotch-Irish descent; however, their families have lived in the state for so long they choose to identify as having "American" ancestry or do not know their ancestry. Those of English and Irish ancestry are present in large numbers in all the urban/suburban areas across the state. Like whites in most other states of the southern US, they descend mainly from English and Scots-Irish settlers, as well as some other British American settlers. Conversely, large numbers of northern whites moved to the state. Some sections of the state feature architectural styles including Spanish revival, Florida vernacular, and Mediterranean Revival.
+\Predicted Summary:
+Florida is the second largest state in the world, with a population of over 21 million . Florida is the seventh-largest of the 50 states, with a population of more than one million . Florida is the second-largest state in the world, with its population growth .
+
+GT:
+Today, Florida is distinctive for its large Cuban expatriate community and high population growth, as well as for its increasing environmental issues. The state's close proximity to the ocean influences many aspects of Florida culture and daily life. Florida is a reflection of influences and multiple inheritance; African, European, indigenous, Latino, and Asian heritages can be found in the architecture and cuisine. Florida has attracted many writers such as Marjorie Kinnan Rawlings, Ernest Hemingway and Tennessee Williams, and continues to attract celebrities and athletes. Twenty percent of the population speak Spanish as their first language. Twenty-seven percent of Florida's population reports speaking a mother language other than English, and more than 200 first languages other than English are spoken at home in the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2047244094488189, 0.5652173913043478, 0.30057803468208094, 0.18786127167630057]
+[0.05555555555555555, 0.15555555555555556, 0.08187134502923976, 0.05116959064327486]
+[0.13385826771653545, 0.3695652173913043, 0.19653179190751446, 0.12283236994219654]
+
+
+SBERT sim. Score: 0.5682777166366577

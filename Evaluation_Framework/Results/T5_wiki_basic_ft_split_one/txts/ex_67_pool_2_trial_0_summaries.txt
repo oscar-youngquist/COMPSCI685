@@ -1,0 +1,21 @@
+Document:
+utah
+
+Intent:
+How is the government structured in this state?
+
+Input:
+A steady stream of governors appointed by the president quit the position, often citing the traditions of their supposed territorial government. Like most of the western and southwestern states, the federal government owns much of the land in Utah. Utah government is divided into three branches: executive, legislative, and judicial. The governor is elected for a four-year term. The Utah State Legislature consists of a Senatorte and a House of Representatives. State senators serve four-year terms and representatives two-year terms. The Utah Legislature meets each year in January for an annual 45-day session. It consists of five justices, who are appointed by the governor, and then subject to retention election. All justices and judges, like those on the Utah Supreme Court, are subject to retention election after appointment. Utah is divided into political jurisdictions designated as counties.
+\Predicted Summary:
+,-taw, and of the, the Mormons,, Utah, Utah is the 13th-most-populated and 11th-least-densely populated. Utah is the only state where a majority of the population belongs to a single church. Utah is the state in the western half of the state, and is the only state in the state .
+
+GT:
+Utah government is divided into three branches: executive, legislative, and judicial. The governor is elected for a four-year term. The Utah State Legislature consists of a Senatorte and a House of Representatives. State senators serve four-year terms and representatives two-year terms. The Utah Legislature meets each year in January for an annual 45-day session. The Utah Supreme Court is the court of last resort in Utah. It consists of five justices, who are appointed by the governor, and then subject to retention election. The Utah Court of Appeals handles cases from the trial courts. Trial level courts are the district courts and justice courts. All justices and judges, like those on the Utah Supreme Court, are subject to retention election after appointment. Utah is divided into political jurisdictions designated as counties.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.22962962962962963, 0.5849056603773585, 0.32978723404255317, 0.20611702127659573]
+[0.014925373134328358, 0.038461538461538464, 0.02150537634408602, 0.013440860215053762]
+[0.13333333333333333, 0.33962264150943394, 0.19148936170212763, 0.11968085106382978]
+
+
+SBERT sim. Score: 0.44021642208099365

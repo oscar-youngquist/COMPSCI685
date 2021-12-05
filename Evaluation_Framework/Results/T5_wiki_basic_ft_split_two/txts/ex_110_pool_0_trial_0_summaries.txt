@@ -1,0 +1,21 @@
+Document:
+new_hampshire
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It is the state with the highest percentage of timberland area in the country. Much of the state, in particular the White Mountains, is covered by the conifers and northern hardwoods of the New England-Acadian forests. It contains less than 5% of the state's population, suffers relatively high poverty, and is steadily losing population as the logging and paper industries decline. Winters are cold and snowy throughout the state, and especially severe in the northern and mountainous areas. The northern parts of the state produced lumber, and the mountains provided tourist attractions. The state's largest economic sectors in 2018, based on contribution to GDP, are: 15% real estate and rental and leasing; 13% professional business services; 12% manufacturing; 10% government and government services; and 9% health care and social services. New Hampshire has potential for renewable energies like wind power, hydroelectricity, and wood fuel. Efforts to diversify the state's general economy have been ongoing. Tourist railroads include the Conway Scenic Railroad, Hobo-Winnipesaukee Railroad, and the Mount Washington Cog Railway.
+\Predicted Summary:
+New Hampshire is a state in the Northeastern United States region . New Hampshire is the 5th smallest by area and the 10th least populous state . Concord is the state's largest city, with a population of 24.5% .
+
+GT:
+With some of the highest ski mountains on the East Coast, New Hampshire's major recreational attractions include skiing, snowmobiling, and other winter sports, hiking and mountaineering (Mount Monadnock in the state's southwestern corner is among the most climbed mountains in the US), observing the fall foliage, summer cottages along many lakes and the seacoast, motor sports at the New Hampshire Motor Speedway, and Motorcycle Week, a popular motorcycle rally held in Weirs Beach in Laconia in June. The White Mountain National Forest links the Vermont and Maine portions of the Appalachian Trail, and has the Mount Washington Auto Road, where visitors may drive to the top of 6,288-foot (1,917 m) Mount Washington. According to the Energy Information Administration, New Hampshire's energy consumption and per capita energy consumption are among the lowest in the country. In 2016 and 2017, New Hampshire obtained more of its electricity generation from wind power than coal-fired power plants. Approximately 32% of New Hampshire's electricity consumption came from renewable resources (including nuclear, hydroelectric, wind, and other renewable resources). The state has no general sales tax and no personal state income tax (the state does tax, at a five percent rate, income from dividends and interest), and the legislature has exercised fiscal restraint. However, the state's overall tax burden is relatively low; in 2010 New Hampshire ranked 44th highest among states in combined average state and local tax burden. In 2008 the state tied with Massachusetts as having the highest scores on the SAT and ACT standardized tests given to high school students.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07924528301886792, 0.5526315789473685, 0.1386138613861386, 0.08663366336633663]
+[0.026515151515151516, 0.1891891891891892, 0.04651162790697675, 0.02906976744186046]
+[0.06037735849056604, 0.42105263157894735, 0.10561056105610561, 0.06600660066006601]
+
+
+SBERT sim. Score: 0.5214305520057678

@@ -1,0 +1,21 @@
+Document:
+north_dakota
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It is the base of the state's great agricultural wealth. North Dakota's economy is based more heavily on farming than the economies of most other states. Many of the state's merchants also rely on agriculture. This makes North Dakota the US state with the largest percentage in population growth since 2011. The state has recorded the highest personal income growth among all states for the sixth time since 2007. The share of people in the state employed in agriculture is comparatively high: as of 2008, only two to three percent of the population of the United States is directly employed in agriculture. The Tax Foundation ranks North Dakota as the state with the 20th most "business friendly" tax climate in the nation.
+\Predicted Summary:
+a shale rock formation, which lies beneath the northwestern part of the state . North Dakota is based more heavily on farming than the economies of most other states . many of the state's merchants also rely on agriculture. North Dakota is based on agriculture. North Dakota is the nation's second largest in area, the fourth most populous, and the fourth most sparsely populated of the 50 states .
+
+GT:
+Agriculture is North Dakota's largest industry, although petroleum, food processing, and technology are also major industries. According to Gallup data, North Dakota led the US in job creation in 2013 and has done so since 2009. As of December 2019, the state's unemployment rate is among the lowest in the nation at 2.4 percent. At end of 2010, the state per capita income was ranked 17th in the nation, the biggest increase of any state in a decade from rank 38th. North Dakota has six level-II trauma centers, 44 hospitals, 52 rural health clinics, and 80 nursing homes. North Dakota expanded Medicaid in 2014, and its health insurance exchange is the federal site, HealthCare.gov. North Dakota law requires pharmacies, other than hospital dispensaries and pre-existing stores, to be majority-owned by pharmacists. The North Dakota Department of Emergency Services provides 24/7 communication and coordination for more than 50 agencies.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.23717948717948717, 0.5441176470588235, 0.33035714285714285, 0.2064732142857143]
+[0.05161290322580645, 0.11940298507462686, 0.07207207207207207, 0.04504504504504504]
+[0.1282051282051282, 0.29411764705882354, 0.17857142857142858, 0.11160714285714285]
+
+
+SBERT sim. Score: 0.5655705332756042

@@ -1,0 +1,21 @@
+Document:
+rhode_island
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+RIPTA currently operates 58 routes, including daytime trolley service (using trolley-style replica buses) in Providence and Newport. Private ferry services also link several Rhode Island communities with ports in Connecticut, Massachusetts, and New York. The state hopes to extend the MBTA line to Kingston and Westerly, as well as explore the possibility of extending Connecticut's Shore Line East to T.F. Interstate 95 (I-95) runs southwest to northeast across the state, linking Rhode Island with other states along the East Coast. I-195 provides a limited-access highway connection from Providence (and Connecticut and New York via I-95) to Cape Cod. Initially built as the easternmost link in the (now cancelled) extension of I-84 from Hartford, Connecticut, a portion of US Route 6 (US 6) through northern Rhode Island is limited-access and links I-295 with downtown Providence. Several Rhode Island highways extend the state's limited-access highway network. Route 4 is a major north–south freeway linking Providence and Warwick (via I-95) with suburban and beach communities along Narragansett Bay. In the lobby of T. F. Green, the state's main airport, is a large life-sized sailboat, and the state's license plates depict an ocean wave or a sailboat.
+\Predicted Summary:
+, Rhode Island, was the first of the Thirteen Colonies to renounce its allegiance to the British Crown . Rhode Island is the smallest US state by area and the seventh least populous (1,059,361 as of 2019) but is also the second most densely populated behind New Jersey . the state's official name is "The Ocean State", a reference to the large bays and inlets that amount to about 14 percent of its total area .
+
+GT:
+The Rhode Island Public Transit Authority (RIPTA) operates statewide intra- and intercity bus transport from its hubs at Kennedy Plaza in Providence, Pawtucket, and Newport. RIPTA bus routes serve 38 of Rhode Island's 39 cities and towns. From 2000 through 2008, RIPTA offered seasonal ferry service linking Providence and Newport (already connected by highway) funded by grant money from the United States Department of Transportation. The service was resumed in 2016 and has been successful. The privately run Block Island Ferry links Block Island with Newport and Narragansett with traditional and fast-ferry service, while the Prudence Island Ferry connects Bristol with Prudence Island. Private ferry services also link several Rhode Island communities with ports in Connecticut, Massachusetts, and New York. The Vineyard Fast Ferry offers seasonal service to Martha's Vineyard from Quonset Point with bus and train connections to Providence, Boston, and New York. The MBTA Commuter Rail's Providence/Stoughton Line links Providence and T. F. Green Airport with Boston. Amtrak's Acela Express stops at Providence Station (the only Acela stop in Rhode Island), linking Providence to other cities in the Northeast Corridor. Amtrak's Northeast Regional service makes stops at Providence Station, Kingston, and Westerly. Rhode Island's primary airport for passenger and cargo transport is T. F. Green Airport in Warwick, though most Rhode Islanders who wish to travel internationally on direct flights and those who seek a greater availability of flights and destinations often fly through Logan International Airport in Boston. Interstate 95 (I-95) runs southwest to northeast across the state, linking Rhode Island with other states along the East Coast. Several Rhode Island highways extend the state's limited-access highway network. The East Bay Bike Path stretches from Providence to Bristol along the eastern shore of Narragansett Bay, while the Blackstone River Bikeway will eventually link Providence and Worcester.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11290322580645161, 0.4666666666666667, 0.18181818181818182, 0.11363636363636363]
+[0.012944983818770227, 0.05405405405405406, 0.02088772845953003, 0.013054830287206267]
+[0.07096774193548387, 0.29333333333333333, 0.11428571428571427, 0.07142857142857142]
+
+
+SBERT sim. Score: 0.36982548236846924

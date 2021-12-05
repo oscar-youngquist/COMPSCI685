@@ -1,0 +1,21 @@
+Document:
+missouri
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+In the south are the Ozarks, a forested highland, providing timber, minerals, and recreation. The Mississippian culture built cities and mounds, before declining in the 14th century. Many from Virginia, Kentucky and Tennessee settled in the Boonslick area of Mid-Missouri. Missouri's culture blends elements from the Midwestern and Southern United States. Outside of the state's major cities, popular tourist destinations include the Lake of the Ozarks, Table Rock Lake and Branson. Other nicknames for Missouri include "The Lead State", "The Bullion State", "The Ozark State", "The Mother of the West", "The Iron Mountain State", and "Pennsylvania of the West". Beginning before 1000 CE, there arose the complex Mississippian culture, whose people created regional political centers at present-day St. Louis and across the Mississippi River at Cahokia, near present-day Collinsville, Illinois. The Mississippian culture left mounds throughout the middle Mississippi and Ohio river valleys, extending into the southeast and the upper river. Tourism, services, and wholesale/retail trade follow manufacturing in importance—tourism benefits from the many rivers, lakes, caves, parks, etc., throughout the state.
+\Predicted Summary:
+, and the West became the center of industrialization and business. Missouri is the 18th-most extensive state in the midwestern United States . the state is divided into 114 counties and the independent city of St. Louis .
+
+GT:
+Missouri's culture blends elements from the Midwestern and Southern United States. Well-known Missourians include Chuck Berry, Sheryl Crow, Walt Disney, Edwin Hubble, Nelly, Brad Pitt, Harry S. Truman, and Mark Twain. Archaeological excavations along the rivers have shown continuous habitation for more than 7,000 years. Beginning before 1000 CE, there arose the complex Mississippian culture, whose people created regional political centers at present-day St. Louis and across the Mississippi River at Cahokia, near present-day Collinsville, Illinois. Many well-known musicians were born or have lived in Missouri. The Kansas City Symphony and the St. Louis Symphony Orchestra are the state's major orchestras. Missouri is the native state of Mark Twain. Filmmaker, animator, and businessman Walt Disney spent part of his childhood in the Linn County town of Marceline before settling in Kansas City. Missouri hosted the 1904 Summer Olympics at St. Louis, the first time the games were hosted in the United States.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1509433962264151, 0.6666666666666666, 0.24615384615384617, 0.15384615384615383]
+[0.05063291139240506, 0.22857142857142856, 0.08290155440414507, 0.05181347150259068]
+[0.10062893081761007, 0.4444444444444444, 0.1641025641025641, 0.10256410256410256]
+
+
+SBERT sim. Score: 0.6298234462738037

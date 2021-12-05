@@ -1,0 +1,21 @@
+Document:
+west_virginia
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+West Virginia is the 41st-largest state by area and ranks 38th in population, with around 1.791 million residents. West Virginia is also one of the cloudiest states in the nation, with the cities of Elkins and Beckley ranking 9th and 10th in the US respectively for the number of cloudy days per year (over 210). Only 1.6% of the state's residents were foreign-born, placing West Virginia last among the 50 states in that statistic. The US Bureau of Economic Analysis reported that in 2014 West Virginia's economy grew twice as fast as the next fastest growing state east of the Mississippi River, ranking third alongside Wyoming and just behind North Dakota and Texas among the fastest growing states in the United States. West Virginia ranked 49th in the 2014 State New Economy Index, and has ranked in the bottom three states since 1999. West Virginia's poverty rate is one of the highest in the nation. West Virginia, however, ranked last with a 3% increase in birth rates for teenagers.
+\Predicted Summary:
+,,,, and the Upland South. West Virginia is a state in the Appalachian and Mid-Atlantic regions of the Southern United States . West Virginia is the 41st-largest by area, ranks 38th in population . West Virginia is the first state to form by separating from a Confederate state during the war . West Virginia is a state in the Appalachian and Mid-Atlantic regions of the Southern United States .
+
+GT:
+The climate of West Virginia is generally a humid subtropical climate (Köppen climate classification Cfa, except Dfb at the higher elevations) with warm to hot, humid summers and chilly winters, increasing in severity with elevation. West Virginia is the least populous southeastern state. The economy of West Virginia nominally would be the 62nd largest economy globally behind Iraq and ahead of Croatia according to 2009 World Bank projections, and the 64th largest behind Iraq and ahead of Libya according to 2009 International Monetary Fund projections. West Virginia was one of only ten states in 2009 that grew economically. Morgantown was ranked by Forbes as the #10 best small city in the nation to conduct business in 2010. The city is also home to West Virginia University, the 95th best public university according to US News & World Report in 2011. The net corporate income tax rate is 6.5% while business costs are 13% below the national average. In addition to such outdoor recreation opportunities, the state offers a number of historic and cultural attractions.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.21714285714285714, 0.5671641791044776, 0.31404958677685946, 0.19628099173553715]
+[0.05747126436781609, 0.15151515151515152, 0.08333333333333333, 0.05208333333333333]
+[0.13714285714285715, 0.3582089552238806, 0.1983471074380165, 0.12396694214876032]
+
+
+SBERT sim. Score: 0.6092707514762878

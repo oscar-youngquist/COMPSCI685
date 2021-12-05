@@ -1,0 +1,21 @@
+Document:
+texas
+
+Intent:
+What drives the economy in this state?
+
+Input:
+With a growing base of industry, the state leads in many industries, including tourism, agriculture, petrochemicals, energy, computers and electronics, aerospace, and biomedical sciences. Texas has led the US in state export revenue since 2002 and has the second-highest gross state product. Cotton and lumber became major industries creating new economic booms in various regions of the state. Texas's economy is the second-largest of any country subdivision globally, behind California. Texas's large population, an abundance of natural resources, thriving cities and leading centers of higher education have contributed to a large and diverse economy. Since oil was discovered, the state's economy has reflected the state of the petroleum industry. The state also leads the nation in production of cotton which is the number one crop grown in the state in terms of value.
+\Predicted Summary:
+is the second largest state in the US, while San Antonio is the second-most populous in the state . Texas is nicknamed the "Lone Star State" for its former status as an independent republic . the term "six flags over Texas" refers to several nations that have ruled over the territory .
+
+GT:
+Texas developed a diversified economy and high tech industry in the mid-20th century. With a growing base of industry, the state leads in many industries, including tourism, agriculture, petrochemicals, energy, computers and electronics, aerospace, and biomedical sciences. Texas's economy is the second-largest of any country subdivision globally, behind California. Its per capita personal income in 2009 was $36,484, ranking 29th in the nation. Texas's large population, an abundance of natural resources, thriving cities and leading centers of higher education have contributed to a large and diverse economy. Since oil was discovered, the state's economy has reflected the state of the petroleum industry.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.21296296296296297, 0.46, 0.2911392405063291, 0.18196202531645572]
+[0.056074766355140186, 0.12244897959183673, 0.07692307692307693, 0.04807692307692307]
+[0.12037037037037036, 0.26, 0.16455696202531644, 0.1028481012658228]
+
+
+SBERT sim. Score: 0.5777408480644226

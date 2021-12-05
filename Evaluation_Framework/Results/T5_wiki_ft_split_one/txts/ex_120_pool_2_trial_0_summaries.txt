@@ -1,0 +1,21 @@
+Document:
+louisiana
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Thus, Vincennes and Peoria were the limit of Louisiana's reach; the outposts at Ouiatenon (on the upper Wabash near present-day Lafayette, Indiana), Chicago, Fort Miamis (near present-day Fort Wayne, Indiana), and Prairie du Chien, Wisconsin, operated as dependencies of Canada. Louisiana is bordered to the west by Texas This area lies principally along the Gulf of Mexico and the Mississippi River, which traverses the state from north to south for a distance of about 600 mi (970 km) and empties into the Gulf of Mexico; the Red River; the Ouachita River and its branches; and other minor streams (some of which are called bayous). The higher and contiguous hill lands of the north and northwestern part of the state have an area of more than 25,000 square miles (65,000 km2). Besides the waterways already named, there are the Sabine, forming the western boundary; and the Pearl, the eastern boundary; the Calcasieu, the Mermentau, the Vermilion, Bayou Teche, the Atchafalaya, the Boeuf, Bayou Lafourche, the Courtableau River, Bayou D'Arbonne, the Macon River, the Tensas, Amite River, the Tchefuncte, the Tickfaw, the Natalbany River, and a number of other smaller streams, constituting a natural system of navigable waterways, aggregating over 4,000 miles (6,400 km) long. Through a peculiarity of the political geography of the United States, this is substantially less than the 9-mile (14 km)-wide jurisdiction of nearby states Texas and Florida, which, like Louisiana, have extensive Gulf coastlines. The Louisiana Department of Transportation and Development is the state government organization in charge of maintaining public transportation, roadways, bridges, canals, select levees, floodplain management, port facilities, commercial vehicles, and aviation which includes 69 airports. The State Police are primarily a traffic enforcement agency, with other sections that delve into trucking safety, narcotics enforcement, and gaming oversight.
+\Predicted Summary:
+,, and African cultures. Louisiana is the 19th-smallest by area and the 25th most populous of the 50 US states. Louisiana is the 19th-smallest by area and the 25th most populous of the 50 US states. Louisiana is bordered by the state of Texas to the west, Arkansas to the north, Mississippi to the east, and the Gulf of Mexico to the south.
+
+GT:
+The Port of South Louisiana, located on the Mississippi River between New Orleans and Baton Rouge, was the largest volume shipping port in the Western Hemisphere and 4th largest in the world, as well as the largest bulk cargo port in the US in 2004. The Port of South Louisiana continued to be the busiest port by tonnage in the US through 2018, the latest available data. South Louisiana was number 15 among world ports in 2016. The Louisiana Department of Transportation and Development is the state government organization in charge of maintaining public transportation, roadways, bridges, canals, select levees, floodplain management, port facilities, commercial vehicles, and aviation which includes 69 airports. The Intracoastal Waterway is an important means of transporting commercial goods such as petroleum and petroleum products, agricultural produce, building materials and manufactured goods. In 2011, Louisiana ranked among the five deadliest states for debris/litter-caused vehicle accidents per total number of registered vehicles and population size.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2125, 0.53125, 0.30357142857142855, 0.18973214285714285]
+[0.012578616352201259, 0.031746031746031744, 0.01801801801801802, 0.011261261261261262]
+[0.125, 0.3125, 0.17857142857142858, 0.11160714285714286]
+
+
+SBERT sim. Score: 0.5178360342979431

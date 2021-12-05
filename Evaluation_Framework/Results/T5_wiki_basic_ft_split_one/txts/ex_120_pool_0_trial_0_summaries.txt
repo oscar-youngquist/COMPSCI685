@@ -1,0 +1,21 @@
+Document:
+missouri
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Two of the nation's three busiest rail centers are in Missouri. Like Kansas City, St. Louis is a major destination for train freight. Amtrak passenger trains serve Kansas City, La Plata, Jefferson City, St. Louis, Lee's Summit, Independence, Warrensburg, Hermann, Washington, Kirkwood, Sedalia, and Poplar Bluff. The Gateway Multimodal Transportation Center in St. Louis is the largest active multi-use transportation center in the state. It serves as a hub center/station for MetroLink, the MetroBus regional bus system, Greyhound, Amtrak, and taxi services. Greyhound and Trailways provide inter-city bus service in Missouri. Megabus serves St. Louis, but discontinued service to Columbia and Kansas City in 2015.
+\Predicted Summary:
+, a part of New France, founded the Missouri Compromise in 1735 . Missouri is the 21st-most extensive in area. Missouri is divided into 114 counties and the independent city of St. Louis.
+
+GT:
+Missouri has two major airport hubs: St. Louis Lambert International Airport and Kansas City International Airport. Kansas City is a major railroad hub for BNSF Railway, Norfolk Southern Railway, Kansas City Southern Railway, and Union Pacific Railroad, and every class 1 railroad serves Missouri. Amtrak passenger trains serve Kansas City, La Plata, Jefferson City, St. Louis, Lee's Summit, Independence, Warrensburg, Hermann, Washington, Kirkwood, Sedalia, and Poplar Bluff. The only urban light rail/subway system operating in Missouri is MetroLink, which connects the city of St. Louis with suburbs in Illinois and St. Louis County. Many cities have regular fixed-route systems, and many rural counties have rural public transit services. The Mississippi River and Missouri River are commercially navigable over their entire lengths in Missouri. Following the passage of Amendment 3 in late 2004, the Missouri Department of Transportation (MoDOT) began its Smoother, Safer, Sooner road-building program with a goal of bringing 2,200 miles (3,500 km) of highways up to good condition by December 2007.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11242603550295859, 0.59375, 0.1890547263681592, 0.1181592039800995]
+[0.02976190476190476, 0.16129032258064516, 0.05025125628140703, 0.031407035175879394]
+[0.0650887573964497, 0.34375, 0.10945273631840796, 0.06840796019900497]
+
+
+SBERT sim. Score: 0.532957911491394

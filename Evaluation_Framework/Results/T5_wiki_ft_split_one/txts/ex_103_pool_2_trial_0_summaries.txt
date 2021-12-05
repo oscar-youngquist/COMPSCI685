@@ -1,0 +1,21 @@
+Document:
+new_york
+
+Intent:
+How is the government structured in this state?
+
+Input:
+Prior to this time, the matter was delegated to the individual states, then via contract between the states and the federal government. It is composed of three branches: executive, legislative, and judicial. The governor is the state's chief executive and is assisted by the lieutenant governor. Additional elected officers include the attorney general and the comptroller. The secretary of state, formerly an elected officer, is currently appointed by the governor. The New York State Legislature is bicameral and consists of the New York State Senatorte and the New York State Assembly. The Legislature is empowered to make laws, subject to the governor's power to veto a bill. The state is divided into counties, cities, towns, and villages, all of which are municipal corporations with respect to their own governments, as well as various corporate entities that serve single purposes that are also local governments, such as school districts, fire districts, and New York state public-benefit corporations, frequently known as authorities or development corporations.
+\Predicted Summary:
+the first Europeans arrived southward from New York to New York . New York is a state in the northeastern United States. It was one of the original thirteen colonies, forming the United States. New York is the 27th largest state. With an estimated population of 8.34 million as of 2019 makes it the fourth most populous city in the world. New York is the most populous city in the world.
+
+GT:
+The Government of New York embodies the governmental structure of the State of New York as established by the New York State Constitution. It is composed of three branches: executive, legislative, and judicial. The governor is the state's chief executive and is assisted by the lieutenant governor. Both are elected on the same ticket. Additional elected officers include the attorney general and the comptroller. The secretary of state, formerly an elected officer, is currently appointed by the governor. The New York State Legislature is bicameral and consists of the New York State Senatorte and the New York State Assembly. The Assembly consists of 150 members, while the Senatorte varies in its number of members, currently having 63. The Legislature is empowered to make laws, subject to the governor's power to veto a bill. However, the veto may be overridden by the legislature if there is a two-thirds majority in favor of overriding in each house. The highest court of appeal in the Unified Court System is the Court of Appeals whereas the primary felony trial court is the County Court (or the Supreme Court in New York City). The Supreme Court also acts as the intermediate appellate court for many cases, and the local courts handle a variety of other matters including small claims, traffic ticket cases, and local zoning matters, and are the starting point for all criminal cases. The state is divided into counties, cities, towns, and villages, all of which are municipal corporations with respect to their own governments, as well as various corporate entities that serve single purposes that are also local governments, such as school districts, fire districts, and New York state public-benefit corporations, frequently known as authorities or development corporations. The state also has 10 Indian reservations. There have been several movements regarding secession from the state of New York. Proposals have included a state of Long Island, consisting of everything on the island outside New York City; a state called Niagara, the western counties of New York state; the northern counties of New York state called Upstate New York; making the city of New York a state; a proposal for a new Peconic County on eastern Long Island; and for the borough of Staten Island to secede from New York City.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1099476439790576, 0.5915492957746479, 0.18543046357615897, 0.11589403973509936]
+[0.031496062992125984, 0.17142857142857143, 0.05321507760532151, 0.03325942350332594]
+[0.07853403141361257, 0.4225352112676056, 0.1324503311258278, 0.08278145695364238]
+
+
+SBERT sim. Score: 0.2905917763710022

@@ -1,0 +1,21 @@
+Document:
+delaware
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It is the second-smallest and sixth-least populous state, but also the sixth-most densely populated. Delaware is on a level plain, with the lowest mean elevation of any state in the nation. Moderated by the Atlantic Ocean and Delaware Bay, the southern portion of the state has a milder climate and a longer growing season than the northern portion of the state. Delaware is one of five states (Maine, Vermont, West Virginia, Wyoming) that do not have a single city with a population over 100,000 as of the 2010 census. It still has a substantial presence in the state. The state's largest employers are: The state's attractiveness as a corporate haven is largely because of its business-friendly corporation law. This is the fewest among all states.
+\Predicted Summary:
+Delaware, Delaware is the second largest state in the state, the Delaware River . Delaware is the second-smallest and sixth-least populous state . Delaware is the state of Delaware, which is the second-largest state in the state . it is the second-smallest and sixth-most densely populated region . Delaware is the home of over 50% of the NYSE-listed business and 60% of the Fortune 500 .
+
+GT:
+Since the turn of the 20th century, Delaware is also a de facto onshore corporate haven, in which by virtue of its corporate laws, the state is the domicile of over 50% of all NYSE-listed business and 60% of the Fortune 500. Delaware is on a level plain, with the lowest mean elevation of any state in the nation. Since almost all of Delaware is a part of the Atlantic coastal plain, the effects of the ocean moderate its climate. The state lies in the humid subtropical climate zone. Delaware provides government subsidy support for the clean-up of property "lightly contaminated" by hazardous waste, the proceeds for which come from a tax on wholesale petroleum sales. Delaware is one of five states (Maine, Vermont, West Virginia, Wyoming) that do not have a single city with a population over 100,000 as of the 2010 census. On July 1, 2013, same-sex marriage was legalized, and all civil unions would be converted into marriages. In 2011 Delaware passed legislation placing a 15 business day time limit on addressing freedom-of-information requests, to either produce information or an explanation of why such information would take longer than this time to produce. In June 2018, Delaware became the first US state to legalize sports betting following the Supreme Court ruling to repeal The Professional and Amateur Sports Protection Act (PASPA).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.20434782608695654, 0.7014925373134329, 0.3164983164983165, 0.19781144781144783]
+[0.10043668122270742, 0.3484848484848485, 0.1559322033898305, 0.09745762711864406]
+[0.12608695652173912, 0.43283582089552236, 0.19528619528619526, 0.12205387205387204]
+
+
+SBERT sim. Score: 0.6633551716804504

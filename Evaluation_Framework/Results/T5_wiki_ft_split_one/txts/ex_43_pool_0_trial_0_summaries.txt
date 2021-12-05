@@ -1,0 +1,21 @@
+Document:
+arkansas
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Arkansas's culture is observable in museums, theaters, novels, television shows, restaurants, and athletic venues across the state. The town's attractions included horse racing and other entertainment. European Americans have a strong presence in the northwestern Ozarks and the central part of the state. Sports are also very important to the culture of Arkansas, ranging from football, baseball, and basketball to hunting and fishing. Arkansas features a variety of native music across the state, ranging from the blues heritage of West Memphis, Pine Bluff, Helena–West Helena to rockabilly, bluegrass, and folk music from the Ozarks. Sports have become an integral part of the culture of Arkansas, and her residents enjoy participating in and spectating various events throughout the year. Team sports and especially collegiate football are important to Arkansans. Over the years, many Arkansans have looked to Arkansas Razorbacks football as the public image of the state. Two minor league teams are based in the state. Fishing has always been popular in Arkansas, and the sport and the state have benefited from the creation of reservoirs across the state.
+\Predicted Summary:
+, Arkansas, is a state in the south central United States, home to more than three million people . Arkansas () is a state in the south central United States, home to more than three million people as of 2018 . it is home to more than three million people as of 2018 .
+
+GT:
+The culture of Arkansas includes distinct cuisine, dialect, and traditional festivals. Sports are also very important to the culture of Arkansas, ranging from football, baseball, and basketball to hunting and fishing. Perhaps the best-known piece of Arkansas's culture is the stereotype of its citizens as shiftless hillbillies. The state also suffers from the racial stigma common to former Confederate states, with historical events such as the Little Rock Nine adding to Arkansas's enduring image. Art and history museums display pieces of cultural value for Arkansans and tourists to enjoy. Crystal Bridges Museum of American Art in Bentonville was visited by 604,000 people in 2012, its first year. Arkansas features a variety of native music across the state, ranging from the blues heritage of West Memphis, Pine Bluff, Helena–West Helena to rockabilly, bluegrass, and folk music from the Ozarks. Festivals such as the King Biscuit Blues Festival and Bikes, Blues, and BBQ pay homage to the history of blues in the state. Team sports and especially collegiate football are important to Arkansans. Although the University of Arkansas is based in Fayetteville, the Razorbacks have always played at least one game per season at War Memorial Stadium in Little Rock in an effort to keep fan support in central and south Arkansas. Baseball runs deep in Arkansas and has been popular before the state hosted Major League Baseball (MLB) spring training in Hot Springs from 1886 to the 1920s. Today a significant portion of Arkansas's population participates in hunting duck in the Mississippi flyway and deer across the state. Millions of acres of public land are available for both bow and modern gun hunters. Fishing has always been popular in Arkansas, and the sport and the state have benefited from the creation of reservoirs across the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08305647840531562, 0.5102040816326531, 0.14285714285714285, 0.08928571428571429]
+[0.01, 0.0625, 0.01724137931034483, 0.010775862068965518]
+[0.06312292358803986, 0.3877551020408163, 0.10857142857142858, 0.06785714285714285]
+
+
+SBERT sim. Score: 0.48664912581443787

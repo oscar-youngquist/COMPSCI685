@@ -1,0 +1,21 @@
+Document:
+idaho
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+For thousands of years Idaho has been inhabited by Native American peoples. The United States Forest Service holds about 38% of Idaho's land, the highest proportion of any state. This includes a natural increase since the last census of 58,884 (111,131 births minus 52,247 deaths) and an increase due to net migration of 75,795 people into the state. There are large numbers of Americans of English and German ancestry in Idaho. The table below shows the racial composition of Idaho's population as of 2016. It accounts for over 25% of the state's revenue and over 70% of the state's exports.
+\Predicted Summary:
+is the 14th largest, the 12th least populous and the 7th most densely populated of the 50 US states . Idaho is a state in the Pacific Northwest region of the United States . Idaho is part of the state's ''' Oregon Country''', a state that is a part of the United States'''' . Idaho is a state that is a part of the state's north and northeast . Idaho is the 14th largest, the 12th least popul
+
+GT:
+Idaho has a state gambling lottery which contributed $333.5 million in payments to all Idaho public schools and Idaho higher education from 1990 to 2006. Judy Garland performed the elaborate song-and-dance routine "Born in a Trunk in the Princess Theater in Pocatello, Idaho" in the 1954 version of the film A Star is Born. The 1985 film Pale Rider was primarily filmed in the Boulder Mountains and the Sawtooth National Recreation Area in central Idaho, just north of Sun Valley. The 1988 film Moving, starring Richard Pryor, has the main character take a promotion in Idaho. River Phoenix and Keanu Reeves starred in the 1991 movie My Own Private Idaho, portions of which take place in Idaho. The 2004 cult film Napoleon Dynamite takes place in Preston, Idaho; the film's director, Jared Hess, attended Preston High School.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.20567375886524822, 0.38666666666666666, 0.2685185185185185, 0.16782407407407407]
+[0.02857142857142857, 0.05405405405405406, 0.037383177570093455, 0.023364485981308414]
+[0.1347517730496454, 0.25333333333333335, 0.17592592592592593, 0.10995370370370369]
+
+
+SBERT sim. Score: 0.36147400736808777

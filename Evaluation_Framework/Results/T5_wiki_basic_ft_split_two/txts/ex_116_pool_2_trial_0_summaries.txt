@@ -1,0 +1,21 @@
+Document:
+florida
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Florida is also renowned for amusement parks, orange crops, winter vegetables, the Kennedy Space Center, and as a popular destination for retirees. This is the second-highest number of islands of any state Most of this is in Bone Valley. Many beach towns are popular tourist destinations, particularly during winter and spring break. Amusement parks, especially in the Greater Orlando area, make up a significant portion of tourism. Other major theme parks in the area include Universal Orlando Resort, SeaWorld Orlando and Busch Gardens Tampa. The state is the largest producer of sweet corn and green beans for the US Daytona also has the Coke Zero Sugar 400 NASCAR race weekend around Independence Day in July.
+\Predicted Summary:
+of the Florida, Florida is the most populous state in the United States . Florida is the second-largest state in the world, and the state is the 22nd-most populous of the 50 . Florida is the third-most populous city in the world, and is the 22nd-most populous in the world .
+
+GT:
+The state's close proximity to the ocean influences many aspects of Florida culture and daily life. Florida is a reflection of influences and multiple inheritance; African, European, indigenous, Latino, and Asian heritages can be found in the architecture and cuisine. Florida has attracted many writers such as Marjorie Kinnan Rawlings, Ernest Hemingway and Tennessee Williams, and continues to attract celebrities and athletes. It is internationally known for golf, tennis, auto racing, and water sports. Florida has the largest collection of Art Deco and Streamline Moderne buildings, both in the United States and in the entire world, most of which are located in the Miami metropolitan area, especially Miami Beach's Art Deco District, constructed as the city was becoming a resort destination. A unique architectural design found only in Florida is the post-World War II Miami Modern, which can be seen in areas such as Miami's MiMo Historic District. Being of early importance as a regional center of banking and finance, the architecture of Jacksonville displays a wide variety of styles and design principles. Some sections of the state feature architectural styles including Spanish revival, Florida vernacular, and Mediterranean Revival.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.18134715025906736, 0.6730769230769231, 0.28571428571428575, 0.1785714285714286]
+[0.057291666666666664, 0.21568627450980393, 0.0905349794238683, 0.056584362139917695]
+[0.12953367875647667, 0.4807692307692308, 0.20408163265306123, 0.12755102040816327]
+
+
+SBERT sim. Score: 0.502024233341217

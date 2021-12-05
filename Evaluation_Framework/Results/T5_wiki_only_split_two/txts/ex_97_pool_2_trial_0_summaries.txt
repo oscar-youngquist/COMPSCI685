@@ -1,0 +1,21 @@
+Document:
+new_jersey
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Based on 2017 data, it was the second-wealthiest US state by median household income. This was the fourth-highest percentage of any state in the country. It is also the second wealthiest state according to the US Census Bureau. New Jersey is also the most densely populated state, and the only state that has had every one of its counties deemed "urban" as defined by the Census Bureau's Combined Statistical Area. The state is ranked second in the nation by the number of places with per capita incomes above national average with 76.4%. New Jersey has the highest cumulative tax rate of all 50 states with residents paying a total of $68 billion in state and local taxes annually with a per capita burden of $7,816 at a rate of 12.9% of income. New Jersey consistently ranks as having one of the highest proportional levels of disparity of any state in the United States, based upon what it receives from the federal government relative to what it gives. (The others are Kentucky, Louisiana, Mississippi, and Virginia.)
+\Predicted Summary:
+,, New Jersey, and Newark, New Jersey, helped drive the nation's Industrial Revolution . New Jersey was first inhabited by Native Americans for at least 2,800 years . New Jersey was the second-wealthest state by median household income .
+
+GT:
+As of 2020, New Jersey was home to the highest number of millionaires per capita of all US states, with 9.76% of households—more than 323,000 of 3.3 million statewide—meeting the criteria. Based on 2017 data, it was the second-wealthiest US state by median household income. New Jersey's public school system consistently ranks at or among the top among all fifty US states. The south, central, and northeast parts of the state have a humid subtropical climate, while the northwest has a humid continental climate (microthermal), with much cooler temperatures due to higher elevation. Hurricanes and tropical storms (such as Tropical Storm Floyd in 1999), tornadoes, and earthquakes are rare, although New Jersey was impacted by a hurricane in 1903, and Hurricane Sandy on October 29, 2012 with the storm making landfall in the state with top winds of 90 mph (145 km/h). On October 21, 2013, same-sex marriages commenced in New Jersey. New Jersey is one of the most ethnically and religiously diverse states in the United States. Its per capita income was the third highest in the nation with $51,358.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12041884816753927, 0.6052631578947368, 0.20087336244541484, 0.1255458515283843]
+[0.06842105263157895, 0.35135135135135137, 0.1145374449339207, 0.07158590308370044]
+[0.07329842931937172, 0.3684210526315789, 0.12227074235807858, 0.07641921397379911]
+
+
+SBERT sim. Score: 0.5273711681365967

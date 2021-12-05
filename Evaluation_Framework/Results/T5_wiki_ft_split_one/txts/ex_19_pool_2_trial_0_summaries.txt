@@ -1,0 +1,21 @@
+Document:
+utah
+
+Intent:
+How is the government structured in this state?
+
+Input:
+A steady stream of governors appointed by the president quit the position, often citing the traditions of their supposed territorial government. Like most of the western and southwestern states, the federal government owns much of the land in Utah. The state sales tax has a base rate of 6.45 percent, with cities and counties levying additional local sales taxes that vary among the municipalities. Utah government is divided into three branches: executive, legislative, and judicial. The governor is elected for a four-year term. The Utah State Legislature consists of a Senatorte and a House of Representatives. State senators serve four-year terms and representatives two-year terms. The Utah Legislature meets each year in January for an annual 45-day session. It consists of five justices, who are appointed by the governor, and then subject to retention election. All justices and judges, like those on the Utah Supreme Court, are subject to retention election after appointment. Utah is divided into political jurisdictions designated as counties. Utah is one of the 15 states that have not ratified the US Utah's Constitution has been amended many times since its inception. Utah votes predominantly Republican. Utah is one of the most Republican states in the nation. Since becoming a state in 1896, Utah has had only two non-Mormon governors. The custody measure passed the legislature and was vetoed by the governor, a reciprocal benefits supporter. The most Democratic areas of the state lie currently in and around Salt Lake City proper.
+\Predicted Summary:
+is a state in the Western United States. It is bordered by Colorado to the east, Wyoming to the northeast, Idaho to the north, Arizona to the south and Nevada to the west. Utah is the 13th-largest by area; with a population over three million, it is the 30th-most-populous and 11th-least-densely populated. Disputes between the dominant Mormon community and the federal government delayed the state's admission as a state.
+
+GT:
+Utah government is divided into three branches: executive, legislative, and judicial. The governor is elected for a four-year term. The Utah State Legislature consists of a Senatorte and a House of Representatives. State senators serve four-year terms and representatives two-year terms. The Utah Legislature meets each year in January for an annual 45-day session. The Utah Supreme Court is the court of last resort in Utah. It consists of five justices, who are appointed by the governor, and then subject to retention election. The Utah Court of Appeals handles cases from the trial courts. Trial level courts are the district courts and justice courts. All justices and judges, like those on the Utah Supreme Court, are subject to retention election after appointment. Utah is divided into political jurisdictions designated as counties. Since 1918 there have been 29 counties in the state, ranging from 298 to 7,819 square miles (772 to 20,300 km2). The state has not voted for a Democrat for president since 1964. Utah was the Republicans' best state in the 1976, 1980, 1984, 1988, 1996, 2000, and 2004 elections.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1925133689839572, 0.48, 0.27480916030534347, 0.17175572519083968]
+[0.026881720430107527, 0.06756756756756757, 0.038461538461538464, 0.024038461538461536]
+[0.11229946524064172, 0.28, 0.1603053435114504, 0.1001908396946565]
+
+
+SBERT sim. Score: 0.5600898861885071

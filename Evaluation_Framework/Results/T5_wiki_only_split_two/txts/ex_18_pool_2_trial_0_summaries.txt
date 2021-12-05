@@ -1,0 +1,21 @@
+Document:
+texas
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Texas shares borders with the states of Louisiana to the east, Arkansas to the northeast, Oklahoma to the north, New Mexico to the west, and the Mexican states of Chihuahua, Coahuila, Nuevo León, and Tamaulipas to the south and southwest, and has a coastline with the Gulf of Mexico to the southeast. Three interstate highways—I-35 to the west (Dallas–Fort Worth to San Antonio, with Austin in between), I-45 to the east (Dallas to Houston), and I-10 to the south (San Antonio to Houston) define the Texas Urban Triangle region. These cities are spread out amongst the state. The state is an important transportation hub. The A-train commuter rail line, operated by DCTA, acts as an extension of the DART Green line into Denton County. In the Austin area, Capital Metropolitan Transportation Authority operates a commuter rail service known as Capital MetroRail to the northwestern suburbs. Three scheduled routes serve the state: the daily Texas Eagle (Chicago–San Antonio); the tri-weekly Sunset Limited (New Orleans–Los Angeles), with stops in Texas; and the daily Heartland Flyer (Fort Worth–Oklahoma City).
+\Predicted Summary:
+, Texas is the second largest state in the US, and the second largest in the US . Texas is the second largest state by both area (after Alaska) and population (after California). Texas shares borders with the states of Louisiana to the east, Arkansas to the northeast, Oklahoma to the north, New Mexico to the west, and the Mexican states of Chihuahua, Coahuila, Nuevo León, and Tamaulipas to the south and southwest .
+
+GT:
+Texas has compensated by building America's largest highway and railway systems. The regulatory authority, the Texas Department of Transportation (TxDOT), maintains the state's immense highway system, regulates aviation, and public transportation systems. From the Dallas/Fort Worth area, trucks can reach 93 percent of the nation's population within 48 hours, and 37 percent within 24 hours. Texas has 730 airports, second-most of any state in the nation. Around 1,150 seaports dot Texas's coast with over 1,000 miles (1,600 km) of channels. Since 1911, Texas has led the nation in length of railroad miles within the state. In the Dallas–Fort Worth area, three public transit agencies provide rail service: Dallas Area Rapid Transit (DART), Denton County Transportation Authority (DCTA), and Trinity Metro. Amtrak provides Texas with limited intercity passenger rail service.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.20863309352517986, 0.4027777777777778, 0.27488151658767773, 0.17180094786729858]
+[0.028985507246376812, 0.056338028169014086, 0.038277511961722493, 0.02392344497607656]
+[0.12949640287769784, 0.25, 0.17061611374407584, 0.1066350710900474]
+
+
+SBERT sim. Score: 0.5797342658042908

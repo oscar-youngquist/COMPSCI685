@@ -1,0 +1,21 @@
+Document:
+hawaii
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Historically dominated by a plantation economy, Hawaii remains a major agricultural exporter due to its fertile soil and uniquely tropical climate in the US Its economy has gradually diversified since the mid 20th century, with tourism and military defense becoming the two largest sectors. Although its relative isolation results in one of the nation's highest costs of living, Hawaii ranks as the third wealthiest state in the US; Honolulu ranks high in several world livability rankings, ranking 22nd out of 140 cities worldwide in the 2019 Global Liveability Index, the highest of any American city. The history of Hawaii's economy can be traced through a succession of dominant industries: sandalwood, whaling, sugarcane, pineapple, the military, tourism and education. Since statehood in 1959, tourism has been the largest industry, contributing 24.3% of the gross state product (GSP) in 1997, despite efforts to diversify. These industries play a small role in the Hawaiian economy, due to the shipping distance to viable markets, such as the West Coast of the contiguous US The state's food exports include coffee, macadamia nuts, pineapple, livestock, sugarcane and honey. By weight, honey bees may be the state's most valuable export. Hawaiian Electric Industries, a privately owned company, provides 95% of the state's population with electricity, mostly from fossil-fuel power stations. Hawaii's very high cost of living is the result of several interwoven factors of the global economy in addition to domestic US government trade policy.
+\Predicted Summary:
+, Hawaii is the fourth longest in the US, at about 750 miles (1,210 km) of the island of O'ahu, home to the state's capital and largest city, Honolulu . Hawaii is the only state outside North America, the only island state, and the only state in the tropics .
+
+GT:
+The history of Hawaii's economy can be traced through a succession of dominant industries: sandalwood, whaling, sugarcane, pineapple, the military, tourism and education. Since statehood in 1959, tourism has been the largest industry, contributing 24.3% of the gross state product (GSP) in 1997, despite efforts to diversify. Hawaiian exports include food and clothing. These industries play a small role in the Hawaiian economy, due to the shipping distance to viable markets, such as the West Coast of the contiguous US The state's food exports include coffee, macadamia nuts, pineapple, livestock, sugarcane and honey. By weight, honey bees may be the state's most valuable export. According to the Hawaii Agricultural Statistics Service, agricultural sales were US$370.9 million from diversified agriculture, US$100.6 million from pineapple, and US$64.3 million from sugarcane. Hawaii's relatively consistent climate has attracted the seed industry, which is able to test three generations of crops per year on the islands, compared with one or two on the mainland.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14705882352941177, 0.5, 0.22727272727272727, 0.14204545454545456]
+[0.03550295857988166, 0.12244897959183673, 0.05504587155963303, 0.03440366972477065]
+[0.1, 0.34, 0.15454545454545454, 0.09659090909090909]
+
+
+SBERT sim. Score: 0.5227879285812378

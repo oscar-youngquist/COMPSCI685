@@ -1,0 +1,21 @@
+Document:
+missouri
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Missouri is bounded by Iowa on the north; by Illinois, Kentucky, and Tennessee across the Mississippi River on the east; on the south by Arkansas; and by Oklahoma, Kansas, and Nebraska (the last across the Missouri River) on the west. Two of the nation's three busiest rail centers are in Missouri. Kansas City is the second-largest freight rail center in the US (but is first in the amount of tonnage handled). Like Kansas City, St. Louis is a major destination for train freight. Amtrak passenger trains serve Kansas City, La Plata, Jefferson City, St. Louis, Lee's Summit, Independence, Warrensburg, Hermann, Washington, Kirkwood, Sedalia, and Poplar Bluff. It is one of the largest systems (by track mileage) in the United States. The Gateway Multimodal Transportation Center in St. Louis is the largest active multi-use transportation center in the state. It serves as a hub center/station for MetroLink, the MetroBus regional bus system, Greyhound, Amtrak, and taxi services. Greyhound and Trailways provide inter-city bus service in Missouri.
+\Predicted Summary:
+, the French established Louisiana in 1735 and St. Louis in 1764 . Missouri is a state in the midwestern United States. It is the largest urban areas are St. Louis, Kansas City, Missouri and Columbia. Missouri is the 21st-most extensive in area (and the largest urban areas are the state's eastern border.
+
+GT:
+The expansion of railroads to the West transformed Kansas City into a major transportation hub within the nation. Missouri has two major airport hubs: St. Louis Lambert International Airport and Kansas City International Airport. Southern Missouri has the Springfield–Branson National Airport (SGF) with multiple non-stop destinations. Residents of Mid-Missouri use Columbia Regional Airport (COU) to fly to Chicago (ORD), Dallas (DFW) or Denver (DEN). Two of the nation's three busiest rail centers are in Missouri. Amtrak passenger trains serve Kansas City, La Plata, Jefferson City, St. Louis, Lee's Summit, Independence, Warrensburg, Hermann, Washington, Kirkwood, Sedalia, and Poplar Bluff. The only urban light rail/subway system operating in Missouri is MetroLink, which connects the city of St. Louis with suburbs in Illinois and St. Louis County. The KC Streetcar in downtown Kansas City opened in May 2016. The Gateway Multimodal Transportation Center in St. Louis is the largest active multi-use transportation center in the state. The proposed Missouri Hyperloop would connect St. Louis, Kansas City, and Columbia, reducing travel times to around a half hour. Many cities have regular fixed-route systems, and many rural counties have rural public transit services. Greyhound and Trailways provide inter-city bus service in Missouri. Megabus serves St. Louis, but discontinued service to Columbia and Kansas City in 2015. The Mississippi River and Missouri River are commercially navigable over their entire lengths in Missouri. St. Louis is a major destination for barge traffic on the Mississippi. Following the passage of Amendment 3 in late 2004, the Missouri Department of Transportation (MoDOT) began its Smoother, Safer, Sooner road-building program with a goal of bringing 2,200 miles (3,500 km) of highways up to good condition by December 2007.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11379310344827587, 0.6226415094339622, 0.1924198250728863, 0.12026239067055394]
+[0.04152249134948097, 0.23076923076923078, 0.07038123167155423, 0.0439882697947214]
+[0.07931034482758621, 0.4339622641509434, 0.13411078717201166, 0.08381924198250729]
+
+
+SBERT sim. Score: 0.5405881404876709

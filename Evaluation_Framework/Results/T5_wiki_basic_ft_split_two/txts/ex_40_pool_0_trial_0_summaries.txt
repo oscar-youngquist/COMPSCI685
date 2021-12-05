@@ -1,0 +1,21 @@
+Document:
+delaware
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Since the turn of the 20th century, Delaware is also a de facto onshore corporate haven, in which by virtue of its corporate laws, the state is the domicile of over 50% of all NYSE-listed business and 60% of the Fortune 500. It still has a substantial presence in the state. Delaware's agricultural output consists of poultry, nursery stock, soybeans, dairy products and corn. The state's largest employers are: More than half of all US publicly traded companies, and 63% of the Fortune 500, are incorporated in Delaware. The state's attractiveness as a corporate haven is largely because of its business-friendly corporation law. Gambling provides significant revenue to the state. In 2015, tourism in Delaware generated $3.1 billion, which makes up five percent of the state's GDP. Delaware saw 8.5 million visitors in 2015, with the tourism industry employing 41,730 people, making it the 4th largest private employer in the state.
+\Predicted Summary:
+,,, named after the nearby Delaware River, named after the Delaware River, which derived its name from Thomas West, 3rd Baron De La Warr (1577–1618) who was the governor of the Colony of Virginia . the Delaware people, a name used by Europeans for indigenous lenape people, are the name for the Delaware River .
+
+GT:
+Since the turn of the 20th century, Delaware is also a de facto onshore corporate haven, in which by virtue of its corporate laws, the state is the domicile of over 50% of all NYSE-listed business and 60% of the Fortune 500. Since the mid-2000s, Delaware has seen the departure of the state's automotive manufacturing industry (General Motors Wilmington Assembly and Chrysler Newark Assembly), the corporate buyout of a major bank holding company (MBNA), the departure of the state's steel industry (Evraz Claymont Steel), the bankruptcy of a fiber mill (National Vulcanized Fibre), and the diminishing presence of AstraZeneca in Wilmington. More than half of all US publicly traded companies, and 63% of the Fortune 500, are incorporated in Delaware. Franchise taxes on Delaware corporations supply about a fifth of the state's revenue. In 2015, tourism in Delaware generated $3.1 billion, which makes up five percent of the state's GDP. Delaware saw 8.5 million visitors in 2015, with the tourism industry employing 41,730 people, making it the 4th largest private employer in the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1092896174863388, 0.37735849056603776, 0.1694915254237288, 0.1059322033898305]
+[0.005494505494505495, 0.019230769230769232, 0.008547008547008548, 0.005341880341880342]
+[0.08196721311475409, 0.2830188679245283, 0.1271186440677966, 0.07944915254237288]
+
+
+SBERT sim. Score: 0.37379178404808044

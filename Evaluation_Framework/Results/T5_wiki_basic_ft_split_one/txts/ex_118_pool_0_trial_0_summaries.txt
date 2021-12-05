@@ -1,0 +1,21 @@
+Document:
+arkansas
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Several main corridors pass through Little Rock, including Interstate 30 (I-30) and I-40 (the nation's 3rd-busiest trucking corridor). The state maintains a large system of state highways today, in addition to eight Interstates and 20 US This segment of I-49 currently follows mostly the same route as the former section of I-540 that extended north of I-40. The state also has the 13th largest state highway system in the nation. Arkansas is served by 2,750 miles (4,430 km) of railroad track divided among twenty-six railroad companies including three Class I railroads. Freight railroads are concentrated in southeast Arkansas to serve the industries in the region. There are four airports with commercial service: Clinton National Airport (formerly Little Rock National Airport or Adams Field), Northwest Arkansas Regional Airport, Fort Smith Regional Airport, and Texarkana Regional Airport, with dozens of smaller airports in the state.
+\Predicted Summary:
+, the state's capital and economic center is Little Rock. Arkansas is the 29th largest by area and the 33rd most populous US state . Arkansas was admitted to the Union as the 25th state on June 15, 1836 . the state's diverse geography ranges from the .s. to the .s., the .s., the state's population, the state's economy, and the state's rural interests . the state's capital and economic center is the state's
+
+GT:
+Transportation in Arkansas is overseen by the Arkansas Department of Transportation (ArDOT), headquartered in Little Rock. Several main corridors pass through Little Rock, including Interstate 30 (I-30) and I-40 (the nation's 3rd-busiest trucking corridor). In northeast Arkansas, I-55 travels north from Memphis to Missouri, with a new spur to Jonesboro (I-555). Arkansas is served by 2,750 miles (4,430 km) of railroad track divided among twenty-six railroad companies including three Class I railroads. The Texas Eagle, an Amtrak passenger train, serves five stations in the state Walnut Ridge, Little Rock, Malvern, Arkadelphia, and Texarkana. Arkansas also benefits from the use of its rivers for commerce. The Mississippi River and Arkansas River are both major rivers. There are four airports with commercial service: Clinton National Airport (formerly Little Rock National Airport or Adams Field), Northwest Arkansas Regional Airport, Fort Smith Regional Airport, and Texarkana Regional Airport, with dozens of smaller airports in the state. Public transit and community transport services for the elderly or those with developmental disabilities are provided by agencies such as the Central Arkansas Transit Authority and the Ozark Regional Transit, organizations that are part of the Arkansas Transit Association.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.145, 0.37662337662337664, 0.20938628158844763, 0.13086642599277978]
+[0.035175879396984924, 0.09210526315789473, 0.05090909090909091, 0.031818181818181815]
+[0.1, 0.2597402597402597, 0.1444043321299639, 0.09025270758122744]
+
+
+SBERT sim. Score: 0.566429853439331

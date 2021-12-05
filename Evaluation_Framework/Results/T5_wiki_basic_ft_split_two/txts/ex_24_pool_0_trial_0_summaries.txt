@@ -1,0 +1,21 @@
+Document:
+south_dakota
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+The state's ecology features species typical of a North American grassland biome. The Great Plains cover most of the western two-thirds of South Dakota. Two national parks have been established in the state, both in its southwestern region. Many travel to view the attractions of the state, particularly those in the Black Hills region, such as historic Deadwood, Mount Rushmore, and the nearby state and national parks. Also in the state are the shorter Interstates 190, a spur into central Rapid City, and 229, a loop around southern and eastern Sioux Falls. Several major US highways pass through the state. The state has minor league and independent league teams, all of which play in Sioux Falls or Rapid City. Sioux Falls is home to four teams: the Sioux Falls Canaries (baseball), the Sioux Falls Skyforce (basketball), the Sioux Falls Stampede (hockey), and the Sioux Falls Storm (indoor American football). The Canaries play in the American Association, and their home field is Sioux Falls Stadium. Other sports, such as cycling and running, are also popular in the state.
+\Predicted Summary:
+is the largest by area, but the 5th most populous, and the 5th least densely populated of the 50 United States . South Dakota ( (sud)) is the state's largest by area, but the 5th least populous, and the 5th least populous of the 50 . South Dakota is bordered by the states of North Dakota (to the north), Minnesota (to the east), Nebraska (to the south), Wyoming (to the west) and Montana (to the northwest)
+
+GT:
+While several Democrats have represented South Dakota for multiple terms in both chambers of Congress, the state government is largely controlled by the Republican Party, whose nominees have carried South Dakota in each of the last 13 presidential elections. South Dakota's history and rural character still strongly influence the state's culture. Wind Cave National Park, established in 1903 in the Black Hills, has an extensive cave network and is home to a large herd of bison. Badlands National Park was established in 1978, and features an eroded, brightly colored landscape surrounded by semi-arid grasslands. Mount Rushmore National Memorial in the Black Hills was established in 1925. Other areas managed by the National Park Service include Jewel Cave National Monument near Custer, the Lewis and Clark National Historic Trail, the Minuteman Missile National Historic Site, which features a decommissioned nuclear missile silo and a separate missile control area several miles away, and the Missouri National Recreational River. The Crazy Horse Memorial is a large mountainside sculpture near Mount Rushmore being built using private funds. The Mammoth Site near Hot Springs is another privately owned attraction in the Black Hills. It is a working paleontological dig and has one of the world's largest concentrations of mammoth remains. The Peter Norbeck National Scenic Byway is in the Black Hills, while the Native American Scenic Byway runs along the Missouri River in the north-central part of the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17154811715481172, 0.5540540540540541, 0.2619808306709265, 0.16373801916932904]
+[0.046218487394957986, 0.1506849315068493, 0.0707395498392283, 0.04421221864951768]
+[0.100418410041841, 0.32432432432432434, 0.15335463258785942, 0.09584664536741215]
+
+
+SBERT sim. Score: 0.31984198093414307

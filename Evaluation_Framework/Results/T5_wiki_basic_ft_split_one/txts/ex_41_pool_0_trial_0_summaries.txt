@@ -1,0 +1,21 @@
+Document:
+rhode_island
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It is the smallest US state by area and the seventh least populous (1,059,361 as of 2019), but it is also the second most densely populated behind New Jersey. Rhode Island is nicknamed the Ocean State and has a number of oceanfront beaches. It is mostly flat with no real mountains, and the state's highest natural point is Jerimoth Hill, 812 feet (247 m) above sea level. Irish Americans have a strong presence in Newport and Kent counties. Although Rhode Island has the smallest land area of all 50 states, it has the second highest population density of any state in the Union, second to that of New Jersey. Additionally, Rhode Island is rated as the 5th most energy efficient state in the country. Rhode Island has been the first in a number of initiatives. Newport Harbor, in particular, holds many pleasure boats. Rhode Island has two professional sports teams, both of which are top-level minor league affiliates for teams in Boston. Before the great expansion of athletic teams all over the country, Providence and Rhode Island in general played a great role in supporting teams. There are four NCAA Division I schools in Rhode Island. Three of the schools' football teams compete in the Football Championship Subdivision, the second-highest level of college football in the United States. All four of the Division I schools in the state compete in an intrastate all-sports competition known as the Ocean State Cup, with Bryant winning the most recent cup in 2011–12 academic year. From 1930 to 1983, America's Cup races were sailed off Newport, and the extreme-sport X Games and Gravity Games were founded and hosted in the state's capital city.
+\Predicted Summary:
+was the first of the Thirteen Colonies to renounce the Treaty . Rhode Island is the seventh most populous state in the state . it is the second most populous state in the state . Rhode Island is located on the mainland .
+
+GT:
+Rhode Island is nicknamed the Ocean State and has a number of oceanfront beaches. In 2011, Rhode Island became the third state in the United States to pass legislation to allow the use of medical marijuana. Additionally, the Rhode Island General Assembly passed civil unions, and it was signed into law by Governor Lincoln Chafee on July 2, 2011. Rhode Island became the eighth state to fully recognize either same-sex marriage or civil unions. Rhode Island has several colleges and universities: Rhode Island, like the rest of New England, has a tradition of clam chowder. Both the white New England and the red Manhattan varieties are popular, but there is also a unique clear-broth chowder known as Rhode Island Clam Chowder available in many restaurants. Rhode Island has two professional sports teams, both of which are top-level minor league affiliates for teams in Boston. The Pawtucket Red Sox baseball team of the Triple-A International League are an affiliate of the Boston Red Sox.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1497005988023952, 0.6410256410256411, 0.24271844660194175, 0.15169902912621358]
+[0.03614457831325301, 0.15789473684210525, 0.0588235294117647, 0.03676470588235294]
+[0.09580838323353294, 0.41025641025641024, 0.15533980582524273, 0.09708737864077671]
+
+
+SBERT sim. Score: 0.5732953548431396

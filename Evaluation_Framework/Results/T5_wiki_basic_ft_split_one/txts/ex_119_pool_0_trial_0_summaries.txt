@@ -1,0 +1,21 @@
+Document:
+louisiana
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Louisiana is bordered by the state of Texas to the west, Arkansas to the north, Mississippi to the east, and the Gulf of Mexico to the south. Louisiana is bordered to the west by Texas This area lies principally along the Gulf of Mexico and the Mississippi River, which traverses the state from north to south for a distance of about 600 mi (970 km) and empties into the Gulf of Mexico; the Red River; the Ouachita River and its branches; and other minor streams (some of which are called bayous). The higher and contiguous hill lands of the north and northwestern part of the state have an area of more than 25,000 square miles (65,000 km2). Besides the waterways already named, there are the Sabine, forming the western boundary; and the Pearl, the eastern boundary; the Calcasieu, the Mermentau, the Vermilion, Bayou Teche, the Atchafalaya, the Boeuf, Bayou Lafourche, the Courtableau River, Bayou D'Arbonne, the Macon River, the Tensas, Amite River, the Tchefuncte, the Tickfaw, the Natalbany River, and a number of other smaller streams, constituting a natural system of navigable waterways, aggregating over 4,000 miles (6,400 km) long. Through a peculiarity of the political geography of the United States, this is substantially less than the 9-mile (14 km)-wide jurisdiction of nearby states Texas and Florida, which, like Louisiana, have extensive Gulf coastlines. The Louisiana Department of Transportation and Development is the state government organization in charge of maintaining public transportation, roadways, bridges, canals, select levees, floodplain management, port facilities, commercial vehicles, and aviation which includes 69 airports. The State Police are primarily a traffic enforcement agency, with other sections that delve into trucking safety, narcotics enforcement, and gaming oversight.
+\Predicted Summary:
+,,, and Spanish,, and,. Louisiana is the 19th-smallest by area and the 25th most populous of the 50 states. Louisiana is the only US state with political subdivisions . Louisiana is the only state with ten that are federally recognized, and four that have not received recognition.
+
+GT:
+Tourism is an important element in the economy, especially in the New Orleans area. The Port of South Louisiana, located on the Mississippi River between New Orleans and Baton Rouge, was the largest volume shipping port in the Western Hemisphere and 4th largest in the world, as well as the largest bulk cargo port in the US in 2004. The Louisiana Department of Transportation and Development is the state government organization in charge of maintaining public transportation, roadways, bridges, canals, select levees, floodplain management, port facilities, commercial vehicles, and aviation which includes 69 airports. The Intracoastal Waterway is an important means of transporting commercial goods such as petroleum and petroleum products, agricultural produce, building materials and manufactured goods. In 2011, Louisiana ranked among the five deadliest states for debris/litter-caused vehicle accidents per total number of registered vehicles and population size. Figures derived from the NHTSA show at least 25 persons in Louisiana were killed per year in motor vehicle collisions with non-fixed objects, including debris, dumped litter, animals and their carcasses.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12643678160919541, 0.4782608695652174, 0.2, 0.12499999999999997]
+[0.005780346820809248, 0.022222222222222223, 0.009174311926605505, 0.005733944954128441]
+[0.08620689655172414, 0.32608695652173914, 0.13636363636363638, 0.08522727272727273]
+
+
+SBERT sim. Score: 0.4798888862133026

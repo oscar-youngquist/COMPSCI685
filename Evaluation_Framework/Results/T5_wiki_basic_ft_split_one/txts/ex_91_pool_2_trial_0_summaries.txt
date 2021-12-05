@@ -1,0 +1,21 @@
+Document:
+utah
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The state has a highly diversified economy, with major sectors including transportation, education, information technology and research, government services, mining; it is also a major tourist destination for outdoor recreation. Economies are dominated by mining, oil shale, oil, and natural gas-drilling, ranching, and recreation. Major industries of Utah include: mining, cattle ranching, salt production, and government services. According to the 2007 State New Economy Index, Utah is ranked the top state in the nation for Economic Dynamism, determined by "the degree to which state economies are knowledge-based, globalized, entrepreneurial, information technology-driven and innovation-based". In 2014, Utah was ranked number one in Forbes' list of "Best States For Business". In eastern Utah petroleum production is a major industry. Since the days of the Utah Territory mining has played a major role in Utah's economy. Today mining activity still plays a major role in the state's economy.
+\Predicted Summary:
+is the only state in the Western United States, with a population of about 3 million . Utah is the 13th-most-populous and 11th-most-populated . it is bordered by Colorado to the east, Wyoming to the northeast, Idaho to the south and Nevada to the west . Utah is the only state where a majority of the population belongs to a single church . Utah is the only state in the state, with a population over three million .
+
+GT:
+Major industries of Utah include: mining, cattle ranching, salt production, and government services. In terms of "small business friendliness", in 2014 Utah emerged as number one, based on a study drawing upon data from more than 12,000 small business owners. In eastern Utah petroleum production is a major industry. In central Utah, coal production accounts for much of the mining activity. Tourism is a major industry in Utah. With five national parks (Arches, Bryce Canyon, Canyonlands, Capitol Reef, and Zion), Utah has the third most national parks of any state after Alaska and California. Utah has seen an increase in tourism since the 2002 Winter Olympics.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.19626168224299065, 0.2727272727272727, 0.22826086956521735, 0.14266304347826084]
+[0.018867924528301886, 0.02631578947368421, 0.02197802197802198, 0.013736263736263736]
+[0.14018691588785046, 0.19480519480519481, 0.1630434782608696, 0.1019021739130435]
+
+
+SBERT sim. Score: 0.5568434596061707

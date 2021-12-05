@@ -1,0 +1,21 @@
+Document:
+ohio
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Because Ohio links the Northeast to the Midwest, much cargo and business traffic passes through its borders along its well-developed highways. Many major east–west transportation corridors go through Ohio. Ohio has a highly developed network of roads and interstate highways. Major north–south routes include I-75 in the west through Toledo, Dayton, and Cincinnati, I-71 through the middle of the state from Cleveland through Columbus and Cincinnati into Kentucky, and I-77 in the eastern part of the state from Cleveland through Akron, Canton, New Philadelphia and Marietta south into West Virginia. Ohio also has a highly developed network of signed state bicycle routes. Ohio has extensive railroads, though today most are only utilized by freight companies. Major cities in the north and south of Ohio lie on Amtrak intercity rail lines. Mass transit exists in many forms in Ohio cities, primarily through bus systems, though Cleveland has light and heavy rail through the GCRTA, and Cincinnati reestablished a streetcar line in 2016.
+\Predicted Summary:
+, Ohio is the seventh largest metropolitan area in the country . Ohio is the second largest state in the country . Ohio is the capital of the state, with the state's capital being Columbus . Ohio is known as the "Buckeye State" after its Ohio buckeye trees .
+
+GT:
+Many major east–west transportation corridors go through Ohio. Ohio has a highly developed network of roads and interstate highways. Ohio also has a highly developed network of signed state bicycle routes. Many of them follow rail trails, with conversion ongoing. Ohio has several long-distance hiking trails, the most prominent of which is the Buckeye Trail which extends 1,444 mi (2,324 km) in a loop around the state of Ohio. Ohio has extensive railroads, though today most are only utilized by freight companies. Major cities in the north and south of Ohio lie on Amtrak intercity rail lines. Mass transit exists in many forms in Ohio cities, primarily through bus systems, though Cleveland has light and heavy rail through the GCRTA, and Cincinnati reestablished a streetcar line in 2016. Ohio has four international airports, four commercial, and two military.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1267605633802817, 0.4, 0.19251336898395724, 0.1203208556149733]
+[0.028368794326241134, 0.09090909090909091, 0.043243243243243246, 0.027027027027027025]
+[0.08450704225352113, 0.26666666666666666, 0.1283422459893048, 0.08021390374331551]
+
+
+SBERT sim. Score: 0.5630715489387512

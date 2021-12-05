@@ -1,0 +1,21 @@
+Document:
+alabama
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+The state's economy in the 21st century is based on management, automotive, finance, manufacturing, aerospace, mineral extraction, healthcare, education, retail, and technology. The state is usually ranked among the top in nation for its range of overall biodiversity. According to the US Bureau of Economic Analysis, the 2008 total gross state product was $170 billion, or $29,411 per capita. In 2010, per capita income for the state was $22,984. As of 2018, Alabama has the sixth highest poverty rate among states in the US According to Business Insider, Alabama ranked 14th in most popular states to visit in 2014. Alabama's threshold is the lowest among the 41 states and the District of Columbia with income taxes.
+\Predicted Summary:
+,, founded by French colonists in 1702 as the capital of French Louisiana . Alabama () is a state in the Deep South region of the Southern United States, bordered by Tennessee to the north; . Alabama is the 30th-most populous by area and the most populous of any state . Alabama () is a state in the Deep South region of the Southern United States, bordering by Tennessee to the north; Alabama to the east; Alabama is the largest city by land area .
+
+GT:
+Alabama is home to a diverse array of flora and fauna in habitats that range from the Tennessee Valley, Appalachian Plateau, and Ridge-and-Valley Appalachians of the north to the Piedmont, Canebrake, and Black Belt of the central region to the Gulf Coastal Plain and beaches along the Gulf of Mexico in the south. Several Hindu temples and cultural centers in the state have been founded by Indian immigrants and their descendants, the best-known being the Shri Swaminarayan Mandir in Birmingham, the Hindu Temple and Cultural Center of Birmingham in Pelham, the Hindu Cultural Center of North Alabama in Capshaw, and the Hindu Mandir and Cultural Center in Tuscaloosa. The state's seasonally adjusted unemployment rate was 5.8% in April 2015. Alabama currently ranks 4th in the nation for vehicle exports. According to Business Insider, Alabama ranked 14th in most popular states to visit in 2014. The state is home to various attractions, natural features, parks and events that attract visitors from around the globe, notably the annual Hangout Music Festival, held on the public beaches of Gulf Shores; the Alabama Shakespeare Festival, one of the ten largest Shakespeare festivals in the world; the Robert Trent Jones Golf Trail, a collection of championship caliber golf courses distributed across the state; casinos such as Victoryland; amusement parks such as Alabama Splash Adventure; the Riverchase Galleria, one of the largest shopping centers in the southeast; Guntersville Lake, voted the best lake in Alabama by Southern Living Magazine readers; and the Alabama Museum of Natural History, the oldest museum in the state. Mobile is known for having the oldest organized Mardi Gras celebration in the United States, beginning in 1703. Alabama has historically been a popular region for film shoots due to its diverse landscapes and contrast of environments.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1705685618729097, 0.6455696202531646, 0.2698412698412698, 0.16865079365079363]
+[0.0436241610738255, 0.16666666666666666, 0.06914893617021277, 0.043218085106382975]
+[0.10033444816053512, 0.379746835443038, 0.15873015873015875, 0.0992063492063492]
+
+
+SBERT sim. Score: 0.48814401030540466

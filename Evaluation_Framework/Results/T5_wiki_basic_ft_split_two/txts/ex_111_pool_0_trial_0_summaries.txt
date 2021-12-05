@@ -1,0 +1,21 @@
+Document:
+delaware
+
+Intent:
+How is the government structured in this state?
+
+Input:
+Delaware's fourth and current constitution, adopted in 1897, provides for executive, judicial and legislative branches. The Delaware General Assembly consists of a House of Representatives with 41 members and a Senatorte with 21 members. Representatives are elected to two-year terms, while senators are elected to four-year terms. The Senatorte confirms judicial and other nominees appointed by the governor. The Delaware Constitution establishes a number of courts: The executive branch is headed by the Governor of Delaware. The governor presents a "State of the State" speech to a joint session of the Delaware legislature annually. Currently, Democrats hold all positions of authority in Delaware including Senatorte and House. New Castle County also elects a substantial majority of the legislature
+\Predicted Summary:
+, Delaware, Delaware, and Delaware is the second-largest city in the state . Delaware is divided into three counties, having the lowest number of any state . Delaware is a state in the Mid-Atlantic region of the United States . Delaware is a state in the Mid-Atlantic region, and is the second-largest state . Delaware was inhabited by several groups of Native Americans, including the lenape in the north and Nanticoke in the south .
+
+GT:
+Delaware's fourth and current constitution, adopted in 1897, provides for executive, judicial and legislative branches. The Delaware General Assembly consists of a House of Representatives with 41 members and a Senatorte with 21 members. Representatives are elected to two-year terms, while senators are elected to four-year terms. The Delaware Constitution establishes a number of courts: Significantly, Delaware has one of the few remaining Courts of Chancery in the nation, which has jurisdiction over equity cases, the vast majority of which are corporate disputes, many relating to mergers and acquisitions. The executive branch is headed by the Governor of Delaware. Delaware is subdivided into three counties; from north to south they are New Castle, Kent and Sussex. Each county elects its own legislative body (known in New Castle and Sussex counties as County Council, and in Kent County as Levy Court), which deal primarily in zoning and development issues. Most functions which are handled on a county-by-county basis in other states—such as court and law enforcement—have been centralized in Delaware, leading to a significant concentration of power in the Delaware state government.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2127659574468085, 0.547945205479452, 0.3065134099616858, 0.19157088122605365]
+[0.0427807486631016, 0.1111111111111111, 0.06177606177606177, 0.03861003861003861]
+[0.11702127659574468, 0.3013698630136986, 0.1685823754789272, 0.1053639846743295]
+
+
+SBERT sim. Score: 0.5836759805679321

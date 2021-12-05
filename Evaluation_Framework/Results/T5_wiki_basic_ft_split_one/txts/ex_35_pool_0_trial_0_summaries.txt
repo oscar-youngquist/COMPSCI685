@@ -1,0 +1,21 @@
+Document:
+arizona
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+It is also part of the Western and the Mountain states. Historic US Route 66 is the main east–west street in the town. Main Interstate routes include I-17, and I-19 traveling north–south, I-8, I-10, and I-40, traveling east–west, and a short stretch of I-15 traveling northeast–southwest through the extreme northwestern corner of the state. In addition, the various urban areas are served by complex networks of state routes and highways, such as the Loop 101, which is part of Phoenix's vast freeway system. Yuma and Flagstaff also have public bus systems. Greyhound Lines serves Phoenix, Tucson, Flagstaff, Yuma, and several smaller communities statewide. Amtrak Southwest Chief route serves the northern part of the state, stopping at Winslow, Flagstaff, Williams and Kingman.
+\Predicted Summary:
+,, Arizona, Arizona, and Arizona, Nevada, and Mexico. Arizona is the 6th largest and the 14th most populous of the 50 states. Arizona has 27 federally recognized Native American tribes, including the Navajo Nation. Arizona has a population of more than 300,000 people. it is part of the Western and the Mountain states, and is part of the United States .
+
+GT:
+The composition of the state's economy is moderately diverse; although health care, transportation and the government remain the largest sectors. Main Interstate routes include I-17, and I-19 traveling north–south, I-8, I-10, and I-40, traveling east–west, and a short stretch of I-15 traveling northeast–southwest through the extreme northwestern corner of the state. The Phoenix and Tucson metropolitan areas are served by public bus transit systems. Greyhound Lines serves Phoenix, Tucson, Flagstaff, Yuma, and several smaller communities statewide. A light rail system, called Valley Metro Rail, was completed in December 2008; it connects Central Phoenix with the nearby cities of Mesa and Tempe. In Tucson, the Sun Link streetcar system travels through the downtown area, connecting the main University of Arizona campus with Mercado San Agustin on the western edge of downtown Tucson. Sun Link, loosely based on the Portland Streetcar, launched in July 2014. Amtrak Southwest Chief route serves the northern part of the state, stopping at Winslow, Flagstaff, Williams and Kingman. Airports with regularly scheduled commercial flights include: Phoenix Sky Harbor International Airport (IATA: PHX, ICAO: KPHX) in Phoenix (the state's largest airport and the major international airport); Tucson International Airport (IATA: TUS, ICAO: KTUS) in Tucson; Phoenix-Mesa Gateway Airport (IATA: AZA, ICAO: KIWA) in Mesa; Yuma International Airport (IATA: NYL, ICAO: KNYL) in Yuma; Prescott Municipal Airport (PRC) in Prescott; Flagstaff Pulliam Airport (IATA: FLG, ICAO: KFLG) in Flagstaff, and Grand Canyon National Park Airport (IATA: GCN, ICAO: KGCN, FAA: GCN), a small, but busy, single-runway facility providing tourist flights, mostly from Las Vegas.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1044776119402985, 0.4666666666666667, 0.17073170731707318, 0.10670731707317073]
+[0.026217228464419477, 0.11864406779661017, 0.04294478527607363, 0.026840490797546017]
+[0.0708955223880597, 0.31666666666666665, 0.11585365853658536, 0.07240853658536585]
+
+
+SBERT sim. Score: 0.3179500699043274

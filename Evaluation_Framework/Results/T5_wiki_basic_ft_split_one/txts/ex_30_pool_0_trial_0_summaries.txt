@@ -1,0 +1,21 @@
+Document:
+nevada
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Nevada is the 7th-most extensive, the 19th-least populous, but the 9th-least densely populated of the US states. Nevada ranks second in the United States by the number of mountains, behind Alaska, and ahead of California, Montana, and Washington. From about the 1940s until 2003, Nevada was the fastest-growing state in the US percentage-wise. Thus, in terms of population, Nevada is one of the most centralized states in the nation. Due to heavy growth in the southern portion of the state, there is a noticeable divide between the politics of northern and southern Nevada. The north has long maintained control of key positions in state government, even while the population of southern Nevada is larger than the rest of the state combined. The state is ranked just below California, Texas, Florida, and New York in the total number of rooms, but those states have much larger populations.
+\Predicted Summary:
+is the 7th-most extensive, but the 9th-least densely populated of the US states . Nevada is the 7th-most extensive, the 19th-least populous, but the 9th-east densely populated of the states . Nevada is the 7th-most extensive, but the 9th-least densely populated region .
+
+GT:
+Nevada has had a thriving solar energy sector. An independent study in 2013 concluded that solar users created a $36 million net benefit. Nevada's early reputation as a "divorce haven" arose from the fact that before the no-fault divorce revolution in the 1970s, divorces were difficult to obtain in the United States. Already having legalized gambling and prostitution, Nevada continued the trend of boosting its profile by adopting one of the most liberal divorce statutes in the nation. Nevada's tax laws are intended to draw new residents and businesses to the state. Nevada has no personal income tax or corporate income tax. Since Nevada does not collect income data it cannot share such information with the federal government, the IRS. In 2009, the Nevada Legislature passed a bill creating a domestic partnership registry which enables gay couples to enjoy the same rights as married couples. In FY08 their 266 casinos (not counting ones with annual revenue under a million dollars) brought in $12 billion in gaming revenue and another $13 billion in non-gaming revenue. Prostitution is legal in parts of Nevada in licensed brothels, but only counties with populations under 400,000 have the option to legalize it.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09405940594059406, 0.40425531914893614, 0.15261044176706826, 0.09538152610441766]
+[0.014925373134328358, 0.06521739130434782, 0.024291497975708502, 0.015182186234817811]
+[0.06930693069306931, 0.2978723404255319, 0.11244979919678715, 0.07028112449799197]
+
+
+SBERT sim. Score: 0.41021817922592163

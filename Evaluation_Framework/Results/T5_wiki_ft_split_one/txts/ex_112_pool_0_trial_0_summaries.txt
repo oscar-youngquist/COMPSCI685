@@ -1,0 +1,21 @@
+Document:
+arkansas
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Generally, Arkansas, has hot, humid summers and slightly drier, mild to cool winters. Snowfall is infrequent but most common in the northern half of the state. In terms of race and ethnicity, the state was 80.1% white (74.2% non-Hispanic white), 15.6% black or African American, 0.9% American Indian and Alaska Native, 1.3% Asian, and 1.8% from two or more races. A 2010 survey of the principal ancestries of Arkansas's residents revealed the following: According to CNBC, Arkansas ranks as the 20th best state for business, with the 2nd-lowest cost of doing business, 5th-lowest cost of living, 11th best workforce, 20th-best economic climate, 28th-best educated workforce, 31st-best infrastructure and the 32nd-friendliest regulatory environment. As of 2014, Arkansas was the most affordable US state to live in. As of 2012, Arkansas, as with many Southern states, has a high incidence of premature death, infant mortality, cardiovascular deaths, and occupational fatalities compared to the rest of the United States. The state is tied for 43rd with New York in percentage of adults who regularly exercise.
+\Predicted Summary:
+, Arkansas, is a state in the south central United States, home to more than three million people . Arkansas () is a state in the south central United States, home to more than three million people as of 2018 . it is home to more than three million people as of 2018 .
+
+GT:
+Arkansas is home to a dozen Wilderness Areas totaling 158,444 acres (641.20 km2). These areas are set aside for outdoor recreation and are open to hunting, fishing, hiking, and primitive camping. Arkansas has many rivers, lakes, and reservoirs within or along its borders. Arkansas generally has a humid subtropical climate. Six Fortune 500 companies are based in Arkansas, including the world's #1 retailer, Walmart; Tyson Foods, J.B. Hunt, Dillard's, Murphy USA, and Windstream are also headquartered in the state. According to CNBC, Arkansas ranks as the 20th best state for business, with the 2nd-lowest cost of doing business, 5th-lowest cost of living, 11th best workforce, 20th-best economic climate, 28th-best educated workforce, 31st-best infrastructure and the 32nd-friendliest regulatory environment. As of October 2019, the state's unemployment rate is 3.5%. Sports are also very important to the culture of Arkansas, ranging from football, baseball, and basketball to hunting and fishing.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13043478260869565, 0.42857142857142855, 0.2, 0.125]
+[0.03125, 0.10416666666666667, 0.04807692307692307, 0.03004807692307692]
+[0.09316770186335403, 0.30612244897959184, 0.14285714285714285, 0.08928571428571429]
+
+
+SBERT sim. Score: 0.6410233974456787

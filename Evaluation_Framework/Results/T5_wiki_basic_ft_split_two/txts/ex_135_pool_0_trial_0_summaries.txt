@@ -1,0 +1,21 @@
+Document:
+maine
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It is also the northeasternmost among the contiguous United States, the northernmost state east of the Great Lakes, and the only state to border only one other state. As of 2010, Maine was also the most rural state in the Union, with only 38.7% of the state's population living within urban areas. The modest population growth in the state has been concentrated in the southern coastal counties However, the northern, more rural areas of the state have experienced a slight decline in population in recent years. The state is a popular destination for sport hunting (particularly deer, moose and bear), sport fishing, snowmobiling, skiing, boating, camping and hiking, among other activities. The state is a major producer of potatoes, wild blueberries, apples, maple syrup and sweet corn. Since the 1980s, the state has gotten a reputation for its local food and restaurant meals.
+\Predicted Summary:
+, the northeasternmost of the 50 US states, is the northeasternmost of the state . it is the 13th-least of the 50 US states . Maine is the northeasternmost of the state, the 13th-least of the state . it is the only state to border only one other state .
+
+GT:
+There are thirty institutions of higher learning in Maine. These institutions include the University of Maine, which is the oldest, largest and only research university in the state. Bowdoin College is a liberal arts college founded in 1794 in Brunswick, making it the oldest institution of higher learning in the state. The collegiate system of Maine also includes numerous baccalaureate colleges such as: the Maine Maritime Academy (MMA), Unity College, and Thomas College. Since the 1980s, the state has gotten a reputation for its local food and restaurant meals. Portland was named Bon Appetit magazine's Restaurant City of the Year in 2018.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.22330097087378642, 0.48936170212765956, 0.30666666666666664, 0.19166666666666662]
+[0.058823529411764705, 0.13043478260869565, 0.08108108108108109, 0.05067567567567568]
+[0.17475728155339806, 0.3829787234042553, 0.24, 0.15]
+
+
+SBERT sim. Score: 0.3792359232902527

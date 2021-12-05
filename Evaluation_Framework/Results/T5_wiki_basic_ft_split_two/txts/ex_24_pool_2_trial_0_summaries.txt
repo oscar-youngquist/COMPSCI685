@@ -1,0 +1,21 @@
+Document:
+new_mexico
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It is one of the Mountain States and shares the Four Corners region with Utah, Colorado, and Arizona. New Mexico is also bordered by the state of Texas to the east-southeast, Oklahoma to the northeast, and the Mexican states of Chihuahua to the south and Sonora to the southwest. Due to their geographic locations, northern and eastern New Mexico exhibit a colder, alpine climate, while western and southern New Mexico exhibit a warmer, arid climate. The states of New Mexico, Colorado, Arizona, and Utah come together at the Four Corners in New Mexico's northwestern corner. Despite New Mexico's arid image, heavily forested mountain wildernesses cover a significant portion of the state, especially towards the north. Areas managed by the New Mexico State Parks Division: Other areas of geographical and scenic interest include Kasha-Katuwe Tent Rocks National Monument and the Gila Wilderness in the southwest of the state. It included most of the present-day states of Arizona and New Mexico, and part of Colorado. No major league professional sports teams are based in New Mexico, but the Albuquerque Isotopes are a Pacific Coast League Triple-A baseball affiliate of the MLB Colorado Rockies. Collegiate athletics in New Mexico involve various New Mexico Lobos and New Mexico State Aggies teams in many sports.
+\Predicted Summary:
+is the largest state in the United States of America. New Mexico (Spanish: Nuevo México; Navajo: Yootó Hahoodzo; hotso]) is a state in the south-southeast of the United States; its capital is Santa Fe; its capital is Santa Fe; its capital is Santa Fe; its capital is Santa Fe; and its largest city is Albuquerque; its largest is the south-southeast
+
+GT:
+Due to their geographic locations, northern and eastern New Mexico exhibit a colder, alpine climate, while western and southern New Mexico exhibit a warmer, arid climate. The states of New Mexico, Colorado, Arizona, and Utah come together at the Four Corners in New Mexico's northwestern corner. New Mexico's statewide average precipitation is 12.9 inches (330 mm) a year, with average monthly amounts peaking in the summer, as at Albuquerque, and Las Cruces in the south. Astronomical observatories in New Mexico take advantage of unusually clear skies, including the Apache Point Observatory, the Very Large Array, the Magdalena Ridge Observatory, and others. As of 2007, active-duty military salaries are exempt from state income tax. New Mexico is one of the largest tax havens in the US, offering numerous economic incentives and tax breaks on personal and corporate income. It does not have inheritance tax, estate tax, or sales taxes. The New Mexico Rail Runner Express is a commuter rail system serving the metropolitan area of Albuquerque, New Mexico. Larger cities in New Mexico typically have some form of public transportation by road A commuter rail operation, the New Mexico Rail Runner Express, connects the state's capital, its largest city, and other communities. Front Range Commuter Rail is a project to connect Wyoming and New Mexico with high-speed rail. Albuquerque has the New Mexico Museum of Natural History and Science, the National Hispanic Cultural Center, and the National Museum of Nuclear Science & History, as well as hosts the famed annual Albuquerque International Balloon Fiesta every fall.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10384615384615385, 0.42857142857142855, 0.1671826625386997, 0.10448916408668732]
+[0.03861003861003861, 0.16129032258064516, 0.062305295950155756, 0.03894080996884735]
+[0.08461538461538462, 0.3492063492063492, 0.13622291021671826, 0.08513931888544891]
+
+
+SBERT sim. Score: 0.5272548794746399

@@ -1,0 +1,21 @@
+Document:
+new_hampshire
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+The most densely populated areas generally lie within 50 miles (80 km) of the Massachusetts border, and are concentrated in two areas: along the Merrimack River Valley running from Concord to Nashua, and in the Seacoast Region along an axis stretching from Rochester to Portsmouth. New Hampshire has a well-maintained, well-signed network of Interstate highways, US highways, and state highways. Several route numbers align with the same route numbers in neighboring states. State highway numbering is arbitrary, with no overall system as with US and Interstate systems. Major routes include: New Hampshire has 25 public-use airports, three with some scheduled commercial passenger service. Long-distance intercity passenger rail service is provided by Amtrak's Vermonter and Downeaster lines. Greyhound, Concord Coach, Vermont Translines and Dartmouth Coach all provide intercity bus connections to and from points in New Hampshire and to long-distance points beyond and in between. As of 2013, Boston-centered MBTA Commuter Rail services reach only as far as northern Massachusetts. The New Hampshire Rail Transit Authority is working to extend "Capital Corridor" service from Lowell, Massachusetts, to Nashua, Concord, and Manchester, including Manchester-Boston Regional Airport; and "Coastal Corridor" service from Haverhill, Massachusetts, to Plaistow, New Hampshire. The I-93 Corridor transit study suggested a rail alternative along the Manchester and Lawrence branch line which could provide freight and passenger service. This rail corridor would also have access to Manchester-Boston Regional Airport. Eleven public transit authorities operate local and regional bus services around the state, and eight private carriers operate express bus services which link with the national intercity bus network.
+\Predicted Summary:
+New Hampshire is a state in the Northeastern United States region . New Hampshire is the 5th most populous state by area and the largest city . New Hampshire is the largest city in the nation . New Hampshire is the largest city of the country .
+
+GT:
+New Hampshire has 25 public-use airports, three with some scheduled commercial passenger service. The busiest airport by number of passengers handled is Manchester-Boston Regional Airport in Manchester and Londonderry, which serves the Greater Boston metropolitan area. Long-distance intercity passenger rail service is provided by Amtrak's Vermonter and Downeaster lines. Greyhound, Concord Coach, Vermont Translines and Dartmouth Coach all provide intercity bus connections to and from points in New Hampshire and to long-distance points beyond and in between. As of 2013, Boston-centered MBTA Commuter Rail services reach only as far as northern Massachusetts. The New Hampshire Rail Transit Authority is working to extend "Capital Corridor" service from Lowell, Massachusetts, to Nashua, Concord, and Manchester, including Manchester-Boston Regional Airport; and "Coastal Corridor" service from Haverhill, Massachusetts, to Plaistow, New Hampshire. Legislation in 2007 created the New Hampshire Rail Transit Authority (NHRTA) with the goal of overseeing the development of commuter rail in the state of New Hampshire. The I-93 Corridor transit study suggested a rail alternative along the Manchester and Lawrence branch line which could provide freight and passenger service. Freight railways in New Hampshire include Claremont & Concord Railroad (CCRR), Pan Am Railways via subsidiary Springfield Terminal Railway (ST), the New England Central Railroad (NHR, the St. Lawrence and Atlantic Railroad (SLR), and New Hampshire Northcoast Corporation (NHN).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12053571428571429, 0.627906976744186, 0.20224719101123595, 0.12640449438202248]
+[0.02242152466367713, 0.11904761904761904, 0.03773584905660377, 0.023584905660377357]
+[0.08482142857142858, 0.4418604651162791, 0.14232209737827714, 0.08895131086142323]
+
+
+SBERT sim. Score: 0.47720080614089966

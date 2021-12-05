@@ -1,0 +1,21 @@
+Document:
+pennsylvania
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Pennsylvania is the 33rd-largest state by area, and the 5th-most populous state according to the most recent official US Census count in 2010. It is the 9th-most densely populated of the 50 states. It is the 33rd-largest state in the United States.Pennsylvania has 51 miles (82 km) of coastline along Lake Erie and 57 miles (92 km) of shoreline along the Delaware Estuary. The state has five geographical regions, namely the Allegheny Plateau, Ridge and Valley, Atlantic Coastal Plain, Piedmont, and the Erie Plain. The southern portion of the state has a humid subtropical climate. At the time it was the most ethnically and religiously diverse of the thirteen States. The state has a high in-migration of black and Hispanic people from other nearby states, with eastern and south-central portions of the state seeing the bulk of the increases. Pennsylvania also has a very large Amish population, second only to Ohio among the states. For most of the second half of the 20th century and into the 21st century, Pennsylvania has been a powerful swing state.
+\Predicted Summary:
+, the state's capital and its 13th-largest city is Harrisburg . Pennsylvania is the 33rd-largest state by area, and the 5th-most populous state according to the most recent official US Census count in 2010 . Pennsylvania is the 9th-most densely populated of the 50 states .
+
+GT:
+Summers are generally hot and humid. Western areas of the state, particularly locations near Lake Erie, can receive over 100 inches (250 cm) of snowfall annually, and the entire state receives plentiful precipitation throughout the year. Of the people residing in Pennsylvania, 74.5% were born in Pennsylvania, 18.4% were born in a different US state, 1.5% were born in Puerto Rico, US Island areas, or born abroad to American parent(s), and 5.6% were foreign born. Pennsylvania's 2018 total gross state product (GSP) of $803 billion ranks the state 6th in the nation. If Pennsylvania were an independent country, its economy would rank as the 19th-largest in the world. As of May 2020, the state's unemployment rate is 13.1%. Pennsylvania ranks 19th overall in agricultural production. Currently, there are nine casinos across the state with three under construction or in planning. For most of the second half of the 20th century and into the 21st century, Pennsylvania has been a powerful swing state. Pennsylvania is home to the nation's first zoo, the Philadelphia Zoo. All 121 state parks in Pennsylvania feature free admission. Pennsylvania has seven major airports: Philadelphia International, Pittsburgh International, Lehigh Valley International, Harrisburg International, Erie International, University Park Airport and Wilkes-Barre/Scranton International. Author Sharon Hernes Silverman calls Pennsylvania the snack food capital of the world.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11790393013100436, 0.574468085106383, 0.19565217391304351, 0.12228260869565218]
+[0.02631578947368421, 0.13043478260869565, 0.043795620437956206, 0.02737226277372263]
+[0.08733624454148471, 0.425531914893617, 0.14492753623188404, 0.09057971014492752]
+
+
+SBERT sim. Score: 0.6126526594161987

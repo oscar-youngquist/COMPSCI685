@@ -1,0 +1,21 @@
+Document:
+texas
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Railroad networks grew rapidly as did the port at Galveston as commerce between Texas and the rest of the US (and the rest of the world) expanded. Three interstate highways—I-35 to the west (Dallas–Fort Worth to San Antonio, with Austin in between), I-45 to the east (Dallas to Houston), and I-10 to the south (San Antonio to Houston) define the Texas Urban Triangle region. These cities are spread out amongst the state. Texas has compensated by building America's largest highway and railway systems. The state is an important transportation hub. The next five largest airports in the state all serve more than three million passengers annually; they include Austin-Bergstrom International Airport, William P. Hobby Airport, San Antonio International Airport, Dallas Love Field and El Paso International Airport. In the Austin area, Capital Metropolitan Transportation Authority operates a commuter rail service known as Capital MetroRail to the northwestern suburbs. Three scheduled routes serve the state: the daily Texas Eagle (Chicago–San Antonio); the tri-weekly Sunset Limited (New Orleans–Los Angeles), with stops in Texas; and the daily Heartland Flyer (Fort Worth–Oklahoma City).
+\Predicted Summary:
+, Texas is the second largest state in the state, and has the second-largest population in the state . Texas is the second largest state in the state, and is the second largest in the country . Texas is nicknamed the "Lone Star State" for its former independence .
+
+GT:
+The first Texas freeway was the Gulf Freeway opened in 1948 in Houston. All federal and state highways in Texas are paved. Texas has 730 airports, second-most of any state in the nation. Largest in Texas by size and passengers served, Dallas/Fort Worth International Airport (DFW) is the second-largest by area in the United States, and fourth in the world with 18,076 acres (73.15 km2). Texas's second-largest air facility is Houston's George Bush Intercontinental Airport (IAH). The smallest airport in the state to be designated an international airport is Del Rio International Airport. Around 1,150 seaports dot Texas's coast with over 1,000 miles (1,600 km) of channels. Texas ports connect with the rest of the US Atlantic seaboard with the Gulf section of the Intracoastal Waterway. In the Dallas–Fort Worth area, three public transit agencies provide rail service: Dallas Area Rapid Transit (DART), Denton County Transportation Authority (DCTA), and Trinity Metro. DART began operating the first light rail system in the Southwest United States in 1996. The Trinity Railway Express (TRE) commuter rail service, which connects Fort Worth and Dallas, is provided by Trinity Metro and DART. Trinity Metro also operates the TEXRail commuter rail line, connecting downtown Fort Worth and Northeast Tarrant County to DFW Airport. The A-train commuter rail line, operated by DCTA, acts as an extension of the DART Green line into Denton County. In the Austin area, Capital Metropolitan Transportation Authority operates a commuter rail service known as Capital MetroRail to the northwestern suburbs. The Metropolitan Transit Authority of Harris County, Texas (METRO) operates light rail lines in the Houston area. Amtrak provides Texas with limited intercity passenger rail service. Three scheduled routes serve the state: the daily Texas Eagle (Chicago–San Antonio); the tri-weekly Sunset Limited (New Orleans–Los Angeles), with stops in Texas; and the daily Heartland Flyer (Fort Worth–Oklahoma City). Texas may get one of the nation's first high-speed rail line. Plans for a privately funded high-speed rail line between Dallas and Houston have been planned by the Texas Central Railway company.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1005586592178771, 0.782608695652174, 0.17821782178217824, 0.1113861386138614]
+[0.0392156862745098, 0.3111111111111111, 0.06965174129353234, 0.043532338308457715]
+[0.08100558659217877, 0.6304347826086957, 0.14356435643564358, 0.08972772277227724]
+
+
+SBERT sim. Score: 0.4816434979438782

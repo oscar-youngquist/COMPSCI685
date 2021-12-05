@@ -4,7 +4,7 @@ import pandas as pd
 import logging
 from utils.filtering import Sentence_Prefilter_Wrapper
 from utils.utils import get_sentences, get_avg_example_length, suppress_stdout, set_global_logging_level
-from utils.model_training import wiki_trasnfer_training, fine_tune_model
+from utils.model_training import wiki_trasnfer_training, fine_tune_model, fine_tune_model_aug
 from transformers import T5ForConditionalGeneration, T5Tokenizer, Seq2SeqTrainingArguments
 import torch
 # from torch.utils.data import DataLoader
@@ -71,16 +71,17 @@ class T5_Wiki(Model):
         )
 
 
-        # self.fine_tune_args = Seq2SeqTrainingArguments(
-        #     output_dir="t5_trainer",
-        #     do_train=True,
-        #     learning_rate=self.lr,
-        #     num_train_epochs=self.finetune_epochs,
-        #     generation_num_beams=1,
-        #     label_smoothing_factor=self.smoothing,
-        #     per_device_train_batch_size=self.batch_size,
-        #     warmup_ratio=0.1, 
-        # )
+        self.fine_tune_args = Seq2SeqTrainingArguments(
+            output_dir="t5_trainer",
+            do_train=True,
+            learning_rate=5e-6,
+            num_train_epochs=20,
+            generation_num_beams=1,
+            label_smoothing_factor=self.smoothing,
+            per_device_train_batch_size=2,
+            warmup_ratio=0.1,
+            save_strategy="no" 
+        )
 
 
     # reset model to default state after. Be explicitly very clear about the data management. 
@@ -101,17 +102,23 @@ class T5_Wiki(Model):
           # function in utils/model_training.py that actual does the training of the
           wiki_trasnfer_training(self.wiki_args, self.model, processed_ctr, self.wiki_path,
               self.tokenizer, self.input_token_len, self.device)
+
+        #   fine_tune_model(trainer_args=self.fine_tune_args, model=self.model, tokenizer=self.tokenizer, token_len=self.input_token_len, lr=self.lr, adam_ep=self.adam_ep,
+        #                     batch_size=self.batch_size, epochs=self.finetune_epochs, example_summaries=example_summaries,
+        #                     sentence_prefilter=self.filter_obj.nearest_neighbor_bert_summary_filtering,
+        #                     prefilter_len=int(2*avg_len), df=self.df, device=self.device)
+
+          # fine_tune_model_aug(trainer_args=self.fine_tune_args, model=self.model, tokenizer=self.tokenizer, token_len=self.input_token_len, lr=self.lr, adam_ep=self.adam_ep,
+          #                       batch_size=self.batch_size, epochs=self.finetune_epochs, example_summaries=example_summaries,
+          #                       sentence_prefilter=self.filter_obj.nearest_neighbor_bert_summary_filtering,
+          #                       prefilter_len=int(2*avg_len), df=self.df, aug_path=self.aug_path, gamma=self.gamma, device=self.device, use_wandb=self.use_wandb, num_aug=self.num_aug)
+                            
           self.num_pred += 1
         else:
           self.num_pred += 1
         
         if self.num_pred == 3:
           self.num_pred = 0
-
-        # fine_tune_model(trainer_args=self.fine_tune_args, model=self.model, tokenizer=self.tokenizer, token_len=self.input_token_len, lr=self.lr, adam_ep=self.adam_ep,
-        #                     batch_size=self.batch_size, epochs=self.finetune_epochs, example_summaries=example_summaries,
-        #                     sentence_prefilter=self.filter_obj.nearest_neighbor_bert_summary_filtering,
-        #                     prefilter_len=int(2*avg_len), df=self.df, device=self.device)
 
         summaries = [" ".join(summary['sentences']) for summary in example_summaries]
 

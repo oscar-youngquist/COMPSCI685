@@ -1,0 +1,21 @@
+Document:
+south_dakota
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+South Dakota has 83,609 miles (134,556 km) of highways, roads, and streets, along with 679 miles (1,093 km) of interstate highways. Two major interstates pass through South Dakota: Interstate 90, which runs east and west through the southern half of the state; and Interstate 29, running north and south in the eastern portion of the state. The I-29 corridor features generally higher rates of population and economic growth than areas in eastern South Dakota further from the interstate. Also in the state are the shorter Interstates 190, a spur into central Rapid City, and 229, a loop around southern and eastern Sioux Falls. Several major US highways pass through the state. US routes 12, 14, 16, 18 and 212 travel east and west, while US routes 81, 83, 85 and 281 run north and south. Other state carriers include Dakota Southern Railway, Dakota and Iowa Railroad, Ellis and Eastern Railroad, Sunflour Railroad, Canadian Pacific Railway, and the Sisseton Milbank Railroad. Rail transportation in the state is mostly freight, but there are two passenger heritage railroads: the Black Hills Central and the Prairie Village, Herman, and Milwaukee.
+\Predicted Summary:
+, the state of South Dakota is a state in the midwestern region of the state . South Dakota is the seventeenth largest state by area, but the 5th least populous, and the 5th least densely populated . the south is bordered by the states of North Dakota (to the north), Minnesota (to the east), Iowa (to the southeast), Wyoming (to the west), and Montana (to the northwest). South Dakota is the 5th least densely populated of the 50 United States, and the state
+
+GT:
+South Dakota has 83,609 miles (134,556 km) of highways, roads, and streets, along with 679 miles (1,093 km) of interstate highways. Two major interstates pass through South Dakota: Interstate 90, which runs east and west through the southern half of the state; and Interstate 29, running north and south in the eastern portion of the state. Railroads have played an important role in South Dakota transportation since the mid-19th century. Some 4,420 miles (7,110 km) of railroad track were built in South Dakota during the late 19th century and early 20th century, but only 1,839 miles (2,960 km) are active. South Dakota's largest commercial airports in terms of passenger traffic are the Sioux Falls Regional Airport and Rapid City Regional Airport. Delta Air Lines, Frontier Airlines, and Allegiant Airlines, as well as commuter airlines using the brand affiliation with major airlines serve the two largest airports.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2129032258064516, 0.4074074074074074, 0.2796610169491525, 0.17478813559322032]
+[0.05844155844155844, 0.1125, 0.07692307692307691, 0.04807692307692307]
+[0.14193548387096774, 0.2716049382716049, 0.18644067796610167, 0.11652542372881355]
+
+
+SBERT sim. Score: 0.56047123670578

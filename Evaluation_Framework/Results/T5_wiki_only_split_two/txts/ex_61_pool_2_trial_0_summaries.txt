@@ -1,0 +1,21 @@
+Document:
+south_carolina
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+The larger rivers are navigable up to the fall line, providing a trade route for mill towns. The Cherokee Parkway is a scenic driving route through this area. They are geographically comprehensive Markets in which the stations are located include Columbia, Florence, Allendale, Myrtle Beach, Greenville, Charleston, Conway, Beaufort, Hardeeville, Spartanburg, Greenwood, Anderson and Sumter. The state has the fourth largest state-maintained system in the country, consisting of 11 Interstates, numbered highways, state highways, and secondary roads, totalling approximately 41,500 miles. On secondary roads, South Carolina uses a numbering system to keep track of all non-interstate and primary highways that the South Carolina Department of Transportation maintains. Passenger railAmtrak operates four passenger routes in South Carolina: the Crescent, the Palmetto, the Silver Meteor, and the Silver Star. FreightCSX Transportation and Norfolk Southern are the only Class I railroad companies in South Carolina, as other freight companies in the state are short lines. There are seven significant airports in South Carolina, all of which act as regional airport hubs. As of December 2016, the state maintains a 5,582-bus fleet with the average vehicle in service being fifteen years old (the national average is six) having logged 236,000 miles.
+\Predicted Summary:
+, the first state to vote in favor of secession from the Union on December 20, 1868. South Carolina is a state in the Deep South region of the Southern United States . South Carolina is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia . South Carolina is the 40th most extensive and 23rd most populous US state .
+
+GT:
+The state has the fourth largest state-maintained system in the country, consisting of 11 Interstates, numbered highways, state highways, and secondary roads, totalling approximately 41,500 miles. Passenger railAmtrak operates four passenger routes in South Carolina: the Crescent, the Palmetto, the Silver Meteor, and the Silver Star. The Crescent route serves the Upstate cities, the Silver Star serves the Midlands cities, and the Palmetto and Silver Meteor routes serve the lowcountry cities. FreightCSX Transportation and Norfolk Southern are the only Class I railroad companies in South Carolina, as other freight companies in the state are short lines. There are seven significant airports in South Carolina, all of which act as regional airport hubs. The busiest by passenger volume is Charleston International Airport.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.23577235772357724, 0.43283582089552236, 0.30526315789473685, 0.19078947368421054]
+[0.03278688524590164, 0.06060606060606061, 0.042553191489361694, 0.026595744680851064]
+[0.15447154471544716, 0.2835820895522388, 0.19999999999999998, 0.12500000000000003]
+
+
+SBERT sim. Score: 0.4141295254230499

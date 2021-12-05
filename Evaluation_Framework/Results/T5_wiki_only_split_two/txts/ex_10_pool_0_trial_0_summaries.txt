@@ -1,0 +1,21 @@
+Document:
+delaware
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Amtrak has two stations in Delaware along the Northeast Corridor; the relatively quiet Newark Rail Station in Newark, and the busier Wilmington Rail Station in Wilmington. The Northeast Corridor is also served by SEPTA's Wilmington/Newark Line of Regional Rail, which serves Claymont, Wilmington, Churchmans Crossing, and Newark. Multiple short-line railroads provide freight service in Delaware. The Delmarva Central Railroad operates the most trackage of the short-line railroads, running from an interchange with Norfolk Southern in Porter south through Dover, Harrington, and Seaford to Delmar, with another line running from Harrington to Frankford and branches from Ellendale to Milton and from Georgetown to Gravel Hill. The system includes bus, subsidized passenger rail operated by Philadelphia transit agency SEPTA, and subsidized taxi and paratransit modes. Therefore, Delaware commercial airline passengers most frequently use Philadelphia International Airport (PHL), Baltimore-Washington International Thurgood Marshall Airport (BWI) and Washington Dulles International Airport (IAD) for domestic and international transit. Other general aviation airports in Delaware include Summit Airport near Middletown, Delaware Airpark near Cheswold, and Delaware Coastal Airport near Georgetown.
+\Predicted Summary:
+, Delaware, and Delaware, is the second-smallest and sixth-least populous state . Delaware is the second-smallest and sixth-least populous state, but also the sixth-most densely populated . Delaware is the first state to ratify the Constitution of the United States .
+
+GT:
+Three ferries operate in the state of Delaware: The Northeast Corridor is also served by SEPTA's Wilmington/Newark Line of Regional Rail, which serves Claymont, Wilmington, Churchmans Crossing, and Newark. Two Class I railroads, Norfolk Southern and CSX, provide freight rail service in northern New Castle County. The Delmarva Central Railroad connects with the Maryland and Delaware Railroad, which serves local customers in Sussex County. CSX connects with the freight/heritage operation, the Wilmington and Western Railroad, based in Wilmington and the East Penn Railroad, which operates a line from Wilmington to Coatesville, Pennsylvania. The system includes bus, subsidized passenger rail operated by Philadelphia transit agency SEPTA, and subsidized taxi and paratransit modes. The paratransit system, consisting of a statewide door-to-door bus service for the elderly and disabled, has been described by a Delaware state report as "the most generous paratransit system in the United States".
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14093959731543623, 0.5, 0.21989528795811517, 0.13743455497382198]
+[0.02027027027027027, 0.07317073170731707, 0.031746031746031744, 0.01984126984126984]
+[0.09395973154362416, 0.3333333333333333, 0.14659685863874344, 0.09162303664921465]
+
+
+SBERT sim. Score: 0.3796637952327728

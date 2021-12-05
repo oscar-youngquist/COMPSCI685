@@ -1,0 +1,21 @@
+Document:
+kansas
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The state is divided into 105 counties with 628 cities, with its largest county by area being Butler County. By state statute, cities are divided into three classes as determined by the population obtained "by any census of enumeration". This is because of the high number of counties and county seats (105) and their intertwining. Executive branch: The executive branch consists of one officer and five elected officers. The governor and lieutenant governor are elected on the same ticket. The attorney general, secretary of state, state treasurer, and state insurance commissioner are each elected separately. Legislative branch: The bicameral Kansas Legislature consists of the Kansas House of Representatives, with 125 members serving two-year terms, and the Kansas Senatorte, with 40 members serving four-year terms. Judicial branch: The judicial branch of the state government is headed by the Kansas Supreme Court. The court has seven judges. A vacancy is filled by the Governor picking one of three nominees selected by the nine-member Kansas Supreme Court Nominating Commission. The board consists of five Kansas lawyers elected by other Kansas lawyers and four members selected by the governor. In 2010, Sam Brownback was elected governor with 63 percent of the state vote. He was sworn in as governor in 2011, Kansas's first Republican governor in eight years. The state's current delegation to the Congress of the United States includes Republican Senatortors Pat Roberts of Dodge City and Jerry Moran of Manhattan; and Republican Representatives Roger Marshall of Great Bend (District 1), Steve Watkins (District 2), Ron Estes of Wichita (District 4), and Democratic Representative Sharice Davids (District 3). This is the longest Senatorte losing streak for either party in a single state.
+\Predicted Summary:
+was established in 1854 by the US government in 1854 . Kansas is the 34th most-populated state by area and is the 34th most-selective state .
+
+GT:
+Executive branch: The executive branch consists of one officer and five elected officers. The attorney general, secretary of state, state treasurer, and state insurance commissioner are each elected separately. Legislative branch: The bicameral Kansas Legislature consists of the Kansas House of Representatives, with 125 members serving two-year terms, and the Kansas Senatorte, with 40 members serving four-year terms. Judicial branch: The judicial branch of the state government is headed by the Kansas Supreme Court. The court has seven judges. A vacancy is filled by the Governor picking one of three nominees selected by the nine-member Kansas Supreme Court Nominating Commission. The board consists of five Kansas lawyers elected by other Kansas lawyers and four members selected by the governor.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10655737704918032, 0.5, 0.17567567567567566, 0.10979729729729729]
+[0.008264462809917356, 0.04, 0.013698630136986302, 0.00856164383561644]
+[0.06557377049180328, 0.3076923076923077, 0.10810810810810811, 0.06756756756756757]
+
+
+SBERT sim. Score: 0.3891243636608124

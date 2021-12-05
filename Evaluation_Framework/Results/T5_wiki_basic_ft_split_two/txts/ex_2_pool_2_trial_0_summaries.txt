@@ -1,0 +1,21 @@
+Document:
+massachusetts
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+The state has been ranked as one of the top states in the United States for citizens to live in, as well as one of the most expensive. CNBC's list of "Top States for Business for 2014" has recognized Massachusetts as the 25th-best state in the nation for business, and for the second year in a row the state was ranked by Bloomberg as the most innovative state in America. Sectors vital to the Massachusetts economy include higher education, biotechnology, information technology, finance, health care, tourism, manufacturing, and defense. While manufacturing comprised less than 10% of Massachusetts's gross state product in 2016, the Commonwealth ranked 16th in the nation in total manufacturing output in the United States. In February 2017, US News & World Report ranked Massachusetts the best state in the United States based upon 60 metrics including healthcare, education, crime, infrastructure, opportunity, economy, and government. The Bay State ranked number one in education, number two in healthcare, and number five in the handling of the economy. In 2014 and 2015, Massachusetts was ranked as the most energy efficient state the United States while Boston is the most efficient city, but it had the fourth-highest average residential retail electricity prices of any state.
+\Predicted Summary:
+, the Commonwealth of Massachusetts is the most populous state in the Northeastern United States . it borders on the Atlantic Ocean to the east, the states of New Hampshire and New Hampshire to the north, and New York to the west . Massachusetts is the most populous state in the Northeastern United States .
+
+GT:
+Modern Massachusetts is a global leader in biotechnology, engineering, higher education, finance, and maritime trade. Massachusetts is the fastest-growing state in New England and the 25th fastest-growing state in the United States. Population growth was largely due to a relatively high quality of life and a large higher education system in the state. Foreign immigration is also a factor in the state's population growth, causing the state's population to continue to grow as of the 2010 Census (particularly in Massachusetts gateway cities where costs of living are lower). Massachusetts was the first state in North America to require municipalities to appoint a teacher or establish a grammar school with the passage of the Massachusetts Education Law of 1647, and 19th century reforms pushed by Horace Mann laid much of the groundwork for contemporary universal public education which was established in 1852. In 2013, Massachusetts scored highest of all the states in math and third-highest in reading on the National Assessment of Educational Progress. Massachusetts' public-school students place among the top tier in the world in academic performance. CNBC's list of "Top States for Business for 2014" has recognized Massachusetts as the 25th-best state in the nation for business, and for the second year in a row the state was ranked by Bloomberg as the most innovative state in America. According to a 2013 study by Phoenix Marketing International, Massachusetts had the sixth-largest number of millionaires per capita in the United States, with a ratio of 6.73 percent.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14007782101167315, 0.7058823529411765, 0.23376623376623376, 0.1461038961038961]
+[0.046875, 0.24, 0.0784313725490196, 0.049019607843137254]
+[0.10116731517509728, 0.5098039215686274, 0.16883116883116883, 0.10551948051948051]
+
+
+SBERT sim. Score: 0.6368412971496582

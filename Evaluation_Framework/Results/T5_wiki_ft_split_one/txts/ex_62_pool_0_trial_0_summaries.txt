@@ -1,0 +1,21 @@
+Document:
+wisconsin
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+The state capital is Madison, and its largest city is Milwaukee, which is on the western shore of Lake Michigan. Railroads were built across the state to help transport grains to market, and industries like J.I. Wisconsin is bordered by the Montreal River This region is part of the Driftless Area, which also includes portions of Iowa, Illinois, and Minnesota. Wisconsin is served by eight commercial service airports, in addition to a number of general aviation airports. The Wisconsin Department of Transportation is responsible for planning, building and maintaining the state's highways. Eight Interstate Highways are located in the state. Amtrak provides daily passenger rail service between Chicago and Milwaukee through the Hiawatha Service. Also provided is cross-country service via the Empire Builder with stops in several cities across Wisconsin. Commuter rail provider Metra's Union Pacific North (UP-N) line has its northern terminus in Kenosha, the only Metra line and station in the state of Wisconsin. The 2.1 mile (3.4 km) initial line runs from Milwaukee Intermodal Station to Burns Commons.
+\Predicted Summary:
+Jacques Marquette was the first European to reach the Wisconsin River . French writers changed the spelling from Ouisconsin to Ouisconsin . Wisconsin is a state in the Great Lakes region of the Midwestern United States . Wisconsin is the 23rd-largest state by total area and the 20th-most populous .
+
+GT:
+Wisconsin is served by eight commercial service airports, in addition to a number of general aviation airports. Milwaukee Mitchell International Airport is the only international commercial airport located in Wisconsin. Eight Interstate Highways are located in the state. Amtrak provides daily passenger rail service between Chicago and Milwaukee through the Hiawatha Service. Also provided is cross-country service via the Empire Builder with stops in several cities across Wisconsin. Commuter rail provider Metra's Union Pacific North (UP-N) line has its northern terminus in Kenosha, the only Metra line and station in the state of Wisconsin. The Hop, a modern streetcar system in Milwaukee, began service in 2018.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1834862385321101, 0.4166666666666667, 0.25477707006369427, 0.1592356687898089]
+[0.027777777777777776, 0.06382978723404255, 0.038709677419354833, 0.024193548387096774]
+[0.10091743119266056, 0.22916666666666666, 0.14012738853503184, 0.08757961783439491]
+
+
+SBERT sim. Score: 0.3989671766757965

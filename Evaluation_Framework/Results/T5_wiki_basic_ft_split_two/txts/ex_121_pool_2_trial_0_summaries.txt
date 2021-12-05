@@ -1,0 +1,21 @@
+Document:
+pennsylvania
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The legislature meets in the State Capitol there. The current Governor is Tom Wolf. The other elected officials composing the executive branch are the Lieutenant Governor John Fetterman, Attorney General Joshua Shapiro, Auditor General Timothy DeFoor, and Pennsylvania Treasurer Stacy Garrity. The Governor and Lieutenant Governor run as a ticket in the general election and are up for re-election every four years during the midterm elections. The elections for Attorney General, Auditor General, and Treasurer are held every four years coinciding with a Presidential election. Pennsylvania has a bicameral legislature set up by Commonwealth's constitution in 1790. The General Assembly includes 50 Senatortors and 203 Representatives. As of the 2018 elections, the Republicans hold the majority in the State House and Senatorte. All judges in Pennsylvania are elected The state holds 20 electoral votes. In 2010, Republicans recaptured a US Senatorte seat as well as a majority of the state's congressional seats, control of both chambers of the state legislature and the governor's mansion.
+\Predicted Summary:
+, is a state in the Mid-Atlantic, Appalachian, and Great Lakes regions of the Northeastern United States . Pennsylvania is the 9th-most densely populated of the 50 states, and the 5th-most populous state according to the latest US census count in 2010 . Pennsylvania is 170 miles (274 km) north to south and 283 miles (455 km) east to west .
+
+GT:
+The current Governor is Tom Wolf. The other elected officials composing the executive branch are the Lieutenant Governor John Fetterman, Attorney General Joshua Shapiro, Auditor General Timothy DeFoor, and Pennsylvania Treasurer Stacy Garrity. The Governor and Lieutenant Governor run as a ticket in the general election and are up for re-election every four years during the midterm elections. The elections for Attorney General, Auditor General, and Treasurer are held every four years coinciding with a Presidential election. Pennsylvania has a bicameral legislature set up by Commonwealth's constitution in 1790. The General Assembly includes 50 Senatortors and 203 Representatives. Pennsylvania is divided into 60 judicial districts, most of which (except Philadelphia) have magisterial district judges (formerly called district justices and justices of the peace), who preside mainly over preliminary hearings in felony and misdemeanor offenses, all minor (summary) criminal offenses, and small civil claims.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13793103448275862, 0.3333333333333333, 0.1951219512195122, 0.12195121951219512]
+[0.020833333333333332, 0.05084745762711865, 0.02955665024630542, 0.018472906403940885]
+[0.09655172413793103, 0.23333333333333334, 0.13658536585365852, 0.08536585365853658]
+
+
+SBERT sim. Score: 0.38737952709198

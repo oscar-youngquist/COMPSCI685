@@ -1,0 +1,21 @@
+Document:
+new_hampshire
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Manufacturing centers such as Manchester, Nashua and Berlin were hit hard in the 1930s–1940s as major manufacturing industries left New England and moved to the Southern United States or overseas, reflecting nationwide trends. It is the state with the highest percentage of timberland area in the country. It contains less than 5% of the state's population, suffers relatively high poverty, and is steadily losing population as the logging and paper industries decline. The northern parts of the state produced lumber, and the mountains provided tourist attractions. Its agricultural outputs are dairy products, nursery stock, cattle, apples and eggs. Its industrial outputs are machinery, electric equipment, rubber and plastic products, and tourism is a major component of the economy. Today, of the state's total manufacturing dollar value, these sectors contribute only two percent for textiles, two percent for leather goods, and nine percent for machining. They experienced a sharp decline due to obsolete plants and the lure of cheaper wages in the Southern United States. New Hampshire today has a broad-based and growing economy, with a state GDP growth rate of 2.2% in 2018. The state's largest economic sectors in 2018, based on contribution to GDP, are: 15% real estate and rental and leasing; 13% professional business services; 12% manufacturing; 10% government and government services; and 9% health care and social services. Efforts to diversify the state's general economy have been ongoing.
+\Predicted Summary:
+New Hampshire is the 5th smallest by area and the 10th most populous state . New Hampshire is the most populous state in the nation . New Hampshire is the most populous state in the world .
+
+GT:
+Its agricultural outputs are dairy products, nursery stock, cattle, apples and eggs. Its industrial outputs are machinery, electric equipment, rubber and plastic products, and tourism is a major component of the economy. Today, of the state's total manufacturing dollar value, these sectors contribute only two percent for textiles, two percent for leather goods, and nine percent for machining. New Hampshire today has a broad-based and growing economy, with a state GDP growth rate of 2.2% in 2018. In March 2018, 86% of New Hampshire's workforce were employed by the private sector, with 53% of those workers being employed by firms with less than 100 employees. According to community surveys by the Economic & Labor Market Information Bureau of NH Employment Security, the following are the largest private employers in the state:
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13432835820895522, 0.5294117647058824, 0.21428571428571425, 0.1339285714285714]
+[0.022556390977443608, 0.09090909090909091, 0.03614457831325301, 0.022590361445783132]
+[0.09701492537313433, 0.38235294117647056, 0.15476190476190477, 0.09672619047619047]
+
+
+SBERT sim. Score: 0.5710252523422241

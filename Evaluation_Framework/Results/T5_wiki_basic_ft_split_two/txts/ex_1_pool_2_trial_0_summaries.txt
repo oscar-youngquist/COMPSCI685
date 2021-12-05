@@ -1,0 +1,21 @@
+Document:
+virginia
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+As of 2018, the Virginia Department of Transportation owns and operates 57,867 miles (93,128 km) of the total 70,105 miles (112,823 km) of roads in the state, making it the third largest state highway system in the United States. Although the Washington Metropolitan Area, which includes Northern Virginia, has the second highest rate of traffic congestion in the nation, Virginia as a whole has the 21st-lowest rate of congestion and the average commute time is 26.9 minutes. Virginia has Amtrak passenger rail service along several corridors, and Virginia Railway Express (VRE) maintains two commuter lines into Washington, D.C. from Fredericksburg and Manassas. Arlington accounted for forty percent of Virginia's public transit trips as of 2013, with most of that being from the Washington Metro transit system, which also serves Alexandria and communities in Fairfax County along I-66. Major freight railroads in Virginia include Norfolk Southern and CSX Transportation. Commuter buses include the Fairfax Connector, FRED buses in Fredericksburg, and OmniRide in Prince William County. The Virginia Department of Transportation operates several free ferries throughout Virginia, the most notable being the Jamestown Ferry which connects Jamestown to Scotland Wharf across the James River. Virginia has five major airports: Washington Dulles International and Reagan Washington National in Northern Virginia, both of which handle more than twenty million passengers a year; Richmond International; and Newport News/Williamsburg International Airport and Norfolk International serving the Hampton Roads area. Several other airports offer limited commercial passenger service, and sixty-six public airports serve the state's aviation needs.
+\Predicted Summary:
+, the Commonwealth of Virginia, is officially the Commonwealth of Virginia, officially officially the Commonwealth of Virginia . Virginia is a state in the Mid-Atlantic region of the Southern United States, between the Atlantic Coast and the Appalachian Mountains . Virginia is the largest political subdivision in North America . the state government is unique in how it treats cities and counties equally, manages local roads .
+
+GT:
+As of 2018, the Virginia Department of Transportation owns and operates 57,867 miles (93,128 km) of the total 70,105 miles (112,823 km) of roads in the state, making it the third largest state highway system in the United States. Virginia has Amtrak passenger rail service along several corridors, and Virginia Railway Express (VRE) maintains two commuter lines into Washington, D.C. from Fredericksburg and Manassas. Arlington accounted for forty percent of Virginia's public transit trips as of 2013, with most of that being from the Washington Metro transit system, which also serves Alexandria and communities in Fairfax County along I-66. Major freight railroads in Virginia include Norfolk Southern and CSX Transportation. Commuter buses include the Fairfax Connector, FRED buses in Fredericksburg, and OmniRide in Prince William County. The Virginia Department of Transportation operates several free ferries throughout Virginia, the most notable being the Jamestown Ferry which connects Jamestown to Scotland Wharf across the James River. Virginia has five major airports: Washington Dulles International and Reagan Washington National in Northern Virginia, both of which handle more than twenty million passengers a year; Richmond International; and Newport News/Williamsburg International Airport and Norfolk International serving the Hampton Roads area. Several other airports offer limited commercial passenger service, and sixty-six public airports serve the state's aviation needs.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14864864864864866, 0.5238095238095238, 0.23157894736842102, 0.14473684210526316]
+[0.02262443438914027, 0.08064516129032258, 0.0353356890459364, 0.022084805653710245]
+[0.09009009009009009, 0.31746031746031744, 0.14035087719298245, 0.08771929824561403]
+
+
+SBERT sim. Score: 0.4308225214481354

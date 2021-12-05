@@ -1,0 +1,21 @@
+Document:
+texas
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It is the second largest US state by both area (after Alaska) and population (after California). Texas shares borders with the states of Louisiana to the east, Arkansas to the northeast, Oklahoma to the north, New Mexico to the west, and the Mexican states of Chihuahua, Coahuila, Nuevo León, and Tamaulipas to the south and southwest, and has a coastline with the Gulf of Mexico to the southeast. Due to its size and geologic features such as the Balcones Fault, Texas contains diverse landscapes common to both the US Southern and the Southwestern regions. It is difficult to say who lived in the northwestern region of the state originally. The Gulf Coastal Plains region wraps around the Gulf of Mexico on the southeast section of the state. The size and unique history of Texas make its regional affiliation debatable; it can be fairly considered a Southern or a Southwestern state, or both. Texas is the southernmost part of the Great Plains, which ends in the south against the folded Sierra Madre Occidental of Mexico. The large size of Texas and its location at the intersection of multiple climate zones gives the state highly variable weather. The Panhandle of the state has colder winters than North Texas, while the Gulf Coast has mild winters. Snow falls south of San Antonio or on the coast only in rare circumstances. These cities are spread out amongst the state.
+\Predicted Summary:
+is a state in the South Central Region of the United States . Texas is the second largest state by both areas (after Alaska) and population (after California) and seventh largest in the US . Texas is nicknamed "Lone Star State" for its former status as an independent republic .
+
+GT:
+Texas shares borders with the states of Louisiana to the east, Arkansas to the northeast, Oklahoma to the north, New Mexico to the west, and the Mexican states of Chihuahua, Coahuila, Nuevo León, and Tamaulipas to the south and southwest, and has a coastline with the Gulf of Mexico to the southeast. The Gulf Coastal Plains region wraps around the Gulf of Mexico on the southeast section of the state. It is the home to 65 species of mammals, 213 species of reptiles and amphibians, and the greatest diversity of bird life in the United States—590 native species in all. Snow falls south of San Antonio or on the coast only in rare circumstances. Maximum temperatures in the summer months average from the 80s °F (26 °C) in the mountains of West Texas and on Galveston Island to around 100 °F (38 °C) in the Rio Grande Valley, but most areas of Texas see consistent summer high temperatures in the 90 °F (32 °C) range. Within the "Big Four" professional leagues, Texas has two NFL teams (the Dallas Cowboys and the Houston Texans), two Major League Baseball teams (the Houston Astros and the Texas Rangers), three NBA teams (the San Antonio Spurs, the Houston Rockets, and the Dallas Mavericks), and one National Hockey League team (the Dallas Stars). The Dallas–Fort Worth metroplex is one of only twelve American metropolitan areas that host sports teams from all the "Big Four" professional leagues. Texans also enjoy the rodeo. The annual Houston Livestock Show and Rodeo is the largest rodeo in the world. Texas Motor Speedway hosts annual NASCAR Cup Series and IndyCar Series auto races since 1997. Since 2012, Austin's Circuit of the Americas plays host to a round of the Formula 1 World Championship— the first at a permanent road circuit in the United States since the 1980 Grand Prix at Watkins Glen International—, as well as Grand Prix motorcycle racing, FIA World Endurance Championship and United SportsCar Championship races.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07807807807807808, 0.5531914893617021, 0.1368421052631579, 0.08552631578947369]
+[0.02108433734939759, 0.15217391304347827, 0.03703703703703704, 0.02314814814814815]
+[0.057057057057057055, 0.40425531914893614, 0.1, 0.0625]
+
+
+SBERT sim. Score: 0.5186821818351746

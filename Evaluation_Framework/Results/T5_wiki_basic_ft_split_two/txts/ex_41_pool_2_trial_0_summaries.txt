@@ -1,0 +1,21 @@
+Document:
+alaska
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Denali National Park and Preserve is located here. Also in Southeast were the Haida, now well known for their unique arts. However, a small assortment of state and local fairs (with the Alaska State Fair in Palmer the largest), are held mostly in the late summer. The fairs are mostly located in communities with historic or current agricultural activity, and feature local farmers exhibiting produce in addition to more high-profile commercial activities such as carnival rides, concerts and food. Some of Alaska's popular annual events are the Iditarod Trail Sled Dog Race from Anchorage to Nome, World Ice Art Championships in Fairbanks, the Blueberry Festival and Alaska Hummingbird Festival in Ketchikan, the Sitka Whale Fest, and the Stikine River Garnet Fest in Wrangell. The Alaska Native Heritage Center celebrates the rich heritage of Alaska's 11 cultural groups. The Alaska Native Arts Foundation promotes and markets Native art from all regions and cultures in the State, using the internet. Prominent musicians from Alaska include singer Jewel, traditional Aleut flautist Mary Youngblood, folk singer-songwriter Libby Roderick, Christian music singer-songwriter Lincoln Brewster, metal/post hardcore band 36 Crazyfists and the groups Pamyua and Portugal. There are many established music festivals in Alaska, including the Alaska Folk Festival, the Fairbanks Summer Arts Festival] the Anchorage Folk Festival, the Athabascan Old-Time Fiddling Festival, the Sitka Jazz Festival, and the Sitka Summer Music Festival. The most prominent orchestra in Alaska is the Anchorage Symphony Orchestra, though the Fairbanks Symphony Orchestra and Juneau Symphony are also notable. The Anchorage Opera is currently the state's only professional opera company, though there are several volunteer and semi-professional organizations in the state as well.
+\Predicted Summary:
+, the third-least populous and the seventh-largest subnational division in the world . Alaska is the third-least populous and the most populous state by area . Alaska is considered the entry point for the settlement of North America by area .
+
+GT:
+Some of Alaska's popular annual events are the Iditarod Trail Sled Dog Race from Anchorage to Nome, World Ice Art Championships in Fairbanks, the Blueberry Festival and Alaska Hummingbird Festival in Ketchikan, the Sitka Whale Fest, and the Stikine River Garnet Fest in Wrangell. The Stikine River attracts the largest springtime concentration of American bald eagles in the world. The Alaska Native Heritage Center celebrates the rich heritage of Alaska's 11 cultural groups. Influences on music in Alaska include the traditional music of Alaska Natives as well as folk music brought by later immigrants from Russia and Europe. Prominent musicians from Alaska include singer Jewel, traditional Aleut flautist Mary Youngblood, folk singer-songwriter Libby Roderick, Christian music singer-songwriter Lincoln Brewster, metal/post hardcore band 36 Crazyfists and the groups Pamyua and Portugal. There are many established music festivals in Alaska, including the Alaska Folk Festival, the Fairbanks Summer Arts Festival] the Anchorage Folk Festival, the Athabascan Old-Time Fiddling Festival, the Sitka Jazz Festival, and the Sitka Summer Music Festival. The most prominent orchestra in Alaska is the Anchorage Symphony Orchestra, though the Fairbanks Symphony Orchestra and Juneau Symphony are also notable. The Anchorage Opera is currently the state's only professional opera company, though there are several volunteer and semi-professional organizations in the state as well.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09049773755656108, 0.5, 0.1532567049808429, 0.09578544061302682]
+[0.031818181818181815, 0.1794871794871795, 0.05405405405405404, 0.03378378378378377]
+[0.07239819004524888, 0.4, 0.12260536398467434, 0.07662835249042145]
+
+
+SBERT sim. Score: 0.33504894375801086

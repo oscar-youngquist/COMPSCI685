@@ -1,0 +1,21 @@
+Document:
+rhode_island
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The charter apportioned legislative seats equally among the state's towns, over-representing rural areas and under-representing the growing industrial centers. The state's current governor is Gina Raimondo (D), and the lieutenant governor is Daniel McKee (D). See congressional districts map. Rhode Island is one of a few states that do not have an official governor's residence. See List of Rhode Island Governors. The state legislature is the Rhode Island General Assembly, consisting of the 75-member House of Representatives and the 38-member Senatorte. Both houses of the bicameral body are currently dominated by the Democratic Party; the presence of the Republican Party is minor in the state government, with Republicans holding a handful of seats in both the Senatorte and House of Representatives. Federally, Rhode Island is a reliably Democratic state during presidential elections, usually supporting the Democratic presidential nominee. Rhode Island is divided into five counties but it has no county governments. The entire state is divided into municipalities, which handle all local government affairs. The state's 18 largest municipalities ranked by population are :
+\Predicted Summary:
+Rhode Island, Rhode Island, was the first state to ratify the Articles of Confederation . Rhode Island ( (listen) is a state in the new england region of the state . it is the second most densely populated state . the state's official name is "The Ocean State" .
+
+GT:
+The state's current governor is Gina Raimondo (D), and the lieutenant governor is Daniel McKee (D). Rhode Island is one of a few states that do not have an official governor's residence. The state legislature is the Rhode Island General Assembly, consisting of the 75-member House of Representatives and the 38-member Senatorte. Both houses of the bicameral body are currently dominated by the Democratic Party; the presence of the Republican Party is minor in the state government, with Republicans holding a handful of seats in both the Senatorte and House of Representatives. Rhode Island is divided into five counties but it has no county governments. The entire state is divided into municipalities, which handle all local government affairs.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.22950819672131148, 0.6222222222222222, 0.33532934131736525, 0.20958083832335328]
+[0.0743801652892562, 0.20454545454545456, 0.1090909090909091, 0.06818181818181818]
+[0.14754098360655737, 0.4, 0.21556886227544908, 0.13473053892215567]
+
+
+SBERT sim. Score: 0.5176494121551514

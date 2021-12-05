@@ -1,0 +1,21 @@
+Document:
+alaska
+
+Intent:
+What drives the economy in this state?
+
+Input:
+While it has one of the smallest state economies in the country, Alaska's per capita income is among the highest, owing to a diversified economy dominated by fishing, natural gas, and oil, all of which it has in abundance. The oil and gas industry dominates the Alaskan economy, with more than 80% of the state's revenues derived from petroleum extraction. Agriculture represents a very small fraction of the Alaskan economy. Agricultural production is primarily for consumption within the state and includes nursery stock, dairy products, vegetables, and livestock. Employment is primarily in government and industries such as natural resource extraction, shipping, and transportation. Federal subsidies are also an important part of the economy, allowing the state to keep taxes low.
+\Predicted Summary:
+of the country's West Coast, Alaska is the third-least populous and the largest US state by area . Alaska is the third-least populous state by area, comprising more total area than the next three largest states . the state is the third-least populous state in the country, with an estimated population of 738,432 .
+
+GT:
+While it has one of the smallest state economies in the country, Alaska's per capita income is among the highest, owing to a diversified economy dominated by fishing, natural gas, and oil, all of which it has in abundance. United States armed forces bases and tourism are also a significant part of the economy; more than half the state is federally owned public land, including a multitude of national forests, parks, and wildlife refuges. The 1968 discovery of oil at Prudhoe Bay and the 1977 completion of the Trans-Alaska Pipeline System led to an oil boom. Royalty revenues from oil have funded large state budgets from 1980 onward. The oil and gas industry dominates the Alaskan economy, with more than 80% of the state's revenues derived from petroleum extraction. Alaska's main export product (excluding oil and natural gas) is seafood, primarily salmon, cod, Pollock and crab. Agriculture represents a very small fraction of the Alaskan economy. Agricultural production is primarily for consumption within the state and includes nursery stock, dairy products, vegetables, and livestock. Manufacturing is limited, with most foodstuffs and general goods imported from elsewhere.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15263157894736842, 0.5178571428571429, 0.23577235772357721, 0.14735772357723578]
+[0.031746031746031744, 0.10909090909090909, 0.04918032786885246, 0.030737704918032786]
+[0.11052631578947368, 0.375, 0.17073170731707316, 0.10670731707317072]
+
+
+SBERT sim. Score: 0.5504138469696045

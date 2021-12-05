@@ -1,0 +1,21 @@
+Document:
+pennsylvania
+
+Intent:
+What drives the economy in this state?
+
+Input:
+At the beginning of the 20th century, Pennsylvania's economy centered on steel production, logging, coal mining, textile production and other forms of industrial manufacturing. Pennsylvania's 2018 total gross state product (GSP) of $803 billion ranks the state 6th in the nation. Much of the Commonwealth is rural Philadelphia is home to six Fortune 500 companies, with more located in suburbs like King of Prussia; it is a leader in the financial and insurance industry. In all, Pennsylvania is home to fifty Fortune 500 companies.Hershey is home to The Hershey Company, one of the largest chocolate manufacturers in the world. Pennsylvania ranks 19th overall in agricultural production. The financial impact of agriculture in Pennsylvania includes employment of more than 66,800 people employed by the food manufacturing industry; and over $1.7 billion in food product export (in 2011). It was also a keystone state economically, having both the industry common to the North (making such wares as Conestoga wagons and rifles) and the agriculture common to the South (producing feed, fiber, food, and tobacco). "The Coal State", "The Oil State", "The Chocolate State", and "The Steel State" were adopted when those were the state's greatest industries.
+\Predicted Summary:
+, is a state in the Mid-Atlantic, Appalachian and Great Lakes regions of the Northeastern United States . Pennsylvania is the 33rd-largest state by area, and the 5th-largest state by area . Pennsylvania is the 9th-most densely populated of the 50 states .
+
+GT:
+Philadelphia in the southeast corner, Pittsburgh in the southwest corner, Erie in the northwest corner, Scranton-Wilkes-Barre in the northeast corner, and Allentown-Bethlehem-Easton in the east central region are urban manufacturing centers. Philadelphia is home to six Fortune 500 companies, with more located in suburbs like King of Prussia; it is a leader in the financial and insurance industry. Pittsburgh is home to eight Fortune 500 companies, including US Steel, PPG Industries, and H.J. In all, Pennsylvania is home to fifty Fortune 500 companies.Hershey is home to The Hershey Company, one of the largest chocolate manufacturers in the world. As in the US as a whole and in most states, the largest private employer in the Commonwealth is Walmart, followed by the University of Pennsylvania. Sport hunting in Pennsylvania provides a massive boost for the Commonwealth's economy.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16083916083916083, 0.5348837209302325, 0.24731182795698922, 0.15456989247311828]
+[0.028169014084507043, 0.09523809523809523, 0.043478260869565216, 0.027173913043478264]
+[0.11888111888111888, 0.3953488372093023, 0.18279569892473116, 0.11424731182795697]
+
+
+SBERT sim. Score: 0.48310667276382446

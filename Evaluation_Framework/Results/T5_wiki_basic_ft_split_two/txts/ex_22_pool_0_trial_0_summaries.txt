@@ -1,0 +1,21 @@
+Document:
+new_hampshire
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+New Hampshire has a well-maintained, well-signed network of Interstate highways, US highways, and state highways. Several route numbers align with the same route numbers in neighboring states. Major routes include: Long-distance intercity passenger rail service is provided by Amtrak's Vermonter and Downeaster lines. Greyhound, Concord Coach, Vermont Translines and Dartmouth Coach all provide intercity bus connections to and from points in New Hampshire and to long-distance points beyond and in between. The New Hampshire Rail Transit Authority is working to extend "Capital Corridor" service from Lowell, Massachusetts, to Nashua, Concord, and Manchester, including Manchester-Boston Regional Airport; and "Coastal Corridor" service from Haverhill, Massachusetts, to Plaistow, New Hampshire. Eleven public transit authorities operate local and regional bus services around the state, and eight private carriers operate express bus services which link with the national intercity bus network.
+\Predicted Summary:
+New Hampshire was a major center for textile manufacturing, shoemaking, and papermaking . New Hampshire is the 5th smallest by area and the 10th most populous state by area . New Hampshire is the fifth smallest by area and the 10th most populous state .
+
+GT:
+New Hampshire has a well-maintained, well-signed network of Interstate highways, US highways, and state highways. New Hampshire has 25 public-use airports, three with some scheduled commercial passenger service. The busiest airport by number of passengers handled is Manchester-Boston Regional Airport in Manchester and Londonderry, which serves the Greater Boston metropolitan area. Long-distance intercity passenger rail service is provided by Amtrak's Vermonter and Downeaster lines. Greyhound, Concord Coach, Vermont Translines and Dartmouth Coach all provide intercity bus connections to and from points in New Hampshire and to long-distance points beyond and in between. As of 2013, Boston-centered MBTA Commuter Rail services reach only as far as northern Massachusetts. Eleven public transit authorities operate local and regional bus services around the state, and eight private carriers operate express bus services which link with the national intercity bus network. Tourist railroads include the Conway Scenic Railroad, Hobo-Winnipesaukee Railroad, and the Mount Washington Cog Railway. Freight railways in New Hampshire include Claremont & Concord Railroad (CCRR), Pan Am Railways via subsidiary Springfield Terminal Railway (ST), the New England Central Railroad (NHR, the St. Lawrence and Atlantic Railroad (SLR), and New Hampshire Northcoast Corporation (NHN).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1111111111111111, 0.5238095238095238, 0.18333333333333332, 0.11458333333333336]
+[0.02030456852791878, 0.0975609756097561, 0.03361344537815126, 0.021008403361344536]
+[0.08080808080808081, 0.38095238095238093, 0.13333333333333333, 0.08333333333333334]
+
+
+SBERT sim. Score: 0.445263147354126

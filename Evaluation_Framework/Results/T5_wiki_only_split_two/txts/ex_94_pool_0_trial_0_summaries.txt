@@ -1,0 +1,21 @@
+Document:
+new_jersey
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+It connects Fort Lee, New Jersey to the Washington Heights neighborhood of Upper Manhattan, and carries Interstate 95 and US Route 1/9 across the Hudson River. The adjacent Newark Airport railroad station provides access to Amtrak and NJ Transit trains along the Northeast Corridor Line. NJ Transit operates extensive rail and bus service throughout the state. Today, NJ Transit has eleven commuter rail lines that run through different parts of the state. The PATH is a rapid transit system consisting of four lines operated by the Port Authority of New York and New Jersey. Amtrak operates numerous long-distance passenger trains in New Jersey, both to and from neighboring states and around the country. In addition to the Newark Airport connection, other major Amtrak railway stations include Trenton Transit Center, Metropark, and the historic Newark Penn Station. AirTrain Newark is a monorail connecting the Amtrak/NJ Transit station on the Northeast Corridor to the airport's terminals and parking lots.
+\Predicted Summary:
+,, New Jersey, and Newark, New Jersey, helped drive the nation's Industrial Revolution . New Jersey was first inhabited by Native Americans for at least 2,800 years . New Jersey was the second-wealthest state by median household income .
+
+GT:
+NJ Transit operates extensive rail and bus service throughout the state. A state-run corporation, it began with the consolidation of several private bus companies in North Jersey in 1979. In the early 1980s, it acquired Conrail's commuter train operations that connected suburban towns to New York City. Today, NJ Transit has eleven commuter rail lines that run through different parts of the state. NJ Transit also operates three light rail systems in the state. The Hudson-Bergen Light Rail connects Bayonne to North Bergen, through Hoboken and Jersey City. The Newark Light Rail is partially underground, and connects downtown Newark with other parts of the city and its suburbs, Belleville and Bloomfield. The River Line connects Trenton and Camden. The PATH is a rapid transit system consisting of four lines operated by the Port Authority of New York and New Jersey. The PATCO Speedline is a rapid transit system that links Camden County to Philadelphia. Both the PATCO and the PATH are two of only five rapid transit systems in the United States to operate 24 hours a day. Amtrak operates numerous long-distance passenger trains in New Jersey, both to and from neighboring states and around the country. In addition to the Newark Airport connection, other major Amtrak railway stations include Trenton Transit Center, Metropark, and the historic Newark Penn Station. The Southeastern Pennsylvania Transportation Authority, or SEPTA, has two commuter rail lines that operate into New Jersey. AirTrain Newark is a monorail connecting the Amtrak/NJ Transit station on the Northeast Corridor to the airport's terminals and parking lots. Some private bus carriers still remain in New Jersey. Other carriers include private charter and tour bus operators that take gamblers from other parts of New Jersey, New York City, Philadelphia, and Delaware to the casino resorts of Atlantic City. New York Waterway has ferry terminals at Belford, Jersey City, Hoboken, Weehawken, and Edgewater, with service to different parts of Manhattan. Liberty Water Taxi in Jersey City has ferries from Paulus Hook and Liberty State Park to Battery Park City in Manhattan. The Delaware River Port Authority operates the RiverLink Ferry between the Camden waterfront and Penn's Landing in Philadelphia.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.043835616438356165, 0.42105263157894735, 0.0794044665012407, 0.04962779156327544]
+[0.01098901098901099, 0.10810810810810811, 0.0199501246882793, 0.012468827930174564]
+[0.038356164383561646, 0.3684210526315789, 0.06947890818858561, 0.043424317617866005]
+
+
+SBERT sim. Score: 0.30908554792404175

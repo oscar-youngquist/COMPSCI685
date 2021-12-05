@@ -1,0 +1,21 @@
+Document:
+maine
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Initially, several tracts along the coast of New England were referred to as Main or Maine (cf. Maine is the northernmost state in New England and the largest, accounting for almost half of the region's entire land area. Maine's Moosehead Lake is the largest lake wholly in New England, since Lake Champlain is located between Vermont, New York and Québec. Along the famous rock-bound coast of Maine are lighthouses, beaches, fishing villages, and thousands of offshore islands, including the Isles of Shoals which straddle the New Hampshire border. As explained in detail under "Geography", there are large tracts of uninhabited land in some remote parts of the interior of the state, particularly in the North Maine Woods. Most of them are of Canadian origin, but in some cases have been living there since prior to the American Revolutionary War. Commercial fishing, once a mainstay of the state's economy, maintains a presence, particularly lobstering and groundfishing. Tourism and outdoor recreation play a major and increasingly important role in Maine's economy. The state is a popular destination for sport hunting (particularly deer, moose and bear), sport fishing, snowmobiling, skiing, boating, camping and hiking, among other activities. Maine has a long-standing tradition of being home to many shipbuilding companies. QuickFacts US Census Maine Portland: There are many such population clusters throughout Maine, but some examples from the municipalities appearing in the above listing are: Maine was a center of agriculture before it achieved statehood. The state is a major producer of potatoes, wild blueberries, apples, maple syrup and sweet corn. Since the 1980s, the state has gotten a reputation for its local food and restaurant meals. Adapted from the Maine facts site.
+\Predicted Summary:
+Maine was established in 1612 on Saint Croix Island, and the first European settlement in the area was by the French in 1604 on Saint Croix Island . Maine is the 12th-smallest state in the northeastern United States, and the 13th-least densely populated of the 50 US states . Maine is the northeasternmost among the contiguous United States, the northernmost state east of the Great Lakes .
+
+GT:
+Maine has many vegetable farms and other small, diversified farms. In the 1960s and 1970s, the book "Living the Good Life" by Helen Nearing and Scott Nearing caused many young people to move to Maine and engage in small-scale farming and homesteading. Maine is home to the Maine Organic Farmers and Gardeners Association and had 535 certified organic farms in 2019. Since the 1980s, the state has gotten a reputation for its local food and restaurant meals. Portland was named Bon Appetit magazine's Restaurant City of the Year in 2018. The term "Mainiac" is considered by some to be derogatory, but embraced with pride by others, and is used for a variety of organizations and for events such as the YMCA Mainiac Sprint Triathlon & Duathlon.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1968503937007874, 0.3787878787878788, 0.2590673575129534, 0.16191709844559588]
+[0.023809523809523808, 0.046153846153846156, 0.031413612565445025, 0.01963350785340314]
+[0.14960629921259844, 0.2878787878787879, 0.19689119170984457, 0.12305699481865284]
+
+
+SBERT sim. Score: 0.3832777738571167

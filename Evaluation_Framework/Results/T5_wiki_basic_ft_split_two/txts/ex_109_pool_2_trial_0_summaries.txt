@@ -1,0 +1,21 @@
+Document:
+kansas
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The state is divided into 105 counties with 628 cities, with its largest county by area being Butler County. By state statute, cities are divided into three classes as determined by the population obtained "by any census of enumeration". This is because of the high number of counties and county seats (105) and their intertwining. Executive branch: The executive branch consists of one officer and five elected officers. The governor and lieutenant governor are elected on the same ticket. The attorney general, secretary of state, state treasurer, and state insurance commissioner are each elected separately. Legislative branch: The bicameral Kansas Legislature consists of the Kansas House of Representatives, with 125 members serving two-year terms, and the Kansas Senatorte, with 40 members serving four-year terms. Judicial branch: The judicial branch of the state government is headed by the Kansas Supreme Court. A vacancy is filled by the Governor picking one of three nominees selected by the nine-member Kansas Supreme Court Nominating Commission. The board consists of five Kansas lawyers elected by other Kansas lawyers and four members selected by the governor.
+\Predicted Summary:
+the Kansas Free State, which is the 34th most-populous state by area by area . the state was once a free state by the abolitionists . the state's capital is the topeka and its largest city is Wichita .
+
+GT:
+Executive branch: The executive branch consists of one officer and five elected officers. The governor and lieutenant governor are elected on the same ticket. The attorney general, secretary of state, state treasurer, and state insurance commissioner are each elected separately. Legislative branch: The bicameral Kansas Legislature consists of the Kansas House of Representatives, with 125 members serving two-year terms, and the Kansas Senatorte, with 40 members serving four-year terms. Judicial branch: The judicial branch of the state government is headed by the Kansas Supreme Court. Since the mid-20th century, Kansas has remained one of the most socially conservative states in the nation. The state's current delegation to the Congress of the United States includes Republican Senatortors Pat Roberts of Dodge City and Jerry Moran of Manhattan; and Republican Representatives Roger Marshall of Great Bend (District 1), Steve Watkins (District 2), Ron Estes of Wichita (District 4), and Democratic Representative Sharice Davids (District 3). Historically, Kansas has been strongly Republican, dating from the Antebellum age when the Republican Party was created out of the movement opposing the extension of slavery into Kansas Territory.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10752688172043011, 0.5263157894736842, 0.17857142857142858, 0.11160714285714284]
+[0.02702702702702703, 0.13513513513513514, 0.04504504504504505, 0.028153153153153154]
+[0.07526881720430108, 0.3684210526315789, 0.125, 0.07812500000000001]
+
+
+SBERT sim. Score: 0.46896374225616455

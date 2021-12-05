@@ -1,0 +1,21 @@
+Document:
+arizona
+
+Intent:
+What drives the economy in this state?
+
+Input:
+It is the 6th largest and the 14th most populous of the 50 states. The boom and bust economy of mining also left hundreds of ghost towns across the territory, but copper mining continued to prosper with the territory producing more copper than any other state by 1907, which earned Arizona the nickname "the Copper State" at the time of statehood. The state continues to produce half of the nation's newly mined copper. Cotton farming and copper mining, two of Arizona's most important statewide industries, suffered heavily during the Great Depression. The composition of the state's economy is moderately diverse; although health care, transportation and the government remain the largest sectors. Early in its history, Arizona's economy relied on the "five C's": copper (see Copper mining in Arizona), cotton, cattle, citrus, and climate (tourism).
+\Predicted Summary:
+,,, meaning "small spring" onak, meaning "small spring" al onak, meaning "small spring" to the European settlers . Arizona shares the Four Corners region with Utah, Colorado, and New Mexico . it is the 6th largest and the 14th most populous of the 50 states .
+
+GT:
+The 2011 total gross state product was $259 billion. This figure gives Arizona a larger economy than such countries as Ireland, Finland, and New Zealand. The composition of the state's economy is moderately diverse; although health care, transportation and the government remain the largest sectors. Early in its history, Arizona's economy relied on the "five C's": copper (see Copper mining in Arizona), cotton, cattle, citrus, and climate (tourism). Copper is still extensively mined from many expansive open-pit and underground mines, accounting for two-thirds of the nation's output. The state government is Arizona's largest employer, while Banner Health is the state's largest private employer, with more than 39,000 employees (2016).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11864406779661017, 0.3333333333333333, 0.175, 0.10937499999999999]
+[0.03418803418803419, 0.0975609756097561, 0.05063291139240506, 0.03164556962025316]
+[0.09322033898305085, 0.2619047619047619, 0.13749999999999998, 0.08593749999999999]
+
+
+SBERT sim. Score: 0.4047054946422577

@@ -1,0 +1,21 @@
+Document:
+new_hampshire
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It is the state with the highest percentage of timberland area in the country. It contains less than 5% of the state's population, suffers relatively high poverty, and is steadily losing population as the logging and paper industries decline. New Hampshire has the highest percentage (22.9%) of residents with French/French-Canadian/Acadian ancestry of any US state. The Bureau of Economic Analysis estimates that New Hampshire's total state product in 2018 was $86 billion, ranking 40th in the United States. The state's largest economic sectors in 2018, based on contribution to GDP, are: 15% real estate and rental and leasing; 13% professional business services; 12% manufacturing; 10% government and government services; and 9% health care and social services. The state does have narrower taxes on meals, lodging, vehicles, business and investment income, and tolls on state roads. The state has no general sales tax and no personal state income tax (the state does tax, at a five percent rate, income from dividends and interest), and the legislature has exercised fiscal restraint. However, the state's overall tax burden is relatively low; in 2010 New Hampshire ranked 44th highest among states in combined average state and local tax burden. In 2008 the state tied with Massachusetts as having the highest scores on the SAT and ACT standardized tests given to high school students.
+\Predicted Summary:
+, and New Hampshire is the 5th smallest state in the state. New Hampshire is the 10th most populous state in the nation . New Hampshire is home to a number of other states, including the u.s., which is the largest state in the world . New Hampshire is the first state in the US presidential election cycle .
+
+GT:
+New Hampshire has no general sales tax, nor income tax other than on interest and dividends. In 2016, a Gallup Poll found that New Hampshire was the least religious state in the United States. New Hampshire today has a broad-based and growing economy, with a state GDP growth rate of 2.2% in 2018. The state's largest economic sectors in 2018, based on contribution to GDP, are: 15% real estate and rental and leasing; 13% professional business services; 12% manufacturing; 10% government and government services; and 9% health care and social services. The issue of taxation is controversial in New Hampshire, which has a property tax (subject to municipal control) but no broad sales tax or income tax. The state has no general sales tax and no personal state income tax (the state does tax, at a five percent rate, income from dividends and interest), and the legislature has exercised fiscal restraint. In March 2018, 86% of New Hampshire's workforce were employed by the private sector, with 53% of those workers being employed by firms with less than 100 employees. New Hampshire has a well-maintained, well-signed network of Interstate highways, US highways, and state highways. New Hampshire is also the home of several prestigious university-preparatory schools, such as Phillips Exeter Academy, St. Paul's School, Proctor Academy, Brewster Academy, and Kimball Union Academy. In 2008 the state tied with Massachusetts as having the highest scores on the SAT and ACT standardized tests given to high school students. Funspot, the world's largest video arcade (now termed a museum), is in Laconia.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15355805243445692, 0.7321428571428571, 0.25386996904024767, 0.15866873065015477]
+[0.03759398496240601, 0.18181818181818182, 0.06230529595015576, 0.038940809968847356]
+[0.10486891385767791, 0.5, 0.17337461300309598, 0.10835913312693499]
+
+
+SBERT sim. Score: 0.6465456485748291

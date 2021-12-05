@@ -1,0 +1,21 @@
+Document:
+illinois
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+The Great Migration from the South established a large community of African Americans in the state, including Chicago, who founded the city's famous jazz and blues cultures. Illinois has numerous museums Several museums in Chicago are ranked as some of the best in the world. Chicago, in the northeast corner of the state, is a major center for music in the midwestern United States where distinctive forms of blues (greatly responsible for the future creation of rock and roll), and house music, a genre of electronic dance music, were developed. Chicago is also well known for its soul music. As one of the United States' major metropolises, all major sports leagues have teams headquartered in Chicago. The state features 13 athletic programs that compete in NCAA Division I, the highest level of US college sports. The two most prominent are the Illinois Fighting Illini and Northwestern Wildcats, both members of the Big Ten Conference and the only ones competing in one of the so-called "Power Five conferences".
+\Predicted Summary:
+, and the state became a major transportation hub in the midwest and western parts of the state . Illinois is a microcosm of the entire state, and has long been a bellwether in politics . the state has a diverse agricultural productivity, and is a major transportation hub .
+
+GT:
+Several museums in Chicago are ranked as some of the best in the world. These include the John G. Shedd Aquarium, the Field Museum of Natural History, the Art Institute of Chicago, the Adler Planetarium, and the Museum of Science and Industry. The modern Abraham Lincoln Presidential Library and Museum in Springfield is the largest and most attended presidential library in the country. Other historical museums in the state include the Polish Museum of America in Chicago; Magnolia Manor in Cairo; Easley Pioneer Museum in Ipava; the Elihu Benjamin Washburne; Ulysses S. Grant Homes, both in Galena; and the Chanute Air Museum, located on the former Chanute Air Force Base in Rantoul. The Chicago metropolitan area also hosts two zoos: The Brookfield Zoo, located about ten miles west of the city center in suburban Brookfield, contains more than 2,300 animals and covers 216 acres (87 ha). Illinois is a leader in music education, having hosted the Midwest Clinic International Band and Orchestra Conference since 1946, as well being home to the Illinois Music Educators Association (IMEA), one of the largest professional music educator's organizations in the country. Chicago, in the northeast corner of the state, is a major center for music in the midwestern United States where distinctive forms of blues (greatly responsible for the future creation of rock and roll), and house music, a genre of electronic dance music, were developed. Ferris Bueller's Day Off, Home Alone, The Breakfast Club, and all his films take place in the fictional Shermer, Illinois (the original name of Northbrook was Shermerville, and Hughes's High School, Glenbrook North High School, is on Shermer Road). As one of the United States' major metropolises, all major sports leagues have teams headquartered in Chicago. Many minor league teams also call Illinois their home. The state features 13 athletic programs that compete in NCAA Division I, the highest level of US college sports.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08125, 0.5652173913043478, 0.14207650273224043, 0.08879781420765027]
+[0.03761755485893417, 0.26666666666666666, 0.06593406593406594, 0.04120879120879121]
+[0.06875, 0.4782608695652174, 0.1202185792349727, 0.07513661202185792]
+
+
+SBERT sim. Score: 0.2920460104942322

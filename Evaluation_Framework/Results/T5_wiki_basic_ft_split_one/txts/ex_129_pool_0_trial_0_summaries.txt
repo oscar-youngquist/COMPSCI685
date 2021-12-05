@@ -1,0 +1,21 @@
+Document:
+iowa
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+It has crossed the state on various routes each year since 1973. Iowa has four primary interstate highways. Interstate 29 (I-29) travels along the state's western edge through Council Bluffs and Sioux City. I-80 travels from the Nebraska state line to the Illinois state line through the center of the state, including Council Bluffs, Des Moines, Iowa City, and the Quad Cities. Smaller airports in the state include the Davenport Municipal Airport (Iowa), Dubuque Regional Airport, Fort Dodge Regional Airport, Mason City Municipal Airport, Sioux Gateway Airport, Southeast Iowa Regional Airport, and Waterloo Regional Airport. Amtrak's California Zephyr serves the south of Iowa with stops at Burlington, Mount Pleasant, Ottumwa, Osceola, and Creston on its daily route between Chicago and Emeryville, California. Fort Madison is served by Amtrak's Southwest Chief, running daily between Chicago and Los Angeles.
+\Predicted Summary:
+is the 26th most extensive in total area and the 30th most populous of the 50 US states . Iowa is the 26th most extensive in total area and the largest metropolitan area is . Iowa is the most extensive in total area and the 30th most populous state . the state's capital, Des Moines, is the state's largest metropolitan area .
+
+GT:
+Iowa has four primary interstate highways. Interstate 29 (I-29) travels along the state's western edge through Council Bluffs and Sioux City. I-35 travels from the Missouri state line to the Minnesota state line through the state's center, including Des Moines. I-74 begins at I-80 just northeast of Davenport. I-80 travels from the Nebraska state line to the Illinois state line through the center of the state, including Council Bluffs, Des Moines, Iowa City, and the Quad Cities. I-380 is an auxiliary Interstate Highway, which travels from I-80 near Iowa City through Cedar Rapids ending in Waterloo and is part of the Avenue of the Saints highway. Iowa is served by several regional airports including the Des Moines International Airport, the Eastern Iowa Airport, in Cedar Rapids, Quad City International Airport, in Moline, Illinois, and Eppley Airfield, in Omaha, Nebraska. Smaller airports in the state include the Davenport Municipal Airport (Iowa), Dubuque Regional Airport, Fort Dodge Regional Airport, Mason City Municipal Airport, Sioux Gateway Airport, Southeast Iowa Regional Airport, and Waterloo Regional Airport. Amtrak's California Zephyr serves the south of Iowa with stops at Burlington, Mount Pleasant, Ottumwa, Osceola, and Creston on its daily route between Chicago and Emeryville, California.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13875598086124402, 0.48333333333333334, 0.21561338289962825, 0.13475836431226765]
+[0.038461538461538464, 0.13559322033898305, 0.0599250936329588, 0.03745318352059925]
+[0.10047846889952153, 0.35, 0.15613382899628253, 0.09758364312267657]
+
+
+SBERT sim. Score: 0.4640253484249115

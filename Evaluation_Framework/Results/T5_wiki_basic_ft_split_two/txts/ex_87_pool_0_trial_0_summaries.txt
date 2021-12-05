@@ -1,0 +1,21 @@
+Document:
+alaska
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined, and the seventh-largest subnational division in the world. The state capital of Juneau is the second-largest city in the United States by area, comprising more territory than the states of Rhode Island and Delaware. While it has one of the smallest state economies in the country, Alaska's per capita income is among the highest, owing to a diversified economy dominated by fishing, natural gas, and oil, all of which it has in abundance. United States armed forces bases and tourism are also a significant part of the economy; more than half the state is federally owned public land, including a multitude of national forests, parks, and wildlife refuges. Alaska's indigenous population is proportionally the highest of any US state, at over 15 percent. Alaska has a longer coastline than all the other US states combined. In 2010, Alaska ranked as the 47th state by population, ahead of North Dakota, Vermont, and Wyoming (and Washington, D.C.). Alaska is by far the largest US state by area, and the tenth wealthiest (per capita income). In terms of race and ethnicity, the state was 66.7% White (64.1% Non-Hispanic White), 14.8% American Indian and Alaska Native, 5.4% Asian, 3.3% Black or African American, 1.0% Native Hawaiian and Other Pacific Islander, 1.6% from Some Other Race, and 7.3% from Two or More Races. Alaska also has the largest Quaker population (by percentage) of any state. Agricultural production is primarily for consumption within the state and includes nursery stock, dairy products, vegetables, and livestock. Many of the more densely populated parts of the state are part of Alaska's 16 boroughs, which function somewhat similarly to counties in other states.
+\Predicted Summary:
+Alaska is a state in the northwest extremity of the country's west coast, just across the Bering Strait . Alaska is by far the largest US state by area, comprising more total area than the next three largest states . it borders the Canadian province of British Columbia and territory of Yukon to the east and southwest .
+
+GT:
+While it has one of the smallest state economies in the country, Alaska's per capita income is among the highest, owing to a diversified economy dominated by fishing, natural gas, and oil, all of which it has in abundance. With its myriad islands, Alaska has nearly 34,000 miles (55,000 km) of tidal shoreline. The United States Census Bureau estimates that the population of Alaska was 731,545 on July 1, 2019, a 3.00% increase since the 2010 United States Census. According to a 2013 study by Phoenix Marketing International, Alaska had the fifth-largest number of millionaires per capita in the United States, with a ratio of 6.75 percent. Alaska also offers some of the highest hydroelectric power potential in the country from its numerous rivers. Alaskan agriculture has experienced a surge in growth of market gardeners, small farms and farmers' markets in recent years, with the highest percentage increase (46%) in the nation in growth in farmers' markets in 2011, compared to 17% nationwide. Alaska was formerly the only state in which possession of one ounce or less of marijuana in one's home was completely legal under state law, though the federal law remains in force. Larger towns usually have their own local police and some villages rely on "Public Safety Officers" who have police training but do not carry firearms.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11842105263157894, 0.48214285714285715, 0.19014084507042253, 0.11883802816901406]
+[0.01762114537444934, 0.07272727272727272, 0.028368794326241138, 0.01773049645390071]
+[0.08771929824561403, 0.35714285714285715, 0.1408450704225352, 0.0880281690140845]
+
+
+SBERT sim. Score: 0.5814658999443054

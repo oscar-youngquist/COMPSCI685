@@ -1,0 +1,21 @@
+Document:
+colorado
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Grand Junction is also along the major railroad of the Western Slope, the Union Pacific. This railroad also provides the tracks for Amtrak's California Zephyr passenger train, which crosses the Rocky Mountains between Denver and Grand Junction via a route on which there are no continuous highways. Colorado's primary mode of transportation (in terms of passengers) is its highway system. Interstate 25 (I-25) is the primary north–south highway in the state, connecting Pueblo, Colorado Springs, Denver, and Fort Collins, and extending north to Wyoming and south to New Mexico. I-70 is the primary east–west corridor. It connects Grand Junction and the mountain communities with Denver, and enters Utah and Kansas. The state is home to a network of US and Colorado highways that provide access to all principal areas of the state. DIA handles by far the largest volume of commercial air traffic in Colorado, and is the busiest US hub airport between Chicago and the Pacific coast, making Denver the most important airport for connecting passenger traffic in the western United States. Extensive public transportation bus services are offered both intra-city and inter-city—including the Denver metro area's extensive RTD services. Amtrak operates two passenger rail lines in Colorado, the California Zephyr and Southwest Chief. Both Union Pacific and BNSF have extensive freight operations in Colorado.
+\Predicted Summary:
+, the Colorado River, which early Spanish explorers named the Ro Colorado ("Red River") for the ruddy silt the river carried from the mountains . Colorado is the 8th most extensive and 21st most populous US state . the estimated population of Colorado is 5,758,736 as of 2019, an increase of 14.5% since the 2010 United States Census .
+
+GT:
+Colorado's primary mode of transportation (in terms of passengers) is its highway system. Interstate 25 (I-25) is the primary north–south highway in the state, connecting Pueblo, Colorado Springs, Denver, and Fort Collins, and extending north to Wyoming and south to New Mexico. I-70 is the primary east–west corridor. The state is home to a network of US and Colorado highways that provide access to all principal areas of the state. Denver International Airport (DIA) is the fifth-busiest domestic US airport and twentieth busiest airport in the world by passenger traffic. Extensive public transportation bus services are offered both intra-city and inter-city—including the Denver metro area's extensive RTD services. The Regional Transportation District (RTD) operates the popular RTD Bus & Rail transit system in the Denver Metropolitan Area. Amtrak operates two passenger rail lines in Colorado, the California Zephyr and Southwest Chief. Colorado's freight railroad network consists of 2,688 miles of Class I trackage.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13414634146341464, 0.3793103448275862, 0.1981981981981982, 0.12387387387387387]
+[0.006134969325153374, 0.017543859649122806, 0.009090909090909092, 0.005681818181818182]
+[0.08536585365853659, 0.2413793103448276, 0.12612612612612614, 0.07882882882882884]
+
+
+SBERT sim. Score: 0.4623495638370514

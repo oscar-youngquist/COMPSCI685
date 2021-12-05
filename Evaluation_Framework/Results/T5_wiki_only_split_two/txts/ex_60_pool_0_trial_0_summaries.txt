@@ -1,0 +1,21 @@
+Document:
+delaware
+
+Intent:
+How is the government structured in this state?
+
+Input:
+It still has a substantial presence in the state. Delaware's fourth and current constitution, adopted in 1897, provides for executive, judicial and legislative branches. The Delaware General Assembly consists of a House of Representatives with 41 members and a Senatorte with 21 members. Representatives are elected to two-year terms, while senators are elected to four-year terms. The Senatorte confirms judicial and other nominees appointed by the governor. The Delaware Constitution establishes a number of courts: The executive branch is headed by the Governor of Delaware. The governor presents a "State of the State" speech to a joint session of the Delaware legislature annually. Each county elects its own legislative body (known in New Castle and Sussex counties as County Council, and in Kent County as Levy Court), which deal primarily in zoning and development issues. Currently, Democrats hold all positions of authority in Delaware including Senatorte and House. New Castle County also elects a substantial majority of the legislature Democrats presently hold all the nine statewide elected offices, while the Republicans last won two statewide offices in 2014, State Auditor and State Treasurer.
+\Predicted Summary:
+, Delaware, and Delaware, is the second-smallest and sixth-least populous state . Delaware is the second-smallest and sixth-least populous state, but also the sixth-most densely populated . Delaware is the first state to ratify the Constitution of the United States .
+
+GT:
+Delaware's fourth and current constitution, adopted in 1897, provides for executive, judicial and legislative branches. The Delaware General Assembly consists of a House of Representatives with 41 members and a Senatorte with 21 members. Senatortors are Tom Carper (Democrat) and Chris Coons (Democrat). Delaware's single US Representative is Lisa Blunt Rochester (Democrat). The Delaware Constitution establishes a number of courts: Significantly, Delaware has one of the few remaining Courts of Chancery in the nation, which has jurisdiction over equity cases, the vast majority of which are corporate disputes, many relating to mergers and acquisitions. The Court of Chancery and the Delaware Supreme Court have developed a worldwide reputation for rendering concise opinions concerning corporate law which generally (but not always) grant broad discretion to corporate boards of directors and officers. The executive branch is headed by the Governor of Delaware. The present governor is John Carney (Democrat), who took office January 17, 2017.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12903225806451613, 0.47619047619047616, 0.20304568527918782, 0.12690355329949238]
+[0.006493506493506494, 0.024390243902439025, 0.010256410256410256, 0.006410256410256411]
+[0.09032258064516129, 0.3333333333333333, 0.14213197969543145, 0.08883248730964466]
+
+
+SBERT sim. Score: 0.5476493835449219

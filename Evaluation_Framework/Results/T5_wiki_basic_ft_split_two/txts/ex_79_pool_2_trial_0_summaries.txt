@@ -1,0 +1,21 @@
+Document:
+pennsylvania
+
+Intent:
+What drives the economy in this state?
+
+Input:
+At the beginning of the 20th century, Pennsylvania's economy centered on steel production, logging, coal mining, textile production and other forms of industrial manufacturing. According to US Census Bureau estimates, the state's poverty rate was 12.5% in 2017, compared to 13.4% for the United States as a whole. Pennsylvania's 2018 total gross state product (GSP) of $803 billion ranks the state 6th in the nation. Much of the Commonwealth is rural Pennsylvania ranks 19th overall in agricultural production. The financial impact of agriculture in Pennsylvania includes employment of more than 66,800 people employed by the food manufacturing industry; and over $1.7 billion in food product export (in 2011). It leads all other states in the manufacture of pretzels and potato chips. It was also a keystone state economically, having both the industry common to the North (making such wares as Conestoga wagons and rifles) and the agriculture common to the South (producing feed, fiber, food, and tobacco). "The Coal State", "The Oil State", "The Chocolate State", and "The Steel State" were adopted when those were the state's greatest industries.
+\Predicted Summary:
+is officially the Commonwealth of Pennsylvania, a state in the Mid-Atlantic, Appalachian, and Great Lakes regions of the Northeastern United States . The state is bordered by Delaware to the southeast, Maryland to the south, West Virginia to the southwest, Ohio to the west, New York to the west, and New York to the east . Pennsylvania is the 9th-largest city by area, and the 5th-largest city by area, according to the most recent official US
+
+GT:
+Pennsylvania's 2018 total gross state product (GSP) of $803 billion ranks the state 6th in the nation. If Pennsylvania were an independent country, its economy would rank as the 19th-largest in the world. Philadelphia in the southeast corner, Pittsburgh in the southwest corner, Erie in the northwest corner, Scranton-Wilkes-Barre in the northeast corner, and Allentown-Bethlehem-Easton in the east central region are urban manufacturing centers. Philadelphia is home to six Fortune 500 companies, with more located in suburbs like King of Prussia; it is a leader in the financial and insurance industry. Pittsburgh is home to eight Fortune 500 companies, including US Steel, PPG Industries, and H.J. Erie is also home to GE Transportation, which is the largest producer of train locomotives in the United States. As in the US as a whole and in most states, the largest private employer in the Commonwealth is Walmart, followed by the University of Pennsylvania.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.26582278481012656, 0.5454545454545454, 0.35744680851063826, 0.22340425531914893]
+[0.06369426751592357, 0.13157894736842105, 0.08583690987124463, 0.05364806866952789]
+[0.14556962025316456, 0.2987012987012987, 0.19574468085106383, 0.12234042553191489]
+
+
+SBERT sim. Score: 0.5083984136581421

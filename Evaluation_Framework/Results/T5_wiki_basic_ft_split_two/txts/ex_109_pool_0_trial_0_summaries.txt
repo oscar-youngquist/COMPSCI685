@@ -1,0 +1,21 @@
+Document:
+new_hampshire
+
+Intent:
+How is the government structured in this state?
+
+Input:
+New Hampshire has a bifurcated executive branch, consisting of the governor and a five-member executive council which votes on state contracts worth more than $5,000 and "advises and consents" to the governor's nominations to major state positions such as department heads and all judgeships and pardon requests. New Hampshire does not have a lieutenant governor; the Senatorte president serves as "acting governor" whenever the governor is unable to perform the duties. The legislature is called the General Court. It consists of the House of Representatives and the Senatorte. Most towns generally operate on the town meeting form of government, where the registered voters in the town act as the town legislature, and a board of selectmen acts as the executive of the town. Larger towns and the state's thirteen cities operate either on a council–manager or council–mayor form of government. There is no difference, from the state government's point of view, between towns and cities besides the form of government. All state-level statutes treat all municipalities identically. Republicans control the governor's office and both chambers of the state legislature, a governing trifecta in which the Republicans have full governing power. In the 116th United States Congress, it is one of only eight states with an entirely Democratic delegation, five of which are in New England (the others are Delaware, Hawaii, and New Mexico).
+\Predicted Summary:
+to establish a government independent of the Kingdom of Great Britain's authority . New Hampshire () is the state in the Northeastern United States . New Hampshire is the 5th smallest by area and the 10th most populous state . New Hampshire has no general sales tax, nor income tax other than on interest and dividends .
+
+GT:
+New Hampshire is a "Dillon Rule" state, meaning the state retains all powers not specifically granted to municipalities. New Hampshire municipalities are classified as towns or cities, which differ primarily by the form of government. Most towns generally operate on the town meeting form of government, where the registered voters in the town act as the town legislature, and a board of selectmen acts as the executive of the town. Larger towns and the state's thirteen cities operate either on a council–manager or council–mayor form of government. The Democratic Party and the Republican Party are the two largest parties in the state. New Hampshire is internationally known for the New Hampshire primary, the first primary in the quadrennial American presidential election cycle. State law requires that the Secretary of State schedule this election at least one week before any "similar event".
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2013888888888889, 0.5471698113207547, 0.29441624365482233, 0.18401015228426393]
+[0.06993006993006994, 0.19230769230769232, 0.10256410256410257, 0.06410256410256411]
+[0.1111111111111111, 0.3018867924528302, 0.16243654822335024, 0.10152284263959392]
+
+
+SBERT sim. Score: 0.6821765899658203

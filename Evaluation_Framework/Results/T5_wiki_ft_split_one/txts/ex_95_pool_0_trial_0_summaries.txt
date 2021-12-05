@@ -1,0 +1,21 @@
+Document:
+mississippi
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+The Native Americans developed extensive fields near their permanent villages. Their large earthworks, which expressed their cosmology of political and religious concepts, still stand throughout the Mississippi and Ohio River valleys. Other tribes who inhabited the territory of Mississippi (and whose names were honored by colonists in local towns) include the Natchez, the Yazoo, and the Biloxi. Blacks and whites in Mississippi generated rich, quintessentially American music traditions: gospel music, country music, jazz, blues and rock and roll. All were invented, promulgated or heavily developed by Mississippi musicians, many of them African American, and most came from the Mississippi Delta. Gambling towns in Mississippi have attracted increased tourism: they include the Gulf Coast resort towns of Bay St. Louis, Gulfport and Biloxi, and the Mississippi River towns of Tunica (the third largest gaming area in the United States), Greenville, Vicksburg and Natchez. While Mississippi has been especially known for its music and literature, it has embraced other forms of art. Musicians of the state's Delta region were historically significant to the development of the blues. Their friendship and respect is an important example of Mississippi's musical legacy. While the state has had a reputation for being racist, Mississippi musicians created new forms by combining and creating variations on musical traditions from Africa, African American traditions, and the musical traditions of white Southerners strongly shaped by Scots-Irish and other styles. and Afroman, Mississippi musicians have been significant in all genres.
+\Predicted Summary:
+, the Mississippi River, which flows along and defines its western boundary . Mississippi is bordered to the north by Tennessee; to the east by Alabama; to the south by the Gulf of Mexico; to the southwest by Louisiana; and to the northwest by Arkansas . Mississippi is the 32nd largest and 34th-most populous of the 50 US states .
+
+GT:
+While Mississippi has been especially known for its music and literature, it has embraced other forms of art. Its strong religious traditions have inspired striking works by outsider artists who have been shown nationally. Jackson established the USA International Ballet Competition, which is held every four years. This ballet competition attracts the most talented young dancers from around the world. The Magnolia Independent Film Festival, still held annually in Starkville, is the first and oldest in the state. George Ohr, known as the "Mad Potter of Biloxi" and the father of abstract expressionism in pottery, lived and worked in Biloxi, MS. Musicians of the state's Delta region were historically significant to the development of the blues. Jimmie Rodgers, a native of Meridian and guitarist/singer/songwriter known as the "Father of Country Music", played a significant role in the development of the blues. The state is creating a Mississippi Blues Trail, with dedicated markers explaining historic sites significant to the history of blues music, such as Clarksdale's Riverside Hotel, where Bessie Smith died after her auto accident on Highway 61. The Riverside Hotel is just one of many historical blues sites in Clarksdale. The Delta Blues Museum there is visited by tourists from all over the world. Close by is "Ground Zero", a contemporary blues club and restaurant co-owned by actor Morgan Freeman. Elvis Presley, who created a sensation in the 1950s as a crossover artist and contributed to rock 'n' roll, was a native of Tupelo. From opera star Leontyne Price to the alternative rock band 3 Doors Down, to gulf and western singer Jimmy Buffett, modern rock/jazz/world music guitarist-producer Clifton Hyde, to rappers David Banner, Big K.R.I.T.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11458333333333333, 0.5789473684210527, 0.19130434782608693, 0.11956521739130434]
+[0.017421602787456445, 0.08928571428571429, 0.02915451895043732, 0.018221574344023325]
+[0.06944444444444445, 0.3508771929824561, 0.11594202898550725, 0.07246376811594203]
+
+
+SBERT sim. Score: 0.32724371552467346

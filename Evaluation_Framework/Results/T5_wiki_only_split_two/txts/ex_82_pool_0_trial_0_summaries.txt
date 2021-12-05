@@ -1,0 +1,21 @@
+Document:
+south_carolina
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+As the 21st century progresses, South Carolina has attracted new business by having a 5% corporate income tax rate, no state property tax, no local income tax, no inventory tax, no sales tax on manufacturing equipment, industrial power or materials for finished products; no wholesale tax, and no unitary tax on worldwide profits. In 2019, South Carolina's GDP was $249.9 billion, making the state the 26th largest by GDP in the United States. According to the US Bureau of Economic Analysis, South Carolina's gross state product (GSP) in was $97 billion in 1997 and $153 billion in 2007. The state debt in 2012 was calculated by one source to be $22.9bn, or $7,800 per taxpayer. Major agricultural outputs of the state are tobacco, poultry, cotton, cattle, dairy products, soybeans, hay, rice, and swine. The state has the fourth largest state-maintained system in the country, consisting of 11 Interstates, numbered highways, state highways, and secondary roads, totalling approximately 41,500 miles. There was $5,114 spent on health expenses per capita in the state, compared to the national average of $5,283.
+\Predicted Summary:
+, the first state to vote in favor of secession from the Union on December 20, 1868. South Carolina is a state in the Deep South region of the Southern United States . South Carolina is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia . South Carolina is the 40th most extensive and 23rd most populous US state .
+
+GT:
+Coastal areas of the state have very mild winters, with high temperatures approaching an average of 60 °F (16 °C) and overnight lows around 40 °F (5–8 °C). As the 21st century progresses, South Carolina has attracted new business by having a 5% corporate income tax rate, no state property tax, no local income tax, no inventory tax, no sales tax on manufacturing equipment, industrial power or materials for finished products; no wholesale tax, and no unitary tax on worldwide profits. South Carolina was one of the first states to stop paying for 'early elective' deliveries of babies, under either Medicaid and private insurance. The term early elective is defined as a labor induction or Cesarean section between 37–39 weeks that is not medically based. This change is intended to result in healthier babies and fewer unnecessary costs for South Carolina. South Carolina has many venues for visual and performing arts.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1895424836601307, 0.43283582089552236, 0.26363636363636367, 0.1647727272727273]
+[0.046052631578947366, 0.10606060606060606, 0.06422018348623854, 0.040137614678899085]
+[0.12418300653594772, 0.2835820895522388, 0.17272727272727273, 0.10795454545454544]
+
+
+SBERT sim. Score: 0.44192492961883545

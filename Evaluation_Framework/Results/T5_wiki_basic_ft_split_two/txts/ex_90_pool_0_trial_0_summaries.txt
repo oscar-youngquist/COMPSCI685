@@ -1,0 +1,21 @@
+Document:
+maine
+
+Intent:
+What drives the economy in this state?
+
+Input:
+As of 2010, Maine was also the most rural state in the Union, with only 38.7% of the state's population living within urban areas. The Bureau of Economic Analysis estimates that Maine's total gross state product for 2010 was $52 billion. Maine's agricultural outputs include poultry, eggs, dairy products, cattle, wild blueberries, apples, maple syrup, and maple sugar. Commercial fishing, once a mainstay of the state's economy, maintains a presence, particularly lobstering and groundfishing. In 2015, 14% of the Northeast's total oyster supply came from Maine. In 2017, the production of Maine's seaweed industry was estimated at $20 million per year. Maine's industrial outputs consist chiefly of paper, lumber and wood products, electronic equipment, leather products, food products, textiles, and bio-technology. Maine has very few large companies that maintain headquarters in the state, and that number has fallen due to consolidations and mergers, particularly in the pulp and paper industry. During the 18th and 19th centuries, wooden shipbuilding of this sort made up a sizable portion of the economy. The state is a major producer of potatoes, wild blueberries, apples, maple syrup and sweet corn. Dairy products and chicken's eggs are other major industries. Maine has many vegetable farms and other small, diversified farms. Maine has a smaller number of commodity farms and confined animal feeding operations. Since the 1980s, the state has gotten a reputation for its local food and restaurant meals.
+\Predicted Summary:
+Maine was established in 1612 on Saint Croix Island, and the first European settlement in the area was by the French in 1604 on Saint Croix Island . Maine is the 12th-smallest state in the northeastern United States, and the 13th-least densely populated . Maine is known for its jagged, rocky coastline; low, rolling mountains; heavily forested interior; and its seafood cuisine, especially lobster and clams . Maine is the 13th-least denselyly populated
+
+GT:
+Maine's agricultural outputs include poultry, eggs, dairy products, cattle, wild blueberries, apples, maple syrup, and maple sugar. Aroostook County is known for its potato crops. Commercial fishing, once a mainstay of the state's economy, maintains a presence, particularly lobstering and groundfishing. While lobster is the main seafood focus for Maine, the harvest of both oysters and seaweed are on the rise. In 2015, 14% of the Northeast's total oyster supply came from Maine. Tourism and outdoor recreation play a major and increasingly important role in Maine's economy. The state is a popular destination for sport hunting (particularly deer, moose and bear), sport fishing, snowmobiling, skiing, boating, camping and hiking, among other activities. Maine has very few large companies that maintain headquarters in the state, and that number has fallen due to consolidations and mergers, particularly in the pulp and paper industry.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.20689655172413793, 0.410958904109589, 0.27522935779816515, 0.17201834862385323]
+[0.05555555555555555, 0.1111111111111111, 0.07407407407407407, 0.046296296296296294]
+[0.11724137931034483, 0.2328767123287671, 0.15596330275229356, 0.09747706422018348]
+
+
+SBERT sim. Score: 0.5412501096725464

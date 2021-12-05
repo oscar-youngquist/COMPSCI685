@@ -1,0 +1,21 @@
+Document:
+new_hampshire
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+New Hampshire is the 5th smallest by area and the 10th least populous US state. It is the state with the highest percentage of timberland area in the country. It contains less than 5% of the state's population, suffers relatively high poverty, and is steadily losing population as the logging and paper industries decline. Winters are cold and snowy throughout the state, and especially severe in the northern and mountainous areas. The northern parts of the state produced lumber, and the mountains provided tourist attractions. New Hampshire has the highest percentage (22.9%) of residents with French/French-Canadian/Acadian ancestry of any US state. A survey suggests people in New Hampshire and Vermont are less likely than other Americans to attend weekly services and only 54% say they are "absolutely certain there is a God" compared to 71% in the rest of the nation. New Hampshire and Vermont are also at the lowest levels among states in religious commitment. The state's largest economic sectors in 2018, based on contribution to GDP, are: 15% real estate and rental and leasing; 13% professional business services; 12% manufacturing; 10% government and government services; and 9% health care and social services. In the 116th United States Congress, it is one of only eight states with an entirely Democratic delegation, five of which are in New England (the others are Delaware, Hawaii, and New Mexico).
+\Predicted Summary:
+New Hampshire is the 5th smallest by area and the 10th most populous state . New Hampshire is the most populous state in the nation . New Hampshire is the most populous state in the world .
+
+GT:
+New Hampshire has no general sales tax, nor income tax other than on interest and dividends. The New Hampshire primary is the first primary in the US presidential election cycle. Most of New Hampshire averages fewer than 20 days of thunderstorms per year and an average of two tornadoes occur annually statewide. A survey suggests people in New Hampshire and Vermont are less likely than other Americans to attend weekly services and only 54% say they are "absolutely certain there is a God" compared to 71% in the rest of the nation. Median household income in 2017 was $74,801, the fourth highest in the country (including Washington, DC). New Hampshire has a well-maintained, well-signed network of Interstate highways, US highways, and state highways. New Hampshire is also the home of several prestigious university-preparatory schools, such as Phillips Exeter Academy, St. Paul's School, Proctor Academy, Brewster Academy, and Kimball Union Academy.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13548387096774195, 0.6176470588235294, 0.22222222222222224, 0.1388888888888889]
+[0.05194805194805195, 0.24242424242424243, 0.0855614973262032, 0.053475935828877004]
+[0.1032258064516129, 0.47058823529411764, 0.1693121693121693, 0.1058201058201058]
+
+
+SBERT sim. Score: 0.5804572701454163

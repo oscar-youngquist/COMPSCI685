@@ -1,0 +1,21 @@
+Document:
+missouri
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The agriculture products of the state are beef, soybeans, pork, dairy products, hay, corn, poultry, sorghum, cotton, rice, and eggs. Missouri is ranked 6th in the nation for the production of hogs and 7th for cattle. Missouri is ranked in the top five states in the nation for production of soy beans, and it is ranked fourth in the nation for the production of rice. According to the Missouri Partnership, Missouri's agriculture industry contributes $33 billion in GDP to Missouri's economy, and generates $88 billion in sales and more than 378,000 jobs. Missouri also has a growing science, agricultural technology, and biotechnology field. Tourism, services, and wholesale/retail trade follow manufacturing in importance—tourism benefits from the many rivers, lakes, caves, parks, etc., throughout the state.
+\Predicted Summary:
+, the French established Louisiana in 1735 and St. Louis in 1764. The French established Louisiana, a part of New France, founding Ste. Genevieve in 1735 and St. Louis in 1764. Missouri is a state in the Midwestern United States. Missouri is the 18th-most populous state of the country.
+
+GT:
+Major industries include aerospace, transportation equipment, food processing, chemicals, printing/publishing, electrical equipment, light manufacturing, financial services and beer. The agriculture products of the state are beef, soybeans, pork, dairy products, hay, corn, poultry, sorghum, cotton, rice, and eggs. Missouri is ranked 6th in the nation for the production of hogs and 7th for cattle. Missouri is ranked in the top five states in the nation for production of soy beans, and it is ranked fourth in the nation for the production of rice. In 2001, there were 108,000 farms, the second-largest number in any state after Texas. Missouri actively promotes its rapidly growing wine industry. According to the Missouri Partnership, Missouri's agriculture industry contributes $33 billion in GDP to Missouri's economy, and generates $88 billion in sales and more than 378,000 jobs. Missouri produces the most lead of all the states. Missouri also ranks first or near first in the production of lime, a key ingredient in Portland cement.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1393939393939394, 0.46938775510204084, 0.21495327102803738, 0.13434579439252337]
+[0.036585365853658534, 0.125, 0.056603773584905655, 0.03537735849056604]
+[0.10303030303030303, 0.3469387755102041, 0.15887850467289721, 0.09929906542056076]
+
+
+SBERT sim. Score: 0.4263629913330078

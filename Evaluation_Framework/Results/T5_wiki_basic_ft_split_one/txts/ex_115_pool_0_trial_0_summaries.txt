@@ -1,0 +1,21 @@
+Document:
+oregon
+
+Intent:
+How is the government structured in this state?
+
+Input:
+Oregon state government has a separation of powers similar to the federal government. Governors in Oregon serve four-year terms and are limited to two consecutive terms, but an unlimited number of total terms. Oregon has no lieutenant governor; in the event that the office of governor is vacated, Article V, Section 8a of the Oregon Constitution specifies that the Secretary of State is first in line for succession. The other statewide officers are Treasurer, Attorney General, Superintendent, and Labor Commissioner. The state supreme court has seven elected justices, currently including the only two openly gay state supreme court justices in the nation. Recent legislatures have had to be called into special session repeatedly to address revenue shortfalls resulting from economic downturns, bringing to a head the need for more frequent legislative sessions. In 2004 and 2006, Democrats won control of the state Senatorte, and then the House. Since 2009, the state has had two Democratic US senators, Ron Wyden and Jeff Merkley. However, the region's sparse population means the more populous counties in the Willamette Valley usually outweigh the eastern counties in statewide elections. In the 2006 general election, voters restricted the use of eminent domain and extended the state's discount prescription drug coverage. Like all US states, Oregon is represented by two senators. Congressional apportionment increased the size of the delegation following the censuses of 1890, 1910, 1940, and 1980. During Oregon's history, it has adopted many electoral reforms proposed during the Progressive Era, through the efforts of William S. U'Ren and his Direct Legislation League. It remains one of just two states, the other being Washington, where voting by mail is the only method of voting. As a result, the state relies on property and income taxes for its revenue. The State currently collects the tax for TriMet and the Lane Transit District. Oregon is one of six states with a revenue limit.
+\Predicted Summary:
+, and Oregon became the 33rd state of the US in the early-mid 1500s . Oregon is the ninth largest and 27th most populous US state . the capital, Salem, is the second-most populous city in the nation .
+
+GT:
+Oregon maintained a territorial government until February 14, 1859, when it was granted statehood. Oregon state government has a separation of powers similar to the federal government. It has three branches: Governors in Oregon serve four-year terms and are limited to two consecutive terms, but an unlimited number of total terms. Oregon has no lieutenant governor; in the event that the office of governor is vacated, Article V, Section 8a of the Oregon Constitution specifies that the Secretary of State is first in line for succession. The other statewide officers are Treasurer, Attorney General, Superintendent, and Labor Commissioner. The biennial Oregon Legislative Assembly consists of a thirty-member Senatorte and a sixty-member House. The state supreme court has seven elected justices, currently including the only two openly gay state supreme court justices in the nation. They choose one of their own to serve a six-year term as Chief Justice. Like all US states, Oregon is represented by two senators. Since the 1980 census, Oregon has had five congressional districts. After Oregon was admitted to the Union, it began with a single member in the House of Representatives (La Fayette Grover, who served in the 35th United States Congress for less than a month). Congressional apportionment increased the size of the delegation following the censuses of 1890, 1910, 1940, and 1980. The United States District Court for the District of Oregon hears federal cases in the state. Also in Portland is the federal bankruptcy court, with a second branch in Eugene. Oregon (among other western states and territories) is in the 9th Court of Appeals.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07865168539325842, 0.5675675675675675, 0.1381578947368421, 0.08634868421052631]
+[0.02631578947368421, 0.19444444444444445, 0.04635761589403973, 0.028973509933774833]
+[0.07116104868913857, 0.5135135135135135, 0.125, 0.078125]
+
+
+SBERT sim. Score: 0.4927331805229187

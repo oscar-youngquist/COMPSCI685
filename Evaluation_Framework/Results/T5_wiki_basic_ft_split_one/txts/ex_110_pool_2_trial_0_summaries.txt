@@ -1,0 +1,21 @@
+Document:
+connecticut
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Geographically the state is part of New England, and although its cultural history stems from the region, in the modern age large sections of it are increasingly connected to and associated with the tri-state area with New York and New Jersey. The state's access to the open Atlantic Ocean is both to the west (toward New York City) and to the east (toward the "race" near Rhode Island). Despite Connecticut's relatively small size, it features wide regional variations in its landscape; for example, in the northwestern Litchfield Hills, it features rolling mountains and horse farms, whereas in areas to the east of New Haven along the coast, the landscape features coastal marshes, beaches, and large scale maritime activities. Connecticut lies at the rough transition zone between the southern end of the humid continental climate, and the northern portion of the humid subtropical climate. Northern Connecticut generally experiences a climate with cold winters with moderate snowfall and hot, humid summers. Far southern and coastal Connecticut has a climate with cool winters with a mix of rain and infrequent snow, and the long hot and humid summers typical of the middle and lower East Coast. Far southern and coastal areas, however, have more oak and hickory trees (and fewer maples) and are often less colorful than areas to the north. Forests consist of a mix of Northeastern coastal forests of Oak in southern areas of the state, to the upland New England-Acadian forests in the northwestern parts of the state. Most of western and southern Connecticut (particularly the Gold Coast) is strongly associated with New York City The state hosts several major sporting events. Both teams compete at the NCAA Division 1 Football Championship Subdivision level in the Northeast Conference.
+\Predicted Summary:
+, the Connecticut, the, and the Connecticut Colony, founded the Connecticut Colony and founded the Connecticut Colonyy and founded the Connecticut Colony. Connecticut is the third smallest state by area, the 29th most populous, and the fourth most densely populated of the fifty states .
+
+GT:
+Many towns in northeastern and northwestern Connecticut center around a green. Near the green typically stand historical visual symbols of New England towns, such as a white church, a colonial meeting house, a colonial tavern or inn, several colonial houses, and so on, establishing a scenic historical appearance maintained for both historic preservation and tourism. Far southern and coastal Connecticut has a climate with cool winters with a mix of rain and infrequent snow, and the long hot and humid summers typical of the middle and lower East Coast. There are two Connecticut teams in the American Hockey League. The Hartford Yard Goats of the Eastern League are a AA affiliate of the Colorado Rockies. Since 1952, a PGA Tour golf tournament has been played in the Hartford area. Lime Rock Park in Salisbury is a 1.5-mile (2.4 km) road racing course, home to the International Motor Sports Association, SCCA, United States Auto Club, and K&N Pro Series East races. Thompson International Speedway, Stafford Motor Speedway, and Waterford Speedbowl are oval tracks holding weekly races for NASCAR Modifieds and other classes, including the NASCAR Whelen Modified Tour. New Haven biennially hosts "The Game" between the Yale Bulldogs and the Harvard Crimson, the country's second-oldest college football rivalry.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11267605633802817, 0.5581395348837209, 0.1875, 0.11718750000000001]
+[0.014150943396226415, 0.07142857142857142, 0.02362204724409449, 0.014763779527559055]
+[0.07511737089201878, 0.37209302325581395, 0.12500000000000003, 0.078125]
+
+
+SBERT sim. Score: 0.25608205795288086

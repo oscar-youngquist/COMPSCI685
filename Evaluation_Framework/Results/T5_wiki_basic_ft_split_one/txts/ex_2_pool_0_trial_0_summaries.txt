@@ -1,0 +1,21 @@
+Document:
+mississippi
+
+Intent:
+How is the government structured in this state?
+
+Input:
+During Reconstruction, the first Mississippi constitutional convention in 1868, with delegates both black and white, framed a constitution whose major elements would be maintained for 22 years. As with all other US states and the federal government, Mississippi's government is based on the separation of legislative, executive and judicial power. Executive authority in the state rests with the Governor, currently Tate Reeves (R). The lieutenant governor, currently Delbert Hosemann (R), is elected on a separate ballot. Both the governor and lieutenant governor are elected to four-year terms of office. Unlike the federal government, but like many other US States, most of the heads of major executive departments are elected by the citizens of Mississippi rather than appointed by the governor. Mississippi is one of five states that elects its state officials in odd-numbered years (the others are Kentucky, Louisiana, New Jersey and Virginia). Mississippi holds elections for these offices every four years, always in the year preceding presidential elections. The amendment passed 86% to 14%, the largest margin in any state. Section 265 of the Constitution of the State of Mississippi declares that "No person who denies the existence of a Supreme Being shall hold any office in this state."
+\Predicted Summary:
+, is the largest,. Mississippi is the 20th state admitted to the Union. By 1860, Mississippi was the nation's largest state, bordered to the north by Tennessee, to the east by Alabama, to the south by the Gulf of Mexico . By 1860, the state was the nation's top cotton-producing state and enslaved persons accounted for 55% of the state population .
+
+GT:
+As with all other US states and the federal government, Mississippi's government is based on the separation of legislative, executive and judicial power. Executive authority in the state rests with the Governor, currently Tate Reeves (R). The lieutenant governor, currently Delbert Hosemann (R), is elected on a separate ballot. Both the governor and lieutenant governor are elected to four-year terms of office. Unlike the federal government, but like many other US States, most of the heads of major executive departments are elected by the citizens of Mississippi rather than appointed by the governor. Mississippi is one of five states that elects its state officials in odd-numbered years (the others are Kentucky, Louisiana, New Jersey and Virginia). Mississippi holds elections for these offices every four years, always in the year preceding presidential elections.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2074074074074074, 0.45161290322580644, 0.2842639593908629, 0.17766497461928932]
+[0.03731343283582089, 0.08196721311475409, 0.05128205128205128, 0.03205128205128205]
+[0.15555555555555556, 0.3387096774193548, 0.2131979695431472, 0.13324873096446702]
+
+
+SBERT sim. Score: 0.4288201332092285

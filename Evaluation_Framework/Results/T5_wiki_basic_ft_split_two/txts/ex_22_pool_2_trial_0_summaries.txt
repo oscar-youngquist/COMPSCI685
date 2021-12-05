@@ -1,0 +1,21 @@
+Document:
+kansas
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Kansas is served by two Interstate highways with one beltway, two spur routes, and three bypasses, with over 874 miles (1,407 km) in all. Spur routes serve as connections between the two major routes. I-335, a southwest–northeast route, connects I-35 at Emporia to I-70 at Topeka. The highway passes through the eastern section of Kansas, traveling through Baxter Springs, Pittsburg, Frontenac, Fort Scott, Louisburg, and the Kansas City area. Kansas also has the country's third largest state highway system after Texas and California. The Southwest Chief Amtrak route runs through the state on its route from Chicago to Los Angeles. Kansas is served by four Class I railroads, Amtrak, BNSF, Kansas City Southern, and Union Pacific, as well as many shortline railroads.
+\Predicted Summary:
+Kansas was founded in 1861. The abolitionists ruled the state in 1861 and occupied the state in 1861 . the state was known as the Kansas River, which was named after the Kansas River . Kansas is a 15th-largest state by area and is the 34th most-populous of the 50 states .
+
+GT:
+Kansas is served by two Interstate highways with one beltway, two spur routes, and three bypasses, with over 874 miles (1,407 km) in all. I-70 is a major east–west route connecting to Denver, Colorado and Kansas City, Missouri. I-35 is a major north–south route connecting to Oklahoma City, Oklahoma and Des Moines, Iowa. Kansas also has the country's third largest state highway system after Texas and California. The state's only major commercial (Class C) airport is Wichita Dwight D. Eisenhower National Airport, located along US-54 on the western edge of the city. In the state's southeastern part, people often use Tulsa International Airport in Tulsa, Oklahoma or Joplin Regional Airport in Joplin, Missouri. Dotted across the state are smaller regional and municipal airports, including the Lawrence Municipal Airport, which houses many aircraft for the city of Lawrence and the University of Kansas, Miami County Airport, Wamego Airport, Osage City Municipal Airport, which is the headquarters of Skydive Kansas, Garden City Regional Airport, Manhattan Regional Airport, and Dodge City Regional Airport. The Southwest Chief Amtrak route runs through the state on its route from Chicago to Los Angeles. Kansas is served by four Class I railroads, Amtrak, BNSF, Kansas City Southern, and Union Pacific, as well as many shortline railroads.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14220183486238533, 0.6078431372549019, 0.23048327137546468, 0.14405204460966542]
+[0.03686635944700461, 0.16, 0.059925093632958795, 0.03745318352059925]
+[0.09174311926605505, 0.39215686274509803, 0.14869888475836432, 0.09293680297397769]
+
+
+SBERT sim. Score: 0.3848814368247986

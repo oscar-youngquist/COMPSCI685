@@ -1,0 +1,21 @@
+Document:
+arizona
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+It is also part of the Western and the Mountain states. About one-quarter of the state is made up of Indian reservations that serve as the home of 27 federally recognized Native American tribes, including the Navajo Nation, the largest in the state and the United States, with more than 300,000 citizens. Hohokam, Mogollon and Ancestral Puebloan cultures were among those that flourished throughout the state. (The large Navajo Nation in the state's northeastern region does.) Arizona is a recognized center of Native American art, with a number of galleries showcasing historical and contemporary works. The Heard Museum, also in Phoenix, is a major repository of Native American art. Sedona, Jerome, and Tubac are known as a budding artist colonies, and small arts scenes exist in the larger cities and near the state universities. Arizona also has many singers and other musicians.
+\Predicted Summary:
+,,, meaning "small spring" onak, meaning "small spring" al onak, meaning "small spring" to the European settlers . Arizona shares the Four Corners region with Utah, Colorado, and New Mexico . Arizona shares the Four Corners region with Utah, Colorado, and the Mountain states .
+
+GT:
+Phoenix Art Museum, on the historic Central Avenue Corridor in Phoenix, is the Southwest's largest collection of visual art from across the world. The museum displays international exhibitions alongside the museum's collection of more than 18,000 works of American, Asian, European, Latin American, Western American, modern and contemporary art, and fashion design. Arizona is a recognized center of Native American art, with a number of galleries showcasing historical and contemporary works. The Heard Museum, also in Phoenix, is a major repository of Native American art. Some of the signature exhibits include a full Navajo hogan, the Mareen Allen Nichols Collection containing 260 pieces of contemporary jewelry, the Barry Goldwater Collection of 437 historic Hopi kachina dolls, and an exhibit on the 19th century boarding school experiences of Native Americans. Sedona, Jerome, and Tubac are known as a budding artist colonies, and small arts scenes exist in the larger cities and near the state universities. Arizona's budding music scene is helped by emerging bands, as well as some well-known artists. Arizona is also known for its heavy metal scene, which is centered in and around Phoenix.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.06315789473684211, 0.2926829268292683, 0.10389610389610388, 0.06493506493506493]
+[0.0, 0.0, 0.0, 0.0]
+[0.04736842105263158, 0.21951219512195122, 0.07792207792207792, 0.0487012987012987]
+
+
+SBERT sim. Score: 0.2902180552482605

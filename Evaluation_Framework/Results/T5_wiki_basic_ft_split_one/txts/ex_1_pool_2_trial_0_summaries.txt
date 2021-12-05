@@ -1,0 +1,21 @@
+Document:
+new_mexico
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+New Mexico's latitude and low passes made it an attractive east–west transportation corridor. Railroads were later supplemented or replaced by a system of highways and airports. Today, New Mexico's Interstate Highways approximate the earlier land routes of the Camino Real, the Santa Fe Trail and the transcontinental railroads. Interstate 10 travels in the southwest portion of New Mexico starting from the Arizona stateline near Lordsburg to the area in between Las Cruces and Anthony, near El Paso, Texas. New Mexico currently has 15 United States Highways. The former number has increased with the upgrading of roads near Pojoaque, Santa Fe and Las Cruces to freeways. Rural and intercity public transportation by road is provided by Americanos USA, LLC, Greyhound Lines and several government operators. The New Mexico Rail Runner Express is a commuter rail system serving the metropolitan area of Albuquerque, New Mexico. Larger cities in New Mexico typically have some form of public transportation by road No fewer than 100 railroads of various names and lineage have operated in the jurisdiction at some point. New Mexico's rail transportation system reached its height in terms of length following admission as a state New Mexico is served by two class I railroads, the BNSF Railway and the Union Pacific Railroad. Combined, they operate 2,200 route miles of railway in the state. A commuter rail operation, the New Mexico Rail Runner Express, connects the state's capital, its largest city, and other communities. Passenger train service once connected nine of New Mexico's present ten most populous cities (the exception is Rio Rancho), while today passenger train service connects two: Albuquerque and Santa Fe. Front Range Commuter Rail is a project to connect Wyoming and New Mexico with high-speed rail. Amtrak's Southwest Chief passes through daily at stations in Gallup, Albuquerque, Lamy, Las Vegas, and Raton, offering connections to Los Angeles, Chicago and intermediate points. It also operates on New Mexico Rail Runner Express trackage.
+\Predicted Summary:
+population, New Mexico is the fifth-largest and sixth-least densely populated state . New Mexico is also bordered by the state of Texas to the east-southeast, the states of Santa Fe, and the states of Santa Fe and Santa Fe . New Mexico is the 36th largest state by population. With a total population of 2,096,829, its total gross domestic product (GDP) was $101 billion with a per capita of $45,465. The economy of New Mexico
+
+GT:
+The builders of the ruins at Chaco Canyon also created a radiating network of roads from the mysterious settlement. The pre-Columbian trade with Mesoamerican cultures included northbound exotic birds, seashells and copper. Turquoise, pottery, and salt were some of the goods transported south along the Rio Grande. The north–south trade route later became a path for colonists with horses arriving from New Spain as well as trade and communication. The Santa Fe Trail was the 19th-century territory's vital commercial and military highway link to the Eastern United States. New Mexico's latitude and low passes made it an attractive east–west transportation corridor. As a territory, the Gadsden Purchase increased New Mexico's land area for the purpose of the constructing a southern transcontinental railroad, that of the Southern Pacific Railroad. Early transcontinental auto trails later crossed the state bringing more migrants. Today, New Mexico's Interstate Highways approximate the earlier land routes of the Camino Real, the Santa Fe Trail and the transcontinental railroads.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.21893491124260356, 0.46835443037974683, 0.29838709677419356, 0.18649193548387094]
+[0.05357142857142857, 0.11538461538461539, 0.07317073170731707, 0.04573170731707317]
+[0.1242603550295858, 0.26582278481012656, 0.1693548387096774, 0.10584677419354838]
+
+
+SBERT sim. Score: 0.39723753929138184

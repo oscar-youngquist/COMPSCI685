@@ -1,0 +1,21 @@
+Document:
+utah
+
+Intent:
+How is the government structured in this state?
+
+Input:
+A steady stream of governors appointed by the president quit the position, often citing the traditions of their supposed territorial government. Utah government is divided into three branches: executive, legislative, and judicial. The governor is elected for a four-year term. The Utah State Legislature consists of a Senatorte and a House of Representatives. State senators serve four-year terms and representatives two-year terms. The Utah Legislature meets each year in January for an annual 45-day session. It consists of five justices, who are appointed by the governor, and then subject to retention election. The Utah Court of Appeals handles cases from the trial courts. Trial level courts are the district courts and justice courts. All justices and judges, like those on the Utah Supreme Court, are subject to retention election after appointment. Utah is divided into political jurisdictions designated as counties.
+\Predicted Summary:
+is a state in the Western United States. It is bordered by Colorado to the east, Wyoming to the northeast, Idaho to the north, Arizona to the south and Nevada to the west. Utah is the 13th-largest by area; with a population over three million, it is the 30th-most-populous and 11th-least-densely populated. Disputes between the dominant Mormon community and the federal government delayed the state's admission as a state.
+
+GT:
+Utah government is divided into three branches: executive, legislative, and judicial. The governor is elected for a four-year term. The Utah State Legislature consists of a Senatorte and a House of Representatives. State senators serve four-year terms and representatives two-year terms. The Utah Legislature meets each year in January for an annual 45-day session. The Utah Supreme Court is the court of last resort in Utah. It consists of five justices, who are appointed by the governor, and then subject to retention election. The Utah Court of Appeals handles cases from the trial courts. All justices and judges, like those on the Utah Supreme Court, are subject to retention election after appointment. Utah is divided into political jurisdictions designated as counties. The constitution of Utah was enacted in 1895. Utah's Constitution has been amended many times since its inception.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2222222222222222, 0.4266666666666667, 0.2922374429223744, 0.18264840182648406]
+[0.013986013986013986, 0.02702702702702703, 0.018433179723502308, 0.011520737327188942]
+[0.11805555555555555, 0.22666666666666666, 0.1552511415525114, 0.09703196347031964]
+
+
+SBERT sim. Score: 0.5177330374717712

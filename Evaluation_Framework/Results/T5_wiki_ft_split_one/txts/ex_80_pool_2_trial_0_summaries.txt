@@ -1,0 +1,21 @@
+Document:
+illinois
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+The Great Migration from the South established a large community of African Americans in the state, including Chicago, who founded the city's famous jazz and blues cultures. Illinois has numerous museums Several museums in Chicago are ranked as some of the best in the world. These include the John G. Shedd Aquarium, the Field Museum of Natural History, the Art Institute of Chicago, the Adler Planetarium, and the Museum of Science and Industry. The modern Abraham Lincoln Presidential Library and Museum in Springfield is the largest and most attended presidential library in the country. The Illinois State Museum boasts a collection of 13.5 million objects that tell the story of Illinois life, land, people, and art. Other historical museums in the state include the Polish Museum of America in Chicago; Magnolia Manor in Cairo; Easley Pioneer Museum in Ipava; the Elihu Benjamin Washburne; Ulysses S. Grant Homes, both in Galena; and the Chanute Air Museum, located on the former Chanute Air Force Base in Rantoul. Chicago is also well known for its soul music.
+\Predicted Summary:
+,,,,, and the Michigan Canal (1848) made transportation between the Great Lakes and the Mississippi River valley faster and cheaper . The Illinois and Michigan Canal (1848) made transportation between the Great Lakes and the Mississippi River valley faster and cheaper . the state has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all states .
+
+GT:
+The Great Migration from the South established a large community of African Americans in the state, including Chicago, who founded the city's famous jazz and blues cultures. Illinois has numerous museums Several museums in Chicago are ranked as some of the best in the world. These include the John G. Shedd Aquarium, the Field Museum of Natural History, the Art Institute of Chicago, the Adler Planetarium, and the Museum of Science and Industry. Illinois is a leader in music education, having hosted the Midwest Clinic International Band and Orchestra Conference since 1946, as well being home to the Illinois Music Educators Association (IMEA), one of the largest professional music educator's organizations in the country. Chicago, in the northeast corner of the state, is a major center for music in the midwestern United States where distinctive forms of blues (greatly responsible for the future creation of rock and roll), and house music, a genre of electronic dance music, were developed. The Great Migration of poor black workers from the South into the industrial cities brought traditional jazz and blues music to the city, resulting in Chicago blues and "Chicago-style" Dixieland jazz. Notable blues artists included Muddy Waters, Junior Wells, Howlin' Wolf and both Sonny Boy Williamsons; jazz greats included Nat King Cole, Gene Ammons, Benny Goodman, and Bud Freeman. Chicago is also well known for its soul music.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10869565217391304, 0.4032258064516129, 0.17123287671232876, 0.10702054794520546]
+[0.021834061135371178, 0.08196721311475409, 0.034482758620689655, 0.021551724137931036]
+[0.07391304347826087, 0.27419354838709675, 0.11643835616438356, 0.07277397260273973]
+
+
+SBERT sim. Score: 0.2897438108921051

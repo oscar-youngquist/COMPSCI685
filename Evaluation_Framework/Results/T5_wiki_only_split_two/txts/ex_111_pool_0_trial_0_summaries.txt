@@ -1,0 +1,21 @@
+Document:
+delaware
+
+Intent:
+How is the government structured in this state?
+
+Input:
+Delaware's fourth and current constitution, adopted in 1897, provides for executive, judicial and legislative branches. The Delaware General Assembly consists of a House of Representatives with 41 members and a Senatorte with 21 members. Representatives are elected to two-year terms, while senators are elected to four-year terms. The Senatorte confirms judicial and other nominees appointed by the governor. The Delaware Constitution establishes a number of courts: The executive branch is headed by the Governor of Delaware. The governor presents a "State of the State" speech to a joint session of the Delaware legislature annually. Currently, Democrats hold all positions of authority in Delaware including Senatorte and House. New Castle County also elects a substantial majority of the legislature
+\Predicted Summary:
+, Delaware, and Delaware, is the second-smallest and sixth-least populous state . Delaware is the second-smallest and sixth-least populous state, but also the sixth-most densely populated . Delaware is the first state to ratify the Constitution of the United States .
+
+GT:
+Delaware's fourth and current constitution, adopted in 1897, provides for executive, judicial and legislative branches. The Delaware General Assembly consists of a House of Representatives with 41 members and a Senatorte with 21 members. Representatives are elected to two-year terms, while senators are elected to four-year terms. The Delaware Constitution establishes a number of courts: Significantly, Delaware has one of the few remaining Courts of Chancery in the nation, which has jurisdiction over equity cases, the vast majority of which are corporate disputes, many relating to mergers and acquisitions. The executive branch is headed by the Governor of Delaware. Delaware is subdivided into three counties; from north to south they are New Castle, Kent and Sussex. Each county elects its own legislative body (known in New Castle and Sussex counties as County Council, and in Kent County as Levy Court), which deal primarily in zoning and development issues. Most functions which are handled on a county-by-county basis in other states—such as court and law enforcement—have been centralized in Delaware, leading to a significant concentration of power in the Delaware state government.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11170212765957446, 0.5, 0.1826086956521739, 0.11413043478260869]
+[0.0106951871657754, 0.04878048780487805, 0.017543859649122806, 0.010964912280701754]
+[0.0797872340425532, 0.35714285714285715, 0.13043478260869565, 0.08152173913043478]
+
+
+SBERT sim. Score: 0.5510870814323425

@@ -1,0 +1,21 @@
+Document:
+new_york
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+The central part of the state is dominated by the Finger Lakes, a popular vacation and tourist destination. Many landmarks in New York are well known, including four of the world's ten most-visited tourist attractions in 2013: Times Square, Central Park, Niagara Falls, and Grand Central Terminal. In contrast with New York City's urban landscape, the vast majority of the state's geographic area is dominated by meadows, forests, rivers, farms, mountains, and lakes. New York has many state parks and two major forest preserves. New York is the nation's third-largest grape producing state, and second-largest wine producer by volume, behind California. Several US national sports halls of fame are or have been situated in New York.
+\Predicted Summary:
+the first Europeans arrived southward from New York to New York . New York is a state in the northeastern United States. It was one of the original thirteen colonies, forming the United States. New York is the 27th largest state. With an estimated population of 8.34 million as of 2019 makes it the fourth most populous city in the world. New York is the most populous city in the world.
+
+GT:
+Niagara Falls State Park, established in 1885, is the oldest state park in the United States and the first to be created via eminent domain. The Catskill Park was protected in legislation passed in 1885, which declared that its land was to be conserved and never put up for sale or lease. The State of New York is well represented in the National Park System with 22 national parks, which received 16,349,381 visitors in 2011. This constitutes a total LGBT adult population of 570,388 individuals. New York also has two Major League Baseball teams, the New York Yankees (based in the Bronx) and the New York Mets (based in Queens). The National Museum of Racing and Hall of Fame in Saratoga Springs, Saratoga County, honors achievements in the sport of thoroughbred horse racing.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2647058823529412, 0.5070422535211268, 0.3478260869565218, 0.21739130434782608]
+[0.0962962962962963, 0.18571428571428572, 0.1268292682926829, 0.07926829268292683]
+[0.17647058823529413, 0.3380281690140845, 0.2318840579710145, 0.14492753623188406]
+
+
+SBERT sim. Score: 0.36662212014198303

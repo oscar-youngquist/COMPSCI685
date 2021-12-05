@@ -1,0 +1,21 @@
+Document:
+south_dakota
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+West of the Missouri River, ranching is the predominant agricultural activity, and the economy is more dependent on tourism and defense spending. Historically dominated by an agricultural economy and a rural lifestyle, South Dakota has recently sought to diversify its economy in areas to attract and retain residents. In recent decades, South Dakota has been transformed from a state dominated by agriculture to one with a more diversified economy. South Dakota has the third-highest proportion of Native Americans of any state, behind Alaska and New Mexico. The growth in these areas has compensated for losses in the rest of the state. The service industry is the largest economic contributor in South Dakota. Government spending is another important segment of the state's economy, providing over ten percent of the gross state product. Agriculture has historically been a key component of the South Dakota economy. Although other industries have expanded rapidly in recent decades, agricultural production is still very important to the state's economy, especially in rural areas. Agriculture-related industries such as meat packing and ethanol production also have a considerable economic impact on the state.
+\Predicted Summary:
+is a US state in the Midwestern region of the United States . South Dakota is bisected by the Missouri River, dividing South Dakota into two geographically and socially distinct halves . the state is bisected by the Missouri River, dividing South Dakota into two geographically and socially distinct halves .
+
+GT:
+As of 2005, South Dakota has the lowest per capita total state tax rate in the United States. The state sales tax rate is 4.5 percent. Retail, finance, and healthcare have assumed greater importance in Sioux Falls, where the economy was originally centered on agri-business and quarrying. There are 703 public schools in 168 school districts, giving South Dakota the highest number of schools per capita in the United States. Fishing and hunting are popular outdoor activities in South Dakota. Other sports, such as cycling and running, are also popular in the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.21052631578947367, 0.4166666666666667, 0.2797202797202797, 0.1748251748251748]
+[0.07446808510638298, 0.14893617021276595, 0.09929078014184396, 0.062056737588652475]
+[0.14736842105263157, 0.2916666666666667, 0.19580419580419584, 0.12237762237762238]
+
+
+SBERT sim. Score: 0.4746839106082916

@@ -1,0 +1,21 @@
+Document:
+utah
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The state has a highly diversified economy, with major sectors including transportation, education, information technology and research, government services, mining; it is also a major tourist destination for outdoor recreation. Economies are dominated by mining, oil shale, oil, and natural gas-drilling, ranching, and recreation. According to the Bureau of Economic Analysis, the gross state product of Utah in 2012 was US$130.5 billion, or 0.87% of the total United States GDP of US$14.991 trillion for the same year. Major industries of Utah include: mining, cattle ranching, salt production, and government services. According to the 2007 State New Economy Index, Utah is ranked the top state in the nation for Economic Dynamism, determined by "the degree to which state economies are knowledge-based, globalized, entrepreneurial, information technology-driven and innovation-based". In 2014, Utah was ranked number one in Forbes' list of "Best States For Business". In eastern Utah petroleum production is a major industry. Tourism is a major industry in Utah. Since the days of the Utah Territory mining has played a major role in Utah's economy. Today mining activity still plays a major role in the state's economy. According to the 2010 Census, Utah was the second fastest-growing state (at 23.8 percent) in the United States between 2000 and 2010 (behind Nevada).
+\Predicted Summary:
+is a state in the Western United States. It is bordered by Colorado to the east, Wyoming to the northeast, Idaho to the north, Arizona to the south and Nevada to the west. Utah is the 13th-largest by area; with a population over three million, it is the 30th-most-populous and 11th-least-densely populated. Disputes between the dominant Mormon community and the federal government delayed the state's admission as a state.
+
+GT:
+The state has a highly diversified economy, with major sectors including transportation, education, information technology and research, government services, mining; it is also a major tourist destination for outdoor recreation. According to the Bureau of Economic Analysis, the gross state product of Utah in 2012 was US$130.5 billion, or 0.87% of the total United States GDP of US$14.991 trillion for the same year. Major industries of Utah include: mining, cattle ranching, salt production, and government services. According to the 2007 State New Economy Index, Utah is ranked the top state in the nation for Economic Dynamism, determined by "the degree to which state economies are knowledge-based, globalized, entrepreneurial, information technology-driven and innovation-based". In 2014, Utah was ranked number one in Forbes' list of "Best States For Business". A November 2010 article in Newsweek magazine highlighted Utah and particularly the Salt Lake City area's economic outlook, calling it "the new economic Zion", and examined how the area has been able to bring in high-paying jobs and attract high-tech corporations to the area during a recession. In eastern Utah petroleum production is a major industry. Near Salt Lake City, petroleum refining is done by a number of oil companies. In central Utah, coal production accounts for much of the mining activity.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.18636363636363637, 0.5466666666666666, 0.27796610169491526, 0.17372881355932204]
+[0.045662100456621, 0.13513513513513514, 0.06825938566552901, 0.04266211604095563]
+[0.10909090909090909, 0.32, 0.16271186440677968, 0.10169491525423728]
+
+
+SBERT sim. Score: 0.613924503326416

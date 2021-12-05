@@ -1,0 +1,21 @@
+Document:
+rhode_island
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Since the Great Depression, the Rhode Island Democratic Party has dominated local politics. The 350th Anniversary of the founding of Rhode Island was celebrated with a free concert held on the tarmac of the Quonset State Airport on August 31, 1986. African immigrants, including Cape Verdean Americans, Liberian Americans, Nigerian Americans and Ghanaian Americans, form significant and growing communities in Rhode Island. Notable villages include Kingston in the town of South Kingstown, which houses the University of Rhode Island; Wickford in the town of North Kingstown, the site of an annual international art festival; and Wakefield where the Town Hall is located for the Town of South Kingstown. The Farrelly brothers and Seth MacFarlane depict Rhode Island in popular culture, often making comedic parodies of the state. The movie High Society (starring Bing Crosby, Grace Kelly, and Frank Sinatra) was set in Newport, Rhode Island. Newport Harbor, in particular, holds many pleasure boats. Since its construction in 1980, it has been featured in several movies and television shows, and has come to be recognized as a cultural landmark by many locals. The Rebellion play their home games at Classical High School in Providence.
+\Predicted Summary:
+Rhode Island is the second most densely populated country in the state . Rhode Island is the largest state in the world and the second most densely populated by the u.s.
+
+GT:
+According to the 2000 US Census, 84% of the population aged 5 and older spoke only American English, while 8.07% spoke Spanish at home, 3.80% Portuguese, 1.96% French, 1.39% Italian and 0.78% speak other languages at home accordingly. Rhode Island has a higher percentage of Americans of Portuguese ancestry, including Portuguese Americans and Cape Verdean Americans than any other state in the nation. Italian Americans make up a plurality in central and southern Providence County and French-Canadian Americans form a large part of northern Providence County. Americans of English ancestry still have a presence in the state as well, especially in Washington County, and are often referred to as "Swamp Yankees." African immigrants, including Cape Verdean Americans, Liberian Americans, Nigerian Americans and Ghanaian Americans, form significant and growing communities in Rhode Island. Rhode Islanders developed a unique style of architecture in the 17th century called the stone-ender.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1038961038961039, 0.5161290322580645, 0.17297297297297295, 0.1081081081081081]
+[0.0392156862745098, 0.2, 0.06557377049180327, 0.040983606557377046]
+[0.07142857142857142, 0.3548387096774194, 0.11891891891891893, 0.07432432432432431]
+
+
+SBERT sim. Score: 0.4994961619377136

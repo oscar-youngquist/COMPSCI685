@@ -1,0 +1,21 @@
+Document:
+alaska
+
+Intent:
+What drives the economy in this state?
+
+Input:
+While it has one of the smallest state economies in the country, Alaska's per capita income is among the highest, owing to a diversified economy dominated by fishing, natural gas, and oil, all of which it has in abundance. Alaska is by far the largest US state by area, and the tenth wealthiest (per capita income). The oil and gas industry dominates the Alaskan economy, with more than 80% of the state's revenues derived from petroleum extraction. Agriculture represents a very small fraction of the Alaskan economy. Agricultural production is primarily for consumption within the state and includes nursery stock, dairy products, vegetables, and livestock. Manufacturing is limited, with most foodstuffs and general goods imported from elsewhere. Employment is primarily in government and industries such as natural resource extraction, shipping, and transportation. Its industrial outputs are crude petroleum, natural gas, coal, gold, precious metals, zinc and other mining, seafood processing, timber and wood products. Alaskan agriculture has experienced a surge in growth of market gardeners, small farms and farmers' markets in recent years, with the highest percentage increase (46%) in the nation in growth in farmers' markets in 2011, compared to 17% nationwide.
+\Predicted Summary:
+is the third-least populous and the most populous state in the world, but the continent's most populous territory . Alaska is by far the largest US state by area, comprising more territory than the next three largest states . Alaska is the third-least populous and the third-largest subnational division in the world, but by far the continent's most populous territory .
+
+GT:
+While it has one of the smallest state economies in the country, Alaska's per capita income is among the highest, owing to a diversified economy dominated by fishing, natural gas, and oil, all of which it has in abundance. United States armed forces bases and tourism are also a significant part of the economy; more than half the state is federally owned public land, including a multitude of national forests, parks, and wildlife refuges. The oil and gas industry dominates the Alaskan economy, with more than 80% of the state's revenues derived from petroleum extraction. Military bases are a significant component of the economy in the Fairbanks North Star, Anchorage and Kodiak Island boroughs, as well as Kodiak. Federal subsidies are also an important part of the economy, allowing the state to keep taxes low. Tourists have contributed to the economy by supporting local lodging. Alaska has vast energy resources, although its oil reserves have been largely depleted. Alaska's economy depends heavily on increasingly expensive diesel fuel for heating, transportation, electric power and light.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15254237288135594, 0.42857142857142855, 0.22500000000000003, 0.14062500000000003]
+[0.011363636363636364, 0.03225806451612903, 0.01680672268907563, 0.010504201680672268]
+[0.11299435028248588, 0.31746031746031744, 0.16666666666666666, 0.10416666666666666]
+
+
+SBERT sim. Score: 0.5402600169181824

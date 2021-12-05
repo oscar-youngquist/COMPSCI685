@@ -1,0 +1,21 @@
+Document:
+new_york
+
+Intent:
+How is the government structured in this state?
+
+Input:
+Prior to this time, the matter was delegated to the individual states, then via contract between the states and the federal government. It is composed of three branches: executive, legislative, and judicial. The governor is the state's chief executive and is assisted by the lieutenant governor. The secretary of state, formerly an elected officer, is currently appointed by the governor. The Legislature is empowered to make laws, subject to the governor's power to veto a bill. The state is divided into counties, cities, towns, and villages, all of which are municipal corporations with respect to their own governments, as well as various corporate entities that serve single purposes that are also local governments, such as school districts, fire districts, and New York state public-benefit corporations, frequently known as authorities or development corporations.
+\Predicted Summary:
+the first Europeans came to New York in the early 20th century . New York is a state in the northeastern United States. It was one of the original thirteen colonies, forming the United States . New York is the 27th largest state, with an estimated population of 8.34 million .
+
+GT:
+It is composed of three branches: executive, legislative, and judicial. The governor is the state's chief executive and is assisted by the lieutenant governor. The New York State Legislature is bicameral and consists of the New York State Senatorte and the New York State Assembly. The state is divided into counties, cities, towns, and villages, all of which are municipal corporations with respect to their own governments, as well as various corporate entities that serve single purposes that are also local governments, such as school districts, fire districts, and New York state public-benefit corporations, frequently known as authorities or development corporations. Each municipal corporation is granted varying home rule powers as provided by the New York Constitution. The state also has 10 Indian reservations.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.18253968253968253, 0.46938775510204084, 0.26285714285714284, 0.16428571428571428]
+[0.04, 0.10416666666666667, 0.057803468208092484, 0.036127167630057806]
+[0.12698412698412698, 0.32653061224489793, 0.18285714285714283, 0.11428571428571428]
+
+
+SBERT sim. Score: 0.29079100489616394

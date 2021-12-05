@@ -1,0 +1,21 @@
+Document:
+south_dakota
+
+Intent:
+How is the government structured in this state?
+
+Input:
+Like other US states, the structure of the government of South Dakota follows the same separation of powers as the federal government, with executive, legislative, and judicial branches. The structure of the state government is laid out in the Constitution of South Dakota, the highest law in the state. The Governor of South Dakota occupies the executive branch of the state government. The state constitution gives the governor the power to sign into law or veto bills passed by the state legislature, to serve as commander-in-chief of the South Dakota National Guard, to appoint a cabinet, and to commute criminal sentences or to pardon those convicted of crimes. The state legislature is made up of two bodies, the Senatorte, which has 35 members, and the House of Representatives, with 70 members. South Dakota is divided into 35 legislative districts, with voters electing two representatives and one senator per district. The judicial branch is made up of several levels. The state supreme court, with four justices and a chief justice, is the highest court in the state. Below the supreme court are the circuit courts
+\Predicted Summary:
+, the fifth largest state in the United States, is south Dakota. South Dakota is the 17th largest by area, but the 5th least densely populated . South Dakota is bisected by the Missouri River, dividing it into two geographically and socially distinct halves . the state is a state in the Midwestern region of the United States, and is named after the Lakota and Dakota Sioux Native American tribes .
+
+GT:
+While several Democrats have represented South Dakota for multiple terms in both chambers of Congress, the state government is largely controlled by the Republican Party, whose nominees have carried South Dakota in each of the last 13 presidential elections. Government spending is another important segment of the state's economy, providing over ten percent of the gross state product. Like other US states, the structure of the government of South Dakota follows the same separation of powers as the federal government, with executive, legislative, and judicial branches. The structure of the state government is laid out in the Constitution of South Dakota, the highest law in the state. The Governor of South Dakota occupies the executive branch of the state government. The state legislature is made up of two bodies, the Senatorte, which has 35 members, and the House of Representatives, with 70 members. South Dakota is divided into 35 legislative districts, with voters electing two representatives and one senator per district. The judicial branch is made up of several levels.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.21052631578947367, 0.5373134328358209, 0.3025210084033613, 0.1890756302521008]
+[0.052941176470588235, 0.13636363636363635, 0.07627118644067796, 0.04766949152542373]
+[0.14619883040935672, 0.373134328358209, 0.21008403361344538, 0.13130252100840334]
+
+
+SBERT sim. Score: 0.5848183631896973

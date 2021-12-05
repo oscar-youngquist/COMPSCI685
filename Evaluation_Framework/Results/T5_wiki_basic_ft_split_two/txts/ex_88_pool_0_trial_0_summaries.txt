@@ -1,0 +1,21 @@
+Document:
+maine
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The administration of property taxes is handled by the local assessor in incorporated cities and towns, while property taxes in the unorganized territories are handled by the State Tax Assessor. The Maine Constitution structures Maine's state government, composed of three co-equal branches—the executive, legislative, and judicial branches. The state of Maine also has three Constitutional Officers (the Secretary of State, the State Treasurer, and the State Attorney General) and one Statutory Officer (the State Auditor). The legislative branch is the Maine Legislature, a bicameral body composed of the Maine House of Representatives, with 151 members, and the Maine Senatorte, with 35 members. The executive branch is responsible for the execution of the laws created by the Legislature and is headed by the Governor of Maine (currently Janet Mills). The judicial branch is responsible for interpreting state laws. All judges except for probate judges serve full-time, are nominated by the Governor and confirmed by the Legislature for terms of seven years. Probate judges serve part-time and are elected by the voters of each county for four-year terms. An organized municipality has a form of elected local government which administers and provides local services, keeps records, collects licensing fees, and can pass locally binding ordinances, among other responsibilities of self-government. Administration, services, licensing, and ordinances are handled by the state government as well as by respective county governments who have townships within each county's bounds. Throughout Maine, many municipalities, although each separate governmental entities, nevertheless form portions of a much larger population base.
+\Predicted Summary:
+was established in 1607 by the French in the region of Maine . The first European settlement was the Popham Colony, established by the Plymouth Company in 1607 . the first settlement was by the French in 1604 on Saint Croix Island, and the first in 1612 . the first european settlement was by the French in 1604 on Saint Croix Island, established by the Plymouth Company in 1607 .
+
+GT:
+The Maine Constitution structures Maine's state government, composed of three co-equal branches—the executive, legislative, and judicial branches. The legislative branch is the Maine Legislature, a bicameral body composed of the Maine House of Representatives, with 151 members, and the Maine Senatorte, with 35 members. The executive branch is responsible for the execution of the laws created by the Legislature and is headed by the Governor of Maine (currently Janet Mills). Maine is one of seven states that do not have a lieutenant governor. The judicial branch is responsible for interpreting state laws. The highest court of the state is the Maine Supreme Judicial Court. The lower courts are the District Court, Superior Court and Probate Court. An organized municipality has a form of elected local government which administers and provides local services, keeps records, collects licensing fees, and can pass locally binding ordinances, among other responsibilities of self-government.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10526315789473684, 0.24242424242424243, 0.14678899082568808, 0.09174311926605504]
+[0.026490066225165563, 0.06153846153846154, 0.037037037037037035, 0.023148148148148154]
+[0.09868421052631579, 0.22727272727272727, 0.13761467889908258, 0.08600917431192662]
+
+
+SBERT sim. Score: 0.02705206535756588

@@ -1,0 +1,21 @@
+Document:
+missouri
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Many from Virginia, Kentucky and Tennessee settled in the Boonslick area of Mid-Missouri. Missouri's culture blends elements from the Midwestern and Southern United States. The musical styles of ragtime, Kansas City jazz and St. Louis blues developed in Missouri. Well-known Missourians include Chuck Berry, Sheryl Crow, Walt Disney, Edwin Hubble, Nelly, Brad Pitt, Harry S. Truman, and Mark Twain. Missouri has been called the "Mother of the West" and the "Cave State", but its most famous nickname is the "Show Me State". Beginning before 1000 CE, there arose the complex Mississippian culture, whose people created regional political centers at present-day St. Louis and across the Mississippi River at Cahokia, near present-day Collinsville, Illinois. The Mississippian culture left mounds throughout the middle Mississippi and Ohio river valleys, extending into the southeast and the upper river. A notable Cherokee Indian population exists in Missouri. Many well-known musicians were born or have lived in Missouri. Country singers from Missouri include Perryville native Chris Janson, New Franklin native Sara Evans, Cantwell native Ferlin Husky, West Plains native Porter Wagoner, Tyler Farr of Garden City, and Mora native Leroy Van Dyke, along with bluegrass musician Rhonda Vincent, a native of Greentop. Missouri is the native state of Mark Twain.
+\Predicted Summary:
+the and Missouria were incorporated into the state. Missouri is the 21st-most extensive in area. Missouri is a state in the midwestern United States. Missouri is a state in the midwestern state. It is bordered by eight states (tied for the most with Tennessee): Iowa to the north, Illinois, Kentucky and Tennessee (via the Mississippi River) to the west. Missouri is the largest urban area in the state. Missouri is the 21st-most extensive in area. Missouri is divided into
+
+GT:
+Missouri's culture blends elements from the Midwestern and Southern United States. The musical styles of ragtime, Kansas City jazz and St. Louis blues developed in Missouri. Many well-known musicians were born or have lived in Missouri. Country singers from Missouri include Perryville native Chris Janson, New Franklin native Sara Evans, Cantwell native Ferlin Husky, West Plains native Porter Wagoner, Tyler Farr of Garden City, and Mora native Leroy Van Dyke, along with bluegrass musician Rhonda Vincent, a native of Greentop. The Kansas City Symphony and the St. Louis Symphony Orchestra are the state's major orchestras. Missouri is the native state of Mark Twain. His novels The Adventures of Tom Sawyer and The Adventures of Huckleberry Finn are set in his boyhood hometown of Hannibal. Kansas City-born writer William Least Heat-Moon resides in Rocheport. He is best known for Blue Highways, a chronicle of his travels to small towns across America, which was on The New York Times Bestseller list for 42 weeks in 1982–1983. Filmmaker, animator, and businessman Walt Disney spent part of his childhood in the Linn County town of Marceline before settling in Kansas City. Disney began his artistic career in Kansas City, where he founded the Laugh-O-Gram Studio. The award-winning 2010 film Winter's Bone was shot in the Ozarks of Missouri. Up in the Air starring George Clooney was filmed in St. Louis. Gone Girl, a 2014 film starring Ben Affleck, Rosamund Pike, Neil Patrick Harris, and Tyler Perry, was filmed in Cape Girardeau.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1517509727626459, 0.48148148148148145, 0.23076923076923075, 0.14423076923076925]
+[0.03125, 0.1, 0.047619047619047616, 0.02976190476190476]
+[0.10116731517509728, 0.32098765432098764, 0.15384615384615385, 0.09615384615384616]
+
+
+SBERT sim. Score: 0.45656251907348633

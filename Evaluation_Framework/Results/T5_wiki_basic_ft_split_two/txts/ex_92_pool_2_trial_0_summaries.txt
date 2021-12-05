@@ -1,0 +1,21 @@
+Document:
+maine
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Maine's agricultural outputs include poultry, eggs, dairy products, cattle, wild blueberries, apples, maple syrup, and maple sugar. Commercial fishing, once a mainstay of the state's economy, maintains a presence, particularly lobstering and groundfishing. In 2017, the production of Maine's seaweed industry was estimated at $20 million per year. Maine's industrial outputs consist chiefly of paper, lumber and wood products, electronic equipment, leather products, food products, textiles, and bio-technology. During the 18th and 19th centuries, wooden shipbuilding of this sort made up a sizable portion of the economy. The state is a major producer of potatoes, wild blueberries, apples, maple syrup and sweet corn. Dairy products and chicken's eggs are other major industries.
+\Predicted Summary:
+, and,,, and British offensives on the northern border, mid-Atlantic and south which produced a peace treaty . Maine is the northeasternmost state in the state, bordered by the Great Lakes, and the northeasternmost of the state . Maine is known for its jagged, rocky coastline; low, rolling mountains; heavily . forested interior; picturesque waterways; and seafood cuisine, especially lobster and clams .
+
+GT:
+Maine's agricultural outputs include poultry, eggs, dairy products, cattle, wild blueberries, apples, maple syrup, and maple sugar. Commercial fishing, once a mainstay of the state's economy, maintains a presence, particularly lobstering and groundfishing. In 2015, 14% of the Northeast's total oyster supply came from Maine. Maine's industrial outputs consist chiefly of paper, lumber and wood products, electronic equipment, leather products, food products, textiles, and bio-technology. Tourism and outdoor recreation play a major and increasingly important role in Maine's economy. The state is a popular destination for sport hunting (particularly deer, moose and bear), sport fishing, snowmobiling, skiing, boating, camping and hiking, among other activities.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17272727272727273, 0.3220338983050847, 0.22485207100591714, 0.14053254437869822]
+[0.03669724770642202, 0.06896551724137931, 0.04790419161676646, 0.029940119760479045]
+[0.11818181818181818, 0.22033898305084745, 0.15384615384615383, 0.09615384615384616]
+
+
+SBERT sim. Score: 0.583590567111969

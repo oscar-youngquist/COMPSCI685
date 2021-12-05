@@ -1,0 +1,21 @@
+Document:
+arizona
+
+Intent:
+What drives the economy in this state?
+
+Input:
+It is also part of the Western and the Mountain states. It is the 6th largest and the 14th most populous of the 50 states. The boom and bust economy of mining also left hundreds of ghost towns across the territory, but copper mining continued to prosper with the territory producing more copper than any other state by 1907, which earned Arizona the nickname "the Copper State" at the time of statehood. The state continues to produce half of the nation's newly mined copper. Cotton farming and copper mining, two of Arizona's most important statewide industries, suffered heavily during the Great Depression. The 2011 total gross state product was $259 billion. This figure gives Arizona a larger economy than such countries as Ireland, Finland, and New Zealand. The composition of the state's economy is moderately diverse; although health care, transportation and the government remain the largest sectors. The state's per capita income is $40,828, ranking 39th in the US Early in its history, Arizona's economy relied on the "five C's": copper (see Copper mining in Arizona), cotton, cattle, citrus, and climate (tourism). Copper is still extensively mined from many expansive open-pit and underground mines, accounting for two-thirds of the nation's output. The largest employment sectors in Arizona are (August 2020, Nonfarm Employment):
+\Predicted Summary:
+,,, meaning "small spring" onak, meaning "small spring" al onak, meaning "small spring" to the European settlers . Arizona shares the Four Corners region with Utah, Colorado, and New Mexico . Arizona shares the Four Corners region with Utah, Colorado, and the Mountain states .
+
+GT:
+The composition of the state's economy is moderately diverse; although health care, transportation and the government remain the largest sectors. Early in its history, Arizona's economy relied on the "five C's": copper (see Copper mining in Arizona), cotton, cattle, citrus, and climate (tourism). Copper is still extensively mined from many expansive open-pit and underground mines, accounting for two-thirds of the nation's output. The state government is Arizona's largest employer, while Banner Health is the state's largest private employer, with more than 39,000 employees (2016). The largest employment sectors in Arizona are (August 2020, Nonfarm Employment): All fifteen Arizona counties levy a tax. Incorporated municipalities also levy transaction privilege taxes which, with the exception of their hotel/motel tax, are generally in the range of 1-to-3%.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08823529411764706, 0.2926829268292683, 0.13559322033898305, 0.0847457627118644]
+[0.007407407407407408, 0.025, 0.011428571428571429, 0.007142857142857142]
+[0.058823529411764705, 0.1951219512195122, 0.0903954802259887, 0.05649717514124294]
+
+
+SBERT sim. Score: 0.3474336862564087

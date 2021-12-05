@@ -1,0 +1,21 @@
+Document:
+north_carolina
+
+Intent:
+How is the government structured in this state?
+
+Input:
+A Republican Party coalition of black freedmen, northern carpetbaggers and local scalawags controlled state government for three years. The government of North Carolina is divided into three branches: executive, legislative, and judicial. These consist of the Council of State (led by the Governor), the bicameral legislature (called the General Assembly), and the state court system (headed by the North Carolina Supreme Court). The state constitution delineates the structure and function of the state government. North Carolina has 13 seats in the US House of Representatives and two seats in the US Senatorte. In 2012, the state elected a Republican governor (Pat McCrory) and lieutenant governor (Dan Forest) for the first time in more than two decades, while also giving the Republicans veto-proof majorities in both the State House of Representatives and the State Senatorte. The federal court ordered redistricting in 2015. Two suits challenging the state congressional district map were led by "two dozen voters, the state Democratic Party, the state chapter of the League of Women Voters, and the interest group Common Cause". Elementary and secondary public schools are overseen by the North Carolina Department of Public Instruction. The North Carolina Superintendent of Public Instruction is the secretary of the North Carolina State Board of Education, but the board, rather than the superintendent, holds most of the legal authority for making public education policy. In 2009, the board's chairman also became the "chief executive officer" for the state's school system. A county may have one or more systems within it.
+\Predicted Summary:
+the first controlled, sustained flight of a powered, heavier-than-air aircraft . North Carolina is the 28th largest and 9th-most populous of the 50 United States . North Carolina is the largest metropolitan area in the state, with an estimated population of 1,362,540 in 2018, .
+
+GT:
+The government of North Carolina is divided into three branches: executive, legislative, and judicial. These consist of the Council of State (led by the Governor), the bicameral legislature (called the General Assembly), and the state court system (headed by the North Carolina Supreme Court). The state constitution delineates the structure and function of the state government. North Carolina has 13 seats in the US House of Representatives and two seats in the US Senatorte. North Carolina's party loyalties have undergone a series of important shifts in the last few years: While the 2010 midterms saw Tar Heel voters elect a bicameral Republican majority legislature for the first time in more than a century, North Carolina has also become a Southern swing state in presidential races. Since Southern Democrat Jimmy Carter's comfortable victory in the state in 1976, the state had consistently leaned Republican in presidential elections until Democrat Barack Obama narrowly won the state in 2008. Because of gerrymandering in redistricting after the 2010 census, Democrats have been underrepresented in the state and Congressional delegations since 2012, although they have sometimes represented more than half the state's population.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11518324607329843, 0.46808510638297873, 0.18487394957983194, 0.11554621848739495]
+[0.03684210526315789, 0.15217391304347827, 0.05932203389830508, 0.037076271186440676]
+[0.09424083769633508, 0.3829787234042553, 0.1512605042016807, 0.09453781512605042]
+
+
+SBERT sim. Score: 0.44525542855262756

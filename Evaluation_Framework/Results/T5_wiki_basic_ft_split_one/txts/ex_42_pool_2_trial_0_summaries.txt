@@ -1,0 +1,21 @@
+Document:
+missouri
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+The state is the 21st-most extensive in area. The state's population density 86.9 in 2009, is also closer to the national average (86.8 in 2009) than any other state. Missouri is ranked in the top five states in the nation for production of soy beans, and it is ranked fourth in the nation for the production of rice. Missouri produces the most lead of all the states. Missouri also has a growing science, agricultural technology, and biotechnology field. As a result, and combined with the fact that Missouri is one of America's leading alcohol states, regulation of alcohol and tobacco in Missouri is among the most laissez-faire in America. The study notes that Missouri's "alcohol regime is one of the least restrictive in the United States, with no blue laws and taxes well below average", and that "Missouri ranks best in the nation on tobacco freedom".
+\Predicted Summary:
+in the 17th century. The French established Louisiana in 1803 and settled in the Missouri Rhineland . Missouri is a state in the Midwestern United States. Missouri is the 21st-most extensive in area. the state is divided into 114 counties. The music styles of ragtime, Kansas city jazz and St. Louis blues developed in Missouri.
+
+GT:
+Missouri has been known for its population's generally "stalwart, conservative, noncredulous" attitude toward regulatory regimes, which is one of the origins of the state's unofficial nickname, the "Show-Me State". State law protects persons from arrest or criminal penalty for public intoxication. Missouri law expressly prohibits any jurisdiction from going dry. As for tobacco (as of July 2016), Missouri has the lowest cigarette excise taxes in the United States, at 17 cents per pack, and the state electorate voted in 2002, 2006, 2012, and twice in 2016 to keep it that way. In 2014, a Republican-led legislature and Democratic governor Jay Nixon enacted a series of laws to partially decriminalize possession of cannabis by making first-time possession of up to 10 grams no longer punishable with jail time and legalizing CBD oil. Education is compulsory from ages seven to seventeen. It is required that any parent, guardian, or another person with custody of a child between the ages of seven and seventeen, the compulsory attendance age for the district, must ensure the child is enrolled in and regularly attends public, private, parochial school, home school or a combination of schools for the full term of the school year. The public school system includes kindergarten to 12th grade. Homeschooling is legal in Missouri and is an option to meet the compulsory education requirement.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12389380530973451, 0.509090909090909, 0.19928825622775803, 0.12455516014234874]
+[0.017777777777777778, 0.07407407407407407, 0.028673835125448025, 0.017921146953405017]
+[0.0752212389380531, 0.3090909090909091, 0.1209964412811388, 0.07562277580071175]
+
+
+SBERT sim. Score: 0.43896743655204773

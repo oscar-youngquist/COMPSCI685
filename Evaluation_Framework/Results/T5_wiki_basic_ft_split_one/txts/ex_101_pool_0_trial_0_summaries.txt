@@ -1,0 +1,21 @@
+Document:
+mississippi
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Their large earthworks, which expressed their cosmology of political and religious concepts, still stand throughout the Mississippi and Ohio River valleys. Blacks and whites in Mississippi generated rich, quintessentially American music traditions: gospel music, country music, jazz, blues and rock and roll. Many musicians carried their music north to Chicago, where they made it the heart of that city's jazz and blues. Gambling towns in Mississippi have attracted increased tourism: they include the Gulf Coast resort towns of Bay St. Louis, Gulfport and Biloxi, and the Mississippi River towns of Tunica (the third largest gaming area in the United States), Greenville, Vicksburg and Natchez. While Mississippi has been especially known for its music and literature, it has embraced other forms of art. Musicians of the state's Delta region were historically significant to the development of the blues. While the state has had a reputation for being racist, Mississippi musicians created new forms by combining and creating variations on musical traditions from Africa, African American traditions, and the musical traditions of white Southerners strongly shaped by Scots-Irish and other styles. and Afroman, Mississippi musicians have been significant in all genres.
+\Predicted Summary:
+is the 32nd largest and 34th most populous state in the US . Mississippi is bordered to the north by the Mississippi Delta, and to the east by the Alabama . the state's western boundary is largely defined by the Mississippi River .
+
+GT:
+While Mississippi has been especially known for its music and literature, it has embraced other forms of art. Its strong religious traditions have inspired striking works by outsider artists who have been shown nationally. The Magnolia Independent Film Festival, still held annually in Starkville, is the first and oldest in the state. Musicians of the state's Delta region were historically significant to the development of the blues. Jimmie Rodgers, a native of Meridian and guitarist/singer/songwriter known as the "Father of Country Music", played a significant role in the development of the blues. The state is creating a Mississippi Blues Trail, with dedicated markers explaining historic sites significant to the history of blues music, such as Clarksdale's Riverside Hotel, where Bessie Smith died after her auto accident on Highway 61. Elvis Presley, who created a sensation in the 1950s as a crossover artist and contributed to rock 'n' roll, was a native of Tupelo.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14012738853503184, 0.5365853658536586, 0.22222222222222224, 0.13888888888888887]
+[0.038461538461538464, 0.15, 0.06122448979591837, 0.03826530612244898]
+[0.09554140127388536, 0.36585365853658536, 0.15151515151515155, 0.09469696969696971]
+
+
+SBERT sim. Score: 0.3332557678222656

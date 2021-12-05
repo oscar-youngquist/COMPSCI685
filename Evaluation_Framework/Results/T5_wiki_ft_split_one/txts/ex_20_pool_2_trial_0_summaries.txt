@@ -1,0 +1,21 @@
+Document:
+new_hampshire
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+The northern parts of the state produced lumber, and the mountains provided tourist attractions. The following sports teams are based in New Hampshire: Other motor racing venues include Star Speedway and New England Dragway in Epping, Lee Speedway in Lee, Twin State Speedway in Claremont, Monadnock Speedway in Winchester and Canaan Fair Speedway in Canaan. Annually since 2002, high-school statewide all-stars compete against Vermont in ten sports during "Twin State" playoffs. New Hampshire's Lakes Region is home to many summer camps, especially around Lake Winnipesaukee, and is a popular tourist destination. The Barnstormers Theatre in Tamworth, founded in 1931, is one of the longest-running professional summer theaters in the United States. In September, New Hampshire is host to the New Hampshire Highland Games.
+\Predicted Summary:
+New Hampshire is a state in the Northeastern United States . New Hampshire is bordered by Massachusetts to the south, Vermont to the west, Maine and the Atlantic Ocean to the east . New Hampshire is the 5th smallest by area and the 10th least populous US state .
+
+GT:
+In the spring, New Hampshire's many sap houses hold sugaring-off open houses. In summer and early autumn, New Hampshire is home to many county fairs, the largest being the Hopkinton State Fair, in Contoocook. New Hampshire's Lakes Region is home to many summer camps, especially around Lake Winnipesaukee, and is a popular tourist destination. The Barnstormers Theatre in Tamworth, founded in 1931, is one of the longest-running professional summer theaters in the United States. In September, New Hampshire is host to the New Hampshire Highland Games. In the winter, New Hampshire's ski areas and snowmobile trails attract visitors from a wide area. Funspot, the world's largest video arcade (now termed a museum), is in Laconia.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2231404958677686, 0.5869565217391305, 0.3233532934131737, 0.20209580838323354]
+[0.09166666666666666, 0.24444444444444444, 0.13333333333333333, 0.08333333333333334]
+[0.1652892561983471, 0.43478260869565216, 0.2395209580838323, 0.1497005988023952]
+
+
+SBERT sim. Score: 0.5057246088981628

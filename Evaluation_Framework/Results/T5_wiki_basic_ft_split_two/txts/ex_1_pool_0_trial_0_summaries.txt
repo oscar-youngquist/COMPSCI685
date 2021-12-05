@@ -1,0 +1,21 @@
+Document:
+delaware
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+In addition to I-95, there are six US highways that serve Delaware: US 9, US 13, US 40, US 113, US 202, and US 301. There are also several state highways that cross the state of Delaware; a few of them include DE 1, DE 9, and DE 404. US 40 is a primary east–west route, connecting Maryland with New Jersey. It is the first of several signed bike routes planned in Delaware. Amtrak has two stations in Delaware along the Northeast Corridor; the relatively quiet Newark Rail Station in Newark, and the busier Wilmington Rail Station in Wilmington. The Northeast Corridor is also served by SEPTA's Wilmington/Newark Line of Regional Rail, which serves Claymont, Wilmington, Churchmans Crossing, and Newark. Multiple short-line railroads provide freight service in Delaware. The Delmarva Central Railroad operates the most trackage of the short-line railroads, running from an interchange with Norfolk Southern in Porter south through Dover, Harrington, and Seaford to Delmar, with another line running from Harrington to Frankford and branches from Ellendale to Milton and from Georgetown to Gravel Hill. The system includes bus, subsidized passenger rail operated by Philadelphia transit agency SEPTA, and subsidized taxi and paratransit modes.
+\Predicted Summary:
+Delaware, Delaware is the second largest state in the state, the Delaware River . Delaware is the second-smallest and sixth-least populous state . Delaware is the state of Delaware, which derived its name from Thomas West (1577–1618) . Delaware is the second-smallest and sixth-most densely populated state . Delaware is the first state to ratify the Constitution of the United States .
+
+GT:
+DelDOT manages programs such as a Delaware Adopt-a-Highway program, major road route snow removal, traffic control infrastructure (signs and signals), toll road management, Delaware Division of Motor Vehicles, the Delaware Transit Corporation (branded as "DART First State", the state government public transportation organization), among others. In 2009, DelDOT maintained 13,507 lane-miles, totaling 89 percent of the state's public roadway system, the rest being under the supervision of individual municipalities. Three ferries operate in the state of Delaware: Amtrak has two stations in Delaware along the Northeast Corridor; the relatively quiet Newark Rail Station in Newark, and the busier Wilmington Rail Station in Wilmington. The Northeast Corridor is also served by SEPTA's Wilmington/Newark Line of Regional Rail, which serves Claymont, Wilmington, Churchmans Crossing, and Newark. Two Class I railroads, Norfolk Southern and CSX, provide freight rail service in northern New Castle County. The DART First State public transportation system was named "Most Outstanding Public Transportation System" in 2003 by the American Public Transportation Association. The system includes bus, subsidized passenger rail operated by Philadelphia transit agency SEPTA, and subsidized taxi and paratransit modes. The paratransit system, consisting of a statewide door-to-door bus service for the elderly and disabled, has been described by a Delaware state report as "the most generous paratransit system in the United States". Various airlines had served Wilmington Airport, the latest departure being Frontier Airlines in April 2015. Therefore, Delaware commercial airline passengers most frequently use Philadelphia International Airport (PHL), Baltimore-Washington International Thurgood Marshall Airport (BWI) and Washington Dulles International Airport (IAD) for domestic and international transit.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13011152416356878, 0.5645161290322581, 0.21148036253776437, 0.13217522658610273]
+[0.041044776119402986, 0.18032786885245902, 0.0668693009118541, 0.04179331306990881]
+[0.09293680297397769, 0.4032258064516129, 0.1510574018126888, 0.0944108761329305]
+
+
+SBERT sim. Score: 0.5213095545768738

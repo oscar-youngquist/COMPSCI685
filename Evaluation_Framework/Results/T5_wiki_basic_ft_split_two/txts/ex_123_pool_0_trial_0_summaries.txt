@@ -1,0 +1,21 @@
+Document:
+delaware
+
+Intent:
+How is the government structured in this state?
+
+Input:
+Delaware's fourth and current constitution, adopted in 1897, provides for executive, judicial and legislative branches. The Delaware General Assembly consists of a House of Representatives with 41 members and a Senatorte with 21 members. Representatives are elected to two-year terms, while senators are elected to four-year terms. The Senatorte confirms judicial and other nominees appointed by the governor. The Delaware Constitution establishes a number of courts: Minor non-constitutional courts include the Justice of the Peace Courts and Aldermen's Courts. The executive branch is headed by the Governor of Delaware. The governor presents a "State of the State" speech to a joint session of the Delaware legislature annually. Each county elects its own legislative body (known in New Castle and Sussex counties as County Council, and in Kent County as Levy Court), which deal primarily in zoning and development issues. Currently, Democrats hold all positions of authority in Delaware including Senatorte and House. New Castle County also elects a substantial majority of the legislature
+\Predicted Summary:
+Delaware is a state in the Mid-Atlantic region of the United States . Delaware is the second-smallest and sixth-least populous state, but also the sixth-largest state in the state . Delaware occupies the northeastern portion of the northeastern region, bordering Maryland to its south and west . Delaware is the home of over 50% of all NYSE-listed business and 60% of the Fortune 500 .
+
+GT:
+Delaware's fourth and current constitution, adopted in 1897, provides for executive, judicial and legislative branches. The Delaware General Assembly consists of a House of Representatives with 41 members and a Senatorte with 21 members. Representatives are elected to two-year terms, while senators are elected to four-year terms. The Senatorte confirms judicial and other nominees appointed by the governor. The Delaware Constitution establishes a number of courts: Minor non-constitutional courts include the Justice of the Peace Courts and Aldermen's Courts. The executive branch is headed by the Governor of Delaware. The present governor is John Carney (Democrat), who took office January 17, 2017. The lieutenant governor is Bethany Hall-Long. The governor presents a "State of the State" speech to a joint session of the Delaware legislature annually. Tax is collected by the Delaware Division of Revenue.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.20567375886524822, 0.4393939393939394, 0.2801932367149758, 0.1751207729468599]
+[0.03571428571428571, 0.07692307692307693, 0.04878048780487805, 0.03048780487804878]
+[0.1347517730496454, 0.2878787878787879, 0.18357487922705312, 0.11473429951690821]
+
+
+SBERT sim. Score: 0.5356239080429077

@@ -1,0 +1,21 @@
+Document:
+rhode_island
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+The MBTA Commuter Rail's Providence/Stoughton Line links Providence and T. F. Green Airport with Boston. Green Airport. Amtrak's Acela Express stops at Providence Station (the only Acela stop in Rhode Island), linking Providence to other cities in the Northeast Corridor. Amtrak's Northeast Regional service makes stops at Providence Station, Kingston, and Westerly. Rhode Island's primary airport for passenger and cargo transport is T. F. Green Airport in Warwick, though most Rhode Islanders who wish to travel internationally on direct flights and those who seek a greater availability of flights and destinations often fly through Logan International Airport in Boston. Initially built as the easternmost link in the (now cancelled) extension of I-84 from Hartford, Connecticut, a portion of US Route 6 (US 6) through northern Rhode Island is limited-access and links I-295 with downtown Providence. In the lobby of T. F. Green, the state's main airport, is a large life-sized sailboat, and the state's license plates depict an ocean wave or a sailboat.
+\Predicted Summary:
+was the first state to ratify the Articles of Confederation in 1787 . the state's official nickname is "The Ocean State" despite its name, most of the state is located on the mainland . Rhode Island is the second most densely populated country in the state .
+
+GT:
+The Rhode Island Public Transit Authority (RIPTA) operates statewide intra- and intercity bus transport from its hubs at Kennedy Plaza in Providence, Pawtucket, and Newport. From 2000 through 2008, RIPTA offered seasonal ferry service linking Providence and Newport (already connected by highway) funded by grant money from the United States Department of Transportation. The MBTA Commuter Rail's Providence/Stoughton Line links Providence and T. F. Green Airport with Boston. Amtrak's Acela Express stops at Providence Station (the only Acela stop in Rhode Island), linking Providence to other cities in the Northeast Corridor. Rhode Island's primary airport for passenger and cargo transport is T. F. Green Airport in Warwick, though most Rhode Islanders who wish to travel internationally on direct flights and those who seek a greater availability of flights and destinations often fly through Logan International Airport in Boston. Interstate 95 (I-95) runs southwest to northeast across the state, linking Rhode Island with other states along the East Coast. Newport Harbor, in particular, holds many pleasure boats.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1286549707602339, 0.4888888888888889, 0.2037037037037037, 0.12731481481481483]
+[0.01764705882352941, 0.06818181818181818, 0.028037383177570093, 0.017523364485981307]
+[0.08771929824561403, 0.3333333333333333, 0.1388888888888889, 0.08680555555555555]
+
+
+SBERT sim. Score: 0.3019014894962311

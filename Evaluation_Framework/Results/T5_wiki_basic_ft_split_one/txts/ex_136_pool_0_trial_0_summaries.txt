@@ -1,0 +1,21 @@
+Document:
+colorado
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Grand Junction is also along the major railroad of the Western Slope, the Union Pacific. This railroad also provides the tracks for Amtrak's California Zephyr passenger train, which crosses the Rocky Mountains between Denver and Grand Junction via a route on which there are no continuous highways. Colorado's primary mode of transportation (in terms of passengers) is its highway system. The state is home to a network of US and Colorado highways that provide access to all principal areas of the state. DIA handles by far the largest volume of commercial air traffic in Colorado, and is the busiest US hub airport between Chicago and the Pacific coast, making Denver the most important airport for connecting passenger traffic in the western United States. Extensive public transportation bus services are offered both intra-city and inter-city—including the Denver metro area's extensive RTD services. The Regional Transportation District (RTD) operates the popular RTD Bus & Rail transit system in the Denver Metropolitan Area. Amtrak operates two passenger rail lines in Colorado, the California Zephyr and Southwest Chief. Both Union Pacific and BNSF have extensive freight operations in Colorado. Colorado's freight railroad network consists of 2,688 miles of Class I trackage.
+\Predicted Summary:
+, Colorado to the north, Nebraska to the northeast, Kansas to the southeast, and Utah to the west . Colorado is the eighth most extensive and 21st most populous state in the world . Colorado is the huit most extensive and 21st most populous state .
+
+GT:
+Denver International Airport (DIA) is the fifth-busiest domestic US airport and twentieth busiest airport in the world by passenger traffic. DIA handles by far the largest volume of commercial air traffic in Colorado, and is the busiest US hub airport between Chicago and the Pacific coast, making Denver the most important airport for connecting passenger traffic in the western United States. Extensive public transportation bus services are offered both intra-city and inter-city—including the Denver metro area's extensive RTD services. The Regional Transportation District (RTD) operates the popular RTD Bus & Rail transit system in the Denver Metropolitan Area. As of January 2013 the RTD rail system had 170 light-rail vehicles, serving 47 miles (76 km) of track. Amtrak operates two passenger rail lines in Colorado, the California Zephyr and Southwest Chief.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14705882352941177, 0.47619047619047616, 0.2247191011235955, 0.1404494382022472]
+[0.02962962962962963, 0.0975609756097561, 0.04545454545454545, 0.028409090909090905]
+[0.10294117647058823, 0.3333333333333333, 0.15730337078651682, 0.09831460674157302]
+
+
+SBERT sim. Score: 0.45976516604423523

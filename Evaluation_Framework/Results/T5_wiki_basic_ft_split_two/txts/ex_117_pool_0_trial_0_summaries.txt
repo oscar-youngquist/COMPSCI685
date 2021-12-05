@@ -1,0 +1,21 @@
+Document:
+new_hampshire
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Hampton Beach is a popular local summer destination. Despite the similar language, they had a very different culture and religion from other Algonquian peoples. The economic and social life of the Seacoast region revolved around sawmills, shipyards, merchants' warehouses, and established village and town centers. The northern parts of the state produced lumber, and the mountains provided tourist attractions. The trends over the past several decades have been for the population to shift southward, as many northern communities lack the economic base to maintain their populations, while southern communities have been absorbed by the Greater Boston metropolis. According to the 2012–2017 American Community Survey, the largest ancestry groups in the state were Irish (20.6%), English (16.5%), French (14.0%), Italian (10.4%), German (9.1%), French Canadian (8.9%), and American (4.8%). A survey suggests people in New Hampshire and Vermont are less likely than other Americans to attend weekly services and only 54% say they are "absolutely certain there is a God" compared to 71% in the rest of the nation. Tourist railroads include the Conway Scenic Railroad, Hobo-Winnipesaukee Railroad, and the Mount Washington Cog Railway. Other motor racing venues include Star Speedway and New England Dragway in Epping, Lee Speedway in Lee, Twin State Speedway in Claremont, Monadnock Speedway in Winchester and Canaan Fair Speedway in Canaan.
+\Predicted Summary:
+New Hampshire is a state in the Northeastern United States region . New Hampshire is the 5th most populous state by area and the largest city . New Hampshire is the largest city in the nation . New Hampshire is the largest city of the country .
+
+GT:
+In summer and early autumn, New Hampshire is home to many county fairs, the largest being the Hopkinton State Fair, in Contoocook. New Hampshire's Lakes Region is home to many summer camps, especially around Lake Winnipesaukee, and is a popular tourist destination. The Peterborough Players have performed every summer in Peterborough since 1933. The Barnstormers Theatre in Tamworth, founded in 1931, is one of the longest-running professional summer theaters in the United States. In the winter, New Hampshire's ski areas and snowmobile trails attract visitors from a wide area. After the lakes freeze over they become dotted with ice fishing ice houses, known locally as bobhouses.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.25688073394495414, 0.6511627906976745, 0.368421052631579, 0.23026315789473686]
+[0.1111111111111111, 0.2857142857142857, 0.16, 0.1]
+[0.1559633027522936, 0.3953488372093023, 0.2236842105263158, 0.13980263157894735]
+
+
+SBERT sim. Score: 0.43317052721977234

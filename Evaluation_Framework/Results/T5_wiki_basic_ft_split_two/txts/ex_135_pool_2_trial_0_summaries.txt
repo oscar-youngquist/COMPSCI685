@@ -1,0 +1,21 @@
+Document:
+vermont
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Vermont is the second-least-populated US state and the sixth-smallest by area of the 50 US states. Ultimately, Massachusetts, New Hampshire and New York all claimed this frontier area. A 2010 University of Connecticut study reported that Vermont, Rhode Island, and New Hampshire tied as the most costly states in the US for manufacturers. Vermont is one of four states that were once independent nations (Texas, California, and Hawaii are the others). The previous three were Massachusetts, Connecticut, Iowa. This is better than most other states. Most states have a higher bias.
+\Predicted Summary:
+French colonists claimed the territory as part of the New England colony . Vermont is the second-least-populous state of the 50 US states . the most-populous state is Montpelier, the least-populated state in the united states .
+
+GT:
+Vermont has a humid continental climate, with muddy springs, in general a mild early summer, hot Augusts; it has colorful autumns: Vermont's hills reveal red, orange, and (on sugar maples) gold foliage as cold weather approaches. In 2009, Vermont became the first state to legalize same-sex marriage, unforced by court challenge or ruling. On January 22, 2018, Vermont became the first of the United States to legalize cannabis for recreational use by legislative action, and the ninth state in the United States to legalize marijuana for medical purposes. An increasingly aging population is expected to improve the position of aging services and health care in the state economy. In 2007, Vermont was the 17th highest state in the nation for mortgage affordability. Some of the largest ski areas in New England are located in Vermont. Vermont festivals include the Vermont Maple Festival, Festival on the Green, The Vermont Dairy Festival in Enosburg Falls, the Apple Festival (held each Columbus Day Weekend), the Marlboro Music Festival, and the Vermont Brewers Festival. Winter sports are popular in New England, and Vermont's winter sports attractions are a big part of Vermont tourism.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11979166666666667, 0.6052631578947368, 0.20000000000000004, 0.12500000000000003]
+[0.041884816753926704, 0.21621621621621623, 0.07017543859649124, 0.04385964912280702]
+[0.078125, 0.39473684210526316, 0.13043478260869565, 0.08152173913043478]
+
+
+SBERT sim. Score: 0.48565801978111267

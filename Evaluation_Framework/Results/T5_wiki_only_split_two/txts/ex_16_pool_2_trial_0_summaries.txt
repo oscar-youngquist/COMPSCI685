@@ -1,0 +1,21 @@
+Document:
+south_dakota
+
+Intent:
+What drives the economy in this state?
+
+Input:
+West of the Missouri River, ranching is the predominant agricultural activity, and the economy is more dependent on tourism and defense spending. The growth in these areas has compensated for losses in the rest of the state. The service industry is the largest economic contributor in South Dakota. Government spending is another important segment of the state's economy, providing over ten percent of the gross state product. Agriculture has historically been a key component of the South Dakota economy. Although other industries have expanded rapidly in recent decades, agricultural production is still very important to the state's economy, especially in rural areas. Agriculture-related industries such as meat packing and ethanol production also have a considerable economic impact on the state. In 2006, tourism provided an estimated 33,000 jobs in the state and contributed over two billion dollars to the economy of South Dakota.
+\Predicted Summary:
+is a US state in the Midwestern region of the United States . South Dakota is bisected by the Missouri River, dividing South Dakota into two geographically and socially distinct halves . the state is bisected by the Missouri River, dividing South Dakota into two geographically and socially distinct halves .
+
+GT:
+The tourism industry has grown considerably since the completion of the interstate system in the 1960s, with the Black Hills becoming more important as a destination. The financial service industry began to grow in the state as well, with Citibank moving its credit card operations from New York to Sioux Falls in 1981, a move that has been followed by several other financial companies. South Dakota was the first state to eliminate caps on interest rates. The service industry is the largest economic contributor in South Dakota. Government spending is another important segment of the state's economy, providing over ten percent of the gross state product. Another important sector in South Dakota's economy is tourism. In 2006, tourism provided an estimated 33,000 jobs in the state and contributed over two billion dollars to the economy of South Dakota.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16312056737588654, 0.4791666666666667, 0.24338624338624343, 0.15211640211640215]
+[0.04285714285714286, 0.1276595744680851, 0.06417112299465241, 0.04010695187165776]
+[0.11347517730496454, 0.3333333333333333, 0.1693121693121693, 0.1058201058201058]
+
+
+SBERT sim. Score: 0.4655511677265167

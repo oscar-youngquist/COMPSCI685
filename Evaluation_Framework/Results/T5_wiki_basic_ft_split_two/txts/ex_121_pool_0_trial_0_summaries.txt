@@ -1,0 +1,21 @@
+Document:
+alaska
+
+Intent:
+How is the government structured in this state?
+
+Input:
+Alaska was loosely governed by the military initially, and was administered as a district starting in 1884, with a governor appointed by the President of the United States. It was later championed by Governor Jay Hammond and Kenai state representative Hugh Malone. Like all other US states, Alaska is governed as a republic, with three branches of government: an executive branch consisting of the governor of Alaska and his or her appointees which head executive departments; a legislative branch consisting of the Alaska House of Representatives and Alaska Senatorte; and a judicial branch consisting of the Alaska Supreme Court and lower courts. The Alaska Legislature consists of a 40-member House of Representatives and a 20-member Senatorte. Senatortors serve four-year terms and House members two. The lieutenant governor runs separately from the governor in the primaries, but during the general election, the nominee for governor and nominee for lieutenant governor run together on the same ticket. Alaska's court system has four levels: the Alaska Supreme Court, the Alaska Court of Appeals, the superior courts and the district courts. The superior and district courts are trial courts. The Supreme Court and the Court of Appeals are appellate courts. The Department also issues an annual summary of its operations, including new state laws that directly affect the tax division. The state is divided into 34 recording districts which are centrally administered under a State Recorder.
+\Predicted Summary:
+aq is a US state on the westernmost of the country's west coast . Alaska is a semi-exclave of the country's western coast, just across the Bering Strait . it borders the province of British Columbia and territory of Yukon to the east and southeast . to the north are the Chukchi and Beaufort seas of the Arctic Ocean .
+
+GT:
+Like all other US states, Alaska is governed as a republic, with three branches of government: an executive branch consisting of the governor of Alaska and his or her appointees which head executive departments; a legislative branch consisting of the Alaska House of Representatives and Alaska Senatorte; and a judicial branch consisting of the Alaska Supreme Court and lower courts. The state of Alaska employs approximately 16,000 people statewide. The Alaska Legislature consists of a 40-member House of Representatives and a 20-member Senatorte. Senatortors serve four-year terms and House members two. The governor of Alaska serves four-year terms. Alaska's court system has four levels: the Alaska Supreme Court, the Alaska Court of Appeals, the superior courts and the district courts. Although in its early years of statehood Alaska was a Democratic state, since the early 1970s it has been characterized as Republican-leaning.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16778523489932887, 0.423728813559322, 0.24038461538461542, 0.1502403846153846]
+[0.033783783783783786, 0.08620689655172414, 0.04854368932038835, 0.03033980582524272]
+[0.1342281879194631, 0.3389830508474576, 0.1923076923076923, 0.1201923076923077]
+
+
+SBERT sim. Score: 0.363901823759079

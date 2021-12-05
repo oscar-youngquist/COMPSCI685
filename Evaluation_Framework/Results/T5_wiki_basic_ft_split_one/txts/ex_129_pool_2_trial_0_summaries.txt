@@ -1,0 +1,21 @@
+Document:
+massachusetts
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Fifteen other regional transit authorities provide public transportation in the form of bus services in the rest of the state. Amtrak operates several inter-city rail lines connecting Massachusetts. Outside of Boston, Amtrak connects several cities across Massachusetts, along the aforementioned Acela, Northeast Regional, Lake Shore Limited, and Downeaster lines, as well as other routes in central and western Massachusetts. This overlaps with the service areas of neighboring regional transportation authorities. Ferry services are operated throughout different regions of the states. Several regional and short line railroads also provide service and connect with other railroads. Routes 1, 3, 6, and 20, and state routes 2, 3, 9, 24, and 128.
+\Predicted Summary:
+Massachusetts was founded in 1620 by the Pilgrims, in 1620 . Massachusetts is the most populous state in the northeastern United States . Massachusetts is home to the largest state in the nation's history . Massachusetts is the most populous state in the New England region .
+
+GT:
+The Massachusetts Bay Transportation Authority (MBTA), also known as "The T", operates public transportation in the form of subway, bus, and ferry systems in the Metro Boston area. Fifteen other regional transit authorities provide public transportation in the form of bus services in the rest of the state. Amtrak operates several inter-city rail lines connecting Massachusetts. Amtrak carries more passengers between Boston and New York than all airlines combined (about 54% of market share in 2012), but service between other cities is less frequent. There, more frequent intercity service is provided by private bus carriers, including Peter Pan Bus Lines (headquartered in Springfield), Greyhound Lines, OurBus and BoltBus. MBTA Commuter Rail services run throughout the larger Greater Boston area, including service to Worcester, Fitchburg, Haverhill, Newburyport, Lowell, and Plymouth. Ferry services are operated throughout different regions of the states. As of 2018, a number of freight railroads were operating in Massachusetts, with Class I railroad CSX being the largest carrier, and another Class 1, Norfolk Southern serving the state via its Pan Am Southern joint partnership. Boston Logan International Airport served 33.5 million passengers in 2015 (up from 31.6 million in 2014) through 103 gates. Massachusetts has 39 public-use airfields and more than 200 private landing spots. There are a total of 36,800 miles (59,200 km) of interstates and other highways in Massachusetts.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11353711790393013, 0.5909090909090909, 0.19047619047619047, 0.11904761904761903]
+[0.017543859649122806, 0.09302325581395349, 0.029520295202952025, 0.018450184501845015]
+[0.07860262008733625, 0.4090909090909091, 0.13186813186813187, 0.08241758241758243]
+
+
+SBERT sim. Score: 0.3914175033569336

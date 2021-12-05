@@ -1,0 +1,21 @@
+Document:
+illinois
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+The Great Migration from the South established a large community of African Americans in the state, including Chicago, who founded the city's famous jazz and blues cultures. Several museums in Chicago are ranked as some of the best in the world. Illinois is a leader in music education, having hosted the Midwest Clinic International Band and Orchestra Conference since 1946, as well being home to the Illinois Music Educators Association (IMEA), one of the largest professional music educator's organizations in the country. Chicago, in the northeast corner of the state, is a major center for music in the midwestern United States where distinctive forms of blues (greatly responsible for the future creation of rock and roll), and house music, a genre of electronic dance music, were developed. Chicago is also well known for its soul music. As one of the United States' major metropolises, all major sports leagues have teams headquartered in Chicago. The state features 13 athletic programs that compete in NCAA Division I, the highest level of US college sports. The two most prominent are the Illinois Fighting Illini and Northwestern Wildcats, both members of the Big Ten Conference and the only ones competing in one of the so-called "Power Five conferences".
+\Predicted Summary:
+,, and the Mississippi River valley, is the capital of Illinois. The port of Chicago connects the state to international ports via two main routes . the city is located in the central part of the state. Illinois has been a microcosm of the entire state . Illinois has long had a reputation as a bellwether in social and cultural terms and through the 1980s .
+
+GT:
+Several museums in Chicago are ranked as some of the best in the world. The modern Abraham Lincoln Presidential Library and Museum in Springfield is the largest and most attended presidential library in the country. The Illinois State Museum boasts a collection of 13.5 million objects that tell the story of Illinois life, land, people, and art. The Chicago metropolitan area also hosts two zoos: The Brookfield Zoo, located about ten miles west of the city center in suburban Brookfield, contains more than 2,300 animals and covers 216 acres (87 ha). Illinois is a leader in music education, having hosted the Midwest Clinic International Band and Orchestra Conference since 1946, as well being home to the Illinois Music Educators Association (IMEA), one of the largest professional music educator's organizations in the country. Chicago, in the northeast corner of the state, is a major center for music in the midwestern United States where distinctive forms of blues (greatly responsible for the future creation of rock and roll), and house music, a genre of electronic dance music, were developed. The Great Migration of poor black workers from the South into the industrial cities brought traditional jazz and blues music to the city, resulting in Chicago blues and "Chicago-style" Dixieland jazz.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16981132075471697, 0.5806451612903226, 0.26277372262773724, 0.16423357664233576]
+[0.03317535545023697, 0.11475409836065574, 0.05147058823529412, 0.03216911764705883]
+[0.10849056603773585, 0.3709677419354839, 0.1678832116788321, 0.10492700729927008]
+
+
+SBERT sim. Score: 0.4025894105434418

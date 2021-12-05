@@ -1,0 +1,21 @@
+Document:
+rhode_island
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Rhode Island has been the first in a number of initiatives. Newport Harbor, in particular, holds many pleasure boats. Since its construction in 1980, it has been featured in several movies and television shows, and has come to be recognized as a cultural landmark by many locals. Rhode Island has two professional sports teams, both of which are top-level minor league affiliates for teams in Boston. From 1930 to 1983, America's Cup races were sailed off Newport, and the extreme-sport X Games and Gravity Games were founded and hosted in the state's capital city. The Newport Casino is a National Historic Landmark building complex that presently houses the International Tennis Hall of Fame and features an active grass-court tennis club.
+\Predicted Summary:
+, Rhode Island, was the first of the Thirteen Colonies to renounce its allegiance to the British Crown . Rhode Island is the smallest US state by area and the seventh least populous (1,059,361 as of 2019) but is also the second most densely populated behind New Jersey . the state's official name is "The Ocean State", a reference to the large bays and inlets that amount to about 14 percent of its total area .
+
+GT:
+The East Bay Bike Path stretches from Providence to Bristol along the eastern shore of Narragansett Bay, while the Blackstone River Bikeway will eventually link Providence and Worcester. Some Rhode Islanders speak with the distinctive, non-rhotic, traditional Rhode Island accent that many compare to a cross between the New York City and Boston accents (e.g., "water" sounds like "watuh" [ˈwɔəɾə]). Rhode Island, like the rest of New England, has a tradition of clam chowder. A culinary tradition in Rhode Island is the clam cake (also known as a clam fritter outside of Rhode Island), a deep fried ball of buttery dough with chopped bits of clam inside. Submarine sandwiches are called grinders throughout Rhode Island, and the Italian grinder is especially popular, made with cold cuts such as ham, prosciutto, capicola, salami, and Provolone cheese. Additionally, the large number of beaches in Washington County lures many Rhode Islanders south for summer vacation.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.18831168831168832, 0.38666666666666666, 0.2532751091703057, 0.15829694323144108]
+[0.0392156862745098, 0.08108108108108109, 0.05286343612334802, 0.03303964757709252]
+[0.11038961038961038, 0.22666666666666666, 0.148471615720524, 0.09279475982532752]
+
+
+SBERT sim. Score: 0.45026907324790955

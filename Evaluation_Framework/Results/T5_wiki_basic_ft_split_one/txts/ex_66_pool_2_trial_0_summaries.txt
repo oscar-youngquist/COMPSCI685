@@ -1,0 +1,21 @@
+Document:
+connecticut
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Geographically the state is part of New England, and although its cultural history stems from the region, in the modern age large sections of it are increasingly connected to and associated with the tri-state area with New York and New Jersey. It is known as the "Constitution State", the "Nutmeg State", the "Provisions State", and the "Land of Steady Habits". Despite Connecticut's relatively small size, it features wide regional variations in its landscape; for example, in the northwestern Litchfield Hills, it features rolling mountains and horse farms, whereas in areas to the east of New Haven along the coast, the landscape features coastal marshes, beaches, and large scale maritime activities. Far southern and coastal areas, however, have more oak and hickory trees (and fewer maples) and are often less colorful than areas to the north. Coastal Connecticut is the broad transition zone where more southern and subtropical plants are cultivated. The state prospered during the era following the American Revolution, as mills and textile factories were built and seaports flourished from trade and fisheries. This affected the agricultural economy in the state. This includes a natural increase since the last census of 67,427 (222,222 births minus 154,795 deaths) and an increase due to net migration of 41,718 people into the state. Most of western and southern Connecticut (particularly the Gold Coast) is strongly associated with New York City Foxwoods Resort Casino and Mohegan Sun are the two biggest tourist draws and number among the state's largest employers The state hosts several major sporting events.
+\Predicted Summary:
+colony New Netherland, which included the Connecticut River and Connecticut Rivers . Connecticut is the southernmost state in the new England region of the Northeastern United States . It is bordered by Rhode Island to the east, Massachusetts to the north, New York to the west, and the Long Island Sound to the south.
+
+GT:
+As of the 2010 Census, it has the highest per-capita income, Human Development Index (0.962), and median household income in the United States. The Connecticut River, Thames River, and ports along Long Island Sound have given Connecticut a strong maritime tradition which continues today. The state also has a long history of hosting the financial services industry, including insurance companies in Hartford and hedge funds in Fairfield County. Forests consist of a mix of Northeastern coastal forests of Oak in southern areas of the state, to the upland New England-Acadian forests in the northwestern parts of the state. Connecticut's per capita personal income in 2019 was estimated at $79,087, the highest of any state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2605042016806723, 0.5961538461538461, 0.36257309941520466, 0.22660818713450293]
+[0.0847457627118644, 0.19607843137254902, 0.1183431952662722, 0.07396449704142012]
+[0.14285714285714285, 0.3269230769230769, 0.19883040935672516, 0.12426900584795321]
+
+
+SBERT sim. Score: 0.5099468231201172

@@ -1,0 +1,21 @@
+Document:
+west_virginia
+
+Intent:
+What drives the economy in this state?
+
+Input:
+West Virginia was one of only ten states in 2009 that grew economically. Through the first half of 2010, exports from West Virginia topped $3 billion, growing 39.5% over the same period from the previous year and ahead of the national average by 15.7%. The US Bureau of Economic Analysis reported that in 2014 West Virginia's economy grew twice as fast as the next fastest growing state east of the Mississippi River, ranking third alongside Wyoming and just behind North Dakota and Texas among the fastest growing states in the United States. Tourism contributed $4.27 billion to the state's economy and employed 44,400 people in 2010, making it one of the state's largest industries. One of the major resources in West Virginia's economy is coal. As of 2017, the coal industry accounted for 2% of state employment. West Virginia produces a surplus of electricity and leads the Nation in net interstate electricity exports. Farming is also practiced in West Virginia, but on a limited basis because of the mountainous terrain over much of the state. The state's consumer sales tax is levied at 6% on most products except for non-prepared foods. In 2012, West Virginia's Gross Domestic Product (GDP) grew by 3.3%. In West Virginia during the same time period, its real GDP increased about 11%, while total employment decreased by 1,000 jobs from 746,000 to 745,000. Personal income growth in West Virginia during 2013 was only 1.5%—the lowest in the nation—and about half the national average (2.6%). Overall income growth in West Virginia in the last thirty years has been only 13%—about a third the national average (37%). West Virginia's poverty rate is one of the highest in the nation. West Virginia, however, ranked last with a 3% increase in birth rates for teenagers. This is expected to also help bring economic growth to the southern half of the state.
+\Predicted Summary:
+is a state in the Appalachian and Mid-Atlantic regions of the Southern United States . West Virginia is the 41st-largest state by area and ranks 38th in population . it is bordered by Pennsylvania to the northeast, Maryland to the east and northeast, Kentucky to the southeast, and Ohio to the northwest .
+
+GT:
+The net corporate income tax rate is 6.5% while business costs are 13% below the national average. Tourism contributed $4.27 billion to the state's economy and employed 44,400 people in 2010, making it one of the state's largest industries. Canaan Valley is popular for winter sports, Senatorca Rocks is one of the premier rock climbing destinations in the eastern US, the New River Gorge/Fayetteville area draws rock climbers as well as whitewater rafting enthusiasts, and the Monongahela National Forest is popular with hikers, backpackers, hunters, and anglers. In addition to such outdoor recreation opportunities, the state offers a number of historic and cultural attractions. One of the major resources in West Virginia's economy is coal. West Virginia personal income tax is based on federal adjusted gross income (not taxable income), as modified by specific items in West Virginia law. Citizens are taxed within five income brackets, which range from 3.0% to 6.5%. The state's consumer sales tax is levied at 6% on most products except for non-prepared foods. West Virginia counties administer and collect property taxes, although property tax rates reflect levies for state government, county governments, county boards of education and municipalities.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14705882352941177, 0.5769230769230769, 0.23437499999999997, 0.146484375]
+[0.019704433497536946, 0.0784313725490196, 0.031496062992125984, 0.01968503937007874]
+[0.08333333333333333, 0.3269230769230769, 0.1328125, 0.0830078125]
+
+
+SBERT sim. Score: 0.46466806530952454

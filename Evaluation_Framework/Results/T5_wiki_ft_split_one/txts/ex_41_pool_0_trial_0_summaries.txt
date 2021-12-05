@@ -1,0 +1,21 @@
+Document:
+alabama
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+The state has numerous place names of Native American origin. The agrarian Mississippian culture covered most of the state from 1000 to 1600 CE, with one of its major centers built at what is now the Moundville Archaeological Site in Moundville, Alabama. This is the second-largest complex of the classic Middle Mississippian era, after Cahokia in present-day Illinois, which was the center of the culture. Several of the surviving school buildings in the state are now listed on the National Register of Historic Places. The state government has promoted recognition of Native American contributions to the state, including the designation in 2000 for Columbus Day to be jointly celebrated as American Indian Heritage Day. The state is home to various attractions, natural features, parks and events that attract visitors from around the globe, notably the annual Hangout Music Festival, held on the public beaches of Gulf Shores; the Alabama Shakespeare Festival, one of the ten largest Shakespeare festivals in the world; the Robert Trent Jones Golf Trail, a collection of championship caliber golf courses distributed across the state; casinos such as Victoryland; amusement parks such as Alabama Splash Adventure; the Riverchase Galleria, one of the largest shopping centers in the southeast; Guntersville Lake, voted the best lake in Alabama by Southern Living Magazine readers; and the Alabama Museum of Natural History, the oldest museum in the state. The top attraction was the US Space & Rocket Center in Huntsville with an attendance of 849,981, followed by the Birmingham Zoo with 543,090. Alabama has historically been a popular region for film shoots due to its diverse landscapes and contrast of environments. Alabama has several professional and semi-professional sports teams, including three minor league baseball teams. "Alabama—History and Culture". Adventure Tourism—Experiential Travel Guides.
+\Predicted Summary:
+,,,,, a Muskogean-speaking tribe whose members lived just below the confluence of the Coosa and Tallapoosa rivers . Alabama is a state in the Deep South region of the Southern United States, bordered by Tennessee to the north; Georgia to the east; Florida and the Gulf of Mexico to the west . Alabama is the 30th largest by area and the 24th-most populous of the US states .
+
+GT:
+The state is home to various attractions, natural features, parks and events that attract visitors from around the globe, notably the annual Hangout Music Festival, held on the public beaches of Gulf Shores; the Alabama Shakespeare Festival, one of the ten largest Shakespeare festivals in the world; the Robert Trent Jones Golf Trail, a collection of championship caliber golf courses distributed across the state; casinos such as Victoryland; amusement parks such as Alabama Splash Adventure; the Riverchase Galleria, one of the largest shopping centers in the southeast; Guntersville Lake, voted the best lake in Alabama by Southern Living Magazine readers; and the Alabama Museum of Natural History, the oldest museum in the state. Mobile is known for having the oldest organized Mardi Gras celebration in the United States, beginning in 1703. College football is extremely popular in Alabama, particularly the University of Alabama Crimson Tide and Auburn University Tigers, rivals in the Southeastern Conference. The Talladega Superspeedway motorsports complex hosts a series of NASCAR events. It has a seating capacity of 143,000 and is the thirteenth largest stadium in the world and sixth largest stadium in America. Alabama has hosted several professional golf tournaments, such as the 1984 and 1990 PGA Championship at Shoal Creek, the Barbasol Championship (PGA Tour), the Mobile LPGA Tournament of Champions, Airbus LPGA Classic, and Yokohama Tire LPGA Classic (LPGA Tour), and The Tradition (Champions Tour).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15086206896551724, 0.5303030303030303, 0.2348993288590604, 0.14681208053691275]
+[0.030303030303030304, 0.1076923076923077, 0.0472972972972973, 0.029560810810810814]
+[0.09913793103448276, 0.3484848484848485, 0.15436241610738255, 0.09647651006711411]
+
+
+SBERT sim. Score: 0.4703890383243561

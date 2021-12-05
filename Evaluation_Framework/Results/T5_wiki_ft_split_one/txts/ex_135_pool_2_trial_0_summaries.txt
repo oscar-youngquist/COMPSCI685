@@ -1,0 +1,21 @@
+Document:
+new_york
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+The next four most populous cities in the state are Buffalo, Rochester, Yonkers, and Syracuse, while the state capital is Albany. The state is bordered by New Jersey and Pennsylvania to the south and Connecticut, Massachusetts, and Vermont to the east. The southern part of the state is in the Atlantic coastal plain and includes Long Island and several smaller associated islands, as well as New York City and the lower Hudson River Valley. The central part of the state is dominated by the Finger Lakes, a popular vacation and tourist destination. The nation's most populous state until the 1960s, New York is now the fourth most-populous state. In 2000 and 2005, more people moved from New York to Florida than from any one state to another, contributing to New York's becoming the fourth most populous state in 2015 behind Florida, Texas, and California. New York is the nation's third-largest grape producing state, and second-largest wine producer by volume, behind California.
+\Predicted Summary:
+the first Europeans arrived southward from New York to New York . New York is a state in the northeastern United States. It was one of the original thirteen colonies, forming the United States. New York is the 27th largest state. With an estimated population of 8.34 million as of 2019 makes it the fourth most populous city in the world. New York is the most populous city in the world.
+
+GT:
+In general, New York has a humid continental climate, though under the Köppen climate classification, New York City has a humid subtropical climate. New York has many state parks and two major forest preserves. The State of New York is well represented in the National Park System with 22 national parks, which received 16,349,381 visitors in 2011. Roughly 3.8 percent of the state's adult population self-identifies as lesbian, gay, bisexual, or transgender. New York has one of the most extensive and one of the oldest transportation infrastructures in the country. New York City is an important center for international diplomacy.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3584905660377358, 0.5352112676056338, 0.4293785310734463, 0.268361581920904]
+[0.10476190476190476, 0.15714285714285714, 0.12571428571428572, 0.07857142857142857]
+[0.2358490566037736, 0.352112676056338, 0.2824858757062147, 0.17655367231638416]
+
+
+SBERT sim. Score: 0.533001184463501

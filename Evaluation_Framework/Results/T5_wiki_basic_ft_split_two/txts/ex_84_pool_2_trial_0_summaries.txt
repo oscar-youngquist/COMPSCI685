@@ -1,0 +1,21 @@
+Document:
+mississippi
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+They also took advantage of new railroads sponsored by the state. Most migrants from Mississippi took trains directly north to Chicago and often settled near former neighbors. A proportion of federal spending in Mississippi is directed toward large federal installations such as Camp Shelby, John C. Stennis Space Center, Meridian Naval Air Station, Columbus Air Force Base, and Keesler Air Force Base. Mississippi has six airports with commercial passenger service, the busiest in Jackson (Jackson-Evers International Airport) and one in Gulfport (Gulfport-Biloxi International Airport) Mississippi is served by nine interstate highways: as well as a system of State Highways. Amtrak provides scheduled passenger service along two routes, the Crescent and City of New Orleans. All but two of the United States Class I railroads serve Mississippi (the exceptions are the Union Pacific and Canadian Pacific):
+\Predicted Summary:
+is a state in the Deep South region of the Southern United States . Mississippi is bordered to the north by Tennessee; to the east by Alabama; to the south by the Gulf of Mexico; to the southwest by the Mississippi Alluvial Plain . Mississippi is bordered to the south by the Tennessee River, and to the southwest by the Mississippi River . the state's western boundary is defined by the Mississippi River, which flows along and defines its western boundary . Mississippi is the state's capital and largest city,
+
+GT:
+Mississippi has six airports with commercial passenger service, the busiest in Jackson (Jackson-Evers International Airport) and one in Gulfport (Gulfport-Biloxi International Airport) Mississippi is served by nine interstate highways: and fourteen main US Routes: as well as a system of State Highways. Amtrak provides scheduled passenger service along two routes, the Crescent and City of New Orleans. All but two of the United States Class I railroads serve Mississippi (the exceptions are the Union Pacific and Canadian Pacific):
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.275, 0.25, 0.2619047619047619, 0.1636904761904762]
+[0.0379746835443038, 0.034482758620689655, 0.03614457831325302, 0.022590361445783136]
+[0.15, 0.13636363636363635, 0.14285714285714282, 0.08928571428571427]
+
+
+SBERT sim. Score: 0.44941970705986023

@@ -1,0 +1,21 @@
+Document:
+illinois
+
+Intent:
+What drives the economy in this state?
+
+Input:
+With Chicago in northeastern Illinois, small industrial cities and immense agricultural productivity in the north and center of the state, and natural resources such as coal, timber, and petroleum in the south, Illinois has a diverse economic base, and is a major transportation hub. John Deere's invention of the self-scouring steel plow turned Illinois's rich prairie into some of the world's most productive and valuable farmland, attracting immigrant farmers from Germany and Sweden. Many people from other parts of the country were attracted to the state by employment caused by the expanding industrial base. Agriculture, particularly corn and soybeans, as well as educational institutions and manufacturing centers, figure prominently in Central Illinois. Illinois's major agricultural outputs are corn, soybeans, hogs, cattle, dairy products, and wheat. As of 2011, Illinois is ranked as the 4th-most productive manufacturing state in the country, behind California, Texas, and Ohio. As of 2006, the leading manufacturing industries in Illinois, based upon value-added, were chemical manufacturing ($18.3 billion), machinery manufacturing ($13.4 billion), food manufacturing ($12.9 billion), fabricated metal products ($11.5 billion), transportation equipment ($7.4 billion), plastics and rubber products ($7.0 billion), and computer and electronic products ($6.1 billion).
+\Predicted Summary:
+, Illinois has a diverse economic base, and is a major transportation hub . Illinois has the fifth largest gross domestic product (GDP) and the 25th largest land area of the entire state . the state is the capital of the state, Illinois, which is the capital of the state .
+
+GT:
+With Chicago in northeastern Illinois, small industrial cities and immense agricultural productivity in the north and center of the state, and natural resources such as coal, timber, and petroleum in the south, Illinois has a diverse economic base, and is a major transportation hub. By the early 2000s, Illinois's economy had moved toward a dependence on high-value-added services, such as financial trading, higher education, law, logistics, and medicine. In some cases, these services clustered around institutions that hearkened back to Illinois's earlier economies. For example, the Chicago Mercantile Exchange, a trading exchange for global derivatives, had begun its life as an agricultural futures market. Other important non-manufacturing industries include publishing, tourism, and energy production and distribution.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.19008264462809918, 0.48936170212765956, 0.2738095238095238, 0.1711309523809524]
+[0.10833333333333334, 0.2826086956521739, 0.1566265060240964, 0.09789156626506025]
+[0.1322314049586777, 0.3404255319148936, 0.1904761904761905, 0.11904761904761904]
+
+
+SBERT sim. Score: 0.6313886642456055

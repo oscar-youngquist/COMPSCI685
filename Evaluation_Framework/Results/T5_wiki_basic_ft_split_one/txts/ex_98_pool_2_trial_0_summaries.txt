@@ -1,0 +1,21 @@
+Document:
+mississippi
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Plantations were developed primarily along the major rivers, where the waterfront provided access to the major transportation routes. The relatively low population of the state before the Civil War reflected the fact that land and villages were developed only along the riverfronts, which formed the main transportation corridors. They also took advantage of new railroads sponsored by the state. Most migrants from Mississippi took trains directly north to Chicago and often settled near former neighbors. Mississippi has six airports with commercial passenger service, the busiest in Jackson (Jackson-Evers International Airport) and one in Gulfport (Gulfport-Biloxi International Airport) Mississippi is served by nine interstate highways: Routes: as well as a system of State Highways. Amtrak provides scheduled passenger service along two routes, the Crescent and City of New Orleans. All but two of the United States Class I railroads serve Mississippi (the exceptions are the Union Pacific and Canadian Pacific):
+\Predicted Summary:
+the Mississippi River, and is a state in the southern region of the Southern United States . by 1860, Mississippi was the state's largest cotton-producing state . by 1860, Mississippi was the state's capital and largest city . by 1860, Mississippi became the 20th state admitted to the Union .
+
+GT:
+Mississippi has six airports with commercial passenger service, the busiest in Jackson (Jackson-Evers International Airport) and one in Gulfport (Gulfport-Biloxi International Airport) Mississippi is the only American state where people in cars may legally consume beer. Mississippi is served by nine interstate highways: Amtrak provides scheduled passenger service along two routes, the Crescent and City of New Orleans. Prior to severe damage from Hurricane Katrina, the Sunset Limited traversed the far south of the state; the route originated in Los Angeles, California and it terminated in Florida. All but two of the United States Class I railroads serve Mississippi (the exceptions are the Union Pacific and Canadian Pacific):
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.21818181818181817, 0.4897959183673469, 0.3018867924528302, 0.18867924528301888]
+[0.03669724770642202, 0.08333333333333333, 0.050955414012738856, 0.03184713375796178]
+[0.14545454545454545, 0.32653061224489793, 0.2012578616352201, 0.12578616352201258]
+
+
+SBERT sim. Score: 0.41266193985939026

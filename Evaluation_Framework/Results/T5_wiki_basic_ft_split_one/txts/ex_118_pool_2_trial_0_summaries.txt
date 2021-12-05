@@ -1,0 +1,21 @@
+Document:
+california
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+There are about a dozen important commercial airports and many more general aviation airports throughout the state. Inter-city rail travel is provided by Amtrak California; the three routes, the Capitol Corridor, Pacific Surfliner, and San Joaquin, are funded by Caltrans. These services are the busiest intercity rail lines in the United States outside the Northeast Corridor and ridership is continuing to set records. The routes are becoming increasingly popular over flying, especially on the LAX-SFO route. Integrated subway and light rail networks are found in Los Angeles (Metro Rail) and San Francisco (MUNI Metro). Furthermore, commuter rail networks serve the San Francisco Bay Area (ACE, BART, Caltrain, SMART), Greater Los Angeles (Metrolink), and San Diego County (Coaster). Intercity bus travel is provided by Greyhound, Megabus, and Amtrak Thruway Motorcoach.
+\Predicted Summary:
+, and the San Francisco Bay Area are the nation's second-most-populous cities . California is the fifth-most-populated subnational entity in the world, and the country's third-largest subnational entity . California is the fifth-most populated subnational entity in the world, and the third-largest by area .
+
+GT:
+California's vast terrain is connected by an extensive system of controlled-access highways ('freeways'), limited-access roads ('expressways'), and highways. Los Angeles International Airport (LAX), the 4th busiest airport in the world in 2018, and San Francisco International Airport (SFO), the 25th busiest airport in the world in 2018, are major hubs for trans-Pacific and transcontinental traffic. There are about a dozen important commercial airports and many more general aviation airports throughout the state. California also has several important seaports. Inter-city rail travel is provided by Amtrak California; the three routes, the Capitol Corridor, Pacific Surfliner, and San Joaquin, are funded by Caltrans. Nearly all counties operate bus lines, and many cities operate their own city bus lines as well.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1951219512195122, 0.48, 0.27745664739884396, 0.17341040462427745]
+[0.040983606557377046, 0.10204081632653061, 0.05847953216374269, 0.03654970760233918]
+[0.13008130081300814, 0.32, 0.184971098265896, 0.11560693641618498]
+
+
+SBERT sim. Score: 0.4761173725128174

@@ -364,10 +364,11 @@ class ExperimentRunner:
         logging.info("Directory Construction Complete, begining experiments")
 
         splits = [[0, 1, 2, 3, 4], [7, 6, 5, 4, 3]]
+        # [0, 1, 2, 3, 4], 
 
 
         # loop over the number of trials
-        for i in range(2):
+        for i in range(1):
             ex_scores, ex_runtimes, intent_results, sbert_scores = self.model_get_evaluation(model, i, output_file_path, multi_processing, ex_split=splits[i])
 
             # save off the results

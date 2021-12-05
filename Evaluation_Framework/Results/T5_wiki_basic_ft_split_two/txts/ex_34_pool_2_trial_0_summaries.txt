@@ -1,0 +1,21 @@
+Document:
+oregon
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Oregon is also the top timber producer of the contiguous United States, and the timber industry dominated the state's economy in the 20th century. It is the ninth largest state in the United States. Tourism is also a strong industry in the state. The state's coastal region produces significant tourism as well. Oregon is also the home of large corporations in other industries. 55% of state revenues are spent on public education, 23% on human services (child protective services, Medicaid, and senior services), 17% on public safety, and 5% on other services.
+\Predicted Summary:
+the Spanish began sending ships northeast from the Philippines, and the Oregon Territory was created in 1859 . Oregon is the ninth largest and 27th most populous state in the nation . Oregon is marked by volcanoes, abundant bodies of water, dense evergreen and mixed forests .
+
+GT:
+Typical of a western state, Oregon is home to a unique and diverse array of wildlife. Most of Oregon has a generally mild climate, though there is significant variation given the variety of landscapes across the state. Tourism is also a strong industry in the state. Tourism is centered on the state's natural features – mountains, forests, waterfalls, rivers, beaches and lakes, including Crater Lake National Park, Multnomah Falls, the Painted Hills, the Deschutes River, and the Oregon Caves. High technology industries located in Silicon Forest have been a major employer since the 1970s. Oregon is also the home of large corporations in other industries. Oregon is one of only five states that have no sales tax. Oregon has frequently been cited by statistical agencies for having a smaller percentage of religious communities than other US states. Approximately 90.5% of Oregon high school students graduate, improving on the national average of 88.3% as measured from the 2010 United States Census.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13580246913580246, 0.5, 0.21359223300970875, 0.13349514563106796]
+[0.043478260869565216, 0.16279069767441862, 0.06862745098039216, 0.0428921568627451]
+[0.08641975308641975, 0.3181818181818182, 0.13592233009708737, 0.0849514563106796]
+
+
+SBERT sim. Score: 0.4968646764755249

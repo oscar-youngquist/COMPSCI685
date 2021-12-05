@@ -1,0 +1,21 @@
+Document:
+rhode_island
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The charter apportioned legislative seats equally among the state's towns, over-representing rural areas and under-representing the growing industrial centers. The state's current governor is Gina Raimondo (D), and the lieutenant governor is Daniel McKee (D). Rhode Island is one of a few states that do not have an official governor's residence. See List of Rhode Island Governors. The state legislature is the Rhode Island General Assembly, consisting of the 75-member House of Representatives and the 38-member Senatorte. Both houses of the bicameral body are currently dominated by the Democratic Party; the presence of the Republican Party is minor in the state government, with Republicans holding a handful of seats in both the Senatorte and House of Representatives. Rhode Island is divided into five counties but it has no county governments. The entire state is divided into municipalities, which handle all local government affairs.
+\Predicted Summary:
+of Rhode Island and Providence Plantations, which was first of 13 states to renounce its allegiance to the British Crown . despite its name, most of the state is located on the mainland of the united states . Rhode Island's official name is "The Ocean State" a reference to the large bays and inlets that amount to about 14 percent of its total area . the state's official name is "The State of Rhode Island," which is derived from the settlement of Warwick .
+
+GT:
+The state's current governor is Gina Raimondo (D), and the lieutenant governor is Daniel McKee (D). Raimondo became Rhode Island's first female governor with a plurality of the vote in the November 2014 state elections. Its United States senators are Jack Reed (D) and Sheldon Whitehouse (D). Rhode Island's two United States representatives are David Cicilline (D-1) and Jim Langevin (D-2). Rhode Island is one of a few states that do not have an official governor's residence. The state legislature is the Rhode Island General Assembly, consisting of the 75-member House of Representatives and the 38-member Senatorte. Both houses of the bicameral body are currently dominated by the Democratic Party; the presence of the Republican Party is minor in the state government, with Republicans holding a handful of seats in both the Senatorte and House of Representatives.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2896551724137931, 0.5121951219512195, 0.37004405286343617, 0.2312775330396476]
+[0.08333333333333333, 0.14814814814814814, 0.10666666666666667, 0.06666666666666667]
+[0.1724137931034483, 0.3048780487804878, 0.22026431718061676, 0.13766519823788545]
+
+
+SBERT sim. Score: 0.4850948452949524

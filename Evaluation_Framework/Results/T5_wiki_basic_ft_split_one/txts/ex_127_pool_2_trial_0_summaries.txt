@@ -1,0 +1,21 @@
+Document:
+idaho
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The constitution defines the form and functions of the state government, and may be amended through plebiscite. The constitution of Idaho provides for three branches of government: the executive, legislative and judicial branches. Idaho has a bicameral legislature, elected from 35 legislative districts, each represented by one senator and two representatives. Since 1946, statewide elected constitutional officers have been elected to four-year terms. They include: Governor, Lieutenant Governor, Secretary of State, Idaho state controller (Auditor before 1994), Treasurer, Attorney General, and Superintendent of Public Instruction. The governor of Idaho serves a four-year term, and is elected during what is nationally referred to as midterm elections. Idaho's legislature is part-time. Terms for both the Senatorte and House of Representatives are two years. Legislative elections occur every even numbered year. The state's District Courts serve seven judicial districts.
+\Predicted Summary:
+,, is Idaho, and the state's north includes the Snake River Plain (which contains some acreage) Idaho is the 14th largest state in the Pacific Northwest region of the United States . Idaho borders the state of Montana to the east and northeast, Wyoming to the east, Nevada and Utah to the west . Idaho is the 12th most populous and the 7th least densely populated of the 50 states . Idaho is the 14th largest state in the state .
+
+GT:
+The constitution of Idaho provides for three branches of government: the executive, legislative and judicial branches. Idaho has a bicameral legislature, elected from 35 legislative districts, each represented by one senator and two representatives. Since 1946, statewide elected constitutional officers have been elected to four-year terms. They include: Governor, Lieutenant Governor, Secretary of State, Idaho state controller (Auditor before 1994), Treasurer, Attorney General, and Superintendent of Public Instruction. The governor of Idaho serves a four-year term, and is elected during what is nationally referred to as midterm elections. Idaho's legislature is part-time. Because of this, Idaho's legislators are considered "citizen legislators", meaning their position as a legislator is not their main occupation. Terms for both the Senatorte and House of Representatives are two years. The highest court in Idaho is the Idaho Supreme Court. There is also an intermediate appellate court, the Idaho Court of Appeals, which hears cases assigned to it from the Supreme Court. The state's District Courts serve seven judicial districts.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.20588235294117646, 0.45454545454545453, 0.2834008097165992, 0.17712550607287447]
+[0.029585798816568046, 0.06578947368421052, 0.04081632653061224, 0.02551020408163265]
+[0.12941176470588237, 0.2857142857142857, 0.17813765182186236, 0.11133603238866398]
+
+
+SBERT sim. Score: 0.4711281657218933

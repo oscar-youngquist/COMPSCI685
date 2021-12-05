@@ -1,0 +1,21 @@
+Document:
+ohio
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Akron, Canton, Cleveland, Mansfield, and Youngstown are in the Northeast, known for major industrial companies Goodyear Tire and Rubber and Timken, top ranked colleges Case Western Reserve University and Kent State University, the Cleveland Clinic, and cultural attractions including the Cleveland Museum of Art, Big Five group Cleveland Orchestra, Playhouse Square, the Pro Football Hall of Fame, and the Rock and Roll Hall of Fame. Ohio has the largest bioscience sector in the Midwest, and is a national leader in the "green" economy. The Rock and Roll Hall of Fame and the Rhythm and Blues Music Hall of Fame are both located in Cleveland. Cincinnati is home to the American Classical Music Hall of Fame and Museum. Five Ohio musicians are Rock and Roll Hall of Fame members. The Cleveland Orchestra is one of the historic Big Five orchestras in the US, and is considered one of the best worldwide. Many other Ohio cities are home to their own orchestras, including Akron, Blue Ash, Canton, Cincinnati, Columbus, Dayton, Toledo, and Youngstown. The Columbus Association for the Performing Arts manages seven historic Columbus area theaters.
+\Predicted Summary:
+is the first state to become the first industrial state of the world . Ohio is a state in the east-west of the midwestern United States . Ohio is the third largest manufacturing sector in the world . it is the second largest city in the world, with a population of nearly 11.7 million .
+
+GT:
+The Rock and Roll Hall of Fame and the Rhythm and Blues Music Hall of Fame are both located in Cleveland. Playhouse Square in downtown Cleveland is the second largest performing arts center in the United States, home to ten theaters. The Cleveland Orchestra is one of the historic Big Five orchestras in the US, and is considered one of the best worldwide. Many other Ohio cities are home to their own orchestras, including Akron, Blue Ash, Canton, Cincinnati, Columbus, Dayton, Toledo, and Youngstown. Cincinnati is home to its own ballet, symphony orchestra, pops orchestra, and opera, all housed at the Cincinnati Music Hall. Ohio is home to 30 art institutions, including the Columbus Museum of Art, Cincinnati Art Museum, Cleveland Museum of Art, and other entities. The museum also has a large collection of paintings by American painter Frank Duveneck (Elizabeth B. Duveneck). The Cleveland Museum of Art is internationally renowned for its substantial holdings of Asian and Egyptian art, and has a permanent collection of more than 61,000 works from around the world. Ohio is home to eight professional sports teams across the five different major leagues in the United States. Ohio played a central role in the development of both Major League Baseball and the National Football League.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14622641509433962, 0.5849056603773585, 0.23396226415094337, 0.14622641509433962]
+[0.06635071090047394, 0.2692307692307692, 0.10646387832699619, 0.06653992395437262]
+[0.10377358490566038, 0.41509433962264153, 0.16603773584905662, 0.10377358490566038]
+
+
+SBERT sim. Score: 0.3776184022426605

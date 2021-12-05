@@ -1,0 +1,21 @@
+Document:
+rhode_island
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Irish Americans have a strong presence in Newport and Kent counties. Notable villages include Kingston in the town of South Kingstown, which houses the University of Rhode Island; Wickford in the town of North Kingstown, the site of an annual international art festival; and Wakefield where the Town Hall is located for the Town of South Kingstown. Other important industries in Rhode Island's past included toolmaking, costume jewelry, and silverware. Rhode Island, like the rest of New England, has a tradition of clam chowder. They are sold by the half-dozen or dozen in most seafood restaurants around the state, and the quintessential summer meal in Rhode Island is chowder and clam cakes. Rhode Island has been the first in a number of initiatives. Newport Harbor, in particular, holds many pleasure boats. Since its construction in 1980, it has been featured in several movies and television shows, and has come to be recognized as a cultural landmark by many locals. The Newport Casino is a National Historic Landmark building complex that presently houses the International Tennis Hall of Fame and features an active grass-court tennis club.
+\Predicted Summary:
+was the first of the Thirteen Colonies to renounce the Treaty . Rhode Island is the seventh most populous state in the state . it is the second most populous state in the state . Rhode Island is located on the mainland .
+
+GT:
+Rhode Island, like the rest of New England, has a tradition of clam chowder. Both the white New England and the red Manhattan varieties are popular, but there is also a unique clear-broth chowder known as Rhode Island Clam Chowder available in many restaurants. A culinary tradition in Rhode Island is the clam cake (also known as a clam fritter outside of Rhode Island), a deep fried ball of buttery dough with chopped bits of clam inside. They are sold by the half-dozen or dozen in most seafood restaurants around the state, and the quintessential summer meal in Rhode Island is chowder and clam cakes. Clams Casino resemble the beloved stuffed quahog but are generally made with the smaller littleneck or cherrystone clam and are unique in their use of bacon as a topping. The official state drink of Rhode Island is coffee milk, a beverage created by mixing milk with coffee syrup. This unique syrup was invented in the state and is sold in almost all Rhode Island supermarkets, as well as its bordering states. Johnnycakes have been a Rhode Island staple since Colonial times, made with corn meal and water then pan-fried much like pancakes. Submarine sandwiches are called grinders throughout Rhode Island, and the Italian grinder is especially popular, made with cold cuts such as ham, prosciutto, capicola, salami, and Provolone cheese. Rhode Island is nicknamed "The Ocean State", and the nautical nature of Rhode Island's geography pervades its culture. Newport Harbor, in particular, holds many pleasure boats. Rhode Islanders developed a unique style of architecture in the 17th century called the stone-ender.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09225092250922509, 0.6410256410256411, 0.16129032258064518, 0.10080645161290323]
+[0.03333333333333333, 0.23684210526315788, 0.05844155844155844, 0.036525974025974024]
+[0.08118081180811808, 0.5641025641025641, 0.14193548387096772, 0.08870967741935484]
+
+
+SBERT sim. Score: 0.4455123543739319

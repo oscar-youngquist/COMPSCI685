@@ -1,0 +1,21 @@
+Document:
+florida
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The state's economy relies mainly on tourism, agriculture, and transportation, which developed in the late 19th century. In the 20th century, tourism, industry, construction, international banking, biomedical and life sciences, healthcare research, simulation training, aerospace and defense, and commercial space travel have contributed to the state's economic development. In output, the five largest sectors are: finance, insurance, real estate, rental, and leasing, followed by professional and business services; government and government enterprises; educational services, health care, and social assistance; and retail trade. In 2004, they had a combined total of 95.7% of the state's domestic product. Many coastal cities include some of the wealthiest per-capita areas in the United States. Tourism makes up one of the largest sectors of the state economy, with nearly 1.4 million people employed in the tourism industry in 2016 (a record for the state, surpassing the 1.2 million employment from 2015). Agriculture is the second largest industry in the state. The largest farm category by sales in Florida is the $2.3 billion ornamental industry, which includes nursery, greenhouse, flowers, and sod products. The state is the largest producer of sweet corn and green beans for the US
+\Predicted Summary:
+. Florida is the second-largest state in the world, with a population of over 21 million . Florida is the third-most populous state in the world, and the seventh-most extensive in the world . the state is the most populous and the seventh-most extensive of the 50 states . the state is the flattest state in the United States, and the largest lake in the world .
+
+GT:
+Florida's $1.0 trillion economy is the fourth-largest of any US state, and if it were a country, Florida would be the 16th-largest economy in the world. The state's economy relies mainly on tourism, agriculture, and transportation, which developed in the late 19th century. Historically, Florida's economy has been based primarily upon agricultural products such as cattle, sugar cane, citrus fruits, tomatoes, and strawberries. Florida's economy ranks among the largest in the world. Florida is responsible for 5 percent of the United States' approximately $21 trillion gross domestic product (GDP). As of 2018, Florida's nominal GDP is larger than all but 15 countries. In the 20th century, tourism, industry, construction, international banking, biomedical and life sciences, healthcare research, simulation training, aerospace and defense, and commercial space travel have contributed to the state's economic development. The five largest sectors of employment in Florida are: trade, transportation, and utilities; government; professional and business services; education and health services; and leisure and hospitality. In 2017, Florida became the United States' eighth largest exporter of trade goods.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2154696132596685, 0.5909090909090909, 0.31578947368421056, 0.19736842105263158]
+[0.08888888888888889, 0.24615384615384617, 0.1306122448979592, 0.0816326530612245]
+[0.16574585635359115, 0.45454545454545453, 0.242914979757085, 0.15182186234817815]
+
+
+SBERT sim. Score: 0.6208181977272034

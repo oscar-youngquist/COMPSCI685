@@ -1,0 +1,21 @@
+Document:
+new_york
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+The state has a maritime border with Rhode Island, east of Long Island, as well as an international border with the Canadian provinces of Quebec to the north and Ontario to the northwest. It was chosen due its relative isolation with proximity to New York City and the rail lines of Jersey City, New Jersey, via a short ferry ride. The major cities of the state developed along the key transportation and trade routes of the early 19th century, including the Erie Canal and railroads paralleling it. New York has one of the most extensive and one of the oldest transportation infrastructures in the country. In addition to the well known New York City Subway system—which is confined within New York City—four suburban commuter railroad systems enter and leave the city: the Long Island Rail Road, Metro-North Railroad, Port Authority Trans-Hudson, and five of New Jersey Transit's rail lines. Other cities and towns in New York have urban and regional public transportation. Portions of the transportation system are intermodal, allowing travelers to switch easily from one mode of transportation to another. One of the most notable examples is AirTrain JFK which allows rail passengers to travel directly to terminals at John F. Kennedy International Airport as well as to the underground New York City Subway system.
+\Predicted Summary:
+the first Europeans arrived southward from New York to New York . New York is a state in the northeastern United States. It was one of the original thirteen colonies, forming the United States. New York is the 27th largest state. With an estimated population of 8.34 million as of 2019 makes it the fourth most populous city in the world. New York is the most populous city in the world.
+
+GT:
+New York has one of the most extensive and one of the oldest transportation infrastructures in the country. The New York State Department of Transportation (NYSDOT) is the department of the government of New York responsible for the development and operation of highways, railroads, mass transit systems, ports, waterways, and aviation facilities within New York State. In addition to the well known New York City Subway system—which is confined within New York City—four suburban commuter railroad systems enter and leave the city: the Long Island Rail Road, Metro-North Railroad, Port Authority Trans-Hudson, and five of New Jersey Transit's rail lines. The New York City Department of Transportation (NYCDOT) is the agency of the government of New York City responsible for the management of much of New York City's own transportation infrastructure. The New York State Department of Motor Vehicles (NYSDMV or DMV) is the governmental agency responsible for registering and inspecting automobiles and other motor vehicles, as well as licensing drivers in the State of New York. Portions of the transportation system are intermodal, allowing travelers to switch easily from one mode of transportation to another. One of the most notable examples is AirTrain JFK which allows rail passengers to travel directly to terminals at John F. Kennedy International Airport as well as to the underground New York City Subway system.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1762114537444934, 0.5633802816901409, 0.2684563758389262, 0.16778523489932887]
+[0.05752212389380531, 0.18571428571428572, 0.08783783783783784, 0.05489864864864865]
+[0.11894273127753303, 0.38028169014084506, 0.18120805369127516, 0.11325503355704698]
+
+
+SBERT sim. Score: 0.33791279792785645

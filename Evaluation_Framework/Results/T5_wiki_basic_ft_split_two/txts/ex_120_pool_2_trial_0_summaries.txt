@@ -1,0 +1,21 @@
+Document:
+texas
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Three interstate highways—I-35 to the west (Dallas–Fort Worth to San Antonio, with Austin in between), I-45 to the east (Dallas to Houston), and I-10 to the south (San Antonio to Houston) define the Texas Urban Triangle region. These cities are spread out amongst the state. The state is an important transportation hub. The next five largest airports in the state all serve more than three million passengers annually; they include Austin-Bergstrom International Airport, William P. Hobby Airport, San Antonio International Airport, Dallas Love Field and El Paso International Airport. In the Dallas–Fort Worth area, three public transit agencies provide rail service: Dallas Area Rapid Transit (DART), Denton County Transportation Authority (DCTA), and Trinity Metro. The A-train commuter rail line, operated by DCTA, acts as an extension of the DART Green line into Denton County. In the Austin area, Capital Metropolitan Transportation Authority operates a commuter rail service known as Capital MetroRail to the northwestern suburbs. Three scheduled routes serve the state: the daily Texas Eagle (Chicago–San Antonio); the tri-weekly Sunset Limited (New Orleans–Los Angeles), with stops in Texas; and the daily Heartland Flyer (Fort Worth–Oklahoma City).
+\Predicted Summary:
+Texas is the second largest US state in the state and seventh largest in the state . Texas is nicknamed the "Lone Star State" for its former status as an independent republic . Texas is nicknamed the "six flags over Texas" for its former status as an independent republic .
+
+GT:
+The regulatory authority, the Texas Department of Transportation (TxDOT), maintains the state's immense highway system, regulates aviation, and public transportation systems. The state is an important transportation hub. As of 2005, 79,535 miles (127,999 km) of public highway crisscrossed Texas (up from 71,000 miles (114,263 km) in 1984). Texas has 730 airports, second-most of any state in the nation. Largest in Texas by size and passengers served, Dallas/Fort Worth International Airport (DFW) is the second-largest by area in the United States, and fourth in the world with 18,076 acres (73.15 km2). In traffic, DFW airport is the busiest in the state, the fourth busiest in the United States, and sixth worldwide. Texas's second-largest air facility is Houston's George Bush Intercontinental Airport (IAH). It served as the largest hub for the former Continental Airlines, which was based in Houston; it serves as the largest hub for United Airlines, the world's third-largest airline, by passenger-miles flown. Around 1,150 seaports dot Texas's coast with over 1,000 miles (1,600 km) of channels. In the Dallas–Fort Worth area, three public transit agencies provide rail service: Dallas Area Rapid Transit (DART), Denton County Transportation Authority (DCTA), and Trinity Metro. The Trinity Railway Express (TRE) commuter rail service, which connects Fort Worth and Dallas, is provided by Trinity Metro and DART. In the Austin area, Capital Metropolitan Transportation Authority operates a commuter rail service known as Capital MetroRail to the northwestern suburbs. The Metropolitan Transit Authority of Harris County, Texas (METRO) operates light rail lines in the Houston area. Amtrak provides Texas with limited intercity passenger rail service.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10283687943262411, 0.6170212765957447, 0.1762917933130699, 0.11018237082066872]
+[0.03558718861209965, 0.21739130434782608, 0.06116207951070336, 0.0382262996941896]
+[0.07801418439716312, 0.46808510638297873, 0.1337386018237082, 0.08358662613981763]
+
+
+SBERT sim. Score: 0.47281455993652344

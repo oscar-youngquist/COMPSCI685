@@ -1,0 +1,21 @@
+Document:
+maryland
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+As of 2015, Maryland had the highest median household income of any state, owing in large part to its proximity to Washington, D.C. and a highly diversified economy spanning manufacturing, services, higher education, and biotechnology. As is typical of states on the East Coast, Maryland's plant life is abundant and healthy. In 2007, Forbes.com rated Maryland as the fifth "Greenest" state in the country behind three of the Pacific States and Vermont. Also, the state's poverty rate of 7.8 percent is the lowest in the country. In addition, a number of educational and medical research institutions are located in the state. The state as a whole is heavily industrialized, with a booming economy and influential technology centers. Maryland has a large food-production sector.
+\Predicted Summary:
+the, the of the Great Britain, and, the, a colonial charter, naming the colony after his wife, the Queen Mary, known as Queen Mary . Maryland is the largest state in the state, and its capital is Annapolis . MERR--lnd is named after the English Queen, known in England as Queen Henrietta Maria of France .
+
+GT:
+As of 2015, Maryland had the highest median household income of any state, owing in large part to its proximity to Washington, D.C. and a highly diversified economy spanning manufacturing, services, higher education, and biotechnology. Maryland has one of the most diverse Hispanic populations in the country, with significant populations from various Caribbean and Central American nations. Attracting educated Asians and Africans to the professional jobs in the region, Maryland has the fifth-largest proportions of racial minorities in the country. According to the US Census Bureau, Maryland households are currently the wealthiest in the country, with a 2013 median household income of $72,483 which puts it ahead of New Jersey and Connecticut, which are second and third respectively. Maryland's economy benefits from the state's proximity to the federal government in Washington, D.C. with an emphasis on technical and administrative tasks for the defense/aerospace industry and bio-research laboratories, as well as staffing of satellite government headquarters in the suburban or exurban Baltimore/Washington area. Same-sex couples began marrying in Maryland on January 1, 2013. Education Week ranked Maryland #1 in its nationwide 2009–2013 Quality Counts reports.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11794871794871795, 0.42592592592592593, 0.18473895582329317, 0.11546184738955824]
+[0.015463917525773196, 0.05660377358490566, 0.024291497975708502, 0.015182186234817813]
+[0.08205128205128205, 0.2962962962962963, 0.12851405622489961, 0.08032128514056225]
+
+
+SBERT sim. Score: 0.3263446092605591

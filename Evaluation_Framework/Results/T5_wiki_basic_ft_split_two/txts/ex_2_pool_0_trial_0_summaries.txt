@@ -1,0 +1,21 @@
+Document:
+ohio
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Ohio was the first post-colonial free state admitted to the union, and became one of the earliest and most influential industrial powerhouses in the 20th century; although it has transitioned to a more information and service based economy in the 21st century, Ohio remains an industrial state, ranking seventh in GDP as of 2019, with the third largest manufacturing sector and second largest automobile production. This ranks Ohio's economy as the seventh-largest of all fifty states and the District of Columbia. Forbes ranked the state No. Ohio has the third largest manufacturing workforce behind California and Texas. Ohio has the largest bioscience sector in the Midwest, and is a national leader in the "green" economy. Ohio is the largest producer in the country of plastics, rubber, fabricated metals, electrical equipment, and appliances. Ohio's manufacturing sector is the third-largest of all fifty United States states in terms of gross domestic product.
+\Predicted Summary:
+, and the first under the Northwest Ordinance. Ohio is the 34th-largest by area, and with population of nearly 11.7 million . the state is the seventh-most populous and tenth-most densely populated. Ohio is the capital of the city, and has a population of about 11.7 million . the state is the first post-colonial free state admitted to the union on March 1, 1803, and the first under the Northwest Ordinance . Ohio is the first post-colonial free state
+
+GT:
+Ohio was the first post-colonial free state admitted to the union, and became one of the earliest and most influential industrial powerhouses in the 20th century; although it has transitioned to a more information and service based economy in the 21st century, Ohio remains an industrial state, ranking seventh in GDP as of 2019, with the third largest manufacturing sector and second largest automobile production. 10 for best business-friendly tax systems in their Business Tax Index 2009, including a top corporate tax and capital gains rate that were both ranked No. Ohio has five of the top 115 colleges in the nation, according to US News and World Report's 2010 rankings, and was ranked No. Ohio's unemployment rate stands at 4.5% as of February 2018, down from 10.7% in May 2010. Ohio has a highly developed network of roads and interstate highways. Ohio also has a highly developed network of signed state bicycle routes. Ohio has several long-distance hiking trails, the most prominent of which is the Buckeye Trail which extends 1,444 mi (2,324 km) in a loop around the state of Ohio. The system averages an annual enrollment of more than 400,000 students, making it one of the five largest state university systems in the US
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2119815668202765, 0.5609756097560976, 0.3076923076923077, 0.19230769230769235]
+[0.06018518518518518, 0.16049382716049382, 0.08754208754208753, 0.054713804713804715]
+[0.1152073732718894, 0.3048780487804878, 0.16722408026755853, 0.1045150501672241]
+
+
+SBERT sim. Score: 0.588241696357727

@@ -1,0 +1,21 @@
+Document:
+idaho
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+The state's south includes the Snake River Plain (which has most of the population and agricultural land). Industries significant for the state economy include manufacturing, agriculture, mining, forestry, and tourism. The official state nickname is the "Gem State", which references Idaho's natural beauty. The states of Washington and Oregon are to the west, Nevada and Utah are to the south, and Montana and Wyoming are to the east. The state has snow-capped mountain ranges, rapids, vast lakes and steep canyons. The new territory included present-day Idaho, Montana, and most of Wyoming. In recent years, Idaho has expanded its commercial base as a tourism and agricultural state to include science and technology industries. Science and technology have become the largest single economic center (over 25% of the state's total revenue) within the state and are greater than agriculture, forestry and mining combined. There are large numbers of Americans of English and German ancestry in Idaho. Other metropolitan areas in order of size are Coeur d'Alene, Idaho Falls, Pocatello and Lewiston. All three varieties of wheat, dark northern spring, hard red, and soft white are grown in the state. Outdoor recreation is a common example ranging from numerous snowmobile and downhill and cross-country ski areas in winter to the evolution of Lewiston as a retirement community based on mild winters, dry, year-round climate and one of the lowest median wind velocities anywhere, combined with the rivers for a wide variety of activities. Four of the world's six welded aluminum jet boat (for running river rapids) manufacturers are in the Lewiston-Clarkston, WA valley. In keeping with this, while there are no large wineries or breweries in Idaho, there are numerous and growing numbers of award-winning boutique wineries and microbreweries in the northern part of the state. These realities have shaped much of the state's energy landscape. Other noted outdoor sites include Hells Canyon, the Salmon River, and its embarkation point of Riggins.
+\Predicted Summary:
+Idaho ( (((listen))) is a state in the Pacific Northwest region of the United States . Idaho is the 14th largest state in the state . Idaho borders the state of Montana to the east and northeast, Wyoming to the east and Utah to the east . Idaho is the 12th least densely populated of the 50 US states . Idaho is the 14th largest, the 12th least populous and 7th least densely populated .
+
+GT:
+A Late Upper Paleolithic site was identified at Cooper's Ferry in western Idaho near the town of Cottonwood by archaeologists in 2019. Science and technology have become the largest single economic center (over 25% of the state's total revenue) within the state and are greater than agriculture, forestry and mining combined. In keeping with this, while there are no large wineries or breweries in Idaho, there are numerous and growing numbers of award-winning boutique wineries and microbreweries in the northern part of the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2413793103448276, 0.30434782608695654, 0.2692307692307692, 0.16826923076923075]
+[0.05813953488372093, 0.07352941176470588, 0.06493506493506493, 0.040584415584415584]
+[0.19540229885057472, 0.2463768115942029, 0.21794871794871795, 0.1362179487179487]
+
+
+SBERT sim. Score: 0.5197991132736206

@@ -1,0 +1,21 @@
+Document:
+connecticut
+
+Intent:
+How is the government structured in this state?
+
+Input:
+It is known as the "Constitution State", the "Nutmeg State", the "Provisions State", and the "Land of Steady Habits". The State of Connecticut government has operated under the direction of four separate documents in the course of the state's constitutional history. The governor heads the executive branch. In addition to the Governor and Lieutenant Governor, there are four other executive officers named in the state constitution that are elected directly by voters: Secretary of the State, Treasurer, Comptroller, and Attorney General. The legislature is the General Assembly. Bills must pass each house in order to become law. Per Article XV of the state constitution, Senatortors and Representatives must be at least 18 years of age and are elected to two-year terms in November on even-numbered years. There also must always be between 30 and 50 senators and 125 to 225 representatives. The state is also divided into nine regional councils of government defined by the state Office of Planning and Management, which facilitate regional planning and coordination of services between member towns.
+\Predicted Summary:
+colony New York, which was established in the 1662s by the Dutch colony . Connecticut is the southernmost state in the northeastern United States . Connecticut is the third smallest state by area, the fourth most populous, and the fourth most densely populated of the fifty states .
+
+GT:
+The governor heads the executive branch. In addition to the Governor and Lieutenant Governor, there are four other executive officers named in the state constitution that are elected directly by voters: Secretary of the State, Treasurer, Comptroller, and Attorney General. All executive officers are elected to four-year terms. The legislature is the General Assembly. The General Assembly is a bicameral body consisting of an upper body, the State Senatorte (36 senators); and a lower body, the House of Representatives (151 representatives). Bills must pass each house in order to become law. The governor can veto the bill, but this veto can be overridden by a two-thirds majority in each house. Per Article XV of the state constitution, Senatortors and Representatives must be at least 18 years of age and are elected to two-year terms in November on even-numbered years. There also must always be between 30 and 50 senators and 125 to 225 representatives. The Lieutenant Governor presides over the Senatorte, except when absent from the chamber, when the President pro tempore presides. The Speaker of the House presides over the House. Locally elected representatives also develop Local ordinances to govern cities and towns. The town ordinances often include noise control and zoning guidelines. However, the State of Connecticut also provides statewide ordinances for noise control as well. The highest court of Connecticut's judicial branch is the Connecticut Supreme Court, headed by the Chief Justice of Connecticut. The Supreme Court is responsible for deciding on the constitutionality of the law or cases as they relate to the law. The Appellate Court is a lesser statewide court and the Superior Courts are lower courts that resemble county courts of other states. Connecticut does not have county government, unlike all other states except Rhode Island. The state is divided into 169 towns which serve as the fundamental political jurisdictions. The state is also divided into nine regional councils of government defined by the state Office of Planning and Management, which facilitate regional planning and coordination of services between member towns.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.06997084548104957, 0.5333333333333333, 0.12371134020618556, 0.07731958762886598]
+[0.02046783625730994, 0.1590909090909091, 0.03626943005181347, 0.022668393782383417]
+[0.05830903790087463, 0.4444444444444444, 0.10309278350515463, 0.06443298969072164]
+
+
+SBERT sim. Score: 0.04889366775751114

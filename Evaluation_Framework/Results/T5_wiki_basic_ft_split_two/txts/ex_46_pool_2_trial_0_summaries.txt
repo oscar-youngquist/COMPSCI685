@@ -1,0 +1,21 @@
+Document:
+north_carolina
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The state mainly continued with an economy based on tobacco, cotton textiles and commodity agriculture. The state has a very diverse economy because of its great availability of hydroelectric power, its pleasant climate, and its wide variety of soils. The state ranks third among the South Atlantic states in population, but leads the region in industry and agriculture. According to a Forbes article written in 2013 Employment in the "Old North State" has gained many different industry sectors. North Carolina is the leading US state in production of flue-cured tobacco and sweet potatoes, and comes second in the farming of pigs and hogs, trout, and turkeys. The state's shipping, commercial fishing, and lumber industries are important to its economy.
+\Predicted Summary:
+the first in the United States. North Carolina is the 28th largest metropolitan area in the state . North Carolina is the 23rd-most populous in the 50 United States, and the 23rd-most populous in the state . North Carolina uses the slogan "First in Flight" on state license plates to commemorate this achievement . North Carolina is the most-populous and 9th-most populous in the state .
+
+GT:
+The state has a very diverse economy because of its great availability of hydroelectric power, its pleasant climate, and its wide variety of soils. The state ranks third among the South Atlantic states in population, but leads the region in industry and agriculture. North Carolina leads the nation in the production of tobacco, textiles, and furniture. Charlotte, the state's largest city, is a major textile and trade center. North Carolina is the leading US state in production of flue-cured tobacco and sweet potatoes, and comes second in the farming of pigs and hogs, trout, and turkeys. In the three most recent USDA surveys (2002, 2007, 2012), North Carolina also ranked second in the production of Christmas trees.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.29411764705882354, 0.5303030303030303, 0.37837837837837834, 0.23648648648648649]
+[0.1016949152542373, 0.18461538461538463, 0.13114754098360656, 0.08196721311475409]
+[0.19327731092436976, 0.3484848484848485, 0.24864864864864866, 0.15540540540540543]
+
+
+SBERT sim. Score: 0.5364969372749329

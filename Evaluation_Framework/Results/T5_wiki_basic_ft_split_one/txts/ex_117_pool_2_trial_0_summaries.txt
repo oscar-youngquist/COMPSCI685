@@ -1,0 +1,21 @@
+Document:
+missouri
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The state is the 21st-most extensive in area. However, the elected legislative body was split between pro-Union and pro-Confederate. With the elected governor absent from the capital and the legislators largely dispersed, the state convention was reassembled with most of its members present, save twenty who fled south with Jackson's forces. It provides for three branches of government: the legislative, judicial, and executive branches. The legislative branch consists of two bodies: the House of Representatives and the Senatorte. The House of Representatives has 163 members apportioned based on the last decennial census. The Senatorte consists of 34 members from districts of approximately equal populations. The judicial department comprises the Supreme Court of Missouri, which has seven judges, the Missouri Court of Appeals (an intermediate appellate court divided into three districts), sitting in Kansas City, St. Louis, and Springfield, and 45 Circuit Courts which function as local trial courts. The executive branch is headed by the Governor of Missouri and includes five other statewide elected offices. At the state level, both Democratic Senatortor Claire McCaskill and Democratic Governor Jay Nixon were re-elected. The Missouri State Board of Education has general authority over all public education in the state of Missouri. It is made up of eight citizens appointed by the governor and confirmed by the Missouri Senatorte.
+\Predicted Summary:
+in 1735. Germans rushed into the Missouri River in the 17th century . Missouri is the 18th-most populous state in the country . Missouri is the 18th-most populous state of the country . Missouri is bordered by eight states (tied for the most with Tennessee ): Iowa to the north, Illinois to Kentucky to the east .
+
+GT:
+The current Constitution of Missouri, the fourth constitution for the state, was adopted in 1945. It provides for three branches of government: the legislative, judicial, and executive branches. The legislative branch consists of two bodies: the House of Representatives and the Senatorte. These bodies comprise the Missouri General Assembly. The House of Representatives has 163 members apportioned based on the last decennial census. The Senatorte consists of 34 members from districts of approximately equal populations. The judicial department comprises the Supreme Court of Missouri, which has seven judges, the Missouri Court of Appeals (an intermediate appellate court divided into three districts), sitting in Kansas City, St. Louis, and Springfield, and 45 Circuit Courts which function as local trial courts. The executive branch is headed by the Governor of Missouri and includes five other statewide elected offices.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16176470588235295, 0.4074074074074074, 0.23157894736842105, 0.14473684210526316]
+[0.014814814814814815, 0.03773584905660377, 0.02127659574468085, 0.013297872340425532]
+[0.11764705882352941, 0.2962962962962963, 0.16842105263157892, 0.10526315789473685]
+
+
+SBERT sim. Score: 0.5122512578964233

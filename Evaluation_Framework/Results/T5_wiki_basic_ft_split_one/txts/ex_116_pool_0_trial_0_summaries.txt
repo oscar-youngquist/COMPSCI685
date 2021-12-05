@@ -1,0 +1,21 @@
+Document:
+rhode_island
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The charter apportioned legislative seats equally among the state's towns, over-representing rural areas and under-representing the growing industrial centers. See List of Rhode Island Governors. The state legislature is the Rhode Island General Assembly, consisting of the 75-member House of Representatives and the 38-member Senatorte. Both houses of the bicameral body are currently dominated by the Democratic Party; the presence of the Republican Party is minor in the state government, with Republicans holding a handful of seats in both the Senatorte and House of Representatives. Rhode Island is divided into five counties but it has no county governments. The entire state is divided into municipalities, which handle all local government affairs.
+\Predicted Summary:
+was the first of the 13 colonies to ratify Rhode Island since 1776 . Rhode Island is the second most densely populated state in the United States . the state's official name is "the Ocean State"
+
+GT:
+The capital of Rhode Island is Providence. Rhode Island is one of a few states that do not have an official governor's residence. The state legislature is the Rhode Island General Assembly, consisting of the 75-member House of Representatives and the 38-member Senatorte. Both houses of the bicameral body are currently dominated by the Democratic Party; the presence of the Republican Party is minor in the state government, with Republicans holding a handful of seats in both the Senatorte and House of Representatives. Rhode Island's population barely crosses the threshold beyond the minimum of three for additional votes in both the federal House of Representatives and Electoral College; it is well represented relative to its population, with the eighth-highest number of electoral votes and second-highest number of House Representatives per resident. Federally, Rhode Island is a reliably Democratic state during presidential elections, usually supporting the Democratic presidential nominee.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14935064935064934, 0.6571428571428571, 0.2433862433862434, 0.15211640211640212]
+[0.0457516339869281, 0.20588235294117646, 0.0748663101604278, 0.04679144385026738]
+[0.11038961038961038, 0.4857142857142857, 0.17989417989417986, 0.11243386243386243]
+
+
+SBERT sim. Score: 0.6357294321060181

@@ -1,0 +1,21 @@
+Document:
+arizona
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It is the 6th largest and the 14th most populous of the 50 states. Arizona is the sixth largest state by area, ranked after New Mexico and before Nevada. The state is less well known for its pine-covered north-central portion of the high country of the Colorado Plateau (see Arizona Mountains forests). Due to its large area and variations in elevation, the state has a wide variety of localized climate conditions. The composition of the state's economy is moderately diverse; although health care, transportation and the government remain the largest sectors. The state's per capita income is $40,828, ranking 39th in the US As of August 2020, the state's unemployment rate was 5.9%.
+\Predicted Summary:
+in the United States (1948) and the United States (1948) in the United States. Arizona is the 48th state and the 14th most populous of the contiguous states. it is also part of the Western and the Mountain states. it is the 6th largest and the 14th most populous of the 50 states. it is also part of the Western and the Mountain states.
+
+GT:
+In addition to the internationally known Grand Canyon National Park, which is one of the world's seven natural wonders, there are several national forests, national parks, and national monuments. Hinduism became the largest non-Christian religion (when combining all denominations) in 2010 with more than 32,000 adherents, followed by Judaism with more than 20,000 and Buddhism with more than 19,000. The composition of the state's economy is moderately diverse; although health care, transportation and the government remain the largest sectors. The state transaction privilege tax is 5.6%; however, county and municipal sales taxes generally add an additional 2%. The state of Arizona does not levy a state tax on food for home consumption or on drugs prescribed by a licensed physician or dentist. The Phoenix and Tucson metropolitan areas are served by public bus transit systems.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.20422535211267606, 0.453125, 0.28155339805825247, 0.17597087378640777]
+[0.02127659574468085, 0.047619047619047616, 0.02941176470588235, 0.01838235294117647]
+[0.14788732394366197, 0.328125, 0.20388349514563106, 0.12742718446601942]
+
+
+SBERT sim. Score: 0.44629812240600586
