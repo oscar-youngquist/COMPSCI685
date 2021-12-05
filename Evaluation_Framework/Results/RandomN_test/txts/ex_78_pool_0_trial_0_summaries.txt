@@ -1,0 +1,21 @@
+Document:
+arizona
+
+Intent:
+What drives the economy in this state?
+
+Input:
+It is the 6th largest and the 14th most populous of the 50 states. The boom and bust economy of mining also left hundreds of ghost towns across the territory, but copper mining continued to prosper with the territory producing more copper than any other state by 1907, which earned Arizona the nickname "the Copper State" at the time of statehood. The state continues to produce half of the nation's newly mined copper. Cotton farming and copper mining, two of Arizona's most important statewide industries, suffered heavily during the Great Depression. This figure gives Arizona a larger economy than such countries as Ireland, Finland, and New Zealand. The composition of the state's economy is moderately diverse; although health care, transportation and the government remain the largest sectors. Early in its history, Arizona's economy relied on the "five C's": copper (see Copper mining in Arizona), cotton, cattle, citrus, and climate (tourism). Copper is still extensively mined from many expansive open-pit and underground mines, accounting for two-thirds of the nation's output.
+\Predicted Summary:
+The TV sitcom Alice, which was based on the movie was set in Phoenix. Dewpoints as high as 81 °F (27 °C) have been recorded during the Phoenix monsoon season. The regions near and west of Phoenix have the lowest risk. The Mormons settled what became northern Arizona and northern New Mexico. The band Soulfly calls Phoenix home and Megadeth lived in Phoenix for about a decade. A $130 million franchise fee was paid to Major League Baseball and on January 16, 1997, the Diamondbacks were officially voted into the National League. These were the only two states that had continued to prohibit Native Americans from voting. Sun City, established by developer Del Webb and opened in 1960, was one of the first such communities. Division Two is based in Tucson, consists of six judges, and has jurisdiction over the Southern regions of the state, including the Tucson area.
+
+GT:
+Cotton farming and copper mining, two of Arizona's most important statewide industries, suffered heavily during the Great Depression. The composition of the state's economy is moderately diverse; although health care, transportation and the government remain the largest sectors. Early in its history, Arizona's economy relied on the "five C's": copper (see Copper mining in Arizona), cotton, cattle, citrus, and climate (tourism). Copper is still extensively mined from many expansive open-pit and underground mines, accounting for two-thirds of the nation's output. The state government is Arizona's largest employer, while Banner Health is the state's largest private employer, with more than 39,000 employees (2016). The fiscal year 2006–07 general fund budget, approved by the Arizona Legislature in June 2006, was slightly less than $10 billion. Besides the money spent on state agencies, it also included more than $500 million in income and property tax cuts, pay raises for government employees, and additional funding for the K–12 education system.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2619047619047619, 0.2953020134228188, 0.277602523659306, 0.17350157728706625]
+[0.03592814371257485, 0.04054054054054054, 0.03809523809523809, 0.023809523809523808]
+[0.125, 0.14093959731543623, 0.13249211356466875, 0.08280757097791798]
+
+
+SBERT sim. Score: 0.29132744669914246

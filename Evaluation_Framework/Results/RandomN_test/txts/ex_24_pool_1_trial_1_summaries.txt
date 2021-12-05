@@ -1,0 +1,21 @@
+Document:
+idaho
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+US-95 links the two ends of the state, but like many other highways in Idaho, it is badly in need of repair and upgrade. I-84 is the main highway linking the southeast and southwest portions of the state, along with I-86 and I-15. Major airports include the Boise International Airport which serves the southwest region of Idaho and the Spokane International Airport (in Spokane, Washington) which serves northern Idaho. Idaho is served by three transcontinental railroads. Amtrak's Empire Builder crosses northern Idaho, with its only stop being in Sandpoint. Montana Rail Link also operates between Billings, Montana and Sandpoint, Idaho The Union Pacific Railroad also crosses southern Idaho traveling between Portland, Oregon, Green River, Wyoming, and Ogden, Utah and serves Boise, Nampa, Twin Falls, and Pocatello.
+\Predicted Summary:
+The plain served as an easy pass through the Rocky Mountains for westward-bound settlers on the Oregon Trail, and many settlers chose to settle the area rather than risking the treacherous route through the Blue Mountains and the Cascade Range to the west. The discoverers, anthropology professor Loren Davis and colleagues, emphasized that they possess similarities with tools and artifacts discovered in Japan that date from 16,000 to 13,000 years ago. Other noted outdoor sites include Hells Canyon, the Salmon River, and its embarkation point of Riggins. Idahoans may apply for state tax credits for taxes paid to other states, as well as for donations to Idaho state educational entities and some nonprofit youth and rehabilitation facilities. In keeping with this, while there are no large wineries or breweries in Idaho, there are numerous and growing numbers of award-winning boutique wineries and microbreweries in the northern part of the state. Boise is the home of Micron Technology, the only US manufacturer of dynamic random-access memory (DRAM) chips. Note: Births in table don't add up, because Hispanics are counted both by their ethnicity and by their race, giving a higher overall number.
+
+GT:
+Idaho is among the few states in the nation without a major freeway linking its two largest metropolitan areas, Boise in the south and Coeur d'Alene in the north. Major airports include the Boise International Airport which serves the southwest region of Idaho and the Spokane International Airport (in Spokane, Washington) which serves northern Idaho. Other airports with scheduled service are the Pullman-Moscow Regional Airport serving the Palouse; the Lewiston-Nez Perce County Airport, serving the Lewis-Clark Valley and north central and west central Idaho; The Magic Valley Regional Airport in Twin Falls; the Idaho Falls Regional Airport; and the Pocatello Regional Airport. Idaho is served by three transcontinental railroads. The Burlington Northern Santa Fe (BNSF) connects the Idaho Panhandle with Seattle, Portland, and Spokane to the west, and Minneapolis and Chicago to the east. The Union Pacific Railroad also crosses southern Idaho traveling between Portland, Oregon, Green River, Wyoming, and Ogden, Utah and serves Boise, Nampa, Twin Falls, and Pocatello. The Port of Lewiston is the farthest inland Pacific port on the west coast. A series of dams and locks on the Snake River and Columbia River facilitate barge travel from Lewiston to Portland, where goods are loaded on ocean-going vessels.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2766990291262136, 0.2893401015228426, 0.2828784119106699, 0.17679900744416874]
+[0.03414634146341464, 0.03571428571428571, 0.034912718204488775, 0.021820448877805487]
+[0.14563106796116504, 0.15228426395939088, 0.1488833746898263, 0.09305210918114144]
+
+
+SBERT sim. Score: 0.44959476590156555

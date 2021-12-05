@@ -1,0 +1,21 @@
+Document:
+nevada
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The tourism industry remains Nevada's largest employer, with mining continuing as a substantial sector of the economy: Nevada is the fourth-largest producer of gold in the world. Mining plays an important role in the economies of the rural counties, with tourism being less prominent. The economy of Nevada is tied to tourism (especially entertainment and gambling related), mining, and cattle ranching. Nevada's industrial outputs are tourism, entertainment, mining, machinery, printing and publishing, food processing, and electric equipment. In portions of the state outside of the Las Vegas and Reno metropolitan areas mining plays a major economic role. Cattle ranching is a major economic activity in rural Nevada.
+\Predicted Summary:
+Nevada (, Spanish: [neˈβaða]) is a state in the Western United States. It is bordered by Oregon to the northwest, Idaho to the northeast, California to the west, Arizona to the southeast, and Utah to the east. Nevada is the 7th-most extensive, the 19th-least populous, but the 9th-least densely populated of the US states. Nearly three-quarters of Nevada's people live in Clark County, which contains the Las Vegas–Paradise metropolitan area, including three of the state's four largest incorporated cities. Nevada's capital is Carson City. Nevada is officially known as the "Silver State" because of the importance of silver to its history and economy. It is also known as the "Battle Born State" because it achieved statehood during the Civil War (the words "Battle Born" also appear on the state flag); as the "Sagebrush State", for the native plant of the same name; and as the "Sage-hen State".
+
+GT:
+The economy of Nevada is tied to tourism (especially entertainment and gambling related), mining, and cattle ranching. Nevada's industrial outputs are tourism, entertainment, mining, machinery, printing and publishing, food processing, and electric equipment. The economy of Nevada has long been tied to vice industries. "[Nevada was] founded on mining and refounded on sin – beginning with prizefighting and easy divorce a century ago and later extending to gaming and prostitution", said the August 21, 2010 issue of The Economist. In portions of the state outside of the Las Vegas and Reno metropolitan areas mining plays a major economic role. Cattle ranching is a major economic activity in rural Nevada. Nevada's agricultural outputs are cattle, hay, alfalfa, dairy products, onions, and potatoes.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3114754098360656, 0.24203821656050956, 0.2724014336917563, 0.17025089605734767]
+[0.09917355371900827, 0.07692307692307693, 0.08664259927797834, 0.05415162454873647]
+[0.1721311475409836, 0.1337579617834395, 0.15053763440860216, 0.09408602150537634]
+
+
+SBERT sim. Score: 0.5694683790206909

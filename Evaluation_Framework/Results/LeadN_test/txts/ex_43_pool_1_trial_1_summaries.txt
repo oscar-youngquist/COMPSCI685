@@ -1,0 +1,21 @@
+Document:
+michigan
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It also has 64,980 inland lakes and ponds. With almost ten million residents, Michigan is a large and influential state, ranking tenth in population among the fifty states. Agriculture also serves a significant role, making the state a leading grower of fruit in the US, including blueberries, cherries, apples, grapes, and peaches. The peninsula is as large as Connecticut, Delaware, Massachusetts, and Rhode Island combined but has fewer than 330,000 inhabitants. Its research and development, which includes automotive, comprises a higher percentage of the state's overall gross domestic product than for any other US state. The state is an important source of engineering job opportunities. A wide variety of commodity crops, fruits, and vegetables are grown in Michigan, making it second only to California among US states in the diversity of its agriculture. The forests, lakes and thousands of miles of beaches are top attractions. Hunting and fishing are significant industries in the state. The state has the highest number of golf courses and registered snowmobiles in the nation.
+\Predicted Summary:
+Michigan ( (listen)) is a state in the Great Lakes and Midwestern regions of the United States. Its name comes from the Ojibwe word mishigami, meaning "large water" or "large lake". With a population of approximately 10 million, Michigan is the tenth most populous state, the 11th most extensive state by area, and the largest by area east of the Mississippi River. Its capital is Lansing, and its largest city is Detroit. Metro Detroit is among the nation's most populous and largest metropolitan economies. Michigan is the only state to consist of two peninsulas. The Lower Peninsula is shaped like a mitten. The Upper Peninsula (often called "the U.P.") is separated from the Lower Peninsula by the Straits of Mackinac, a five-mile (8 km) channel that joins Lake Huron to Lake Michigan. The Mackinac Bridge connects the peninsulas. Michigan has the longest freshwater coastline of any political subdivision in the world, being bordered by four of the five Great Lakes, plus Lake Saint Clair.
+
+GT:
+Metro Detroit is among the nation's most populous and largest metropolitan economies. Michigan voters commonly elect candidates from both major parties, and it is generally regarded as a "swing" state which can be won by either Democratic or Republican presidential candidates. The southern and central parts of the Lower Peninsula (south of Saginaw Bay and from the Grand Rapids area southward) have a warmer climate (Köppen climate classification Dfa) with hot summers and cold winters. The US Bureau of Economic Analysis estimated Michigan's Q3 2018 gross state product to be $538 billion, ranking 14th out of the 50 states. As of 2002, Michigan ranked fourth in the US in high tech employment with 568,000 high tech workers, which includes 70,000 in the automotive industry. Destinations draw vacationers, hunters, and nature enthusiasts from across the United States and Canada.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.36363636363636365, 0.3132530120481928, 0.3365695792880259, 0.21035598705501618]
+[0.15492957746478872, 0.13333333333333333, 0.14332247557003258, 0.08957654723127036]
+[0.21678321678321677, 0.18674698795180722, 0.2006472491909385, 0.12540453074433655]
+
+
+SBERT sim. Score: 0.5776214003562927

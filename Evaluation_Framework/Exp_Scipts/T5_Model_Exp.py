@@ -6,6 +6,9 @@ from pathlib import Path
 from argparse import ArgumentParser, Namespace
 import wandb
 
+
+# test call: .py --finetune --data_aug --lr x --gamma x --epochs x
+
 # update the python path to include the parent directory  
 currentdir = os.path.dirname(os.path.realpath(__file__))
 parentdir = os.path.dirname(currentdir)
@@ -25,6 +28,7 @@ from Models.T5_Model import T5_Base
 parser = ArgumentParser(description="Experiment runner for t5 base and fine-tuned t5")
 parser.add_argument('--use_wandb', action='store_true') # Use weights and biases to track hyperparameters and training runs
 parser.add_argument('--wandb_silent', action='store_true') # Wandb silent mode, does not output any text about project run/syncing
+parser.add_argument('--wandb_username', type=str, default="")
 parser.add_argument('--verbose', action='store_true') # Print every predicted example (on by default, for long runs it should be turned off to clean up output)
 parser.add_argument('--finetune', action='store_true') # Fine tune model (as opposed to frozen model)
 parser.add_argument('--data_aug', action='store_true') # Use data augmentation (UDA)
@@ -34,15 +38,20 @@ parser.add_argument('--num_trials', type=int, default=10) # Number of complete p
 parser.add_argument('--num_examples', type=int, default=5) # Number of user-summaries used as examples
 parser.add_argument('--num_test', type=int, default=3) # Number of user-summaries used for testing
 parser.add_argument('--max_range', type=int, default=138) # Number of users, max of 138 (use 20 for hyperparameter tuning)
+parser.add_argument('--lr', type=float, default=5e-6)
+parser.add_argument('--epochs', type=int, default=30)
 args = parser.parse_args()
 
 config = Namespace()
 config.use_wandb = args.use_wandb
+config.wandb_username = args.wandb_username
 config.verbose = args.verbose
 config.finetune = args.finetune
 config.data_aug = args.data_aug
 config.num_aug = args.num_aug
 config.gamma = args.gamma
+config.lr = args.lr
+config.epochs = args.epochs
 
 # experiment configuration
 config.num_examples = args.num_examples     # number of user-summaries used as examples
@@ -68,7 +77,7 @@ wandb.init(
     # ex: entity="carey",
     # Set the project where this run will be logged
     project="685",
-    entity="etower",
+    entity=config.wandb_username,
     config=config,
     mode="online" if config.use_wandb else "disabled"
 )
@@ -96,7 +105,7 @@ if not exists(join(cwd, "Logs/")):
 ### TODO #####
 ##############
 # TODO: add your own log file name
-log_file = join(cwd, "Logs/", f"{config.model_name}.log")
+log_file = join(cwd, "Logs/", f"{config.model_name}_lr_{config.lr}_epochs_{config.epochs}.log")
 
 # set up logger
 root = logging.getLogger()
@@ -110,17 +119,31 @@ file_handler = logging.FileHandler(log_file, mode="w", encoding=None, delay=Fals
 file_handler.setLevel(logging.DEBUG)
 root.addHandler(file_handler)
 
+shared_docs_path = os.path.join(Path(__file__).parent.parent.parent, "SubSumE_Data")
+
 # add the exception logging behavior to the logger
 # sys.excepthook = exceptionhook
 
 # create an instance of the experiment runner class
 # num_examples, num_test, users_path, data_path, min_range, max_index
-exp_runner = ExperimentRunner(config.num_examples, config.num_test, config.users_path, config.data_path, config.min_range, config.max_range, use_wandb=config.use_wandb)
+exp_runner = ExperimentRunner(config.num_examples, config.num_test, config.users_path, config.data_path, config.min_range, config.max_range, shared_docs_path, use_wandb=config.use_wandb)
 
 # create the model(s) you are going to evaluate
 #     data_path, shared_docs_path, num_examples
-model = T5_Base(config.data_path, config.shared_docs_path, config.num_examples, config.finetune,
-                config.data_aug, config.aug_path, config.gamma, use_wandb=config.use_wandb, verbose=config.verbose, num_aug=config.num_aug)
+model = T5_Base(
+    data_path=config.data_path,
+    shared_docs_path=config.shared_docs_path,
+    num_examples=config.num_examples,
+    finetune=config.finetune,
+    data_aug=config.data_aug,
+    aug_path=config.aug_path,
+    gamma=config.gamma,
+    lr=config.lr,
+    epochs=config.epochs,
+    use_wandb=config.use_wandb,
+    verbose=config.verbose,
+    num_aug=config.num_aug
+)
 
 # perform the actual experiment
 #   Could loop over several models/params. In Models, can 
@@ -128,7 +151,7 @@ model = T5_Base(config.data_path, config.shared_docs_path, config.num_examples, 
 #   as needed.                                                                   
 #
 #     model, num_trials, save_results (print results to log file), model_name, exp_folder=None, multi_processing=True // artifcact, huggingface API does not allow for multi-processing
-exp_runner.get_model_analysis(model, config.num_trials, True, config.model_name, multi_processing=False, use_wandb=config.use_wandb)
+exp_runner.get_model_analysis_final(model, config.num_trials, True, config.model_name, multi_processing=False, use_wandb=config.use_wandb)
 
 if config.use_wandb:
     wandb.finish()

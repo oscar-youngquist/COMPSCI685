@@ -1,0 +1,21 @@
+Document:
+north_dakota
+
+Intent:
+How is the government structured in this state?
+
+Input:
+As with the federal government of the United States, political power in North Dakota state government is divided into three branches: executive, legislative, and judicial. The executive branch is headed by the elected governor. The offices of governor and lieutenant governor have four-year terms, which are next up for election in 2024. The governor has a cabinet consisting of appointed leaders of various state government agencies, called commissioners. The other elected constitutional offices are secretary of state, attorney general, state auditor, and state treasurer. The North Dakota Legislative Assembly is a bicameral body consisting of the Senatorte and the House of Representatives. The state has 47 districts, each with one senator and two representatives. As of 2007, the Constitution Party and the Libertarian Party are also organized parties in the state. At the state level, the governorship has been held by the Republican Party since 1992, along with a majority of the state legislature and statewide officers.
+\Predicted Summary:
+Ed Schultz was known around the country until his death in July 2018 as the host progressive talk radio show, The Ed Schultz Show, and The Ed Show on MSNBC. Senatortors, John Hoeven and Kevin Cramer, are Republicans, as is the sole House member, Kelly Armstrong. Unrest among wheat farmers, especially among Norwegian immigrants, led to a populist political movement centered in the Non Partisan League ("NPL") around the time of World War I. The North Dakota High School Activities Association features more than 25,000 participants. North Dakota has the second largest lignite coal production in the US The Tax Foundation ranks North Dakota as the state with the 20th most "business friendly" tax climate in the nation. Farms and ranches cover nearly all of North Dakota. Eastern corporations and some families established huge wheat farms covering large areas of land in the Red River Valley. The federally recognized tribes have Indian reservations in the state. In 1953, legislation to make the ground squirrel the state emblem was voted down in the state legislature.
+
+GT:
+As with the federal government of the United States, political power in North Dakota state government is divided into three branches: executive, legislative, and judicial. The Constitution of North Dakota and the North Dakota Century Code form the formal law of the state The executive branch is headed by the elected governor. The offices of governor and lieutenant governor have four-year terms, which are next up for election in 2024. The governor has a cabinet consisting of appointed leaders of various state government agencies, called commissioners. The other elected constitutional offices are secretary of state, attorney general, state auditor, and state treasurer. The North Dakota Legislative Assembly is a bicameral body consisting of the Senatorte and the House of Representatives. Both senators and representatives are elected to four-year terms. North Dakota's court system has four levels. Municipal courts serve the cities, and most cases start in the district courts, which are courts of general jurisdiction. There are 42 district court judges in seven judicial districts. Appeals from the trial courts and challenges to certain governmental decisions are heard by the North Dakota Court of Appeals, consisting of three-judge panels. The five-justice North Dakota Supreme Court hears all appeals from the district courts and the Court of Appeals.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.27358490566037735, 0.3314285714285714, 0.2997416020671834, 0.18733850129198965]
+[0.052132701421800945, 0.06321839080459771, 0.05714285714285714, 0.03571428571428571]
+[0.14622641509433962, 0.17714285714285713, 0.16020671834625322, 0.10012919896640826]
+
+
+SBERT sim. Score: 0.4158380329608917

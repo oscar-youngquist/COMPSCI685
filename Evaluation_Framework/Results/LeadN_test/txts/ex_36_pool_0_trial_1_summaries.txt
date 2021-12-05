@@ -1,0 +1,21 @@
+Document:
+delaware
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Since the turn of the 20th century, Delaware is also a de facto onshore corporate haven, in which by virtue of its corporate laws, the state is the domicile of over 50% of all NYSE-listed business and 60% of the Fortune 500. It still has a substantial presence in the state. Delaware's agricultural output consists of poultry, nursery stock, soybeans, dairy products and corn. The state's largest employers are: More than half of all US publicly traded companies, and 63% of the Fortune 500, are incorporated in Delaware. The state's attractiveness as a corporate haven is largely because of its business-friendly corporation law. Gambling provides significant revenue to the state. In 2015, tourism in Delaware generated $3.1 billion, which makes up five percent of the state's GDP. Delaware saw 8.5 million visitors in 2015, with the tourism industry employing 41,730 people, making it the 4th largest private employer in the state.
+\Predicted Summary:
+Delaware ( (listen) DEL-ə-wair) is a state in the Mid-Atlantic region of the United States, bordering Maryland to its south and west; Pennsylvania to its north; and New Jersey and the Atlantic Ocean to its east. The state takes its name from the nearby Delaware River named after Thomas West, 3rd Baron De La Warr, an English nobleman and Virginia's first colonial governor. Delaware occupies the northeastern portion of the Delmarva Peninsula and some islands and territory within the Delaware River. It is the second-smallest and sixth-least populous state, but also the sixth-most densely populated. Delaware's largest city is Wilmington, while the state capital is Dover, the second-largest city in the state. The state is divided into three counties, having the lowest number of any state; from north to south, they are New Castle County, Kent County, and Sussex County. While the southern two counties have historically been predominantly agricultural, New Castle is more urbanized. In a similar vein to Maryland, Delaware's geography, culture, and history combine elements of the Mid-Atlantic, Northeastern, and Southern regions of the country. Before its coastline was explored by Europeans in the 16th century, Delaware was inhabited by several groups of Native Americans, including the Lenape in the north and Nanticoke in the south. It was initially colonized by Dutch traders at Zwaanendael, near the present town of Lewes, in 1631.
+
+GT:
+Since the turn of the 20th century, Delaware is also a de facto onshore corporate haven, in which by virtue of its corporate laws, the state is the domicile of over 50% of all NYSE-listed business and 60% of the Fortune 500. Since the mid-2000s, Delaware has seen the departure of the state's automotive manufacturing industry (General Motors Wilmington Assembly and Chrysler Newark Assembly), the corporate buyout of a major bank holding company (MBNA), the departure of the state's steel industry (Evraz Claymont Steel), the bankruptcy of a fiber mill (National Vulcanized Fibre), and the diminishing presence of AstraZeneca in Wilmington. More than half of all US publicly traded companies, and 63% of the Fortune 500, are incorporated in Delaware. Franchise taxes on Delaware corporations supply about a fifth of the state's revenue. In 2015, tourism in Delaware generated $3.1 billion, which makes up five percent of the state's GDP. Delaware saw 8.5 million visitors in 2015, with the tourism industry employing 41,730 people, making it the 4th largest private employer in the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.366120218579235, 0.2851063829787234, 0.3205741626794259, 0.20035885167464115]
+[0.07692307692307693, 0.05982905982905983, 0.0673076923076923, 0.04206730769230769]
+[0.22950819672131148, 0.17872340425531916, 0.20095693779904306, 0.1255980861244019]
+
+
+SBERT sim. Score: 0.523382842540741

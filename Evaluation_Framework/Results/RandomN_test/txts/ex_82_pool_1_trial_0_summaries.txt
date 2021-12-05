@@ -1,0 +1,21 @@
+Document:
+iowa
+
+Intent:
+What drives the economy in this state?
+
+Input:
+In the latter half of the 20th century, Iowa's agricultural economy made the transition to a diversified economy of advanced manufacturing, processing, financial services, information technology, biotechnology, and green energy production. CNBC's list of "Top States for Business in 2010" has recognized Iowa as the sixth best state in the nation. If measured by gross state product, for 2005 it was $113.5 billion. Manufacturing is the largest sector of Iowa's economy, with $20.8 billion (21%) of Iowa's 2003 gross state product. Major manufacturing sectors include food processing, heavy machinery, and agricultural chemicals. Though industrial-scale, commodity agriculture predominates in much of the state, Iowa has seen growth in the organic farming sector. As of 2007, the direct production and sale of conventional agricultural commodities contributed only about 3.5% of Iowa's gross state product. In 2008, the 92,600 farms in Iowa produced 19% of the nation's corn, 17% of the soybeans, 30% of the hogs, and 14% of the eggs.
+\Predicted Summary:
+The state has four major college teams playing in NCAA Division I for all sports. This was lower than the economic impact of non-farm manufacturing, which accounted for 22.4% of total value added and 26.5% of total output. Fort Dodge is home of The Fort historical museum and the Blanden Art Museum, and host Frontiers Days which celebrate the town history. 635,687 or 30.3% were Democrats, 800,629 or 38.2% of voters were not registered in a party, 651,039 or 31.1% were Republicans, and 8,284 or 0.004% were registered with another party. Amtrak's California Zephyr serves the south of Iowa with stops at Burlington, Mount Pleasant, Ottumwa, Osceola, and Creston on its daily route between Chicago and Emeryville, California. It is home to the Iowa State Capitol, the State Historical Society of Iowa Museum, Drake University, Des Moines Art Center, Greater Des Moines Botanical Garden, Principal Riverwalk, the Iowa State Fair, Terrace Hill, and the World Food Prize. The Libertarian Party obtained official political party status in 2017 as a result of presidential candidate Gary Johnson receiving 3.8% of the Iowa vote in the 2016 general election. The US encouraged settlement of the east side of the Mississippi and removal of Indians to the west. Some of the most dramatic scenery in Iowa is found in the unique Loess Hills which are found along Iowa's western border.
+
+GT:
+CNBC's list of "Top States for Business in 2010" has recognized Iowa as the sixth best state in the nation. Iowa was also ranked 10th in "Economy", 12th in "Business Friendliness", 16th in "Education", 17th in both "Cost of Living" and "Quality of Life", 20th in "Workforce", 29th in "Technology and Innovation", 32nd in "Transportation" and the lowest ranking was 36th in "Access to Capital". While Iowa is often viewed as a farming state, agriculture is a relatively small portion of the state's diversified economy, with manufacturing, biotechnology, finance and insurance services, and government services contributing substantially to Iowa's economy. If the economy is measured by gross domestic product, in 2005 Iowa's GDP was about $124 billion. Manufacturing is the largest sector of Iowa's economy, with $20.8 billion (21%) of Iowa's 2003 gross state product. Major manufacturing sectors include food processing, heavy machinery, and agricultural chemicals. Food processing is the largest component of manufacturing. Besides processed food, industrial outputs include machinery, electric equipment, chemical products, publishing, and primary metals. Major non-food manufacturing firms with production facilities in Iowa include 3M, Arconic, Amana Corporation, Emerson Electric, The HON Company, SSAB, John Deere, Lennox Manufacturing, Pella Corporation, Procter & Gamble, Vermeer Company, and Winnebago Industries. Iowa ranks fifth in the nation in total number of organic farms.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2927927927927928, 0.2708333333333333, 0.28138528138528135, 0.17586580086580084]
+[0.049773755656108594, 0.04602510460251046, 0.04782608695652174, 0.029891304347826084]
+[0.15315315315315314, 0.14166666666666666, 0.14718614718614717, 0.09199134199134198]
+
+
+SBERT sim. Score: 0.4547051191329956

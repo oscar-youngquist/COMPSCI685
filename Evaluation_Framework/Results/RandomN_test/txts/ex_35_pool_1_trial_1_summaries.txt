@@ -1,0 +1,21 @@
+Document:
+idaho
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The constitution defines the form and functions of the state government, and may be amended through plebiscite. The constitution of Idaho provides for three branches of government: the executive, legislative and judicial branches. Idaho has a bicameral legislature, elected from 35 legislative districts, each represented by one senator and two representatives. Since 1946, statewide elected constitutional officers have been elected to four-year terms. They include: Governor, Lieutenant Governor, Secretary of State, Idaho state controller (Auditor before 1994), Treasurer, Attorney General, and Superintendent of Public Instruction. The governor of Idaho serves a four-year term, and is elected during what is nationally referred to as midterm elections. Idaho's legislature is part-time. Terms for both the Senatorte and House of Representatives are two years. Legislative elections occur every even numbered year. There is also an intermediate appellate court, the Idaho Court of Appeals, which hears cases assigned to it from the Supreme Court. The state's District Courts serve seven judicial districts.
+\Predicted Summary:
+The Lewis and Clark expedition crossed Idaho in 1805 on the way to the Pacific and in 1806 on the return, largely following the Clearwater River both directions. That is one of the 35 fastest 800-meter times ever run by a high school boy in the United States. Important industries in Idaho are food processing, lumber and wood products, machinery, chemical products, paper products, electronics manufacturing, silver and other mining, and tourism. Idaho has a bicameral legislature, elected from 35 legislative districts, each represented by one senator and two representatives. Legislative elections occur every even numbered year. When Oregon became a state, what is now Idaho was in what remained of the original Oregon Territory not part of the new state, and designated as the Washington Territory. The Port of Lewiston is the farthest inland Pacific port on the west coast. The state sales tax is 6% with a very limited, selective local option up to 6.5%. It has a capacity of 120,000 metric tons per year of barrel cheese and belongs to the Glanbia group. On the contrary, they probably came through the water, using a Pacific coastal road. The sales tax was introduced at 3% in 1965, easily approved by voters, where it remained at 3% until 1983. While Idaho's 515 trillion British thermal units (151 TWh) total energy consumption is low compared with other states and represents just 0.5% of United States consumption, the state also has the nation's 11th smallest population, 1.5 million, so its per capita energy consumption of 352 million BTU (103 MWh) is just above the national average of 333 million BTU (98 MWh).
+
+GT:
+The constitution of Idaho is roughly modeled on the national constitution with several additions. The constitution of Idaho provides for three branches of government: the executive, legislative and judicial branches. Idaho has a bicameral legislature, elected from 35 legislative districts, each represented by one senator and two representatives. Since 1946, statewide elected constitutional officers have been elected to four-year terms. They include: Governor, Lieutenant Governor, Secretary of State, Idaho state controller (Auditor before 1994), Treasurer, Attorney General, and Superintendent of Public Instruction. Idaho's government has an alcohol monopoly. The governor of Idaho serves a four-year term, and is elected during what is nationally referred to as midterm elections. As such, the governor is not elected in the same election year as the president of the United States. Idaho's legislature is part-time. Because of this, Idaho's legislators are considered "citizen legislators", meaning their position as a legislator is not their main occupation. Terms for both the Senatorte and House of Representatives are two years.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.47337278106508873, 0.28776978417266186, 0.3579418344519016, 0.22371364653243844]
+[0.15476190476190477, 0.09386281588447654, 0.11685393258426965, 0.07303370786516854]
+[0.2958579881656805, 0.17985611510791366, 0.22371364653243847, 0.13982102908277405]
+
+
+SBERT sim. Score: 0.43469566106796265

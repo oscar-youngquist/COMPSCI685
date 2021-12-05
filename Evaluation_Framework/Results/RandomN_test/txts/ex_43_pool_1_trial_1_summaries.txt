@@ -1,0 +1,21 @@
+Document:
+michigan
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It also has 64,980 inland lakes and ponds. With almost ten million residents, Michigan is a large and influential state, ranking tenth in population among the fifty states. Agriculture also serves a significant role, making the state a leading grower of fruit in the US, including blueberries, cherries, apples, grapes, and peaches. The peninsula is as large as Connecticut, Delaware, Massachusetts, and Rhode Island combined but has fewer than 330,000 inhabitants. Its research and development, which includes automotive, comprises a higher percentage of the state's overall gross domestic product than for any other US state. The state is an important source of engineering job opportunities. A wide variety of commodity crops, fruits, and vegetables are grown in Michigan, making it second only to California among US states in the diversity of its agriculture. The forests, lakes and thousands of miles of beaches are top attractions. Hunting and fishing are significant industries in the state. The state has the highest number of golf courses and registered snowmobiles in the nation.
+\Predicted Summary:
+GM began its initial public offering (IPO) of stock in 2010. The Ottawa lived primarily south of the Straits of Mackinac in northern, western and southern Michigan, but also in southern Ontario, northern Ohio and eastern Wisconsin. Destinations draw vacationers, hunters, and nature enthusiasts from across the United States and Canada. In the same survey, Jewish adherents in the state of Michigan were estimated at 44,382, and Muslims at 120,351. Kellogg's cereal is based in Battle Creek, Michigan and processes many locally grown foods. As of 2011, 34.3% of Michigan's children under the age of one belonged to racial or ethnic minority groups, meaning they had at least one parent who was not non-Hispanic white. Republican strongholds of the state include rural areas of Western and Northern Michigan, the Upper Peninsula, the outer suburbs around Grand Rapids, and Livingston County. Detroit's Saint Anne's parish, established in 1701 by Antoine de la Mothe Cadillac, is the second-oldest Roman Catholic parish in the United States. Charter townships can opt to use county-wide services instead, such as deputies from the county sheriff's office instead of a home-based force of ordinance officers. With 78 state parks, 19 state recreation areas, and six state forests, Michigan has the largest state park and state forest system of any state. These can be severe, especially in the southern part of the state.
+
+GT:
+Metro Detroit is among the nation's most populous and largest metropolitan economies. Michigan voters commonly elect candidates from both major parties, and it is generally regarded as a "swing" state which can be won by either Democratic or Republican presidential candidates. The southern and central parts of the Lower Peninsula (south of Saginaw Bay and from the Grand Rapids area southward) have a warmer climate (Köppen climate classification Dfa) with hot summers and cold winters. The US Bureau of Economic Analysis estimated Michigan's Q3 2018 gross state product to be $538 billion, ranking 14th out of the 50 states. As of 2002, Michigan ranked fourth in the US in high tech employment with 568,000 high tech workers, which includes 70,000 in the automotive industry. Destinations draw vacationers, hunters, and nature enthusiasts from across the United States and Canada.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.46853146853146854, 0.28270042194092826, 0.3526315789473684, 0.22039473684210525]
+[0.176056338028169, 0.1059322033898305, 0.13227513227513227, 0.08267195767195766]
+[0.1958041958041958, 0.11814345991561181, 0.14736842105263157, 0.09210526315789473]
+
+
+SBERT sim. Score: 0.4554458558559418

@@ -1,0 +1,21 @@
+Document:
+delaware
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Massachusetts and New Hampshire also shared a governor for some time. Delaware is one of five states (Maine, Vermont, West Virginia, Wyoming) that do not have a single city with a population over 100,000 as of the 2010 census. As of 2014, Delaware is mostly Christian. Delaware is home to several festivals, fairs, and events. Delaware is also home to two large sporting venues. Delaware's official state sport is bicycling.
+\Predicted Summary:
+Franchise taxes on Delaware corporations supply about a fifth of the state's revenue. While the southern two counties have historically been predominantly agricultural, New Castle is more urbanized. In 2015, tourism in Delaware generated $3.1 billion, which makes up five percent of the state's GDP. DE 404 is another primary east–west highway connecting the Chesapeake Bay Bridge in Maryland with the Delaware beaches. The center of population of Delaware is in New Castle County, in the town of Townsend. The state of Delaware, together with the Eastern Shore counties of Maryland and two counties of Virginia, form the Delmarva Peninsula, which stretches down the Mid-Atlantic Coast.
+
+GT:
+Delaware provides government subsidy support for the clean-up of property "lightly contaminated" by hazardous waste, the proceeds for which come from a tax on wholesale petroleum sales. As of 2000, 91% of Delaware residents of age 5 and older spoke only English at home; 5% spoke Spanish. A 2012 Gallup poll found that Delaware's proportion of lesbian, gay, bisexual, and transgender adults stood at 3.4 percent of the population. This constitutes a total LGBT adult population estimate of 23,698 people. The number of same-sex couple households in 2010 stood at 2,646. This grew by 41.65% from a decade earlier.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.24528301886792453, 0.23423423423423423, 0.23963133640552997, 0.1497695852534562]
+[0.0380952380952381, 0.03636363636363636, 0.037209302325581395, 0.023255813953488372]
+[0.14150943396226415, 0.13513513513513514, 0.13824884792626727, 0.08640552995391704]
+
+
+SBERT sim. Score: 0.4784713387489319

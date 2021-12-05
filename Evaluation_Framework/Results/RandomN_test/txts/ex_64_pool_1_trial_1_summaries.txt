@@ -1,0 +1,21 @@
+Document:
+alabama
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+The state's economy in the 21st century is based on management, automotive, finance, manufacturing, aerospace, mineral extraction, healthcare, education, retail, and technology. The state is usually ranked among the top in nation for its range of overall biodiversity. The state has invested in aerospace, education, health care, banking, and various heavy industries, including automobile manufacturing, mineral extraction, steel production and fabrication. According to the US Bureau of Economic Analysis, the 2008 total gross state product was $170 billion, or $29,411 per capita. As of 2018, Alabama has the sixth highest poverty rate among states in the US According to Business Insider, Alabama ranked 14th in most popular states to visit in 2014.
+\Predicted Summary:
+The remaining portion of the ThyssenKrupp plant had final bids submitted by ArcelorMittal and Nippon Steel for $1.6 billion in March 2013. Alabama is in the subtropical coniferous forest biome and once boasted huge expanses of pine forest, which still form the largest proportion of forests in the state. The area also drew many poor, disfranchised people who became subsistence farmers. Cahaba, now a ghost town, was the first permanent state capital from 1820 to 1825. More than 160 years later, the French founded the region's first European settlement at Old Mobile in 1702. This had caused decades of underinvestment in such areas. Each county has its own elected legislative branch, usually called the county commission.
+
+GT:
+The average annual temperature is 64 °F (18 °C). Temperatures tend to be warmer in the southern part of the state with its proximity to the Gulf of Mexico, while the northern parts of the state, especially in the Appalachian Mountains in the northeast, tend to be slightly cooler. College football is extremely popular in Alabama, particularly the University of Alabama Crimson Tide and Auburn University Tigers, rivals in the Southeastern Conference. In the 2013 season, Alabama averaged over 100,000 fans per game and Auburn averaged over 80,000—both numbers among the top twenty in the nation. Bryant–Denny Stadium is the home of the Alabama football team, and has a seating capacity of 101,821, and is the fifth largest stadium in America. Jordan-Hare Stadium is the home field of the Auburn football team and seats up to 87,451. Alabama has several professional and semi-professional sports teams, including three minor league baseball teams.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1949685534591195, 0.2627118644067797, 0.22382671480144406, 0.13989169675090252]
+[0.02531645569620253, 0.03418803418803419, 0.029090909090909094, 0.018181818181818184]
+[0.11320754716981132, 0.15254237288135594, 0.12996389891696752, 0.08122743682310468]
+
+
+SBERT sim. Score: 0.19079820811748505

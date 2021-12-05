@@ -1,0 +1,21 @@
+Document:
+kansas
+
+Intent:
+What drives the economy in this state?
+
+Input:
+By 2015, Kansas was one of the most productive agricultural states, producing high yields of wheat, corn, sorghum, and soybeans. The state's agricultural outputs are cattle, sheep, wheat, sorghum, soybeans, cotton, hogs, corn, and salt. By far, the most significant agricultural crop in the state is wheat. The industrial outputs are transportation equipment, commercial and private aircraft, food processing, publishing, chemical products, machinery, apparel, petroleum, and mining. Kansas is also ranked eighth in US natural gas production. The state's economy is also heavily influenced by the aerospace industry.
+\Predicted Summary:
+Nearly 75 mi (121 km) of the state's northeastern boundary is defined by the Missouri River. The Kansas Collegiate Athletic Conference has its roots as one of the oldest college sport conferences in existence and participates in the NAIA and all ten member schools are in the state of Kansas. The Gorillas, in 96 seasons of intercollegiate competition, have accumulated 579 victories, posting a 579–301–48 overall mark. Both KU and K-State have tradition-rich programs in men's basketball. Kansas is located equidistant from the Pacific and Atlantic oceans. Known as rural flight, the last few decades have been marked by a migratory pattern out of the countryside into cities. The council–manager government model was adopted by many larger Kansas cities in the years following World War I while many American cities were being run by political machines or organized crime, notably the Pendergast Machine in neighboring Kansas City, Missouri.
+
+GT:
+Nearly 90% of Kansas's land is devoted to agriculture. The state's agricultural outputs are cattle, sheep, wheat, sorghum, soybeans, cotton, hogs, corn, and salt. The industrial outputs are transportation equipment, commercial and private aircraft, food processing, publishing, chemical products, machinery, apparel, petroleum, and mining. Kansas is ranked eighth in US petroleum production. Kansas is also ranked eighth in US natural gas production. The state's economy is also heavily influenced by the aerospace industry.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2894736842105263, 0.14193548387096774, 0.19047619047619047, 0.11904761904761905]
+[0.08, 0.03896103896103896, 0.05240174672489083, 0.03275109170305677]
+[0.21052631578947367, 0.1032258064516129, 0.13852813852813853, 0.08658008658008659]
+
+
+SBERT sim. Score: 0.38616180419921875

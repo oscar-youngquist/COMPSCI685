@@ -1,0 +1,21 @@
+Document:
+mississippi
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Jackson is both the state's capital and largest city. (See: Lists of cities, towns and villages, census-designated places, metropolitan areas, micropolitan areas, and counties in Mississippi) Plantations were developed primarily along the major rivers, where the waterfront provided access to the major transportation routes. They also took advantage of new railroads sponsored by the state. Most migrants from Mississippi took trains directly north to Chicago and often settled near former neighbors. A proportion of federal spending in Mississippi is directed toward large federal installations such as Camp Shelby, John C. Stennis Space Center, Meridian Naval Air Station, Columbus Air Force Base, and Keesler Air Force Base. Mississippi has six airports with commercial passenger service, the busiest in Jackson (Jackson-Evers International Airport) and one in Gulfport (Gulfport-Biloxi International Airport) Mississippi is served by nine interstate highways: Routes: as well as a system of State Highways. Amtrak provides scheduled passenger service along two routes, the Crescent and City of New Orleans. All but two of the United States Class I railroads serve Mississippi (the exceptions are the Union Pacific and Canadian Pacific):
+\Predicted Summary:
+It also repealed the segregationist-era poll tax in 1989. All were invented, promulgated or heavily developed by Mississippi musicians, many of them African American, and most came from the Mississippi Delta. Some among the black delegates were freedmen, but others were educated free blacks who had migrated from the North. With large areas of agriculture and rural towns, Mississippi frequently ranks low among states in measures of health, education, and development, and high in measures of poverty. Court challenges were not successful until later in the century. Due to such migration, there was rapid growth in the number of Protestant churches, especially Methodist, Presbyterian and Baptist. The state's name is derived from the Mississippi River, which flows along and defines its western boundary. By 1860, a majority—55 percent—of the population of Mississippi was enslaved. Their friendship and respect is an important example of Mississippi's musical legacy. Mississippi led the South in developing a disenfranchising constitution, passing it in 1890. Today their descendants include approximately 9,500 persons identifying as Choctaw, who live in Neshoba, Newton, Leake, and Jones counties. Flooding has been an integral part of Mississippi history, but clearing of the land for cultivation and to supply wood fuel for steamboats took away the absorption of trees and undergrowth. While Mississippi has been especially known for its music and literature, it has embraced other forms of art.
+
+GT:
+Mississippi has six airports with commercial passenger service, the busiest in Jackson (Jackson-Evers International Airport) and one in Gulfport (Gulfport-Biloxi International Airport) Some localities have laws restricting the practice. In 2018, the state was ranked number eight in the Union in terms of impaired driving deaths. Mississippi is served by nine interstate highways: and fourteen main US Routes: as well as a system of State Highways. Amtrak provides scheduled passenger service along two routes, the Crescent and City of New Orleans. Prior to severe damage from Hurricane Katrina, the Sunset Limited traversed the far south of the state; the route originated in Los Angeles, California and it terminated in Florida. All but two of the United States Class I railroads serve Mississippi (the exceptions are the Union Pacific and Canadian Pacific):
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.38345864661654133, 0.21888412017167383, 0.2786885245901639, 0.17418032786885246]
+[0.03787878787878788, 0.021551724137931036, 0.027472527472527472, 0.01717032967032967]
+[0.21052631578947367, 0.12017167381974249, 0.15300546448087432, 0.09562841530054646]
+
+
+SBERT sim. Score: 0.41507068276405334

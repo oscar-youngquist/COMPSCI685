@@ -1,0 +1,21 @@
+Document:
+colorado
+
+Intent:
+How is the government structured in this state?
+
+Input:
+Like the federal government and all other US states, Colorado's state constitution provides for three branches of government: the legislative, the executive, and the judicial branches. The Governor of Colorado heads the state's executive branch. The current governor is Jared Polis, a Democrat. Colorado's other statewide elected executive officers are the Lieutenant Governor of Colorado (elected on a ticket with the Governor), Secretary of State of Colorado, Colorado State Treasurer, and Attorney General of Colorado, all of whom serve four-year terms. The Colorado Court of Appeals, with 22 judges, sits in divisions of three judges each. Colorado is divided into 22 judicial districts, each of which has a district court and a county court with limited jurisdiction. The state also has a water court, which sits in seven distinct divisions around the state and which decides matters relating to water rights and the use and administration of water. The state legislative body is the Colorado General Assembly, which is made up of two houses - the House of Representatives and the Senatorte. The House has 65 members and the Senatorte has 35. Coloradans have elected 17 Democrats and 12 Republicans to the governorship in the last 100 years.
+\Predicted Summary:
+More than 5,000 Colorado miners—many immigrants—are estimated to have died in accidents since records began to be formally collected following an accident in Crested Butte that killed 59 in 1884. In September 2014, KCNC reported that 524 non-citizens were issued Colorado driver licenses that are normally issued to US citizens living in Colorado. Surface water sources include the South Platte, the Arkansas River, and a few other streams. About 75% of the precipitation falls within the growing season, from April to September, but this area is very prone to droughts. The Colorado plains are mostly prairies but also include deciduous forests, buttes, and canyons. Other industries include food processing, transportation equipment, machinery, chemical products, the extraction of metals such as gold (see Gold mining in Colorado), silver, and molybdenum. A number of film productions have shot on location in Colorado, especially prominent Westerns like True Grit, The Searchers, and Butch Cassidy and the Sundance Kid. As of 2018, the Democratic Party holds a 19 to 16 majority in the Senatorte and a 41 to 24 majority in the House. The lowest official air temperature was −61 °F (−51.7 °C) on February 1, 1985, at Maybell. The area of Colorado to the west of the Continental Divide is called the Western Slope of Colorado. The Front Range urban corridor, where most of the population of Colorado resides, lies in a pronounced precipitation shadow as a result of being on the lee side of the Rocky Mountains.
+
+GT:
+Like the federal government and all other US states, Colorado's state constitution provides for three branches of government: the legislative, the executive, and the judicial branches. The Governor of Colorado heads the state's executive branch. Colorado's other statewide elected executive officers are the Lieutenant Governor of Colorado (elected on a ticket with the Governor), Secretary of State of Colorado, Colorado State Treasurer, and Attorney General of Colorado, all of whom serve four-year terms. The seven-member Colorado Supreme Court is the state's highest court, with seven justices. The Colorado Court of Appeals, with 22 judges, sits in divisions of three judges each. Colorado is divided into 22 judicial districts, each of which has a district court and a county court with limited jurisdiction. The state legislative body is the Colorado General Assembly, which is made up of two houses - the House of Representatives and the Senatorte. The House has 65 members and the Senatorte has 35. Tax is collected by the Colorado Department of Revenue.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.35294117647058826, 0.24, 0.28571428571428564, 0.17857142857142858]
+[0.05325443786982249, 0.03614457831325301, 0.043062200956937795, 0.026913875598086126]
+[0.19411764705882353, 0.132, 0.15714285714285717, 0.09821428571428573]
+
+
+SBERT sim. Score: 0.3445102274417877

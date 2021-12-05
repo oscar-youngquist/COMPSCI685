@@ -1,0 +1,21 @@
+Document:
+colorado
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It is the 8th most extensive and 21st most populous US state. In 1849, the Mormons of the Salt Lake Valley organized the extralegal State of Deseret, claiming the entire Great Basin and all lands drained by the rivers Green, Grand, and Colorado. Racial composition of the state's population was: A number of film productions have shot on location in Colorado, especially prominent Westerns like True Grit, The Searchers, and Butch Cassidy and the Sundance Kid. Colorado now also has the largest annual production of beer of any state. It connects Grand Junction and the mountain communities with Denver, and enters Utah and Kansas.
+\Predicted Summary:
+Colorado ( (listen), other variants) is a state in the western United States encompassing most of the southern Rocky Mountains as well as the northeastern portion of the Colorado Plateau and the western edge of the Great Plains. It is the 8th most extensive and 21st most populous US state. The estimated population of Colorado is 5,758,736 as of 2019, an increase of 14.5% since the 2010 United States Census. The region has been inhabited by Native Americans for more than 13,000 years, with the Lindenmeier Site containing artifacts dating from approximately 9200 BCE to 1000 BCE; the eastern edge of the Rocky Mountains was a major migration route for early peoples who spread throughout the Americas. The state was named for the Colorado River, which early Spanish explorers named the Río Colorado ("Red River") for the ruddy silt the river carried from the mountains. The Territory of Colorado was organized on February 28, 1861, and on August 1, 1876, US President Ulysses S. Grant signed Proclamation 230 admitting Colorado to the Union as the 38th state.
+
+GT:
+In 2006 voters passed Amendment 43, which purported to ban gay marriage in Colorado. That initiative was nullified by the US Supreme Court's 2015 decision in Obergefell v. Hodges. In 2012, voters amended the state constitution protecting "personal use" of marijuana for adults, establishing a framework to regulate cannabis in a manner similar to alcohol. The first recreational marijuana shops in Colorado, and by extension the United States, opened their doors on January 1, 2014. On May 29, 2019, Governor Jared Polis signed House Bill 1124 immediately prohibiting law enforcement officials in Colorado from holding undocumented immigrants solely on the basis of a request from US Immigration and Customs Enforcement. Colorado is home to 4 national parks, 8 national monuments, 2 national recreation areas, 2 national historic sites, 3 national historic trails, a national scenic trail, 11 national forests, 2 national grasslands, 42 national wilderness areas, 2 national conservation areas, 8 national wildlife refuges, 44 state parks, 307 state wildlife areas, and numerous other scenic, historic, and recreational areas.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.24705882352941178, 0.23204419889502761, 0.23931623931623933, 0.1495726495726496]
+[0.01775147928994083, 0.016666666666666666, 0.017191977077363894, 0.010744985673352435]
+[0.12352941176470589, 0.11602209944751381, 0.11965811965811966, 0.0747863247863248]
+
+
+SBERT sim. Score: 0.4620074927806854

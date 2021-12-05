@@ -1,0 +1,21 @@
+Document:
+iowa
+
+Intent:
+What drives the economy in this state?
+
+Input:
+After the Louisiana Purchase, people laid the foundation for an agriculture-based economy in the heart of the Corn Belt. In the latter half of the 20th century, Iowa's agricultural economy made the transition to a diversified economy of advanced manufacturing, processing, financial services, information technology, biotechnology, and green energy production. Beginning with the first industries developed in the 1830s, which were mainly for processing materials grown in the area, Iowa has experienced a gradual increase in the number of business and manufacturing operations. While Iowa is often viewed as a farming state, agriculture is a relatively small portion of the state's diversified economy, with manufacturing, biotechnology, finance and insurance services, and government services contributing substantially to Iowa's economy. Manufacturing is the largest sector of Iowa's economy, with $20.8 billion (21%) of Iowa's 2003 gross state product. Major manufacturing sectors include food processing, heavy machinery, and agricultural chemicals. Though industrial-scale, commodity agriculture predominates in much of the state, Iowa has seen growth in the organic farming sector.
+\Predicted Summary:
+Des Moines is the largest city and metropolitan area in Iowa and the state's political and economic center. Wellmark HealthPlan of Iowa and Wellmark Inc had the highest risk-based capital percentages of all 10 providers at 1158% and 1132%, respectively. Third parties, officially termed "nonparty political organizations", can appear on the ballot as well. There is a dearth of natural areas in Iowa; less than 1% of the tallgrass prairie that once covered most of Iowa remains intact; only about 5% of the state's prairie pothole wetlands remain, and most of the original forest has been lost. Frank Gotch was a World Heavyweight Wrestling Champion, Zach Johnson won the 2007 Masters Golf Tournament and the 2015 British Open, and Jeremy Hellickson won the 2011 American League Rookie of the Year award pitching for the Tampa Bay Rays. Iowa has been listed as one of the safest US states to live in. Following the Civil War, Iowa's population continued to grow dramatically, from 674,913 people in 1860 to 1,624,615 in 1880. Iowa athletes inducted into the Baseball Hall of Fame include Cap Anson, Fred Clarke, Red Faber, and Bob Feller.
+
+GT:
+In the latter half of the 20th century, Iowa's agricultural economy made the transition to a diversified economy of advanced manufacturing, processing, financial services, information technology, biotechnology, and green energy production. Since the beginning of the war in 1914, Iowa farmers had experienced economic prosperity, which lasted until the end of the war. The transition from an agricultural economy to a mixed economy happened slowly. After bottoming out in the 1980s, Iowa's economy began to become increasingly less dependent on agriculture. Scored in 10 individual categories, Iowa was ranked 1st when it came to the "Cost of Doing Business"; this includes all taxes, utility costs, and other costs associated with doing business. Iowa was also ranked 10th in "Economy", 12th in "Business Friendliness", 16th in "Education", 17th in both "Cost of Living" and "Quality of Life", 20th in "Workforce", 29th in "Technology and Innovation", 32nd in "Transportation" and the lowest ranking was 36th in "Access to Capital". This economic diversity has helped Iowa weather the late 2000s recession better than most states, with unemployment substantially lower than the rest of the nation.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.33152173913043476, 0.3112244897959184, 0.32105263157894737, 0.20065789473684212]
+[0.03278688524590164, 0.03076923076923077, 0.031746031746031744, 0.01984126984126984]
+[0.15760869565217392, 0.14795918367346939, 0.1526315789473684, 0.09539473684210525]
+
+
+SBERT sim. Score: 0.4877815544605255

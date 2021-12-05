@@ -1,0 +1,21 @@
+Document:
+maryland
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+As of 2015, Maryland had the highest median household income of any state, owing in large part to its proximity to Washington, D.C. and a highly diversified economy spanning manufacturing, services, higher education, and biotechnology. As is typical of states on the East Coast, Maryland's plant life is abundant and healthy. In 2007, Forbes.com rated Maryland as the fifth "Greenest" state in the country behind three of the Pacific States and Vermont. Also, the state's poverty rate of 7.8 percent is the lowest in the country. In addition, a number of educational and medical research institutions are located in the state. The state as a whole is heavily industrialized, with a booming economy and influential technology centers. Maryland has a large food-production sector.
+\Predicted Summary:
+In 2010, Republicans won control of most counties. Baltimore was a major war production center during World War II. Jews are numerous throughout Montgomery County and in Pikesville and Owings Mills northwest of Baltimore. The Bureau of Economic Analysis estimates that Maryland's gross state product in 2016 was $382.4 billion. University of Maryland's team is the Maryland Terrapins. They fall under USDA Hardiness zones 6b and below. A compromise proposed by Charles II in 1682 was undermined by Penn's receiving the additional grant of what is now Delaware. Institutions and government agencies with an interest in research and development located in Maryland include the Johns Hopkins University, the Johns Hopkins Applied Physics Laboratory, more than one campus of the University System of Maryland, Goddard Space Flight Center, the United States Census Bureau, the National Institutes of Health (NIH), the National Institute of Standards and Technology (NIST), the National Institute of Mental Health (NIMH), the Walter Reed National Military Medical Center, the federal Food and Drug Administration (FDA), the Howard Hughes Medical Institute, the Celera Genomics company, the J. Craig Venter Institute (JCVI), and AstraZeneca (formerly MedImmune).
+
+GT:
+As of 2015, Maryland had the highest median household income of any state, owing in large part to its proximity to Washington, D.C. and a highly diversified economy spanning manufacturing, services, higher education, and biotechnology. Maryland has one of the most diverse Hispanic populations in the country, with significant populations from various Caribbean and Central American nations. Attracting educated Asians and Africans to the professional jobs in the region, Maryland has the fifth-largest proportions of racial minorities in the country. According to the US Census Bureau, Maryland households are currently the wealthiest in the country, with a 2013 median household income of $72,483 which puts it ahead of New Jersey and Connecticut, which are second and third respectively. Maryland's economy benefits from the state's proximity to the federal government in Washington, D.C. with an emphasis on technical and administrative tasks for the defense/aerospace industry and bio-research laboratories, as well as staffing of satellite government headquarters in the suburban or exurban Baltimore/Washington area. Same-sex couples began marrying in Maryland on January 1, 2013. Education Week ranked Maryland #1 in its nationwide 2009–2013 Quality Counts reports.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3128205128205128, 0.32105263157894737, 0.3168831168831169, 0.19805194805194806]
+[0.030927835051546393, 0.031746031746031744, 0.031331592689295036, 0.0195822454308094]
+[0.15384615384615385, 0.15789473684210525, 0.15584415584415584, 0.0974025974025974]
+
+
+SBERT sim. Score: 0.501625657081604

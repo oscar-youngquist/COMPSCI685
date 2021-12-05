@@ -49,25 +49,23 @@ root.addHandler(file_handler)
 # add the exception logging behavior to the logger
 # sys.excepthook = exceptionhook
 
-# variables for experiment
-num_examples = 5                                                                                        # number of user-summaries used as examples
-num_test = 3
-
 # print(Path(__file__).parent)
 # shared_docs_path = "../../SubSumE_Data"
+num_examples = 5
+num_test = 3
 shared_docs_path = os.path.join(Path(__file__).parent.parent.parent, "SubSumE_Data")
-data_path = os.path.join(shared_docs_path, "processed_state_sentences.csv")        # path to the processed sentences csv
-users_path = os.path.join(shared_docs_path, "Train/")                               # path to the user-files used for this experiment                              # path to the misc. shared data (might not be needed anymore)
-min_range = 0                                                                                           # these min/max values are left-over from multi-processing experiments in which we would create n SuDocu models and then have each process (# of total user-summary instances)/n users. Thus we needed a min/max for the files to be read into memory by each model
-max_range = 20
-num_trials = 1 # 1 trial is OK for LeadN because it's deterministic                                                                                    # number of times to evaluate all the examples
-model_name = "LeadN_test"                                                                                  # name of the model used for this experiment (creates a folder with this name in the results directory)
-exp_folder = ""                                                                                         # results folder for this experimental run, only used if running a) more than one model or b) the same model more than once
+data_path = os.path.join(shared_docs_path, "processed_state_sentences.csv") 
+users_path = os.path.join(shared_docs_path, "Test/")
+min_range = 0
+max_range = 137
+num_trials = 1
+model_name = "LeadN_test"
+exp_folder = ""
                                                                                                         #     model_name folder is added as a sub-folder to this one 
 
 # create an instance of the experiment runner class
 # num_examples, num_test, users_path, data_path, min_range, max_index
-exp_runner = ExperimentRunner(num_examples, num_test, users_path, data_path, min_range, max_range)
+exp_runner = ExperimentRunner(num_examples, num_test, users_path, data_path, min_range, max_range, shared_docs_path)
 
 # create the model(s) you are going to evaluate
 #     data_path, shared_docs_path, num_examples, max_solvs=50, length_modifier=0.25
@@ -75,4 +73,4 @@ lead_n_model = LeadN(data_path, shared_docs_path, num_examples)
 
 # perform the actual experiment
 #     model, num_trials, display_results, model_name, exp_folder=None, multi_processing=True
-exp_runner.get_model_analysis(lead_n_model, num_trials, True, model_name, multi_processing=False)
+exp_runner.get_model_analysis_final(lead_n_model, True, model_name, multi_processing=False)

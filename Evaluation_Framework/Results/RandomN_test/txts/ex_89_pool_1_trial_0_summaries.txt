@@ -1,0 +1,21 @@
+Document:
+tennessee
+
+Intent:
+How is the government structured in this state?
+
+Input:
+Similar to the United States Federal Government, Tennessee's government has three parts. The governor is the only official who is elected statewide. The governor is supported by 22 cabinet-level departments, most headed by a commissioner who serves at the pleasure of the governor: Constitutional officials in the legislative branch are elected by a joint session of the legislature. It has a chief justice and four associate justices. A number of local, circuit, and federal courts provide judicial services. The state had two earlier constitutions. It also required both houses of state legislatures to be based on population for representation and not geographic districts such as counties. Tennessee's Constitution requires that each County have an elected Sheriff.
+\Predicted Summary:
+At that time, Tennessee was inhabited by tribes of Muscogee and Yuchi people. Interstates 24, 40, 65, and 840 service the Division, with the first three meeting in Nashville. Thus it was not among the states enumerated in the Proclamation, and the Proclamation did not free any slaves there. Some of the last remaining large American chestnut trees grow in this region. Stretching west from the Blue Ridge for approximately 55 miles (89 km) is the Ridge and Valley region, in which numerous tributaries join to form the Tennessee River in the Tennessee Valley. Since then, more of the state's voters have shifted to supporting Republicans, and Democratic presidential candidates have carried Tennessee only four times. In 2010, approximately 4.4% of Tennessee's population was foreign-born, an increase of about 118.5% since 2000. As of January 1, 2009, The Church of Jesus Christ of Latter-day Saints (LDS Church) reported 43,179 members, 10 stakes, 92 Congregations (68 wards and 24 branches), two missions, and two temples in Tennessee. Tennessee was the last state to leave the Union and join the Confederacy at the outbreak of the American Civil War in 1861. As of August 2019, the state has an unemployment rate of 3.5%, which is ranked 28th in the country.
+
+GT:
+Similar to the United States Federal Government, Tennessee's government has three parts. The Executive Branch is led by Tennessee's governor, who holds office for a four-year term and may serve a maximum of two consecutive terms. The governor is the only official who is elected statewide. Unlike most states, the state does not elect the lieutenant governor directly; the Tennessee Senatorte elects its Speaker, who serves as lieutenant governor. The governor is supported by 22 cabinet-level departments, most headed by a commissioner who serves at the pleasure of the governor: The Executive Branch also includes several agencies, boards and commissions, some of which are under the auspices of one of the cabinet-level departments. The bicameral Legislative Branch, known as the Tennessee General Assembly, consists of the 33-member Senatorte and the 99-member House of Representatives. Senatortors serve four-year terms, and House members serve two-year terms. Each chamber chooses its own speaker. The speaker of the state Senatorte also holds the title of lieutenant governor. Constitutional officials in the legislative branch are elected by a joint session of the legislature. The highest court in Tennessee is the state Supreme Court. It has a chief justice and four associate justices. No more than two justices can be from the same Grand Division. The Supreme Court of Tennessee also appoints the Attorney General, a practice not found in any of the other 49 states. Both the Court of Appeals and the Court of Criminal Appeals have 12 judges. A number of local, circuit, and federal courts provide judicial services.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.30303030303030304, 0.37037037037037035, 0.3333333333333333, 0.20833333333333331]
+[0.06463878326996197, 0.07906976744186046, 0.07112970711297072, 0.04445606694560669]
+[0.15151515151515152, 0.18518518518518517, 0.16666666666666666, 0.10416666666666666]
+
+
+SBERT sim. Score: 0.39372673630714417

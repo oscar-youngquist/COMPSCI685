@@ -1,0 +1,21 @@
+Document:
+south_dakota
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+The growth in these areas has compensated for losses in the rest of the state. The per capita personal income was $38,865 in 2010, ranked 25th in the US, and 12.5% of the population was below the poverty line in 2008.CNBC's list of "Top States for Business for 2010" has recognized South Dakota as the seventh best state in the nation. The service industry is the largest economic contributor in South Dakota. Government spending is another important segment of the state's economy, providing over ten percent of the gross state product. Agriculture-related industries such as meat packing and ethanol production also have a considerable economic impact on the state. In 2006, tourism provided an estimated 33,000 jobs in the state and contributed over two billion dollars to the economy of South Dakota.
+\Predicted Summary:
+South Dakota ( (listen)) is a US state in the Midwestern region of the United States. It is named after the Lakota and Dakota Sioux Native American tribes, who comprise a large portion of the population and historically dominated the territory. South Dakota is the seventeenth largest by area, but the 5th least populous, and the 5th least densely populated of the 50 United States. As the southern part of the former Dakota Territory, South Dakota became a state on November 2, 1889, simultaneously with North Dakota. It is either the 39th or 40th state admitted to the union. President Benjamin Harrison shuffled the statehood papers before signing them so that no one could tell which became a state first. Pierre is the state capital and Sioux Falls, with a population of about 187,200, is South Dakota's largest city.
+
+GT:
+South Dakota has several sites administered by the National Park Service. Two national parks have been established in the state, both in its southwestern region. The service industry is the largest economic contributor in South Dakota. Another important sector in South Dakota's economy is tourism. Many travel to view the attractions of the state, particularly those in the Black Hills region, such as historic Deadwood, Mount Rushmore, and the nearby state and national parks. As of 2005, South Dakota has the lowest per capita total state tax rate in the United States. The state does not levy personal or corporate income taxes, inheritance taxes, or taxes on intangible personal property. The state sales tax rate is 4.5 percent. Fishing and hunting are popular outdoor activities in South Dakota.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.36153846153846153, 0.3357142857142857, 0.34814814814814815, 0.2175925925925926]
+[0.09302325581395349, 0.08633093525179857, 0.08955223880597013, 0.05597014925373134]
+[0.23846153846153847, 0.22142857142857142, 0.22962962962962963, 0.14351851851851852]
+
+
+SBERT sim. Score: 0.5771750807762146

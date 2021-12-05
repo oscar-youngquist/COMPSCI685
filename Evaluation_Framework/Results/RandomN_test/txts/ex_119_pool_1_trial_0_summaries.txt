@@ -1,0 +1,21 @@
+Document:
+missouri
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+The state is the 21st-most extensive in area. Missouri is ranked 6th in the nation for the production of hogs and 7th for cattle. Missouri is ranked in the top five states in the nation for production of soy beans, and it is ranked fourth in the nation for the production of rice. Missouri produces the most lead of all the states. Missouri also has a growing science, agricultural technology, and biotechnology field. However, in recent years, areas of the state outside Kansas City, St. Louis, and Columbia have shifted heavily to the right, and so the state is no longer considered a bellwether by most analysts. There are numerous junior colleges, trade schools, church universities and other private universities in the state.
+\Predicted Summary:
+Missouri is ranked 6th in the nation for the production of hogs and 7th for cattle. In 2017, Missouri became a right-to-work state, but in August 2018, Missouri voters rejected a right-to-work law with 67% to 33%. Springfield is the headquarters of the Assemblies of God USA and the Baptist Bible Fellowship International. Still, they are known for their surviving massive earthwork mounds, built for religious, political and social reasons, in platform, ridgetop and conical shapes. In 2001, there were 108,000 farms, the second-largest number in any state after Texas. The 19th-century border wars between Missouri and Kansas have continued as a sports rivalry between the University of Missouri and University of Kansas. 81.3 percent of Missouri residents were high school graduates (more than the national average), and 21.6 percent had a bachelor's degree or higher. As a border state, Missouri's role in the American Civil War was complex and there were many conflicts within.
+
+GT:
+The US Department of Commerce's Bureau of Economic Analysis estimated Missouri's 2016 gross state product at $299.1 billion, ranking 22nd among US states. The agriculture products of the state are beef, soybeans, pork, dairy products, hay, corn, poultry, sorghum, cotton, rice, and eggs. Missouri is ranked 6th in the nation for the production of hogs and 7th for cattle. Missouri also has a growing science, agricultural technology, and biotechnology field. In 2017, Missouri became a right-to-work state, but in August 2018, Missouri voters rejected a right-to-work law with 67% to 33%. There is no inheritance tax and limited Missouri estate tax related to federal estate tax collection. In 2017, the Tax Foundation rated Missouri as having the 5th-best corporate tax index, and the 15th-best overall tax climate.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.5073529411764706, 0.41566265060240964, 0.4569536423841059, 0.2855960264900662]
+[0.3111111111111111, 0.2545454545454545, 0.27999999999999997, 0.175]
+[0.36764705882352944, 0.30120481927710846, 0.3311258278145696, 0.206953642384106]
+
+
+SBERT sim. Score: 0.6833457350730896

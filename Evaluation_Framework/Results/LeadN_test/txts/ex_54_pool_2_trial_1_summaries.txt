@@ -1,0 +1,21 @@
+Document:
+florida
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Florida is also renowned for amusement parks, orange crops, winter vegetables, the Kennedy Space Center, and as a popular destination for retirees. This is the second-highest number of islands of any state Most of this is in Bone Valley. Many beach towns are popular tourist destinations, particularly during winter and spring break. Amusement parks, especially in the Greater Orlando area, make up a significant portion of tourism. Other major theme parks in the area include Universal Orlando Resort, SeaWorld Orlando and Busch Gardens Tampa. The state is the largest producer of sweet corn and green beans for the US Daytona also has the Coke Zero Sugar 400 NASCAR race weekend around Independence Day in July.
+\Predicted Summary:
+Florida ( (listen), Spanish pronunciation: [floˈɾiða]) is a state located in the southeastern region of the United States. With a population of over 21 million, Florida is the third-most populous and the 22nd-most extensive of the 50 United States. The state is bordered to the west by the Gulf of Mexico, to the northwest by Alabama, to the north by Georgia, to the east by the Atlantic Ocean, and to the south by the Straits of Florida. The state's capital is Tallahassee and its most populous municipality is Jacksonville. The Miami metropolitan area, with a population of almost 6.2 million, is the most populous urban area in Florida and the seventh-most populous in the United States. Other urban areas in the state with a population of more than one million are Tampa Bay, Orlando, and Jacksonville. Florida's $1.0 trillion economy is the fourth-largest of any US state, and if it were a country, Florida would be the 16th-largest economy in the world. The first European contact was made in 1513 by Spanish explorer Juan Ponce de León, who called it la Florida ([la floˈɾiða] "the land of flowers") upon landing there. At various points in its colonial history, Florida was administered by Spain and Great Britain.
+
+GT:
+The state's close proximity to the ocean influences many aspects of Florida culture and daily life. Florida is a reflection of influences and multiple inheritance; African, European, indigenous, Latino, and Asian heritages can be found in the architecture and cuisine. Florida has attracted many writers such as Marjorie Kinnan Rawlings, Ernest Hemingway and Tennessee Williams, and continues to attract celebrities and athletes. It is internationally known for golf, tennis, auto racing, and water sports. Florida has the largest collection of Art Deco and Streamline Moderne buildings, both in the United States and in the entire world, most of which are located in the Miami metropolitan area, especially Miami Beach's Art Deco District, constructed as the city was becoming a resort destination. A unique architectural design found only in Florida is the post-World War II Miami Modern, which can be seen in areas such as Miami's MiMo Historic District. Being of early importance as a regional center of banking and finance, the architecture of Jacksonville displays a wide variety of styles and design principles. Some sections of the state feature architectural styles including Spanish revival, Florida vernacular, and Mediterranean Revival.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.37305699481865284, 0.3287671232876712, 0.3495145631067961, 0.21844660194174756]
+[0.109375, 0.0963302752293578, 0.10243902439024391, 0.06402439024390244]
+[0.18652849740932642, 0.1643835616438356, 0.17475728155339804, 0.10922330097087378]
+
+
+SBERT sim. Score: 0.538608729839325

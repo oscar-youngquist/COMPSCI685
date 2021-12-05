@@ -1,0 +1,21 @@
+Document:
+massachusetts
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The Government of Massachusetts is divided into three branches: executive, legislative, and judicial. The governor of Massachusetts heads the executive branch; duties of the governor include signing or vetoing legislation, filling judicial and agency appointments, granting pardons, preparing an annual budget, and commanding the Massachusetts National Guard. Each branch consists of several committees. The Massachusetts Supreme Judicial Court (a chief justice and six associates) are appointed by the governor and confirmed by the executive council, as are all other judges in the state. Both houses of the legislature have had Democratic majorities since the 1950s. The voters of these now-defunct counties elect only Sheriffs and Registers of Deeds, who are part of the state government.
+\Predicted Summary:
+Currently, the Senatortors are Elizabeth Warren and Ed Markey while the Representatives are Richard Neal (1st), Jim McGovern (2nd), Lori Trahan (3rd), Joseph Kennedy III (4th), Katherine Clark (5th), Seth Moulton (6th), Ayanna Pressley (7th), Stephen Lynch (8th), and Bill Keating (9th). Residents can schedule a remote assessment using the program's website or phone line. Boston's South End and Jamaica Plain are both gay villages, as is nearby Provincetown, Massachusetts on Cape Cod. These costs are attributed to expected coastal home damage, roadway destruction, and existing utility infrastructure exposure. Massachusetts was founded and settled by Brownist Puritans in 1620 and soon after by other groups of Separatists/Dissenters, Nonconformists and Independents from 17th century England. Massachusetts has the same position and powers within the United States as other states. Amtrak carries more passengers between Boston and New York than all airlines combined (about 54% of market share in 2012), but service between other cities is less frequent.
+
+GT:
+The Government of Massachusetts is divided into three branches: executive, legislative, and judicial. The governor of Massachusetts heads the executive branch; duties of the governor include signing or vetoing legislation, filling judicial and agency appointments, granting pardons, preparing an annual budget, and commanding the Massachusetts National Guard. The House consists of 160 members while the Senatorte has 40 members. The Massachusetts Supreme Judicial Court (a chief justice and six associates) are appointed by the governor and confirmed by the executive council, as are all other judges in the state. The Congressional delegation from Massachusetts is entirely Democratic. Federal court cases are heard in the United States District Court for the District of Massachusetts, and appeals are heard by the United States Court of Appeals for the First Circuit. Massachusetts has gradually shifted from a Republican-leaning state to one largely dominated by Democrats; the 1952 victory of John F. Kennedy over incumbent Senatortor Henry Cabot Lodge, Jr. is seen as a watershed moment in this transformation.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2469879518072289, 0.2578616352201258, 0.2523076923076923, 0.1576923076923077]
+[0.024242424242424242, 0.02531645569620253, 0.024767801857585137, 0.015479876160990712]
+[0.13855421686746988, 0.14465408805031446, 0.14153846153846153, 0.08846153846153845]
+
+
+SBERT sim. Score: 0.5073161125183105

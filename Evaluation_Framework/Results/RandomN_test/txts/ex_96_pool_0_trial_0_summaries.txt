@@ -1,0 +1,21 @@
+Document:
+arizona
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+It is also part of the Western and the Mountain states. Historic US Route 66 is the main east–west street in the town. Main Interstate routes include I-17, and I-19 traveling north–south, I-8, I-10, and I-40, traveling east–west, and a short stretch of I-15 traveling northeast–southwest through the extreme northwestern corner of the state. In addition, the various urban areas are served by complex networks of state routes and highways, such as the Loop 101, which is part of Phoenix's vast freeway system. Yuma and Flagstaff also have public bus systems. Greyhound Lines serves Phoenix, Tucson, Flagstaff, Yuma, and several smaller communities statewide. Amtrak Southwest Chief route serves the northern part of the state, stopping at Winslow, Flagstaff, Williams and Kingman.
+\Predicted Summary:
+Twilight had passages set in Phoenix at the beginning and the end of the film. Arizona became a US state on February 14, 1912, coincidentally Valentine's Day. These added assessments could push the combined sales tax rate to as high as 10.7%. Yuma is center of the fourth-largest metropolitan area in Arizona. Arizona also hosts several college football bowl games. The Southern territory supplied the Confederate government with men, horses, and equipment. The National Congress of American Indians, the Department of Justice, the Department of the Interior, and the American Civil Liberties Union all filed amicus curiae (friends of the court) briefs in the case. Arizona is home to one of the most well-preserved meteorite impact sites in the world.
+
+GT:
+The composition of the state's economy is moderately diverse; although health care, transportation and the government remain the largest sectors. Main Interstate routes include I-17, and I-19 traveling north–south, I-8, I-10, and I-40, traveling east–west, and a short stretch of I-15 traveling northeast–southwest through the extreme northwestern corner of the state. The Phoenix and Tucson metropolitan areas are served by public bus transit systems. Greyhound Lines serves Phoenix, Tucson, Flagstaff, Yuma, and several smaller communities statewide. A light rail system, called Valley Metro Rail, was completed in December 2008; it connects Central Phoenix with the nearby cities of Mesa and Tempe. In Tucson, the Sun Link streetcar system travels through the downtown area, connecting the main University of Arizona campus with Mercado San Agustin on the western edge of downtown Tucson. Sun Link, loosely based on the Portland Streetcar, launched in July 2014. Amtrak Southwest Chief route serves the northern part of the state, stopping at Winslow, Flagstaff, Williams and Kingman. Airports with regularly scheduled commercial flights include: Phoenix Sky Harbor International Airport (IATA: PHX, ICAO: KPHX) in Phoenix (the state's largest airport and the major international airport); Tucson International Airport (IATA: TUS, ICAO: KTUS) in Tucson; Phoenix-Mesa Gateway Airport (IATA: AZA, ICAO: KIWA) in Mesa; Yuma International Airport (IATA: NYL, ICAO: KNYL) in Yuma; Prescott Municipal Airport (PRC) in Prescott; Flagstaff Pulliam Airport (IATA: FLG, ICAO: KFLG) in Flagstaff, and Grand Canyon National Park Airport (IATA: GCN, ICAO: KGCN, FAA: GCN), a small, but busy, single-runway facility providing tourist flights, mostly from Las Vegas.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17537313432835822, 0.3790322580645161, 0.23979591836734696, 0.14987244897959184]
+[0.026217228464419477, 0.056910569105691054, 0.035897435897435895, 0.02243589743589744]
+[0.10074626865671642, 0.21774193548387097, 0.13775510204081634, 0.0860969387755102]
+
+
+SBERT sim. Score: 0.441961407661438

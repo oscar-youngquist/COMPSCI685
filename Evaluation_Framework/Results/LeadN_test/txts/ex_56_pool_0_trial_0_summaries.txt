@@ -1,0 +1,21 @@
+Document:
+tennessee
+
+Intent:
+How is the government structured in this state?
+
+Input:
+Similar to the United States Federal Government, Tennessee's government has three parts. The governor is the only official who is elected statewide. The governor is supported by 22 cabinet-level departments, most headed by a commissioner who serves at the pleasure of the governor: The bicameral Legislative Branch, known as the Tennessee General Assembly, consists of the 33-member Senatorte and the 99-member House of Representatives. Constitutional officials in the legislative branch are elected by a joint session of the legislature. A number of local, circuit, and federal courts provide judicial services. The state had two earlier constitutions. Tennessee politics, like that of most US states, are dominated by the Republican and the Democratic parties. It also required both houses of state legislatures to be based on population for representation and not geographic districts such as counties. After decades in which urban populations had been underrepresented in many state legislatures, this significant ruling led to an increased (and proportional) prominence in state politics by urban and, eventually, suburban, legislators and statewide officeholders in relation to their population within the state. Tennessee's Constitution requires that each County have an elected Sheriff.
+\Predicted Summary:
+Tennessee ( (listen), locally ), officially the State of Tennessee, is a state in the southeastern United States. Tennessee is the 36th largest by area and the 16th most populous of the 50 states. It is bordered by eight states, with Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The Appalachian Mountains dominate the eastern part of the state, and the Mississippi River forms its western border. Nashville is the state's capital and largest city, with a 2019 population of 670,820 and a 2019 metro population of 1,934,317. Tennessee's second largest city is Memphis, which had a population of 651,073 and metro population of 1,346,045 in 2019. The state of Tennessee is rooted in the Watauga Association, a 1772 frontier pact generally regarded as the first constitutional government west of the Appalachians. What is now Tennessee was initially part of North Carolina, and later part of the Southwest Territory. Tennessee was admitted to the Union as the 16th state on June 1, 1796. Tennessee was the last state to leave the Union and join the Confederacy at the outbreak of the American Civil War in 1861. Occupied by Union forces from 1862, it was the first state to be readmitted to the Union at the end of the war.
+
+GT:
+Similar to the United States Federal Government, Tennessee's government has three parts. The Executive Branch is led by Tennessee's governor, who holds office for a four-year term and may serve a maximum of two consecutive terms. Unlike most states, the state does not elect the lieutenant governor directly; the Tennessee Senatorte elects its Speaker, who serves as lieutenant governor. The Executive Branch also includes several agencies, boards and commissions, some of which are under the auspices of one of the cabinet-level departments. The bicameral Legislative Branch, known as the Tennessee General Assembly, consists of the 33-member Senatorte and the 99-member House of Representatives. The highest court in Tennessee is the state Supreme Court. It has a chief justice and four associate justices. A number of local, circuit, and federal courts provide judicial services. Tennessee's current state constitution was adopted in 1870.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.42567567567567566, 0.2669491525423729, 0.32812500000000006, 0.20507812499999997]
+[0.07482993197278912, 0.04680851063829787, 0.05759162303664921, 0.035994764397905755]
+[0.23648648648648649, 0.1483050847457627, 0.18229166666666666, 0.11393229166666669]
+
+
+SBERT sim. Score: 0.6261721849441528

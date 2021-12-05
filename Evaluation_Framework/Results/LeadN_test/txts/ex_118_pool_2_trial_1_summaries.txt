@@ -1,0 +1,21 @@
+Document:
+florida
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The state government consists of three separate branches: judicial, executive, and legislative. The legislature enacts bills, which, if signed by the governor, become law. The Florida Legislature comprises the Florida Senatorte, which has 40 members, and the Florida House of Representatives, which has 120 members. The current governor of Florida is Ron DeSantis.The Florida Supreme Court consists of a chief justice and six justices. In 1970, Democrats took the governorship and the open US Senatorte seat, and maintained dominance for years. Because of this, the area has consistently voted as one of the most Democratic areas of the state. Reapportionment following the 2010 United States Census gave the state two more seats in the House of Representatives. The political make-up of congressional and legislative districts has enabled Republicans to control the governorship and most statewide elective offices, and 17 of the state's 27 seats in the 2012 House of Representatives. In the 2010 elections, Republicans solidified their dominance statewide, by winning the governor's mansion, and maintaining firm majorities in both houses of the state legislature. These have become known as the Fair District Amendments. Each school district has an elected Board of Education that sets policy, budget, goals, and approves expenditures.
+\Predicted Summary:
+Florida ( (listen), Spanish pronunciation: [floˈɾiða]) is a state located in the southeastern region of the United States. With a population of over 21 million, Florida is the third-most populous and the 22nd-most extensive of the 50 United States. The state is bordered to the west by the Gulf of Mexico, to the northwest by Alabama, to the north by Georgia, to the east by the Atlantic Ocean, and to the south by the Straits of Florida. The state's capital is Tallahassee and its most populous municipality is Jacksonville. The Miami metropolitan area, with a population of almost 6.2 million, is the most populous urban area in Florida and the seventh-most populous in the United States. Other urban areas in the state with a population of more than one million are Tampa Bay, Orlando, and Jacksonville. Florida's $1.0 trillion economy is the fourth-largest of any US state, and if it were a country, Florida would be the 16th-largest economy in the world. The first European contact was made in 1513 by Spanish explorer Juan Ponce de León, who called it la Florida ([la floˈɾiða] "the land of flowers") upon landing there. At various points in its colonial history, Florida was administered by Spain and Great Britain. Florida was admitted as the 27th state on March 3, 1845. Florida was the principal location of the Seminole Wars (1816 – 1858), the longest and most extensive of Indian Wars in United States history. Florida declared its secession from the Union on January 10, 1861, and was one of the seven original Confederate States.
+
+GT:
+The basic structure, duties, function, and operations of the government of the State of Florida are defined and established by the Florida Constitution, which establishes the basic law of the state and guarantees various rights and freedoms of the people. The state government consists of three separate branches: judicial, executive, and legislative. The Florida Legislature comprises the Florida Senatorte, which has 40 members, and the Florida House of Representatives, which has 120 members. The current governor of Florida is Ron DeSantis.The Florida Supreme Court consists of a chief justice and six justices. Since the development of the federal NASA Merritt Island launch sites on Cape Canaveral (most notably Kennedy Space Center) in 1962, Florida has developed a sizable aerospace industry. There are 24 military bases in the state, housing three Unified Combatant Commands; United States Central Command in Tampa, United States Southern Command in Doral, and United States Special Operations Command in Tampa.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.43506493506493504, 0.2454212454212454, 0.3138173302107728, 0.196135831381733]
+[0.10457516339869281, 0.058823529411764705, 0.07529411764705883, 0.047058823529411764]
+[0.2727272727272727, 0.15384615384615385, 0.19672131147540986, 0.12295081967213115]
+
+
+SBERT sim. Score: 0.49422600865364075

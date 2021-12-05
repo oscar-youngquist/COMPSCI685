@@ -1,0 +1,21 @@
+Document:
+kansas
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+By 2015, Kansas was one of the most productive agricultural states, producing high yields of wheat, corn, sorghum, and soybeans. The eastern two-thirds of the state (especially the northeastern portion) has a humid continental climate, with cool to cold winters and hot, often humid summers. Some features of all three climates can be found in most of the state, with droughts and changeable weather between dry and humid not uncommon, and both warm and cold spells in the winter. Western Kansas is as sunny as parts of California and Arizona. Kansas's record high of 121 °F (49.4 °C) ties with North Dakota for the fifth-highest record high in an American state, behind California (134 °F or 56.7 °C), Arizona (128 °F or 53.3 °C), Nevada (125 °F or 51.7 °C), and New Mexico (122 °F or 50 °C). The cities of Olathe, Shawnee, De Soto and Gardner have some of the state's fastest growing populations. By far, the most significant agricultural crop in the state is wheat. The state's economy is also heavily influenced by the aerospace industry. Kansas also has the country's third largest state highway system after Texas and California. Since the mid-20th century, Kansas has remained one of the most socially conservative states in the nation.
+\Predicted Summary:
+Kansas ( (listen)) is a US state in the Midwestern United States. Its capital is Topeka and its largest city is Wichita. Kansas is bordered by Nebraska to the north Kansas is named after the Kansas River, which in turn was named after the Kansa Native Americans who lived along its banks. The tribe's name (natively kką:ze) is often said to mean "people of the (south) wind" although this was probably not the term's original meaning. For thousands of years, what is now Kansas was home to numerous and diverse Native American tribes. Tribes in the eastern part of the state generally lived in villages along the river valleys. Tribes in the western part of the state were semi-nomadic and hunted large herds of bison. Kansas was first settled by Americans in 1827 with the establishment of Fort Leavenworth. The pace of settlement accelerated in the 1850s, in the midst of political wars over the slavery debate. When it was officially opened to settlement by the US government in 1854 with the Kansas–Nebraska Act, abolitionist Free-Staters from New England and pro-slavery settlers from neighboring Missouri rushed to the territory to determine whether Kansas would become a free state or a slave state.
+
+GT:
+According to the Köppen climate classification, Kansas's climate can be characterized in terms of three types: it has humid continental, semi-arid steppe, and humid subtropical. Chinook winds in the winter can warm western Kansas all the way into the 80 degrees Fahrenheit (27 degrees Celsius) range. Routes 83 and 81, as well as the southwestern portion of the state along and south of US 50, reach 90 °F (32 °C) or above on most days of June, July, and August. As of 2011, 35.0% of Kansas's population younger than one year of age belonged to minority groups (i.e., did not have two parents of non-Hispanic white ancestry). Located midway between Kansas City, Topeka, and Wichita in the heart of the Bluestem Region of the Flint Hills, the city of Emporia has several nationally registered historic places and is the home of Emporia State University, well known for its Teachers College. Kansas has been the setting of many award-winning and popular American films, as well as being the home of some of the oldest operating cinemas in the world.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3279569892473118, 0.2932692307692308, 0.3096446700507614, 0.1935279187817259]
+[0.04864864864864865, 0.043478260869565216, 0.04591836734693878, 0.028698979591836735]
+[0.1774193548387097, 0.15865384615384615, 0.16751269035532995, 0.10469543147208123]
+
+
+SBERT sim. Score: 0.47837257385253906

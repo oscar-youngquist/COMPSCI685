@@ -1,0 +1,21 @@
+Document:
+missouri
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The agriculture products of the state are beef, soybeans, pork, dairy products, hay, corn, poultry, sorghum, cotton, rice, and eggs. Missouri is ranked 6th in the nation for the production of hogs and 7th for cattle. Missouri is ranked in the top five states in the nation for production of soy beans, and it is ranked fourth in the nation for the production of rice. According to the Missouri Partnership, Missouri's agriculture industry contributes $33 billion in GDP to Missouri's economy, and generates $88 billion in sales and more than 378,000 jobs. Missouri also has a growing science, agricultural technology, and biotechnology field. Tourism, services, and wholesale/retail trade follow manufacturing in importance—tourism benefits from the many rivers, lakes, caves, parks, etc., throughout the state.
+\Predicted Summary:
+Missouri is a state in the Midwestern United States. With more than six million residents, it is the 18th-most populous state of the country. The largest urban areas are St. Louis, Kansas City, Springfield and Columbia; the capital is Jefferson City. The state is the 21st-most extensive in area. Missouri is bordered by eight states (tied for the most with Tennessee): Iowa to the north, Illinois, Kentucky and Tennessee (via the Mississippi River) to the east, Arkansas to the south and Oklahoma, Kansas and Nebraska to the west. In the south are the Ozarks, a forested highland, providing timber, minerals, and recreation. The Missouri River, after which the state is named, flows through the center of the state into the Mississippi River, which makes up Missouri's eastern border.
+
+GT:
+Major industries include aerospace, transportation equipment, food processing, chemicals, printing/publishing, electrical equipment, light manufacturing, financial services and beer. The agriculture products of the state are beef, soybeans, pork, dairy products, hay, corn, poultry, sorghum, cotton, rice, and eggs. Missouri is ranked 6th in the nation for the production of hogs and 7th for cattle. Missouri is ranked in the top five states in the nation for production of soy beans, and it is ranked fourth in the nation for the production of rice. In 2001, there were 108,000 farms, the second-largest number in any state after Texas. Missouri actively promotes its rapidly growing wine industry. According to the Missouri Partnership, Missouri's agriculture industry contributes $33 billion in GDP to Missouri's economy, and generates $88 billion in sales and more than 378,000 jobs. Missouri produces the most lead of all the states. Missouri also ranks first or near first in the production of lime, a key ingredient in Portland cement.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2787878787878788, 0.3511450381679389, 0.31081081081081086, 0.19425675675675677]
+[0.09146341463414634, 0.11538461538461539, 0.10204081632653061, 0.06377551020408162]
+[0.16363636363636364, 0.20610687022900764, 0.18243243243243243, 0.11402027027027026]
+
+
+SBERT sim. Score: 0.6332736015319824

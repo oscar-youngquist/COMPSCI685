@@ -1,0 +1,21 @@
+Document:
+tennessee
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Tennessee's major industries include agriculture, manufacturing, and tourism. Poultry, soybeans, and cattle are the state's primary agricultural products, and major manufacturing exports include chemicals, transportation equipment, and electrical equipment. Major outputs for the state include textiles, cotton, cattle, and electrical power. The state's sales and use tax rate for most items is 7%, the second-highest in the nation, along with Mississippi, Rhode Island, New Jersey, and Indiana. Tourism contributes billions of dollars every year to the state's economy, and Tennessee is ranked among the Top 10 destinations in the nation. Tourism-generated jobs for the state reached 152,900, a 2.8% increase.
+\Predicted Summary:
+Tourism-generated jobs for the state reached 152,900, a 2.8% increase. The state of Tennessee is rooted in the Watauga Association, a 1772 frontier pact generally regarded as the first constitutional government west of the Appalachians. The FedEx St. Jude Classic is a PGA Tour golf tournament held at Memphis since 1958. This region of Tennessee is characterized by the high mountains and rugged terrain of the western Blue Ridge Mountains, which are subdivided into several subranges, namely the Great Smoky Mountains, the Bald Mountains, the Unicoi Mountains, the Unaka Mountains and Roan Highlands, and the Iron Mountains. Thousands of former slaves ended up fighting on the Union side, nearly 200,000 in total across the South. Twenty percent of Tennesseans were born outside the South in 2008, compared to a figure of 13.5% in 1990. The meaning and origin of the word are uncertain.
+
+GT:
+Major outputs for the state include textiles, cotton, cattle, and electrical power. Tennessee has more than 82,000 farms, roughly 59 percent of which accommodate beef cattle. Although cotton was an early crop in Tennessee, large-scale cultivation of the fiber did not begin until the 1820s with the opening of the land between the Tennessee and Mississippi Rivers. Soybeans are also heavily planted in West Tennessee, focusing on the northwest corner of the state. Large corporations with headquarters in Tennessee include FedEx, AutoZone and International Paper, all based in Memphis; Pilot Corporation and Regal Entertainment Group, based in Knoxville; Eastman Chemical Company, based in Kingsport; Hospital Corporation of America and Caterpillar Financial, based in Nashville; and Unum, based in Chattanooga. Tennessee is also a major hub for the automotive industry. Four automobile manufacturers have factories in Tennessee: Nissan in Smyrna, General Motors in Spring Hill, Van Hool in Morristown, and Volkswagen in Chattanooga. Other major manufacturers include a $2 billion polysilicon production facility owned by Wacker Chemie in Bradley County and a $1.2 billion polysilicon production facility owned by Hemlock Semiconductor in Clarksville. Tennessee is a right to work state, as are most of its Southern neighbors.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.24120603015075376, 0.32432432432432434, 0.276657060518732, 0.1729106628242075]
+[0.06060606060606061, 0.08163265306122448, 0.06956521739130435, 0.043478260869565216]
+[0.12562814070351758, 0.16891891891891891, 0.14409221902017288, 0.09005763688760807]
+
+
+SBERT sim. Score: 0.41074293851852417

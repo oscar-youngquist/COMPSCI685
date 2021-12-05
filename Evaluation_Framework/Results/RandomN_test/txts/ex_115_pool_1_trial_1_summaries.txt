@@ -1,0 +1,21 @@
+Document:
+michigan
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+The federal government subsidized the construction of interstate highways, which were intended to strengthen military access, but also allowed commuters and business traffic to travel the region more easily. These are augmented by several dozen short line railroads. The vast majority of rail service in Michigan is devoted to freight, with Amtrak and various scenic railroads the exceptions. Amtrak passenger rail services the state, connecting many southern and western Michigan cities to Chicago, Illinois. The Gerald R. Ford International Airport in Grand Rapids is the next busiest airport in the state, served by eight airlines to 23 destinations. Flint Bishop International Airport is the third largest airport in the state, served by four airlines to several primary hubs. Smaller regional and local airports are located throughout the state including on several islands.
+\Predicted Summary:
+The influential Motown Sound of the 1960s was led by a variety of individual singers and groups. Its capital is Lansing, and its largest city is Detroit. African-Americans, who came to Detroit and other northern cities in the Great Migration of the early 20th century, form a majority of the population of the city of Detroit and of other cities, including Flint and Benton Harbor. Michigan Agricultural College (1855), now Michigan State University in East Lansing, was founded as the pioneer land-grant college, a model for those authorized under the Morrill Act (1862). The surface on either side of this range is rugged. Michigan musicians include Bill Haley & His Comets, The Supremes, The Marvelettes, The Temptations, The Four Tops, Stevie Wonder, Marvin Gaye "The Prince of Soul", Smokey Robinson and the Miracles, Aretha Franklin, Mary Wells, Tommy James and the Shondells, ? The state averages 30 days of thunderstorm activity per year. The Mackinac Bridge connects the peninsulas.
+
+GT:
+Michigan has nine international road crossings with Ontario, Canada: Michigan is served by four Class I railroads: the Canadian National Railway, the Canadian Pacific Railway, CSX Transportation, and the Norfolk Southern Railway. Amtrak passenger rail services the state, connecting many southern and western Michigan cities to Chicago, Illinois. The Detroit Metropolitan Airport in the western suburb of Romulus, was in 2010 the 16th busiest airfield in North America measured by passenger traffic. The Gerald R. Ford International Airport in Grand Rapids is the next busiest airport in the state, served by eight airlines to 23 destinations. Flint Bishop International Airport is the third largest airport in the state, served by four airlines to several primary hubs.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.29310344827586204, 0.2138364779874214, 0.24727272727272728, 0.15454545454545454]
+[0.02608695652173913, 0.0189873417721519, 0.021978021978021976, 0.013736263736263736]
+[0.16379310344827586, 0.11949685534591195, 0.13818181818181818, 0.08636363636363635]
+
+
+SBERT sim. Score: 0.40364110469818115

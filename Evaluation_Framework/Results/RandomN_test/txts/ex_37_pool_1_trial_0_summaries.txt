@@ -1,0 +1,21 @@
+Document:
+oklahoma
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+The state is in the US Census' Southern region. The state ranks third in the nation for production of natural gas, is the 27th-most agriculturally productive state, and also ranks 5th in production of wheat. The state is the top manufacturer of tires in North America and contains one of the fastest-growing biotechnology industries in the nation. The state also has the second-greatest number of active drilling rigs, and it is even ranked fifth in crude oil reserves. Western ranchers, Native American tribes, Southern settlers, and eastern oil barons have shaped the state's cultural predisposition, and its largest cities have been named among the most underrated cultural destinations in the United States. Collegiate athletics are a popular draw in the state. The state has four schools that compete at the highest level of college sports, NCAA Division I.
+\Predicted Summary:
+The state also has the second-greatest number of active drilling rigs, and it is even ranked fifth in crude oil reserves. Broadcast television in Oklahoma began in 1949 when KFOR-TV (then WKY-TV) in Oklahoma City and KOTV-TV in Tulsa began broadcasting a few months apart. His accomplice, Terry Nichols, is serving life in prison without parole for helping plan the attack and prepare the explosive. In the period between 1866 and 1899, cattle ranches in Texas strove to meet the demands for food in eastern cities and railroads in Kansas promised to deliver in a timely manner. The Egyptian art collection at the Mabee-Gerrer Museum of Art in Shawnee is considered to be the finest Egyptian collection between Chicago and Los Angeles. Collegiate athletics are a popular draw in the state. Between the two, six airlines operate in Oklahoma.
+
+GT:
+Oklahoma is host to a diverse range of sectors including aviation, energy, transportation equipment, food processing, electronics, and telecommunications. The state is among the best in pre-kindergarten education, and the National Institute for Early Education Research rated it first in the United States with regard to standards, quality, and access to pre-kindergarten education in 2004, calling it a model for early childhood schooling. Residents of Oklahoma are associated with traits of Southern hospitality—the 2006 Catalogue for Philanthropy (with data from 2004) ranks Oklahomans 7th in the nation for overall generosity. The state has a rich history in ballet with five Native American ballerinas attaining worldwide fame. Oklahoma's centennial celebration was named the top event in the United States for 2007 by the American Bus Association, and consisted of multiple celebrations saving with the 100th anniversary of statehood on November 16, 2007. Oklahoma was the 21st-largest recipient of medical funding from the federal government in 2005, with health-related federal expenditures in the state totaling $75,801,364; immunizations, bioterrorism preparedness, and health education were the top three most funded medical items.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.24731182795698925, 0.3194444444444444, 0.2787878787878788, 0.17424242424242423]
+[0.021621621621621623, 0.027972027972027972, 0.02439024390243903, 0.015243902439024393]
+[0.13978494623655913, 0.18055555555555555, 0.15757575757575754, 0.09848484848484848]
+
+
+SBERT sim. Score: 0.39378106594085693

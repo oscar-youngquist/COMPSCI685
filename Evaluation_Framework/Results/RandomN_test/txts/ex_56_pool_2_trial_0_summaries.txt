@@ -1,0 +1,21 @@
+Document:
+connecticut
+
+Intent:
+How is the government structured in this state?
+
+Input:
+It is known as the "Constitution State", the "Nutmeg State", the "Provisions State", and the "Land of Steady Habits". This plan combined the Virginia Plan and the New Jersey Plan to form a bicameral legislature, a form copied by almost every state constitution since the adoption of the federal constitution. Variations of the bicameral legislature had been proposed by Virginia and New Jersey, but Connecticut's plan was the one that was in effect until the early 20th century, when Senatortors ceased to be selected by their state legislatures and were instead directly elected. The governor heads the executive branch. In addition to the Governor and Lieutenant Governor, there are four other executive officers named in the state constitution that are elected directly by voters: Secretary of the State, Treasurer, Comptroller, and Attorney General. The legislature is the General Assembly. Bills must pass each house in order to become law. There also must always be between 30 and 50 senators and 125 to 225 representatives. Locally elected representatives also develop Local ordinances to govern cities and towns. The state is divided into 169 towns which serve as the fundamental political jurisdictions. The state is also divided into nine regional councils of government defined by the state Office of Planning and Management, which facilitate regional planning and coordination of services between member towns.
+\Predicted Summary:
+J. P. Morgan began financing the major New England railroads in the 1890s, dividing territory so that they would not compete. At the opposite extreme, many of the coastal towns have areas that are less than 20 feet (6 m) above sea level. There are numerous other terms coined in print but not in use, such as "Connecticotian" (Cotton Mather in 1702) and "Connecticutensian" (Samuel Peters in 1781). The war led to the development of fast clippers that helped extend the reach of New England merchants to the Pacific and Indian oceans. The Connecticut and New Haven colonies established documents of Fundamental Orders, considered the first constitutions in America. Hartford Public High School (1638) is the third-oldest secondary school in the nation after the Collegiate School (1628) in Manhattan and the Boston Latin School (1635). However, as the war became a crusade to end slavery, many Democrats (especially Irish Catholics) pulled back. Dutch fur traders then sailed up the Connecticut River, which they called Versche Rivier ("Fresh River"), and built a fort at Dutch Point in Hartford that they named "House of Hope" (Dutch: Huis van Hoop). As of the 2010 United States Census, Connecticut's race and ethnic percentages were: In the summer and fall of 2016, Connecticut experienced a drought in many parts of the state, causing some water-use bans. The highest point is just east of where Connecticut, Massachusetts, and New York meet (42°3′ N, 73°29′ W), on the southern slope of Mount Frissell, whose peak lies nearby in Massachusetts.
+
+GT:
+Connecticut does not have county government, unlike all other states except Rhode Island. Connecticut county governments were mostly eliminated in 1960, with the exception of sheriffs elected in each county. The judicial system is divided into judicial districts at the trial-court level which largely follow the old county lines. Connecticut shares with the rest of New England a governmental institution called the New England town. The state is divided into 169 towns which serve as the fundamental political jurisdictions. The state is also divided into nine regional councils of government defined by the state Office of Planning and Management, which facilitate regional planning and coordination of services between member towns. Each region has an administrative body made up chief executive officers of the member towns.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.36507936507936506, 0.17898832684824903, 0.24020887728459533, 0.1501305483028721]
+[0.056, 0.02734375, 0.03674540682414699, 0.022965879265091867]
+[0.21428571428571427, 0.10505836575875487, 0.1409921671018277, 0.08812010443864231]
+
+
+SBERT sim. Score: 0.40289822220802307

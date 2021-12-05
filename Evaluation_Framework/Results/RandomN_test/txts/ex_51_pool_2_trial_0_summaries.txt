@@ -1,0 +1,21 @@
+Document:
+missouri
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Many from Virginia, Kentucky and Tennessee settled in the Boonslick area of Mid-Missouri. Missouri's culture blends elements from the Midwestern and Southern United States. The musical styles of ragtime, Kansas City jazz and St. Louis blues developed in Missouri. Beginning before 1000 CE, there arose the complex Mississippian culture, whose people created regional political centers at present-day St. Louis and across the Mississippi River at Cahokia, near present-day Collinsville, Illinois. The Mississippian culture left mounds throughout the middle Mississippi and Ohio river valleys, extending into the southeast and the upper river. A notable Cherokee Indian population exists in Missouri. Many well-known musicians were born or have lived in Missouri. Country singers from Missouri include Perryville native Chris Janson, New Franklin native Sara Evans, Cantwell native Ferlin Husky, West Plains native Porter Wagoner, Tyler Farr of Garden City, and Mora native Leroy Van Dyke, along with bluegrass musician Rhonda Vincent, a native of Greentop.
+\Predicted Summary:
+Several film versions of Mark Twain's novels The Adventures of Tom Sawyer and The Adventures of Huckleberry Finn have been made. Nineteenth-century German immigrants created the wine industry along the Missouri River and the beer industry in St. Louis. Females were approximately 51.4 percent of the population. Missouri state law permits restaurants seating less than 50 people, bars, bowling alleys, and billiard parlors to decide their own smoking policies, without limitation. The tensions over slavery chiefly had to do with the future of the state and nation. According to the Centers for Disease Control and Prevention, in 2008 Missouri had the fourth highest percentage of adult smokers among USstates, at 24.5%. While many German immigrants were strongly anti-slavery, many Irish immigrants living in cities were pro-slavery, fearing that liberating African-American slaves would create a glut of unskilled labor, driving wages down. Missouri was widely regarded as a bellwether in American politics, often making it a swing state. Among the other denominations there are approximately 93,000 Mormons in 253 congregations, 25,000 Jewish adherents in 21 synagogues, 12,000 Muslims in 39 masjids, 7,000 Buddhists in 34 temples, 20,000 Hindus in 17 temples, 2,500 Unitarians in nine congregations, 2,000 of the Baháʼí Faith in 17 temples, five Sikh temples, a Zoroastrian temple, a Jain temple and an uncounted number of neopagans.
+
+GT:
+The Kansas City Symphony and the St. Louis Symphony Orchestra are the state's major orchestras. The latter is the nation's second-oldest symphony orchestra and achieved prominence in recent years under conductor Leonard Slatkin. Branson is well-known for its music theaters, most of which bear the name of a star performer or musical group. Missouri is the native state of Mark Twain. His novels The Adventures of Tom Sawyer and The Adventures of Huckleberry Finn are set in his boyhood hometown of Hannibal. Novelist Daniel Woodrell, known for depicting life in the Missouri Ozarks, was born in Springfield and lives in West Plains.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.4528301886792453, 0.20689655172413793, 0.28402366863905326, 0.17751479289940827]
+[0.17142857142857143, 0.07792207792207792, 0.10714285714285714, 0.06696428571428571]
+[0.22641509433962265, 0.10344827586206896, 0.14201183431952663, 0.08875739644970414]
+
+
+SBERT sim. Score: 0.44195786118507385

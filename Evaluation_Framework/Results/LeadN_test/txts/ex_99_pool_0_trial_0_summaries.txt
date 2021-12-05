@@ -1,0 +1,21 @@
+Document:
+rhode_island
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Rhode Island has been the first in a number of initiatives. Newport Harbor, in particular, holds many pleasure boats. Since its construction in 1980, it has been featured in several movies and television shows, and has come to be recognized as a cultural landmark by many locals. Rhode Island has two professional sports teams, both of which are top-level minor league affiliates for teams in Boston. From 1930 to 1983, America's Cup races were sailed off Newport, and the extreme-sport X Games and Gravity Games were founded and hosted in the state's capital city. The Newport Casino is a National Historic Landmark building complex that presently houses the International Tennis Hall of Fame and features an active grass-court tennis club.
+\Predicted Summary:
+Rhode Island ( (listen), like road) is a state in the New England region of the United States. It is the smallest US state by area and the seventh least populous (1,059,361 as of 2019), but it is also the second most densely populated behind New Jersey. The state takes its name from Rhode Island; however, most of the state is located on the mainland. The state has land borders with Connecticut to the west, Massachusetts to the north and east, and the Atlantic Ocean to the south via Rhode Island Sound and Block Island Sound. It also shares a small maritime border with New York. Providence is the state capital and most populous city in Rhode Island. On May 4, 1776, the Colony of Rhode Island and Providence Plantations was the first of the Thirteen Colonies to renounce its allegiance to the British Crown, and it was the fourth state to ratify the Articles of Confederation, doing so on February 9, 1778.
+
+GT:
+The East Bay Bike Path stretches from Providence to Bristol along the eastern shore of Narragansett Bay, while the Blackstone River Bikeway will eventually link Providence and Worcester. Some Rhode Islanders speak with the distinctive, non-rhotic, traditional Rhode Island accent that many compare to a cross between the New York City and Boston accents (e.g., "water" sounds like "watuh" [ˈwɔəɾə]). Rhode Island, like the rest of New England, has a tradition of clam chowder. A culinary tradition in Rhode Island is the clam cake (also known as a clam fritter outside of Rhode Island), a deep fried ball of buttery dough with chopped bits of clam inside. Submarine sandwiches are called grinders throughout Rhode Island, and the Italian grinder is especially popular, made with cold cuts such as ham, prosciutto, capicola, salami, and Provolone cheese. Additionally, the large number of beaches in Washington County lures many Rhode Islanders south for summer vacation.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.35714285714285715, 0.3353658536585366, 0.3459119496855346, 0.21619496855345915]
+[0.08496732026143791, 0.07975460122699386, 0.08227848101265822, 0.051424050632911396]
+[0.16883116883116883, 0.15853658536585366, 0.16352201257861637, 0.10220125786163521]
+
+
+SBERT sim. Score: 0.4672345221042633

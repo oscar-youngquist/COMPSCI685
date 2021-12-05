@@ -1,0 +1,21 @@
+Document:
+georgia
+
+Intent:
+What drives the economy in this state?
+
+Input:
+If Georgia were a stand-alone country, it would be the 28th largest economy in the world, based on data from 2005. For the five years through November 2017, Georgia has been ranked the top state (number 1) in the nation to do business, and has been recognized as number 1 for business and labor climate in the nation, number 1 in business climate in the nation, number 1 in the nation in workforce training and as having a "Best in Class" state economic development agency. The state is the number one producer of pecans in the world, with the region around Albany in southwest Georgia being the center of Georgia's pecan production. Southern Congressmen have attracted major investment by the US military in the state. The leading area of energy consumption is the industrial sector because Georgia "is a leader in the energy-intensive wood and paper products industry". The state's other top markets are Savannah (95th largest), Augusta (115th largest), and Columbus (127th largest).
+\Predicted Summary:
+Unlike the federal government, but like many other US States, most of the executive officials who comprise the governor's cabinet are elected by the citizens of Georgia rather than appointed by the governor. In total, 12.65% (1,109,888) of Georgia's population age 5 and older spoke a mother language other than English. The Piedmont plateau extends from the foothills of the Blue Ridge south to the Fall Line, an escarpment to the coastal plain defining the state's southern region. In 1972, the state returned to Republicans as part of a landslide victory for Richard Nixon. Georgia Public Radio reaches nearly all of Georgia (with the exception of the Atlanta area, which is served by WABE). Political disfranchisement persisted through the mid-1960s, until after Congress passed the Voting Rights Act of 1965.
+
+GT:
+Atlanta has been the site of growth in finance, insurance, technology, manufacturing, real estate, service, logistics, transportation, film, communications, convention and trade show businesses and industries, while tourism is important to the economy. Atlanta is a global city, also called world city or sometimes alpha city or world center, as a city generally considered to be an important node in the global economic system. The Port of Savannah is the fourth largest seaport in the United States, importing and exporting a total of 2.3 million TEUs per year. Hartsfield–Jackson Atlanta International Airport moves over 650,000 tons of cargo annually through three cargo complexes (two million square feet of floor space). Southern Congressmen have attracted major investment by the US military in the state. The several installations include Moody Air Force Base, Fort Stewart, Hunter Army Airfield, Naval Submarine Base Kings Bay, Fort Benning, Robins Air Force Base, Fort Gordon, Marine Corps Logistics Base Albany, Dobbins Air Reserve Base, Coast Guard Air Station Savannah and Coast Guard Station Brunswick. These installations command numerous jobs and business for related contractors.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.18232044198895028, 0.24087591240875914, 0.20754716981132076, 0.12971698113207547]
+[0.016666666666666666, 0.022058823529411766, 0.0189873417721519, 0.011867088607594936]
+[0.09944751381215469, 0.13138686131386862, 0.11320754716981131, 0.07075471698113207]
+
+
+SBERT sim. Score: 0.15384812653064728

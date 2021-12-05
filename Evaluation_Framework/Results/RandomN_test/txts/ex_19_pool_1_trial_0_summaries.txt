@@ -1,0 +1,21 @@
+Document:
+oregon
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+The 42° north parallel delineates the southern boundary with California and Nevada. Oregon's geographical center is further west than any of the other 48 contiguous states (although the westernmost point of the lower 48 states is in Washington). Beginning in the 1880s, the growth of railroads expanded the state's lumber, wheat, and other agricultural markets, and the rapid growth of its cities. Bend, near the geographic center of the state, is one of the ten fastest-growing metropolitan areas in the United States. Tourism is also a strong industry in the state. The state's coastal region produces significant tourism as well. The State currently collects the tax for TriMet and the Lane Transit District. Oregon was also the top moving destination in 2013, and the second-most popular destination in 2010 through 2012.
+\Predicted Summary:
+With an area of 98,381 square miles (254,810 km2), Oregon is slightly larger than the United Kingdom. According to Stewart, the name came from an engraver's error in a French map published in the early 18th century, on which the Ouisiconsink (Wisconsin) River was spelled "Ouaricon-sint", broken on two lines with the -sint below, so there appeared to be a river flowing to the west named "Ouaricon". In 2010, biotechnology giant Genentech opened a $400 million facility in Hillsboro to expand its production capabilities. During the prehistoric period, the Willamette Valley region was flooded after the collapse of glacial dams from then Lake Missoula, located in what would later become Montana. During Oregon's history, it has adopted many electoral reforms proposed during the Progressive Era, through the efforts of William S. U'Ren and his Direct Legislation League. The United States District Court for the District of Oregon hears federal cases in the state. In recorded history, mentions of the land date to as early as the 16th century. Salem is home to two private schools: Willamette University (the state's oldest, established during the provisional period) and Corban University.
+
+GT:
+Starting in 1842–43, the Oregon Trail brought many new American settlers to the Oregon Country. Settlement increased with the Donation Land Claim Act of 1850 and the forced relocation of the native population to Indian reservations in Oregon. Beginning in the 1880s, the growth of railroads expanded the state's lumber, wheat, and other agricultural markets, and the rapid growth of its cities. In southern Oregon, Medford is a rapidly growing metro area and is home to the Rogue Valley International-Medford Airport, the state's third-busiest airport. Tourism is centered on the state's natural features – mountains, forests, waterfalls, rivers, beaches and lakes, including Crater Lake National Park, Multnomah Falls, the Painted Hills, the Deschutes River, and the Oregon Caves. The State currently collects the tax for TriMet and the Lane Transit District.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.41911764705882354, 0.2923076923076923, 0.34441087613293053, 0.21525679758308158]
+[0.06666666666666667, 0.04639175257731959, 0.05471124620060791, 0.03419452887537994]
+[0.19852941176470587, 0.13846153846153847, 0.1631419939577039, 0.10196374622356494]
+
+
+SBERT sim. Score: 0.45271220803260803

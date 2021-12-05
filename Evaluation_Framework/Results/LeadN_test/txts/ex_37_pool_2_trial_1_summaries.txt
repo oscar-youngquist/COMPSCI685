@@ -1,0 +1,21 @@
+Document:
+vermont
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Vermont is the second-least-populated US state and the sixth-smallest by area of the 50 US states. Ultimately, Massachusetts, New Hampshire and New York all claimed this frontier area. A 2010 University of Connecticut study reported that Vermont, Rhode Island, and New Hampshire tied as the most costly states in the US for manufacturers. Vermont is one of four states that were once independent nations (Texas, California, and Hawaii are the others). The previous three were Massachusetts, Connecticut, Iowa. This is better than most other states. Most states have a higher bias.
+\Predicted Summary:
+Vermont ( (listen)) is a northeastern state in the New England region of the United States. It borders the states of Massachusetts to the south, New Hampshire to the east, and New York to the west, and the Canadian province of Quebec to the north. Vermont is the only state in New England that does not border the Atlantic Ocean. Vermont is the second-least-populated US state and the sixth-smallest by area of the 50 US states. The state capital is Montpelier, the least-populous state capital in the United States. The most-populous city, Burlington, is the least-populous city to be the most-populous city in a state. For some 12,000 years, indigenous peoples inhabited this area. The historically competitive tribes of the Algonquian-speaking Abenaki and Iroquoian-speaking Mohawk were active in the area at the time of European encounter.
+
+GT:
+Vermont has a humid continental climate, with muddy springs, in general a mild early summer, hot Augusts; it has colorful autumns: Vermont's hills reveal red, orange, and (on sugar maples) gold foliage as cold weather approaches. In 2009, Vermont became the first state to legalize same-sex marriage, unforced by court challenge or ruling. On January 22, 2018, Vermont became the first of the United States to legalize cannabis for recreational use by legislative action, and the ninth state in the United States to legalize marijuana for medical purposes. An increasingly aging population is expected to improve the position of aging services and health care in the state economy. In 2007, Vermont was the 17th highest state in the nation for mortgage affordability. Some of the largest ski areas in New England are located in Vermont. Vermont festivals include the Vermont Maple Festival, Festival on the Green, The Vermont Dairy Festival in Enosburg Falls, the Apple Festival (held each Columbus Day Weekend), the Marlboro Music Festival, and the Vermont Brewers Festival. Winter sports are popular in New England, and Vermont's winter sports attractions are a big part of Vermont tourism.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.296875, 0.3931034482758621, 0.33827893175074186, 0.21142433234421365]
+[0.08900523560209424, 0.11805555555555555, 0.10149253731343282, 0.06343283582089551]
+[0.17708333333333334, 0.23448275862068965, 0.20178041543026706, 0.1261127596439169]
+
+
+SBERT sim. Score: 0.5147464275360107

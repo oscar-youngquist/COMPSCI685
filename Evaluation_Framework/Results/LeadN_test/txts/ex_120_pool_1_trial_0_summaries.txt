@@ -1,0 +1,21 @@
+Document:
+kentucky
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Only Missouri and Tennessee, both of which border eight states, touch more. The other three states officially called "commonwealths" are Massachusetts, Pennsylvania, and Virginia. In 2014 Kentucky was found to be the most affordable US state in which to live. As the state is bounded by two of the largest rivers in North America, water transportation has historically played a major role in Kentucky's economy. This area is often referred to as the Golden triangle as it contains a majority of the state's wealth, population, population growth, and economic growth, it is also where most of the state's largest cities by population are located. Only three US states have capitals with smaller populations than Kentucky's Frankfort (pop. The state is known for bourbon and whiskey distilling, tobacco, horse racing, and college basketball.
+\Predicted Summary:
+Kentucky (US: (listen) kən-TUK-ee, UK: ken-), officially the Commonwealth of Kentucky, is a state in the Southern United States, bordered by Illinois, Indiana, and Ohio to the north; West Virginia and Virginia to the east; Tennessee to the south; and Missouri to the west. The bluegrass region in the central part of the commonwealth contains the commonwealth's capital, Frankfort, as well as its two largest cities, Louisville and Lexington. Together they comprise more than 20% of the commonwealth's population.  Kentucky is the 37th most extensive and the 26th most populous of the 50 United States. Kentucky was admitted into the Union as the 15th state on June 1, 1792, splitting from Virginia in the process. It is known as the "Bluegrass State", a nickname based on Kentucky bluegrass, a species of grass found in many of its pastures, which has supported the thoroughbred horse industry in the center of the state. It is home to the world's longest cave system: Mammoth Cave National Park, as well as the greatest length of navigable waterways and streams in the contiguous United States and the two largest man-made lakes east of the Mississippi River.
+
+GT:
+The state is also known for horse racing, bourbon, moonshine, coal, "My Old Kentucky Home" historic state park, automobile manufacturing, tobacco, bluegrass music, college basketball, Louisville Slugger baseball bats, Kentucky Fried Chicken, and the Kentucky colonel. Early in its history, Kentucky gained recognition for its excellent farming conditions. Kentucky has also been a long-standing major center of the tobacco industry – both as a center of business and tobacco farming. Kentucky produces 95% of the world's supply of bourbon whiskey, and the number of barrels of bourbon being aged in Kentucky (more than 5.7 million) exceeds the state's population. As of October 2019, the state's unemployment rate is 4.3%. In 2014 Kentucky was found to be the most affordable US state in which to live.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.4846153846153846, 0.3181818181818182, 0.38414634146341464, 0.24009146341463414]
+[0.09302325581395349, 0.06091370558375635, 0.07361963190184048, 0.046012269938650305]
+[0.2076923076923077, 0.13636363636363635, 0.1646341463414634, 0.10289634146341463]
+
+
+SBERT sim. Score: 0.6695618629455566

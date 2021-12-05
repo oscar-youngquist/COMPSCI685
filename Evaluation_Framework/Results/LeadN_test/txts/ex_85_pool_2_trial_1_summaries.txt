@@ -1,0 +1,21 @@
+Document:
+new_jersey
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+This toll road, which overlaps with Interstate 95 for much of its length, carries traffic between Delaware and New York, and up and down the East Coast in general. It connects Fort Lee, New Jersey to the Washington Heights neighborhood of Upper Manhattan, and carries Interstate 95 and US Route 1/9 across the Hudson River. The adjacent Newark Airport railroad station provides access to Amtrak and NJ Transit trains along the Northeast Corridor Line. NJ Transit operates extensive rail and bus service throughout the state. Today, NJ Transit has eleven commuter rail lines that run through different parts of the state. NJ Transit also operates three light rail systems in the state. The PATH is a rapid transit system consisting of four lines operated by the Port Authority of New York and New Jersey.
+\Predicted Summary:
+New Jersey is a state in the Mid-Atlantic region of the Northeastern United States. It is bordered on the north and east by the state of New York; on the east, southeast, and south by the Atlantic Ocean; on the west by the Delaware River and Pennsylvania; and on the southwest by Delaware Bay and the State of Delaware. New Jersey is the fourth-smallest state by area but the 11th-most populous, with 8,882,190 residents as of 2019 and an area of 8,722.58 square miles, making it the most densely populated of the 50 US states. The capital is Trenton, while the largest city is Newark. All but one county in New Jersey lie within the combined statistical areas of New York City or Philadelphia; consequently, the state's largest metropolitan area falls within Greater New York. New Jersey was first inhabited by Native Americans for at least 2,800 years, with the Lenape being the dominant group by the time Europeans arrived in the early 17th century. Dutch and the Swedish colonists founded the first European settlements in the state.
+
+GT:
+Newark Liberty International Airport (EWR) is one of the busiest airports in the United States. NJ Transit operates extensive rail and bus service throughout the state. NJ Transit also operates three light rail systems in the state. The Hudson-Bergen Light Rail connects Bayonne to North Bergen, through Hoboken and Jersey City. The Newark Light Rail is partially underground, and connects downtown Newark with other parts of the city and its suburbs, Belleville and Bloomfield. The PATH is a rapid transit system consisting of four lines operated by the Port Authority of New York and New Jersey. Amtrak operates numerous long-distance passenger trains in New Jersey, both to and from neighboring states and around the country. Some private bus carriers still remain in New Jersey. New York Waterway has ferry terminals at Belford, Jersey City, Hoboken, Weehawken, and Edgewater, with service to different parts of Manhattan. The Delaware River and Bay Authority operates the Cape May–Lewes Ferry on Delaware Bay, carrying both passengers and vehicles between New Jersey and Delaware.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.37209302325581395, 0.3422459893048128, 0.35654596100278546, 0.22284122562674094]
+[0.1286549707602339, 0.11827956989247312, 0.12324929971988796, 0.07703081232492998]
+[0.19186046511627908, 0.17647058823529413, 0.18384401114206128, 0.1149025069637883]
+
+
+SBERT sim. Score: 0.5094232559204102

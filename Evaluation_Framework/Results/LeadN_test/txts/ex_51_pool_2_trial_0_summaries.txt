@@ -1,0 +1,21 @@
+Document:
+missouri
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Many from Virginia, Kentucky and Tennessee settled in the Boonslick area of Mid-Missouri. Missouri's culture blends elements from the Midwestern and Southern United States. The musical styles of ragtime, Kansas City jazz and St. Louis blues developed in Missouri. Beginning before 1000 CE, there arose the complex Mississippian culture, whose people created regional political centers at present-day St. Louis and across the Mississippi River at Cahokia, near present-day Collinsville, Illinois. The Mississippian culture left mounds throughout the middle Mississippi and Ohio river valleys, extending into the southeast and the upper river. A notable Cherokee Indian population exists in Missouri. Many well-known musicians were born or have lived in Missouri. Country singers from Missouri include Perryville native Chris Janson, New Franklin native Sara Evans, Cantwell native Ferlin Husky, West Plains native Porter Wagoner, Tyler Farr of Garden City, and Mora native Leroy Van Dyke, along with bluegrass musician Rhonda Vincent, a native of Greentop.
+\Predicted Summary:
+Missouri is a state in the Midwestern United States. With more than six million residents, it is the 18th-most populous state of the country. The largest urban areas are St. Louis, Kansas City, Springfield and Columbia; the capital is Jefferson City. The state is the 21st-most extensive in area. Missouri is bordered by eight states (tied for the most with Tennessee): Iowa to the north, Illinois, Kentucky and Tennessee (via the Mississippi River) to the east, Arkansas to the south and Oklahoma, Kansas and Nebraska to the west. In the south are the Ozarks, a forested highland, providing timber, minerals, and recreation. The Missouri River, after which the state is named, flows through the center of the state into the Mississippi River, which makes up Missouri's eastern border. Humans have inhabited the land now known as Missouri for at least 12,000 years. The Mississippian culture built cities and mounds, before declining in the 14th century.
+
+GT:
+The Kansas City Symphony and the St. Louis Symphony Orchestra are the state's major orchestras. The latter is the nation's second-oldest symphony orchestra and achieved prominence in recent years under conductor Leonard Slatkin. Branson is well-known for its music theaters, most of which bear the name of a star performer or musical group. Missouri is the native state of Mark Twain. His novels The Adventures of Tom Sawyer and The Adventures of Huckleberry Finn are set in his boyhood hometown of Hannibal. Novelist Daniel Woodrell, known for depicting life in the Missouri Ozarks, was born in Springfield and lives in West Plains.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.42452830188679247, 0.2830188679245283, 0.339622641509434, 0.21226415094339626]
+[0.10476190476190476, 0.06962025316455696, 0.08365019011406845, 0.05228136882129277]
+[0.24528301886792453, 0.16352201257861634, 0.1962264150943396, 0.12264150943396225]
+
+
+SBERT sim. Score: 0.4646366834640503

@@ -1,0 +1,21 @@
+Document:
+maryland
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Nearby supplies of natural resources along with railroads fostered its growth into a major manufacturing center. Mining other than construction materials is virtually limited to coal, which is located in the mountainous western part of the state. The state as a whole is heavily industrialized, with a booming economy and influential technology centers. Maryland has a large food-production sector. Agriculture is oriented to dairy farming (especially in foothill and piedmont areas) for nearby large city milksheads plus specialty perishable horticulture crops, such as cucumbers, watermelons, sweet corn, tomatoes, muskmelons, squash, and peas (Source:USDA Crop Profiles). Maryland's food-processing plants are the most significant type of manufacturing by value in the state.
+\Predicted Summary:
+Its computer industries are some of the most sophisticated in the United States, and the federal government has invested heavily in the area. Maryland is bounded on its north by Pennsylvania, on its west by West Virginia, on its east by Delaware and the Atlantic Ocean, and on its south, across the Potomac River, by West Virginia and Virginia. Georgetown University, the first Catholic University, was founded in 1789 in what was then part of Maryland. Amtrak trains, including the high-speed Acela Express serve Baltimore's Penn Station, BWI Airport, New Carrollton, and Aberdeen along the Washington, D.C. to Boston Northeast Corridor. Maryland has an area of 12,406.68 square miles (32,133.2 km2) and is comparable in overall area with Belgium [11,787 square miles (30,530 km2)]. The independent Maryland Transportation Authority maintains and operates the state's eight toll facilities. USDA plant hardiness zones in the state range from Zones 5 and 6 in the extreme western part of the state to Zone 7 in the central part, and Zone 8 around the southern part of the coast, the bay area, and parts of metropolitan Baltimore.
+
+GT:
+Maryland's economy benefits from the state's proximity to the federal government in Washington, D.C. with an emphasis on technical and administrative tasks for the defense/aerospace industry and bio-research laboratories, as well as staffing of satellite government headquarters in the suburban or exurban Baltimore/Washington area. Ft. Meade serves as the headquarters of the Defense Information Systems Agency, United States Cyber Command, and the National Security Agency/Central Security Service. In addition, a number of educational and medical research institutions are located in the state. In fact, the various components of The Johns Hopkins University and its medical research facilities are now the largest single employer in the Baltimore area. Altogether, white collar technical and administrative workers comprise 25 percent of Maryland's labor force, attributable in part to nearby Maryland being a part of the Washington Metro Area where the federal government office employment is relatively high. Manufacturing, while large in dollar value, is highly diversified with no sub-sector contributing over 20 percent of the total.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.4186046511627907, 0.37305699481865284, 0.3945205479452054, 0.2465753424657534]
+[0.10526315789473684, 0.09375, 0.09917355371900827, 0.06198347107438017]
+[0.19767441860465115, 0.17616580310880828, 0.18630136986301368, 0.11643835616438357]
+
+
+SBERT sim. Score: 0.5830653309822083

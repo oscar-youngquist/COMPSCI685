@@ -1,0 +1,21 @@
+Document:
+michigan
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+It also has 64,980 inland lakes and ponds. The federal government subsidized the construction of interstate highways, which were intended to strengthen military access, but also allowed commuters and business traffic to travel the region more easily. Detroit Metropolitan Airport is one of the nation's most recently expanded and modernized airports with six major runways, and large aircraft maintenance facilities capable of servicing and repairing a Boeing 747 and is a major hub for Delta Air Lines. The state's infrastructure gives it a competitive edge These are augmented by several dozen short line railroads. The vast majority of rail service in Michigan is devoted to freight, with Amtrak and various scenic railroads the exceptions. Amtrak passenger rail services the state, connecting many southern and western Michigan cities to Chicago, Illinois. There are plans for commuter rail for Detroit and its suburbs (see SEMCOG Commuter Rail). The Gerald R. Ford International Airport in Grand Rapids is the next busiest airport in the state, served by eight airlines to 23 destinations. Flint Bishop International Airport is the third largest airport in the state, served by four airlines to several primary hubs. Cherry Capital Airport is in Traverse City. Alpena County Regional Airport services Alpena and the northeastern lower peninsula. Smaller regional and local airports are located throughout the state including on several islands.
+\Predicted Summary:
+Michigan ( (listen)) is a state in the Great Lakes and Midwestern regions of the United States. Its name comes from the Ojibwe word mishigami, meaning "large water" or "large lake". With a population of approximately 10 million, Michigan is the tenth most populous state, the 11th most extensive state by area, and the largest by area east of the Mississippi River. Its capital is Lansing, and its largest city is Detroit. Metro Detroit is among the nation's most populous and largest metropolitan economies. Michigan is the only state to consist of two peninsulas. The Lower Peninsula is shaped like a mitten. The Upper Peninsula (often called "the U.P.") is separated from the Lower Peninsula by the Straits of Mackinac, a five-mile (8 km) channel that joins Lake Huron to Lake Michigan. The Mackinac Bridge connects the peninsulas. Michigan has the longest freshwater coastline of any political subdivision in the world, being bordered by four of the five Great Lakes, plus Lake Saint Clair. It also has 64,980 inland lakes and ponds. The area was first occupied by a succession of Native American tribes over thousands of years. Inhabited by Natives, Métis, and French explorers in the 17th century, it was claimed as part of New France colony.
+
+GT:
+Michigan is served by four Class I railroads: the Canadian National Railway, the Canadian Pacific Railway, CSX Transportation, and the Norfolk Southern Railway. The Detroit Metropolitan Airport in the western suburb of Romulus, was in 2010 the 16th busiest airfield in North America measured by passenger traffic. Flint Bishop International Airport is the third largest airport in the state, served by four airlines to several primary hubs. Cherry Capital Airport is in Traverse City. Alpena County Regional Airport services Alpena and the northeastern lower peninsula. MBS International Airport serves Midland, Bay City and Saginaw. Smaller regional and local airports are located throughout the state including on several islands.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3611111111111111, 0.18396226415094338, 0.24375000000000002, 0.15234375]
+[0.06542056074766354, 0.03317535545023697, 0.0440251572327044, 0.027515723270440252]
+[0.2037037037037037, 0.10377358490566038, 0.1375, 0.08593749999999999]
+
+
+SBERT sim. Score: 0.48893579840660095

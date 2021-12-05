@@ -1,0 +1,21 @@
+Document:
+connecticut
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+As of the 2010 Census, it has the highest per-capita income, Human Development Index (0.962), and median household income in the United States. Geographically the state is part of New England, and although its cultural history stems from the region, in the modern age large sections of it are increasingly connected to and associated with the tri-state area with New York and New Jersey. It is known as the "Constitution State", the "Nutmeg State", the "Provisions State", and the "Land of Steady Habits". This affected the agricultural economy in the state. This includes a natural increase since the last census of 67,427 (222,222 births minus 154,795 deaths) and an increase due to net migration of 41,718 people into the state. Most of western and southern Connecticut (particularly the Gold Coast) is strongly associated with New York City The state hosts several major sporting events.
+\Predicted Summary:
+Sikorsky Memorial Airport is located in Stratford and mostly services cargo, helicopter and private aviation. The southwestern border of Connecticut where it abuts New York State is marked by a panhandle in Fairfield County, containing the towns of Greenwich, Stamford, New Canaan, Darien, and parts of Norwalk and Wilton. On September 21, 1938, the most destructive storm in New England history struck eastern Connecticut, killing hundreds of people. These Fundamental Orders represent the framework for the first formal Connecticut state government written by a representative body in Connecticut. (Among the minor parties, the Libertarian Party and Green Party appeared in the Presidential-electors column in 2016, and drew, respectively, 2.96% and 1.39% of the vote.) Prescott Bush represented Connecticut in the US Senatorte from 1952 to 1963 According to the US Census 2006 American Community Survey, New Haven has the highest percentage of commuters who bicycle to work of any major metropolitan center on the East Coast.
+
+GT:
+As of the 2010 Census, it has the highest per-capita income, Human Development Index (0.962), and median household income in the United States. Connecticut's economic output in 2019 as measured by gross domestic product was $289 billion, up from $277.9 billion in 2018. According to a 2018 study by Phoenix Marketing International, Connecticut had the third-largest number of millionaires per capita in the United States, with a ratio of 7.75%. The median home sold in 2019 recorded a transaction amount of $260,000, up 0.4 percent from 2018. Finance, insurance and real estate was Connecticut's largest industry in 2018 as ranked by gross domestic product, generating $75.7 billion in GDP that year. Major financial industry employers include The Hartford, Travelers, Cigna, the Aetna subsidiary of CVS Health, Mass Mutual, People's United Financial, Bank of America, Realogy, Bridgewater Associates, GE Capital, William Raveis Real Estate, and Berkshire Hathaway through reinsurance and residential real estate subsidiaries.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2621951219512195, 0.27044025157232704, 0.2662538699690403, 0.16640866873065016]
+[0.03680981595092025, 0.0379746835443038, 0.03738317757009346, 0.023364485981308414]
+[0.12804878048780488, 0.1320754716981132, 0.13003095975232198, 0.08126934984520125]
+
+
+SBERT sim. Score: 0.3482375741004944

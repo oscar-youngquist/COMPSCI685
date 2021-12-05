@@ -1,0 +1,21 @@
+Document:
+missouri
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Two of the nation's three busiest rail centers are in Missouri. Like Kansas City, St. Louis is a major destination for train freight. Amtrak passenger trains serve Kansas City, La Plata, Jefferson City, St. Louis, Lee's Summit, Independence, Warrensburg, Hermann, Washington, Kirkwood, Sedalia, and Poplar Bluff. The Gateway Multimodal Transportation Center in St. Louis is the largest active multi-use transportation center in the state. It serves as a hub center/station for MetroLink, the MetroBus regional bus system, Greyhound, Amtrak, and taxi services. Greyhound and Trailways provide inter-city bus service in Missouri. Megabus serves St. Louis, but discontinued service to Columbia and Kansas City in 2015.
+\Predicted Summary:
+Missouri has no statewide open container law or prohibition on drinking in public, no alcohol-related blue laws, no local option, no precise locations for selling liquor by the package (allowing even drug stores and gas stations to sell any kind of liquor), and no differentiation of laws based on alcohol percentage. Their large cities included thousands of individual residences. The Unity Church is headquartered in Unity Village. Many well-known musicians were born or have lived in Missouri. Residents of Mid-Missouri use Columbia Regional Airport (COU) to fly to Chicago (ORD), Dallas (DFW) or Denver (DEN). The state is named for the Missouri River, which was named after the indigenous Missouri Indians, a Siouan-language tribe. With a large German immigrant population and the development of a brewing industry, Missouri always has had among the most permissive alcohol laws in the United States.
+
+GT:
+Missouri has two major airport hubs: St. Louis Lambert International Airport and Kansas City International Airport. Kansas City is a major railroad hub for BNSF Railway, Norfolk Southern Railway, Kansas City Southern Railway, and Union Pacific Railroad, and every class 1 railroad serves Missouri. Amtrak passenger trains serve Kansas City, La Plata, Jefferson City, St. Louis, Lee's Summit, Independence, Warrensburg, Hermann, Washington, Kirkwood, Sedalia, and Poplar Bluff. The only urban light rail/subway system operating in Missouri is MetroLink, which connects the city of St. Louis with suburbs in Illinois and St. Louis County. Many cities have regular fixed-route systems, and many rural counties have rural public transit services. The Mississippi River and Missouri River are commercially navigable over their entire lengths in Missouri. Following the passage of Amendment 3 in late 2004, the Missouri Department of Transportation (MoDOT) began its Smoother, Safer, Sooner road-building program with a goal of bringing 2,200 miles (3,500 km) of highways up to good condition by December 2007.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.23668639053254437, 0.27586206896551724, 0.25477707006369427, 0.15923566878980888]
+[0.02976190476190476, 0.034722222222222224, 0.032051282051282055, 0.020032051282051284]
+[0.11242603550295859, 0.1310344827586207, 0.12101910828025479, 0.07563694267515925]
+
+
+SBERT sim. Score: 0.6010837554931641

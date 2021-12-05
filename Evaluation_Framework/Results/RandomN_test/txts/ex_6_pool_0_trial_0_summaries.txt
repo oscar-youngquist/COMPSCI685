@@ -1,0 +1,21 @@
+Document:
+rhode_island
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The charter apportioned legislative seats equally among the state's towns, over-representing rural areas and under-representing the growing industrial centers. The state's current governor is Gina Raimondo (D), and the lieutenant governor is Daniel McKee (D). See congressional districts map. Rhode Island is one of a few states that do not have an official governor's residence. See List of Rhode Island Governors. The state legislature is the Rhode Island General Assembly, consisting of the 75-member House of Representatives and the 38-member Senatorte. Both houses of the bicameral body are currently dominated by the Democratic Party; the presence of the Republican Party is minor in the state government, with Republicans holding a handful of seats in both the Senatorte and House of Representatives. Federally, Rhode Island is a reliably Democratic state during presidential elections, usually supporting the Democratic presidential nominee. Rhode Island is divided into five counties but it has no county governments. The entire state is divided into municipalities, which handle all local government affairs. The state's 18 largest municipalities ranked by population are :
+\Predicted Summary:
+Clams Casino originated in Rhode Island, invented by Julius Keller, the maitre d' in the original Casino next to the seaside Towers in Narragansett. Many Rhode Islanders distinguish a strong aw sound [ɔə] (i.e., do not exhibit the cot–caught merger) as one might hear in New Jersey or New York City; for example, the word coffee is pronounced [ˈkʰɔəfi]. In 1636, Roger Williams was banished from the Massachusetts Bay Colony for his religious views, and he settled at the top of Narragansett Bay on land sold or given to him by Narragansett sachem Canonicus. On June 19, 2020, State Senatortor Harold Metts introduced a resolution for another ballot referendum on removing the words "and Providence Plantations" from the state's name, saying, "Whatever the meaning of the term 'plantations' in the context of Rhode Island's history, it carries a horrific connotation when considering the tragic and racist history of our nation." The name was officially applied to the island in 1644 with these words: "Aquethneck shall be henceforth called the Isle of Rodes or Rhode-Island." Rhode Island has a higher percentage of Americans of Portuguese ancestry, including Portuguese Americans and Cape Verdean Americans than any other state in the nation. Its 2000 per capita personal income was $41,484 (adjusted to inflation), 16th in the nation. They are sold by the half-dozen or dozen in most seafood restaurants around the state, and the quintessential summer meal in Rhode Island is chowder and clam cakes. The first automobile parade was held in Newport on September 7, 1899 on the grounds of Belcourt Castle. The East Bay Bike Path stretches from Providence to Bristol along the eastern shore of Narragansett Bay, while the Blackstone River Bikeway will eventually link Providence and Worcester. There are 39 cities and towns in Rhode Island.
+
+GT:
+The state's current governor is Gina Raimondo (D), and the lieutenant governor is Daniel McKee (D). Rhode Island is one of a few states that do not have an official governor's residence. The state legislature is the Rhode Island General Assembly, consisting of the 75-member House of Representatives and the 38-member Senatorte. Both houses of the bicameral body are currently dominated by the Democratic Party; the presence of the Republican Party is minor in the state government, with Republicans holding a handful of seats in both the Senatorte and House of Representatives. Rhode Island is divided into five counties but it has no county governments. The entire state is divided into municipalities, which handle all local government affairs.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.4180327868852459, 0.16776315789473684, 0.23943661971830985, 0.14964788732394366]
+[0.09917355371900827, 0.039603960396039604, 0.056603773584905655, 0.03537735849056604]
+[0.27049180327868855, 0.10855263157894737, 0.15492957746478872, 0.09683098591549295]
+
+
+SBERT sim. Score: 0.3561326265335083

@@ -1,0 +1,21 @@
+Document:
+idaho
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+The United States Forest Service holds about 38% of Idaho's land, the highest proportion of any state. Idaho is a Rocky Mountain state with abundant natural resources and scenic areas. The state has snow-capped mountain ranges, rapids, vast lakes and steep canyons. Science and technology have become the largest single economic center (over 25% of the state's total revenue) within the state and are greater than agriculture, forestry and mining combined. This made Idaho the tenth fastest-growing state after District of Columbia (+16.74%), Utah (+14.37%), Texas (+14.14%), Florida (+13.29%), Colorado (+13.25%), North Dakota (+13.01%), Nevada (+12.36%), Arizona (+12.20%) and Washington. From 2017 to 2018, Idaho grew the second-fastest, surpassed only by Nevada. In 2014, Idaho emerged as the second most small business friendly state, ranking behind Utah, based on a study drawing upon data from more than 12,000 small business owners. In addition, Idaho also has the 6th fastest growing population in the United States with the population expected to increase by 31% from 2008 to 2030.
+\Predicted Summary:
+Idaho ( (listen)) is a state in the Pacific Northwest region of the United States. It borders the state of Montana to the east and northeast, Wyoming to the east, Nevada and Utah to the south, and Washington and Oregon to the west. To the north, it shares a small portion of the Canadian border with the province of British Columbia. With a population of approximately 1.7 million and an area of 83,570 square miles (216,400 km2), Idaho is the 14th largest, the 12th least populous and the 7th least densely populated of the 50 US states. The state's capital and largest city is Boise. For thousands of years Idaho has been inhabited by Native American peoples. In the early 19th century, Idaho was considered part of the Oregon Country, an area disputed between the United States and the British Empire. It officially became US territory with the signing of the Oregon Treaty of 1846, but a separate Idaho Territory was not organized until 1863, instead being included for periods in Oregon Territory and Washington Territory. Idaho was eventually admitted to the Union on July 3, 1890, becoming the 43rd state.
+
+GT:
+A number of science and technology firms are either headquartered in Idaho or have factories there, and the state also contains the Idaho National Laboratory, which is the country's largest Department of Energy facility. This influence has a moderating effect in the winter where temperatures are not as low as would otherwise be expected for a northern state with predominantly high elevations. Idaho can be hot, although extended periods over 98 °F (37 °C) are rare, except for the lowest point in elevation, Lewiston, which correspondingly sees little snow. In 2014, Idaho emerged as the second most small business friendly state, ranking behind Utah, based on a study drawing upon data from more than 12,000 small business owners.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.31666666666666665, 0.1958762886597938, 0.24203821656050956, 0.1512738853503185]
+[0.03361344537815126, 0.02072538860103627, 0.025641025641025644, 0.016025641025641028]
+[0.2, 0.12371134020618557, 0.15286624203821655, 0.09554140127388534]
+
+
+SBERT sim. Score: 0.5878489017486572

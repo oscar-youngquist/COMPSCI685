@@ -1,0 +1,21 @@
+Document:
+mississippi
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+They also took advantage of new railroads sponsored by the state. Most migrants from Mississippi took trains directly north to Chicago and often settled near former neighbors. A proportion of federal spending in Mississippi is directed toward large federal installations such as Camp Shelby, John C. Stennis Space Center, Meridian Naval Air Station, Columbus Air Force Base, and Keesler Air Force Base. Mississippi has six airports with commercial passenger service, the busiest in Jackson (Jackson-Evers International Airport) and one in Gulfport (Gulfport-Biloxi International Airport) Mississippi is served by nine interstate highways: as well as a system of State Highways. Amtrak provides scheduled passenger service along two routes, the Crescent and City of New Orleans. All but two of the United States Class I railroads serve Mississippi (the exceptions are the Union Pacific and Canadian Pacific):
+\Predicted Summary:
+Mississippi ( (listen)) is a state in the Deep South region of the Southern United States, bordered to the north by Tennessee; to the east by Alabama; to the south by the Gulf of Mexico; to the southwest by Louisiana; and to the northwest by Arkansas. Mississippi's western boundary is largely defined by the Mississippi River. Mississippi is the 32nd largest and 34th-most populous of the 50 US states. Jackson is both the state's capital and largest city. Greater Jackson is the state's most populous metropolitan area, with an estimated population of 580,166 in 2018. On December 10, 1817, Mississippi became the 20th state admitted to the Union. By 1860, Mississippi was the nation's top cotton-producing state and enslaved persons accounted for 55% of the state population. Mississippi declared its secession from the Union on March 23, 1861, and was one of the seven original Confederate States, which constituted the largest slaveholding states in the nation. Following the Civil War, it was restored to the Union on February 23, 1870.
+
+GT:
+Mississippi has six airports with commercial passenger service, the busiest in Jackson (Jackson-Evers International Airport) and one in Gulfport (Gulfport-Biloxi International Airport) Mississippi is served by nine interstate highways: and fourteen main US Routes: as well as a system of State Highways. Amtrak provides scheduled passenger service along two routes, the Crescent and City of New Orleans. All but two of the United States Class I railroads serve Mississippi (the exceptions are the Union Pacific and Canadian Pacific):
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.375, 0.17045454545454544, 0.234375, 0.146484375]
+[0.05063291139240506, 0.022857142857142857, 0.031496062992125984, 0.01968503937007874]
+[0.25, 0.11363636363636363, 0.15625, 0.09765624999999999]
+
+
+SBERT sim. Score: 0.48442280292510986

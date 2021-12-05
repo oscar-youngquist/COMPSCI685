@@ -1,0 +1,21 @@
+Document:
+colorado
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Grand Junction is also along the major railroad of the Western Slope, the Union Pacific. This railroad also provides the tracks for Amtrak's California Zephyr passenger train, which crosses the Rocky Mountains between Denver and Grand Junction via a route on which there are no continuous highways. Colorado's primary mode of transportation (in terms of passengers) is its highway system. Interstate 25 (I-25) is the primary north–south highway in the state, connecting Pueblo, Colorado Springs, Denver, and Fort Collins, and extending north to Wyoming and south to New Mexico. I-70 is the primary east–west corridor. It connects Grand Junction and the mountain communities with Denver, and enters Utah and Kansas. The state is home to a network of US and Colorado highways that provide access to all principal areas of the state. DIA handles by far the largest volume of commercial air traffic in Colorado, and is the busiest US hub airport between Chicago and the Pacific coast, making Denver the most important airport for connecting passenger traffic in the western United States. Extensive public transportation bus services are offered both intra-city and inter-city—including the Denver metro area's extensive RTD services. Amtrak operates two passenger rail lines in Colorado, the California Zephyr and Southwest Chief. Both Union Pacific and BNSF have extensive freight operations in Colorado.
+\Predicted Summary:
+Interstate 25 (I-25) is the primary north–south highway in the state, connecting Pueblo, Colorado Springs, Denver, and Fort Collins, and extending north to Wyoming and south to New Mexico. On Nov. 3, 2020 voters authorized an initiative to lower that income tax rate to 4.55 percent. The Territory of Colorado was organized on February 28, 1861, and on August 1, 1876, US President Ulysses S. Grant signed Proclamation 230 admitting Colorado to the Union as the 38th state. Notable peaks of the Rocky Mountains include Longs Peak, Mount Evans, Pikes Peak, and the Spanish Peaks near Walsenburg, in southern Colorado. In 1806, Zebulon Pike led a US Army reconnaissance expedition into the disputed region. The point where the Arikaree River flows out of Yuma County, Colorado, and into Cheyenne County, Kansas, is the lowest point in Colorado at 3,317 feet (1,011 m) elevation. Colorado's primary mode of transportation (in terms of passengers) is its highway system. Only small parts of the Colorado Rockies are snow-covered year-round. Three warships of the US Navy have been named the USColorado. Estes model rockets were launched in Penrose in 1958. (Birth rate of 14.6 per thousand.) Fort Collins has been the home of Woodward Governor Company's motor controllers (governors) since 1870, and Waterpik dental water jets and showerheads since 1962.
+
+GT:
+Colorado's primary mode of transportation (in terms of passengers) is its highway system. Interstate 25 (I-25) is the primary north–south highway in the state, connecting Pueblo, Colorado Springs, Denver, and Fort Collins, and extending north to Wyoming and south to New Mexico. I-70 is the primary east–west corridor. The state is home to a network of US and Colorado highways that provide access to all principal areas of the state. Denver International Airport (DIA) is the fifth-busiest domestic US airport and twentieth busiest airport in the world by passenger traffic. Extensive public transportation bus services are offered both intra-city and inter-city—including the Denver metro area's extensive RTD services. The Regional Transportation District (RTD) operates the popular RTD Bus & Rail transit system in the Denver Metropolitan Area. Amtrak operates two passenger rail lines in Colorado, the California Zephyr and Southwest Chief. Colorado's freight railroad network consists of 2,688 miles of Class I trackage.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.5060975609756098, 0.3672566371681416, 0.4256410256410256, 0.266025641025641]
+[0.2822085889570552, 0.20444444444444446, 0.23711340206185563, 0.1481958762886598]
+[0.3170731707317073, 0.23008849557522124, 0.2666666666666667, 0.16666666666666669]
+
+
+SBERT sim. Score: 0.6296831369400024

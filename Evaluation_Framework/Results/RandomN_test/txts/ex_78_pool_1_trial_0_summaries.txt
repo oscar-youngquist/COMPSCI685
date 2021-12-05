@@ -1,0 +1,21 @@
+Document:
+nevada
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The tourism industry remains Nevada's largest employer, with mining continuing as a substantial sector of the economy: Nevada is the fourth-largest producer of gold in the world. Mining shaped Nevada's economy for many years (see Silver mining in Nevada). From about the 1940s until 2003, Nevada was the fastest-growing state in the US percentage-wise. Mining plays an important role in the economies of the rural counties, with tourism being less prominent. The economy of Nevada is tied to tourism (especially entertainment and gambling related), mining, and cattle ranching. Nevada's industrial outputs are tourism, entertainment, mining, machinery, printing and publishing, food processing, and electric equipment. In portions of the state outside of the Las Vegas and Reno metropolitan areas mining plays a major economic role. Cattle ranching is a major economic activity in rural Nevada.
+\Predicted Summary:
+The state's per capita personal income in 2018 was $43,820, ranking 35th in the nation. The great majority of the state's elected officials are from either Las Vegas or Reno. Prostitution is legal in parts of Nevada in licensed brothels, but only counties with populations under 400,000 have the option to legalize it. Native American tribes in Nevada are the Koso, Paiute, Panamint, Shoshoni, Walapi, Washoe and Ute tribes. Most of these animals forage on rangeland in the summer, with supplemental feed in the winter. In 1991, UNLV finished the regular season undefeated, a feat that would not be matched in Division I men's basketball for more than 20 years. At the 2010 census, the town had 36,441 residents. The 1861 southern boundary is commemorated by Nevada Historical Markers 57 and 58 in Lincoln and Nye counties. In 1980, non-Hispanic whites made up 83.3% of the state's population.
+
+GT:
+Nevada is officially known as the "Silver State" because of the importance of silver to its history and economy. The tourism industry remains Nevada's largest employer, with mining continuing as a substantial sector of the economy: Nevada is the fourth-largest producer of gold in the world. Mining shaped Nevada's economy for many years (see Silver mining in Nevada). The economy of Nevada is tied to tourism (especially entertainment and gambling related), mining, and cattle ranching. Nevada's industrial outputs are tourism, entertainment, mining, machinery, printing and publishing, food processing, and electric equipment. The economy of Nevada has long been tied to vice industries. "[Nevada was] founded on mining and refounded on sin – beginning with prizefighting and easy divorce a century ago and later extending to gaming and prostitution", said the August 21, 2010 issue of The Economist.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2857142857142857, 0.25477707006369427, 0.2693602693602693, 0.1683501683501683]
+[0.03597122302158273, 0.03205128205128205, 0.03389830508474576, 0.0211864406779661]
+[0.16428571428571428, 0.1464968152866242, 0.15488215488215487, 0.0968013468013468]
+
+
+SBERT sim. Score: 0.48945221304893494

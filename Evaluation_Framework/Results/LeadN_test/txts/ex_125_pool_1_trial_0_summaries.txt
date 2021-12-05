@@ -1,0 +1,21 @@
+Document:
+nevada
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+It is also known as the "Battle Born State" because it achieved statehood during the Civil War (the words "Battle Born" also appear on the state flag); as the "Sagebrush State", for the native plant of the same name; and as the "Sage-hen State". American Indians of the Paiute, Shoshone, and Washoe tribes inhabited what is now Nevada. (The other is Missouri, which acquired additional territory in 1837 due to the Platte Purchase.) Mining booms drew many Greek and Eastern European immigrants to Nevada. Native American tribes in Nevada are the Koso, Paiute, Panamint, Shoshoni, Walapi, Washoe and Ute tribes. People in these rural counties tend to be native Nevada residents, unlike in the Las Vegas and Reno areas, where the vast majority of the population was born in another state. Ranching also has a long tradition in rural Nevada. Due to heavy growth in the southern portion of the state, there is a noticeable divide between the politics of northern and southern Nevada. Historically, northern Nevada has been very Republican. Clark and Washoe counties have long dominated the state's politics. The great majority of the state's elected officials are from either Las Vegas or Reno.
+\Predicted Summary:
+Nevada (, Spanish: [neˈβaða]) is a state in the Western United States. It is bordered by Oregon to the northwest, Idaho to the northeast, California to the west, Arizona to the southeast, and Utah to the east. Nevada is the 7th-most extensive, the 19th-least populous, but the 9th-least densely populated of the US states. Nearly three-quarters of Nevada's people live in Clark County, which contains the Las Vegas–Paradise metropolitan area, including three of the state's four largest incorporated cities. Nevada's capital is Carson City. Nevada is officially known as the "Silver State" because of the importance of silver to its history and economy. It is also known as the "Battle Born State" because it achieved statehood during the Civil War (the words "Battle Born" also appear on the state flag); as the "Sagebrush State", for the native plant of the same name; and as the "Sage-hen State". The name means "snow-covered" in Spanish, referring to Nevada's small overlap with the Sierra Nevada mountain range; however, the rest of Nevada is largely desert and semi-arid, much of it within the Great Basin. Areas south of the Great Basin are within the Mojave Desert, while Lake Tahoe and the Sierra Nevada lie on the western edge. About 86% of the state's land is managed by various jurisdictions of the US federal government, both civilian and military. American Indians of the Paiute, Shoshone, and Washoe tribes inhabited what is now Nevada. The first Europeans to explore the region were Spanish.
+
+GT:
+Nevada is the only state where prostitution is legal – in a licensed brothel in a county which has specifically voted to permit it. It is illegal in larger jurisdictions such as Clark County (which contains Las Vegas), Washoe County (which contains Reno), and the independent city of Carson City. In 2009, the Nevada Legislature passed a bill creating a domestic partnership registry which enables gay couples to enjoy the same rights as married couples. Nevada has very liberal alcohol laws. Bars are permitted to remain open 24 hours, with no "last call". Liquor stores, convenience stores and supermarkets may also sell alcohol 24 hours per day and may sell beer, wine and spirits. Resort areas like Las Vegas, Reno, Lake Tahoe, and Laughlin attract visitors from around the nation and world. Prostitution is legal in parts of Nevada in licensed brothels, but only counties with populations under 400,000 have the option to legalize it. Although prostitution is not a major part of the Nevada economy, employing roughly 300 women as independent contractors, it is a very visible endeavor.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3687150837988827, 0.25287356321839083, 0.3, 0.18749999999999997]
+[0.0898876404494382, 0.06153846153846154, 0.0730593607305936, 0.04566210045662101]
+[0.20670391061452514, 0.1417624521072797, 0.16818181818181818, 0.10511363636363635]
+
+
+SBERT sim. Score: 0.5314419865608215

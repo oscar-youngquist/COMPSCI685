@@ -1,0 +1,21 @@
+Document:
+pennsylvania
+
+Intent:
+What drives the economy in this state?
+
+Input:
+At the beginning of the 20th century, Pennsylvania's economy centered on steel production, logging, coal mining, textile production and other forms of industrial manufacturing. Much of the Commonwealth is rural Pennsylvania ranks 19th overall in agricultural production. The financial impact of agriculture in Pennsylvania includes employment of more than 66,800 people employed by the food manufacturing industry; and over $1.7 billion in food product export (in 2011). It was also a keystone state economically, having both the industry common to the North (making such wares as Conestoga wagons and rifles) and the agriculture common to the South (producing feed, fiber, food, and tobacco). "The Coal State", "The Oil State", "The Chocolate State", and "The Steel State" were adopted when those were the state's greatest industries.
+\Predicted Summary:
+Attempts to transfer local income tax collections to the state level (i.e. Another one of Pennsylvania's nicknames is the Quaker State; in colonial times, it was known officially as the Quaker Province, in recognition of Quaker William Penn's First Frame of Government constitution for Pennsylvania that guaranteed liberty of conscience. During the American Civil War, the Battle of Gettysburg was fought in the south central region of the state. From 2009 to 2011, the state was represented by two Democratic senators for the first time since 1947. The legislature meets in the State Capitol there. The fourth-largest single denomination is the Presbyterian Church (USA) with 250,000 members and 1,011 congregations. Pennsylvania's 2018 total gross state product (GSP) of $803 billion ranks the state 6th in the nation.
+
+GT:
+At the beginning of the 20th century, Pennsylvania's economy centered on steel production, logging, coal mining, textile production and other forms of industrial manufacturing. Philadelphia is home to six Fortune 500 companies, with more located in suburbs like King of Prussia; it is a leader in the financial and insurance industry. Pittsburgh is home to eight Fortune 500 companies, including US Steel, PPG Industries, and H.J. Heinz. In all, Pennsylvania is home to fifty Fortune 500 companies.Hershey is home to The Hershey Company, one of the largest chocolate manufacturers in the world. Erie is also home to GE Transportation, which is the largest producer of train locomotives in the United States. As in the US as a whole and in most states, the largest private employer in the Commonwealth is Walmart, followed by the University of Pennsylvania. Pennsylvania is also home to the oldest investor-owned utility company in the US, The York Water Company.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2848101265822785, 0.3358208955223881, 0.3082191780821918, 0.19263698630136988]
+[0.05732484076433121, 0.06766917293233082, 0.06206896551724138, 0.03879310344827586]
+[0.17721518987341772, 0.208955223880597, 0.1917808219178082, 0.11986301369863014]
+
+
+SBERT sim. Score: 0.39143893122673035

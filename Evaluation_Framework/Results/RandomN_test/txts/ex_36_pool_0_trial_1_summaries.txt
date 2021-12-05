@@ -1,0 +1,21 @@
+Document:
+delaware
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Since the turn of the 20th century, Delaware is also a de facto onshore corporate haven, in which by virtue of its corporate laws, the state is the domicile of over 50% of all NYSE-listed business and 60% of the Fortune 500. It still has a substantial presence in the state. Delaware's agricultural output consists of poultry, nursery stock, soybeans, dairy products and corn. The state's largest employers are: More than half of all US publicly traded companies, and 63% of the Fortune 500, are incorporated in Delaware. The state's attractiveness as a corporate haven is largely because of its business-friendly corporation law. Gambling provides significant revenue to the state. In 2015, tourism in Delaware generated $3.1 billion, which makes up five percent of the state's GDP. Delaware saw 8.5 million visitors in 2015, with the tourism industry employing 41,730 people, making it the 4th largest private employer in the state.
+\Predicted Summary:
+A bicycle route, Delaware Bicycle Route 1, spans the north–south length of the state from the Maryland border in Fenwick Island to the Pennsylvania border north of Montchanin. Democrats presently hold all the nine statewide elected offices, while the Republicans last won two statewide offices in 2014, State Auditor and State Treasurer. Delaware is home to First State National Historical Park, a National Park Service unit composed of historic sites across the state including the New Castle Court House, Green, and Sheriff's House, Dover Green, Beaver Valley, Fort Christina, Old Swedes' Church, John Dickinson Plantation, and the Ryves Holt House. This constitutes a total LGBT adult population estimate of 23,698 people. The surname de La Warr comes from Sussex and is of Anglo-Norman origin. Delaware provides government subsidy support for the clean-up of property "lightly contaminated" by hazardous waste, the proceeds for which come from a tax on wholesale petroleum sales. The University of Delaware's football team has a large following throughout the state, with the Delaware State University and Wesley College teams also enjoying a smaller degree of support. Multiple short-line railroads provide freight service in Delaware. Dover International Speedway is a race track in Dover, and Frawley Stadium in Wilmington is the home of the Wilmington Blue Rocks, a Minor League Baseball team. Delaware's swing to the Democrats is in part due to a strong Democratic trend in New Castle County, home to 55 percent of Delaware's population (the two smaller counties have only 359,000 people between them to New Castle County's 535,000).
+
+GT:
+Since the turn of the 20th century, Delaware is also a de facto onshore corporate haven, in which by virtue of its corporate laws, the state is the domicile of over 50% of all NYSE-listed business and 60% of the Fortune 500. Since the mid-2000s, Delaware has seen the departure of the state's automotive manufacturing industry (General Motors Wilmington Assembly and Chrysler Newark Assembly), the corporate buyout of a major bank holding company (MBNA), the departure of the state's steel industry (Evraz Claymont Steel), the bankruptcy of a fiber mill (National Vulcanized Fibre), and the diminishing presence of AstraZeneca in Wilmington. More than half of all US publicly traded companies, and 63% of the Fortune 500, are incorporated in Delaware. Franchise taxes on Delaware corporations supply about a fifth of the state's revenue. In 2015, tourism in Delaware generated $3.1 billion, which makes up five percent of the state's GDP. Delaware saw 8.5 million visitors in 2015, with the tourism industry employing 41,730 people, making it the 4th largest private employer in the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.43169398907103823, 0.2958801498127341, 0.3511111111111111, 0.21944444444444447]
+[0.07142857142857142, 0.04887218045112782, 0.05803571428571429, 0.036272321428571425]
+[0.21311475409836064, 0.14606741573033707, 0.1733333333333333, 0.10833333333333331]
+
+
+SBERT sim. Score: 0.4872763156890869

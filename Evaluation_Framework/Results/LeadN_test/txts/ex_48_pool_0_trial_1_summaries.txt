@@ -1,0 +1,21 @@
+Document:
+illinois
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The government of Illinois, under the Constitution of Illinois, has three branches of government: executive, legislative and judicial. The executive branch is split into several statewide elected offices, with the governor as chief executive. The six elected officers are: Governor, Lieutenant Governor, Attorney General, Secretary of State, Comptroller, and Treasurer. It consists of the Supreme Court, Appellate Court, and Circuit Courts. The Supreme Court oversees the administration of the court system. Some localities possess home rule, which allows them to govern themselves to a certain extent.
+\Predicted Summary:
+Illinois ( (listen) IL-ə-NOY) is a state in the Midwestern and Great Lakes regions of the United States. It has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all US states. Illinois has been noted as a microcosm of the entire United States. With Chicago in northeastern Illinois, small industrial cities and immense agricultural productivity in the north and center of the state, and natural resources such as coal, timber, and petroleum in the south, Illinois has a diverse economic base, and is a major transportation hub. The Port of Chicago connects the state to international ports via two main routes: from the Great Lakes, via the Saint Lawrence Seaway, to the Atlantic Ocean and from the Great Lakes to the Mississippi River, via the Illinois River, through the Illinois Waterway. The Mississippi River, the Ohio River, and the Wabash River form parts of the boundaries of Illinois. For decades, Chicago's O'Hare International Airport has been ranked as one of the world's busiest airports.
+
+GT:
+The government of Illinois, under the Constitution of Illinois, has three branches of government: executive, legislative and judicial. The Illinois General Assembly is the state legislature, composed of the 118-member Illinois House of Representatives and the 59-member Illinois Senatorte. The members of the General Assembly are elected at the beginning of each even-numbered year. The executive branch is composed of six elected officers and their offices as well as numerous other departments. The Judiciary of Illinois is the unified court system of Illinois. It consists of the Supreme Court, Appellate Court, and Circuit Courts. Illinois is a Democratic stronghold.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.39215686274509803, 0.22598870056497175, 0.2867383512544803, 0.17921146953405018]
+[0.0891089108910891, 0.05113636363636364, 0.06498194945848376, 0.04061371841155234]
+[0.27450980392156865, 0.15819209039548024, 0.2007168458781362, 0.12544802867383514]
+
+
+SBERT sim. Score: 0.5253733396530151

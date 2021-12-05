@@ -1,0 +1,21 @@
+Document:
+new_mexico
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The economy of New Mexico is dependent on oil drilling, mineral extraction, dryland farming, cattle ranching, acequia and landrace agriculture, lumber milling, retail trade, scientific research laboratories, technological development, as well as the arts, especially textiles and visual arts. Because of this, its film industry has grown and contributed $1.23 billion to its overall economy. In the 21st century, employment growth areas in New Mexico include electronic circuitry, scientific research, call centers, and Indian casinos. The state also has a large Native American population, second in percentage behind that of Alaska. Oil and gas production, tourism, and federal government spending are important drivers of the state economy. State government has an elaborate system of tax credits and technical assistance to promote job growth and business investment, especially in new technologies. However, the boom in hydraulic fracturing and horizontal drilling beginning in the mid-2010s led to a large increase in the production of crude oil from the Permian Basin and other US sources; these developments allowed the United States to again become the world's largest producer of crude oil in 2018.
+\Predicted Summary:
+Other constitutional officers, all of whose terms also expire in January 2023, include Secretary of State Maggie Toulouse Oliver (D), Attorney General Hector Balderas (D), State Auditor Brian Colón (D), State Land Commissioner Stephanie Garcia Richard (D), and State Treasurer Tim Eichenberg (D). The New Mexico Public Education Department oversees the operation of primary and secondary schools Present-day New Mexico's pre-Columbian trade is especially remarkable for being undertaken on foot. According to the 2000 United States Census,the most commonly claimed ancestry groups in New Mexico were: In a landmark decision, a state judge ruled in 2018 that "New Mexico is violating the constitutional rights of at-risk students by failing to provide them with sufficient education," and ordered that the governor and Legislature provide an adequate system by April 2019. Normally, the provider or seller passes the tax on to the purchaser, however legal incidence and burden apply to the business, as an excise tax. While Spanish was permitted in the legislature until 1935, all state officials are required to have a good knowledge of English. There is also local government, consisting of counties, municipalities and special districts.
+
+GT:
+Oil and gas production, tourism, and federal government spending are important drivers of the state economy. State government has an elaborate system of tax credits and technical assistance to promote job growth and business investment, especially in new technologies. In 2005, the percentage of persons below the poverty level was 18.4%.The New Mexico Tourism Department estimates that in Fiscal Year 2006, the travel industry in New Mexico generated expenditures of $6.5 billion. New Mexico is the third-largest crude oil and ninth-largest natural gas producer in the United States. Federal government spending is a major driver of the New Mexico economy. New Mexico law allows governments to provide land, buildings, and infrastructure to businesses to promote job creation. The state provides financial incentives for film production.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.46153846153846156, 0.31088082901554404, 0.3715170278637771, 0.2321981424148607]
+[0.07751937984496124, 0.052083333333333336, 0.06230529595015577, 0.038940809968847356]
+[0.2153846153846154, 0.14507772020725387, 0.17337461300309598, 0.108359133126935]
+
+
+SBERT sim. Score: 0.48686525225639343

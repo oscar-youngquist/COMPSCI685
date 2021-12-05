@@ -1,0 +1,21 @@
+Document:
+nevada
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Nevada is the 7th-most extensive, the 19th-least populous, but the 9th-least densely populated of the US states. At the 2010 Census, 6.9% of the state's population were reported as under 5, 24.6% were under 18, and 12.0% were 65 or older. From about the 1940s until 2003, Nevada was the fastest-growing state in the US percentage-wise. Thus, in terms of population, Nevada is one of the most centralized states in the nation. With the advent of air conditioning for summertime use and Southern Nevada's mild winters, the fortunes of the state began to turn around, as it did for Arizona, making these two states the fastest growing in the Union. This gives the state status as a political bellwether. The state's US
+\Predicted Summary:
+Nevada is one of only two states to significantly expand its borders after admission to the Union. Cattle ranching is a major economic activity in rural Nevada. Carson City is officially a consolidated municipality; however, for many purposes under state law, it is considered to be a county. The Court modified its decision in Williams v. North Carolina (1945), 325 US 226 (1945), by holding a state need not recognize a Nevada divorce unless one of the parties was domiciled there at the time the divorce was granted and the forum state was entitled to make its own determination. "[Nevada was] founded on mining and refounded on sin – beginning with prizefighting and easy divorce a century ago and later extending to gaming and prostitution", said the August 21, 2010 issue of The Economist. Due to heavy growth in the southern portion of the state, there is a noticeable divide between the politics of northern and southern Nevada. A recent movement has begun to permit home rule to incorporate Nevada cities to give them more flexibility and fewer restrictions from the Legislature. Lyon County is the third most populous county.
+
+GT:
+Nevada has a reputation for its libertarian laws. However, legalized gambling and lenient marriage and divorce laws transformed Nevada into a major tourist destination in the 20th century. Nevada is the only US state where prostitution is legal, though it is illegal in its most populated regions – Clark County (Las Vegas), Washoe County (Reno) and Carson City (which, as an independent city, is not within the boundaries of any county). The tourism industry remains Nevada's largest employer, with mining continuing as a substantial sector of the economy: Nevada is the fourth-largest producer of gold in the world. Nevada is the driest state in the United States. Church attendance in Nevada is among the lowest of all US states. The state's per capita personal income in 2018 was $43,820, ranking 35th in the nation. The economy of Nevada has long been tied to vice industries.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.47297297297297297, 0.37037037037037035, 0.41543026706231456, 0.2596439169139466]
+[0.07482993197278912, 0.05851063829787234, 0.06567164179104477, 0.04104477611940298]
+[0.20270270270270271, 0.15873015873015872, 0.17804154302670622, 0.11127596439169139]
+
+
+SBERT sim. Score: 0.6851191520690918

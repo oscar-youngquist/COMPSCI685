@@ -1,0 +1,21 @@
+Document:
+alabama
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+The state has numerous place names of Native American origin. This is the second-largest complex of the classic Middle Mississippian era, after Cahokia in present-day Illinois, which was the center of the culture. The state is home to various attractions, natural features, parks and events that attract visitors from around the globe, notably the annual Hangout Music Festival, held on the public beaches of Gulf Shores; the Alabama Shakespeare Festival, one of the ten largest Shakespeare festivals in the world; the Robert Trent Jones Golf Trail, a collection of championship caliber golf courses distributed across the state; casinos such as Victoryland; amusement parks such as Alabama Splash Adventure; the Riverchase Galleria, one of the largest shopping centers in the southeast; Guntersville Lake, voted the best lake in Alabama by Southern Living Magazine readers; and the Alabama Museum of Natural History, the oldest museum in the state. In 2018, Mobile's Mardi Gras parade was the state's top event, producing the most tourists with an attendance of 892,811. Alabama has historically been a popular region for film shoots due to its diverse landscapes and contrast of environments. College football is extremely popular in Alabama, particularly the University of Alabama Crimson Tide and Auburn University Tigers, rivals in the Southeastern Conference. Alabama has several professional and semi-professional sports teams, including three minor league baseball teams. "Alabama—History and Culture".
+\Predicted Summary:
+The Legislature has the power to override a gubernatorial veto by a simple majority (most state Legislatures require a two-thirds majority to override a veto). In 1984, under the Davis–Strong Act, the state legislature established the Alabama Indian Affairs Commission. By 2006, crop and animal production in Alabama was valued at $1.5 billion. Rust International has grown to include Brasfield & Gorrie, BE&K, Hoar Construction, and B.L. Alabama () is a state in the Deep South region of the Southern United States, bordered by Tennessee to the north; Georgia to the east; Florida and the Gulf of Mexico to the south; and Mississippi to the west. Winters are generally mild in Alabama, as they are throughout most of the Southeastern United States, with average January low temperatures around 40 °F (4 °C) in Mobile and around 32 °F (0 °C) in Birmingham. Alabama, and the southeastern US in general, has one of the highest incidences of adult onset diabetes in the country, exceeding 10% of adults. Birmingham experienced such rapid growth it was called the "Magic City". The Port of Mobile was ranked 12th by tons of traffic in the United States during 2009.
+
+GT:
+College football is extremely popular in Alabama, particularly the University of Alabama Crimson Tide and Auburn University Tigers, rivals in the Southeastern Conference. In the 2013 season, Alabama averaged over 100,000 fans per game and Auburn averaged over 80,000—both numbers among the top twenty in the nation. Bryant–Denny Stadium is the home of the Alabama football team, and has a seating capacity of 101,821, and is the fifth largest stadium in America. Jordan-Hare Stadium is the home field of the Auburn football team and seats up to 87,451. The Talladega Superspeedway motorsports complex hosts a series of NASCAR events. It has a seating capacity of 143,000 and is the thirteenth largest stadium in the world and sixth largest stadium in America.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.35658914728682173, 0.233502538071066, 0.28220858895705525, 0.17638036809815952]
+[0.0625, 0.04081632653061224, 0.04938271604938272, 0.030864197530864196]
+[0.20930232558139536, 0.13705583756345177, 0.16564417177914112, 0.1035276073619632]
+
+
+SBERT sim. Score: 0.3162606358528137

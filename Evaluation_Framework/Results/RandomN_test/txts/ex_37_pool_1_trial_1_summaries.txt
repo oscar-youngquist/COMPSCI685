@@ -1,0 +1,21 @@
+Document:
+florida
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+This is the second-highest number of islands of any state In the pre-automobile era, railroads played a key role in the state's development, particularly in coastal areas. Florida is one of the largest states east of the Mississippi River, and only Alaska and Michigan are larger in water area. This is the third-most diverse state in the union, behind California and Texas, both larger states. This was the sixth highest percentage of any US state. The area is often seen as a merging point of the conservative northern portion of the state and the liberal southern portion, making it the biggest swing area in the state. Agriculture is the second largest industry in the state.
+\Predicted Summary:
+Some of these nonnative species do not pose a threat to any native species, but some do threaten the native species of Florida by living in the state and eating them. Phosphate mining, concentrated in the Bone Valley, is the state's third-largest industry. Florida has banned sanctuary cities. The city is endowed with one of the largest collections of Prairie School buildings outside of the Midwest. As of 2014, it was the major agricultural concern. Protestants are very diverse, although Baptists, Methodists, Pentecostals and nondenominational Protestants are the largest groups. Drivers between 15 and 19 years of age averaged 364 car crashes a year per ten thousand licensed Florida drivers in 2010. In 2018, there were more than 427,824 millionaires in the state, the fourth highest number in the nation.
+
+GT:
+Due to its subtropical and tropical climate, Florida rarely receives measurable snowfall. Florida is host to many types of wildlife including: Florida is a low per capita energy user. Florida's economy ranks among the largest in the world. Tourism makes up one of the largest sectors of the state economy, with nearly 1.4 million people employed in the tourism industry in 2016 (a record for the state, surpassing the 1.2 million employment from 2015). Florida has the largest collection of Art Deco and Streamline Moderne buildings, both in the United States and in the entire world, most of which are located in the Miami metropolitan area, especially Miami Beach's Art Deco District, constructed as the city was becoming a resort destination. Florida overall was ranked the 7th best state in America for educating students at all levels by US News & World Report in 2018. Florida has three NFL teams, two MLB teams, two NBA teams, two NHL teams, and two MLS teams.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3253012048192771, 0.40601503759398494, 0.36120401337792646, 0.22575250836120403]
+[0.10303030303030303, 0.12878787878787878, 0.11447811447811447, 0.07154882154882156]
+[0.1566265060240964, 0.19548872180451127, 0.17391304347826086, 0.10869565217391304]
+
+
+SBERT sim. Score: 0.5519794225692749

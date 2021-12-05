@@ -1,0 +1,21 @@
+Document:
+illinois
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+The Great Migration from the South established a large community of African Americans in the state, including Chicago, who founded the city's famous jazz and blues cultures. Illinois has numerous museums Several museums in Chicago are ranked as some of the best in the world. These include the John G. Shedd Aquarium, the Field Museum of Natural History, the Art Institute of Chicago, the Adler Planetarium, and the Museum of Science and Industry. The modern Abraham Lincoln Presidential Library and Museum in Springfield is the largest and most attended presidential library in the country. The Illinois State Museum boasts a collection of 13.5 million objects that tell the story of Illinois life, land, people, and art. Other historical museums in the state include the Polish Museum of America in Chicago; Magnolia Manor in Cairo; Easley Pioneer Museum in Ipava; the Elihu Benjamin Washburne; Ulysses S. Grant Homes, both in Galena; and the Chanute Air Museum, located on the former Chanute Air Force Base in Rantoul. Chicago is also well known for its soul music.
+\Predicted Summary:
+Illinois ( (listen) IL-ə-NOY) is a state in the Midwestern and Great Lakes regions of the United States. It has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all US states. Illinois has been noted as a microcosm of the entire United States. With Chicago in northeastern Illinois, small industrial cities and immense agricultural productivity in the north and center of the state, and natural resources such as coal, timber, and petroleum in the south, Illinois has a diverse economic base, and is a major transportation hub. The Port of Chicago connects the state to international ports via two main routes: from the Great Lakes, via the Saint Lawrence Seaway, to the Atlantic Ocean and from the Great Lakes to the Mississippi River, via the Illinois River, through the Illinois Waterway. The Mississippi River, the Ohio River, and the Wabash River form parts of the boundaries of Illinois. For decades, Chicago's O'Hare International Airport has been ranked as one of the world's busiest airports. Illinois has long had a reputation as a bellwether both in social and cultural terms and, through the 1980s, in politics. The capital of Illinois is Springfield, which is located in the central part of the state.
+
+GT:
+The Great Migration from the South established a large community of African Americans in the state, including Chicago, who founded the city's famous jazz and blues cultures. Illinois has numerous museums Several museums in Chicago are ranked as some of the best in the world. These include the John G. Shedd Aquarium, the Field Museum of Natural History, the Art Institute of Chicago, the Adler Planetarium, and the Museum of Science and Industry. Illinois is a leader in music education, having hosted the Midwest Clinic International Band and Orchestra Conference since 1946, as well being home to the Illinois Music Educators Association (IMEA), one of the largest professional music educator's organizations in the country. Chicago, in the northeast corner of the state, is a major center for music in the midwestern United States where distinctive forms of blues (greatly responsible for the future creation of rock and roll), and house music, a genre of electronic dance music, were developed. The Great Migration of poor black workers from the South into the industrial cities brought traditional jazz and blues music to the city, resulting in Chicago blues and "Chicago-style" Dixieland jazz. Notable blues artists included Muddy Waters, Junior Wells, Howlin' Wolf and both Sonny Boy Williamsons; jazz greats included Nat King Cole, Gene Ammons, Benny Goodman, and Bud Freeman. Chicago is also well known for its soul music.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.41304347826086957, 0.4439252336448598, 0.4279279279279279, 0.2674549549549549]
+[0.13537117903930132, 0.14553990610328638, 0.14027149321266968, 0.08766968325791856]
+[0.1782608695652174, 0.19158878504672897, 0.18468468468468466, 0.11542792792792791]
+
+
+SBERT sim. Score: 0.43506303429603577

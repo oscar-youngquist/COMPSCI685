@@ -1,0 +1,21 @@
+Document:
+pennsylvania
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The legislature meets in the State Capitol there. The current Governor is Tom Wolf. The other elected officials composing the executive branch are the Lieutenant Governor John Fetterman, Attorney General Joshua Shapiro, Auditor General Timothy DeFoor, and Pennsylvania Treasurer Stacy Garrity. The Governor and Lieutenant Governor run as a ticket in the general election and are up for re-election every four years during the midterm elections. The elections for Attorney General, Auditor General, and Treasurer are held every four years coinciding with a Presidential election. Pennsylvania has a bicameral legislature set up by Commonwealth's constitution in 1790. The General Assembly includes 50 Senatortors and 203 Representatives. As of the 2018 elections, the Republicans hold the majority in the State House and Senatorte. All judges in Pennsylvania are elected The state holds 20 electoral votes. In 2010, Republicans recaptured a US Senatorte seat as well as a majority of the state's congressional seats, control of both chambers of the state legislature and the governor's mansion.
+\Predicted Summary:
+There are also two motocross race tracks that host a round of the AMA Toyota Motocross Championships in Pennsylvania. Pennsylvania's two most populous cities are Philadelphia (1,580,863), and Pittsburgh (302,407). Pennsylvania's two US It is closest to Palatine German. From 2008 to 2012, 5.8% of the population was foreign-born. The rapid growth of this community has given Pennsylvania one of the largest Asian populations in the nation by numerical values. The state has a high in-migration of black and Hispanic people from other nearby states, with eastern and south-central portions of the state seeing the bulk of the increases. Other long-accredited AZA zoos include the Erie Zoo and the Pittsburgh Zoo & PPG Aquarium. Under this plan, any establishment with a liquor license would be allowed up to five machines. The Pennsylvanian follows the same route from New York City to Harrisburg, but extends out to Pittsburgh. Democratic political consultant James Carville once pejoratively described Pennsylvania as "Philadelphia in the east, Pittsburgh in the west and Alabama in the middle". The King named it Pennsylvania (literally "Penn's Woods") in honor of Admiral Penn; the Admiral's son who proposed that the land be called New Wales and then, after objections, Sylvania (from the Latin silva: "forest, woods"), was embarrassed at the change from the latter proposed form, fearing that people would think he had named it after himself, but King Charles would not rename the grant.
+
+GT:
+The current Governor is Tom Wolf. The other elected officials composing the executive branch are the Lieutenant Governor John Fetterman, Attorney General Joshua Shapiro, Auditor General Timothy DeFoor, and Pennsylvania Treasurer Stacy Garrity. The Governor and Lieutenant Governor run as a ticket in the general election and are up for re-election every four years during the midterm elections. The elections for Attorney General, Auditor General, and Treasurer are held every four years coinciding with a Presidential election. Pennsylvania has a bicameral legislature set up by Commonwealth's constitution in 1790. The General Assembly includes 50 Senatortors and 203 Representatives. Pennsylvania is divided into 60 judicial districts, most of which (except Philadelphia) have magisterial district judges (formerly called district justices and justices of the peace), who preside mainly over preliminary hearings in felony and misdemeanor offenses, all minor (summary) criminal offenses, and small civil claims.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2896551724137931, 0.17073170731707318, 0.21483375959079284, 0.13427109974424553]
+[0.027777777777777776, 0.0163265306122449, 0.020565552699228794, 0.012853470437017997]
+[0.15862068965517243, 0.09349593495934959, 0.11764705882352942, 0.07352941176470588]
+
+
+SBERT sim. Score: 0.3391075134277344

@@ -1,0 +1,21 @@
+Document:
+wisconsin
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+The state capital is Madison, and its largest city is Milwaukee, which is on the western shore of Lake Michigan. Railroads were built across the state to help transport grains to market, and industries like J.I. Wisconsin is bordered by the Montreal River This region is part of the Driftless Area, which also includes portions of Iowa, Illinois, and Minnesota. Wisconsin is served by eight commercial service airports, in addition to a number of general aviation airports. The Wisconsin Department of Transportation is responsible for planning, building and maintaining the state's highways. Eight Interstate Highways are located in the state. Amtrak provides daily passenger rail service between Chicago and Milwaukee through the Hiawatha Service. Also provided is cross-country service via the Empire Builder with stops in several cities across Wisconsin. Commuter rail provider Metra's Union Pacific North (UP-N) line has its northern terminus in Kenosha, the only Metra line and station in the state of Wisconsin. The 2.1 mile (3.4 km) initial line runs from Milwaukee Intermodal Station to Burns Commons.
+\Predicted Summary:
+Wisconsin ( (listen)) is a state in the Great Lakes region of the Midwestern United States, bordered by Minnesota to the west; Iowa to the southwest; Illinois to the south; Lake Michigan to the east; Michigan to the northeast; and Lake Superior to the north. Wisconsin is the 23rd-largest state by total area and the 20th-most populous. The state capital is Madison, and its largest city is Milwaukee, which is on the western shore of Lake Michigan. The state is divided into 72 counties. Wisconsin's geography is diverse, having been greatly impacted by glaciers during the Ice Age with the exception of the Driftless Area. The Northern Highland and Western Upland along with a part of the Central Plain occupies the western part of the state, with lowlands stretching to the shore of Lake Michigan. Wisconsin is third to Ontario and Michigan in the length of its Great Lakes coastline. At the time of European contact, the area that is now Wisconsin was inhabited by Algonquian and Siouan nations. During the 19th and early 20th centuries, many European settlers entered the state, many of whom emigrated from Germany and Scandinavia. Like neighboring Minnesota, the state remains a center of German American and Scandinavian American culture. The state is one of the nation's leading dairy producers and is known as "America's Dairyland"; it is particularly famous for its cheese. Manufacturing (especially paper products), information technology, cranberries, ginseng, and tourism are also major contributors to the state's economy.
+
+GT:
+Wisconsin is served by eight commercial service airports, in addition to a number of general aviation airports. Milwaukee Mitchell International Airport is the only international commercial airport located in Wisconsin. Eight Interstate Highways are located in the state. Amtrak provides daily passenger rail service between Chicago and Milwaukee through the Hiawatha Service. Also provided is cross-country service via the Empire Builder with stops in several cities across Wisconsin. Commuter rail provider Metra's Union Pacific North (UP-N) line has its northern terminus in Kenosha, the only Metra line and station in the state of Wisconsin. The Hop, a modern streetcar system in Milwaukee, began service in 2018.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3211009174311927, 0.1394422310756972, 0.19444444444444445, 0.12152777777777778]
+[0.05555555555555555, 0.024, 0.033519553072625705, 0.020949720670391064]
+[0.21100917431192662, 0.09163346613545817, 0.1277777777777778, 0.07986111111111112]
+
+
+SBERT sim. Score: 0.4664106070995331

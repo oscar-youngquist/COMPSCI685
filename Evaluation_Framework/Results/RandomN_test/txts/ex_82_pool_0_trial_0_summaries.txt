@@ -1,0 +1,21 @@
+Document:
+mississippi
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Mississippi is the 32nd largest and 34th-most populous of the 50 US states. The state's economist characterized the state as losing population as job markets elsewhere have caused 3.2 per 1000 to migrate recently. Their population in the state overall has increased in the 21st century. The Bureau of Economic Analysis estimates that Mississippi's total state product in 2010 was $98 billion. Largely due to the domination of the plantation economy, focused on the production of agricultural cotton, the state's elite was reluctant to invest in infrastructure such as roads and railroads. In 2012, Mississippi had the sixth largest gambling revenue of any state, with $2.25 billion. As of December 2018, the state's unemployment rate was 4.7%, the seventh highest in the country after Arizona (4.9%), Louisiana (4.9%), New Mexico (5.0%), West Virginia (5.1%), District of Columbia (5.4%) and Alaska (6.5%). This ranks the state second-highest nationally, and represents an increase from 1995, when Mississippi received $1.54 per dollar of taxes in federal spending and was 3rd highest nationally.
+\Predicted Summary:
+Both slaves and free blacks were welcomed into Methodist and Baptist churches. This figure is based on federal spending after large portions of the state were devastated by Hurricane Katrina, requiring large amounts of federal aid from the Federal Emergency Management Agency (FEMA). As in the rest of the Deep South, thunderstorms are common in Mississippi, especially in the southern part of the state. In rural areas, deaths of blacks could be covered up. Mississippi was a slave society, with the economy dependent on slavery. Such floods regularly overwhelmed levees damaged by Confederate and Union fighting during the war, as well as those constructed after the war. The Delta Blues Museum there is visited by tourists from all over the world. and Afroman, Mississippi musicians have been significant in all genres. Some of these slaves were mixed race, with European ancestors, as there were many children born into slavery with white fathers.
+
+GT:
+The Bureau of Economic Analysis estimates that Mississippi's total state product in 2010 was $98 billion. Mississippi's rank as one of the poorest states is related to its dependence on cotton agriculture before and after the Civil War, late development of its frontier bottomlands in the Mississippi Delta, repeated natural disasters of flooding in the late 19th and early 20th century that required massive capital investment in levees, and ditching and draining the bottomlands, and slow development of railroads to link bottomland towns and river cities. In addition, when Democrats regained control of the state legislature, they passed the 1890 constitution that discouraged corporate industrial development in favor of rural agriculture, a legacy that would slow the state's progress for years. The legislature's 1990 decision to legalize casino gambling along the Mississippi River and the Gulf Coast has led to increased revenues and economic gains for the state. Gambling towns in Mississippi have attracted increased tourism: they include the Gulf Coast resort towns of Bay St. Louis, Gulfport and Biloxi, and the Mississippi River towns of Tunica (the third largest gaming area in the United States), Greenville, Vicksburg and Natchez. It has some major automotive factories, such as the Toyota Mississippi Plant in Blue Springs and a Nissan Automotive plant in Canton. With Mississippi's fiscal conservatism, in which Medicaid, welfare, food stamps, and other social programs are often cut, eligibility requirements are tightened, and stricter employment criteria are imposed, Mississippi ranks as having the second-highest ratio of spending to tax receipts of any state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2076923076923077, 0.35526315789473684, 0.2621359223300971, 0.16383495145631066]
+[0.03474903474903475, 0.059602649006622516, 0.04390243902439024, 0.027439024390243903]
+[0.1076923076923077, 0.18421052631578946, 0.1359223300970874, 0.08495145631067963]
+
+
+SBERT sim. Score: 0.49933236837387085

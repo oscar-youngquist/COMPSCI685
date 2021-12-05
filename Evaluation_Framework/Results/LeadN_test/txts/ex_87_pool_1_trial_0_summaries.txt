@@ -1,0 +1,21 @@
+Document:
+tennessee
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Tennessee's major industries include agriculture, manufacturing, and tourism. Major outputs for the state include textiles, cotton, cattle, and electrical power. It is one of nine states that do not have a general income tax The state's sales and use tax rate for most items is 7%, the second-highest in the nation, along with Mississippi, Rhode Island, New Jersey, and Indiana. Tourism contributes billions of dollars every year to the state's economy, and Tennessee is ranked among the Top 10 destinations in the nation. In 2014 a record 100 million people visited the state resulting in $17.7 billion in tourism related spending within the state, an increase of 6.3% over 2013; tax revenue from tourism equaled $1.5 billion. In addition a number of private colleges and universities are located throughout the state.
+\Predicted Summary:
+Tennessee ( (listen), locally ), officially the State of Tennessee, is a state in the southeastern United States. Tennessee is the 36th largest by area and the 16th most populous of the 50 states. It is bordered by eight states, with Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The Appalachian Mountains dominate the eastern part of the state, and the Mississippi River forms its western border. Nashville is the state's capital and largest city, with a 2019 population of 670,820 and a 2019 metro population of 1,934,317. Tennessee's second largest city is Memphis, which had a population of 651,073 and metro population of 1,346,045 in 2019. The state of Tennessee is rooted in the Watauga Association, a 1772 frontier pact generally regarded as the first constitutional government west of the Appalachians. What is now Tennessee was initially part of North Carolina, and later part of the Southwest Territory.
+
+GT:
+Large corporations with headquarters in Tennessee include FedEx, AutoZone and International Paper, all based in Memphis; Pilot Corporation and Regal Entertainment Group, based in Knoxville; Eastman Chemical Company, based in Kingsport; Hospital Corporation of America and Caterpillar Financial, based in Nashville; and Unum, based in Chattanooga. Tennessee is also a major hub for the automotive industry. Four automobile manufacturers have factories in Tennessee: Nissan in Smyrna, General Motors in Spring Hill, Van Hool in Morristown, and Volkswagen in Chattanooga. Tennessee has a reputation as low-tax state and is usually ranked as one of the five states with the lowest tax burden on residents. Tourism contributes billions of dollars every year to the state's economy, and Tennessee is ranked among the Top 10 destinations in the nation. Tennessee has played a critical role in the development of many forms of American popular music, including rock and roll, blues, country, and rockabilly.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3092105263157895, 0.26704545454545453, 0.28658536585365857, 0.17911585365853658]
+[0.06622516556291391, 0.05714285714285714, 0.06134969325153374, 0.03834355828220859]
+[0.18421052631578946, 0.1590909090909091, 0.17073170731707316, 0.10670731707317074]
+
+
+SBERT sim. Score: 0.5984266400337219

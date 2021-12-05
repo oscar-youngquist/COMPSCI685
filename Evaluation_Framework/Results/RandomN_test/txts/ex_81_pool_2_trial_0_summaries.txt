@@ -1,0 +1,21 @@
+Document:
+mississippi
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Plantations were developed primarily along the major rivers, where the waterfront provided access to the major transportation routes. The relatively low population of the state before the Civil War reflected the fact that land and villages were developed only along the riverfronts, which formed the main transportation corridors. They also took advantage of new railroads sponsored by the state. Most migrants from Mississippi took trains directly north to Chicago and often settled near former neighbors. Mississippi has six airports with commercial passenger service, the busiest in Jackson (Jackson-Evers International Airport) and one in Gulfport (Gulfport-Biloxi International Airport) Mississippi is served by nine interstate highways: Routes: as well as a system of State Highways. Amtrak provides scheduled passenger service along two routes, the Crescent and City of New Orleans. All but two of the United States Class I railroads serve Mississippi (the exceptions are the Union Pacific and Canadian Pacific):
+\Predicted Summary:
+They used some of their profits to buy more cotton land and more slaves. Through the trade, an estimated nearly one million slaves were forcibly transported to the Deep South, including Mississippi, in an internal migration that broke up many slave families of the Upper South, where planters were selling excess slaves. The committee found severe destitution among the laboring classes. Mississippi City Population Rankings of at least 50,000 (United States Census Bureau as of 2017): While the state has had a reputation for being racist, Mississippi musicians created new forms by combining and creating variations on musical traditions from Africa, African American traditions, and the musical traditions of white Southerners strongly shaped by Scots-Irish and other styles. Governor Paul Johnson urged repeal and the sheriff "raided the annual Junior League Mardi Gras ball at the Jackson Country Club, breaking open the liquor cabinet and carting off the Champagne before a startled crowd of nobility and high-ranking state officials". Mississippi's highest point is Woodall Mountain at 807 feet (246 m) above sea level adjacent to the Cumberland Plateau In the early 1980s many Vietnamese immigrated to Mississippi and other states along the Gulf of Mexico, where they became employed in fishing-related work. There are approximately 3000 species of vascular plants known from Mississippi. Under the terms of Reconstruction, Mississippi was restored to the Union on February 23, 1870. Close by is "Ground Zero", a contemporary blues club and restaurant co-owned by actor Morgan Freeman.
+
+GT:
+Mississippi has six airports with commercial passenger service, the busiest in Jackson (Jackson-Evers International Airport) and one in Gulfport (Gulfport-Biloxi International Airport) Mississippi is the only American state where people in cars may legally consume beer. Mississippi is served by nine interstate highways: Amtrak provides scheduled passenger service along two routes, the Crescent and City of New Orleans. Prior to severe damage from Hurricane Katrina, the Sunset Limited traversed the far south of the state; the route originated in Los Angeles, California and it terminated in Florida. All but two of the United States Class I railroads serve Mississippi (the exceptions are the Union Pacific and Canadian Pacific):
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.42727272727272725, 0.188, 0.2611111111111111, 0.16319444444444445]
+[0.03669724770642202, 0.01606425702811245, 0.0223463687150838, 0.013966480446927373]
+[0.22727272727272727, 0.1, 0.1388888888888889, 0.08680555555555555]
+
+
+SBERT sim. Score: 0.4149317443370819

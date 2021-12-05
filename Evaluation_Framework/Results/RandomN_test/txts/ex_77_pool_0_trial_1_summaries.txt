@@ -1,0 +1,21 @@
+Document:
+maine
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Maine's agricultural outputs include poultry, eggs, dairy products, cattle, wild blueberries, apples, maple syrup, and maple sugar. Commercial fishing, once a mainstay of the state's economy, maintains a presence, particularly lobstering and groundfishing. Maine's industrial outputs consist chiefly of paper, lumber and wood products, electronic equipment, leather products, food products, textiles, and bio-technology. Maine has very few large companies that maintain headquarters in the state, and that number has fallen due to consolidations and mergers, particularly in the pulp and paper industry. The state is a major producer of potatoes, wild blueberries, apples, maple syrup and sweet corn. Dairy products and chicken's eggs are other major industries. Maine has many vegetable farms and other small, diversified farms. Maine has a smaller number of commodity farms and confined animal feeding operations. Since the 1980s, the state has gotten a reputation for its local food and restaurant meals.
+\Predicted Summary:
+One of these yards was located in Pennellville Historic District in what is now Brunswick, Maine. Maine is the number one US producer of low-bush blueberries (Vaccinium angustifolium). There are particularly high concentrations in the northern part of Maine in Aroostook County, which is part of a cultural region known as Acadia that goes over the border into New Brunswick. The governor is Democrat Janet Mills. January temperatures range from highs near 30 °F (−1 °C) on the southern coast to overnight lows averaging below 0 °F (−18 °C) in the far north. In 1992, as an independent candidate, Perot came in second to Democrat Bill Clinton, despite the long-time presence of the Bush family summer home in Kennebunkport. Secessionist sentiment in Maine was stoked during the War of 1812 when Massachusetts pro-British merchants opposed the war and refused to defend Maine from British invaders. Captain John Smith, in his "Description of New England" (1614) laments the lack of exploration: "Thus you may see, of this 2000. miles more then halfe is yet vnknowne to any purpose: no not so much as the borders of the Sea are yet certainly discouered. As of 2010, Maine was also the most rural state in the Union, with only 38.7% of the state's population living within urban areas. All judges except for probate judges serve full-time, are nominated by the Governor and confirmed by the Legislature for terms of seven years.
+
+GT:
+Maine's agricultural outputs include poultry, eggs, dairy products, cattle, wild blueberries, apples, maple syrup, and maple sugar. Commercial fishing, once a mainstay of the state's economy, maintains a presence, particularly lobstering and groundfishing. While lobster is the main seafood focus for Maine, the harvest of both oysters and seaweed are on the rise. In 2015, 14% of the Northeast's total oyster supply came from Maine. In 2017, the production of Maine's seaweed industry was estimated at $20 million per year. Western Maine aquifers and springs are a major source of bottled water. Maine's industrial outputs consist chiefly of paper, lumber and wood products, electronic equipment, leather products, food products, textiles, and bio-technology. Tourism and outdoor recreation play a major and increasingly important role in Maine's economy.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2857142857142857, 0.1557377049180328, 0.20159151193633953, 0.12599469496021218]
+[0.06818181818181818, 0.037037037037037035, 0.048, 0.03]
+[0.17293233082706766, 0.0942622950819672, 0.1220159151193634, 0.07625994694960211]
+
+
+SBERT sim. Score: 0.43911853432655334

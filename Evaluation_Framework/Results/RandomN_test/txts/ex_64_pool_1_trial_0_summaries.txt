@@ -1,0 +1,21 @@
+Document:
+alaska
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined, and the seventh-largest subnational division in the world. While it has one of the smallest state economies in the country, Alaska's per capita income is among the highest, owing to a diversified economy dominated by fishing, natural gas, and oil, all of which it has in abundance. Alaska's indigenous population is proportionally the highest of any US state, at over 15 percent. In 2010, Alaska ranked as the 47th state by population, ahead of North Dakota, Vermont, and Wyoming (and Washington, D.C.). Alaska is by far the largest US state by area, and the tenth wealthiest (per capita income). Alaska also has the largest Quaker population (by percentage) of any state. According to a 2013 study by Phoenix Marketing International, Alaska had the fifth-largest number of millionaires per capita in the United States, with a ratio of 6.75 percent.
+\Predicted Summary:
+An area stretching from the northern side of the Seward Peninsula to the Kobuk River valley (i. e., the region around Kotzebue Sound) is technically a desert, with portions receiving less than 10 in (25 cm) of precipitation annually. A semi-exclave of the US, it borders the Canadian province of British Columbia and territory of Yukon to the east and southeast and has a maritime border with Russia's Chukotka Autonomous Okrug to the west. Other local taxes levied include raw fish taxes, hotel, motel, and bed-and-breakfast 'bed' taxes, severance taxes, liquor and tobacco taxes, gaming (pull tabs) taxes, tire taxes and fuel transfer taxes. It is the world's largest wildlife refuge, comprising 16 million acres (6.5 million hectares). When completed, the mosque will be the first in the state and one of the northernmost mosques in the world. For most of Alaska's first decade under the United States flag, Sitka was the only community inhabited by American settlers. From its initial principal of $734,000, the fund has grown to $50 billion as a result of oil royalties and capital investment programs.
+
+GT:
+While it has one of the smallest state economies in the country, Alaska's per capita income is among the highest, owing to a diversified economy dominated by fishing, natural gas, and oil, all of which it has in abundance. Unimak Island, for example, is home to Mount Shishaldin, which is an occasionally smoldering volcano that rises to 10,000 feet (3,000 m) above the North Pacific. It is the most perfect volcanic cone on Earth, even more symmetrical than Japan's Mount Fuji. The 2018 gross state product was $55 billion, 48th in the nation. Its per capita personal income for 2018 was $73,000, ranking 7th in the nation. According to a 2013 study by Phoenix Marketing International, Alaska had the fifth-largest number of millionaires per capita in the United States, with a ratio of 6.75 percent. The Alaska Permanent Fund is a constitutionally authorized appropriation of oil revenues, established by voters in 1976 to manage a surplus in state petroleum revenues from oil, largely in anticipation of the then recently constructed Trans-Alaska Pipeline System. Starting in 1982, dividends from the fund's annual growth have been paid out each year to eligible Alaskans, ranging from an initial $1,000 in 1982 (equal to three years' payout, as the distribution of payments was held up in a lawsuit over the distribution scheme) to $3,269 in 2008 (which included a one-time $1,200 "Resource Rebate").
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2892561983471074, 0.37037037037037035, 0.32482598607888624, 0.2030162412993039]
+[0.05394190871369295, 0.06914893617021277, 0.06060606060606061, 0.03787878787878788]
+[0.1322314049586777, 0.1693121693121693, 0.14849187935034802, 0.09280742459396751]
+
+
+SBERT sim. Score: 0.5105221271514893

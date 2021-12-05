@@ -1,0 +1,21 @@
+Document:
+new_hampshire
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Numerous mills were located along various rivers in the state, especially the Merrimack and Connecticut rivers. Manufacturing centers such as Manchester, Nashua and Berlin were hit hard in the 1930s–1940s as major manufacturing industries left New England and moved to the Southern United States or overseas, reflecting nationwide trends. It is the state with the highest percentage of timberland area in the country. It contains less than 5% of the state's population, suffers relatively high poverty, and is steadily losing population as the logging and paper industries decline. The northern parts of the state produced lumber, and the mountains provided tourist attractions. Its agricultural outputs are dairy products, nursery stock, cattle, apples and eggs. Its industrial outputs are machinery, electric equipment, rubber and plastic products, and tourism is a major component of the economy. Today, of the state's total manufacturing dollar value, these sectors contribute only two percent for textiles, two percent for leather goods, and nine percent for machining. The state's largest economic sectors in 2018, based on contribution to GDP, are: 15% real estate and rental and leasing; 13% professional business services; 12% manufacturing; 10% government and government services; and 9% health care and social services. Efforts to diversify the state's general economy have been ongoing.
+\Predicted Summary:
+Much of the state, in particular the White Mountains, is covered by the conifers and northern hardwoods of the New England-Acadian forests. New Hampshire was a Jacksonian stronghold New Hampshire has 25 public-use airports, three with some scheduled commercial passenger service. In the 2012 state legislative elections, Democrats took back the New Hampshire House of Representatives and narrowed the Republican majority in the New Hampshire Senatorte to 13–11. New Hampshire is the only state in the US that does not require adults to wear seat belts in their vehicles. The 410-mile (660 km) Connecticut River, which starts at New Hampshire's Connecticut Lakes and flows south to Connecticut, defines the western border with Vermont. (General Sullivan, leader of the raid, described it as, "remainder of the powder, the small arms, bayonets, and cartouche-boxes, together with the cannon and ordnance stores") over the course of two nights. The Bureau of Economic Analysis estimates that New Hampshire's total state product in 2018 was $86 billion, ranking 40th in the United States. All state-level statutes treat all municipalities identically. New Hampshire experienced a major shift in its economic base during the 20th century. The United States Census Bureau estimates the population of New Hampshire was 1,359,711 on July 1, 2019, a 3.28% increase since the 2010 United States Census.
+
+GT:
+After 1960, the textile industry collapsed, but the economy rebounded as a center of high technology and as a service provider. Its agricultural outputs are dairy products, nursery stock, cattle, apples and eggs. Its industrial outputs are machinery, electric equipment, rubber and plastic products, and tourism is a major component of the economy. The state's largest economic sectors in 2018, based on contribution to GDP, are: 15% real estate and rental and leasing; 13% professional business services; 12% manufacturing; 10% government and government services; and 9% health care and social services. The Seabrook Station Nuclear Power Plant, near Portsmouth, is the largest nuclear reactor in New England and provided 57% of New Hampshire's electricity generation and 27% of its electricity consumption in 2017. New Hampshire's state government employs approximately 6,100 people. Additionally, the US Department of State employs approximately 1,600 people at the National Visa Center in Portsmouth, which processes United States immigrant visa petitions.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.35, 0.24778761061946902, 0.29015544041450775, 0.18134715025906736]
+[0.08176100628930817, 0.057777777777777775, 0.06770833333333333, 0.042317708333333336]
+[0.19375, 0.13716814159292035, 0.1606217616580311, 0.10038860103626943]
+
+
+SBERT sim. Score: 0.5077921152114868

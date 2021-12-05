@@ -1,0 +1,21 @@
+Document:
+ohio
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Ohio was the first post-colonial free state admitted to the union, and became one of the earliest and most influential industrial powerhouses in the 20th century; although it has transitioned to a more information and service based economy in the 21st century, Ohio remains an industrial state, ranking seventh in GDP as of 2019, with the third largest manufacturing sector and second largest automobile production. Ohio's geographic location has proven to be an asset for economic growth and expansion. Some cities, such as Dayton, owe their industrial emergence to location on canals, and as late as 1910 interior canals carried much of the bulk freight of the state. The industry of Ohio made the state one of the most important states in the Union during the Civil war. The manufacturing and financial activities sectors each compose 18.3% of Ohio's GDP, making them Ohio's largest industries by percentage of GDP. Ohio has the largest bioscience sector in the Midwest, and is a national leader in the "green" economy.
+\Predicted Summary:
+Ohio University, the first university in the Northwest Territory, was also the first public institution in Ohio. Marcy Kaptur (D-09) is the most senior member of the Ohio delegation to the US House of Representatives. Of the fifty states, it is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated. Ohio's central position and its population gave it an important place during the Civil War. The Pro Football Hall of Fame is located in Canton. The state has also won three consecutive Governor's Cup awards from the magazine, based on business growth and developments. In 1780, the directors of the Ohio Company appointed him superintendent of all its affairs relating to settlement north of the Ohio River.
+
+GT:
+It is home of Miami University and the University of Cincinnati, Cincinnati Union Terminal, Cincinnati Symphony Orchestra, and various Fortune 500 companies including Procter & Gamble, Kroger, Macy's, Inc., and Fifth Third Bank. Steubenville is the only metropolitan city in Appalachian Ohio, which is home to Hocking Hills State Park. Many of these Ohio-country nations were multi-ethnic (sometimes multi-linguistic) societies born out of the earlier devastation brought about by disease, war, and subsequent social instability. They subsisted on agriculture (corn, sunflowers, beans, etc.) supplemented by seasonal hunts. By the 18th century, they were part of a larger global economy brought about by European entry into the fur trade.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.27927927927927926, 0.22962962962962963, 0.25203252032520324, 0.15752032520325202]
+[0.02727272727272727, 0.022388059701492536, 0.024590163934426226, 0.015368852459016391]
+[0.15315315315315314, 0.1259259259259259, 0.13821138211382114, 0.08638211382113821]
+
+
+SBERT sim. Score: 0.35874873399734497

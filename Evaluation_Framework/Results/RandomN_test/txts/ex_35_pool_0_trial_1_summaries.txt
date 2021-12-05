@@ -1,0 +1,21 @@
+Document:
+delaware
+
+Intent:
+How is the government structured in this state?
+
+Input:
+Delaware's fourth and current constitution, adopted in 1897, provides for executive, judicial and legislative branches. The Delaware General Assembly consists of a House of Representatives with 41 members and a Senatorte with 21 members. Representatives are elected to two-year terms, while senators are elected to four-year terms. The Senatorte confirms judicial and other nominees appointed by the governor. The Delaware Constitution establishes a number of courts: Minor non-constitutional courts include the Justice of the Peace Courts and Aldermen's Courts. The executive branch is headed by the Governor of Delaware. The governor presents a "State of the State" speech to a joint session of the Delaware legislature annually. Each county elects its own legislative body (known in New Castle and Sussex counties as County Council, and in Kent County as Levy Court), which deal primarily in zoning and development issues. Currently, Democrats hold all positions of authority in Delaware including Senatorte and House. New Castle County also elects a substantial majority of the legislature
+\Predicted Summary:
+The present governor is John Carney (Democrat), who took office January 17, 2017. Delaware is home to several festivals, fairs, and events. The governor presents a "State of the State" speech to a joint session of the Delaware legislature annually. According to a 2013 study by Phoenix Marketing International, Delaware had the ninth-largest number of millionaires per capita in the United States, with a ratio of 6.2 percent. Penn established representative government and briefly combined his two possessions under one General Assembly in 1682. Delaware is home to First State National Historical Park, a National Park Service unit composed of historic sites across the state including the New Castle Court House, Green, and Sheriff's House, Dover Green, Beaver Valley, Fort Christina, Old Swedes' Church, John Dickinson Plantation, and the Ryves Holt House. The toponyms Gara, Gare, Gaire (the sound [ä] often mutated in [æ]) also appear in old texts cited by Lucien Musset, where the word ga(i)ra means gore. The state does not assess sales tax on consumers. On July 1, 2013, same-sex marriage was legalized, and all civil unions would be converted into marriages. Delaware's sister state in Japan is Miyagi Prefecture. The center of population of Delaware is in New Castle County, in the town of Townsend. In addition local Methodists and Quakers encouraged slaveholders to free their slaves following the American Revolution, and many did so in a surge of individual manumissions for idealistic reasons.
+
+GT:
+Delaware's fourth and current constitution, adopted in 1897, provides for executive, judicial and legislative branches. The Delaware General Assembly consists of a House of Representatives with 41 members and a Senatorte with 21 members. Representatives are elected to two-year terms, while senators are elected to four-year terms. The Senatorte confirms judicial and other nominees appointed by the governor. The Delaware Constitution establishes a number of courts: Minor non-constitutional courts include the Justice of the Peace Courts and Aldermen's Courts. The executive branch is headed by the Governor of Delaware. The present governor is John Carney (Democrat), who took office January 17, 2017. The lieutenant governor is Bethany Hall-Long. The governor presents a "State of the State" speech to a joint session of the Delaware legislature annually. Tax is collected by the Delaware Division of Revenue.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.5815602836879432, 0.3374485596707819, 0.4270833333333333, 0.2669270833333333]
+[0.24285714285714285, 0.14049586776859505, 0.1780104712041885, 0.1112565445026178]
+[0.2624113475177305, 0.1522633744855967, 0.19270833333333331, 0.12044270833333333]
+
+
+SBERT sim. Score: 0.6533346772193909

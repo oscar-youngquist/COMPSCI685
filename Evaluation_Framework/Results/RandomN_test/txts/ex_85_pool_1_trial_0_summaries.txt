@@ -1,0 +1,21 @@
+Document:
+colorado
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Grand Junction is also along the major railroad of the Western Slope, the Union Pacific. This railroad also provides the tracks for Amtrak's California Zephyr passenger train, which crosses the Rocky Mountains between Denver and Grand Junction via a route on which there are no continuous highways. The state is home to a network of US and Colorado highways that provide access to all principal areas of the state. DIA handles by far the largest volume of commercial air traffic in Colorado, and is the busiest US hub airport between Chicago and the Pacific coast, making Denver the most important airport for connecting passenger traffic in the western United States. Extensive public transportation bus services are offered both intra-city and inter-city—including the Denver metro area's extensive RTD services. Amtrak operates two passenger rail lines in Colorado, the California Zephyr and Southwest Chief. Both Union Pacific and BNSF have extensive freight operations in Colorado.
+\Predicted Summary:
+The federal government of the US flatly refused to recognize the new Mormon government, because it was theocratic and sanctioned plural marriage. Grand Junction, Colorado is the largest city on the Western Slope. From west to east, the land of Colorado consists of desert lands, desert plateaus, alpine mountains, National Forests, relatively flat grasslands, scattered forests, buttes, and canyons in the western edge of the Great Plains. There are also a number of established film festivals in Colorado, including Aspen Shortsfest, Boulder International Film Festival, Castle Rock Film Festival, Denver Film Festival, Festivus Film Festival (ended in 2013), Mile High Horror Film Festival, Moondance International Film Festival, Mountainfilm in Telluride, Rocky Mountain Women's Film Festival, and Telluride Film Festival. People of Hispanic and Latino American (of any race made) heritage made up 20.7% of the population. Unlike most states, which calculate taxes based on federal adjusted gross income, Colorado taxes are based on taxable income—income after federal exemptions and federal itemized (or standard) deductions. It connects Grand Junction and the mountain communities with Denver, and enters Utah and Kansas. Most valleys have a semi-arid climate not unlike the eastern plains, which transitions to an alpine climate at the highest elevations.
+
+GT:
+Colorado's primary mode of transportation (in terms of passengers) is its highway system. Denver International Airport (DIA) is the fifth-busiest domestic US airport and twentieth busiest airport in the world by passenger traffic. Extensive public transportation bus services are offered both intra-city and inter-city—including the Denver metro area's extensive RTD services. The Regional Transportation District (RTD) operates the popular RTD Bus & Rail transit system in the Denver Metropolitan Area. As of January 2013 the RTD rail system had 170 light-rail vehicles, serving 47 miles (76 km) of track. Amtrak operates two passenger rail lines in Colorado, the California Zephyr and Southwest Chief.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.30275229357798167, 0.16176470588235295, 0.21086261980830673, 0.13178913738019168]
+[0.027777777777777776, 0.014778325123152709, 0.019292604501607715, 0.012057877813504826]
+[0.1559633027522936, 0.08333333333333333, 0.10862619808306709, 0.06789137380191693]
+
+
+SBERT sim. Score: 0.39951184391975403

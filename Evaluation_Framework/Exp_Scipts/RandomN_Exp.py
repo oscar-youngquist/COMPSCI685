@@ -32,7 +32,7 @@ if not exists(join(cwd, "Logs/")):
 
 # define the file for the logging object
 # TODO: add your own log file name
-log_file = join(cwd, "Logs/", "RandomN.log")
+log_file = join(cwd, "Logs/", "RandomN_test.log")
 
 # set up logger
 root = logging.getLogger()
@@ -50,21 +50,21 @@ root.addHandler(file_handler)
 # sys.excepthook = exceptionhook
 
 # variables for experiment
-num_examples = 5                                                                                        # number of user-summaries used as examples
-num_test = 3                                 
+num_examples = 5
+num_test = 3
 shared_docs_path = os.path.join(Path(__file__).parent.parent.parent, "SubSumE_Data")
-data_path = os.path.join(shared_docs_path, "processed_state_sentences.csv")        # path to the processed sentences csv
-users_path = os.path.join(shared_docs_path, "Train/")                               # path to the user-files used for this experiment                              # path to the misc. shared data (might not be needed anymore)
-min_range = 0                                                                                           # these min/max values are left-over from multi-processing experiments in which we would create n SuDocu models and then have each process (# of total user-summary instances)/n users. Thus we needed a min/max for the files to be read into memory by each model
-max_range = 138
-num_trials = 1 # 1 trial is OK for LeadN because it's deterministic                                                                                    # number of times to evaluate all the examples
-model_name = "RandomN"                                                                                  # name of the model used for this experiment (creates a folder with this name in the results directory)
-exp_folder = ""                                                                                         # results folder for this experimental run, only used if running a) more than one model or b) the same model more than once
-                                                                                                        #     model_name folder is added as a sub-folder to this one 
+data_path = os.path.join(shared_docs_path, "processed_state_sentences.csv") 
+users_path = os.path.join(shared_docs_path, "Test/")
+min_range = 0
+max_range = 137
+num_trials = 1
+model_name = "RandomN_test"
+exp_folder = ""
+
 
 # create an instance of the experiment runner class
 # num_examples, num_test, users_path, data_path, min_range, max_index
-exp_runner = ExperimentRunner(num_examples, num_test, users_path, data_path, min_range, max_range)
+exp_runner = ExperimentRunner(num_examples, num_test, users_path, data_path, min_range, max_range, shared_docs_path)
 
 # create the model(s) you are going to evaluate
 #     data_path, shared_docs_path, num_examples, max_solvs=50, length_modifier=0.25
@@ -72,4 +72,4 @@ random_n_model = RandomN(data_path, shared_docs_path, num_examples)
 
 # perform the actual experiment
 #     model, num_trials, display_results, model_name, exp_folder=None, multi_processing=True
-exp_runner.get_model_analysis(random_n_model, num_trials, True, model_name, multi_processing=False)
+exp_runner.get_model_analysis_final(random_n_model, True, model_name, multi_processing=False)

@@ -1,0 +1,21 @@
+Document:
+indiana
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Indiana has a diverse economy with a gross state product of $359.12 billion in 2017. The auto, steel and pharmaceutical industries topped Indiana's major businesses. The total gross state product in 2016 was $347.2 billion. A high percentage of Indiana's income is from manufacturing. According to the Bureau of Labor Statistics, nearly 17 percent of the state's non-farm workforce is employed in manufacturing, the highest of any state in the US The state's five leading exports were motor vehicles and auto parts, pharmaceutical products, industrial machinery, optical and medical equipment, and electric machinery. Along with corn, soybeans are also a major cash crop.
+\Predicted Summary:
+Indiana ( (listen)) is a US state in the Midwestern and Great Lakes regions of North America. It is the 38th-largest by area and the 17th-most populous of the 50 United States. Its capital and largest city is Indianapolis. Indiana was admitted to the United States as the 19th state on December 11, 1816. It borders Lake Michigan to the northwest, Michigan to the north, Ohio to the east, the Ohio River and Kentucky to the south and southeast, and the Wabash River and Illinois to the west. Before becoming a territory, various indigenous peoples inhabited Indiana for thousands of years. Since its founding as a territory, settlement patterns in Indiana have reflected regional cultural segmentation present in the Eastern United States; the state's northernmost tier was settled primarily by people from New England and New York, Central Indiana by migrants from the Mid-Atlantic states and adjacent Ohio, and Southern Indiana by settlers from the Southern states, particularly Kentucky and Tennessee. Indiana has a diverse economy with a gross state product of $359.12 billion in 2017.
+
+GT:
+A high percentage of Indiana's income is from manufacturing. According to the Bureau of Labor Statistics, nearly 17 percent of the state's non-farm workforce is employed in manufacturing, the highest of any state in the US The state's five leading exports were motor vehicles and auto parts, pharmaceutical products, industrial machinery, optical and medical equipment, and electric machinery. Despite its reliance on manufacturing, Indiana has been less affected by declines in traditional Rust Belt manufactures than many of its neighbors. Northwest Indiana has been the largest steel producing center in the US since 1975 and accounted for 27 percent of American-made steel in 2016. Indiana is within the US Corn Belt and Grain Belt. Along with corn, soybeans are also a major cash crop. Its proximity to large urban centers, such as Indianapolis and Chicago, assure dairying, egg production, and specialty horticulture occur.Other crops include melons, tomatoes, grapes, mint, popping corn, and tobacco in the southern counties.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.34355828220858897, 0.3111111111111111, 0.32653061224489793, 0.20408163265306123]
+[0.05555555555555555, 0.05027932960893855, 0.05278592375366569, 0.03299120234604106]
+[0.17791411042944785, 0.16111111111111112, 0.16909620991253646, 0.10568513119533528]
+
+
+SBERT sim. Score: 0.6285114884376526

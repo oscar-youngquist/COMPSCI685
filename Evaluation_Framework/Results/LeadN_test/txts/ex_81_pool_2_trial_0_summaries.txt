@@ -1,0 +1,21 @@
+Document:
+mississippi
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Plantations were developed primarily along the major rivers, where the waterfront provided access to the major transportation routes. The relatively low population of the state before the Civil War reflected the fact that land and villages were developed only along the riverfronts, which formed the main transportation corridors. They also took advantage of new railroads sponsored by the state. Most migrants from Mississippi took trains directly north to Chicago and often settled near former neighbors. Mississippi has six airports with commercial passenger service, the busiest in Jackson (Jackson-Evers International Airport) and one in Gulfport (Gulfport-Biloxi International Airport) Mississippi is served by nine interstate highways: Routes: as well as a system of State Highways. Amtrak provides scheduled passenger service along two routes, the Crescent and City of New Orleans. All but two of the United States Class I railroads serve Mississippi (the exceptions are the Union Pacific and Canadian Pacific):
+\Predicted Summary:
+Mississippi ( (listen)) is a state in the Deep South region of the Southern United States, bordered to the north by Tennessee; to the east by Alabama; to the south by the Gulf of Mexico; to the southwest by Louisiana; and to the northwest by Arkansas. Mississippi's western boundary is largely defined by the Mississippi River. Mississippi is the 32nd largest and 34th-most populous of the 50 US states. Jackson is both the state's capital and largest city. Greater Jackson is the state's most populous metropolitan area, with an estimated population of 580,166 in 2018. On December 10, 1817, Mississippi became the 20th state admitted to the Union. By 1860, Mississippi was the nation's top cotton-producing state and enslaved persons accounted for 55% of the state population. Mississippi declared its secession from the Union on March 23, 1861, and was one of the seven original Confederate States, which constituted the largest slaveholding states in the nation. Following the Civil War, it was restored to the Union on February 23, 1870. Until the Great Migration of the 1930s, African Americans were a majority of Mississippi's population. Mississippi was the site of many prominent events during the civil rights movement, including the Ole Miss riot of 1962 by white students objecting to desegregation, the 1963 assassination of Medgar Evers, and the 1964 Freedom Summer murders of three activists working on voting rights.
+
+GT:
+Mississippi has six airports with commercial passenger service, the busiest in Jackson (Jackson-Evers International Airport) and one in Gulfport (Gulfport-Biloxi International Airport) Mississippi is the only American state where people in cars may legally consume beer. Mississippi is served by nine interstate highways: Amtrak provides scheduled passenger service along two routes, the Crescent and City of New Orleans. Prior to severe damage from Hurricane Katrina, the Sunset Limited traversed the far south of the state; the route originated in Los Angeles, California and it terminated in Florida. All but two of the United States Class I railroads serve Mississippi (the exceptions are the Union Pacific and Canadian Pacific):
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.4, 0.18565400843881857, 0.25360230547550433, 0.15850144092219018]
+[0.06422018348623854, 0.029661016949152543, 0.04057971014492753, 0.02536231884057971]
+[0.2545454545454545, 0.11814345991561181, 0.16138328530259366, 0.10086455331412103]
+
+
+SBERT sim. Score: 0.48379284143447876

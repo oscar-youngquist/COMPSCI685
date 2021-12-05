@@ -1,0 +1,21 @@
+Document:
+georgia
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+The colonial settlement of large numbers of Scottish American, English American and Scotch-Irish Americans in the mountains and piedmont, and coastal settlement by some English Americans and African Americans, have strongly influenced the state's culture in food, language and music. The Georgia Film, Music and Digital Entertainment Office promotes filming in the state. The area is also popular with golfers. There are a number of performing arts venues in the state, among the largest are the Fox Theatre, and the Alliance Theatre at the Woodruff Arts Center, both on Peachtree Street in Midtown Atlanta as well as the Cobb Energy Performing Arts Centre, located in Northwest Atlanta. Production was then moved to Burbank, California. A number of notable musicians in various genres of popular music are from Georgia. Outdoor recreational activities include hiking along the Appalachian Trail
+\Predicted Summary:
+In 2020, it voted Democratic for the first time in 28 years, aiding Joe Biden in his defeat of incumbent Republican Donald Trump. Atlanta's Georgia Dome hosted Super Bowl XXVIII in 1994 and Super Bowl XXXIV in 2000. In 2013, $189 million was invested in Georgia to install solar for home, business and utility use representing a 795% increase over the previous year. White one-party rule was solidified. This northern border was originally the Georgia and North Carolina border all the way to the Mississippi River, until Tennessee was divided from North Carolina, and the Yazoo companies induced the legislature of Georgia to pass an act, approved by the governor in 1795, to sell the greater part of Georgia's territory presently comprising Alabama and Mississippi. Ossoff is the state's first Jewish senator, and Warnock is the state's first Black senator. 's multiple references to Decatur, Georgia, as in his hit song "Strange Clouds". This change is currently only in effect for the 2020–21 school year.
+
+GT:
+Georgia's major fine art museums include the High Museum of Art and the Michael C. Carlos Museum, both in Atlanta; the Georgia Museum of Art on the campus of the University of Georgia in Athens; Telfair Museum of Art and the SCAD Museum of Art in Savannah; and the Morris Museum of Art in Augusta. The Atlanta Symphony Orchestra is the most widely recognized orchestra and largest arts organization in the southeastern United States. There are a number of performing arts venues in the state, among the largest are the Fox Theatre, and the Alliance Theatre at the Woodruff Arts Center, both on Peachtree Street in Midtown Atlanta as well as the Cobb Energy Performing Arts Centre, located in Northwest Atlanta. Well-known television shows set in Atlanta include, from Tyler Perry Studios, House of Payne and Tyler Perry's Meet the Browns, The Real Housewives of Atlanta, the CBS sitcom Designing Women, Matlock, the popular AMC series The Walking Dead, Lifetime's Drop Dead Diva, Rectify and numerous HGTV original productions. A number of notable musicians in various genres of popular music are from Georgia. The state of Georgia has teams in four major professional leagues—the Atlanta Braves of Major League Baseball, the Atlanta Falcons of the National Football League, the Atlanta Hawks of the National Basketball Association, and Atlanta United FC of Major League Soccer. The Masters golf tournament, the first of the PGA tour's four "majors", is held annually the second weekend of April at the Augusta National Golf Club.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1953125, 0.29239766081871343, 0.234192037470726, 0.14637002341920377]
+[0.03529411764705882, 0.052941176470588235, 0.042352941176470586, 0.026470588235294117]
+[0.125, 0.1871345029239766, 0.14988290398126464, 0.09367681498829039]
+
+
+SBERT sim. Score: 0.34600141644477844

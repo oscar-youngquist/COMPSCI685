@@ -1,0 +1,21 @@
+Document:
+maryland
+
+Intent:
+What drives the economy in this state?
+
+Input:
+As of 2015, Maryland had the highest median household income of any state, owing in large part to its proximity to Washington, D.C. and a highly diversified economy spanning manufacturing, services, higher education, and biotechnology. Nearby supplies of natural resources along with railroads fostered its growth into a major manufacturing center. Manufacturing, while large in dollar value, is highly diversified with no sub-sector contributing over 20 percent of the total. Mining other than construction materials is virtually limited to coal, which is located in the mountainous western part of the state. The state as a whole is heavily industrialized, with a booming economy and influential technology centers. Its computer industries are some of the most sophisticated in the United States, and the federal government has invested heavily in the area. Maryland has a large food-production sector. Maryland's food-processing plants are the most significant type of manufacturing by value in the state.
+\Predicted Summary:
+Baltimore businessmen, including Johns Hopkins, Enoch Pratt, George Peabody, and Henry Walters, founded notable city institutions that bear their names, including a university, library, music school and art museum. Historically, there used to be small gold-mining operations in Maryland, some near Washington, but these no longer exist. In 1878, the Chesapeake Bay Retriever was the first individual retriever breed recognized by the American Kennel Club. A large component of this is commercial fishing, centered in the Chesapeake Bay, but also including activity off the short Atlantic seacoast. Among them are two beltways encircling the major cities of the region: I-695, the McKeldin (Baltimore) Beltway, which encircles Baltimore; and a portion of I-495, the Capital Beltway, which encircles Washington, D.C. I-270, which connects the Frederick area with Northern Virginia and the District of Columbia through major suburbs to the northwest of Washington, is a major commuter route and is as wide as fourteen lanes at points. In 2010, Republicans won control of most counties. Attracting educated Asians and Africans to the professional jobs in the region, Maryland has the fifth-largest proportions of racial minorities in the country. Earthquakes in Maryland are infrequent and small due to the state's distance from seismic/earthquake zones. Each county and county-equivalent in Maryland has a local Board of Education charged with running the public schools in that particular jurisdiction.
+
+GT:
+As of 2015, Maryland had the highest median household income of any state, owing in large part to its proximity to Washington, D.C. and a highly diversified economy spanning manufacturing, services, higher education, and biotechnology. Maryland's economy benefits from the state's proximity to the federal government in Washington, D.C. with an emphasis on technical and administrative tasks for the defense/aerospace industry and bio-research laboratories, as well as staffing of satellite government headquarters in the suburban or exurban Baltimore/Washington area. Baltimore City is among the top 15 largest ports in the nation, and was one of six major US ports that were part of the February 2006 controversy over the Dubai Ports World deal. The state as a whole is heavily industrialized, with a booming economy and influential technology centers. Its computer industries are some of the most sophisticated in the United States, and the federal government has invested heavily in the area. Maryland is home to several large military bases and scores of high-level government jobs.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.4425287356321839, 0.33189655172413796, 0.37931034482758624, 0.23706896551724138]
+[0.06358381502890173, 0.047619047619047616, 0.05445544554455445, 0.03403465346534654]
+[0.1839080459770115, 0.13793103448275862, 0.15763546798029557, 0.09852216748768472]
+
+
+SBERT sim. Score: 0.5131040215492249

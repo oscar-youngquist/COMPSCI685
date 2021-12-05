@@ -1,0 +1,21 @@
+Document:
+illinois
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all US states. Springfield, the state's capital, comes in as sixth-most populous with 117,352 residents. The state's 2019 per capita gross state product was estimated to be around $72,000. As of 2011, Illinois is ranked as the 4th-most productive manufacturing state in the country, behind California, Texas, and Ohio. As of 2017 Chicago had the highest state and local sales tax rate for a US city with a populations above 200,000, at 10.250%. Illinois has the distinction of having the most primary (two-digit) interstates pass through it among all the 50 states with 13. Illinois also ranks third among the fifty states with the most interstate mileage, coming in after California and Texas, which are much bigger states in area.
+\Predicted Summary:
+Illinois ( (listen) IL-ə-NOY) is a state in the Midwestern and Great Lakes regions of the United States. It has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all US states. Illinois has been noted as a microcosm of the entire United States. With Chicago in northeastern Illinois, small industrial cities and immense agricultural productivity in the north and center of the state, and natural resources such as coal, timber, and petroleum in the south, Illinois has a diverse economic base, and is a major transportation hub. The Port of Chicago connects the state to international ports via two main routes: from the Great Lakes, via the Saint Lawrence Seaway, to the Atlantic Ocean and from the Great Lakes to the Mississippi River, via the Illinois River, through the Illinois Waterway. The Mississippi River, the Ohio River, and the Wabash River form parts of the boundaries of Illinois. For decades, Chicago's O'Hare International Airport has been ranked as one of the world's busiest airports. Illinois has long had a reputation as a bellwether both in social and cultural terms and, through the 1980s, in politics.
+
+GT:
+As of February 2019, the unemployment rate in Illinois reached 4.2%. Illinois's minimum wage will rise to $15 per hour by 2025, making it one of the highest in the nation. Illinois is one of the nation's manufacturing leaders, boasting annual value added productivity by manufacturing of over $107 billion in 2006. As of 2011, Illinois is ranked as the 4th-most productive manufacturing state in the country, behind California, Texas, and Ohio. By the early 2000s, Illinois's economy had moved toward a dependence on high-value-added services, such as financial trading, higher education, law, logistics, and medicine. Illinois is a net importer of fuels for energy, despite large coal resources and some minor oil production. Illinois is ranked second in corn production among US states, and Illinois corn is used to produce 40% of the ethanol consumed in the United States. In 1990, that rate was set at 3%, but in 2010, the General Assembly voted for a temporary increase in the rate to 5%; the new rate went into effect on January 1, 2011; the personal income rate partially sunset on January 1, 2015, to 3.75%, while the corporate income tax fell to 5.25%.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3399014778325123, 0.3484848484848485, 0.34413965087281795, 0.2150872817955112]
+[0.07425742574257425, 0.07614213197969544, 0.07518796992481203, 0.046992481203007516]
+[0.15763546798029557, 0.16161616161616163, 0.15960099750623444, 0.09975062344139653]
+
+
+SBERT sim. Score: 0.6280220150947571

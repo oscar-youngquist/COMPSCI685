@@ -1,0 +1,21 @@
+Document:
+south_carolina
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+The larger rivers are navigable up to the fall line, providing a trade route for mill towns. The Cherokee Parkway is a scenic driving route through this area. The state has the fourth largest state-maintained system in the country, consisting of 11 Interstates, numbered highways, state highways, and secondary roads, totalling approximately 41,500 miles. On secondary roads, South Carolina uses a numbering system to keep track of all non-interstate and primary highways that the South Carolina Department of Transportation maintains. Passenger railAmtrak operates four passenger routes in South Carolina: the Crescent, the Palmetto, the Silver Meteor, and the Silver Star. FreightCSX Transportation and Norfolk Southern are the only Class I railroad companies in South Carolina, as other freight companies in the state are short lines. As of December 2016, the state maintains a 5,582-bus fleet with the average vehicle in service being fifteen years old (the national average is six) having logged 236,000 miles.
+\Predicted Summary:
+During this time the state had changed, with increasing urbanization, but rural counties retained proportionally more power as the legislature was based in representatives elected from counties rather than population districts. According to the University of South Carolina's Arnold School of Public Health, Consortium for Latino Immigration Studies, South Carolina's foreign-born population grew faster than any other state between 2000 and 2005. This is an annual concern during hurricane season, which lasts from June 1 to November 30. FreightCSX Transportation and Norfolk Southern are the only Class I railroad companies in South Carolina, as other freight companies in the state are short lines. Before 1865, governors in South Carolina were appointed by the General Assembly, and held the title "President of State". The garrison lacked supplies, however, and the soldiers (as in the France Antarctique) soon ran away. This status continued until 1973, when the state constitution was amended to provide for home rule for the counties. In the mid to late 1870s, white Democrats used paramilitary groups such as the Red Shirts to intimidate and terrorize black voters.
+
+GT:
+The state has the fourth largest state-maintained system in the country, consisting of 11 Interstates, numbered highways, state highways, and secondary roads, totalling approximately 41,500 miles. On secondary roads, South Carolina uses a numbering system to keep track of all non-interstate and primary highways that the South Carolina Department of Transportation maintains. Passenger railAmtrak operates four passenger routes in South Carolina: the Crescent, the Palmetto, the Silver Meteor, and the Silver Star. The Crescent route serves the Upstate cities, the Silver Star serves the Midlands cities, and the Palmetto and Silver Meteor routes serve the lowcountry cities. FreightCSX Transportation and Norfolk Southern are the only Class I railroad companies in South Carolina, as other freight companies in the state are short lines. There are seven significant airports in South Carolina, all of which act as regional airport hubs.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.425531914893617, 0.32967032967032966, 0.3715170278637771, 0.2321981424148607]
+[0.22142857142857142, 0.1712707182320442, 0.1931464174454829, 0.12071651090342682]
+[0.2978723404255319, 0.23076923076923078, 0.2600619195046439, 0.16253869969040247]
+
+
+SBERT sim. Score: 0.5324309468269348

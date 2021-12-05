@@ -1,0 +1,21 @@
+Document:
+kansas
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Kansas is served by two Interstate highways with one beltway, two spur routes, and three bypasses, with over 874 miles (1,407 km) in all. Spur routes serve as connections between the two major routes. I-335, a southwest–northeast route, connects I-35 at Emporia to I-70 at Topeka. The highway passes through the eastern section of Kansas, traveling through Baxter Springs, Pittsburg, Frontenac, Fort Scott, Louisburg, and the Kansas City area. Kansas also has the country's third largest state highway system after Texas and California. The Southwest Chief Amtrak route runs through the state on its route from Chicago to Los Angeles. Kansas is served by four Class I railroads, Amtrak, BNSF, Kansas City Southern, and Union Pacific, as well as many shortline railroads.
+\Predicted Summary:
+South of Salina is the small city of Lindsborg with its numerous Dala horses. Nearby, Kansas's first settlement Bonner Springs is home to several national and regional attractions including the Providence Medical Center Amphitheather, the National Agricultural Center and Hall of Fame, and the annual Kansas City Renaissance Festival. Laura Ingalls Wilder's Little House on the Prairie, published in 1935, is another well-known tale about Kansas. The city of Atchison was an early commercial center in the state and is well known as the birthplace of Amelia Earhart. North of the city, Fort Leavenworth is the oldest active Army post west of the Mississippi River. Routes 83 and 81, as well as the southwestern portion of the state along and south of US 50, reach 90 °F (32 °C) or above on most days of June, July, and August. The abolitionists prevailed, and on January 29, 1861, Kansas entered the Union as a free state, hence the unofficial nickname "The Free State". Pittsburg State University, an NCAA Division II participant, has claimed four national titles in football, two in the NAIA and most recently the 2011 NCAA Division II national title.
+
+GT:
+Kansas is served by two Interstate highways with one beltway, two spur routes, and three bypasses, with over 874 miles (1,407 km) in all. I-70 is a major east–west route connecting to Denver, Colorado and Kansas City, Missouri. I-35 is a major north–south route connecting to Oklahoma City, Oklahoma and Des Moines, Iowa. Kansas also has the country's third largest state highway system after Texas and California. The state's only major commercial (Class C) airport is Wichita Dwight D. Eisenhower National Airport, located along US-54 on the western edge of the city. In the state's southeastern part, people often use Tulsa International Airport in Tulsa, Oklahoma or Joplin Regional Airport in Joplin, Missouri. Dotted across the state are smaller regional and municipal airports, including the Lawrence Municipal Airport, which houses many aircraft for the city of Lawrence and the University of Kansas, Miami County Airport, Wamego Airport, Osage City Municipal Airport, which is the headquarters of Skydive Kansas, Garden City Regional Airport, Manhattan Regional Airport, and Dodge City Regional Airport. The Southwest Chief Amtrak route runs through the state on its route from Chicago to Los Angeles. Kansas is served by four Class I railroads, Amtrak, BNSF, Kansas City Southern, and Union Pacific, as well as many shortline railroads.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3440366972477064, 0.3865979381443299, 0.3640776699029126, 0.22754854368932037]
+[0.06451612903225806, 0.07253886010362694, 0.06829268292682927, 0.042682926829268296]
+[0.15137614678899083, 0.17010309278350516, 0.16019417475728157, 0.10012135922330097]
+
+
+SBERT sim. Score: 0.38287830352783203

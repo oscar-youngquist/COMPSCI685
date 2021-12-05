@@ -1,0 +1,21 @@
+Document:
+south_carolina
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+The natural environment is divided from east to west by the Atlantic coastal plain, the Piedmont, and the Blue Ridge Mountains. The environment here is that of the Appalachian-Blue Ridge forests ecoregion. Coastal areas of the state have very mild winters, with high temperatures approaching an average of 60 °F (16 °C) and overnight lows around 40 °F (5–8 °C). Some Primary Statistical Areas of South Carolina overlap with neighbouring states of North Carolina and Georgia They are geographically comprehensive There are also numerous historic sites and museums scattered throughout the state paying homage to many events and periods in the state's history from Native American inhabitation to the present day. Several large venues can house major events, including Colonial Life Arena in Columbia, Bon Secours Wellness Arena in Greenville, and North Charleston Coliseum. There are also countless local festivals throughout the state highlighting many cultural traditions, historical events, and folklore. The state is also home to numerous minor league professional teams. South Carolina is also a top destination for golf and water sports.
+\Predicted Summary:
+South Carolina ( (listen)) is a state in the Deep South region of the Southern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia across the Savannah River. South Carolina is the 40th most extensive and 23rd most populous US state. In 2019 its GDP was $249.9 billion. South Carolina is composed of 46 counties. The capital is Columbia with a population of 133,451 in 2018; while its largest city is Charleston with a 2018 population of 136,208. The Greenville–Anderson–Mauldin metropolitan area is the largest in the state, with a 2018 population estimate of 906,626. South Carolina was named in honor of King Charles I of England, who first formed the English colony, with Carolus being Latin for "Charles". South Carolina became the eighth state to ratify the US Constitution on May 23, 1788. It also became the first state to vote in favor of secession from the Union on December 20, 1860. After the American Civil War, it was readmitted into the United States on June 25, 1868.
+
+GT:
+South Carolina ( (listen)) is a state in the Deep South region of the Southern United States. Culturally, the coastal plain is split into the Lowcountry and the Pee Dee region. The Atlantic Coastal Plain makes up two-thirds of the state. Its eastern border is the Sea Islands, a chain of tidal and barrier islands. South Carolina has a humid subtropical climate (Köppen climate classification Cfa), although high-elevation areas in the Upstate area have fewer subtropical characteristics than areas on the Atlantic coastline. In the summer, South Carolina is hot and humid, with daytime temperatures averaging between 86–93 °F (30–34 °C) in most of the state and overnight lows averaging 70–75 °F (21–24 °C) on the coast and from 66–73 °F (19–23 °C) inland. Coastal areas of the state have very mild winters, with high temperatures approaching an average of 60 °F (16 °C) and overnight lows around 40 °F (5–8 °C). Snowfall in South Carolina is minimal in the lower elevation areas south and east of Columbia. It is not uncommon for areas along the southernmost coast to not receive measurable snowfall for several years. Although no major league professional sports teams are based in South Carolina, the Carolina Panthers do have training facilities in the state and played their inaugural season's home games at Clemson's Memorial Stadium, however, they now play at Bank of America Stadium in North Carolina. South Carolina is also a top destination for golf and water sports. South Carolina is also home to one of NASCAR's first tracks and its first paved speedway, Darlington Raceway, located northwest of Florence.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3249097472924188, 0.47619047619047616, 0.38626609442060084, 0.2414163090128755]
+[0.10144927536231885, 0.14893617021276595, 0.12068965517241378, 0.07543103448275862]
+[0.18772563176895307, 0.2751322751322751, 0.22317596566523606, 0.13948497854077252]
+
+
+SBERT sim. Score: 0.5146654844284058

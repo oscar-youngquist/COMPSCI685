@@ -1,0 +1,21 @@
+Document:
+maryland
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+One major service activity is transportation, centered on the Port of Baltimore and its related rail and trucking access. Major state highways include Routes 2 (Governor Ritchie Highway/Solomons Island Road/Southern Maryland Blvd. Amtrak trains, including the high-speed Acela Express serve Baltimore's Penn Station, BWI Airport, New Carrollton, and Aberdeen along the Washington, D.C. to Boston Northeast Corridor. In addition, train service is provided to Rockville and Cumberland by Amtrak's Washington, D.C., to Chicago Capitol Limited. The WMATA's Metrorail rapid transit and Metrobus local bus systems (the 2nd and 6th busiest in the nation of their respective modes) provide service in Montgomery and Prince George's counties and connect them to Washington, D.C., with the express Metrobus Route B30 serving BWI Airport. The MTA's Commuter Bus system provides express coach service on longer routes connecting Washington, D.C. and Baltimore to parts of Central and Southern MD as well as the Eastern Shore. The commuter rail service, known as MARC, operates three lines which all terminate at Washington Union Station and provide service to Baltimore's Penn and Camden stations, Perryville, Frederick, and Martinsburg, WV.
+\Predicted Summary:
+Maryland has a wide array of climates, due to local variances in elevation, proximity to water, and protection from colder weather due to downslope winds. USDA plant hardiness zones in the state range from Zones 5 and 6 in the extreme western part of the state to Zone 7 in the central part, and Zone 8 around the southern part of the coast, the bay area, and parts of metropolitan Baltimore. Power in Maryland is divided among three branches of government: executive, legislative, and judicial. Wealthy Catholic planters built chapels on their land to practice their religion in relative secrecy. Since before the Civil War, Maryland's elections have been largely controlled by the Democrats, which account for 54.9% of all registered voters as of May 2017. Each county and county-equivalent in Maryland has a local Board of Education charged with running the public schools in that particular jurisdiction. While McCain won most of the western and eastern counties by margins of 2-to-1 or more, he was almost completely shut out in the larger counties surrounding Baltimore and Washington; every large county except Anne Arundel went for Obama. In 1790, the state ceded land for the establishment of the US capital of Washington, D.C.
+
+GT:
+Maryland's Interstate highways include 110 miles (180 km) of Interstate 95 (I-95), which enters the northeast portion of the state, travels through Baltimore, and becomes part of the eastern section of the Capital Beltway to the Woodrow Wilson Bridge. Maryland's largest airport is Baltimore-Washington International Thurgood Marshall Airport, more commonly referred to as BWI. The Maryland suburbs of Washington, D.C. are also served by the other two airports in the region, Ronald Reagan Washington National Airport and Dulles International Airport, both in Northern Virginia. Amtrak trains, including the high-speed Acela Express serve Baltimore's Penn Station, BWI Airport, New Carrollton, and Aberdeen along the Washington, D.C. to Boston Northeast Corridor. In addition, train service is provided to Rockville and Cumberland by Amtrak's Washington, D.C., to Chicago Capitol Limited. The WMATA's Metrorail rapid transit and Metrobus local bus systems (the 2nd and 6th busiest in the nation of their respective modes) provide service in Montgomery and Prince George's counties and connect them to Washington, D.C., with the express Metrobus Route B30 serving BWI Airport. Freight rail transport is handled principally by two Class I railroads, as well as several smaller regional and local carriers.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3121951219512195, 0.3062200956937799, 0.30917874396135264, 0.1932367149758454]
+[0.06862745098039216, 0.0673076923076923, 0.06796116504854369, 0.042475728155339794]
+[0.17073170731707318, 0.1674641148325359, 0.16908212560386476, 0.10567632850241547]
+
+
+SBERT sim. Score: 0.339427649974823

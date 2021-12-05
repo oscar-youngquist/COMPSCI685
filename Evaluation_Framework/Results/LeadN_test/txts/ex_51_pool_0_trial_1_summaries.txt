@@ -1,0 +1,21 @@
+Document:
+maryland
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Before its coastline was explored by Europeans in the 16th century, Maryland was inhabited by several groups of Native Americans, mostly by the Algonquin, and to a lesser degree by the Iroquois and Sioux. The state's central role in US history is reflected by its hosting of some of the highest numbers of historic landmarks per capita. This population, however, still remains culturally very active and yearly festivals are held. Hispanic immigrants of the later 20th century have settled in Aspen Hill, Hyattsville/Langley Park, Glenmont/Wheaton, Bladensburg, Riverdale Park, Gaithersburg, as well as Highlandtown and Greektown in East Baltimore. Numerous Indian Americans live across the state, especially in central Maryland. The state as a whole is heavily industrialized, with a booming economy and influential technology centers. Tourism is popular in Maryland.
+\Predicted Summary:
+Maryland (US: (listen) MERR-ə-lənd) is a state in the Mid-Atlantic region of the Southern United States, bordering Virginia, West Virginia, and the District of Columbia to its south and west; Pennsylvania to its north; and Delaware and the Atlantic Ocean to its east. The state's largest city is Baltimore, and its capital is Annapolis. Among its occasional nicknames are Old Line State, the Free State, and the Chesapeake Bay State. It is named after the English Queen Henrietta Maria, known in England as Queen Mary, who was the wife of King Charles I. Sixteen of Maryland's twenty-three counties, as well as the city of Baltimore, border the tidal waters of the Chesapeake Bay estuary and its many tributaries, which combined total more than 4,000 miles of shoreline. Although one of the smallest states in the US, it features a variety of climates and topographical features that have earned it the moniker of America in Miniature. In a similar vein, Maryland's geography, culture, and history combine elements of the Mid-Atlantic, Northeastern, and Southern regions of the country. Before its coastline was explored by Europeans in the 16th century, Maryland was inhabited by several groups of Native Americans, mostly by the Algonquin, and to a lesser degree by the Iroquois and Sioux.
+
+GT:
+African Americans form a sizable portion of the state's population, nearly 30 percent in 2010. Most are descendants of people transported to the area as slaves from West Africa, and many are of mixed race, including European and Native American ancestry. Concentrations of African Americans live in Baltimore City, Prince George's County, a suburb of Washington, D.C., where many work; Charles County, western parts of Baltimore County, and the southern Eastern Shore. The Ethiopian community of Greater DC was historically based in Washington, D.C.'s Adams Morgan and Shaw neighborhoods, but as the community has grown, many Ethiopians have settled in Silver Spring. Smaller but much older Irish populations can be found in Southern Maryland, with some roots dating as far back as the early Maryland colony. This population, however, still remains culturally very active and yearly festivals are held. Large ethnic minorities include Eastern Europeans such as Croatians, Belarusians, Russians and Ukrainians. Following the dissolution of the Soviet Union, Yugoslavia, and Czechoslovakia, many immigrants from Eastern Europe came to the United States—12 percent of whom currently reside in Maryland. The state capital of Annapolis offers sites such as the state capitol building, the historic district, and the waterfront.Maryland also has several sites of interest to military history, given Maryland's role in the American Civil War and in the War of 1812. Other attractions include the historic and picturesque towns along the Chesapeake Bay, such as Saint Mary's, Maryland's first colonial settlement and original capital.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3543307086614173, 0.410958904109589, 0.3805496828752643, 0.23784355179704017]
+[0.06719367588932806, 0.0779816513761468, 0.07218683651804672, 0.0451167728237792]
+[0.17716535433070865, 0.2054794520547945, 0.19027484143763215, 0.11892177589852009]
+
+
+SBERT sim. Score: 0.5519734025001526

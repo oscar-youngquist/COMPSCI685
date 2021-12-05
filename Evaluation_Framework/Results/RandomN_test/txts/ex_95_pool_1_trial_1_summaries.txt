@@ -1,0 +1,21 @@
+Document:
+ohio
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Ohio was the first post-colonial free state admitted to the union, and became one of the earliest and most influential industrial powerhouses in the 20th century; although it has transitioned to a more information and service based economy in the 21st century, Ohio remains an industrial state, ranking seventh in GDP as of 2019, with the third largest manufacturing sector and second largest automobile production. Ohio's geographic location has proven to be an asset for economic growth and expansion. The industry of Ohio made the state one of the most important states in the Union during the Civil war. This ranks Ohio's economy as the seventh-largest of all fifty states and the District of Columbia. The manufacturing and financial activities sectors each compose 18.3% of Ohio's GDP, making them Ohio's largest industries by percentage of GDP. Ohio has the third largest manufacturing workforce behind California and Texas. Ohio has the largest bioscience sector in the Midwest, and is a national leader in the "green" economy. Ohio is the largest producer in the country of plastics, rubber, fabricated metals, electrical equipment, and appliances. Ohio's manufacturing sector is the third-largest of all fifty United States states in terms of gross domestic product.
+\Predicted Summary:
+On August 7, 1953 (the year of Ohio's 150th anniversary), President Eisenhower signed a congressional joint resolution that officially declared March 1, 1803, the date of Ohio's admittance into the Union. Ohio has four international airports, four commercial, and two military. Ohio is historically known as the "Buckeye State" after its Ohio buckeye trees, and Ohioans are also known as "Buckeyes". The Directorship's Boardroom Guide ranked the state No. Forbes ranked the state No. Ohio is bordered by Lake Erie to the north, Pennsylvania to the east, West Virginia to the southeast, Kentucky to the southwest, Indiana to the west, and Michigan to the northwest. The full list includes: In the Ohio State Senatorte the Republicans are the majority, 24–9, and in the Ohio House of Representatives the Republicans control the delegation 61–38. Other metropolitan areas that contain cities in Ohio include: Interstate 75 between Cincinnati and Dayton is one of the heaviest traveled sections of interstate in Ohio.
+
+GT:
+Ohio (listen) is a state in the East North Central region of the Midwestern United States. The state takes its name from the Ohio River, whose name in turn originated from the Senatorca word ohiːyo', meaning "good river", "great river", or "large creek". Ohio's geographic location has proven to be an asset for economic growth and expansion. Because Ohio links the Northeast to the Midwest, much cargo and business traffic passes through its borders along its well-developed highways. Ohio has the nation's 10th largest highway network and is within a one-day drive of 50% of North America's population and 70% of North America's manufacturing capacity. Cincinnati anchors Southwest Ohio and is the largest economy in the state. The state has also won three consecutive Governor's Cup awards from the magazine, based on business growth and developments. This ranks Ohio's economy as the seventh-largest of all fifty states and the District of Columbia. The manufacturing and financial activities sectors each compose 18.3% of Ohio's GDP, making them Ohio's largest industries by percentage of GDP. Ohio has the largest bioscience sector in the Midwest, and is a national leader in the "green" economy. Ohio is the largest producer in the country of plastics, rubber, fabricated metals, electrical equipment, and appliances.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3167420814479638, 0.4268292682926829, 0.36363636363636365, 0.22727272727272727]
+[0.06363636363636363, 0.08588957055214724, 0.07310704960835508, 0.045691906005221924]
+[0.16289592760180996, 0.21951219512195122, 0.187012987012987, 0.11688311688311688]
+
+
+SBERT sim. Score: 0.6707271933555603
