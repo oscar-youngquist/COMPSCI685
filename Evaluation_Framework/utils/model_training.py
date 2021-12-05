@@ -173,7 +173,10 @@ def fine_tune_model_aug(trainer_args, model, tokenizer, token_len, lr, adam_ep, 
 
             batch_aug = combined_batch[1:]
 
-            batch_aug_input_ids = torch.cat(list([b['input_ids'] for b in batch_aug]), dim=0)
+            try:
+                batch_aug_input_ids = torch.cat(list([b['input_ids'] for b in batch_aug]), dim=0)
+            except:
+                import pdb; pdb.set_trace()
             batch_aug_attention_mask = torch.cat(list([b['attention_mask'] for b in batch_aug]), dim=0)
             batch_aug_labels = torch.cat(list([b['labels'] for b in batch_aug]), dim=0)
 
