@@ -1,0 +1,21 @@
+Document:
+oregon
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Oregon is also the top timber producer of the contiguous United States, and the timber industry dominated the state's economy in the 20th century. It is the ninth largest state in the United States. Tourism is also a strong industry in the state. The state's coastal region produces significant tourism as well. Oregon is also the home of large corporations in other industries. 55% of state revenues are spent on public education, 23% on human services (child protective services, Medicaid, and senior services), 17% on public safety, and 5% on other services.
+\Predicted Summary:
+,,,, and a strait,,, and a strait,,, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, and Oregon . Oregon is a state in the Pacific Northwest region, with 4 million people . Oregon is the ninth largest state in the country, with 169,798 residents .
+
+GT:
+Typical of a western state, Oregon is home to a unique and diverse array of wildlife. Most of Oregon has a generally mild climate, though there is significant variation given the variety of landscapes across the state. Tourism is also a strong industry in the state. Tourism is centered on the state's natural features – mountains, forests, waterfalls, rivers, beaches and lakes, including Crater Lake National Park, Multnomah Falls, the Painted Hills, the Deschutes River, and the Oregon Caves. High technology industries located in Silicon Forest have been a major employer since the 1970s. Oregon is also the home of large corporations in other industries. Oregon is one of only five states that have no sales tax. Oregon has frequently been cited by statistical agencies for having a smaller percentage of religious communities than other US states. Approximately 90.5% of Oregon high school students graduate, improving on the national average of 88.3% as measured from the 2010 United States Census.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13580246913580246, 0.4230769230769231, 0.205607476635514, 0.12850467289719625]
+[0.018633540372670808, 0.058823529411764705, 0.028301886792452834, 0.017688679245283022]
+[0.08641975308641975, 0.2692307692307692, 0.1308411214953271, 0.08177570093457943]
+
+
+SBERT sim. Score: 0.5740606784820557

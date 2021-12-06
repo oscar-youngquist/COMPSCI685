@@ -1,0 +1,21 @@
+Document:
+maine
+
+Intent:
+What is the state's policy regarding education?
+
+Input:
+There are thirty institutions of higher learning in Maine. These institutions include the University of Maine, which is the oldest, largest and only research university in the state. Maine's per-student public expenditure for elementary and secondary schools was 21st in the nation in 2012, at $12,344. The collegiate system of Maine also includes numerous baccalaureate colleges such as: the Maine Maritime Academy (MMA), Unity College, and Thomas College. There is only one medical school in the state, (University of New England's College of Osteopathic Medicine) and only one law school (The University of Maine School of Law). Private schools in Maine are funded independently of the state and its furthered domains. Private schools are less common than public schools. A large number of private elementary schools with under 20 students exist, but most private high schools in Maine can be described as "semi-private".
+\Predicted Summary:
+the, established by the Plymouth Company in 1607, and established by the Plymouth Company in 1607 . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states . Maine is the only state to border only one other state .
+
+GT:
+These institutions include the University of Maine, which is the oldest, largest and only research university in the state. UMaine was founded in 1865 and is the state's only land grant and sea grant college. The University of Maine is located in the town of Orono and is the flagship of Maine. Maine's per-student public expenditure for elementary and secondary schools was 21st in the nation in 2012, at $12,344. Private schools in Maine are funded independently of the state and its furthered domains. A large number of private elementary schools with under 20 students exist, but most private high schools in Maine can be described as "semi-private".
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.19469026548672566, 0.4489795918367347, 0.2716049382716049, 0.16975308641975306]
+[0.03571428571428571, 0.08333333333333333, 0.05, 0.031249999999999997]
+[0.13274336283185842, 0.30612244897959184, 0.1851851851851852, 0.11574074074074076]
+
+
+SBERT sim. Score: 0.5060267448425293

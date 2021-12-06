@@ -1,0 +1,21 @@
+Document:
+idaho
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+The United States Forest Service holds about 38% of Idaho's land, the highest proportion of any state. Idaho is a Rocky Mountain state with abundant natural resources and scenic areas. The state has snow-capped mountain ranges, rapids, vast lakes and steep canyons. Science and technology have become the largest single economic center (over 25% of the state's total revenue) within the state and are greater than agriculture, forestry and mining combined. This made Idaho the tenth fastest-growing state after District of Columbia (+16.74%), Utah (+14.37%), Texas (+14.14%), Florida (+13.29%), Colorado (+13.25%), North Dakota (+13.01%), Nevada (+12.36%), Arizona (+12.20%) and Washington. From 2017 to 2018, Idaho grew the second-fastest, surpassed only by Nevada. In 2014, Idaho emerged as the second most small business friendly state, ranking behind Utah, based on a study drawing upon data from more than 12,000 small business owners. In addition, Idaho also has the 6th fastest growing population in the United States with the population expected to increase by 31% from 2008 to 2030.
+\Predicted Summary:
+is the 14th largest state in the Pacific Northwest region of the United States . Idaho is the 12th least populous state in the world, and the 7th least densely populated state . Idaho is the 14th largest state in the Pacific Northwest region of the United States .
+
+GT:
+A number of science and technology firms are either headquartered in Idaho or have factories there, and the state also contains the Idaho National Laboratory, which is the country's largest Department of Energy facility. This influence has a moderating effect in the winter where temperatures are not as low as would otherwise be expected for a northern state with predominantly high elevations. Idaho can be hot, although extended periods over 98 °F (37 °C) are rare, except for the lowest point in elevation, Lewiston, which correspondingly sees little snow. In 2014, Idaho emerged as the second most small business friendly state, ranking behind Utah, based on a study drawing upon data from more than 12,000 small business owners.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15833333333333333, 0.41304347826086957, 0.22891566265060245, 0.14307228915662654]
+[0.025210084033613446, 0.06666666666666667, 0.036585365853658534, 0.02286585365853658]
+[0.11666666666666667, 0.30434782608695654, 0.1686746987951807, 0.10542168674698794]
+
+
+SBERT sim. Score: 0.6306556463241577

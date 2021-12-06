@@ -1,0 +1,21 @@
+Document:
+new_jersey
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Based on 2017 data, it was the second-wealthiest US state by median household income. Hope, Mine Hill and the Rockaway Valley Mines created a thriving industry. Zinc mines were also a major industry, especially the Sterling Hill Mine. This was the fourth-highest percentage of any state in the country. It is also the second wealthiest state according to the US Census Bureau. The US Bureau of Economic Analysis estimates that New Jersey's gross state product in the fourth quarter of 2018 was $639.8 billion. New Jersey's per capita gross state product in 2008 was $54,699, second in the US and above the national per capita gross domestic product of $46,588. New Jersey's economy is multifaceted, but is centered on the pharmaceutical industry, biotechnology, information technology, the financial industry, chemical development, telecommunications, food processing, electric equipment, printing, publishing, and tourism. New Jersey's agricultural outputs are nursery stock, horses, vegetables, fruits and nuts, seafood, and dairy products. Although New Jersey is home to many energy-intensive industries, its energy consumption is only 2.7% of the US total, and its carbon dioxide emissions are 0.8% of the US total. New Jersey has a strong scientific economy and is home to major pharmaceutical and telecommunications firms, drawing on the state's large and well-educated labor pool. There is also a strong service economy in retail sales, education, and real estate, serving residents who work in New York City or Philadelphia. The state is home to many diner manufacturers and has over 600 diners, more than any other place in the world. (The others are Kentucky, Louisiana, Mississippi, and Virginia.)
+\Predicted Summary:
+, New Jersey,,, of all US states, with 9.76% of households surveyed . New Jersey was the second-wealthest state by median household income . New Jersey is the fourth-smallest state by area, with 8,882,190 residents . New Jersey is the 11th-most populous state by area, with 8,882,190 residents .
+
+GT:
+The US Bureau of Economic Analysis estimates that New Jersey's gross state product in the fourth quarter of 2018 was $639.8 billion. New Jersey's economy is multifaceted, but is centered on the pharmaceutical industry, biotechnology, information technology, the financial industry, chemical development, telecommunications, food processing, electric equipment, printing, publishing, and tourism. New Jersey's agricultural outputs are nursery stock, horses, vegetables, fruits and nuts, seafood, and dairy products. Although New Jersey is home to many energy-intensive industries, its energy consumption is only 2.7% of the US total, and its carbon dioxide emissions are 0.8% of the US total. New Jersey has a strong scientific economy and is home to major pharmaceutical and telecommunications firms, drawing on the state's large and well-educated labor pool. There is also a strong service economy in retail sales, education, and real estate, serving residents who work in New York City or Philadelphia. Shipping is a key industry in New Jersey because of the state's strategic geographic location, the Port of New York and New Jersey being the busiest port on the East Coast. New Jersey hosts several business headquarters, including twenty-four Fortune 500 companies. This accessibility to consumer revenue has enabled seaside resorts such as Atlantic City and the remainder of the Jersey Shore, as well as the state's other natural and cultural attractions, to contribute significantly to the record 111 million tourist visits to New Jersey in 2018, providing US$44.7 billion in tourism revenue, directly supporting 333,860 jobs, sustaining more than 531,000 jobs overall including peripheral impacts, and generating US$5 billion in state and local tax revenue. Sports betting has become a growing source of gambling revenue in New Jersey since being legalized across the nation by the US Supreme Court on May 14, 2018.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08469055374592833, 0.5, 0.1448467966573816, 0.0905292479108635]
+[0.0196078431372549, 0.11764705882352941, 0.03361344537815126, 0.021008403361344536]
+[0.05863192182410423, 0.34615384615384615, 0.10027855153203341, 0.06267409470752089]
+
+
+SBERT sim. Score: 0.636175811290741

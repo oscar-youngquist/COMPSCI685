@@ -1,0 +1,21 @@
+Document:
+delaware
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It is the second-smallest and sixth-least populous state, but also the sixth-most densely populated. Since the turn of the 20th century, Delaware is also a de facto onshore corporate haven, in which by virtue of its corporate laws, the state is the domicile of over 50% of all NYSE-listed business and 60% of the Fortune 500. Delaware is one of five states (Maine, Vermont, West Virginia, Wyoming) that do not have a single city with a population over 100,000 as of the 2010 census. It still has a substantial presence in the state. According to a 2013 study by Phoenix Marketing International, Delaware had the ninth-largest number of millionaires per capita in the United States, with a ratio of 6.2 percent. The state's largest employers are: More than half of all US publicly traded companies, and 63% of the Fortune 500, are incorporated in Delaware. Franchise taxes on Delaware corporations supply about a fifth of the state's revenue. This is the fewest among all states. Wilmington is the state's most populous city (70,635) and its economic hub. In 2015, tourism in Delaware generated $3.1 billion, which makes up five percent of the state's GDP.
+\Predicted Summary:
+, Delaware, and Delaware are the state's largest city, Delaware, and Delaware. Delaware is the second-smallest state in the state, and the sixth-most densely populated . Delaware is the second-smallest state in the state, and is the sixth-most densely populated . Delaware is the first state to ratify the Constitution of the United States .
+
+GT:
+The transitional climate of Delaware supports a wide variety of vegetation. Delaware provides government subsidy support for the clean-up of property "lightly contaminated" by hazardous waste, the proceeds for which come from a tax on wholesale petroleum sales. Delaware is the sixth most densely populated state, with a population density of 442.6 people per square mile, 356.4 per square mile more than the national average, and ranking 45th in population. Delaware is one of five states (Maine, Vermont, West Virginia, Wyoming) that do not have a single city with a population over 100,000 as of the 2010 census. As of 2011, 49.7% of Delaware's population younger than one year of age belonged to minority groups (i.e., did not have two parents of non-Hispanic white ancestry). Delaware has six different income tax brackets, ranging from 2.2% to 5.95%. In June 2018, Delaware became the first US state to legalize sports betting following the Supreme Court ruling to repeal The Professional and Amateur Sports Protection Act (PASPA). Unlike many states, Delaware's educational system is centralized in a state Superintendent of Education, with local school boards retaining control over taxation and some curriculum decisions. This centralized system, combined with the small size of the state, likely contributed to Delaware becoming the first state, after completion of a three-year, $30 million program ending in 1999, to wire every K-12 classroom in the state to the Internet. As of 2011, the Delaware Department of Education had authorized the founding of 25 charter schools in the state, one of them being all-girls. All teachers in the State's public school districts are unionized.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15302491103202848, 0.7678571428571429, 0.255192878338279, 0.15949554896142434]
+[0.06428571428571428, 0.32727272727272727, 0.10746268656716418, 0.06716417910447761]
+[0.099644128113879, 0.5, 0.1661721068249258, 0.10385756676557864]
+
+
+SBERT sim. Score: 0.6837196350097656

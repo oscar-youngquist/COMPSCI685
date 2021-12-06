@@ -1,0 +1,21 @@
+Document:
+virginia
+
+Intent:
+What is the state's policy regarding education?
+
+Input:
+Virginia's educational system consistently ranks in the top five states on the US Department of Education's National Assessment of Educational Progress, with Virginia students outperforming the average in all subject areas and grade levels tested. Public K–12 schools in Virginia are generally operated by the counties and cities, and not by the state. Besides the general public schools in Virginia, there are Governor's Schools and selective magnet schools. There are 124 private institutions in the state, including nationally ranked liberal arts colleges Washington and Lee University at No. Twelve other universities compete in NCAA Division I, particularly in the Atlantic 10 Conference, Big South Conference, and Colonial Athletic Association. Several smaller schools compete in the Old Dominion Athletic Conference and the USA South Athletic Conference of NCAA Division III.
+\Predicted Summary:
+,,,,, and the Chesapeake Bay, are the most-populous cities in the state . Virginia has a total area of 42,774.2 square miles (110,784.7 km2), including 3,180.13 square miles (8,236.5 km2) of water . Virginia is the 35th state in the state of Virginia, with 36% of them living in the metropolitan area .
+
+GT:
+Virginia's educational system consistently ranks in the top five states on the US Department of Education's National Assessment of Educational Progress, with Virginia students outperforming the average in all subject areas and grade levels tested. Public K–12 schools in Virginia are generally operated by the counties and cities, and not by the state. In 2019, 91.5 percent of high school students graduated on-time after four years, an increase of two percent from 2013, and 89.3 percent of adults over the age 25 had their high school diploma. As of 2019, Virginia has the sixth highest percent of residents with bachelor's degrees or higher, with 38.2 percent. As of that year, there are 169 colleges and universities in Virginia. There are 124 private institutions in the state, including nationally ranked liberal arts colleges Washington and Lee University at No. Virginia Tech and Virginia State University are the state's land-grant universities.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.18238993710691823, 0.5, 0.2672811059907834, 0.16705069124423963]
+[0.04430379746835443, 0.12280701754385964, 0.06511627906976744, 0.04069767441860465]
+[0.1069182389937107, 0.29310344827586204, 0.15668202764976957, 0.09792626728110598]
+
+
+SBERT sim. Score: 0.4822274446487427

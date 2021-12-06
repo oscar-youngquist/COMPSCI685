@@ -1,0 +1,21 @@
+Document:
+kentucky
+
+Intent:
+What are the major historical events in this state?
+
+Input:
+Only Missouri and Tennessee, both of which border eight states, touch more. It is not known exactly when the first humans arrived in what is now Kentucky. Around 1800 BCE, a gradual transition began from a hunter-gatherer economy to agriculturalism. In about the 10th century, the Kentucky native people's variety of corn became highly productive, supplanting the Eastern Agricultural Complex, and replaced it with a maize-based agriculture in the Mississippian era. French explorers in the 17th century documented numerous tribes living in Kentucky until the Beaver Wars in the 1670s; however, by the time that European colonial explorers and settlers began entering Kentucky in greater numbers in the mid-18th century, there were no major Native American settlements in the region. As more settlers entered the area, warfare broke out with the Native Americans over their traditional hunting grounds. On several occasions the region's residents petitioned the General Assembly and the Confederation Congress for separation from Virginia and statehood. Kentucky was one of the border states during the American Civil War. It was also used in the title of a history of the state that was published in 1834 and was used in various places within that book in references to Virginia and Kentucky. But during most decades of the 20th century there was also net out-migration from Kentucky. Many migrated during the early part of the century to the industrial North and Midwest during the Great Migration for jobs and the chance to leave segregated, oppressive societies.
+\Predicted Summary:
+, Kentucky is the 37th most extensive and 26th most populous state in the 50 states . Kentucky is home to the world's longest cave system: Mammoth Cave National Park . Kentucky is the largest cave system in the united states, bordering the state by Illinois, Indiana, and Ohio . Kentucky is the largest state in the united states, and the largest city in the world .
+
+GT:
+As of the 16th century, the area known as Kentucky was home to tribes from five different culture groups – Iroquoian, Sioux, Algonquian, Muskogean and Yuchi. Rene-Robert Cavelier, Sieur de la Salle was a French explorer who claimed all of the land along the Mississippi River Valley, including Kentucky, for France. In 1774 James Harrod founded the first permanent European settlement in Kentucky at the site of present-day Harrodsburg. On December 31, 1776, the region of Virginia beyond the Appalachian Mountains was established as Kentucky County by the Virginia General Assembly. Kentucky was one of the border states during the American Civil War. Although frequently described as never having seceded, representatives from 68 of 110 counties met at Russellville calling themselves the "Convention of the People of Kentucky" and passed an Ordinance of Secession on November 20, 1861. The Black Patch Tobacco Wars, a vigilante action, occurred in Western Kentucky in the early 20th century.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16025641025641027, 0.3968253968253968, 0.228310502283105, 0.14269406392694065]
+[0.012903225806451613, 0.03225806451612903, 0.018433179723502304, 0.011520737327188939]
+[0.1282051282051282, 0.31746031746031744, 0.18264840182648398, 0.1141552511415525]
+
+
+SBERT sim. Score: 0.4668242037296295

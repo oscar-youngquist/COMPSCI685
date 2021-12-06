@@ -1,0 +1,21 @@
+Document:
+pennsylvania
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+
+Input:
+There are also notable music festivals that take place in Pennsylvania. Pennsylvania is considered one of the finest wild turkey hunting states in the Union, alongside Texas and Alabama. Pennsylvania also has minor league and semi-pro sports teams: the Triple-A baseball Lehigh Valley IronPigs and the Scranton/Wilkes-Barre RailRiders of the International League; the Double-A baseball Altoona Curve, Erie SeaWolves, Harrisburg Senatortors, and Reading Fightin Phils of the Eastern League; the Class A-Short Season baseball State College Spikes and Williamsport Crosscutters of the New York–Penn League; the independent baseball Lancaster Barnstormers and York Revolution of the Atlantic League of Professional Baseball; the independent baseball Washington Wild Things of the Frontier League; the Erie BayHawks of the NBA G League; the Lehigh Valley Phantoms, Wilkes-Barre/Scranton Penguins, and Hershey Bears of the American Hockey League; the Reading Royals and of the ECHL; and the Philadelphia Soul of the Arena Football League. Notable racetracks in Pennsylvania include the Jennerstown Speedway in Jennerstown, the Lake Erie Speedway in North East, the Mahoning Valley Speedway in Lehighton, the Motordome Speedway(closed) in Smithton, the Mountain Speedway in St. Johns, the Nazareth Speedway in Nazareth (closed); the Lernerville Speedway in Sarver and the Pocono Raceway in Long Pond, which is home to two NASCAR Cup Series races and an IndyCar Series race. The state is also home to Maple Grove Raceway, near Reading, which hosts major National Hot Rod Association sanctioned drag racing events each year. College basketball is also popular in the state, especially in the Philadelphia area where five universities, collectively termed the Big Five, have a rich tradition in NCAA Division I basketball.
+\Predicted Summary:
+,, is a state in the Mid-Atlantic, Appalachian, and Great Lakes regions of the Northeastern United States . Pennsylvania is the 33rd-largest state by area, and the 5th-most populous state according to the most recent official census count in 2010 . Pennsylvania is the 9th-most densely populated of the 50 states .
+
+GT:
+Pennsylvania is home to the nation's first zoo, the Philadelphia Zoo. Other long-accredited AZA zoos include the Erie Zoo and the Pittsburgh Zoo & PPG Aquarium. Pennsylvania offers a number of notable amusement parks, including Camel Beach, Conneaut Lake Park, Dorney Park & Wildwater Kingdom, Dutch Wonderland, DelGrosso's Amusement Park, Hersheypark, Idlewild Park, Kennywood, Knoebels, Lakemont Park, Sandcastle Waterpark, Sesame Place, Great Wolf Lodge and Waldameer Park. There are also notable music festivals that take place in Pennsylvania. Pennsylvania is home to many major league professional sports teams: the Philadelphia Phillies and Pittsburgh Pirates of Major League Baseball, the Philadelphia 76ers of the National Basketball Association, the Pittsburgh Steelers and Philadelphia Eagles of the National Football League, the Philadelphia Flyers and Pittsburgh Penguins of the National Hockey League, and the Philadelphia Union of Major League Soccer. The US chocolate industry is centered in Hershey, Pennsylvania, with Mars, Godiva, and Wilbur Chocolate Company nearby, and smaller manufacturers such as Asher's in Souderton, and Gertrude Hawk Chocolates of Dunmore.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1301775147928994, 0.4230769230769231, 0.19909502262443438, 0.12443438914027148]
+[0.03571428571428571, 0.11764705882352941, 0.0547945205479452, 0.03424657534246575]
+[0.08284023668639054, 0.2692307692307692, 0.12669683257918551, 0.07918552036199095]
+
+
+SBERT sim. Score: 0.43296554684638977

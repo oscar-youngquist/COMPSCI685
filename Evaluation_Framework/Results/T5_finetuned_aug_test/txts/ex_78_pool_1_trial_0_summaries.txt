@@ -1,0 +1,21 @@
+Document:
+south_carolina
+
+Intent:
+What is the state's policy regarding education?
+
+Input:
+They established public education, welfare institutions, and home rule for counties, expanding democracy. The state is also home to numerous minor league professional teams. College teams represent their particular South Carolina institutions, and are the primary options for football, basketball and baseball attendance in the state. In 2014, the South Carolina Supreme Court ruled the state had failed to provide a "minimally adequate" education to children in all parts of the state as required by the state's constitution. South Carolina has 1,144 K–12 schools in 85 school districts with an enrollment of 712,244 as of fall 2009. As of the 2008–2009 school year, South Carolina spent $9,450 per student which places it 31st in the country for per student spending. South Carolina is the only state which owns and operates a statewide school bus system. Half of the state's school buses are more than 15 years old and some are reportedly up to 30 years old. South Carolina has diverse institutions from large state-funded research universities to small colleges that cultivate a liberal arts, religious or military tradition.
+\Predicted Summary:
+, the first state to vote in favor of secession from the Union on December 20, 1868. South Carolina is a state in the Deep South region of the Southern United States . South Carolina is the 40th most extensive and 23rd most populous state . it is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia .
+
+GT:
+As of 2010, South Carolina is one of three states that have not agreed to use competitive international math and language standards. In 2014, the South Carolina Supreme Court ruled the state had failed to provide a "minimally adequate" education to children in all parts of the state as required by the state's constitution. South Carolina has 1,144 K–12 schools in 85 school districts with an enrollment of 712,244 as of fall 2009. As of the 2008–2009 school year, South Carolina spent $9,450 per student which places it 31st in the country for per student spending. In 2015, the national average SAT score was 1490 and the South Carolina average was 1442, 48 points lower than the national average. South Carolina is the only state which owns and operates a statewide school bus system. South Carolina has diverse institutions from large state-funded research universities to small colleges that cultivate a liberal arts, religious or military tradition.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2147239263803681, 0.5384615384615384, 0.30701754385964913, 0.19188596491228072]
+[0.04938271604938271, 0.125, 0.07079646017699115, 0.04424778761061947]
+[0.13496932515337423, 0.3384615384615385, 0.1929824561403509, 0.1206140350877193]
+
+
+SBERT sim. Score: 0.5503178238868713

@@ -1,0 +1,21 @@
+Document:
+michigan
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+
+Input:
+It also has 64,980 inland lakes and ponds. Particularly noteworthy are the Fisher Building, Cadillac Place, and the Guardian Building, each of which has been designated as a National Historic Landmark (NHL). The state is home to several areas maintained by the National Park Service including: Isle Royale National Park, in Lake Superior, about 30 miles (48 km) southeast of Thunder Bay, Ontario. Other national protected areas in the state include: Keweenaw National Historical Park, Pictured Rocks National Lakeshore, Sleeping Bear Dunes National Lakeshore, Huron National Forest, Manistee National Forest, Hiawatha National Forest, Ottawa National Forest and Father Marquette National Memorial. Destinations draw vacationers, hunters, and nature enthusiasts from across the United States and Canada. The forests, lakes and thousands of miles of beaches are top attractions. Other museums include the Detroit Historical Museum, the Charles H. Wright Museum of African American History, museums in the Cranbrook Educational Community, and the Arab American National Museum. Hunting and fishing are significant industries in the state. The state has numerous historical markers, which can themselves become the center of a tour.
+\Predicted Summary:
+in the 17th century, it was claimed as part of the new French colony . Michigan is a state in the Great Lakes and Midwestern regions of the United States . it is the tenth most populous state, the 11th most extensive state by area, and the largest by area . Michigan is the largest metropolitan economy in the world .
+
+GT:
+With 78 state parks, 19 state recreation areas, and six state forests, Michigan has the largest state park and state forest system of any state. These parks and forests include Holland State Park, Mackinac Island State Park, Au Sable State Forest, and Mackinaw State Forest. Tourism in metropolitan Detroit draws visitors to leading attractions, especially The Henry Ford, the Detroit Institute of Arts, the Detroit Zoo, and to sports in Detroit. Other museums include the Detroit Historical Museum, the Charles H. Wright Museum of African American History, museums in the Cranbrook Educational Community, and the Arab American National Museum. The metro area offers four major casinos, MGM Grand Detroit, Greektown, Motor City, and Caesars Windsor in Windsor, Ontario, Canada; moreover, Detroit is the largest American city and metropolitan region to offer casino resorts. Charter boats are based in many Great Lakes cities to fish for salmon, trout, walleye, and perch. The state has numerous historical markers, which can themselves become the center of a tour. The Great Lakes Circle Tour is a designated scenic road system connecting all of the Great Lakes and the St. Lawrence River.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1711229946524064, 0.5614035087719298, 0.2622950819672131, 0.16393442622950818]
+[0.05913978494623656, 0.19642857142857142, 0.0909090909090909, 0.056818181818181816]
+[0.0962566844919786, 0.3157894736842105, 0.14754098360655737, 0.09221311475409835]
+
+
+SBERT sim. Score: 0.5024840235710144

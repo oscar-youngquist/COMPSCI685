@@ -1,0 +1,21 @@
+Document:
+new_mexico
+
+Intent:
+How is the government structured in this state?
+
+Input:
+In public education, the state has the constitutional obligation to provide bilingual education and Spanish-speaking instructors in school districts where the majority of students are Hispanophone. No fewer than 100 railroads of various names and lineage have operated in the jurisdiction at some point. The executive branch of government is fragmented as outlined in the state constitution. The executive is composed of the governor and other statewide elected officials including the lieutenant governor (elected on the same ticket as the governor), attorney general, secretary of state, state auditor, state treasurer, and commissioner of public lands. The governor appoints a cabinet who lead agencies statutorily designated under their jurisdiction. The New Mexico Legislature consists of the House of Representatives and Senatorte. The judiciary is composed of the New Mexico Supreme Court and lower courts. There is also local government, consisting of counties, municipalities and special districts. Terms for both the governor and lieutenant governor expire in January 2023. Governors serve a term of four years, and may seek re-election for one additional term (limit of two terms). Other constitutional officers, all of whose terms also expire in January 2023, include Secretary of State Maggie Toulouse Oliver (D), Attorney General Hector Balderas (D), State Auditor Brian Colón (D), State Land Commissioner Stephanie Garcia Richard (D), and State Treasurer Tim Eichenberg (D). Currently, both chambers of the New Mexico State Legislature have Democratic majorities. The governor is Michelle Lujan Grisham (D), who succeeded Susana Martinez (R) on January 1, 2019 after she served two terms as governor from 2011 to 2019. The New Mexico Public Education Department oversees the operation of primary and secondary schools The Apache and some Ute live on federal reservations within the state.
+\Predicted Summary:
+is a state in the Southwestern region of the United States of America . New Mexico is the 36th largest state by population . New Mexico is the fifth largest state by population . New Mexico is a state in the south-southeast, Oklahoma to the northeast, and the Mexican states of Chihuahua to the south .
+
+GT:
+Governors serve a term of four years, and may seek re-election for one additional term (limit of two terms). Other constitutional officers, all of whose terms also expire in January 2023, include Secretary of State Maggie Toulouse Oliver (D), Attorney General Hector Balderas (D), State Auditor Brian Colón (D), State Land Commissioner Stephanie Garcia Richard (D), and State Treasurer Tim Eichenberg (D). Currently, both chambers of the New Mexico State Legislature have Democratic majorities. There are 26 Democrats and 16 Republicans in the Senatorte, and 47 Democrats and 23 Republicans in the House of Representatives. New Mexico has traditionally been considered a swing state, whose population has favored both Democratic and Republican presidential candidates, but it has become more of a Democratic stronghold beginning with the presidential election of 2008. Democrats in the state are usually strongest in the Santa Fe Area, various areas of the Albuquerque Metro Area (such as the southeast and central areas, including the affluent Nob Hill neighborhood and the vicinity of the University of New Mexico), Northern and West Central New Mexico, and most of the Native American reservations, particularly the Navajo Nation. Republicans have traditionally had their strongholds in the eastern and southern parts of the state, the Farmington area, Rio Rancho, and the newly developed areas in the Northwest mesa. Albuquerque's Northeast Heights have historically leaned Republican, but have become a key swing area for Democrats in recent election cycles.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12916666666666668, 0.5849056603773585, 0.21160409556313997, 0.13225255972696248]
+[0.029288702928870293, 0.1346153846153846, 0.048109965635738834, 0.030068728522336767]
+[0.09166666666666666, 0.41509433962264153, 0.1501706484641638, 0.0938566552901024]
+
+
+SBERT sim. Score: 0.537150502204895

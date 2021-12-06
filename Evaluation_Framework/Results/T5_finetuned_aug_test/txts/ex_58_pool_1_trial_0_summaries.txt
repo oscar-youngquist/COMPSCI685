@@ -1,0 +1,21 @@
+Document:
+montana
+
+Intent:
+What is the state's policy regarding education?
+
+Input:
+These lands are managed by the state for the benefit of public schools and institutions in the state. It mandates that all schools teach American Indian history, culture, and heritage from preschool through college. For kindergarten through 12th-grade students, an "Indian Education for All" curriculum from the Montana Office of Public Instruction is available free to all schools. South Dakota passed similar legislation in 2007, and Wisconsin was working to strengthen its own program based on this model—and the current practices of Montana's schools. Each Indian reservation in the state has a fully accredited tribal college. Schools started forming in the area before it was officially a territory as families started settling into the area. The first legislature authorized counties to levy taxes for schools, which set the foundations for public schooling. Six of Montana's smaller four-year schools are members of the Frontier Conference. Elementary and secondary education are overseen by the Office of Public Instruction (led by the elected superintendent of public instruction), in cooperation with the governor-appointed Board of Public Education. The Office of the Commissioner of Higher Education acts in an executive capacity on behalf of the regents, and oversees the state-run Montana University System.
+\Predicted Summary:
+Montana is a state in the Northwestern United States. It is bordered by the west, North Dakota and South Dakota to the east, and Wyoming to the south . Montana is the fourth-largest state by area, the eighth-least populous state, and the third-least densely populated state . the name Montana comes from the Latin word montaa, meaning "mountain" or more broadly "mountainous country"
+
+GT:
+Montana's Constitution specifically reads, "the state recognizes the distinct and unique cultural heritage of the American Indians and is committed in its educational goals to the preservation of their cultural integrity." The Indian Education for All Act was passed in 1999 to provide funding for this mandate and ensure implementation. For kindergarten through 12th-grade students, an "Indian Education for All" curriculum from the Montana Office of Public Instruction is available free to all schools. The first schools were subscription schools that typically met in the teacher's home. The first formal school on record was at Fort Owen in Bitterroot valley in 1862. The first school term started in early winter and lasted only until February 28. Classes were taught by Mr. Robinson. The first legislature authorized counties to levy taxes for schools, which set the foundations for public schooling. Madison County was the first to take advantage of the newly authorized taxes and it formed fhe first public school in Virginia City in 1886. Elementary and secondary education are overseen by the Office of Public Instruction (led by the elected superintendent of public instruction), in cooperation with the governor-appointed Board of Public Education. Higher education is overseen by a governor-appointed Board of Regents, which in turn appoints a commissioner of higher education. The Office of the Commissioner of Higher Education acts in an executive capacity on behalf of the regents, and oversees the state-run Montana University System.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11522633744855967, 0.4375, 0.18241042345276873, 0.11400651465798047]
+[0.01652892561983471, 0.06349206349206349, 0.02622950819672131, 0.016393442622950817]
+[0.07407407407407407, 0.28125, 0.11726384364820847, 0.07328990228013028]
+
+
+SBERT sim. Score: 0.37608465552330017

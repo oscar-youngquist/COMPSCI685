@@ -1,0 +1,21 @@
+Document:
+south_carolina
+
+Intent:
+What drives the economy in this state?
+
+Input:
+By the second half of the 1700s, South Carolina was one of the richest of the Thirteen Colonies. Early in the 20th century, South Carolina developed a thriving textile industry. The state also converted its agricultural base from cotton to more profitable crops; attracted large military bases through its powerful Democratic congressional delegation, part of the one-party South following disfranchisement of blacks at the turn of the century; and created tourism industries. According to the South Carolina Arts Commission, creative industries generate $9.2 billion annually and support over 78,000 jobs in the state. In 2019, South Carolina's GDP was $249.9 billion, making the state the 26th largest by GDP in the United States. According to the US Bureau of Economic Analysis, South Carolina's gross state product (GSP) in was $97 billion in 1997 and $153 billion in 2007. Industrial outputs include textile goods, chemical products, paper products, machinery, automobiles, automotive products and tourism. Major agricultural outputs of the state are tobacco, poultry, cotton, cattle, dairy products, soybeans, hay, rice, and swine. According to the Bureau of Labor Statistics, as of March 2012, South Carolina had 1,852,700 nonfarm jobs of which 12% are in manufacturing, 11.5% are in leisure and hospitality, 19% are in trade, transportation, and utilities, and 11.8% are in education and health services. The service sector accounts for 83.7% of the South Carolina economy. Many large corporations have moved their locations to South Carolina. The state has the fourth largest state-maintained system in the country, consisting of 11 Interstates, numbered highways, state highways, and secondary roads, totalling approximately 41,500 miles.
+\Predicted Summary:
+,,,,, and a lot of land is swampy. South Carolina is a state in the Deep South region of the Southern United States . South Carolina is the 40th most extensive and 23rd most populous state .
+
+GT:
+Industrial outputs include textile goods, chemical products, paper products, machinery, automobiles, automotive products and tourism. Major agricultural outputs of the state are tobacco, poultry, cotton, cattle, dairy products, soybeans, hay, rice, and swine. According to the Bureau of Labor Statistics, as of March 2012, South Carolina had 1,852,700 nonfarm jobs of which 12% are in manufacturing, 11.5% are in leisure and hospitality, 19% are in trade, transportation, and utilities, and 11.8% are in education and health services. The service sector accounts for 83.7% of the South Carolina economy. Many large corporations have moved their locations to South Carolina. Boeing opened an aircraft manufacturing facility in Charleston in 2011, which serves as one of two final assembly sites for the 787 Dreamliner. South Carolina also benefits from foreign investment. There are 1,950 foreign-owned firms operating in South Carolina employing almost 135,000 people. Foreign Direct Investment (FDI) brought 1.06 billion dollars to the state economy in 2010.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09146341463414634, 0.4411764705882353, 0.15151515151515152, 0.09469696969696968]
+[0.018404907975460124, 0.09090909090909091, 0.030612244897959183, 0.01913265306122449]
+[0.07926829268292683, 0.38235294117647056, 0.13131313131313133, 0.08207070707070707]
+
+
+SBERT sim. Score: 0.4329100251197815

@@ -1,0 +1,21 @@
+Document:
+michigan
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Other national protected areas in the state include: Keweenaw National Historical Park, Pictured Rocks National Lakeshore, Sleeping Bear Dunes National Lakeshore, Huron National Forest, Manistee National Forest, Hiawatha National Forest, Ottawa National Forest and Father Marquette National Memorial. With 78 state parks, 19 state recreation areas, and six state forests, Michigan has the largest state park and state forest system of any state. The state is an important source of engineering job opportunities. A wide variety of commodity crops, fruits, and vegetables are grown in Michigan, making it second only to California among US states in the diversity of its agriculture. Destinations draw vacationers, hunters, and nature enthusiasts from across the United States and Canada. The forests, lakes and thousands of miles of beaches are top attractions. Hunting and fishing are significant industries in the state. The forest products industry and recreational users contribute $12 billion and 200,000 associated jobs annually to the state's economy. The state has numerous historical markers, which can themselves become the center of a tour.
+\Predicted Summary:
+,,, and was occupied by Native Americans in the 17th century. Michigan is the tenth most populous state, the 11th most extensive state by area, and the largest by area . Michigan is the only state to consist of two peninsulas, the Upper Peninsula, and Lake Michigan . Michigan is the largest state in the world, with a population of approximately 10 million .
+
+GT:
+In 2018, the state electorate passed proposals to create an independent redistricting commission, and to legalize the recreational use of marijuana. In 2020, voters approved two ballot measures, one to increase the limit of money from sales of gas and oil from state-owned land that can benefit state parks, and another to require a warrant for search or seizure of electronic data and communications. The state is home to several areas maintained by the National Park Service including: Isle Royale National Park, in Lake Superior, about 30 miles (48 km) southeast of Thunder Bay, Ontario. With 78 state parks, 19 state recreation areas, and six state forests, Michigan has the largest state park and state forest system of any state. Michigan's schools and colleges rank among the nation's best. The state has maintained its early commitment to public education. The state's infrastructure gives it a competitive edge Michigan led the nation in job creation improvement in 2010. Michigan's personal income tax is a flat rate of 4.25%. A wide variety of commodity crops, fruits, and vegetables are grown in Michigan, making it second only to California among US states in the diversity of its agriculture.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17412935323383086, 0.5833333333333334, 0.26819923371647514, 0.16762452107279696]
+[0.025, 0.0847457627118644, 0.038610038610038616, 0.02413127413127413]
+[0.11442786069651742, 0.38333333333333336, 0.17624521072796936, 0.11015325670498086]
+
+
+SBERT sim. Score: 0.5626049637794495

@@ -1,0 +1,21 @@
+Document:
+montana
+
+Intent:
+How is the government structured in this state?
+
+Input:
+In 1992, voters approved a constitutional amendment implementing term limits for certain statewide elected executive branch offices (governor, lieutenant governor, secretary of state, state auditor, attorney general, superintendent of public instruction) and for members of the Montana Legislature. Montana has three branches of state government: legislative, executive, and judicial. The executive branch is headed by an elected governor. There are also nine other statewide elected offices in the executive branch: Lieutenant Governor, Attorney General, Secretary of State, State Auditor (who also serves as Commissioner of Securities and Insurance), and Superintendent of Public Instruction. The Montana Legislature is bicameral, and consists of the 50-member Montana Senatorte and the 100-member Montana House of Representatives. Senatortors serve four-year terms, while Representatives serve two-year terms. The clerk of the Supreme Court is also an elected position, and serves a six-year term. When so authorized by the legislature, actions of executive branch agencies may be appealed directly to a District Court. District Court judges are elected, and serve six-year terms. They are overseen by District Court judges. It has a single judge, appointed by the governor. The US Constitution provides each state with two senators. The US Constitution provides each state with a single representative, with additional representatives apportioned based on population. The state Senatorte is, as of 2019, controlled by the Republicans 32 to 18, and the State House of Representatives at 59 to 41.
+\Predicted Summary:
+Montana is a state in the Northwestern United States. It is bordered by the west, North Dakota and South Dakota to the east, and Wyoming to the south . Montana is the fourth-largest state by area, the eighth-least populous state, and the third-least densely populated state . the name Montana comes from the Latin word montaa, meaning "mountain" or more broadly "mountainous country"
+
+GT:
+Montana is governed by a constitution. Montana has three branches of state government: legislative, executive, and judicial. The executive branch is headed by an elected governor. There are also nine other statewide elected offices in the executive branch: Lieutenant Governor, Attorney General, Secretary of State, State Auditor (who also serves as Commissioner of Securities and Insurance), and Superintendent of Public Instruction. There are five public service commissioners, who are elected on a regional basis. (The Public Service Commission's jurisdiction is statewide.) There are 18 departments and offices which make up the executive branch: Administration; Agriculture; Auditor (securities and insurance); Commerce; Corrections; Environmental Quality; Fish, Wildlife & Parks; Justice; Labor and Industry; Livestock; Military Affairs; Natural Resources and Conservation; Public Health and Human Services; Revenue; State; and Transportation. Elementary and secondary education are overseen by the Office of Public Instruction (led by the elected superintendent of public instruction), in cooperation with the governor-appointed Board of Public Education. Higher education is overseen by a governor-appointed Board of Regents, which in turn appoints a commissioner of higher education. The Office of the Commissioner of Higher Education acts in an executive capacity on behalf of the regents, and oversees the state-run Montana University System.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1330049261083744, 0.421875, 0.20224719101123598, 0.12640449438202248]
+[0.019801980198019802, 0.06349206349206349, 0.03018867924528302, 0.018867924528301886]
+[0.09852216748768473, 0.3125, 0.149812734082397, 0.09363295880149813]
+
+
+SBERT sim. Score: 0.41860231757164

@@ -1,0 +1,21 @@
+Document:
+virginia
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+
+Input:
+The Ridge and Valley region is west of the mountains and includes the Great Appalachian Valley. The region is carbonate rock based and includes Massanutten Mountain. The largest areas of wilderness are along the Atlantic coast and in the western mountains, where the largest populations of trillium wildflowers in North America are found. For example, the state is home to Eastern blacknose dace and sculpin (on the Appalachian Plateau); smallmouth bass and redhorse sucker (in the Ridge and Valley region); brook trout, rainbow trout, brown trout, and the Kanawha darter (in the Blue Ridge); stripeback darter and Roanoke Bass (in the Piedmont); and swampfish, bluespotted sunfish, and pirate perch (on the Coastal Plain). Virginia has 30 National Park Service units, such as Great Falls Park and the Appalachian Trail, and one national park, Shenandoah National Park. Almost forty percent (79,579 acres or 322.04 km2) of the park's total 199,173 acres (806.02 km2) area has been designated as wilderness under the National Wilderness Preservation System. All are managed by the Virginia Department of Conservation and Recreation except for Breaks Interstate Park.
+\Predicted Summary:
+,,,,, and the Chesapeake Bay, are the most-populous cities in the state . Virginia has a total area of 42,774.2 square miles (110,784.7 km2), including 3,180.13 square miles (8,236.5 km2) of water . Virginia is the 35th state in the state of Virginia, with 36% of them living in the metropolitan area .
+
+GT:
+Virginia has 30 National Park Service units, such as Great Falls Park and the Appalachian Trail, and one national park, Shenandoah National Park. The Harrison Opera House, in Norfolk, is home of the Virginia Opera. The Barter Theatre in Abingdon, designated the State Theatre of Virginia, won the first Regional Theatre Tony Award in 1948, while the Signature Theatre in Arlington won it in 2009. There is also a Children's Theater of Virginia, Theatre IV, which is the second largest touring troupe nationwide. The Virginia State Fair is held at the Meadow Event Park every September. Also in September is the Neptune Festival in Virginia Beach, which celebrates the city, the waterfront, and regional artists. Norfolk's Harborfest, in June, features boat racing and air shows. Fairfax County also sponsors Celebrate Fairfax! with popular and traditional music performances. The Virginia Lake Festival is held during the third weekend in July in Clarksville. Wolf Trap hosts the Wolf Trap Opera Company, which produces an opera festival every summer. Each September, Bay Days celebrates the Chesapeake Bay as well as Hampton's 400-year history since 1610, and Isle of Wight County holds a County Fair on the second week of September as well. Both feature live music performances, and other unique events. The Shenandoah Apple Blossom Festival is a six-day festival held annually in Winchester which includes parades and bluegrass concerts. The Old Time Fiddlers' Convention in Galax, begun in 1935, is one of the oldest and largest such events worldwide. Two important film festivals, the Virginia Film Festival and the VCU French Film Festival, are held annually in Charlottesville and Richmond, respectively.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10583941605839416, 0.5, 0.17469879518072287, 0.10918674698795179]
+[0.02564102564102564, 0.12280701754385964, 0.04242424242424243, 0.026515151515151516]
+[0.07664233576642336, 0.3620689655172414, 0.12650602409638553, 0.07906626506024098]
+
+
+SBERT sim. Score: 0.3915674090385437

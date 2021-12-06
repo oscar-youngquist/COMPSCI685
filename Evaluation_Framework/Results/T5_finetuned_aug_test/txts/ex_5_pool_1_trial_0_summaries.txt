@@ -1,0 +1,21 @@
+Document:
+michigan
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+It also has 64,980 inland lakes and ponds. The federal government subsidized the construction of interstate highways, which were intended to strengthen military access, but also allowed commuters and business traffic to travel the region more easily. The 45th parallel north runs through the state, marked by highway signs and the Polar-Equator Trail—along a line including Mission Point Light near Traverse City, the towns of Gaylord and Alpena in the Lower Peninsula and Menominee in the Upper Peninsula. Detroit Metropolitan Airport is one of the nation's most recently expanded and modernized airports with six major runways, and large aircraft maintenance facilities capable of servicing and repairing a Boeing 747 and is a major hub for Delta Air Lines. These are augmented by several dozen short line railroads. The vast majority of rail service in Michigan is devoted to freight, with Amtrak and various scenic railroads the exceptions. Amtrak passenger rail services the state, connecting many southern and western Michigan cities to Chicago, Illinois. There are plans for commuter rail for Detroit and its suburbs (see SEMCOG Commuter Rail). The Gerald R. Ford International Airport in Grand Rapids is the next busiest airport in the state, served by eight airlines to 23 destinations. Flint Bishop International Airport is the third largest airport in the state, served by four airlines to several primary hubs. Cherry Capital Airport is in Traverse City. Alpena County Regional Airport services Alpena and the northeastern lower peninsula. Smaller regional and local airports are located throughout the state including on several islands.
+\Predicted Summary:
+,,, and was occupied by Native Americans in the 17th century. Michigan is the tenth most populous state, the 11th most extensive state by area, and the largest by area . Michigan is the only state to consist of two peninsulas, the Upper Peninsula, and Lake Michigan . Michigan is the largest state in the world, with a population of approximately 10 million .
+
+GT:
+Michigan has nine international road crossings with Ontario, Canada: The Gordie Howe International Bridge, a second international bridge between Detroit and Windsor, is under construction. It is expected to be completed in 2024. Michigan is served by four Class I railroads: the Canadian National Railway, the Canadian Pacific Railway, CSX Transportation, and the Norfolk Southern Railway. These are augmented by several dozen short line railroads. The vast majority of rail service in Michigan is devoted to freight, with Amtrak and various scenic railroads the exceptions. Amtrak passenger rail services the state, connecting many southern and western Michigan cities to Chicago, Illinois. There are plans for commuter rail for Detroit and its suburbs (see SEMCOG Commuter Rail). The Detroit Metropolitan Airport in the western suburb of Romulus, was in 2010 the 16th busiest airfield in North America measured by passenger traffic. The Gerald R. Ford International Airport in Grand Rapids is the next busiest airport in the state, served by eight airlines to 23 destinations. Flint Bishop International Airport is the third largest airport in the state, served by four airlines to several primary hubs. Cherry Capital Airport is in Traverse City. Alpena County Regional Airport services Alpena and the northeastern lower peninsula. MBS International Airport serves Midland, Bay City and Saginaw. Smaller regional and local airports are located throughout the state including on several islands.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15555555555555556, 0.5833333333333334, 0.2456140350877193, 0.15350877192982457]
+[0.03125, 0.11864406779661017, 0.04946996466431095, 0.03091872791519434]
+[0.09777777777777778, 0.36666666666666664, 0.1543859649122807, 0.09649122807017543]
+
+
+SBERT sim. Score: 0.3403669595718384

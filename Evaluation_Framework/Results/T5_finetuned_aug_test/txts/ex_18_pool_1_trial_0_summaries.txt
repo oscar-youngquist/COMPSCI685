@@ -1,0 +1,21 @@
+Document:
+oklahoma
+
+Intent:
+How is the weather of the state?
+
+Input:
+Interior Highlands, all regions prone to severe weather. On November 11, 1911, the temperature at Oklahoma City reached 83 °F (28 °C) (the record high for that date), then a cold front of unprecedented intensity slammed across the state, causing the temperature to reach 17 °F (−8 °C) (the record low for that date) by midnight. Precipitation and temperatures decline from east to west accordingly, with areas in the southeast averaging an annual temperature of 62 °F (17 °C) and an annual rainfall of generally over 40 in (1,020 mm) and up to 56 in (1,420 mm), while areas of the (higher-elevation) panhandle average 58 °F (14 °C), with an annual rainfall under 17 in (430 mm). Over almost all of Oklahoma, winter is the driest season. Severe drought is common in the hottest summers, such as those of 1934, 1954, 1980 and 2011, all of which featured weeks on end of virtual rainlessness and highs well over 100 °F (38 °C). The entire state frequently experiences temperatures above 100 °F (38 °C) or below 0 °F (−18 °C), though below-zero temperatures are rare in south-central and southeastern Oklahoma. Snowfall ranges from an average of less than 4 in (102 mm) in the south to just over 20 in (508 mm) on the border of Colorado in the panhandle.
+\Predicted Summary:
+,,,,, and, the Oklahoma Metropolitan Corridor, United States, bordered by the state of Texas on the south and west, Kansas on the north, Missouri on the northeast, and New Mexico on the east . Oklahoma is the 20th-most extensive and the 28th-most populous of the 50 United States . Oklahoma is a major producer of natural gas, oil, and agricultural products . Oklahoma is a major producer of natural gas, oil, and agricultural products
+
+GT:
+With ancient mountain ranges, prairie, mesas, and eastern forests, most of Oklahoma lies in the Great Plains, Cross Timbers, and the US Interior Highlands, all regions prone to severe weather. Most of the state lies in an area known as Tornado Alley characterized by frequent interaction between cold, dry air from Canada, warm to hot, dry air from Mexico and the Southwestern US, and warm, moist air from the Gulf of Mexico. The interactions between these three contrasting air currents produces severe weather (severe thunderstorms, damaging thunderstorm winds, large hail and tornadoes) with a frequency virtually unseen anywhere else on planet Earth. Because of Oklahoma's position between zones of differing prevailing temperature and winds, weather patterns within the state can vary widely over relatively short distances, and they can change drastically in a short time. On November 11, 1911, the temperature at Oklahoma City reached 83 °F (28 °C) (the record high for that date), then a cold front of unprecedented intensity slammed across the state, causing the temperature to reach 17 °F (−8 °C) (the record low for that date) by midnight. The humid subtropical climate (Koppen Cfa) of central, southern and eastern Oklahoma is influenced heavily by southerly winds bringing moisture from the Gulf of Mexico. Precipitation and temperatures decline from east to west accordingly, with areas in the southeast averaging an annual temperature of 62 °F (17 °C) and an annual rainfall of generally over 40 in (1,020 mm) and up to 56 in (1,420 mm), while areas of the (higher-elevation) panhandle average 58 °F (14 °C), with an annual rainfall under 17 in (430 mm). Early June can still be wet, but most years see a marked decrease in rainfall during June and early July. Mid-summer (July and August) represents a secondary dry season over much of Oklahoma, with long stretches of hot weather with only sporadic thunderstorm activity not uncommon many years. Average precipitation rises again from September to mid-October, representing a secondary wetter season, then declines from late October through December.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11078717201166181, 0.5277777777777778, 0.18313253012048195, 0.11445783132530121]
+[0.014619883040935672, 0.07042253521126761, 0.02421307506053269, 0.015133171912832928]
+[0.06997084548104957, 0.3333333333333333, 0.11566265060240966, 0.07228915662650603]
+
+
+SBERT sim. Score: 0.5092164874076843

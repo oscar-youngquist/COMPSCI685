@@ -1,0 +1,21 @@
+Document:
+ohio
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Akron, Canton, Cleveland, Mansfield, and Youngstown are in the Northeast, known for major industrial companies Goodyear Tire and Rubber and Timken, top ranked colleges Case Western Reserve University and Kent State University, the Cleveland Clinic, and cultural attractions including the Cleveland Museum of Art, Big Five group Cleveland Orchestra, Playhouse Square, the Pro Football Hall of Fame, and the Rock and Roll Hall of Fame. It encompassed what became Ohio, Indiana, Illinois, Michigan, Wisconsin and part of Minnesota. Ohio has the largest bioscience sector in the Midwest, and is a national leader in the "green" economy. Cincinnati is home to the American Classical Music Hall of Fame and Museum. Many other Ohio cities are home to their own orchestras, including Akron, Blue Ash, Canton, Cincinnati, Columbus, Dayton, Toledo, and Youngstown. Ohio is home to eight professional sports teams across the five different major leagues in the United States. Ohio played a central role in the development of both Major League Baseball and the National Football League. On a smaller scale, Ohio hosts minor league baseball, arena football, indoor football, mid-level hockey, and lower division soccer. Six teams are represented in the Mid-American Conference: the Akron Zips, Bowling Green Falcons, Kent State Golden Flashes, Miami RedHawks, Ohio Bobcats and the Toledo Rockets. Other Division I schools, either part of the NCAA Division I Football Championship Subdivision or not fielding in football include the Cleveland State Vikings, Xavier Musketeers, Wright State Raiders, and Youngstown State Penguins.
+\Predicted Summary:
+, the first state to be admitted to the Union in the 18th century. Ohio is the 34th-largest by area, with a population of nearly 11.7 million . Ohio is the seventh-most populous and tenth-most densely populated state . the state is known for its historic status as a swing state and a bellwether in national elections .
+
+GT:
+The Rock and Roll Hall of Fame and the Rhythm and Blues Music Hall of Fame are both located in Cleveland. Cincinnati is home to the American Classical Music Hall of Fame and Museum. Popular musicians from Ohio include Mamie Smith, Dean Martin, Dave Grohl, Tyler Joseph and Josh Dun of Twenty One Pilots, Frankie Yankovic, Doris Day, The McGuire Sisters, The Isley Brothers, Bobby Womack, Howard Hewett, Shirley Murdock, Boz Scaggs, John Legend, Marilyn Manson, Nine Inch Nails, Dan Auerbach and Patrick Carney of The Black Keys, Griffin Layne, Joe Dolce, Kid Cudi, Benjamin Orr of The Cars, Chrissie Hynde of The Pretenders, William "Bootsy" Collins, Stephanie Eulinberg of Kid Rock's Twisted Brown Trucker Band, and Devo. Playhouse Square in downtown Cleveland is the second largest performing arts center in the United States, home to ten theaters. The Cleveland Orchestra is one of the historic Big Five orchestras in the US, and is considered one of the best worldwide. Ohio is home to 30 art institutions, including the Columbus Museum of Art, Cincinnati Art Museum, Cleveland Museum of Art, and other entities. Youngstown's Butler Institute of American Art was the first museum to be dedicated exclusively to American art.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11386138613861387, 0.39655172413793105, 0.17692307692307693, 0.11057692307692309]
+[0.029850746268656716, 0.10526315789473684, 0.046511627906976744, 0.029069767441860465]
+[0.06930693069306931, 0.2413793103448276, 0.10769230769230771, 0.06730769230769232]
+
+
+SBERT sim. Score: 0.25484949350357056

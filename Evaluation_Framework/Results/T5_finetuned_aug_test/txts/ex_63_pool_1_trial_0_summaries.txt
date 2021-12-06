@@ -1,0 +1,21 @@
+Document:
+maine
+
+Intent:
+What are the major historical events in this state?
+
+Input:
+Whatever the origin, the name was fixed for English settlers in 1665 when the English King's Commissioners ordered that the "Province of Maine" be entered from then on in official records. The first known record of the name appears in an August 10, 1622 land charter to Sir Ferdinando Gorges and Captain John Mason, English Royal Navy veterans, who were granted a large tract in present-day Maine that Mason and Gorges "intend to name the Province of Maine". The first European confirmed settlement in modern-day Maine was in 1604 on Saint Croix Island, led by French explorer Pierre Dugua, Sieur de Mons. The territory of Maine was confirmed as part of Massachusetts when the United States was formed following the Treaty of Paris ending the revolution, although the final border with British North America was not established until the Webster–Ashburton Treaty of 1842. Maine was physically separate from the rest of Massachusetts. In 1819, Massachusetts agreed to permit secession, sanctioned by voters of the rapidly growing region the following year. Formal secession and formation of the state of Maine as the 23rd state occurred on March 15, 1820, as part of the Missouri Compromise, which geographically limited the spread of slavery and enabled the admission to statehood of Missouri the following year, keeping a balance between slave and free states. Maine was a center of agriculture before it achieved statehood.
+\Predicted Summary:
+the, established by the Plymouth Company in 1607, and established by the Plymouth Company in 1607 . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states . Maine is the only state to border only one other state .
+
+GT:
+European contact with what is now called Maine may have started around 1200 CE when Norwegians are believed to have interacted with the native Penobscot in present-day Hancock County, most likely through trade. If confirmed, this would make Maine the site of the earliest European landfall in the entire US. Archeological evidence suggests that Norwegians in Greenland returned to North America for several centuries after the initial discovery to trade and collect timber, with the most relevant evidence being the Maine Penny, an 11th-century Norwegian coin found at a Native American dig site in 1954. The first European confirmed settlement in modern-day Maine was in 1604 on Saint Croix Island, led by French explorer Pierre Dugua, Sieur de Mons. After the British defeated the French in Acadia in the 1740s, the territory from the Penobscot River east fell under the nominal authority of the Province of Nova Scotia, and together with present-day New Brunswick formed the Nova Scotia county of Sunbury, with its court of general sessions at Campobello. Maine was physically separate from the rest of Massachusetts. Long-standing disagreements over land speculation and settlements led to Maine residents and their allies in Massachusetts proper forcing an 1807 vote in the Massachusetts Assembly on permitting Maine to secede Maine's original state capital was Portland, Maine's largest city, until it was moved to the more central Augusta in 1832.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0851063829787234, 0.40816326530612246, 0.14084507042253522, 0.0880281690140845]
+[0.004273504273504274, 0.020833333333333332, 0.0070921985815602835, 0.004432624113475178]
+[0.07234042553191489, 0.3469387755102041, 0.11971830985915492, 0.07482394366197183]
+
+
+SBERT sim. Score: 0.4720490276813507

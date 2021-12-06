@@ -1,0 +1,21 @@
+Document:
+south_carolina
+
+Intent:
+How is the government structured in this state?
+
+Input:
+South Carolina's state government consists of the Executive, Legislative, and Judicial branches. Also relevant are the state constitution, law enforcement agencies, federal representation, state finances, and state taxes. South Carolina has historically had a weak executive branch and a strong legislature. Before 1865, governors in South Carolina were appointed by the General Assembly, and held the title "President of State". The 1895 state constitution overturned this, reducing the role of counties and strengthening the relative role of the state legislature; essentially the counties were agents of the state and ruled by the General Assembly through the legislative delegation for each county. They are geographically comprehensive As each county had one state senator, that position was particularly powerful. During this time the state had changed, with increasing urbanization, but rural counties retained proportionally more power as the legislature was based in representatives elected from counties rather than population districts. Legislators were now supposed to representmore or less equal numbers of people." Residents of urban areas had been found to be markedly underrepresented in the legislature under the county-based system. With urbanization, their governments have become increasingly important in the state. Several changes to the state constitution have affected the office of the governor and the cabinet. In 1993, the state passed an amendment requiring a limited cabinet (all of whom must be popularly elected). The 1895 constitution overturned local representative government, reducing the role of the counties to agents of state government, effectively ruled by the General Assembly, through the legislative delegations for each county. As each county had one state senator, that person had considerable power.
+\Predicted Summary:
+,,,,, and a lot of land is swampy. South Carolina is a state in the Deep South region of the Southern United States . South Carolina is the 40th most extensive and 23rd most populous state .
+
+GT:
+South Carolina's state government consists of the Executive, Legislative, and Judicial branches. Also relevant are the state constitution, law enforcement agencies, federal representation, state finances, and state taxes. South Carolina has historically had a weak executive branch and a strong legislature. This status continued until 1973, when the state constitution was amended to provide for home rule for the counties. During this time the state had changed, with increasing urbanization, but rural counties retained proportionally more power as the legislature was based in representatives elected from counties rather than population districts. The Home Rule Act of 1975 implemented the amendment giving more power to the counties. With urbanization, their governments have become increasingly important in the state. Several changes to the state constitution have affected the office of the governor and the cabinet. In 1926 the governor's term was extended from two to four years In 1993, the state passed an amendment requiring a limited cabinet (all of whom must be popularly elected).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10909090909090909, 0.5294117647058824, 0.1809045226130653, 0.11306532663316582]
+[0.03048780487804878, 0.15151515151515152, 0.050761421319796954, 0.031725888324873094]
+[0.07878787878787878, 0.38235294117647056, 0.13065326633165827, 0.08165829145728642]
+
+
+SBERT sim. Score: 0.4308246076107025

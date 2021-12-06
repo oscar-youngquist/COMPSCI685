@@ -1,0 +1,21 @@
+Document:
+wisconsin
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+
+Input:
+In the middle of the state, the Central Plain has some unique sandstone formations like the Dells of the Wisconsin River in addition to rich farmland. Tourism is a major industry in Wisconsin—the state's third largest, according to the Department of Tourism. Tourist destinations such as the House on the Rock near Spring Green, Circus World Museum in Baraboo, and The Dells of the Wisconsin River draw thousands of visitors annually, and festivals such as Summerfest and the EAA Oshkosh Airshow draw international attention, along with hundreds of thousands of visitors. Given the large number of lakes and rivers in the state, water recreation is very popular. The varied landscape of Wisconsin makes the state a popular vacation destination for outdoor recreation. Winter events include skiing, ice fishing and snowmobile derbies. Outdoor activities are popular in Wisconsin, especially hunting and fishing.
+\Predicted Summary:
+in 1673. French explorer Jacques Marquette was the first European to reach the Wisconsin River . Wisconsin is a state in the Great Lakes region of the Midwestern United States . Wisconsin is the 23rd-largest state by total area and the 20th-most populous .
+
+GT:
+Tourist destinations such as the House on the Rock near Spring Green, Circus World Museum in Baraboo, and The Dells of the Wisconsin River draw thousands of visitors annually, and festivals such as Summerfest and the EAA Oshkosh Airshow draw international attention, along with hundreds of thousands of visitors. Given the large number of lakes and rivers in the state, water recreation is very popular. The distinctive Door Peninsula, which extends off the eastern coast of the state, contains one of the state's tourist destinations, Door County. Door County is a popular destination for boaters because of the large number of natural harbors, bays, and boat launches on both the Green Bay and Lake Michigan sides of the peninsula that forms the county. The area draws more than two million visitors yearly to its quaint villages, seasonal cherry picking, and fish boils. Milwaukee hosts Summerfest, dubbed "The World's Largest Music Festival", every year. This festival is held at the lakefront Henry Maier Festival Park just south of downtown, as are a summer-long array of ethnic musical festivals.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12222222222222222, 0.5116279069767442, 0.19730941704035876, 0.1233183856502242]
+[0.0335195530726257, 0.14285714285714285, 0.05429864253393666, 0.033936651583710405]
+[0.08333333333333333, 0.3488372093023256, 0.13452914798206278, 0.08408071748878923]
+
+
+SBERT sim. Score: 0.4466768205165863

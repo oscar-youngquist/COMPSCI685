@@ -1,0 +1,21 @@
+Document:
+idaho
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Idaho is among the few states in the nation without a major freeway linking its two largest metropolitan areas, Boise in the south and Coeur d'Alene in the north. US-95 links the two ends of the state, but like many other highways in Idaho, it is badly in need of repair and upgrade. I-84 is the main highway linking the southeast and southwest portions of the state, along with I-86 and I-15. Major airports include the Boise International Airport which serves the southwest region of Idaho and the Spokane International Airport (in Spokane, Washington) which serves northern Idaho. Idaho is served by three transcontinental railroads. Amtrak's Empire Builder crosses northern Idaho, with its only stop being in Sandpoint. The Union Pacific Railroad also crosses southern Idaho traveling between Portland, Oregon, Green River, Wyoming, and Ogden, Utah and serves Boise, Nampa, Twin Falls, and Pocatello.
+\Predicted Summary:
+is the 14th largest state in the Pacific Northwest region of the United States . Idaho is the 12th least populous state in the world, and the 7th least densely populated state . Idaho is the 14th largest state in the Pacific Northwest region of the United States .
+
+GT:
+US-95 links the two ends of the state, but like many other highways in Idaho, it is badly in need of repair and upgrade. Major airports include the Boise International Airport which serves the southwest region of Idaho and the Spokane International Airport (in Spokane, Washington) which serves northern Idaho. Other airports with scheduled service are the Pullman-Moscow Regional Airport serving the Palouse; the Lewiston-Nez Perce County Airport, serving the Lewis-Clark Valley and north central and west central Idaho; The Magic Valley Regional Airport in Twin Falls; the Idaho Falls Regional Airport; and the Pocatello Regional Airport. Idaho is served by three transcontinental railroads. The Burlington Northern Santa Fe (BNSF) connects the Idaho Panhandle with Seattle, Portland, and Spokane to the west, and Minneapolis and Chicago to the east. Montana Rail Link also operates between Billings, Montana and Sandpoint, Idaho The Union Pacific Railroad also crosses southern Idaho traveling between Portland, Oregon, Green River, Wyoming, and Ogden, Utah and serves Boise, Nampa, Twin Falls, and Pocatello. The Port of Lewiston is the farthest inland Pacific port on the west coast.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1358695652173913, 0.5434782608695652, 0.21739130434782608, 0.1358695652173913]
+[0.0273224043715847, 0.1111111111111111, 0.043859649122807015, 0.027412280701754384]
+[0.10869565217391304, 0.43478260869565216, 0.1739130434782609, 0.10869565217391304]
+
+
+SBERT sim. Score: 0.5138616561889648

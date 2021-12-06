@@ -1,0 +1,21 @@
+Document:
+alaska
+
+Intent:
+What are some of the most interesting things about this state?
+
+Input:
+Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined, and the seventh-largest subnational division in the world. The state capital of Juneau is the second-largest city in the United States by area, comprising more territory than the states of Rhode Island and Delaware. United States armed forces bases and tourism are also a significant part of the economy; more than half the state is federally owned public land, including a multitude of national forests, parks, and wildlife refuges. Alaska's indigenous population is proportionally the highest of any US state, at over 15 percent. Close to two dozen native languages are spoken, and Alaskan Natives exercise considerable influence in local and state politics. Statehood supporters also found themselves fighting major battles against political foes, mostly in the US Congress but also within Alaska. Alaska is by far the largest US state by area, and the tenth wealthiest (per capita income). In terms of race and ethnicity, the state was 66.7% White (64.1% Non-Hispanic White), 14.8% American Indian and Alaska Native, 5.4% Asian, 3.3% Black or African American, 1.0% Native Hawaiian and Other Pacific Islander, 1.6% from Some Other Race, and 7.3% from Two or More Races. Alaska also has the largest Quaker population (by percentage) of any state. In addition, the state operates a boarding school, Mt. The Alaska Native Heritage Center celebrates the rich heritage of Alaska's 11 cultural groups.
+\Predicted Summary:
+,, is a US state on the northwest extremity of the country's West Coast, just across the Bering Strait . Alaska is by far the largest US state by area, comprising more total area than the next three largest states . Alaska is the third-least populous and the most sparsely populated state by area .
+
+GT:
+Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined, and the seventh-largest subnational division in the world. The state capital of Juneau is the second-largest city in the United States by area, comprising more territory than the states of Rhode Island and Delaware. Alaska's indigenous population is proportionally the highest of any US state, at over 15 percent. With its myriad islands, Alaska has nearly 34,000 miles (55,000 km) of tidal shoreline. Alaska has more than three million lakes. The Trans-Alaska Pipeline can transport and pump up to 2.1 million barrels (330,000 m3) of crude oil per day, more than any other crude oil pipeline in the United States. Alaska, with no counties, lacks county fairs. Some of Alaska's popular annual events are the Iditarod Trail Sled Dog Race from Anchorage to Nome, World Ice Art Championships in Fairbanks, the Blueberry Festival and Alaska Hummingbird Festival in Ketchikan, the Sitka Whale Fest, and the Stikine River Garnet Fest in Wrangell.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2, 0.6981132075471698, 0.31092436974789917, 0.19432773109243695]
+[0.1358695652173913, 0.4807692307692308, 0.21186440677966104, 0.13241525423728814]
+[0.14054054054054055, 0.49056603773584906, 0.21848739495798322, 0.13655462184873948]
+
+
+SBERT sim. Score: 0.6799545884132385

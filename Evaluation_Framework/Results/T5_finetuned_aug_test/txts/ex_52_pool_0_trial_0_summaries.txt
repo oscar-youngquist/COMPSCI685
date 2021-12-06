@@ -1,0 +1,21 @@
+Document:
+alaska
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+The Alaska Marine Highway provides a vital surface transportation link throughout the area, as only three communities (Haines, Hyder and Skagway) enjoy direct connections to the contiguous North American road system. Alaska has few road connections compared to the rest of the US The state's road system covers a relatively small area of the state, linking the central population centers and the Alaska Highway, the principal route out of the state through Canada. The Interstate Highways in Alaska consists of a total of 1082 miles. One unique feature of the Alaska Highway system is the Anton Anderson Memorial Tunnel, an active Alaska Railroad tunnel recently upgraded to provide a paved roadway link with the isolated community of Whittier on Prince William Sound to the Seward Highway about 50 miles (80 km) southeast of Anchorage at Portage. It links north Pacific shipping through providing critical infrastructure with tracks that run from Seward to Interior Alaska by way of South Central Alaska, passing through Anchorage, Eklutna, Wasilla, Talkeetna, Denali, and Fairbanks, with spurs to Whittier, Palmer and North Pole. The cities, towns, villages, and region served by ARR tracks are known statewide as "The Railbelt". Many cities, towns and villages in the state do not have road or highway access; the only modes of access involve travel by air, river, or the sea. Alaska's well-developed state-owned ferry system (known as the Alaska Marine Highway) serves the cities of southeast, the Gulf Coast and the Alaska Peninsula. Cities not served by road, sea, or river can be reached only by air, foot, dogsled, or snowmachine, accounting for Alaska's extremely well developed bush air services—an Alaskan novelty. Because of limited highway access, air travel remains the most efficient form of transportation in and out of the state. Alaska Airlines is the only major airline offering in-state travel with jet service (sometimes in combination cargo and passenger Boeing 737-400s) from Anchorage and Fairbanks to regional hubs like Bethel, Nome, Kotzebue, Dillingham, Kodiak, and other larger communities as well as to major Southeast and Alaska Peninsula communities.
+\Predicted Summary:
+,, is a US state on the northwest extremity of the country's West Coast, just across the Bering Strait . Alaska is by far the largest US state by area, comprising more total area than the next three largest states . Alaska is the third-least populous and the most sparsely populated state by area .
+
+GT:
+Alaska has few road connections compared to the rest of the US The state's road system covers a relatively small area of the state, linking the central population centers and the Alaska Highway, the principal route out of the state through Canada. The state capital, Juneau, is not accessible by road, only a car ferry; this has spurred debate over decades about moving the capital to a city on the road system, or building a road connection from Haines. The Interstate Highways in Alaska consists of a total of 1082 miles. Built around 1915, the Alaska Railroad (ARR) played a key role in the development of Alaska through the 20th century. Many cities, towns and villages in the state do not have road or highway access; the only modes of access involve travel by air, river, or the sea. Cities not served by road, sea, or river can be reached only by air, foot, dogsled, or snowmachine, accounting for Alaska's extremely well developed bush air services—an Alaskan novelty. Anchorage and, to a lesser extent Fairbanks, is served by many major airlines. Another Alaskan transportation method is the dogsled. In modern times (that is, any time after the mid-late 1920s), dog mushing is more of a sport than a true means of transportation.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14351851851851852, 0.5849056603773585, 0.23048327137546468, 0.14405204460966542]
+[0.018604651162790697, 0.07692307692307693, 0.029962546816479398, 0.018726591760299626]
+[0.0787037037037037, 0.32075471698113206, 0.12639405204460966, 0.07899628252788105]
+
+
+SBERT sim. Score: 0.5130853056907654

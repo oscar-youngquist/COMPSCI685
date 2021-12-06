@@ -1,0 +1,21 @@
+Document:
+alaska
+
+Intent:
+How is the weather of the state?
+
+Input:
+The climate in Southeast Alaska is a mid-latitude oceanic climate (Köppen climate classification: Cfb) in the southern sections and a subarctic oceanic climate (Köppen Cfc) in the northern parts. On an annual basis, Southeast is both the wettest and warmest part of Alaska with milder temperatures in the winter and high precipitation throughout the year. Juneau averages over 50 in (130 cm) of precipitation a year, and Ketchikan averages over 150 in (380 cm). This is also the only region in Alaska in which the average daytime high temperature is above freezing during the winter months. While the area gets less rain than southeast Alaska, it gets more snow, and days tend to be clearer. On average, Anchorage receives 16 in (41 cm) of precipitation a year, with around 75 in (190 cm) of snow, although there are areas in the south central which receive far more snow. The temperature is somewhat moderate considering how far north the area is. This region has a tremendous amount of variety in precipitation. The summers may have temperatures reaching into the 90s °F (the low-to-mid 30s °C), while in the winter, the temperature can fall below −60 °F (−51 °C). Precipitation is sparse in the Interior, often less than 10 in (25 cm) a year, but what precipitation falls in the winter tends to stay the entire winter. Precipitation is light in this part of Alaska, with many places averaging less than 10 in (25 cm) per year, mostly as snow which stays on the ground almost the entire year.
+\Predicted Summary:
+,, is a US state on the northwest extremity of the country's West Coast, just across the Bering Strait . Alaska is by far the largest US state by area, comprising more total area than the next three largest states . Alaska is the third-least populous and the most sparsely populated state by area .
+
+GT:
+The climate in Southeast Alaska is a mid-latitude oceanic climate (Köppen climate classification: Cfb) in the southern sections and a subarctic oceanic climate (Köppen Cfc) in the northern parts. This is also the only region in Alaska in which the average daytime high temperature is above freezing during the winter months. The climate of Anchorage and south central Alaska is mild by Alaskan standards due to the region's proximity to the seacoast. While the area gets less rain than southeast Alaska, it gets more snow, and days tend to be clearer. It is a subarctic climate (Köppen: Dfc) due to its brief, cool summers. The climate of Western Alaska is determined in large part by the Bering Sea and the Gulf of Alaska. It is a subarctic oceanic climate in the southwest and a continental subarctic climate farther north. The temperature is somewhat moderate considering how far north the area is. This region has a tremendous amount of variety in precipitation. The climate of the interior of Alaska is subarctic. The summers may have temperatures reaching into the 90s °F (the low-to-mid 30s °C), while in the winter, the temperature can fall below −60 °F (−51 °C). Precipitation is sparse in the Interior, often less than 10 in (25 cm) a year, but what precipitation falls in the winter tends to stay the entire winter. The highest and lowest recorded temperatures in Alaska are both in the Interior. The highest is 100 °F (38 °C) in Fort Yukon (which is just 8 mi or 13 km inside the arctic circle) on June 27, 1915, making Alaska tied with Hawaii as the state with the lowest high temperature in the United States. The lowest official Alaska temperature is −80 °F (−62 °C) in Prospect Creek on January 23, 1971, one degree above the lowest temperature recorded in continental North America (in Snag, Yukon, Canada). The climate in the extreme north of Alaska is Arctic (Köppen: ET) with long, very cold winters and short, cool summers. Precipitation is light in this part of Alaska, with many places averaging less than 10 in (25 cm) per year, mostly as snow which stays on the ground almost the entire year.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08021390374331551, 0.5660377358490566, 0.1405152224824356, 0.08782201405152225]
+[0.01876675603217158, 0.1346153846153846, 0.03294117647058824, 0.020588235294117647]
+[0.05614973262032086, 0.39622641509433965, 0.09836065573770493, 0.06147540983606558]
+
+
+SBERT sim. Score: 0.468154639005661

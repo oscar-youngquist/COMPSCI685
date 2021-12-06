@@ -1,0 +1,21 @@
+Document:
+ohio
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Of the fifty states, it is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated. Summers are typically hot and humid throughout the state, while winters generally range from cool to cold. It encompassed what became Ohio, Indiana, Illinois, Michigan, Wisconsin and part of Minnesota. This ranks Ohio's economy as the seventh-largest of all fifty states and the District of Columbia. Forbes ranked the state No. Ohio has the third largest manufacturing workforce behind California and Texas. Ohio has the largest bioscience sector in the Midwest, and is a national leader in the "green" economy. Substantively, Ohio's system is similar to those found in other states.
+\Predicted Summary:
+, the first state to be admitted to the Union in the 18th century. Ohio is the 34th-largest by area, with a population of nearly 11.7 million . Ohio is the seventh-most populous and tenth-most densely populated state . the state is known for its historic status as a swing state and a bellwether in national elections .
+
+GT:
+Although predominantly not in a subtropical climate, some warmer-climate flora and fauna do reach well into Ohio. Columbus is the capital of Ohio, located near the geographic center of the state and well known for The Ohio State University. Akron, Canton, Cleveland, Mansfield, and Youngstown are in the Northeast, known for major industrial companies Goodyear Tire and Rubber and Timken, top ranked colleges Case Western Reserve University and Kent State University, the Cleveland Clinic, and cultural attractions including the Cleveland Museum of Art, Big Five group Cleveland Orchestra, Playhouse Square, the Pro Football Hall of Fame, and the Rock and Roll Hall of Fame. The state has also won three consecutive Governor's Cup awards from the magazine, based on business growth and developments. This ranks Ohio's economy as the seventh-largest of all fifty states and the District of Columbia. The Ohio Lottery has contributed over $15.5 billion to public education in its 34-year history. Ohio is home to some of the nation's highest-ranked public libraries. The Rock and Roll Hall of Fame and the Rhythm and Blues Music Hall of Fame are both located in Cleveland. Cleveland disc jockey Alan Freed is credited with coining the term and promoting rock and roll in the early 1950s. Ohio is home to eight professional sports teams across the five different major leagues in the United States.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1336206896551724, 0.5344827586206896, 0.21379310344827585, 0.1336206896551724]
+[0.03463203463203463, 0.14035087719298245, 0.05555555555555555, 0.034722222222222224]
+[0.07327586206896551, 0.29310344827586204, 0.11724137931034481, 0.07327586206896551]
+
+
+SBERT sim. Score: 0.5150692462921143

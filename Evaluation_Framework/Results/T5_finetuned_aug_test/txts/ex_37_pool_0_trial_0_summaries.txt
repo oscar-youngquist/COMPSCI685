@@ -1,0 +1,21 @@
+Document:
+north_dakota
+
+Intent:
+What are some of the most interesting things about this state?
+
+Input:
+It is named after the Lakota and Dakota Sioux Native American tribes, who comprise a large portion of the population and historically dominated the territory. It is the base of the state's great agricultural wealth. North Dakota also has enormous mineral resources. North Dakota was named for the Sioux people who once lived in the territory. North Dakota is in the US region known as the Great Plains. The western half of the state consists of the hilly Great Plains as well as the northern part of the Badlands, which are to the west of the Missouri River. The central region of the state is divided into the Drift Prairie and the Missouri Plateau. Native American peoples lived in what is now North Dakota for thousands of years before the coming of Europeans. They both assembled in villages on tributaries of the Missouri River in what would become west-central North Dakota. The Shoshone Indians in present-day Wyoming and Montana may have carried out attacks on Indian enemies as far east as the Missouri. Due to attacks by Crees, Assiniboines and Chippewas armed with fire weapons, they left the area around 1780 and crossed Missouri some time after. They soon followed the Cheyennes across Missouri and lived among them south of Cannonball River. Congress passed an omnibus bill for statehood for North Dakota, South Dakota, Montana, and Washington, titled the Enabling Act of 1889, on February 22, 1889 during the administration of President Grover Cleveland. Throughout the latter half of the nineteenth century and into the early twentieth century, North Dakota, along with most of the midwest, experienced a mass influx of newcomers from both the eastern United States and immigrants from Europe. Throughout the mid-19th century, Dakota Territory was still dominated by Native Americans. The federally recognized tribes have Indian reservations in the state. The state is known for the Lewis & Clark Trail and being the winter camp of the Corps of Discovery. Areas popular with visitors include Theodore Roosevelt National Park in the western part of the state.
+\Predicted Summary:
+, the largest city of North Dakota. North Dakota is the capital of Bismarck, and its largest city is Fargo . North Dakota is the third largest state in the region, the fourth least populous, and the fourth most sparsely populated of the 50 states . North Dakota has a wealth of oil, including billions of tons of lignite coal .
+
+GT:
+It is named after the Lakota and Dakota Sioux Native American tribes, who comprise a large portion of the population and historically dominated the territory. Native American peoples lived in what is now North Dakota for thousands of years before the coming of Europeans. The first European to reach the area was the French-Canadian trader Pierre Gaultier, sieur de La Vérendrye, who led an exploration and trading party to the Mandan villages in 1738. guided by Assiniboine Indians. Harrison directed Secretary of State James G. Blaine to shuffle the papers and obscure from him which he was signing first. The actual order went unrecorded, thus no one knows which of the Dakotas was admitted first. North Dakota is one of the top resettlement locations for refugees proportionally. The western terminus of the North Country National Scenic Trail is on Lake Sakakawea, where it abuts the Lewis and Clark Trail. The state is known for the Lewis & Clark Trail and being the winter camp of the Corps of Discovery. Areas popular with visitors include Theodore Roosevelt National Park in the western part of the state. Today, five federally recognized tribes within the boundaries of North Dakota have independent, sovereign relationships with the federal government and territorial reservations:
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15384615384615385, 0.5614035087719298, 0.24150943396226415, 0.15094339622641512]
+[0.03864734299516908, 0.14285714285714285, 0.06083650190114068, 0.03802281368821293]
+[0.10576923076923077, 0.38596491228070173, 0.1660377358490566, 0.10377358490566037]
+
+
+SBERT sim. Score: 0.43814817070961

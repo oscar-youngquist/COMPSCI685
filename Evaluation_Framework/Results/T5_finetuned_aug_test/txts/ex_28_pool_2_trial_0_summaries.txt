@@ -1,0 +1,21 @@
+Document:
+new_mexico
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The economy of New Mexico is dependent on oil drilling, mineral extraction, dryland farming, cattle ranching, acequia and landrace agriculture, lumber milling, retail trade, scientific research laboratories, technological development, as well as the arts, especially textiles and visual arts. Because of this, its film industry has grown and contributed $1.23 billion to its overall economy. In the 21st century, employment growth areas in New Mexico include electronic circuitry, scientific research, call centers, and Indian casinos. The state also has a large Native American population, second in percentage behind that of Alaska. Oil and gas production, tourism, and federal government spending are important drivers of the state economy. State government has an elaborate system of tax credits and technical assistance to promote job growth and business investment, especially in new technologies. However, the boom in hydraulic fracturing and horizontal drilling beginning in the mid-2010s led to a large increase in the production of crude oil from the Permian Basin and other US sources; these developments allowed the United States to again become the world's largest producer of crude oil in 2018.
+\Predicted Summary:
+is a state in the Southwestern region of the United States of America . New Mexico is the 36th largest state by population . New Mexico is the fifth largest state by population . New Mexico is a state in the south-southeast, Oklahoma to the northeast, and the Mexican states of Chihuahua to the south .
+
+GT:
+Oil and gas production, tourism, and federal government spending are important drivers of the state economy. State government has an elaborate system of tax credits and technical assistance to promote job growth and business investment, especially in new technologies. In 2005, the percentage of persons below the poverty level was 18.4%.The New Mexico Tourism Department estimates that in Fiscal Year 2006, the travel industry in New Mexico generated expenditures of $6.5 billion. New Mexico is the third-largest crude oil and ninth-largest natural gas producer in the United States. Federal government spending is a major driver of the New Mexico economy. New Mexico law allows governments to provide land, buildings, and infrastructure to businesses to promote job creation. The state provides financial incentives for film production.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.24615384615384617, 0.6037735849056604, 0.3497267759562842, 0.2185792349726776]
+[0.07751937984496124, 0.19230769230769232, 0.11049723756906077, 0.06906077348066299]
+[0.16153846153846155, 0.39622641509433965, 0.2295081967213115, 0.14344262295081966]
+
+
+SBERT sim. Score: 0.5949333310127258

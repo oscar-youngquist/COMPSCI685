@@ -1,0 +1,21 @@
+Document:
+alaska
+
+Intent:
+What drives the economy in this state?
+
+Input:
+While it has one of the smallest state economies in the country, Alaska's per capita income is among the highest, owing to a diversified economy dominated by fishing, natural gas, and oil, all of which it has in abundance. United States armed forces bases and tourism are also a significant part of the economy; more than half the state is federally owned public land, including a multitude of national forests, parks, and wildlife refuges. Alaska is by far the largest US state by area, and the tenth wealthiest (per capita income). The 2018 gross state product was $55 billion, 48th in the nation. The oil and gas industry dominates the Alaskan economy, with more than 80% of the state's revenues derived from petroleum extraction. Agriculture represents a very small fraction of the Alaskan economy. Agricultural production is primarily for consumption within the state and includes nursery stock, dairy products, vegetables, and livestock. Its industrial outputs are crude petroleum, natural gas, coal, gold, precious metals, zinc and other mining, seafood processing, timber and wood products. Alaskan agriculture has experienced a surge in growth of market gardeners, small farms and farmers' markets in recent years, with the highest percentage increase (46%) in the nation in growth in farmers' markets in 2011, compared to 17% nationwide.
+\Predicted Summary:
+,, is a US state on the northwest extremity of the country's West Coast, just across the Bering Strait . Alaska is by far the largest US state by area, comprising more total area than the next three largest states . Alaska is the third-least populous and the most sparsely populated state by area .
+
+GT:
+The oil and gas industry dominates the Alaskan economy, with more than 80% of the state's revenues derived from petroleum extraction. Agriculture represents a very small fraction of the Alaskan economy. Agricultural production is primarily for consumption within the state and includes nursery stock, dairy products, vegetables, and livestock. Employment is primarily in government and industries such as natural resource extraction, shipping, and transportation. Federal subsidies are also an important part of the economy, allowing the state to keep taxes low. Its industrial outputs are crude petroleum, natural gas, coal, gold, precious metals, zinc and other mining, seafood processing, timber and wood products. The Trans-Alaska Pipeline can transport and pump up to 2.1 million barrels (330,000 m3) of crude oil per day, more than any other crude oil pipeline in the United States.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.145985401459854, 0.37735849056603776, 0.2105263157894737, 0.13157894736842107]
+[0.007352941176470588, 0.019230769230769232, 0.010638297872340425, 0.006648936170212766]
+[0.10218978102189781, 0.2641509433962264, 0.1473684210526316, 0.09210526315789475]
+
+
+SBERT sim. Score: 0.4946310222148895

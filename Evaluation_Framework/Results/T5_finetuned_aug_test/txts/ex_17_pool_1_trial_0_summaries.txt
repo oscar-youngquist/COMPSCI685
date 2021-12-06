@@ -1,0 +1,21 @@
+Document:
+idaho
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Idaho is quite mountainous, and contains several stretches of the Rocky Mountains. The official state nickname is the "Gem State", which references Idaho's natural beauty. Idaho is a Rocky Mountain state with abundant natural resources and scenic areas. The state has snow-capped mountain ranges, rapids, vast lakes and steep canyons. The valley contains the major cities of Boise, Meridian, Nampa, Caldwell, Twin Falls, Idaho Falls, and Pocatello. The western region of the plain is known as the Treasure Valley, bound between the Owyhee Mountains to the southwest and the Boise Mountains to the northeast. The Sawtooth Range is often considered Idaho's most famous mountain range. The new territory included present-day Idaho, Montana, and most of Wyoming. In recent years, Idaho has expanded its commercial base as a tourism and agricultural state to include science and technology industries. Other metropolitan areas in order of size are Coeur d'Alene, Idaho Falls, Pocatello and Lewiston. Outdoor recreation is a common example ranging from numerous snowmobile and downhill and cross-country ski areas in winter to the evolution of Lewiston as a retirement community based on mild winters, dry, year-round climate and one of the lowest median wind velocities anywhere, combined with the rivers for a wide variety of activities. In keeping with this, while there are no large wineries or breweries in Idaho, there are numerous and growing numbers of award-winning boutique wineries and microbreweries in the northern part of the state. Other noted outdoor sites include Hells Canyon, the Salmon River, and its embarkation point of Riggins. The 1985 film Pale Rider was primarily filmed in the Boulder Mountains and the Sawtooth National Recreation Area in central Idaho, just north of Sun Valley.
+\Predicted Summary:
+is the 14th largest state in the Pacific Northwest region of the United States . Idaho is the 12th least populous state in the world, and the 7th least densely populated state . Idaho is the 14th largest state in the Pacific Northwest region of the United States .
+
+GT:
+Idaho ( (listen)) is a state in the Pacific Northwest region of the United States. Outdoor recreation is a common example ranging from numerous snowmobile and downhill and cross-country ski areas in winter to the evolution of Lewiston as a retirement community based on mild winters, dry, year-round climate and one of the lowest median wind velocities anywhere, combined with the rivers for a wide variety of activities. Sun Microsystems (now a part of Oracle Corporation) has two offices in Boise and a parts depot in Pocatello. In 2014, Idaho emerged as the second most small business friendly state, ranking behind Utah, based on a study drawing upon data from more than 12,000 small business owners. Central Idaho is home to one of North America's oldest ski resorts, Sun Valley, where the world's first chairlift was installed in 1936. Other noted outdoor sites include Hells Canyon, the Salmon River, and its embarkation point of Riggins. The Boise Open professional golf tournament has been played at Hillcrest Country Club since 1990 as part of the Web.com Tour. The 1985 film Pale Rider was primarily filmed in the Boulder Mountains and the Sawtooth National Recreation Area in central Idaho, just north of Sun Valley. River Phoenix and Keanu Reeves starred in the 1991 movie My Own Private Idaho, portions of which take place in Idaho. The 2004 cult film Napoleon Dynamite takes place in Preston, Idaho; the film's director, Jared Hess, attended Preston High School.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11244979919678715, 0.6086956521739131, 0.1898305084745763, 0.11864406779661019]
+[0.06048387096774194, 0.3333333333333333, 0.10238907849829351, 0.06399317406143344]
+[0.0963855421686747, 0.5217391304347826, 0.16271186440677968, 0.1016949152542373]
+
+
+SBERT sim. Score: 0.5487511157989502
