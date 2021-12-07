@@ -1,0 +1,21 @@
+Document:
+arkansas
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Arkansas is the 29th largest by area and the 33rd most populous US state. The northwestern corner of the state, including the Fayetteville–Springdale–Rogers Metropolitan Area and Fort Smith metropolitan area, is a population, education, and economic center. Annual precipitation throughout the state averages between about 40 and 60 inches (1,000 and 1,500 mm); somewhat wetter in the south and drier in the northern part of the state. In terms of race and ethnicity, the state was 80.1% white (74.2% non-Hispanic white), 15.6% black or African American, 0.9% American Indian and Alaska Native, 1.3% Asian, and 1.8% from two or more races. The state's agriculture outputs are poultry and eggs, soybeans, sorghum, cattle, cotton, rice, hogs, and milk. According to CNBC, Arkansas ranks as the 20th best state for business, with the 2nd-lowest cost of doing business, 5th-lowest cost of living, 11th best workforce, 20th-best economic climate, 28th-best educated workforce, 31st-best infrastructure and the 32nd-friendliest regulatory environment. Today only about three percent of the population are employed in the agricultural sector, it remains a major part of the state's economy, ranking 13th in the nation in the value of products sold. Arkansas is the nation's largest producer of rice, broilers, and turkeys, and ranks in the top three for cotton, pullets, and aquaculture (catfish). Forestry remains strong in the Arkansas Timberlands, and the state ranks fourth nationally and first in the South in softwood lumber production. As of 2012, Arkansas, as with many Southern states, has a high incidence of premature death, infant mortality, cardiovascular deaths, and occupational fatalities compared to the rest of the United States. Arkansas is usually ranked as one of the least healthy states due to high obesity, smoking, and sedentary lifestyle rates, but according to a Gallup poll, Arkansas made the most immediate progress in reducing its number of uninsured residents after the Affordable Care Act passed. Arkansas ranks as the 32nd smartest state on the Morgan Quitno Smartest State Award, 44th in percentage of residents with at least a high school diploma, and 48th in percentage of bachelor's degree attainment. The state also has the 13th largest state highway system in the nation.
+\Predicted Summary:
+, Arkansas, is a state in the south central United States, home to more than three million people . Arkansas () is a state in the south central United States, home to more than three million people as of 2018 . it is home to more than three million people as of 2018 .
+
+GT:
+It is also home to 11 private colleges and universities including Hendrix College, one of the nation's top 100 liberal arts colleges, according to US News & World Report. In 2010 Arkansas students earned an average score of 20.3 on the ACT exam, just below the national average of 21. These results were expected due to the large increase in the number of students taking the exam since the establishment of the Academic Challenge Scholarship. Top high schools receiving recognition from the US News & World Report are spread across the state, including Haas Hall Academy in Fayetteville, KIPP Delta Collegiate in Helena-West Helena, Bentonville, Rogers, Rogers Heritage, Valley Springs, Searcy, and McCrory. A total of 81 Arkansas high schools were ranked by the US News & World Report in 2012. Education Week has praised the state, ranking Arkansas in the top 10 of their Quality Counts Education Rankings every year since 2009 while scoring it in the top 5 during 2012 and 2013. Arkansas is home to many areas protected by the National Park System.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10795454545454546, 0.3877551020408163, 0.1688888888888889, 0.10555555555555556]
+[0.04, 0.14583333333333334, 0.06278026905829596, 0.03923766816143498]
+[0.07386363636363637, 0.2653061224489796, 0.11555555555555556, 0.07222222222222223]
+
+
+SBERT sim. Score: 0.5404521226882935

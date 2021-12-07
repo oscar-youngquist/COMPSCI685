@@ -1,0 +1,21 @@
+Document:
+kansas
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+By 2015, Kansas was one of the most productive agricultural states, producing high yields of wheat, corn, sorghum, and soybeans. Kansas, which has an area of 82,278 square miles (213,100 square kilometers) is the 15th-largest state by area and is the 34th most-populous of the 50 states with a population of 2,913,314. The far south-central and southeastern portions of the state, including the Wichita area, have a humid subtropical climate with hot and humid summers, milder winters, and more precipitation than elsewhere in Kansas. Thus, Kansas is the country's ninth or tenth sunniest state, depending on the source. Western Kansas is as sunny as parts of California and Arizona. To the north, Kansas City, with the second largest land area in the state, contains a number of diverse ethnic neighborhoods. Cities along this route (from south to north) include Wichita, El Dorado, Emporia, Ottawa, and Kansas City (and suburbs). Kansas also has the country's third largest state highway system after Texas and California. Stops in Kansas include Lawrence, Topeka, Newton, Hutchinson, Dodge City, and Garden City. Since the mid-20th century, Kansas has remained one of the most socially conservative states in the nation.
+\Predicted Summary:
+,, was a hotbed of violence and chaos in its early days as these forces collided . Kansas is the 15th-largest state by area and is the 34th most-populous of the 50 states . by 2015, Kansas was one of the most productive agricultural states by area .
+
+GT:
+According to the Köppen climate classification, Kansas's climate can be characterized in terms of three types: it has humid continental, semi-arid steppe, and humid subtropical. Chinook winds in the winter can warm western Kansas all the way into the 80 degrees Fahrenheit (27 degrees Celsius) range. Routes 83 and 81, as well as the southwestern portion of the state along and south of US 50, reach 90 °F (32 °C) or above on most days of June, July, and August. As of 2011, 35.0% of Kansas's population younger than one year of age belonged to minority groups (i.e., did not have two parents of non-Hispanic white ancestry). Located midway between Kansas City, Topeka, and Wichita in the heart of the Bluestem Region of the Flint Hills, the city of Emporia has several nationally registered historic places and is the home of Emporia State University, well known for its Teachers College. Kansas has been the setting of many award-winning and popular American films, as well as being the home of some of the oldest operating cinemas in the world.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11827956989247312, 0.4782608695652174, 0.18965517241379312, 0.1185344827586207]
+[0.021621621621621623, 0.08888888888888889, 0.034782608695652174, 0.02173913043478261]
+[0.08064516129032258, 0.32608695652173914, 0.12931034482758622, 0.08081896551724138]
+
+
+SBERT sim. Score: 0.3837452828884125

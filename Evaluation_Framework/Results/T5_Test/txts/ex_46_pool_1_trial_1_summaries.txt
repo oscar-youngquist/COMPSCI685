@@ -1,0 +1,21 @@
+Document:
+idaho
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+I-84 is the main highway linking the southeast and southwest portions of the state, along with I-86 and I-15. Major airports include the Boise International Airport which serves the southwest region of Idaho and the Spokane International Airport (in Spokane, Washington) which serves northern Idaho. Other airports with scheduled service are the Pullman-Moscow Regional Airport serving the Palouse; the Lewiston-Nez Perce County Airport, serving the Lewis-Clark Valley and north central and west central Idaho; The Magic Valley Regional Airport in Twin Falls; the Idaho Falls Regional Airport; and the Pocatello Regional Airport. Idaho is served by three transcontinental railroads. The Burlington Northern Santa Fe (BNSF) connects the Idaho Panhandle with Seattle, Portland, and Spokane to the west, and Minneapolis and Chicago to the east. The Union Pacific Railroad also crosses southern Idaho traveling between Portland, Oregon, Green River, Wyoming, and Ogden, Utah and serves Boise, Nampa, Twin Falls, and Pocatello. A series of dams and locks on the Snake River and Columbia River facilitate barge travel from Lewiston to Portland, where goods are loaded on ocean-going vessels.
+\Predicted Summary:
+is the 14th largest, the 12th least populous and the 7th least densely populated of the 50 US states . Idaho is the 14th largest, the 12th least populous and the 7th least densely populated of the 50 states . Idaho is the most densely populated of the 50 states, and is the 14th largest, the 12th least populous and the 7th most densely populated .
+
+GT:
+US-95 links the two ends of the state, but like many other highways in Idaho, it is badly in need of repair and upgrade. Major airports include the Boise International Airport which serves the southwest region of Idaho and the Spokane International Airport (in Spokane, Washington) which serves northern Idaho. Other airports with scheduled service are the Pullman-Moscow Regional Airport serving the Palouse; the Lewiston-Nez Perce County Airport, serving the Lewis-Clark Valley and north central and west central Idaho; The Magic Valley Regional Airport in Twin Falls; the Idaho Falls Regional Airport; and the Pocatello Regional Airport. Idaho is served by three transcontinental railroads. The Burlington Northern Santa Fe (BNSF) connects the Idaho Panhandle with Seattle, Portland, and Spokane to the west, and Minneapolis and Chicago to the east. Montana Rail Link also operates between Billings, Montana and Sandpoint, Idaho The Union Pacific Railroad also crosses southern Idaho traveling between Portland, Oregon, Green River, Wyoming, and Ogden, Utah and serves Boise, Nampa, Twin Falls, and Pocatello. The Port of Lewiston is the farthest inland Pacific port on the west coast.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14673913043478262, 0.42857142857142855, 0.21862348178137653, 0.13663967611336034]
+[0.0273224043715847, 0.08064516129032258, 0.04081632653061224, 0.02551020408163265]
+[0.11413043478260869, 0.3333333333333333, 0.1700404858299595, 0.10627530364372469]
+
+
+SBERT sim. Score: 0.37140214443206787

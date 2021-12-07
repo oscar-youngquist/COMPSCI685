@@ -1,0 +1,21 @@
+Document:
+missouri
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Missouri's culture blends elements from the Midwestern and Southern United States. Outside of the state's major cities, popular tourist destinations include the Lake of the Ozarks, Table Rock Lake and Branson. Well-known Missourians include Chuck Berry, Sheryl Crow, Walt Disney, Edwin Hubble, Nelly, Brad Pitt, Harry S. Truman, and Mark Twain. Most likely, though, the name Missouri comes from Chiwere, a Siouan language spoken by people who resided in the modern-day states of Wisconsin, Iowa, South Dakota, Missouri & Nebraska. Missouri is home to diverse flora and fauna, including several endemic species. In addition to a network of state parks, Missouri is home to Gateway Arch National Park in St. Louis and the Ozark National Scenic Riverways. Jefferson City is the capital city of Missouri, while the state's five largest cities are Kansas City, St. Louis, Springfield, Columbia, and Independence. Some of the other major cities comprising the Kansas City metro area in Missouri include Independence, Lee's Summit, Blue Springs, Liberty, Raytown, Gladstone, and Grandview. These include guitarist and rock pioneer Chuck Berry, singer and actress Josephine Baker, "Queen of Rock" Tina Turner, pop singer-songwriter Sheryl Crow, Michael McDonald of the Doobie Brothers, and rappers Nelly, Chingy and Akon, all of whom are either current or former residents of St. Louis. Country singers from Missouri include Perryville native Chris Janson, New Franklin native Sara Evans, Cantwell native Ferlin Husky, West Plains native Porter Wagoner, Tyler Farr of Garden City, and Mora native Leroy Van Dyke, along with bluegrass musician Rhonda Vincent, a native of Greentop. The Kansas City Symphony and the St. Louis Symphony Orchestra are the state's major orchestras.
+\Predicted Summary:
+, the French established Louisiana in 1735 and St. Louis in 1764. The French established Louisiana, a part of New France, founding Ste. Genevieve in 1735 and St. Louis in 1764. Missouri is a state in the Midwestern United States. With more than six million residents, it is the 18th-most populous state of the country.
+
+GT:
+Missouri's culture blends elements from the Midwestern and Southern United States. The musical styles of ragtime, Kansas City jazz and St. Louis blues developed in Missouri. Many well-known musicians were born or have lived in Missouri. Country singers from Missouri include Perryville native Chris Janson, New Franklin native Sara Evans, Cantwell native Ferlin Husky, West Plains native Porter Wagoner, Tyler Farr of Garden City, and Mora native Leroy Van Dyke, along with bluegrass musician Rhonda Vincent, a native of Greentop. The Kansas City Symphony and the St. Louis Symphony Orchestra are the state's major orchestras. Missouri is the native state of Mark Twain. His novels The Adventures of Tom Sawyer and The Adventures of Huckleberry Finn are set in his boyhood hometown of Hannibal. Kansas City-born writer William Least Heat-Moon resides in Rocheport. He is best known for Blue Highways, a chronicle of his travels to small towns across America, which was on The New York Times Bestseller list for 42 weeks in 1982–1983. Filmmaker, animator, and businessman Walt Disney spent part of his childhood in the Linn County town of Marceline before settling in Kansas City. Disney began his artistic career in Kansas City, where he founded the Laugh-O-Gram Studio. The award-winning 2010 film Winter's Bone was shot in the Ozarks of Missouri. Up in the Air starring George Clooney was filmed in St. Louis. Gone Girl, a 2014 film starring Ben Affleck, Rosamund Pike, Neil Patrick Harris, and Tyler Perry, was filmed in Cape Girardeau.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13229571984435798, 0.6181818181818182, 0.21794871794871798, 0.13621794871794873]
+[0.0390625, 0.18518518518518517, 0.06451612903225806, 0.040322580645161296]
+[0.07392996108949416, 0.34545454545454546, 0.1217948717948718, 0.07612179487179488]
+
+
+SBERT sim. Score: 0.35976719856262207

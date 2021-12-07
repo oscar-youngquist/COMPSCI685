@@ -1,0 +1,21 @@
+Document:
+arizona
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It is the 6th largest and the 14th most populous of the 50 states. Northern Arizona features forests of pine, Douglas fir, and spruce trees; the Colorado Plateau; mountain ranges (such as the San Francisco Mountains); as well as large, deep canyons, with much more moderate summer temperatures and significant winter snowfalls. In addition to the internationally known Grand Canyon National Park, which is one of the world's seven natural wonders, there are several national forests, national parks, and national monuments. About one-quarter of the state is made up of Indian reservations that serve as the home of 27 federally recognized Native American tribes, including the Navajo Nation, the largest in the state and the United States, with more than 300,000 citizens. The composition of the state's economy is moderately diverse; although health care, transportation and the government remain the largest sectors. The state government is Arizona's largest employer, while Banner Health is the state's largest private employer, with more than 39,000 employees (2016). Maricopa County is home to almost 60 percent of the state's population, and most of the state's elected officials live there.
+\Predicted Summary:
+,,, meaning "small spring" onak, meaning "small spring" al onak, meaning "small spring" to the European settlers . Arizona shares the Four Corners region with Utah, Colorado, and New Mexico . Arizona shares the Four Corners region with Utah, Colorado, and the Mountain states .
+
+GT:
+The population of metropolitan Phoenix increased by 45.3% from 1991 through 2001, helping to make Arizona the second fastest-growing state in the US in the 1990s (the fastest was Nevada). Hispanics or Latinos of any race made up 29.6% of the state's population. The state government is Arizona's largest employer, while Banner Health is the state's largest private employer, with more than 39,000 employees (2016). The state of Arizona does not levy a state tax on food for home consumption or on drugs prescribed by a licensed physician or dentist. Phoenix Art Museum, on the historic Central Avenue Corridor in Phoenix, is the Southwest's largest collection of visual art from across the world. The museum displays international exhibitions alongside the museum's collection of more than 18,000 works of American, Asian, European, Latin American, Western American, modern and contemporary art, and fashion design.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07894736842105263, 0.2926829268292683, 0.12435233160621761, 0.07772020725388602]
+[0.0, 0.0, 0.0, 0.0]
+[0.05263157894736842, 0.1951219512195122, 0.08290155440414507, 0.05181347150259067]
+
+
+SBERT sim. Score: 0.2294100522994995

@@ -1,0 +1,21 @@
+Document:
+mississippi
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Mississippi is the 32nd largest and 34th-most populous of the 50 US states. With large areas of agriculture and rural towns, Mississippi frequently ranks low among states in measures of health, education, and development, and high in measures of poverty. The rest of the state, primarily north of Interstate 20 not including the prairie regions, consists of mixed pine-hardwood forest, common species being loblolly pine, oaks (e.g., water oak), hickories, sweetgum, and elm. The state capital, Jackson, ranks tenth in the nation in concentration of African-American same-sex couples. The state ranks fifth in the nation in the percentage of Hispanic same-sex couples among all Hispanic households and ninth in the highest concentration of same-sex couples who are seniors. The state is ranked 50th or last place among all the states for health care, according to the Commonwealth Fund, a nonprofit foundation working to advance performance of the health care system. Mississippi had the highest rate of obesity of any US state from 2005 to 2008, and also ranks first in the nation for high blood pressure, diabetes, and adult inactivity.
+\Predicted Summary:
+, the Mississippi River, which flows along and defines its western boundary . Mississippi is bordered to the north by Tennessee; to the east by Alabama; to the south by the Gulf of Mexico; to the southwest by Louisiana; and to the northwest by Arkansas . Mississippi is the 32nd largest and 34th-most populous of the 50 US states .
+
+GT:
+Public opinion polls have consistently ranked Mississippi as the most religious state in the United States, with 59% of Mississippians considering themselves "very religious". Mississippi has the largest percentage of African-American same-sex couples among total households. Per capita personal income in 2006 was $26,908, the lowest per capita personal income of any state, but the state also has the nation's lowest living costs. The legislature's 1990 decision to legalize casino gambling along the Mississippi River and the Gulf Coast has led to increased revenues and economic gains for the state. Mississippi collects personal income tax in three tax brackets, ranging from 3% to 5%. Mississippi is the only American state where people in cars may legally consume beer.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.21138211382113822, 0.45614035087719296, 0.28888888888888886, 0.18055555555555552]
+[0.040983606557377046, 0.08928571428571429, 0.05617977528089887, 0.03511235955056179]
+[0.12195121951219512, 0.2631578947368421, 0.16666666666666666, 0.10416666666666666]
+
+
+SBERT sim. Score: 0.47628310322761536

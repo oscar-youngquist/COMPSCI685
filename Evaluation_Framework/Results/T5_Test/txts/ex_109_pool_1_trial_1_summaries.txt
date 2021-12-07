@@ -1,0 +1,21 @@
+Document:
+idaho
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+The state's north, the relatively isolated Idaho Panhandle, is closely linked with Eastern Washington with which it shares the Pacific Time Zone—the rest of the state uses the Mountain Time Zone. The state's numerous river basins allow hydroelectric power plants to provide 556,000 MWh, which amounts to about three-fourths of Idaho's electricity generated in the state. Idaho is among the few states in the nation without a major freeway linking its two largest metropolitan areas, Boise in the south and Coeur d'Alene in the north. I-84 is the main highway linking the southeast and southwest portions of the state, along with I-86 and I-15. Major airports include the Boise International Airport which serves the southwest region of Idaho and the Spokane International Airport (in Spokane, Washington) which serves northern Idaho. Other airports with scheduled service are the Pullman-Moscow Regional Airport serving the Palouse; the Lewiston-Nez Perce County Airport, serving the Lewis-Clark Valley and north central and west central Idaho; The Magic Valley Regional Airport in Twin Falls; the Idaho Falls Regional Airport; and the Pocatello Regional Airport. Idaho is served by three transcontinental railroads. Canadian Pacific Railway uses Union Pacific Railroad tracks in North Idaho carrying products from Alberta to Spokane and Portland, Oregon. The Union Pacific Railroad also crosses southern Idaho traveling between Portland, Oregon, Green River, Wyoming, and Ogden, Utah and serves Boise, Nampa, Twin Falls, and Pocatello. A series of dams and locks on the Snake River and Columbia River facilitate barge travel from Lewiston to Portland, where goods are loaded on ocean-going vessels.
+\Predicted Summary:
+is the 14th largest, the 12th least populous and the 7th least densely populated of the 50 US states . Idaho is the 14th largest, the 12th least populous and the 7th least densely populated of the 50 states . Idaho is the most densely populated of the 50 states, and is the 14th largest, the 12th least populous and the 7th most densely populated .
+
+GT:
+US-95 links the two ends of the state, but like many other highways in Idaho, it is badly in need of repair and upgrade. I-84 is the main highway linking the southeast and southwest portions of the state, along with I-86 and I-15. Major airports include the Boise International Airport which serves the southwest region of Idaho and the Spokane International Airport (in Spokane, Washington) which serves northern Idaho. Other airports with scheduled service are the Pullman-Moscow Regional Airport serving the Palouse; the Lewiston-Nez Perce County Airport, serving the Lewis-Clark Valley and north central and west central Idaho; The Magic Valley Regional Airport in Twin Falls; the Idaho Falls Regional Airport; and the Pocatello Regional Airport. Idaho is served by three transcontinental railroads. The Burlington Northern Santa Fe (BNSF) connects the Idaho Panhandle with Seattle, Portland, and Spokane to the west, and Minneapolis and Chicago to the east. The BNSF travels through Kootenai, Bonner, and Boundary counties. The Union Pacific Railroad crosses North Idaho entering from Canada through Boundary and Bonner, and proceeding to Spokane. Canadian Pacific Railway uses Union Pacific Railroad tracks in North Idaho carrying products from Alberta to Spokane and Portland, Oregon. Amtrak's Empire Builder crosses northern Idaho, with its only stop being in Sandpoint. Montana Rail Link also operates between Billings, Montana and Sandpoint, Idaho The Union Pacific Railroad also crosses southern Idaho traveling between Portland, Oregon, Green River, Wyoming, and Ogden, Utah and serves Boise, Nampa, Twin Falls, and Pocatello.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11067193675889328, 0.4444444444444444, 0.1772151898734177, 0.11075949367088607]
+[0.023809523809523808, 0.0967741935483871, 0.03821656050955414, 0.023885350318471336]
+[0.08695652173913043, 0.3492063492063492, 0.13924050632911392, 0.0870253164556962]
+
+
+SBERT sim. Score: 0.41781628131866455

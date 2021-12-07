@@ -1,0 +1,21 @@
+Document:
+georgia
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+In terms of race and ethnicity, the state was 59.7% White (55.9% Non-Hispanic White alone), 30.5% Black or African American, 0.3% American Indian or Alaska Native, 3.2% Asian, 0.1% Native Hawaiian or other Pacific Islander, 4.0% from some other race, and 2.1% from two or more races. Problems of malapportionment in the state legislature, where rural districts had outsize power in relation to urban districts, such as Atlanta's, were corrected after the US Supreme Court ruling in Wesberry v. Sanders (1964). The state's socially conservative bent results in wide support for measures such as restrictions on abortion. In 2004, a state constitutional amendment banning same-sex marriages was approved by 76% of voters. This ranks Georgia 25th among the states for total state and local tax burden. The state's other top markets are Savannah (95th largest), Augusta (115th largest), and Columbus (127th largest). The state has 151 general hospitals, more than 15,000 doctors and almost 6,000 dentists. The state is ranked forty-first in the percentage of residents who engage in regular exercise.
+\Predicted Summary:
+,,, the Mississippi Territory, to French Louisiana at the Mississippi River. Georgia is the 9th most populous metropolitan area in the United States . Georgia is the 9th most populous metropolitan area in the United States and contains about 57% of its entire population . Georgia is the 9th most populous metropolitan area in the United States and contains about 57% of the entire population .
+
+GT:
+The majority of the state is primarily a humid subtropical climate. Hot and humid summers are typical, except at the highest elevations. Georgia had the second-fastest-growing Asian population growth in the US from 1990 to 2000, more than doubling in size during the ten-year period. Georgia is the state with the third-lowest percentage of older people (65 or older), at 12.8 percent (as of 2015). For the five years through November 2017, Georgia has been ranked the top state (number 1) in the nation to do business, and has been recognized as number 1 for business and labor climate in the nation, number 1 in business climate in the nation, number 1 in the nation in workforce training and as having a "Best in Class" state economic development agency. In 2016, Georgia had median annual income per person of between $50,000 and $59,999, which is in inflation-adjusted dollars for 2016. Georgia was ranked the number 2 state for infrastructure and global access by Area Development magazine. Georgia is ranked the #3 state in the nation for rail accessibility. Sports in Georgia include professional teams in nearly all major sports, Olympic Games contenders and medalists, collegiate teams in major and small-school conferences and associations, and active amateur teams and individual sports. Georgia has 85 public colleges, universities, and technical colleges in addition to more than 45 private institutes of higher learning. Georgia's workforce of more than 6.3 million is constantly refreshed by the growing number of people who move there along with the 90,000 graduates from the universities, colleges and technical colleges across the state, including the highly ranked University of Georgia, Georgia Institute of Technology, Georgia State University and Emory University.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09897610921501707, 0.46774193548387094, 0.16338028169014085, 0.10211267605633804]
+[0.0273972602739726, 0.13114754098360656, 0.0453257790368272, 0.028328611898016998]
+[0.07849829351535836, 0.3709677419354839, 0.1295774647887324, 0.08098591549295774]
+
+
+SBERT sim. Score: 0.5725355744361877

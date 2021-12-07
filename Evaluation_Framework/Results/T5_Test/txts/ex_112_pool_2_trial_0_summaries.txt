@@ -1,0 +1,21 @@
+Document:
+california
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+California groups also were diverse in their political organization with bands, tribes, villages, and on the resource-rich coasts, large chiefdoms, such as the Chumash, Pomo and Salinan. As a result of these efforts, California is regarded as a world center of the entertainment and music industries, of technology, engineering, and the aerospace industry, and as the United States center of agricultural production. The range embraces Yosemite Valley, famous for its glacially carved domes, and Sequoia National Park, home to the giant sequoia trees, the largest living organisms on Earth, and the deep freshwater lake, Lake Tahoe, the largest lake in the state by volume. Birds such as the kingfisher, chickadee, towhee, and hummingbird thrive here as well. The fauna found throughout several zones are the mule deer, coyote, mountain lion, northern flicker, and several species of hawk and sparrow. The culture of California is a Western culture and most clearly has its modern roots in the culture of the United States, but also, historically, many Hispanic Californio and Mexican influences. As a border and coastal state, Californian culture has been greatly influenced by several large immigrant populations, especially those from Latin America and Asia. California is also the birthplace of several international music genres, including the Bakersfield sound, Bay Area thrash metal, g-funk, nu metal, stoner rock, surf music, West Coast hip hop, and West Coast jazz.
+\Predicted Summary:
+, and the San Francisco Bay Area are the nation's second- and fifth-most-populous urban regions . California is considered the origin of the hippie counterculture, beach and car culture, the Internet, the Internet, and the internet . California is considered the origin of the hippie counterculture, beach and car culture, the Internet, the Internet, and the internet .
+
+GT:
+It is considered the origin of the hippie counterculture, beach and car culture, the Internet, and the personal computer, among others. In the 1960s, popular music groups such as The Beach Boys promoted the image of Californians as laid-back, tanned beach-goers. The San Francisco Bay Area is home to several prominent internet media and social media companies, including three of the "Big Five" technology companies (Apple, Facebook, and Google) as well as other services such as Netflix, Pandora Radio, Twitter, Yahoo!, and YouTube. One of the oldest radio stations in the United States still in existence, KCBS (AM) in the Bay Area, was founded in 1909. Universal Music Group, one of the "Big Four" record labels, is based in Santa Monica. California is also the birthplace of several international music genres, including the Bakersfield sound, Bay Area thrash metal, g-funk, nu metal, stoner rock, surf music, West Coast hip hop, and West Coast jazz. A Pew Research Center survey revealed that California is somewhat less religious than the rest of the states: 62 percent of Californians say they are "absolutely certain" of their belief in God, while in the nation 71 percent say so. The survey also revealed 48 percent of Californians say religion is "very important", compared to 56 percent nationally.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.18604651162790697, 0.7017543859649122, 0.2941176470588235, 0.18382352941176472]
+[0.10747663551401869, 0.4107142857142857, 0.17037037037037037, 0.10648148148148148]
+[0.12558139534883722, 0.47368421052631576, 0.1985294117647059, 0.12408088235294117]
+
+
+SBERT sim. Score: 0.6728979349136353

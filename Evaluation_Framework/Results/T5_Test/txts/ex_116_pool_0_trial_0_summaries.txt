@@ -1,0 +1,21 @@
+Document:
+massachusetts
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The Government of Massachusetts is divided into three branches: executive, legislative, and judicial. The executive branch also includes the Executive Council, which is made up of eight elected councilors and the Lieutenant Governor seat, currently occupied by Karyn Polito, a Republican from Shrewsbury). The Massachusetts Supreme Judicial Court (a chief justice and six associates) are appointed by the governor and confirmed by the executive council, as are all other judges in the state. Despite the state's Democratic-leaning tendency, Massachusetts has generally elected Republicans as Governor: only one Democrat (Deval Patrick) has served as governor since 1991, and among gubernatorial election results from 2002 to 2018, Republican nominees garnered 48.4% of the vote compared to 45.7% for Democratic nominees. In this structure, incorporated towns—as opposed to townships or counties—hold many of the responsibilities and powers of local government. The voters of these now-defunct counties elect only Sheriffs and Registers of Deeds, who are part of the state government.
+\Predicted Summary:
+, the,,, and. Supreme J. Massachusetts, is the most populous state in the Northeastern United States. Massachusetts is the capital of Massachusetts. Massachusetts is the most populous state in the Northeastern United States. Massachusetts borders on the Atlantic Ocean to the east, the states of Connecticut and Rhode Island to the south, and New Hampshire and Vermont to the west. Massachusetts is the capital of Massachusetts.
+
+GT:
+The Government of Massachusetts is divided into three branches: executive, legislative, and judicial. The governor of Massachusetts heads the executive branch; duties of the governor include signing or vetoing legislation, filling judicial and agency appointments, granting pardons, preparing an annual budget, and commanding the Massachusetts National Guard. The House consists of 160 members while the Senatorte has 40 members. The Massachusetts Supreme Judicial Court (a chief justice and six associates) are appointed by the governor and confirmed by the executive council, as are all other judges in the state. The Congressional delegation from Massachusetts is entirely Democratic. Federal court cases are heard in the United States District Court for the District of Massachusetts, and appeals are heard by the United States Court of Appeals for the First Circuit. Massachusetts has gradually shifted from a Republican-leaning state to one largely dominated by Democrats; the 1952 victory of John F. Kennedy over incumbent Senatortor Henry Cabot Lodge, Jr. is seen as a watershed moment in this transformation.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.23493975903614459, 0.6, 0.33766233766233766, 0.21103896103896103]
+[0.05454545454545454, 0.140625, 0.07860262008733625, 0.04912663755458515]
+[0.13855421686746988, 0.35384615384615387, 0.19913419913419914, 0.12445887445887445]
+
+
+SBERT sim. Score: 0.5088699460029602

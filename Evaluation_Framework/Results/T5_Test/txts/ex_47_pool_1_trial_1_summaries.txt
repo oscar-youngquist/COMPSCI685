@@ -1,0 +1,21 @@
+Document:
+kansas
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+The far south-central and southeastern portions of the state, including the Wichita area, have a humid subtropical climate with hot and humid summers, milder winters, and more precipitation than elsewhere in Kansas. Its attractions include the Kansas Speedway, Sporting Kansas City, Kansas City T-Bones, Schlitterbahn, and The Legends at Village West retail and entertainment center. Nearby, Kansas's first settlement Bonner Springs is home to several national and regional attractions including the Providence Medical Center Amphitheather, the National Agricultural Center and Hall of Fame, and the annual Kansas City Renaissance Festival. It is also the home of Kansas Cosmosphere and Space Center, Prairie Dunes Country Club and the Kansas State Fair. Cities along this route (from south to north) include Wichita, El Dorado, Emporia, Ottawa, and Kansas City (and suburbs). Stops in Kansas include Lawrence, Topeka, Newton, Hutchinson, Dodge City, and Garden City. Kansas has been the setting of many award-winning and popular American films, as well as being the home of some of the oldest operating cinemas in the world. Historically, Kansans have supported the major league sports teams of Kansas City, Missouri, including the Kansas City Royals (MLB), and the Kansas City Chiefs (NFL), in part because the home stadiums for these teams are a few miles from the Kansas border.
+\Predicted Summary:
+,, was a hotbed of violence and chaos in its early days as these forces collided . Kansas is the 15th-largest state by area and is the 34th most-populous of the 50 states . by 2015, Kansas was one of the most productive agricultural states by area .
+
+GT:
+Another song, the official state march adopted by the Kansas Legislature in 1935 is called The Kansas March, which features the lyrics, "Blue sky above us, silken strands of heat, Rim of the far horizon, where earth and heaven meet, Kansas as a temple, stands in velvet sod, Shrine which the sunshine, sanctifies to God." The state's most famous appearance in literature was as the home of Dorothy Gale, the main character in the novel The Wonderful Wizard of Oz (1900). The Plaza Cinema in Ottawa, Kansas, located in the northeastern portion of the state, was built on May 22, 1907, and it is listed by the Guinness Book of World Records as the oldest operating cinema in the world. In 1926, The Jayhawk Theatre, an art-deco movie house in Topeka opened its doors for the first time to movie going audiences, and today, in addition to screenings of independent films, the theatre acts as a venue for plays and concerts. The Fox Theater in Hutchinson was built in 1930, and was placed on the National Register of Historic Places in 1989. Sporting Kansas City, who have played their home games at Village West in Kansas City, since 2008, are the first top-tier professional sports league and first Major League Soccer team to be located within Kansas. Historically, Kansans have supported the major league sports teams of Kansas City, Missouri, including the Kansas City Royals (MLB), and the Kansas City Chiefs (NFL), in part because the home stadiums for these teams are a few miles from the Kansas border.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09923664122137404, 0.5652173913043478, 0.16883116883116883, 0.10551948051948053]
+[0.007662835249042145, 0.044444444444444446, 0.013071895424836602, 0.008169934640522875]
+[0.05725190839694656, 0.32608695652173914, 0.09740259740259741, 0.060876623376623376]
+
+
+SBERT sim. Score: 0.32863521575927734

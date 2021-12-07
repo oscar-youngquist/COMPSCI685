@@ -1,0 +1,21 @@
+Document:
+rhode_island
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Rhode Island was the Democrats' leading state in 1988 and 2000, and second-best in 1968, 1996, and 2004. Additionally, the state also has the highest percentage of Liberian immigrants, with more than 15,000 residing in the state. The textile industry still constitutes a part of the Rhode Island economy but does not have the same power that it once had. Today, much of the economy of Rhode Island is based in services, particularly healthcare and education, and still manufacturing to some extent. Rhode Island's 2000 total gross state production was $46.18 billion (adjusted to inflation), placing it 45th in the nation. Second is tourism, supporting 39,000 jobs, with tourism-related sales at $4.56 billion (adjusted to inflation) in the year 2000. The third-largest industry is manufacturing. Rhode Island's agricultural outputs are nursery stock, vegetables, dairy products, and eggs.
+\Predicted Summary:
+, Rhode Island, was the first of the Thirteen Colonies to renounce its allegiance to the British Crown . Rhode Island is the smallest US state by area and the seventh least populous (1,059,361 as of 2019) but is also the second most densely populated behind New Jersey . the state's official name is "The Ocean State", a reference to the large bays and inlets that amount to about 14 percent of its total area .
+
+GT:
+The Rhode Island economy had a colonial base in fishing. Other important industries in Rhode Island's past included toolmaking, costume jewelry, and silverware. Today, much of the economy of Rhode Island is based in services, particularly healthcare and education, and still manufacturing to some extent. The state's nautical history continues in the 21st century in the form of nuclear submarine construction. The headquarters of Citizens Financial Group is located in Providence, the 14th largest bank in the United States. Health services are Rhode Island's largest industry. Second is tourism, supporting 39,000 jobs, with tourism-related sales at $4.56 billion (adjusted to inflation) in the year 2000. The third-largest industry is manufacturing. Rhode Island's agricultural outputs are nursery stock, vegetables, dairy products, and eggs.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2230769230769231, 0.38666666666666666, 0.28292682926829266, 0.17682926829268292]
+[0.046511627906976744, 0.08108108108108109, 0.059113300492610835, 0.03694581280788178]
+[0.15384615384615385, 0.26666666666666666, 0.1951219512195122, 0.12195121951219513]
+
+
+SBERT sim. Score: 0.5271382927894592

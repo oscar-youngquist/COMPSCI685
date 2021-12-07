@@ -1,0 +1,21 @@
+Document:
+mississippi
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Mississippi is the 32nd largest and 34th-most populous of the 50 US states. Greater Jackson is the state's most populous metropolitan area, with an estimated population of 580,166 in 2018. By 1860, Mississippi was the nation's top cotton-producing state and enslaved persons accounted for 55% of the state population. With large areas of agriculture and rural towns, Mississippi frequently ranks low among states in measures of health, education, and development, and high in measures of poverty. The rest of the state, primarily north of Interstate 20 not including the prairie regions, consists of mixed pine-hardwood forest, common species being loblolly pine, oaks (e.g., water oak), hickories, sweetgum, and elm. The state capital, Jackson, ranks tenth in the nation in concentration of African-American same-sex couples. The state ranks fifth in the nation in the percentage of Hispanic same-sex couples among all Hispanic households and ninth in the highest concentration of same-sex couples who are seniors. In 2012, Mississippi had the sixth largest gambling revenue of any state, with $2.25 billion.
+\Predicted Summary:
+, the Mississippi River, which flows along and defines its western boundary . Mississippi is bordered to the north by Tennessee; to the east by Alabama; to the south by the Gulf of Mexico; to the southwest by Louisiana; and to the northwest by Arkansas . Mississippi is the 32nd largest and 34th-most populous of the 50 US states .
+
+GT:
+The Bureau of Economic Analysis estimates that Mississippi's total state product in 2010 was $98 billion. Mississippi's rank as one of the poorest states is related to its dependence on cotton agriculture before and after the Civil War, late development of its frontier bottomlands in the Mississippi Delta, repeated natural disasters of flooding in the late 19th and early 20th century that required massive capital investment in levees, and ditching and draining the bottomlands, and slow development of railroads to link bottomland towns and river cities. In addition, when Democrats regained control of the state legislature, they passed the 1890 constitution that discouraged corporate industrial development in favor of rural agriculture, a legacy that would slow the state's progress for years. The legislature's 1990 decision to legalize casino gambling along the Mississippi River and the Gulf Coast has led to increased revenues and economic gains for the state. Gambling towns in Mississippi have attracted increased tourism: they include the Gulf Coast resort towns of Bay St. Louis, Gulfport and Biloxi, and the Mississippi River towns of Tunica (the third largest gaming area in the United States), Greenville, Vicksburg and Natchez. It has some major automotive factories, such as the Toyota Mississippi Plant in Blue Springs and a Nissan Automotive plant in Canton. With Mississippi's fiscal conservatism, in which Medicaid, welfare, food stamps, and other social programs are often cut, eligibility requirements are tightened, and stricter employment criteria are imposed, Mississippi ranks as having the second-highest ratio of spending to tax receipts of any state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11538461538461539, 0.5263157894736842, 0.1892744479495268, 0.11829652996845427]
+[0.015444015444015444, 0.07142857142857142, 0.025396825396825397, 0.015873015873015876]
+[0.08461538461538462, 0.38596491228070173, 0.138801261829653, 0.08675078864353312]
+
+
+SBERT sim. Score: 0.5590420961380005

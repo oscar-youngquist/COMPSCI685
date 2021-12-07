@@ -1,0 +1,21 @@
+Document:
+kansas
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The state is divided into 105 counties with 628 cities, with its largest county by area being Butler County. Kansas has 627 incorporated cities. To the north, Kansas City, with the second largest land area in the state, contains a number of diverse ethnic neighborhoods. Various cities and counties in Kansas have an additional local sales tax. This is because of the high number of counties and county seats (105) and their intertwining. Dotted across the state are smaller regional and municipal airports, including the Lawrence Municipal Airport, which houses many aircraft for the city of Lawrence and the University of Kansas, Miami County Airport, Wamego Airport, Osage City Municipal Airport, which is the headquarters of Skydive Kansas, Garden City Regional Airport, Manhattan Regional Airport, and Dodge City Regional Airport. Executive branch: The executive branch consists of one officer and five elected officers. The governor and lieutenant governor are elected on the same ticket. The attorney general, secretary of state, state treasurer, and state insurance commissioner are each elected separately. Legislative branch: The bicameral Kansas Legislature consists of the Kansas House of Representatives, with 125 members serving two-year terms, and the Kansas Senatorte, with 40 members serving four-year terms. A vacancy is filled by the Governor picking one of three nominees selected by the nine-member Kansas Supreme Court Nominating Commission. The board consists of five Kansas lawyers elected by other Kansas lawyers and four members selected by the governor. Since Roosevelt carried Kansas in 1932 and 1936, only one Democrat has won Kansas's electoral votes, Lyndon B. Johnson in 1964. The state's current delegation to the Congress of the United States includes Republican Senatortors Pat Roberts of Dodge City and Jerry Moran of Manhattan; and Republican Representatives Roger Marshall of Great Bend (District 1), Steve Watkins (District 2), Ron Estes of Wichita (District 4), and Democratic Representative Sharice Davids (District 3). The only two counties to support Democrat John Kerry in that election were Wyandotte, which contains Kansas City, and Douglas, home to the University of Kansas, located in Lawrence. Education in Kansas is governed at the primary and secondary school level by the Kansas State Board of Education. The state's public colleges and universities are supervised by the Kansas Board of Regents.
+\Predicted Summary:
+,, was a hotbed of violence and chaos in its early days as these forces collided . Kansas is the 15th-largest state by area and is the 34th most-populous of the 50 states . by 2015, Kansas was one of the most productive agricultural states by area .
+
+GT:
+Executive branch: The executive branch consists of one officer and five elected officers. The governor and lieutenant governor are elected on the same ticket. The attorney general, secretary of state, state treasurer, and state insurance commissioner are each elected separately. Legislative branch: The bicameral Kansas Legislature consists of the Kansas House of Representatives, with 125 members serving two-year terms, and the Kansas Senatorte, with 40 members serving four-year terms. Judicial branch: The judicial branch of the state government is headed by the Kansas Supreme Court. The court has seven judges. A vacancy is filled by the Governor picking one of three nominees selected by the nine-member Kansas Supreme Court Nominating Commission. The board consists of five Kansas lawyers elected by other Kansas lawyers and four members selected by the governor.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15789473684210525, 0.45652173913043476, 0.23463687150837986, 0.14664804469273743]
+[0.022727272727272728, 0.06666666666666667, 0.03389830508474576, 0.021186440677966104]
+[0.11278195488721804, 0.32608695652173914, 0.16759776536312848, 0.1047486033519553]
+
+
+SBERT sim. Score: 0.2973882853984833

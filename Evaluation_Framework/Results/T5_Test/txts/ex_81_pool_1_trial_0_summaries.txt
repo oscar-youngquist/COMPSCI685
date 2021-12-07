@@ -1,0 +1,21 @@
+Document:
+kentucky
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+The other three states officially called "commonwealths" are Massachusetts, Pennsylvania, and Virginia. In the state's most urban counties of Jefferson, Oldham, Fayette, Boone, Kenton, and Campbell, German is the largest reported ancestry. The metropolitan areas of Louisville, Lexington, and Northern Kentucky have a combined population of 2,402,958 as of 2018, which is 54% of the state's total population on only about 19% of the state's land. This area is often referred to as the Golden triangle as it contains a majority of the state's wealth, population, population growth, and economic growth, it is also where most of the state's largest cities by population are located. The county and surrounding area is the most populated region in the state that is not part of a Micropolitan Statistical Area or a Metropolitan Statistical Area containing nearly 200,000 people in five counties: Floyd County, Martin County, Letcher County, and neighboring Mingo County, West Virginia. The state is known for bourbon and whiskey distilling, tobacco, horse racing, and college basketball. Only Maryland, Delaware and West Virginia have higher German ancestry percentages than Kentucky among Census-defined Southern states, although Kentucky's percentage is closer to Arkansas and Virginia's than the previously named state's percentages.
+\Predicted Summary:
+, Kentucky is the 37th most extensive and the 26th most populous of the 50 United States . Kentucky is the 37th most extensive and the 26th most populous of the 50 United States . Kentucky is home to the world's longest cave system: Mammoth Cave National Park .
+
+GT:
+The state is also known for horse racing, bourbon, moonshine, coal, "My Old Kentucky Home" historic state park, automobile manufacturing, tobacco, bluegrass music, college basketball, Louisville Slugger baseball bats, Kentucky Fried Chicken, and the Kentucky colonel. Early in its history, Kentucky gained recognition for its excellent farming conditions. Kentucky has also been a long-standing major center of the tobacco industry – both as a center of business and tobacco farming. Kentucky produces 95% of the world's supply of bourbon whiskey, and the number of barrels of bourbon being aged in Kentucky (more than 5.7 million) exceeds the state's population. As of October 2019, the state's unemployment rate is 4.3%. In 2014 Kentucky was found to be the most affordable US state in which to live.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.19230769230769232, 0.5434782608695652, 0.2840909090909091, 0.1775568181818182]
+[0.046511627906976744, 0.13333333333333333, 0.06896551724137931, 0.04310344827586207]
+[0.12307692307692308, 0.34782608695652173, 0.18181818181818182, 0.11363636363636363]
+
+
+SBERT sim. Score: 0.5322633981704712

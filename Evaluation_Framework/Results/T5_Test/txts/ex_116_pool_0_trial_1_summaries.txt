@@ -1,0 +1,21 @@
+Document:
+illinois
+
+Intent:
+How is the government structured in this state?
+
+Input:
+Three US presidents have been elected while living in Illinois: Abraham Lincoln, Ulysses S. Grant, and Barack Obama. The government of Illinois, under the Constitution of Illinois, has three branches of government: executive, legislative and judicial. The executive branch is split into several statewide elected offices, with the governor as chief executive. The administrative divisions of Illinois are counties, townships, precincts, cities, towns, villages, and special-purpose districts. Municipal governments are the cities, villages, and incorporated towns. The Illinois State Board of Education (ISBE) is autonomous of the governor and the state legislature, and administers public education in the state.
+\Predicted Summary:
+,,,,, and the Michigan Canal (1848) made transportation between the Great Lakes and the Mississippi River valley faster and cheaper . The Illinois and Michigan Canal (1848) made transportation between the Great Lakes and the Mississippi River valley faster and cheaper . the state has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all states .
+
+GT:
+The government of Illinois, under the Constitution of Illinois, has three branches of government: executive, legislative and judicial. The Illinois General Assembly is the state legislature, composed of the 118-member Illinois House of Representatives and the 59-member Illinois Senatorte. The members of the General Assembly are elected at the beginning of each even-numbered year. The executive branch is composed of six elected officers and their offices as well as numerous other departments. The Judiciary of Illinois is the unified court system of Illinois. It consists of the Supreme Court, Appellate Court, and Circuit Courts. Illinois is a Democratic stronghold.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17647058823529413, 0.2903225806451613, 0.21951219512195125, 0.13719512195121955]
+[0.0297029702970297, 0.04918032786885246, 0.037037037037037035, 0.023148148148148147]
+[0.14705882352941177, 0.24193548387096775, 0.18292682926829268, 0.11432926829268293]
+
+
+SBERT sim. Score: 0.2602817416191101

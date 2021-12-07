@@ -1,0 +1,21 @@
+Document:
+alaska
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined, and the seventh-largest subnational division in the world. It is the third-least populous and the most sparsely populated state, but by far the continent's most populous territory located mostly north of the 60th parallel, with an estimated population of 738,432 as of 2015—more than quadruple the combined populations of Northern Canada and Greenland. While it has one of the smallest state economies in the country, Alaska's per capita income is among the highest, owing to a diversified economy dominated by fishing, natural gas, and oil, all of which it has in abundance. United States armed forces bases and tourism are also a significant part of the economy; more than half the state is federally owned public land, including a multitude of national forests, parks, and wildlife refuges. At 663,268 square miles (1,717,856 km2) in area, Alaska is by far the largest state in the United States, and is more than twice the size of the second-largest US state, Texas. In 2010, Alaska ranked as the 47th state by population, ahead of North Dakota, Vermont, and Wyoming (and Washington, D.C.). Alaska is by far the largest US state by area, and the tenth wealthiest (per capita income). The 2018 gross state product was $55 billion, 48th in the nation. Agricultural production is primarily for consumption within the state and includes nursery stock, dairy products, vegetables, and livestock.
+\Predicted Summary:
+is a US state on the northwest extremity of the country's West Coast, just across the Bering Strait . Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined . Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined, and the seventh-largest subnational division in the world .
+
+GT:
+The oil and gas industry dominates the Alaskan economy, with more than 80% of the state's revenues derived from petroleum extraction. Agriculture represents a very small fraction of the Alaskan economy. Agricultural production is primarily for consumption within the state and includes nursery stock, dairy products, vegetables, and livestock. Employment is primarily in government and industries such as natural resource extraction, shipping, and transportation. Federal subsidies are also an important part of the economy, allowing the state to keep taxes low. Its industrial outputs are crude petroleum, natural gas, coal, gold, precious metals, zinc and other mining, seafood processing, timber and wood products. The Trans-Alaska Pipeline can transport and pump up to 2.1 million barrels (330,000 m3) of crude oil per day, more than any other crude oil pipeline in the United States.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.19708029197080293, 0.34615384615384615, 0.25116279069767444, 0.1569767441860465]
+[0.014705882352941176, 0.025974025974025976, 0.018779342723004695, 0.011737089201877937]
+[0.13138686131386862, 0.23076923076923078, 0.16744186046511628, 0.1046511627906977]
+
+
+SBERT sim. Score: 0.5044721961021423

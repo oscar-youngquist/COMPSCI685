@@ -1,0 +1,21 @@
+Document:
+michigan
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Lansing is the state capital and is home to all three branches of state government. The state has numerous large islands, the principal ones being the North Manitou and South Manitou, Beaver, and Fox groups in Lake Michigan; Isle Royale and Grande Isle in Lake Superior; Marquette, Bois Blanc, and Mackinac islands in Lake Huron; and Neebish, Sugar, and Drummond islands in St. Mary's River. The state's rivers are generally small, short and shallow, and few are navigable. The state is home to several areas maintained by the National Park Service including: Isle Royale National Park, in Lake Superior, about 30 miles (48 km) southeast of Thunder Bay, Ontario. Detroit Metropolitan Airport is one of the nation's most recently expanded and modernized airports with six major runways, and large aircraft maintenance facilities capable of servicing and repairing a Boeing 747 and is a major hub for Delta Air Lines. The metro area offers four major casinos, MGM Grand Detroit, Greektown, Motor City, and Caesars Windsor in Windsor, Ontario, Canada; moreover, Detroit is the largest American city and metropolitan region to offer casino resorts. Michigan is served by four Class I railroads: the Canadian National Railway, the Canadian Pacific Railway, CSX Transportation, and the Norfolk Southern Railway. The vast majority of rail service in Michigan is devoted to freight, with Amtrak and various scenic railroads the exceptions. Amtrak passenger rail services the state, connecting many southern and western Michigan cities to Chicago, Illinois. The Gerald R. Ford International Airport in Grand Rapids is the next busiest airport in the state, served by eight airlines to 23 destinations. Flint Bishop International Airport is the third largest airport in the state, served by four airlines to several primary hubs. MBS International Airport serves Midland, Bay City and Saginaw. Smaller regional and local airports are located throughout the state including on several islands.
+\Predicted Summary:
+in the 17th century, it was claimed as part of new France colony . It was claimed as part of new France colony . the region was once part of the larger Northwest Territory .
+
+GT:
+Michigan is served by four Class I railroads: the Canadian National Railway, the Canadian Pacific Railway, CSX Transportation, and the Norfolk Southern Railway. The Detroit Metropolitan Airport in the western suburb of Romulus, was in 2010 the 16th busiest airfield in North America measured by passenger traffic. Flint Bishop International Airport is the third largest airport in the state, served by four airlines to several primary hubs. Cherry Capital Airport is in Traverse City. Alpena County Regional Airport services Alpena and the northeastern lower peninsula. MBS International Airport serves Midland, Bay City and Saginaw. Smaller regional and local airports are located throughout the state including on several islands.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.06481481481481481, 0.21875, 0.09999999999999999, 0.0625]
+[0.009345794392523364, 0.03225806451612903, 0.014492753623188403, 0.009057971014492752]
+[0.06481481481481481, 0.21875, 0.09999999999999999, 0.0625]
+
+
+SBERT sim. Score: -0.05235787853598595

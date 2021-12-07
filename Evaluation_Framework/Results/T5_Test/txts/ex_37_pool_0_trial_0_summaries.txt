@@ -1,0 +1,21 @@
+Document:
+florida
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The state's economy relies mainly on tourism, agriculture, and transportation, which developed in the late 19th century. Florida's energy production is 6% of the nation's total energy output, while total production of pollutants is lower, with figures of 6% for nitrogen oxide, 5% for carbon dioxide, and 4% for sulfur dioxide. Tourism makes up one of the largest sectors of the state economy, with nearly 1.4 million people employed in the tourism industry in 2016 (a record for the state, surpassing the 1.2 million employment from 2015). Agriculture is the second largest industry in the state. The largest farm category by sales in Florida is the $2.3 billion ornamental industry, which includes nursery, greenhouse, flowers, and sod products. The state produces about 75% of the phosphate required by farmers in the United States and 25% of the world supply, with about 95% used for agriculture (90% for fertilizer and 5% for livestock feed supplements) and 5% used for other products.
+\Predicted Summary:
+is the second largest state in the world. Florida is the third-most populous and the 22nd-most extensive of the 50 United States. Florida is the third-most populous state in the southeastern region of the United States. Florida is the principal location of the Seminole Wars (1816 – 1858), the longest and most extensive of Indian Wars in United States history. Florida was restored to the Union on January 10, 1861.
+
+GT:
+Historically, Florida's economy has been based primarily upon agricultural products such as cattle, sugar cane, citrus fruits, tomatoes, and strawberries. In the 20th century, tourism, industry, construction, international banking, biomedical and life sciences, healthcare research, simulation training, aerospace and defense, and commercial space travel have contributed to the state's economic development. The five largest sectors of employment in Florida are: trade, transportation, and utilities; government; professional and business services; education and health services; and leisure and hospitality. In output, the five largest sectors are: finance, insurance, real estate, rental, and leasing, followed by professional and business services; government and government enterprises; educational services, health care, and social assistance; and retail trade. In 2017, Florida became the United States' eighth largest exporter of trade goods. In 2017, Florida became the United States' tenth largest importer of trade goods. The value of Florida's imports equals 3.2% of United States' overall imported products for 2017.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1858974358974359, 0.4027777777777778, 0.2543859649122807, 0.15899122807017543]
+[0.03870967741935484, 0.08450704225352113, 0.05309734513274336, 0.033185840707964605]
+[0.11538461538461539, 0.25, 0.15789473684210525, 0.09868421052631579]
+
+
+SBERT sim. Score: 0.5149208903312683

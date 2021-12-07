@@ -1,0 +1,21 @@
+Document:
+idaho
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+It borders the state of Montana to the east and northeast, Wyoming to the east, Nevada and Utah to the south, and Washington and Oregon to the west. Industries significant for the state economy include manufacturing, agriculture, mining, forestry, and tourism. The official state nickname is the "Gem State", which references Idaho's natural beauty. The states of Washington and Oregon are to the west, Nevada and Utah are to the south, and Montana and Wyoming are to the east. The state has snow-capped mountain ranges, rapids, vast lakes and steep canyons. The valley contains the major cities of Boise, Meridian, Nampa, Caldwell, Twin Falls, Idaho Falls, and Pocatello. Between then and the creation of the Idaho Territory on March 4, 1863, at Lewiston, parts of the present-day state were included in the Oregon, Washington, and Dakota Territories. Science and technology have become the largest single economic center (over 25% of the state's total revenue) within the state and are greater than agriculture, forestry and mining combined. Other metropolitan areas in order of size are Coeur d'Alene, Idaho Falls, Pocatello and Lewiston. All three varieties of wheat, dark northern spring, hard red, and soft white are grown in the state. Nez Perce County is considered a premier soft white growing locale. Outdoor recreation is a common example ranging from numerous snowmobile and downhill and cross-country ski areas in winter to the evolution of Lewiston as a retirement community based on mild winters, dry, year-round climate and one of the lowest median wind velocities anywhere, combined with the rivers for a wide variety of activities. In keeping with this, while there are no large wineries or breweries in Idaho, there are numerous and growing numbers of award-winning boutique wineries and microbreweries in the northern part of the state. The Idaho Legislature has been continuously controlled by the Republican Party since the late 1950s, although Democratic legislators are routinely elected from Boise, Pocatello, Blaine County and the northern Panhandle. In the 1880s, Republicans became more prominent in local politics. Since statehood, the Republican Party has usually been the dominant party in Idaho.
+\Predicted Summary:
+is the 14th largest, the 12th least populous and the 7th least densely populated of the 50 US states . Idaho is the 14th largest, the 12th least populous and the 7th least densely populated of the 50 states . Idaho is the most densely populated of the 50 states, and is the 14th largest, the 12th least populous and the 7th most densely populated .
+
+GT:
+A Late Upper Paleolithic site was identified at Cooper's Ferry in western Idaho near the town of Cottonwood by archaeologists in 2019. Science and technology have become the largest single economic center (over 25% of the state's total revenue) within the state and are greater than agriculture, forestry and mining combined. In keeping with this, while there are no large wineries or breweries in Idaho, there are numerous and growing numbers of award-winning boutique wineries and microbreweries in the northern part of the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.21839080459770116, 0.30158730158730157, 0.25333333333333335, 0.15833333333333335]
+[0.03488372093023256, 0.04838709677419355, 0.04054054054054054, 0.025337837837837843]
+[0.14942528735632185, 0.20634920634920634, 0.17333333333333337, 0.10833333333333334]
+
+
+SBERT sim. Score: 0.49352264404296875

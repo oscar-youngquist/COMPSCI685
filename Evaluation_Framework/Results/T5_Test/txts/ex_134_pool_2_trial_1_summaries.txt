@@ -1,0 +1,21 @@
+Document:
+florida
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+In the pre-automobile era, railroads played a key role in the state's development, particularly in coastal areas. Numerous other railroads were built all over the interior of the state. The fast-growing I-4 corridor area, which runs through Central Florida and connects the cities of Daytona Beach, Orlando, and Tampa/St. Major ports in Florida include Port Tampa Bay in Tampa, Port Everglades in Fort Lauderdale, Port of Jacksonville in Jacksonville, PortMiami in Miami, Port Canaveral in Brevard County, Port Manatee in Manatee County, and Port of Palm Beach in Riviera Beach. Florida's highway system contains 1,495 mi (2,406 km) of interstate highway, and 10,601 mi (17,061 km) of non-interstate highway, such as state highways and US Florida's interstates, state highways, and US Highways are maintained by the Florida Department of Transportation. Intercity bus travel, which utilizes Florida's highway system, is provided by Greyhound, Megabus, and Amtrak Thruway Motorcoach. Florida has 131 public airports.
+\Predicted Summary:
+is the second largest state in the world. Florida is the third-most populous and the 22nd-most extensive of the 50 United States. Florida is the third-most populous state in the southeastern region of the United States. Florida is the principal location of the Seminole Wars (1816 – 1858), the longest and most extensive of Indian Wars in United States history. Florida was restored to the Union on January 10, 1861.
+
+GT:
+Florida has many seaports that serve container ships, tank ships, and cruise lines. Major ports in Florida include Port Tampa Bay in Tampa, Port Everglades in Fort Lauderdale, Port of Jacksonville in Jacksonville, PortMiami in Miami, Port Canaveral in Brevard County, Port Manatee in Manatee County, and Port of Palm Beach in Riviera Beach. The world's top three busiest cruise ports are found in Florida with PortMiami as the busiest and Port Canaveral and Port Everglades as the second and third busiest. Florida's highway system contains 1,495 mi (2,406 km) of interstate highway, and 10,601 mi (17,061 km) of non-interstate highway, such as state highways and US Intercity bus travel, which utilizes Florida's highway system, is provided by Greyhound, Megabus, and Amtrak Thruway Motorcoach. Florida has 131 public airports.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16058394160583941, 0.3055555555555556, 0.21052631578947367, 0.13157894736842105]
+[0.014705882352941176, 0.028169014084507043, 0.01932367149758454, 0.012077294685990338]
+[0.10218978102189781, 0.19444444444444445, 0.1339712918660287, 0.08373205741626795]
+
+
+SBERT sim. Score: 0.4459354877471924

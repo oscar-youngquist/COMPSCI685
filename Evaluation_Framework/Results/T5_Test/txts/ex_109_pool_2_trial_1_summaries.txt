@@ -1,0 +1,21 @@
+Document:
+delaware
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+There are also several state highways that cross the state of Delaware; a few of them include DE 1, DE 9, and DE 404. US 13 and DE 1 are primary north–south highways connecting Wilmington and Pennsylvania with Maryland, with DE 1 serving as the main route between Wilmington and the Delaware beaches. DE 404 is another primary east–west highway connecting the Chesapeake Bay Bridge in Maryland with the Delaware beaches. The state also operates three toll highways, the Delaware Turnpike, which is I-95, between Maryland and New Castle; the Korean War Veterans Memorial Highway, which is DE 1, between Wilmington and Dover; and the US 301 toll road between the Maryland border and DE 1 in New Castle County. Two Class I railroads, Norfolk Southern and CSX, provide freight rail service in northern New Castle County. Norfolk Southern provides freight service along the Northeast Corridor and to industrial areas in Edgemoor, New Castle, and Delaware City. Multiple short-line railroads provide freight service in Delaware. The Delmarva Central Railroad operates the most trackage of the short-line railroads, running from an interchange with Norfolk Southern in Porter south through Dover, Harrington, and Seaford to Delmar, with another line running from Harrington to Frankford and branches from Ellendale to Milton and from Georgetown to Gravel Hill. The Delmarva Central Railroad connects with the Maryland and Delaware Railroad, which serves local customers in Sussex County. The system includes bus, subsidized passenger rail operated by Philadelphia transit agency SEPTA, and subsidized taxi and paratransit modes.
+\Predicted Summary:
+,,,,,, the Delaware River, named after Thomas West, 3rd Baron De La Warr (1577–1618) who was the ruling governor of the Colony of Virginia at the time Europeans first explored the river . Delaware is the second-smallest and sixth-least populous state, but also the sixth-most densely populated . Delaware is the second-smallest and sixth-least populous state, but also the sixth-most densely populated
+
+GT:
+One major branch of the US Interstate Highway System, Interstate 95 (I-95), crosses Delaware southwest-to-northeast across New Castle County. In addition to I-95, there are six US highways that serve Delaware: US 9, US 13, US 40, US 113, US 202, and US 301. There are also several state highways that cross the state of Delaware; a few of them include DE 1, DE 9, and DE 404. A bicycle route, Delaware Bicycle Route 1, spans the north–south length of the state from the Maryland border in Fenwick Island to the Pennsylvania border north of Montchanin. Three ferries operate in the state of Delaware: Amtrak has two stations in Delaware along the Northeast Corridor; the relatively quiet Newark Rail Station in Newark, and the busier Wilmington Rail Station in Wilmington.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14814814814814814, 0.30303030303030304, 0.1990049751243781, 0.12437810945273632]
+[0.007462686567164179, 0.015384615384615385, 0.010050251256281407, 0.006281407035175879]
+[0.1037037037037037, 0.21212121212121213, 0.13930348258706468, 0.08706467661691542]
+
+
+SBERT sim. Score: 0.436953604221344

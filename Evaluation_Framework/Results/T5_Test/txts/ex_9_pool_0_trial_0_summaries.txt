@@ -1,0 +1,21 @@
+Document:
+arkansas
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Arkansas is the 29th largest by area and the 33rd most populous US state. Annual precipitation throughout the state averages between about 40 and 60 inches (1,000 and 1,500 mm); somewhat wetter in the south and drier in the northern part of the state. Arkansas is the nation's largest producer of rice, broilers, and turkeys, and ranks in the top three for cotton, pullets, and aquaculture (catfish). Arkansas features a variety of native music across the state, ranging from the blues heritage of West Memphis, Pine Bluff, Helena–West Helena to rockabilly, bluegrass, and folk music from the Ozarks. Arkansas is usually ranked as one of the least healthy states due to high obesity, smoking, and sedentary lifestyle rates, but according to a Gallup poll, Arkansas made the most immediate progress in reducing its number of uninsured residents after the Affordable Care Act passed. Arkansas ranks as the 32nd smartest state on the Morgan Quitno Smartest State Award, 44th in percentage of residents with at least a high school diploma, and 48th in percentage of bachelor's degree attainment. The state also has the 13th largest state highway system in the nation. Arkansas is one of only four states (along with Georgia, South Carolina, and Wyoming) not to have any legal protection against hate crimes.
+\Predicted Summary:
+, Arkansas, is a state in the south central United States, home to more than three million people . Arkansas () is a state in the south central United States, home to more than three million people as of 2018 . it is home to more than three million people as of 2018 .
+
+GT:
+Arkansas is home to a dozen Wilderness Areas totaling 158,444 acres (641.20 km2). These areas are set aside for outdoor recreation and are open to hunting, fishing, hiking, and primitive camping. Arkansas has many rivers, lakes, and reservoirs within or along its borders. Arkansas generally has a humid subtropical climate. Six Fortune 500 companies are based in Arkansas, including the world's #1 retailer, Walmart; Tyson Foods, J.B. Hunt, Dillard's, Murphy USA, and Windstream are also headquartered in the state. According to CNBC, Arkansas ranks as the 20th best state for business, with the 2nd-lowest cost of doing business, 5th-lowest cost of living, 11th best workforce, 20th-best economic climate, 28th-best educated workforce, 31st-best infrastructure and the 32nd-friendliest regulatory environment. As of October 2019, the state's unemployment rate is 3.5%. Sports are also very important to the culture of Arkansas, ranging from football, baseball, and basketball to hunting and fishing.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13043478260869565, 0.42857142857142855, 0.2, 0.125]
+[0.03125, 0.10416666666666667, 0.04807692307692307, 0.03004807692307692]
+[0.09316770186335403, 0.30612244897959184, 0.14285714285714285, 0.08928571428571429]
+
+
+SBERT sim. Score: 0.6410233974456787

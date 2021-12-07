@@ -1,0 +1,21 @@
+Document:
+delaware
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Delaware is the sixth most densely populated state, with a population density of 442.6 people per square mile, 356.4 per square mile more than the national average, and ranking 45th in population. Delaware is one of five states (Maine, Vermont, West Virginia, Wyoming) that do not have a single city with a population over 100,000 as of the 2010 census. Although Protestants account for almost half of the population, the Catholic Church is the largest single denomination in the state. Dover is the state capital and the second most populous city (38,079). Delaware is home to First State National Historical Park, a National Park Service unit composed of historic sites across the state including the New Castle Court House, Green, and Sheriff's House, Dover Green, Beaver Valley, Fort Christina, Old Swedes' Church, John Dickinson Plantation, and the Ryves Holt House. Rehoboth Beach often bills itself as "The Nation's Summer Capital" because it is a frequent summer vacation destination for Washington, D.C., residents as well as visitors from Maryland, Virginia, and in lesser numbers, Pennsylvania.
+\Predicted Summary:
+,,,,,, the Delaware River, named after Thomas West, 3rd Baron De La Warr (1577–1618) who was the ruling governor of the Colony of Virginia at the time Europeans first explored the river . Delaware is the second-smallest and sixth-least populous state, but also the sixth-most densely populated . Delaware is the second-smallest and sixth-least populous state, but also the sixth-most densely populated
+
+GT:
+Delaware provides government subsidy support for the clean-up of property "lightly contaminated" by hazardous waste, the proceeds for which come from a tax on wholesale petroleum sales. As of 2000, 91% of Delaware residents of age 5 and older spoke only English at home; 5% spoke Spanish. A 2012 Gallup poll found that Delaware's proportion of lesbian, gay, bisexual, and transgender adults stood at 3.4 percent of the population. This constitutes a total LGBT adult population estimate of 23,698 people. The number of same-sex couple households in 2010 stood at 2,646. This grew by 41.65% from a decade earlier.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1320754716981132, 0.21212121212121213, 0.1627906976744186, 0.10174418604651163]
+[0.009523809523809525, 0.015384615384615385, 0.011764705882352943, 0.007352941176470589]
+[0.11320754716981132, 0.18181818181818182, 0.13953488372093023, 0.08720930232558138]
+
+
+SBERT sim. Score: 0.40018337965011597

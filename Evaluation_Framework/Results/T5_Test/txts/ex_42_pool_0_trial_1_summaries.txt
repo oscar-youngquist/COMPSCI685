@@ -1,0 +1,21 @@
+Document:
+new_hampshire
+
+Intent:
+What drives the economy in this state?
+
+Input:
+With some of the highest ski mountains on the East Coast, New Hampshire's major recreational attractions include skiing, snowmobiling, and other winter sports, hiking and mountaineering (Mount Monadnock in the state's southwestern corner is among the most climbed mountains in the US), observing the fall foliage, summer cottages along many lakes and the seacoast, motor sports at the New Hampshire Motor Speedway, and Motorcycle Week, a popular motorcycle rally held in Weirs Beach in Laconia in June. It is the state with the highest percentage of timberland area in the country. It contains less than 5% of the state's population, suffers relatively high poverty, and is steadily losing population as the logging and paper industries decline. The northern parts of the state produced lumber, and the mountains provided tourist attractions. The four counties covering these two areas account for 72% of the state population, and one (Hillsborough) has nearly 30% of the state population, as well as the two most populous communities, Manchester and Nashua. Its agricultural outputs are dairy products, nursery stock, cattle, apples and eggs. Its industrial outputs are machinery, electric equipment, rubber and plastic products, and tourism is a major component of the economy. Today, of the state's total manufacturing dollar value, these sectors contribute only two percent for textiles, two percent for leather goods, and nine percent for machining. The state's largest economic sectors in 2018, based on contribution to GDP, are: 15% real estate and rental and leasing; 13% professional business services; 12% manufacturing; 10% government and government services; and 9% health care and social services. Freight railways in New Hampshire include Claremont & Concord Railroad (CCRR), Pan Am Railways via subsidiary Springfield Terminal Railway (ST), the New England Central Railroad (NHR, the St. Lawrence and Atlantic Railroad (SLR), and New Hampshire Northcoast Corporation (NHN).
+\Predicted Summary:
+New Hampshire is a state in the Northeastern United States . New Hampshire is bordered by Massachusetts to the south, Vermont to the west, Maine and the Atlantic Ocean to the east . New Hampshire is the 5th smallest by area and the 10th least populous US state .
+
+GT:
+After 1960, the textile industry collapsed, but the economy rebounded as a center of high technology and as a service provider. Its agricultural outputs are dairy products, nursery stock, cattle, apples and eggs. Its industrial outputs are machinery, electric equipment, rubber and plastic products, and tourism is a major component of the economy. The state's largest economic sectors in 2018, based on contribution to GDP, are: 15% real estate and rental and leasing; 13% professional business services; 12% manufacturing; 10% government and government services; and 9% health care and social services. The Seabrook Station Nuclear Power Plant, near Portsmouth, is the largest nuclear reactor in New England and provided 57% of New Hampshire's electricity generation and 27% of its electricity consumption in 2017. New Hampshire's state government employs approximately 6,100 people. Additionally, the US Department of State employs approximately 1,600 people at the National Visa Center in Portsmouth, which processes United States immigrant visa petitions.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15, 0.5217391304347826, 0.23300970873786406, 0.14563106796116504]
+[0.031446540880503145, 0.1111111111111111, 0.049019607843137254, 0.030637254901960783]
+[0.0875, 0.30434782608695654, 0.13592233009708735, 0.0849514563106796]
+
+
+SBERT sim. Score: 0.5068703889846802

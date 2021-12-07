@@ -1,0 +1,21 @@
+Document:
+west_virginia
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Huntington in the southwest is close to the states of Ohio and Kentucky, while Martinsburg and Harpers Ferry in the Eastern Panhandle region are considered part of the Washington metropolitan area, in between the states of Maryland and Virginia. In the northern portion of the state and elsewhere, the older Baltimore and Ohio Railroad (B&O) and other lines also expanded to take advantage of coal opportunities. Other significant rail carriers of coal were the Western Maryland Railway (WM), Southern Railway (SOU), and the Louisville and Nashville Railroad (L&N). Airports, railroads, and rivers complete the commercial transportation modes for West Virginia. The cities of Charleston, Huntington, Beckley, Wheeling, Morgantown, Clarksburg, Parkersburg and Fairmont have bus-based public transit systems. Recreational transportation opportunities abound in West Virginia, including hiking trails, rail trails, ATV off-road trails, white water rafting rivers, and two tourist railroads, the Cass Scenic Railroad and the Potomac Eagle Scenic Railroad. Corridor L, carrying US 19, runs from the Turnpike at Beckley to I-79 near Sutton (and provides a short cut of about 40 miles (64 km) and bypasses Charleston's urban traffic for traveler heading to and from Florida).
+\Predicted Summary:
+is a state in the Appalachian and Mid-Atlantic regions of the Southern United States . West Virginia is the 41st-largest state by area and ranks 38th in population . it is bordered by Pennsylvania to the northeast, Maryland to the east and northeast, Kentucky to the southeast, and Ohio to the northwest .
+
+GT:
+Highways form the backbone of transportation systems in West Virginia, with over 37,300 miles (60,000 km) of public roads in the state. Airports, railroads, and rivers complete the commercial transportation modes for West Virginia. Commercial air travel is facilitated by airports in Charleston, Huntington, Morgantown, Beckley, Lewisburg, Clarksburg, and Parkersburg. The cities of Charleston, Huntington, Beckley, Wheeling, Morgantown, Clarksburg, Parkersburg and Fairmont have bus-based public transit systems. West Virginia University in Morgantown boasts the PRT (personal rapid transit) system, the state's only single-rail public transit system. Recreational transportation opportunities abound in West Virginia, including hiking trails, rail trails, ATV off-road trails, white water rafting rivers, and two tourist railroads, the Cass Scenic Railroad and the Potomac Eagle Scenic Railroad. West Virginia is crossed by seven Interstate Highways.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16541353383458646, 0.4230769230769231, 0.23783783783783785, 0.14864864864864866]
+[0.022727272727272728, 0.058823529411764705, 0.03278688524590164, 0.02049180327868853]
+[0.12030075187969924, 0.3076923076923077, 0.17297297297297295, 0.1081081081081081]
+
+
+SBERT sim. Score: 0.5426580905914307

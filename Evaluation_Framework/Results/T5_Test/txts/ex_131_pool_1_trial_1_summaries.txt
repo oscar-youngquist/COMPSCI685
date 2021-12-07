@@ -1,0 +1,21 @@
+Document:
+kansas
+
+Intent:
+What drives the economy in this state?
+
+Input:
+By 2015, Kansas was one of the most productive agricultural states, producing high yields of wheat, corn, sorghum, and soybeans. At the same time, some of the communities in Johnson County (metropolitan Kansas City) are among the fastest-growing in the country. The cities of Olathe, Shawnee, De Soto and Gardner have some of the state's fastest growing populations. To the north, Kansas City, with the second largest land area in the state, contains a number of diverse ethnic neighborhoods. The state's agricultural outputs are cattle, sheep, wheat, sorghum, soybeans, cotton, hogs, corn, and salt. By far, the most significant agricultural crop in the state is wheat. The industrial outputs are transportation equipment, commercial and private aircraft, food processing, publishing, chemical products, machinery, apparel, petroleum, and mining. Kansas is ranked eighth in US petroleum production. Kansas is also ranked eighth in US natural gas production. The state's economy is also heavily influenced by the aerospace industry. Several large aircraft corporations have manufacturing facilities in Wichita and Kansas City, including Spirit AeroSystems, Bombardier Aerospace (LearJet), and Textron Aviation (a merger of the former Cessna, Hawker, and Beechcraft brands).
+\Predicted Summary:
+,, was a hotbed of violence and chaos in its early days as these forces collided . Kansas is the 15th-largest state by area and is the 34th most-populous of the 50 states . by 2015, Kansas was one of the most productive agricultural states by area .
+
+GT:
+Nearly 90% of Kansas's land is devoted to agriculture. The state's agricultural outputs are cattle, sheep, wheat, sorghum, soybeans, cotton, hogs, corn, and salt. As of 2018, there were 59,600 farms in Kansas, 86 (0.14%) of which are certified organic farms. The average farm in the state is about 770 acres (more than a square mile), and in 2016, the average cost of running the farm was $300,000. By far, the most significant agricultural crop in the state is wheat. Eastern Kansas is part of the Grain Belt, an area of major grain production in the central United States. Roughly 95% of the wheat grown in the state is hard red winter wheat. The industrial outputs are transportation equipment, commercial and private aircraft, food processing, publishing, chemical products, machinery, apparel, petroleum, and mining. Kansas is ranked eighth in US petroleum production. Production has experienced a steady, natural decline as it becomes increasingly difficult to extract oil over time. Kansas is also ranked eighth in US natural gas production. The state's economy is also heavily influenced by the aerospace industry. Several large aircraft corporations have manufacturing facilities in Wichita and Kansas City, including Spirit AeroSystems, Bombardier Aerospace (LearJet), and Textron Aviation (a merger of the former Cessna, Hawker, and Beechcraft brands). Major companies headquartered in Kansas include the Sprint Corporation (with world headquarters in Overland Park), YRC Worldwide (Overland Park), Garmin (Olathe), Payless Shoes (national headquarters and major distribution facilities in Topeka), and Koch Industries (with national headquarters in Wichita), and Coleman (headquarters in Wichita) . Kansas is also home to three major military installations: Fort Leavenworth (Army), Fort Riley (Army), and McConnell Air Force Base (Air Force).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09574468085106383, 0.5869565217391305, 0.16463414634146342, 0.10289634146341464]
+[0.014234875444839857, 0.08888888888888889, 0.024539877300613498, 0.015337423312883434]
+[0.06028368794326241, 0.3695652173913043, 0.10365853658536585, 0.06478658536585366]
+
+
+SBERT sim. Score: 0.6136996150016785

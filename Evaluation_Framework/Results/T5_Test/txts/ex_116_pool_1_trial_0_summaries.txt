@@ -1,0 +1,21 @@
+Document:
+mississippi
+
+Intent:
+How is the government structured in this state?
+
+Input:
+As with all other US states and the federal government, Mississippi's government is based on the separation of legislative, executive and judicial power. The lieutenant governor, currently Delbert Hosemann (R), is elected on a separate ballot. Both the governor and lieutenant governor are elected to four-year terms of office. Unlike the federal government, but like many other US States, most of the heads of major executive departments are elected by the citizens of Mississippi rather than appointed by the governor. Mississippi is one of five states that elects its state officials in odd-numbered years (the others are Kentucky, Louisiana, New Jersey and Virginia). Mississippi holds elections for these offices every four years, always in the year preceding presidential elections.
+\Predicted Summary:
+, the Mississippi River, which flows along and defines its western boundary . Mississippi is bordered to the north by Tennessee; to the east by Alabama; to the south by the Gulf of Mexico; to the southwest by Louisiana; and to the northwest by Arkansas . Mississippi is the 32nd largest and 34th-most populous of the 50 US states .
+
+GT:
+As with all other US states and the federal government, Mississippi's government is based on the separation of legislative, executive and judicial power. Executive authority in the state rests with the Governor, currently Tate Reeves (R). The lieutenant governor, currently Delbert Hosemann (R), is elected on a separate ballot. Unlike the federal government, but like many other US States, most of the heads of major executive departments are elected by the citizens of Mississippi rather than appointed by the governor. Mississippi is one of five states that elects its state officials in odd-numbered years (the others are Kentucky, Louisiana, New Jersey and Virginia). Mississippi holds elections for these offices every four years, always in the year preceding presidential elections.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.21487603305785125, 0.45614035087719296, 0.2921348314606741, 0.18258426966292132]
+[0.03333333333333333, 0.07142857142857142, 0.045454545454545456, 0.02840909090909091]
+[0.14049586776859505, 0.2982456140350877, 0.19101123595505617, 0.1193820224719101]
+
+
+SBERT sim. Score: 0.4808560013771057

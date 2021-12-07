@@ -1,0 +1,21 @@
+Document:
+virginia
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+As of 2018, the Virginia Department of Transportation owns and operates 57,867 miles (93,128 km) of the total 70,105 miles (112,823 km) of roads in the state, making it the third largest state highway system in the United States. Virginia has Amtrak passenger rail service along several corridors, and Virginia Railway Express (VRE) maintains two commuter lines into Washington, D.C. from Fredericksburg and Manassas. Arlington accounted for forty percent of Virginia's public transit trips as of 2013, with most of that being from the Washington Metro transit system, which also serves Alexandria and communities in Fairfax County along I-66. Major freight railroads in Virginia include Norfolk Southern and CSX Transportation. Commuter buses include the Fairfax Connector, FRED buses in Fredericksburg, and OmniRide in Prince William County. The Virginia Department of Transportation operates several free ferries throughout Virginia, the most notable being the Jamestown Ferry which connects Jamestown to Scotland Wharf across the James River. Virginia has five major airports: Washington Dulles International and Reagan Washington National in Northern Virginia, both of which handle more than twenty million passengers a year; Richmond International; and Newport News/Williamsburg International Airport and Norfolk International serving the Hampton Roads area. Several other airports offer limited commercial passenger service, and sixty-six public airports serve the state's aviation needs.
+\Predicted Summary:
+, the Commonwealth of Virginia, is a state in the Mid-Atlantic region of the Southern United States . Virginia has a total area of 42,774.2 square miles (110,784.7 km2), including 3,180.13 square miles (8,236.5 km2) of water . Virginia is the 35th state in the region, between the Atlantic Coast and the Appalachian Mountains .
+
+GT:
+Virginia has Amtrak passenger rail service along several corridors, and Virginia Railway Express (VRE) maintains two commuter lines into Washington, D.C. from Fredericksburg and Manassas. VRE is one of the nation's fastest growing commuter rail services, handling nearly 20,000 passengers a day. Arlington accounted for forty percent of Virginia's public transit trips as of 2013, with most of that being from the Washington Metro transit system, which also serves Alexandria and communities in Fairfax County along I-66. Major freight railroads in Virginia include Norfolk Southern and CSX Transportation. Commuter buses include the Fairfax Connector, FRED buses in Fredericksburg, and OmniRide in Prince William County. The Virginia Department of Transportation operates several free ferries throughout Virginia, the most notable being the Jamestown Ferry which connects Jamestown to Scotland Wharf across the James River. Virginia has five major airports: Washington Dulles International and Reagan Washington National in Northern Virginia, both of which handle more than twenty million passengers a year; Richmond International; and Newport News/Williamsburg International Airport and Norfolk International serving the Hampton Roads area. The Virginia Port Authority's main seaports are those in Hampton Roads, which carried 60,014,070 short tons (54,443,850 t) of total cargo in 2019, the seventh most of United States ports. The Eastern Shore of Virginia is the site of Wallops Flight Facility, a rocket testing center owned by NASA, and the Mid-Atlantic Regional Spaceport, a commercial spaceport. Space tourism is also offered through Vienna-based Space Adventures.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12301587301587301, 0.5166666666666667, 0.1987179487179487, 0.12419871794871794]
+[0.0398406374501992, 0.1694915254237288, 0.06451612903225806, 0.04032258064516129]
+[0.07142857142857142, 0.3, 0.11538461538461536, 0.0721153846153846]
+
+
+SBERT sim. Score: 0.3968923091888428

@@ -1,0 +1,21 @@
+Document:
+iowa
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Natives of central and southern Iowa—including such cities as Council Bluffs, Davenport, Des Moines, and Iowa City—tend to speak the North Midland dialect also found in eastern Nebraska, central Illinois, and central Indiana. It is home to the Iowa State Capitol, the State Historical Society of Iowa Museum, Drake University, Des Moines Art Center, Greater Des Moines Botanical Garden, Principal Riverwalk, the Iowa State Fair, Terrace Hill, and the World Food Prize. Boone hosts the biennial Farm Progress Show and is home to the Mamie Doud Eisenhower museum, the Boone & Scenic Valley Railroad, and Ledges State Park. Davenport boasts the Figge Art Museum, River Music Experience, Putnam Museum, Davenport Skybridge, Quad City Symphony Orchestra, Ballet Quad Cities, and plays host to the annual Bix Beiderbecke Memorial Jazz Festival, and the Quad City Air Show, which is the largest airshow in the state. With three casino resorts, the city also includes such cultural attractions as the Western Hills Trails Center, Union Pacific Railroad Museum, the Grenville M. Dodge House, and the Lewis and Clark Monument, with clear views of the Downtown Omaha skyline found throughout the city. The Iowa Great Lakes is made up of multiple small towns, such as Spirit Lake, Arnolds Park, Milford, and Okoboji. The Sanford Museum and Planetarium in Cherokee, Grotto of the Redemption in West Bend, The Danish Immigrant Museum in Elk Horn, and the Fort Museum and Frontier Village in Fort Dodge are other regional destinations. In NCAA FCS, the University of Northern Iowa Panthers play at the Missouri Valley Conference and Missouri Valley Football Conference (despite the similar names, the conferences are administratively separate), whereas the Drake University Bulldogs play at the Missouri Valley Conference in most sports and Pioneer League for football.
+\Predicted Summary:
+is the 26th most extensive in total area and the 30th most populous of the 50 US states . Iowa is bordered by the Mississippi River to the east and the Missouri River and Big Sioux River to the west . Iowa is the only state whose east and west borders are formed almost entirely by rivers .
+
+GT:
+Slipknot, a heavy metal band, was formed in Des Moines in 1995. The state has four major college teams playing in NCAA Division I for all sports. Des Moines is home to the Iowa Cubs, a Class AAA team in the Pacific Coast League and affiliate of the Chicago Cubs. Des Moines is home to the Iowa Wild, who are affiliated with the Minnesota Wild and are members of the American Hockey League. Iowa is a hotbed of wrestling in the United States. Iowa and Iowa State have won a combined 30 NCAA Division I titles. The Iowa Speedway oval track has hosted auto racing championships such as the IndyCar Series, NASCAR Nationwide Series and NASCAR Truck Series since 2006. The John Deere Classic is a PGA Tour golf event held in the Quad Cities since 1971.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.18248175182481752, 0.45454545454545453, 0.2604166666666667, 0.16276041666666669]
+[0.03676470588235294, 0.09259259259259259, 0.05263157894736842, 0.03289473684210526]
+[0.12408759124087591, 0.3090909090909091, 0.17708333333333334, 0.11067708333333333]
+
+
+SBERT sim. Score: 0.4482305943965912

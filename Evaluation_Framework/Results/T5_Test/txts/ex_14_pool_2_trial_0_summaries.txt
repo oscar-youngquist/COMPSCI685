@@ -1,0 +1,21 @@
+Document:
+illinois
+
+Intent:
+What drives the economy in this state?
+
+Input:
+It has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all US states. With Chicago in northeastern Illinois, small industrial cities and immense agricultural productivity in the north and center of the state, and natural resources such as coal, timber, and petroleum in the south, Illinois has a diverse economic base, and is a major transportation hub. Agriculture, particularly corn and soybeans, as well as educational institutions and manufacturing centers, figure prominently in Central Illinois. In most years, Illinois is either the first or second state for the highest production of soybeans, with a harvest of 427.7 million bushels (11.64 million metric tons) in 2008, after Iowa's production of 444.82 million bushels (12.11 million metric tons). With a production capacity of 1.5 billion gallons per year, Illinois is a top producer of ethanol, ranking third in the United States in 2011. As of 2011, Illinois is ranked as the 4th-most productive manufacturing state in the country, behind California, Texas, and Ohio. Illinois is a net importer of fuels for energy, despite large coal resources and some minor oil production. Illinois exports electricity, ranking fifth among states in electricity production and seventh in electricity consumption. Illinois is ranked 14th in oil production among states, with a daily output of approximately 28,000 barrels (4,500 m3) in 2005. Illinois is ranked second in corn production among US states, and Illinois corn is used to produce 40% of the ethanol consumed in the United States.
+\Predicted Summary:
+,,,,, and the Michigan Canal (1848) made transportation between the Great Lakes and the Mississippi River valley faster and cheaper . The Illinois and Michigan Canal (1848) made transportation between the Great Lakes and the Mississippi River valley faster and cheaper . the state has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all states .
+
+GT:
+Illinois ( (listen) IL-ə-NOY) is a state in the Midwestern and Great Lakes regions of the United States. It has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all US states. Illinois's minimum wage will rise to $15 per hour by 2025, making it one of the highest in the nation. In most years, Illinois is either the first or second state for the highest production of soybeans, with a harvest of 427.7 million bushels (11.64 million metric tons) in 2008, after Iowa's production of 444.82 million bushels (12.11 million metric tons). Illinois ranks second in US corn production with more than 1.5 billion bushels produced annually. Illinois is one of the nation's manufacturing leaders, boasting annual value added productivity by manufacturing of over $107 billion in 2006. As of 2011, Illinois is ranked as the 4th-most productive manufacturing state in the country, behind California, Texas, and Ohio. By the early 2000s, Illinois's economy had moved toward a dependence on high-value-added services, such as financial trading, higher education, law, logistics, and medicine. Illinois is a leading refiner of petroleum in the American Midwest, with a combined crude oil distillation capacity of nearly 900,000 barrels per day (140,000 m3/d).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15695067264573992, 0.5645161290322581, 0.24561403508771934, 0.15350877192982457]
+[0.09009009009009009, 0.32786885245901637, 0.14134275618374556, 0.08833922261484098]
+[0.1210762331838565, 0.43548387096774194, 0.18947368421052632, 0.11842105263157894]
+
+
+SBERT sim. Score: 0.5690228939056396

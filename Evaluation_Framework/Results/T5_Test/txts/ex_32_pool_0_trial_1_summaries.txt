@@ -1,0 +1,21 @@
+Document:
+maine
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Maine ( (listen)) is a state in the New England region of the Northeastern United States, bordered by New Hampshire to the west; the Atlantic Ocean to the southeast; and the Canadian provinces of New Brunswick and Quebec to the northeast and northwest, respectively. Maine is known for its jagged, rocky coastline; low, rolling mountains; heavily forested interior; picturesque waterways; and its seafood cuisine, especially lobster and clams. Maine's Moosehead Lake is the largest lake wholly in New England, since Lake Champlain is located between Vermont, New York and Québec. The state is a popular destination for sport hunting (particularly deer, moose and bear), sport fishing, snowmobiling, skiing, boating, camping and hiking, among other activities. The unorganized territory of Maine consists of more than 400 townships (towns are incorporated, townships are unincorporated), plus many coastal islands that do not lie within any municipal bounds. The state is a major producer of potatoes, wild blueberries, apples, maple syrup and sweet corn. Dairy products and chicken's eggs are other major industries. Maine has many vegetable farms and other small, diversified farms.
+\Predicted Summary:
+the Popham Colony, established by the Plymouth Company in 1607 . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states . Maine is known for its jagged, rocky coastline; low, rolling mountains; heavily forested interior; picturesque waterways .
+
+GT:
+The state is a major producer of potatoes, wild blueberries, apples, maple syrup and sweet corn. Dairy products and chicken's eggs are other major industries. Maine has many vegetable farms and other small, diversified farms. In the 1960s and 1970s, the book "Living the Good Life" by Helen Nearing and Scott Nearing caused many young people to move to Maine and engage in small-scale farming and homesteading. Maine has a smaller number of commodity farms and confined animal feeding operations. Maine is home to the Maine Organic Farmers and Gardeners Association and had 535 certified organic farms in 2019. Since the 1980s, the state has gotten a reputation for its local food and restaurant meals. Portland was named Bon Appetit magazine's Restaurant City of the Year in 2018.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1297709923664122, 0.3541666666666667, 0.18994413407821228, 0.11871508379888268]
+[0.023076923076923078, 0.06382978723404255, 0.03389830508474576, 0.021186440677966104]
+[0.0916030534351145, 0.25, 0.1340782122905028, 0.08379888268156424]
+
+
+SBERT sim. Score: 0.3989529609680176

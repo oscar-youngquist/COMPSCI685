@@ -1,0 +1,21 @@
+Document:
+alabama
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Alabama is also known as the "Heart of Dixie" and the "Cotton State". Despite the growth of major industries and urban centers, white rural interests dominated the state legislature from 1901 to the 1960s. Alabama is bordered by the states of Tennessee to the north, Georgia to the east, Florida to the south, and Mississippi to the west. Alabama also contains the Natchez Trace Parkway, the Selma To Montgomery National Historic Trail, and the Trail of Tears National Historic Trail. Alabama is home to a diverse array of flora and fauna in habitats that range from the Tennessee Valley, Appalachian Plateau, and Ridge-and-Valley Appalachians of the north to the Piedmont, Canebrake, and Black Belt of the central region to the Gulf Coastal Plain and beaches along the Gulf of Mexico in the south. Indigenous animal species in the state include 62 mammal species, 93 reptile species, 73 amphibian species, roughly 307 native freshwater fish species, and 420 bird species that spend at least part of their year within the state. Several Hindu temples and cultural centers in the state have been founded by Indian immigrants and their descendants, the best-known being the Shri Swaminarayan Mandir in Birmingham, the Hindu Temple and Cultural Center of Birmingham in Pelham, the Hindu Cultural Center of North Alabama in Capshaw, and the Hindu Mandir and Cultural Center in Tuscaloosa. The state is home to various attractions, natural features, parks and events that attract visitors from around the globe, notably the annual Hangout Music Festival, held on the public beaches of Gulf Shores; the Alabama Shakespeare Festival, one of the ten largest Shakespeare festivals in the world; the Robert Trent Jones Golf Trail, a collection of championship caliber golf courses distributed across the state; casinos such as Victoryland; amusement parks such as Alabama Splash Adventure; the Riverchase Galleria, one of the largest shopping centers in the southeast; Guntersville Lake, voted the best lake in Alabama by Southern Living Magazine readers; and the Alabama Museum of Natural History, the oldest museum in the state.
+\Predicted Summary:
+,,,,, a Muskogean-speaking tribe whose members lived just below the confluence of the Coosa and Tallapoosa rivers . Alabama is a state in the Deep South region of the Southern United States, bordered by Tennessee to the north; Georgia to the east; Florida and the Gulf of Mexico to the west . Alabama is the 30th largest by area and the 24th-most populous of the US states .
+
+GT:
+College football is extremely popular in Alabama, particularly the University of Alabama Crimson Tide and Auburn University Tigers, rivals in the Southeastern Conference. In the 2013 season, Alabama averaged over 100,000 fans per game and Auburn averaged over 80,000—both numbers among the top twenty in the nation. Bryant–Denny Stadium is the home of the Alabama football team, and has a seating capacity of 101,821, and is the fifth largest stadium in America. Jordan-Hare Stadium is the home field of the Auburn football team and seats up to 87,451. The Talladega Superspeedway motorsports complex hosts a series of NASCAR events. It has a seating capacity of 143,000 and is the thirteenth largest stadium in the world and sixth largest stadium in America.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.20930232558139536, 0.4090909090909091, 0.27692307692307694, 0.1730769230769231]
+[0.03125, 0.06153846153846154, 0.04145077720207254, 0.02590673575129534]
+[0.14728682170542637, 0.2878787878787879, 0.1948717948717949, 0.12179487179487182]
+
+
+SBERT sim. Score: 0.3633725643157959

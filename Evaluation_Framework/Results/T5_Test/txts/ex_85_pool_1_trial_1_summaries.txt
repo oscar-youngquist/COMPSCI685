@@ -1,0 +1,21 @@
+Document:
+michigan
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+With a population of approximately 10 million, Michigan is the tenth most populous state, the 11th most extensive state by area, and the largest by area east of the Mississippi River. Michigan is the leading auto-producing state in the US, with the industry primarily located throughout the Midwestern United States; Ontario, Canada; and the Southern United States. With almost ten million residents, Michigan is a large and influential state, ranking tenth in population among the fifty states. Agriculture also serves a significant role, making the state a leading grower of fruit in the US, including blueberries, cherries, apples, grapes, and peaches. Lansing is the state capital and is home to all three branches of state government. Republican strongholds of the state include rural areas of Western and Northern Michigan, the Upper Peninsula, the outer suburbs around Grand Rapids, and Livingston County. The state has numerous large islands, the principal ones being the North Manitou and South Manitou, Beaver, and Fox groups in Lake Michigan; Isle Royale and Grande Isle in Lake Superior; Marquette, Bois Blanc, and Mackinac islands in Lake Huron; and Neebish, Sugar, and Drummond islands in St. Mary's River. The state is home to several areas maintained by the National Park Service including: Isle Royale National Park, in Lake Superior, about 30 miles (48 km) southeast of Thunder Bay, Ontario. With 78 state parks, 19 state recreation areas, and six state forests, Michigan has the largest state park and state forest system of any state. The state averages 17 tornadoes per year, which are more common in the state's extreme southern section. Michigan has the largest Dutch, Finnish, and Macedonian populations in the United States. A wide variety of commodity crops, fruits, and vegetables are grown in Michigan, making it second only to California among US states in the diversity of its agriculture. Livestock in the state included 78,000 sheep, a million cattle, a million hogs, and more than three million chickens. Hunting and fishing are significant industries in the state. Smaller regional and local airports are located throughout the state including on several islands.
+\Predicted Summary:
+in the 17th century, it was claimed as part of new France colony . It was claimed as part of new France colony . the region was once part of the larger Northwest Territory .
+
+GT:
+Michigan ( (listen)) is a state in the Great Lakes and Midwestern regions of the United States. Its name comes from the Ojibwe word mishigami, meaning "large water" or "large lake". With a population of approximately 10 million, Michigan is the tenth most populous state, the 11th most extensive state by area, and the largest by area east of the Mississippi River. Its capital is Lansing, and its largest city is Detroit. Metro Detroit is among the nation's most populous and largest metropolitan economies. Michigan consists of two peninsulas separated by the Straits of Mackinac. The southern and central parts of the Lower Peninsula (south of Saginaw Bay and from the Grand Rapids area southward) have a warmer climate (Köppen climate classification Dfa) with hot summers and cold winters. In 2017, 3,859,949 people in Michigan were employed at 222,553 establishments, according to the US Census Bureau. The US Bureau of Economic Analysis estimated Michigan's Q3 2018 gross state product to be $538 billion, ranking 14th out of the 50 states. Products and services include automobiles, food products, information technology, aerospace, military equipment, furniture, and mining of copper and iron ore. Michigan is the third leading grower of Christmas trees with 60,520 acres (245 km2) of land dedicated to Christmas tree farming. Michigan's personal income tax is a flat rate of 4.25%. A wide variety of commodity crops, fruits, and vegetables are grown in Michigan, making it second only to California among US states in the diversity of its agriculture.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.038910505836575876, 0.3125, 0.06920415224913495, 0.043252595155709346]
+[0.01171875, 0.0967741935483871, 0.020905923344947733, 0.013066202090592335]
+[0.0311284046692607, 0.25, 0.05536332179930796, 0.03460207612456748]
+
+
+SBERT sim. Score: 0.016547871753573418

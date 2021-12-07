@@ -1,0 +1,21 @@
+Document:
+mississippi
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Mississippi was the site of many prominent events during the civil rights movement, including the Ole Miss riot of 1962 by white students objecting to desegregation, the 1963 assassination of Medgar Evers, and the 1964 Freedom Summer murders of three activists working on voting rights. In addition to its namesake, major rivers in Mississippi include the Big Black River, the Pearl River, the Yazoo River, the Pascagoula River, and the Tombigbee River. Major lakes include Ross Barnett Reservoir, Arkabutla, Sardis, and Grenada, with the largest being Sardis Lake. (See: Lists of cities, towns and villages, census-designated places, metropolitan areas, micropolitan areas, and counties in Mississippi) The southeastern part of the state is dominated by longleaf pine, in both uplands and lowland flatwoods and Sarracenia bogs. The rest of the state, primarily north of Interstate 20 not including the prairie regions, consists of mixed pine-hardwood forest, common species being loblolly pine, oaks (e.g., water oak), hickories, sweetgum, and elm. Mississippi is home to 63 crayfish species, including at least 17 endemic species. Their large earthworks, which expressed their cosmology of political and religious concepts, still stand throughout the Mississippi and Ohio River valleys. Many musicians carried their music north to Chicago, where they made it the heart of that city's jazz and blues. South Midland terms in northern Mississippi include: tow sack (burlap bag), dog irons (andirons), plum peach (clingstone peach), snake doctor (dragonfly), and stone wall (rock fence). The Magnolia Independent Film Festival, still held annually in Starkville, is the first and oldest in the state.
+\Predicted Summary:
+, the Mississippi River, which flows along and defines its western boundary . Mississippi is bordered to the north by Tennessee; to the east by Alabama; to the south by the Gulf of Mexico; to the southwest by Louisiana; and to the northwest by Arkansas . Mississippi is the 32nd largest and 34th-most populous of the 50 US states .
+
+GT:
+Gambling towns in Mississippi have attracted increased tourism: they include the Gulf Coast resort towns of Bay St. Louis, Gulfport and Biloxi, and the Mississippi River towns of Tunica (the third largest gaming area in the United States), Greenville, Vicksburg and Natchez. Before Hurricane Katrina struck the Gulf Coast, Mississippi was the second-largest gambling state in the Union, after Nevada and ahead of New Jersey. While Mississippi has been especially known for its music and literature, it has embraced other forms of art. Jackson established the USA International Ballet Competition, which is held every four years. The Magnolia Independent Film Festival, still held annually in Starkville, is the first and oldest in the state. Musicians of the state's Delta region were historically significant to the development of the blues. The state is creating a Mississippi Blues Trail, with dedicated markers explaining historic sites significant to the history of blues music, such as Clarksdale's Riverside Hotel, where Bessie Smith died after her auto accident on Highway 61. The Delta Blues Museum there is visited by tourists from all over the world. Elvis Presley, who created a sensation in the 1950s as a crossover artist and contributed to rock 'n' roll, was a native of Tupelo.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14009661835748793, 0.5087719298245614, 0.21969696969696975, 0.13731060606060608]
+[0.03398058252427184, 0.125, 0.0534351145038168, 0.033396946564885496]
+[0.08695652173913043, 0.3157894736842105, 0.13636363636363635, 0.08522727272727273]
+
+
+SBERT sim. Score: 0.4164194166660309

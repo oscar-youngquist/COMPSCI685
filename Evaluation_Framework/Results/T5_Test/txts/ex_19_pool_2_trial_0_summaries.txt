@@ -1,0 +1,21 @@
+Document:
+connecticut
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+As of the 2010 Census, it has the highest per-capita income, Human Development Index (0.962), and median household income in the United States. Connecticut is the third smallest state by area, the 29th most populous, and the fourth most densely populated of the fifty states. The state capital and fourth largest city is Hartford, and other major cities and towns (by population) include Bridgeport, New Haven, Stamford, Waterbury, Norwalk, Danbury, New Britain, Greenwich, and Bristol. Connecticut's rural areas and small towns in the northeast and northwest corners of the state contrast sharply with its industrial cities such as Stamford, Bridgeport, and New Haven, located along the coastal highways from the New York border to New London, then northward up the Connecticut River to Hartford. The average yearly snowfall ranges from about 60 inches (1,500 mm) in the higher elevations of the northern portion of the state to only 20–25 inches (510–640 mm) along the southeast coast of Connecticut (Branford to Groton). New Canaan is the wealthiest town in Connecticut, with a per capita income of $85,459. Connecticut does not have county government, unlike all other states except Rhode Island.
+\Predicted Summary:
+,,,, and the Long Island Sound. Connecticut is the southernmost state in the Northeastern United States. Connecticut is the third smallest state by area, the 29th most populous, and the fourth most densely populated of the fifty states. Connecticut is the third smallest state by area, the 29th most populous, and the fourth most densely populated of the fifty states.
+
+GT:
+As of the 2010 Census, it has the highest per-capita income, Human Development Index (0.962), and median household income in the United States. Connecticut's economic output in 2019 as measured by gross domestic product was $289 billion, up from $277.9 billion in 2018. According to a 2018 study by Phoenix Marketing International, Connecticut had the third-largest number of millionaires per capita in the United States, with a ratio of 7.75%. The median home sold in 2019 recorded a transaction amount of $260,000, up 0.4 percent from 2018. Finance, insurance and real estate was Connecticut's largest industry in 2018 as ranked by gross domestic product, generating $75.7 billion in GDP that year. Major financial industry employers include The Hartford, Travelers, Cigna, the Aetna subsidiary of CVS Health, Mass Mutual, People's United Financial, Bank of America, Realogy, Bridgewater Associates, GE Capital, William Raveis Real Estate, and Berkshire Hathaway through reinsurance and residential real estate subsidiaries.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1402439024390244, 0.3898305084745763, 0.20627802690582964, 0.12892376681614354]
+[0.03067484662576687, 0.08620689655172414, 0.04524886877828054, 0.02828054298642534]
+[0.10365853658536585, 0.288135593220339, 0.15246636771300448, 0.09529147982062781]
+
+
+SBERT sim. Score: 0.4163271188735962

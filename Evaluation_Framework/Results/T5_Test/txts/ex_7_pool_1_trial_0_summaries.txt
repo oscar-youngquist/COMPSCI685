@@ -1,0 +1,21 @@
+Document:
+michigan
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+With a population of approximately 10 million, Michigan is the tenth most populous state, the 11th most extensive state by area, and the largest by area east of the Mississippi River. Michigan is the leading auto-producing state in the US, with the industry primarily located throughout the Midwestern United States; Ontario, Canada; and the Southern United States. With almost ten million residents, Michigan is a large and influential state, ranking tenth in population among the fifty states. With 78 state parks, 19 state recreation areas, and six state forests, Michigan has the largest state park and state forest system of any state. A wide variety of commodity crops, fruits, and vegetables are grown in Michigan, making it second only to California among US states in the diversity of its agriculture. Livestock in the state included 78,000 sheep, a million cattle, a million hogs, and more than three million chickens. Hunting and fishing are significant industries in the state. The state has the highest number of golf courses and registered snowmobiles in the nation.
+\Predicted Summary:
+in the 17th century, it was claimed as part of new France colony . It was claimed as part of new France colony . the region was once part of the larger Northwest Territory .
+
+GT:
+Michigan typically ranks third or fourth in overall Research & development (R&D) expenditures in the US. As of 2002, Michigan ranked fourth in the US in high tech employment with 568,000 high tech workers, which includes 70,000 in the automotive industry. In 2008, Michigan placed third in a site selection survey among the states for luring new business which measured capital investment and new job creation per one million population. As leading research institutions, the University of Michigan, Michigan State University, and Wayne State University are important partners in the state's economy and its University Research Corridor. Michigan's workforce is well-educated and highly skilled, making it attractive to companies. Michigan's personal income tax is a flat rate of 4.25%. Michigan's state sales tax is 6%, though items such as food and medication are exempted.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08450704225352113, 0.375, 0.13793103448275862, 0.08620689655172414]
+[0.0070921985815602835, 0.03225806451612903, 0.011627906976744186, 0.007267441860465116]
+[0.06338028169014084, 0.28125, 0.10344827586206896, 0.0646551724137931]
+
+
+SBERT sim. Score: -0.08168888092041016

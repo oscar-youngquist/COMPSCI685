@@ -1,0 +1,21 @@
+Document:
+maine
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Maine ( (listen)) is a state in the New England region of the Northeastern United States, bordered by New Hampshire to the west; the Atlantic Ocean to the southeast; and the Canadian provinces of New Brunswick and Quebec to the northeast and northwest, respectively. Maine's Moosehead Lake is the largest lake wholly in New England, since Lake Champlain is located between Vermont, New York and Québec. The state's population density is 41.3 people per square mile, making it the least densely populated state east of the Mississippi River. Maine does not have an official language, but the most widely spoken language in the state is English. Commercial fishing, once a mainstay of the state's economy, maintains a presence, particularly lobstering and groundfishing. The state is a popular destination for sport hunting (particularly deer, moose and bear), sport fishing, snowmobiling, skiing, boating, camping and hiking, among other activities. Since 1860 there have been 16 counties in the state, ranging in size from 370 to 6,829 square miles (958 to 17,700 km2). The governmental format of most organized towns and plantations is the town meeting, while the format of most cities is the council-manager form. Administration, services, licensing, and ordinances are handled by the state government as well as by respective county governments who have townships within each county's bounds. The unorganized territory of Maine consists of more than 400 townships (towns are incorporated, townships are unincorporated), plus many coastal islands that do not lie within any municipal bounds. Only four of Maine's sixteen counties (Androscoggin, Cumberland, Waldo and York) are entirely incorporated, although a few others are nearly so, and most of the unincorporated area is in the vast and sparsely populated Great North Woods of Maine. Throughout Maine, many municipalities, although each separate governmental entities, nevertheless form portions of a much larger population base. UMaine was founded in 1865 and is the state's only land grant and sea grant college. Maine was a center of agriculture before it achieved statehood. The state is a major producer of potatoes, wild blueberries, apples, maple syrup and sweet corn. Since the 1980s, the state has gotten a reputation for its local food and restaurant meals.
+\Predicted Summary:
+the Popham Colony, established by the Plymouth Company in 1607 . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states . Maine is known for its jagged, rocky coastline; low, rolling mountains; heavily forested interior; picturesque waterways .
+
+GT:
+Maine has many vegetable farms and other small, diversified farms. In the 1960s and 1970s, the book "Living the Good Life" by Helen Nearing and Scott Nearing caused many young people to move to Maine and engage in small-scale farming and homesteading. Maine is home to the Maine Organic Farmers and Gardeners Association and had 535 certified organic farms in 2019. Since the 1980s, the state has gotten a reputation for its local food and restaurant meals. Portland was named Bon Appetit magazine's Restaurant City of the Year in 2018. The term "Mainiac" is considered by some to be derogatory, but embraced with pride by others, and is used for a variety of organizations and for events such as the YMCA Mainiac Sprint Triathlon & Duathlon.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14173228346456693, 0.375, 0.20571428571428574, 0.12857142857142856]
+[0.023809523809523808, 0.06382978723404255, 0.03468208092485549, 0.02167630057803468]
+[0.09448818897637795, 0.25, 0.13714285714285715, 0.08571428571428572]
+
+
+SBERT sim. Score: 0.353160560131073

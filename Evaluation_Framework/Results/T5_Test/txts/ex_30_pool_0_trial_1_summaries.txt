@@ -1,0 +1,21 @@
+Document:
+maryland
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The state harbors a considerable number of white-tailed deer, especially in the woody and mountainous west of the state, and overpopulation can become a problem. The economy's growth and prosperity was based on slave labor, devoted first to the production of tobacco as the commodity crop. In Maryland's four westernmost counties, industrial, railroad, and coal mining jobs declined. Maryland's economy benefits from the state's proximity to the federal government in Washington, D.C. with an emphasis on technical and administrative tasks for the defense/aerospace industry and bio-research laboratories, as well as staffing of satellite government headquarters in the suburban or exurban Baltimore/Washington area. Manufacturing, while large in dollar value, is highly diversified with no sub-sector contributing over 20 percent of the total. Mining other than construction materials is virtually limited to coal, which is located in the mountainous western part of the state. The state as a whole is heavily industrialized, with a booming economy and influential technology centers. Maryland's food-processing plants are the most significant type of manufacturing by value in the state.
+\Predicted Summary:
+, Maryland is a state in the Mid-Atlantic region of the Southern United States . Maryland is named after the English Queen Henrietta Maria, known in England as Queen Mary . MERR--lnd is a state in the Mid-Atlantic region of the Southern United States . it is named after the English Queen Henrietta Maria, known in England as Queen Mary .
+
+GT:
+As of 2015, Maryland had the highest median household income of any state, owing in large part to its proximity to Washington, D.C. and a highly diversified economy spanning manufacturing, services, higher education, and biotechnology. Maryland's economy benefits from the state's proximity to the federal government in Washington, D.C. with an emphasis on technical and administrative tasks for the defense/aerospace industry and bio-research laboratories, as well as staffing of satellite government headquarters in the suburban or exurban Baltimore/Washington area. Baltimore City is among the top 15 largest ports in the nation, and was one of six major US ports that were part of the February 2006 controversy over the Dubai Ports World deal. The state as a whole is heavily industrialized, with a booming economy and influential technology centers. Its computer industries are some of the most sophisticated in the United States, and the federal government has invested heavily in the area. Maryland is home to several large military bases and scores of high-level government jobs.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14942528735632185, 0.4406779661016949, 0.22317596566523606, 0.13948497854077255]
+[0.03468208092485549, 0.10344827586206896, 0.051948051948051945, 0.032467532467532464]
+[0.10919540229885058, 0.3220338983050847, 0.1630901287553648, 0.10193133047210302]
+
+
+SBERT sim. Score: 0.406765341758728

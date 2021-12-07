@@ -1,0 +1,21 @@
+Document:
+new_york
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+The next four most populous cities in the state are Buffalo, Rochester, Yonkers, and Syracuse, while the state capital is Albany. The New York City neighborhood of Harlem has historically been a major cultural capital for African-Americans of sub-Saharan descent, and Bedford-Stuyvesant in Brooklyn has the largest such population in the United States. The annual New York City India Day Parade, held on or approximately every August 15 since 1981, is the world's largest Indian Independence Day parade outside of India. Albany and the Mohawk Valley also have large communities of ethnic Italians and Irish Americans, reflecting 19th and early 20th-century immigration. Americans of English ancestry are present throughout all of upstate New York, reflecting early colonial and later immigrants. Native American religions are also a prominent minority. New York City, as well as the state's other major urban locales, including Albany, Buffalo, Rochester, Yonkers, and Syracuse, are significant Democratic strongholds, with liberal politics. Minor league baseball teams also play in the State of New York, including the Long Island Ducks, the Brooklyn Cyclones, and the Staten Island Yankees downstate, and the Rochester Red Wings, the Binghamton Rumble Ponies, the Syracuse Mets, the Auburn Doubledays, the Batavia Muckdogs, the Hudson Valley Renegades and the Buffalo Bisons upstate.
+\Predicted Summary:
+the first Europeans arrived southward from New York to New York . New York is a state in the northeastern United States. It was one of the original thirteen colonies, forming the United States. New York is the 27th largest state. With an estimated population of 8.34 million as of 2019 makes it the fourth most populous city in the world. New York is the most populous city in the world.
+
+GT:
+The New York City neighborhood of Harlem has historically been a major cultural capital for African-Americans of sub-Saharan descent, and Bedford-Stuyvesant in Brooklyn has the largest such population in the United States. Long Island, including Queens and Nassau County, is also home to several Little Indias (लघु भारत) and a large Koreatown (롱 아일랜드 코리아타운), with large and growing attendant populations of Indian Americans and Korean Americans, respectively. The annual New York City India Day Parade, held on or approximately every August 15 since 1981, is the world's largest Indian Independence Day parade outside of India. In New York City, the Stonewall 50–WorldPride NYC 2019 events produced by Heritage of Pride were enhanced through a partnership made with the I LOVE NY program's LGBT division and included a welcome center during the weeks surrounding the Stonewall 50 / WorldPride events that was open to all. Additional commemorative arts, cultural, and educational programing to mark the 50th anniversary of the rebellion at the Stonewall Inn took place throughout the city and the world; Stonewall 50 – WorldPride NYC 2019 was the largest LGBT pride celebration held in history, drawing an estimated five million people. Brooklyn Liberation March, the largest transgender-rights demonstration in LGBTQ history, took place on June 14, 2020 stretching from Grand Army Plaza to Fort Greene, Brooklyn, focused on supporting Black transgender lives, drawing an estimated 15,000 to 20,000 participants.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1759656652360515, 0.5774647887323944, 0.26973684210526316, 0.16858552631578946]
+[0.05172413793103448, 0.17142857142857143, 0.07947019867549669, 0.049668874172185434]
+[0.10300429184549356, 0.3380281690140845, 0.15789473684210525, 0.09868421052631579]
+
+
+SBERT sim. Score: 0.31071004271507263

@@ -1,0 +1,21 @@
+Document:
+maine
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Maine ( (listen)) is a state in the New England region of the Northeastern United States, bordered by New Hampshire to the west; the Atlantic Ocean to the southeast; and the Canadian provinces of New Brunswick and Quebec to the northeast and northwest, respectively. Maine's Moosehead Lake is the largest lake wholly in New England, since Lake Champlain is located between Vermont, New York and Québec. The state is a popular destination for sport hunting (particularly deer, moose and bear), sport fishing, snowmobiling, skiing, boating, camping and hiking, among other activities. Maine was a center of agriculture before it achieved statehood. The state is a major producer of potatoes, wild blueberries, apples, maple syrup and sweet corn. Since the 1980s, the state has gotten a reputation for its local food and restaurant meals.
+\Predicted Summary:
+the Popham Colony, established by the Plymouth Company in 1607 . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states . Maine is known for its jagged, rocky coastline; low, rolling mountains; heavily forested interior; picturesque waterways .
+
+GT:
+Acadia National Park is the only national park in New England. Tourism and outdoor recreation play a major and increasingly important role in Maine's economy. The state is a popular destination for sport hunting (particularly deer, moose and bear), sport fishing, snowmobiling, skiing, boating, camping and hiking, among other activities. On November 6, 2012, Maine, along with Maryland and Washington, became the first state to legalize same-sex marriage at the ballot box. Since the 1980s, the state has gotten a reputation for its local food and restaurant meals. Portland was named Bon Appetit magazine's Restaurant City of the Year in 2018.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15384615384615385, 0.3333333333333333, 0.21052631578947367, 0.13157894736842105]
+[0.02912621359223301, 0.06382978723404255, 0.04, 0.024999999999999998]
+[0.10576923076923077, 0.22916666666666666, 0.14473684210526316, 0.09046052631578948]
+
+
+SBERT sim. Score: 0.39635169506073

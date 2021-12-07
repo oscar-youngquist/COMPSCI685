@@ -1,0 +1,21 @@
+Document:
+colorado
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+The largest denominations by number of adherents in 2010 were the Catholic Church with 811,630; non-denominational Evangelical Protestants with 229,981; and The Church of Jesus Christ of Latter-day Saints with 151,433. The state generated tax, fee, and license revenue of $194 million in 2016 on legal marijuana sales. Most Coloradans are native to other states (nearly 60% according to the 2000 census), and this is illustrated by the fact that the state did not have a native-born governor from 1975 (when John David Vanderhoof left office) until 2007, when Bill Ritter took office; his election the previous year marked the first electoral victory for a native-born Coloradan in a gubernatorial race since 1958 (Vanderhoof had ascended from the Lieutenant Governorship when John Arthur Love was given a position in Richard Nixon's administration in 1973). The state of Colorado currently has 271 active incorporated municipalities, including 196 towns, 73 cities, and two consolidated city and county governments. Colorado has one town with a territorial charter, 160 statutory towns, 12 statutory cities, 96 home rule municipalities (61 cities and 35 towns), and two consolidated city and county governments. In addition to its 271 municipalities, Colorado has 187 unincorporated Census Designated Places and many other small communities.
+\Predicted Summary:
+, the Colorado River, which early Spanish explorers named the Ro Colorado ("Red River") for the ruddy silt the river carried from the mountains . Colorado is the 8th most extensive and 21st most populous US state . the estimated population of Colorado is 5,758,736 as of 2019, an increase of 14.5% since the 2010 United States Census .
+
+GT:
+In 2006 voters passed Amendment 43, which purported to ban gay marriage in Colorado. That initiative was nullified by the US Supreme Court's 2015 decision in Obergefell v. Hodges. In 2012, voters amended the state constitution protecting "personal use" of marijuana for adults, establishing a framework to regulate cannabis in a manner similar to alcohol. The first recreational marijuana shops in Colorado, and by extension the United States, opened their doors on January 1, 2014. On May 29, 2019, Governor Jared Polis signed House Bill 1124 immediately prohibiting law enforcement officials in Colorado from holding undocumented immigrants solely on the basis of a request from US Immigration and Customs Enforcement. Colorado is home to 4 national parks, 8 national monuments, 2 national recreation areas, 2 national historic sites, 3 national historic trails, a national scenic trail, 11 national forests, 2 national grasslands, 42 national wilderness areas, 2 national conservation areas, 8 national wildlife refuges, 44 state parks, 307 state wildlife areas, and numerous other scenic, historic, and recreational areas.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12941176470588237, 0.3793103448275862, 0.1929824561403509, 0.12061403508771931]
+[0.011834319526627219, 0.03508771929824561, 0.017699115044247787, 0.011061946902654867]
+[0.07647058823529412, 0.22413793103448276, 0.11403508771929827, 0.0712719298245614]
+
+
+SBERT sim. Score: 0.34548887610435486

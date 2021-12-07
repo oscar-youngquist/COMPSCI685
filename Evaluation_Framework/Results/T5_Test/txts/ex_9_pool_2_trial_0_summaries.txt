@@ -1,0 +1,21 @@
+Document:
+california
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+California is also the most populated subnational entity in North America, and has its state capital in Sacramento. Although it accounts for only 1.5% of the state's economy, California's agriculture industry has the highest output of any US state. California is the third-largest state in the United States in area, after Alaska and Texas. According to estimates from 2011, California has the largest minority population in the United States by numbers, making up 60% of the state population. California, with 12% of the United States population, has one-third of the nation's welfare recipients. California has the third highest per capita spending on welfare among the states, as well as the highest spending on welfare at $6.67 billion. However because of its high energy rates, conservation mandates, mild weather in the largest population centers and strong environmental movement, its per capita energy use is one of the smallest of any state in the United States. As of the 2016 presidential election, California was the second most Democratic state behind Hawaii.
+\Predicted Summary:
+, and the San Francisco Bay Area are the nation's second- and fifth-most-populous urban regions . California is considered the origin of the hippie counterculture, beach and car culture, the Internet, the Internet, and the internet . California is considered the origin of the hippie counterculture, beach and car culture, the Internet, the Internet, and the internet .
+
+GT:
+California is also the most populated subnational entity in North America, and has its state capital in Sacramento. California's economy, with a gross state product of $3.2 trillion as of 2019, is the largest sub-national economy in the world. California is considered a global trendsetter in popular culture, communication, information, innovation, environmentalism, economics, politics, and entertainment. As a result of the state's diversity and migration, California integrates foods, languages, and traditions from other areas across the country and around the globe. It is considered the origin of the hippie counterculture, beach and car culture, the Internet, and the personal computer, among others. Although most of the state has a Mediterranean climate, due to the state's large size the climate ranges from polar to subtropical. California is one of the richest and most diverse parts of the world, and includes some of the most endangered ecological communities. California has long been a subject of interest in the public mind and has often been promoted by its boosters as a kind of paradise. The California Gold Rush of the 1850s is still seen as a symbol of California's economic style, which tends to generate technology, social, entertainment, and economic fads and booms and related busts. Hollywood and the rest of the Los Angeles area is a major global center for entertainment, with the US film industry's "Big Five" major film studios (Columbia, Disney, Paramount, Universal, and Warner Bros.) being based in or around the area. A Pew Research Center survey revealed that California is somewhat less religious than the rest of the states: 62 percent of Californians say they are "absolutely certain" of their belief in God, while in the nation 71 percent say so. California is also home to such notable private universities as Stanford University, the University of Southern California, the California Institute of Technology, and the Claremont Colleges. California's economy ranks among the largest in the world. Los Angeles International Airport (LAX), the 4th busiest airport in the world in 2018, and San Francisco International Airport (SFO), the 25th busiest airport in the world in 2018, are major hubs for trans-Pacific and transcontinental traffic.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11538461538461539, 0.7368421052631579, 0.1995249406175772, 0.12470308788598575]
+[0.06611570247933884, 0.42857142857142855, 0.11455847255369929, 0.07159904534606205]
+[0.09065934065934066, 0.5789473684210527, 0.15676959619952494, 0.0979809976247031]
+
+
+SBERT sim. Score: 0.6389803886413574

@@ -1,0 +1,21 @@
+Document:
+minnesota
+
+Intent:
+How is the government structured in this state?
+
+Input:
+As with the federal government of the United States, power in Minnesota is divided into three branches: executive, legislative, and judicial. The executive branch is headed by the governor. The governor has a cabinet consisting of the leaders of various state government agencies, called commissioners. The other elected constitutional offices are secretary of state, attorney general, and state auditor. The Minnesota Legislature is a bicameral body consisting of the Senatorte and the House of Representatives. In addition to the city and county levels of government found in the United States, Minnesota has other entities that provide governmental oversight and planning. The state has eight congressional districts; they are represented by Jim Hagedorn (1st district; R), Angie Craig (2nd; DFL), Dean Phillips (3rd; DFL), Betty McCollum (4th; DFL), Ilhan Omar (5th; DFL), Tom Emmer (6th; R), Michelle Fischbach (7th; R), and Pete Stauber (8th; R). In the 2010 election, Republicans took control of both chambers of the Minnesota legislature for the first time in 38 years and, with Mark Dayton's election, the DFL party took the governor's office for the first time in 20 years.
+\Predicted Summary:
+,,, and the North Woods, used for mining, forestry, and recreation. Minnesota is a center of the Upper Midwest, Great Lakes, and northern region of the United States . Minnesota is the 12th largest in area and the 22nd most populous of the US states .
+
+GT:
+As with the federal government of the United States, power in Minnesota is divided into three branches: executive, legislative, and judicial. The executive branch is headed by the governor. Governor Tim Walz, DFL (Democratic–Farmer–Labor), took office on January 7, 2019. The governor has a cabinet consisting of the leaders of various state government agencies, called commissioners. The other elected constitutional offices are secretary of state, attorney general, and state auditor. The Minnesota Legislature is a bicameral body consisting of the Senatorte and the House of Representatives. The state has 67 districts, each with about 60,000 people. Each district has one senator and two representatives, each senatorial district being divided into A and B sections for members of the House. Senatortors serve for four years and representatives for two years. Minnesota's court system has three levels. Most cases start in the district courts, which are courts of general jurisdiction. There are 279 district court judgeships in ten judicial districts. Appeals from the trial courts and challenges to certain governmental decisions are heard by the Minnesota Court of Appeals, consisting of 19 judges who typically sit in three-judge panels. The seven-justice Minnesota Supreme Court hears all appeals from the tax court, the workers' compensation court of appeals, first-degree murder convictions, and discretionary appeals from the court of appeals; it also has original jurisdiction over election disputes.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1038961038961039, 0.5581395348837209, 0.17518248175182483, 0.10948905109489052]
+[0.034782608695652174, 0.19047619047619047, 0.05882352941176471, 0.036764705882352935]
+[0.08225108225108226, 0.4418604651162791, 0.13868613138686134, 0.08667883211678833]
+
+
+SBERT sim. Score: 0.4611714482307434

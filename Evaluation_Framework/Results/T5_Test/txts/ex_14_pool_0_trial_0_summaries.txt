@@ -1,0 +1,21 @@
+Document:
+mississippi
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Mississippi is the 32nd largest and 34th-most populous of the 50 US states. Greater Jackson is the state's most populous metropolitan area, with an estimated population of 580,166 in 2018. By 1860, Mississippi was the nation's top cotton-producing state and enslaved persons accounted for 55% of the state population. With large areas of agriculture and rural towns, Mississippi frequently ranks low among states in measures of health, education, and development, and high in measures of poverty. The rest of the state, primarily north of Interstate 20 not including the prairie regions, consists of mixed pine-hardwood forest, common species being loblolly pine, oaks (e.g., water oak), hickories, sweetgum, and elm. The state capital, Jackson, ranks tenth in the nation in concentration of African-American same-sex couples. The state ranks fifth in the nation in the percentage of Hispanic same-sex couples among all Hispanic households and ninth in the highest concentration of same-sex couples who are seniors. The state is ranked 50th or last place among all the states for health care, according to the Commonwealth Fund, a nonprofit foundation working to advance performance of the health care system. Mississippi's rank as one of the poorest states is related to its dependence on cotton agriculture before and after the Civil War, late development of its frontier bottomlands in the Mississippi Delta, repeated natural disasters of flooding in the late 19th and early 20th century that required massive capital investment in levees, and ditching and draining the bottomlands, and slow development of railroads to link bottomland towns and river cities. In 2012, Mississippi had the sixth largest gambling revenue of any state, with $2.25 billion.
+\Predicted Summary:
+, the Mississippi River, which flows along and defines its western boundary . Mississippi is bordered to the north by Tennessee; to the east by Alabama; to the south by the Gulf of Mexico; to the southwest by Louisiana; and to the northwest by Arkansas . Mississippi is the 32nd largest and 34th-most populous of the 50 US states .
+
+GT:
+Mississippi ( (listen)) is a state in the Deep South region of the Southern United States, bordered to the north by Tennessee; to the east by Alabama; to the south by the Gulf of Mexico; to the southwest by Louisiana; and to the northwest by Arkansas. Mississippi's rank as one of the poorest states is related to its dependence on cotton agriculture before and after the Civil War, late development of its frontier bottomlands in the Mississippi Delta, repeated natural disasters of flooding in the late 19th and early 20th century that required massive capital investment in levees, and ditching and draining the bottomlands, and slow development of railroads to link bottomland towns and river cities. Largely due to the domination of the plantation economy, focused on the production of agricultural cotton, the state's elite was reluctant to invest in infrastructure such as roads and railroads. The legislature's 1990 decision to legalize casino gambling along the Mississippi River and the Gulf Coast has led to increased revenues and economic gains for the state. Gambling towns in Mississippi have attracted increased tourism: they include the Gulf Coast resort towns of Bay St. Louis, Gulfport and Biloxi, and the Mississippi River towns of Tunica (the third largest gaming area in the United States), Greenville, Vicksburg and Natchez. In 2012, Mississippi had the sixth largest gambling revenue of any state, with $2.25 billion. The federally recognized Mississippi Band of Choctaw Indians has established a gaming casino on its reservation, which yields revenue to support education and economic development. Mississippi, like the rest of its southern neighbors, is a right-to-work state. It has some major automotive factories, such as the Toyota Mississippi Plant in Blue Springs and a Nissan Automotive plant in Canton.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1598639455782313, 0.8245614035087719, 0.2678062678062678, 0.1673789173789174]
+[0.11262798634812286, 0.5892857142857143, 0.18911174785100285, 0.11819484240687679]
+[0.1360544217687075, 0.7017543859649122, 0.22792022792022792, 0.14245014245014245]
+
+
+SBERT sim. Score: 0.6882524490356445

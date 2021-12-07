@@ -1,0 +1,21 @@
+Document:
+michigan
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+With a population of approximately 10 million, Michigan is the tenth most populous state, the 11th most extensive state by area, and the largest by area east of the Mississippi River. Michigan is the leading auto-producing state in the US, with the industry primarily located throughout the Midwestern United States; Ontario, Canada; and the Southern United States. With almost ten million residents, Michigan is a large and influential state, ranking tenth in population among the fifty states. Agriculture also serves a significant role, making the state a leading grower of fruit in the US, including blueberries, cherries, apples, grapes, and peaches. Lansing is the state capital and is home to all three branches of state government. The state has numerous large islands, the principal ones being the North Manitou and South Manitou, Beaver, and Fox groups in Lake Michigan; Isle Royale and Grande Isle in Lake Superior; Marquette, Bois Blanc, and Mackinac islands in Lake Huron; and Neebish, Sugar, and Drummond islands in St. Mary's River. With 78 state parks, 19 state recreation areas, and six state forests, Michigan has the largest state park and state forest system of any state. A wide variety of commodity crops, fruits, and vegetables are grown in Michigan, making it second only to California among US states in the diversity of its agriculture. Livestock in the state included 78,000 sheep, a million cattle, a million hogs, and more than three million chickens. The state has the highest number of golf courses and registered snowmobiles in the nation.
+\Predicted Summary:
+in the 17th century, it was claimed as part of new France colony . It was claimed as part of new France colony . the region was once part of the larger Northwest Territory .
+
+GT:
+Metro Detroit is among the nation's most populous and largest metropolitan economies. Michigan voters commonly elect candidates from both major parties, and it is generally regarded as a "swing" state which can be won by either Democratic or Republican presidential candidates. The southern and central parts of the Lower Peninsula (south of Saginaw Bay and from the Grand Rapids area southward) have a warmer climate (Köppen climate classification Dfa) with hot summers and cold winters. The US Bureau of Economic Analysis estimated Michigan's Q3 2018 gross state product to be $538 billion, ranking 14th out of the 50 states. As of 2002, Michigan ranked fourth in the US in high tech employment with 568,000 high tech workers, which includes 70,000 in the automotive industry. Destinations draw vacationers, hunters, and nature enthusiasts from across the United States and Canada.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07692307692307693, 0.34375, 0.12571428571428572, 0.07857142857142857]
+[0.02112676056338028, 0.0967741935483871, 0.034682080924855495, 0.02167630057803468]
+[0.06293706293706294, 0.28125, 0.10285714285714287, 0.0642857142857143]
+
+
+SBERT sim. Score: -0.01421244814991951

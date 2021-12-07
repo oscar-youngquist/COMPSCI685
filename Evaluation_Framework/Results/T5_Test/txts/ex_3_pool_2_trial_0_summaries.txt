@@ -1,0 +1,21 @@
+Document:
+utah
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Utah is the only state where a majority of the population belongs to a single church. The state has a highly diversified economy, with major sectors including transportation, education, information technology and research, government services, mining; it is also a major tourist destination for outdoor recreation. According to results from the 2010 United States Census, combined with official LDS Church membership statistics, church members represented 62.1% of Utah's total population. The state of Utah relies heavily on income from tourists and travelers visiting the state's parks and ski resorts, and thus the need to "brand" Utah and create an impression of the state throughout the world has led to several state slogans, the most famous of which being "The Greatest Snow on Earth", which has been in use in Utah officially since 1975 (although the slogan was in unofficial use as early as 1962) and now adorns nearly 50 percent of the state's license plates. The state's most Republican areas tend to be Utah County, which is the home to Brigham Young University in the city of Provo, and nearly all the rural counties. Utah's population is concentrated in two areas, the Wasatch Front in the north-central part of the state, with over 2.6 million residents; and Washington County, in southwestern Utah, locally known as "Dixie", with more than 175,000 residents in the metropolitan area.
+\Predicted Summary:
+is a state in the Western United States. It is bordered by Colorado to the east, Wyoming to the northeast, Idaho to the north, Arizona to the south and Nevada to the west. Utah is the 13th-largest by area; with a population over three million, it is the 30th-most-populous and 11th-least-densely populated. Disputes between the dominant Mormon community and the federal government delayed the state's admission as a state.
+
+GT:
+About 80% of Utah's Legislature are members of The Church of Jesus Christ of Latter-day Saints, while members account for 61 percent of the population. Since becoming a state in 1896, Utah has had only two non-Mormon governors. In 2006, the legislature passed legislation aimed at banning joint-custody for a non-biological parent of a child. The custody measure passed the legislature and was vetoed by the governor, a reciprocal benefits supporter. Utah is the setting of or the filming location for many books, films, television series, music videos, and video games. Utah's capitol Salt Lake City is the final location in the video game The Last of Us.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.21929824561403508, 0.3333333333333333, 0.2645502645502646, 0.16534391534391535]
+[0.05309734513274336, 0.08108108108108109, 0.06417112299465241, 0.04010695187165775]
+[0.14035087719298245, 0.21333333333333335, 0.1693121693121693, 0.10582010582010581]
+
+
+SBERT sim. Score: 0.5793930292129517

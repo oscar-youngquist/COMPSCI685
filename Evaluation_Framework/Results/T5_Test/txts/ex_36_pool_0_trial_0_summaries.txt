@@ -1,0 +1,21 @@
+Document:
+west_virginia
+
+Intent:
+What drives the economy in this state?
+
+Input:
+West Virginia is the 41st-largest state by area and ranks 38th in population, with around 1.791 million residents. The state is noted for its mountains and rolling hills, its historically significant logging and coal mining industries, and its political and labor history. Most pro-statehood votes came from 16 counties around the Northern panhandle. The "capital" of the Pocahontas coalfield, this city would remain the largest city in the southern portion of the state for several decades. The native vegetation for most of the state was originally mixed hardwood forest of oak, chestnut, maple, beech, and white pine, with willow and American sycamore along the state's waterways. Tourism contributed $4.27 billion to the state's economy and employed 44,400 people in 2010, making it one of the state's largest industries. In addition to such outdoor recreation opportunities, the state offers a number of historic and cultural attractions. According to the Energy Information Administration, West Virginia is a top coal-producer in the United States, second only to Wyoming. As of 2017, the coal industry accounted for 2% of state employment. West Virginia produces a surplus of electricity and leads the Nation in net interstate electricity exports. The state's consumer sales tax is levied at 6% on most products except for non-prepared foods. The state lost 5,600 jobs in its labor force in four critical economic sectors: construction (1,900), manufacturing (1,100), retail (1,800), and education (800), while gaining just 400 in mining and logging. Four of the five counties with the highest rates of drug-induced deaths are in West Virginia (McDowell, Wyoming, Cabell and Raleigh Counties).
+\Predicted Summary:
+is a state in the Appalachian and Mid-Atlantic regions of the Southern United States . West Virginia is the 41st-largest state by area and ranks 38th in population . it is bordered by Pennsylvania to the northeast, Maryland to the east and northeast, Kentucky to the southeast, and Ohio to the northwest .
+
+GT:
+Through the first half of 2010, exports from West Virginia topped $3 billion, growing 39.5% over the same period from the previous year and ahead of the national average by 15.7%. The net corporate income tax rate is 6.5% while business costs are 13% below the national average. Tourism contributed $4.27 billion to the state's economy and employed 44,400 people in 2010, making it one of the state's largest industries. One of the major resources in West Virginia's economy is coal. Citizens are taxed within five income brackets, which range from 3.0% to 6.5%. The state's consumer sales tax is levied at 6% on most products except for non-prepared foods. West Virginia coal exports declined 40% in 2013—a loss of $2.9 billion and overall total exports declined 26%.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.19014084507042253, 0.5192307692307693, 0.27835051546391754, 0.17396907216494845]
+[0.02127659574468085, 0.058823529411764705, 0.03125, 0.01953125]
+[0.1056338028169014, 0.28846153846153844, 0.15463917525773196, 0.09664948453608248]
+
+
+SBERT sim. Score: 0.49488621950149536

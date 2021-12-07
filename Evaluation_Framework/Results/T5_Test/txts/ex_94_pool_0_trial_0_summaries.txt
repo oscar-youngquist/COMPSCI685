@@ -1,0 +1,21 @@
+Document:
+rhode_island
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The charter apportioned legislative seats equally among the state's towns, over-representing rural areas and under-representing the growing industrial centers. In 1842, the charter government and Dorr's supporters held separate elections, and two rival governments claimed sovereignty over the state. The state's current governor is Gina Raimondo (D), and the lieutenant governor is Daniel McKee (D). The state legislature is the Rhode Island General Assembly, consisting of the 75-member House of Representatives and the 38-member Senatorte. Both houses of the bicameral body are currently dominated by the Democratic Party; the presence of the Republican Party is minor in the state government, with Republicans holding a handful of seats in both the Senatorte and House of Representatives. The entire state is divided into municipalities, which handle all local government affairs.
+\Predicted Summary:
+, Rhode Island, was the first of the Thirteen Colonies to renounce its allegiance to the British Crown . Rhode Island is the smallest US state by area and the seventh least populous (1,059,361 as of 2019) but is also the second most densely populated behind New Jersey . the state's official name is "The Ocean State", a reference to the large bays and inlets that amount to about 14 percent of its total area .
+
+GT:
+The capital of Rhode Island is Providence. Rhode Island is one of a few states that do not have an official governor's residence. The state legislature is the Rhode Island General Assembly, consisting of the 75-member House of Representatives and the 38-member Senatorte. Both houses of the bicameral body are currently dominated by the Democratic Party; the presence of the Republican Party is minor in the state government, with Republicans holding a handful of seats in both the Senatorte and House of Representatives. Rhode Island's population barely crosses the threshold beyond the minimum of three for additional votes in both the federal House of Representatives and Electoral College; it is well represented relative to its population, with the eighth-highest number of electoral votes and second-highest number of House Representatives per resident. Federally, Rhode Island is a reliably Democratic state during presidential elections, usually supporting the Democratic presidential nominee.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.22077922077922077, 0.4533333333333333, 0.296943231441048, 0.18558951965065504]
+[0.0457516339869281, 0.0945945945945946, 0.06167400881057269, 0.03854625550660793]
+[0.13636363636363635, 0.28, 0.18340611353711792, 0.1146288209606987]
+
+
+SBERT sim. Score: 0.6290298104286194

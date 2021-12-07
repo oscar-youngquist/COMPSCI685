@@ -1,0 +1,21 @@
+Document:
+nevada
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+In Douglas, Mineral, and Pershing counties, a plurality of residents are of Mexican ancestry. The city now has one of America's most prolific Asian American communities, with a mostly Chinese and Taiwanese area known as "Chinatown" west of I-15 on Spring Mountain Road. The culture of these places differs significantly from major metropolitan areas. People in these rural counties tend to be native Nevada residents, unlike in the Las Vegas and Reno areas, where the vast majority of the population was born in another state. Resort areas like Las Vegas, Reno, Lake Tahoe, and Laughlin attract visitors from around the nation and world. The state is ranked just below California, Texas, Florida, and New York in the total number of rooms, but those states have much larger populations. The state's involvement in major-college sports is not limited to its local schools. In the 21st century, the Las Vegas area has become a significant regional center for college basketball conference tournaments. The state is also home to the Las Vegas Motor Speedway, which hosts NASCAR's Pennzoil 400 and South Point 400.
+\Predicted Summary:
+is a state in the Western United States. Nevada is bordered by Oregon to the northwest, Idaho to the northeast, California to the west, and Arizona to the southeast . Nevada is the 7th-most extensive, but the 9th-least densely populated of the US states . Nevada is officially known as the "Silver State" because of the importance of silver to its history and economy .
+
+GT:
+Nevada is officially known as the "Silver State" because of the importance of silver to its history and economy. The Nevada Test Site, 65 miles (105 km) northwest of the city of Las Vegas, was founded on January 11, 1951, for the testing of nuclear weapons. Resort areas like Las Vegas, Reno, Lake Tahoe, and Laughlin attract visitors from around the nation and world. Nevada has by far the most hotel rooms per capita in the United States. Although prostitution is not a major part of the Nevada economy, employing roughly 300 women as independent contractors, it is a very visible endeavor. Las Vegas has hosted several professional boxing matches, most recently at the MGM Grand Garden Arena with bouts such as Mike Tyson vs. Evander Holyfield, Evander Holyfield vs. Mike Tyson II, Oscar De La Hoya vs. Floyd Mayweather and Oscar De La Hoya vs. Manny Pacquiao and at the newer T-Mobile Arena with Canelo Álvarez vs. Amir Khan. Along with significant rises in popularity in mixed martial arts (MMA), a number of fight leagues such as the UFC have taken interest in Las Vegas as a primary event location due to the number of suitable host venues.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.205, 0.640625, 0.3106060606060606, 0.19412878787878787]
+[0.11557788944723618, 0.36507936507936506, 0.17557251908396945, 0.1097328244274809]
+[0.115, 0.359375, 0.17424242424242425, 0.10890151515151517]
+
+
+SBERT sim. Score: 0.524780809879303

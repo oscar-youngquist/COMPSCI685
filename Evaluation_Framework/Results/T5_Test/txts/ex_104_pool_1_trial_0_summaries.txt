@@ -1,0 +1,21 @@
+Document:
+arizona
+
+Intent:
+What drives the economy in this state?
+
+Input:
+It is the 6th largest and the 14th most populous of the 50 states. Arizona shares the Four Corners region with Utah, Colorado, and New Mexico; its other neighboring states are Nevada and California to the west and the Mexican states of Sonora and Baja California to the south and southwest. Northern Arizona features forests of pine, Douglas fir, and spruce trees; the Colorado Plateau; mountain ranges (such as the San Francisco Mountains); as well as large, deep canyons, with much more moderate summer temperatures and significant winter snowfalls. About one-quarter of the state is made up of Indian reservations that serve as the home of 27 federally recognized Native American tribes, including the Navajo Nation, the largest in the state and the United States, with more than 300,000 citizens. The boom and bust economy of mining also left hundreds of ghost towns across the territory, but copper mining continued to prosper with the territory producing more copper than any other state by 1907, which earned Arizona the nickname "the Copper State" at the time of statehood. Cotton farming and copper mining, two of Arizona's most important statewide industries, suffered heavily during the Great Depression. Tucson, with a metro population of just over one million, is the state's second-largest city. With 212,635 residents, this cluster of towns is the state's third largest metropolitan area. The composition of the state's economy is moderately diverse; although health care, transportation and the government remain the largest sectors. Early in its history, Arizona's economy relied on the "five C's": copper (see Copper mining in Arizona), cotton, cattle, citrus, and climate (tourism). Copper is still extensively mined from many expansive open-pit and underground mines, accounting for two-thirds of the nation's output. The state government is Arizona's largest employer, while Banner Health is the state's largest private employer, with more than 39,000 employees (2016). Maricopa County is home to almost 60 percent of the state's population, and most of the state's elected officials live there.
+\Predicted Summary:
+,,, meaning "small spring" onak, meaning "small spring" al onak, meaning "small spring" to the European settlers . Arizona shares the Four Corners region with Utah, Colorado, and New Mexico . Arizona shares the Four Corners region with Utah, Colorado, and the Mountain states .
+
+GT:
+The composition of the state's economy is moderately diverse; although health care, transportation and the government remain the largest sectors. The state's per capita income is $40,828, ranking 39th in the US The state had a median household income of $50,448, making it 22nd in the country and just below the US national mean. Early in its history, Arizona's economy relied on the "five C's": copper (see Copper mining in Arizona), cotton, cattle, citrus, and climate (tourism). Copper is still extensively mined from many expansive open-pit and underground mines, accounting for two-thirds of the nation's output. The state government is Arizona's largest employer, while Banner Health is the state's largest private employer, with more than 39,000 employees (2016). As of August 2020, the state's unemployment rate was 5.9%. The largest employment sectors in Arizona are (August 2020, Nonfarm Employment):
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0718954248366013, 0.2682926829268293, 0.1134020618556701, 0.07087628865979381]
+[0.006578947368421052, 0.025, 0.010416666666666666, 0.006510416666666666]
+[0.058823529411764705, 0.21951219512195122, 0.09278350515463918, 0.05798969072164949]
+
+
+SBERT sim. Score: 0.3162655532360077

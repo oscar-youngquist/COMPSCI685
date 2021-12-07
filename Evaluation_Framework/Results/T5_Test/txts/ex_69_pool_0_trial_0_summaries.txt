@@ -1,0 +1,21 @@
+Document:
+west_virginia
+
+Intent:
+What drives the economy in this state?
+
+Input:
+West Virginia is the 41st-largest state by area and ranks 38th in population, with around 1.791 million residents. The state is noted for its mountains and rolling hills, its historically significant logging and coal mining industries, and its political and labor history. The "capital" of the Pocahontas coalfield, this city would remain the largest city in the southern portion of the state for several decades. West Virginia is also one of the cloudiest states in the nation, with the cities of Elkins and Beckley ranking 9th and 10th in the US respectively for the number of cloudy days per year (over 210). The US Bureau of Economic Analysis reported that in 2014 West Virginia's economy grew twice as fast as the next fastest growing state east of the Mississippi River, ranking third alongside Wyoming and just behind North Dakota and Texas among the fastest growing states in the United States. Tourism contributed $4.27 billion to the state's economy and employed 44,400 people in 2010, making it one of the state's largest industries. In addition to such outdoor recreation opportunities, the state offers a number of historic and cultural attractions. According to the Energy Information Administration, West Virginia is a top coal-producer in the United States, second only to Wyoming. As of 2017, the coal industry accounted for 2% of state employment. West Virginia produces a surplus of electricity and leads the Nation in net interstate electricity exports. The state issued a report highlighting the state's GDP as indicating a fast-growing economy, but did not address employment indicators. The state lost 5,600 jobs in its labor force in four critical economic sectors: construction (1,900), manufacturing (1,100), retail (1,800), and education (800), while gaining just 400 in mining and logging. West Virginia is also home to several professional minor league baseball, football, soccer, and other sports teams.
+\Predicted Summary:
+is a state in the Appalachian and Mid-Atlantic regions of the Southern United States . West Virginia is the 41st-largest state by area and ranks 38th in population . it is bordered by Pennsylvania to the northeast, Maryland to the east and northeast, Kentucky to the southeast, and Ohio to the northwest .
+
+GT:
+The state has a projected nominal GSP of $63.34 billion in 2009 according to the Bureau of Economic Analysis report of November 2010, and a real GSP of $55.04 billion. Through the first half of 2010, exports from West Virginia topped $3 billion, growing 39.5% over the same period from the previous year and ahead of the national average by 15.7%. Tourism contributed $4.27 billion to the state's economy and employed 44,400 people in 2010, making it one of the state's largest industries. In addition to such outdoor recreation opportunities, the state offers a number of historic and cultural attractions. One of the major resources in West Virginia's economy is coal. According to the Energy Information Administration, West Virginia is a top coal-producer in the United States, second only to Wyoming. West Virginia is located in the heart of the Marcellus Shale Natural Gas Bed, which stretches from Tennessee north to New York in the middle of Appalachia. As of 2017, the coal industry accounted for 2% of state employment. West Virginia produces a surplus of electricity and leads the Nation in net interstate electricity exports. West Virginia has the potential to generate 4,952 GWh/year from 1,883 MW of wind power, using 80 meter high wind turbines, or 8,627 GWh/year from 2,772 MW of 100 meter wind turbines, and 60,000 GWh from 40,000 MW of photovoltaics, including 3,810 MW of rooftop photovoltaics.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12350597609561753, 0.5961538461538461, 0.20462046204620463, 0.12788778877887788]
+[0.036, 0.17647058823529413, 0.05980066445182724, 0.03737541528239203]
+[0.08764940239043825, 0.4230769230769231, 0.14521452145214525, 0.09075907590759077]
+
+
+SBERT sim. Score: 0.6080451607704163

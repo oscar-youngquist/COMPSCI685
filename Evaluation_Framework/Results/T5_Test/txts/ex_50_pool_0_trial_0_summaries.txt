@@ -1,0 +1,21 @@
+Document:
+mississippi
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Mississippi is the 32nd largest and 34th-most populous of the 50 US states. With large areas of agriculture and rural towns, Mississippi frequently ranks low among states in measures of health, education, and development, and high in measures of poverty. The rest of the state, primarily north of Interstate 20 not including the prairie regions, consists of mixed pine-hardwood forest, common species being loblolly pine, oaks (e.g., water oak), hickories, sweetgum, and elm. Mississippi has one of the richest fish faunas in the United States, with 204 native fish species. The state capital, Jackson, ranks tenth in the nation in concentration of African-American same-sex couples. The state ranks fifth in the nation in the percentage of Hispanic same-sex couples among all Hispanic households and ninth in the highest concentration of same-sex couples who are seniors. The state is ranked 50th or last place among all the states for health care, according to the Commonwealth Fund, a nonprofit foundation working to advance performance of the health care system. Mississippi had the highest rate of obesity of any US state from 2005 to 2008, and also ranks first in the nation for high blood pressure, diabetes, and adult inactivity. Mississippi, like the rest of its southern neighbors, is a right-to-work state. Mississippi is one of five states that elects its state officials in odd-numbered years (the others are Kentucky, Louisiana, New Jersey and Virginia).
+\Predicted Summary:
+, the Mississippi River, which flows along and defines its western boundary . Mississippi is bordered to the north by Tennessee; to the east by Alabama; to the south by the Gulf of Mexico; to the southwest by Louisiana; and to the northwest by Arkansas . Mississippi is the 32nd largest and 34th-most populous of the 50 US states .
+
+GT:
+Mississippi has a humid subtropical climate with long, hot and humid summers, and short, mild winters. The temperature varies little statewide in the summer; however, in winter, the region near Mississippi Sound is significantly warmer than the inland portion of the state. Mississippi is heavily forested, with over half of the state's area covered by wild or cultivated trees. Mississippi has six airports with commercial passenger service, the busiest in Jackson (Jackson-Evers International Airport) and one in Gulfport (Gulfport-Biloxi International Airport) Amtrak provides scheduled passenger service along two routes, the Crescent and City of New Orleans. The state is creating a Mississippi Blues Trail, with dedicated markers explaining historic sites significant to the history of blues music, such as Clarksdale's Riverside Hotel, where Bessie Smith died after her auto accident on Highway 61.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1678832116788321, 0.40350877192982454, 0.23711340206185563, 0.1481958762886598]
+[0.022058823529411766, 0.05357142857142857, 0.03125, 0.01953125]
+[0.11678832116788321, 0.2807017543859649, 0.16494845360824745, 0.10309278350515465]
+
+
+SBERT sim. Score: 0.4669397175312042

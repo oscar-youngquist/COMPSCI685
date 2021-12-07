@@ -1,0 +1,21 @@
+Document:
+vermont
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It borders the states of Massachusetts to the south, New Hampshire to the east, and New York to the west, and the Canadian province of Quebec to the north. Its metropolitan area is also the most populous in the state, with an estimate of 218,395 as of 2017. The state contains 41 species of reptiles and amphibians, 89 species of fish, of which 12 are non native; 193 species of breeding birds, 58 species of mammals, more than 15,000 insect species, and 2,000 higher plant species, plus fungi, algae, and 75 different types of natural communities. The state ranked ninth in the country for volunteerism for the period 2005–08. It is one of four states in the US to have done this, along with Hawaii, Maine, and Alaska. The state has 2,843 miles (4,575 km) of highways under its control. There are a number of museums in the state.
+\Predicted Summary:
+,, in 1777. The Vermont Republic abolished slavery before the American Revolutionary War . Vermont is the second-least-populated US state and the sixth-smallest by area of the 50 US states . Vermont borders the states of Massachusetts to the south, New Hampshire to the east, and New York to the west .
+
+GT:
+Vermont has a humid continental climate, with muddy springs, in general a mild early summer, hot Augusts; it has colorful autumns: Vermont's hills reveal red, orange, and (on sugar maples) gold foliage as cold weather approaches. In 2009, Vermont became the first state to legalize same-sex marriage, unforced by court challenge or ruling. On January 22, 2018, Vermont became the first of the United States to legalize cannabis for recreational use by legislative action, and the ninth state in the United States to legalize marijuana for medical purposes. An increasingly aging population is expected to improve the position of aging services and health care in the state economy. In 2007, Vermont was the 17th highest state in the nation for mortgage affordability. Some of the largest ski areas in New England are located in Vermont. Vermont festivals include the Vermont Maple Festival, Festival on the Green, The Vermont Dairy Festival in Enosburg Falls, the Apple Festival (held each Columbus Day Weekend), the Marlboro Music Festival, and the Vermont Brewers Festival. Winter sports are popular in New England, and Vermont's winter sports attractions are a big part of Vermont tourism.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15104166666666666, 0.5686274509803921, 0.23868312757201643, 0.14917695473251028]
+[0.020942408376963352, 0.08, 0.03319502074688797, 0.02074688796680498]
+[0.10416666666666667, 0.39215686274509803, 0.1646090534979424, 0.102880658436214]
+
+
+SBERT sim. Score: 0.5166066884994507

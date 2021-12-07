@@ -1,0 +1,21 @@
+Document:
+texas
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It is the second largest US state by both area (after Alaska) and population (after California). With a growing base of industry, the state leads in many industries, including tourism, agriculture, petrochemicals, energy, computers and electronics, aerospace, and biomedical sciences. The state has three cities with populations exceeding one million: Houston, San Antonio, and Dallas. The state does not have townships—areas within a county are either incorporated or unincorporated. The state is home to various private institutions of higher learning—ranging from liberal arts colleges to a nationally recognized top-tier research university. Most cities in the state, those over 5,000 in population, have home-rule governments. The state's Democratic voters are made up primarily by liberal and minority groups in Austin, Beaumont, Dallas, El Paso, Houston, and San Antonio as well as minority voters in East and South Texas.
+\Predicted Summary:
+, Texas is the second largest state in the US, and the second largest in the US . Texas is the second largest state by both area (after Alaska) and population (after California). Texas shares borders with the states of Louisiana to the east, Arkansas to the northeast, Oklahoma to the north, New Mexico to the west, and the Mexican states of Chihuahua, Coahuila, Nuevo León, and Tamaulipas to the south and southwest .
+
+GT:
+As of 2019, Texas had a gross state product (GSP) of $1.9 trillion, the second highest in the US Its GSP is greater than the GDPs of Brazil, Canada, Russia, South Korea and Spain, which are the world's 9th-, 10th-, 11th-, 12th- and 13th-largest economies, respectively. Texas's large population, an abundance of natural resources, thriving cities and leading centers of higher education have contributed to a large and diverse economy. Texas has a "low taxes, low services" reputation. According to the Tax Foundation, Texans' state and local tax burdens rank among the lowest in the nation, 7th lowest nationally; state and local taxes cost $3,580 per capita, or 8.4 percent of resident incomes. Texas is one of seven states that lack a state income tax. With large universities systems coupled with initiatives like the Texas Enterprise Fund and the Texas Emerging Technology Fund, a wide array of different high tech industries have developed in Texas. Texas has a reputation of very harsh criminal punishment for criminal offenses. As of 2008, Texas had the 4th highest incarceration rate in the US Texas also has strong self defense laws, allowing citizens to use lethal force to defend themselves, their families, or their property.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1932367149758454, 0.5555555555555556, 0.28673835125448033, 0.1792114695340502]
+[0.043689320388349516, 0.1267605633802817, 0.06498194945848375, 0.04061371841155235]
+[0.10144927536231885, 0.2916666666666667, 0.15053763440860216, 0.09408602150537634]
+
+
+SBERT sim. Score: 0.611981213092804

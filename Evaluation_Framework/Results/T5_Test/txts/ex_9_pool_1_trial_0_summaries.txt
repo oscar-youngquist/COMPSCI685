@@ -1,0 +1,21 @@
+Document:
+georgia
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+White-tailed (Virginia) deer are in nearly all counties. The entire state, including the North Georgia mountains, receives moderate to heavy precipitation, which varies from 45 inches (1143 mm) in central Georgia to approximately 75 inches (1905 mm) around the northeast part of the state. In terms of race and ethnicity, the state was 59.7% White (55.9% Non-Hispanic White alone), 30.5% Black or African American, 0.3% American Indian or Alaska Native, 3.2% Asian, 0.1% Native Hawaiian or other Pacific Islander, 4.0% from some other race, and 2.1% from two or more races. Generally, Republicans are strongest in the predominantly white suburban (especially the Atlanta suburbs) and rural portions of the state. Democratic candidates have tended to win a higher percentage of the vote in the areas where black voters are most numerous, as well as in the cities among liberal urban populations (especially Atlanta and Athens), and the central and southwestern portion of the state. The state's socially conservative bent results in wide support for measures such as restrictions on abortion. In 2004, a state constitutional amendment banning same-sex marriages was approved by 76% of voters. The state's other top markets are Savannah (95th largest), Augusta (115th largest), and Columbus (127th largest).
+\Predicted Summary:
+,,, the Mississippi Territory, to French Louisiana at the Mississippi River. Georgia is the 9th most populous metropolitan area in the United States . Georgia is the 9th most populous metropolitan area in the United States and contains about 57% of its entire population . Georgia is the 9th most populous metropolitan area in the United States and contains about 57% of the entire population .
+
+GT:
+Atlanta, a "beta(+)" global city, is both the state's capital and its largest city. The state's northernmost regions include the Blue Ridge Mountains, part of the larger Appalachian Mountain system. The majority of the state is primarily a humid subtropical climate. For years Georgia as a state has had the highest credit rating by Standard & Poor's (AAA) and is one of only 15 states with a AAA rating. There are 17 Fortune 500 companies and 26 Fortune 1000 companies with headquarters in Georgia, including Home Depot, US Coca-Cola, TSYS, Delta Air Lines, Aflac, Southern Company, Anthem Inc., and SunTrust Banks. Atlanta boasts the world's busiest airport, as measured both by passenger traffic and by aircraft traffic. In 2009, Georgians paid 9% of their income in state and local taxes, compared to the US average of 9.8% of income. In the Atlanta area, World of Coke, Georgia Aquarium, Zoo Atlanta and Stone Mountain are important tourist attractions. Several sites honor the lives and careers of noted American leaders: the Little White House in Warm Springs, which served as the summer residence of President Franklin Delano Roosevelt while he was being treated for polio; President Jimmy Carter's hometown of Plains and the Carter Presidential Center in Atlanta; the Martin Luther King Jr. National Historical Park in Atlanta, which is the final resting place of Martin Luther King Jr. and Coretta Scott King; and Atlanta's Ebenezer Baptist Church, where Dr. King preached. There are 48 state parks, 15 historic sites, and numerous wildlife preserves under supervision of the Georgia Department of Natural Resources. Outdoor recreational activities include hiking along the Appalachian Trail
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10108303249097472, 0.45161290322580644, 0.16519174041297935, 0.10324483775811209]
+[0.014492753623188406, 0.06557377049180328, 0.02373887240356083, 0.014836795252225522]
+[0.07220216606498195, 0.3225806451612903, 0.11799410029498526, 0.0737463126843658]
+
+
+SBERT sim. Score: 0.453747034072876

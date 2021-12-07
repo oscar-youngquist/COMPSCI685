@@ -1,0 +1,21 @@
+Document:
+alaska
+
+Intent:
+What drives the economy in this state?
+
+Input:
+While it has one of the smallest state economies in the country, Alaska's per capita income is among the highest, owing to a diversified economy dominated by fishing, natural gas, and oil, all of which it has in abundance. United States armed forces bases and tourism are also a significant part of the economy; more than half the state is federally owned public land, including a multitude of national forests, parks, and wildlife refuges. Agricultural production is primarily for consumption within the state and includes nursery stock, dairy products, vegetables, and livestock. Its industrial outputs are crude petroleum, natural gas, coal, gold, precious metals, zinc and other mining, seafood processing, timber and wood products. West of Fairbanks lies another concentration of small farms catering to restaurants, the hotel and tourist industry, and community-supported agriculture. In recent years, the ever-improving paved highway system began to eclipse the railroad's importance in Alaska's economy.
+\Predicted Summary:
+is a US state on the northwest extremity of the country's West Coast, just across the Bering Strait . Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined . Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined, and the seventh-largest subnational division in the world .
+
+GT:
+While it has one of the smallest state economies in the country, Alaska's per capita income is among the highest, owing to a diversified economy dominated by fishing, natural gas, and oil, all of which it has in abundance. United States armed forces bases and tourism are also a significant part of the economy; more than half the state is federally owned public land, including a multitude of national forests, parks, and wildlife refuges. The 1968 discovery of oil at Prudhoe Bay and the 1977 completion of the Trans-Alaska Pipeline System led to an oil boom. Royalty revenues from oil have funded large state budgets from 1980 onward. The oil and gas industry dominates the Alaskan economy, with more than 80% of the state's revenues derived from petroleum extraction. Alaska's main export product (excluding oil and natural gas) is seafood, primarily salmon, cod, Pollock and crab. Agriculture represents a very small fraction of the Alaskan economy. Agricultural production is primarily for consumption within the state and includes nursery stock, dairy products, vegetables, and livestock. Manufacturing is limited, with most foodstuffs and general goods imported from elsewhere.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16842105263157894, 0.41025641025641024, 0.23880597014925373, 0.1492537313432836]
+[0.021164021164021163, 0.05194805194805195, 0.03007518796992481, 0.018796992481203006]
+[0.11578947368421053, 0.28205128205128205, 0.16417910447761194, 0.10261194029850747]
+
+
+SBERT sim. Score: 0.5260078310966492

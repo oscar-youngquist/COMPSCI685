@@ -1,0 +1,21 @@
+Document:
+georgia
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Georgia is a major railway hub, has the most extensive rail system in the Southeast, and has the service of two Class I railroads, CSX and Norfolk Southern, plus 24 short-line railroads. Georgia's major Interstate Highways are I-20, I-75, I-85, and I-95. In addition to Hartsfield–Jackson, there are eight other airports serving major commercial traffic in Georgia. Savannah/Hilton Head International Airport is the second-busiest airport in the state as measured by passengers served, and is the only additional international airport. Other commercial airports (ranked in order of passengers served) are located in Augusta, Columbus, Albany, Macon, Brunswick, Valdosta, and Athens. MARTA operates almost exclusively in Fulton and DeKalb counties, with bus service to two destinations in Cobb county and the Cumberland Transfer Center next to the Cumberland Mall, and a single rail station in Clayton County at Hartsfield–Jackson Atlanta International Airport.
+\Predicted Summary:
+,,, the Mississippi Territory, to French Louisiana at the Mississippi River. Georgia is the 9th most populous metropolitan area in the United States . Georgia is the 9th most populous metropolitan area in the United States and contains about 57% of its entire population . Georgia is the 9th most populous metropolitan area in the United States and contains about 57% of the entire population .
+
+GT:
+Georgia's major Interstate Highways are I-20, I-75, I-85, and I-95. Georgia's primary commercial airport is Hartsfield–Jackson Atlanta International Airport (ATL), the world's busiest airport. In addition to Hartsfield–Jackson, there are eight other airports serving major commercial traffic in Georgia. The Georgia Ports Authority manages two deepwater seaports, at Savannah and Brunswick, and two river ports, at Bainbridge and Columbus. The Metropolitan Atlanta Rapid Transit Authority (MARTA) is the principal rapid transit system in the Atlanta metropolitan area. MARTA operates almost exclusively in Fulton and DeKalb counties, with bus service to two destinations in Cobb county and the Cumberland Transfer Center next to the Cumberland Mall, and a single rail station in Clayton County at Hartsfield–Jackson Atlanta International Airport. MARTA also operates a separate paratransit service for disabled customers.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16666666666666666, 0.3709677419354839, 0.23, 0.14375000000000002]
+[0.021897810218978103, 0.04918032786885246, 0.030303030303030307, 0.01893939393939394]
+[0.10869565217391304, 0.24193548387096775, 0.15, 0.09375]
+
+
+SBERT sim. Score: 0.4985752999782562

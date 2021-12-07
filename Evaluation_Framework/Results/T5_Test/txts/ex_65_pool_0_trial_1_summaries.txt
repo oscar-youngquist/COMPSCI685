@@ -1,0 +1,21 @@
+Document:
+south_dakota
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Two major interstates pass through South Dakota: Interstate 90, which runs east and west through the southern half of the state; and Interstate 29, running north and south in the eastern portion of the state. Several major US highways pass through the state. BNSF Railway is the largest railroad in South Dakota; the Rapid City, Pierre and Eastern Railroad (formerly the Dakota, Minnesota and Eastern) is the state's other major carrier. Other state carriers include Dakota Southern Railway, Dakota and Iowa Railroad, Ellis and Eastern Railroad, Sunflour Railroad, Canadian Pacific Railway, and the Sisseton Milbank Railroad. Rail transportation in the state is mostly freight, but there are two passenger heritage railroads: the Black Hills Central and the Prairie Village, Herman, and Milwaukee. (South Dakota is the only contiguous state that never had Amtrak—Wyoming used to be served by the San Francisco Zephyr and the Pioneer.) Several other cities in the state also have commercial air service: Aberdeen Regional Airport, Pierre Regional Airport, and Watertown Regional Airport, some of which is subsidized by the Essential Air Service program.
+\Predicted Summary:
+is a US state in the Midwestern region of the United States . South Dakota is bisected by the Missouri River, dividing South Dakota into two geographically and socially distinct halves . the state is bisected by the Missouri River, dividing South Dakota into two geographically and socially distinct halves .
+
+GT:
+Two major interstates pass through South Dakota: Interstate 90, which runs east and west through the southern half of the state; and Interstate 29, running north and south in the eastern portion of the state. The I-29 corridor features generally higher rates of population and economic growth than areas in eastern South Dakota further from the interstate. South Dakota contains two National Scenic Byways. Other scenic byways include the Badlands Loop Scenic Byway, the Spearfish Canyon Scenic Byway, and the Wildlife Loop Road Scenic Byway. Railroads have played an important role in South Dakota transportation since the mid-19th century. Rail transportation in the state is mostly freight, but there are two passenger heritage railroads: the Black Hills Central and the Prairie Village, Herman, and Milwaukee. South Dakota's largest commercial airports in terms of passenger traffic are the Sioux Falls Regional Airport and Rapid City Regional Airport.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1476510067114094, 0.4583333333333333, 0.2233502538071066, 0.13959390862944163]
+[0.0472972972972973, 0.14893617021276595, 0.07179487179487179, 0.04487179487179487]
+[0.1342281879194631, 0.4166666666666667, 0.20304568527918784, 0.12690355329949238]
+
+
+SBERT sim. Score: 0.5082557797431946

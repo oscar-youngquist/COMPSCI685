@@ -1,0 +1,21 @@
+Document:
+south_dakota
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Two major interstates pass through South Dakota: Interstate 90, which runs east and west through the southern half of the state; and Interstate 29, running north and south in the eastern portion of the state. Several major US highways pass through the state. Railroads have played an important role in South Dakota transportation since the mid-19th century. BNSF Railway is the largest railroad in South Dakota; the Rapid City, Pierre and Eastern Railroad (formerly the Dakota, Minnesota and Eastern) is the state's other major carrier. Other state carriers include Dakota Southern Railway, Dakota and Iowa Railroad, Ellis and Eastern Railroad, Sunflour Railroad, Canadian Pacific Railway, and the Sisseton Milbank Railroad. Rail transportation in the state is mostly freight, but there are two passenger heritage railroads: the Black Hills Central and the Prairie Village, Herman, and Milwaukee. (South Dakota is the only contiguous state that never had Amtrak—Wyoming used to be served by the San Francisco Zephyr and the Pioneer.) South Dakota's largest commercial airports in terms of passenger traffic are the Sioux Falls Regional Airport and Rapid City Regional Airport. Delta Air Lines, Frontier Airlines, and Allegiant Airlines, as well as commuter airlines using the brand affiliation with major airlines serve the two largest airports. Several other cities in the state also have commercial air service: Aberdeen Regional Airport, Pierre Regional Airport, and Watertown Regional Airport, some of which is subsidized by the Essential Air Service program.
+\Predicted Summary:
+is a US state in the Midwestern region of the United States . South Dakota is bisected by the Missouri River, dividing South Dakota into two geographically and socially distinct halves . the state is bisected by the Missouri River, dividing South Dakota into two geographically and socially distinct halves .
+
+GT:
+BNSF Railway is the largest railroad in South Dakota; the Rapid City, Pierre and Eastern Railroad (formerly the Dakota, Minnesota and Eastern) is the state's other major carrier. Other state carriers include Dakota Southern Railway, Dakota and Iowa Railroad, Ellis and Eastern Railroad, Sunflour Railroad, Canadian Pacific Railway, and the Sisseton Milbank Railroad. Rail transportation in the state is mostly freight, but there are two passenger heritage railroads: the Black Hills Central and the Prairie Village, Herman, and Milwaukee. South Dakota's largest commercial airports in terms of passenger traffic are the Sioux Falls Regional Airport and Rapid City Regional Airport. Delta Air Lines, Frontier Airlines, and Allegiant Airlines, as well as commuter airlines using the brand affiliation with major airlines serve the two largest airports. Several other cities in the state also have commercial air service: Aberdeen Regional Airport, Pierre Regional Airport, and Watertown Regional Airport, some of which is subsidized by the Essential Air Service program.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1509433962264151, 0.5, 0.2318840579710145, 0.14492753623188406]
+[0.0379746835443038, 0.1276595744680851, 0.05853658536585366, 0.03658536585365854]
+[0.1069182389937107, 0.3541666666666667, 0.16425120772946858, 0.10265700483091787]
+
+
+SBERT sim. Score: 0.3889516592025757

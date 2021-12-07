@@ -1,0 +1,21 @@
+Document:
+utah
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The state has a highly diversified economy, with major sectors including transportation, education, information technology and research, government services, mining; it is also a major tourist destination for outdoor recreation. Northern Davis, southern and western Salt Lake, Summit, eastern Tooele, Utah, Wasatch, and Washington counties are all growing very quickly. Utah is the only state where every county contains some national forest. Major industries of Utah include: mining, cattle ranching, salt production, and government services. The state sales tax has a base rate of 6.45 percent, with cities and counties levying additional local sales taxes that vary among the municipalities. With five national parks (Arches, Bryce Canyon, Canyonlands, Capitol Reef, and Zion), Utah has the third most national parks of any state after Alaska and California. The state of Utah relies heavily on income from tourists and travelers visiting the state's parks and ski resorts, and thus the need to "brand" Utah and create an impression of the state throughout the world has led to several state slogans, the most famous of which being "The Greatest Snow on Earth", which has been in use in Utah officially since 1975 (although the slogan was in unofficial use as early as 1962) and now adorns nearly 50 percent of the state's license plates. Today mining activity still plays a major role in the state's economy. Fossil fuels including coal, petroleum, and natural gas continue to play a large role in Utah's economy, especially in the eastern part of the state in counties such as Carbon, Emery, Grand, and Uintah. The state bans the sale of fruity alcoholic drinks at grocery stores and convenience stores. Utah and Hawaii are the only two states in the United States to outlaw all forms of gambling. Utah's population is concentrated in two areas, the Wasatch Front in the north-central part of the state, with over 2.6 million residents; and Washington County, in southwestern Utah, locally known as "Dixie", with more than 175,000 residents in the metropolitan area. According to the 2010 Census, Utah was the second fastest-growing state (at 23.8 percent) in the United States between 2000 and 2010 (behind Nevada).
+\Predicted Summary:
+is a state in the Western United States. It is bordered by Colorado to the east, Wyoming to the northeast, Idaho to the north, Arizona to the south and Nevada to the west. Utah is the 13th-largest by area; with a population over three million, it is the 30th-most-populous and 11th-least-densely populated. Disputes between the dominant Mormon community and the federal government delayed the state's admission as a state.
+
+GT:
+The state has a highly diversified economy, with major sectors including transportation, education, information technology and research, government services, mining; it is also a major tourist destination for outdoor recreation. Economies are dominated by mining, oil shale, oil, and natural gas-drilling, ranching, and recreation. In eastern Utah petroleum production is a major industry. Near Salt Lake City, petroleum refining is done by a number of oil companies. In central Utah, coal production accounts for much of the mining activity. Utah collects personal income tax The state sales tax has a base rate of 6.45 percent, with cities and counties levying additional local sales taxes that vary among the municipalities. Tourism is a major industry in Utah. Since the days of the Utah Territory mining has played a major role in Utah's economy. Today mining activity still plays a major role in the state's economy. Minerals mined in Utah include copper, gold, silver, molybdenum, zinc, lead, and beryllium. Fossil fuels including coal, petroleum, and natural gas continue to play a large role in Utah's economy, especially in the eastern part of the state in counties such as Carbon, Emery, Grand, and Uintah.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17346938775510204, 0.4533333333333333, 0.25092250922509224, 0.15682656826568264]
+[0.03076923076923077, 0.08108108108108109, 0.04460966542750929, 0.027881040892193308]
+[0.09693877551020408, 0.25333333333333335, 0.14022140221402216, 0.08763837638376384]
+
+
+SBERT sim. Score: 0.5911110639572144

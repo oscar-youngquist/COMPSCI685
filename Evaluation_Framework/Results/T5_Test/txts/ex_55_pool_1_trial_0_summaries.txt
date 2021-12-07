@@ -1,0 +1,21 @@
+Document:
+nevada
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The tourism industry remains Nevada's largest employer, with mining continuing as a substantial sector of the economy: Nevada is the fourth-largest producer of gold in the world. Nevada ranks second in the United States by the number of mountains, behind Alaska, and ahead of California, Montana, and Washington. Mining plays an important role in the economies of the rural counties, with tourism being less prominent. The economy of Nevada is tied to tourism (especially entertainment and gambling related), mining, and cattle ranching. In portions of the state outside of the Las Vegas and Reno metropolitan areas mining plays a major economic role. Nevada's agricultural outputs are cattle, hay, alfalfa, dairy products, onions, and potatoes.
+\Predicted Summary:
+is a state in the Western United States. Nevada is bordered by Oregon to the northwest, Idaho to the northeast, California to the west, and Arizona to the southeast . Nevada is the 7th-most extensive, but the 9th-least densely populated of the US states . Nevada is officially known as the "Silver State" because of the importance of silver to its history and economy .
+
+GT:
+The economy of Nevada is tied to tourism (especially entertainment and gambling related), mining, and cattle ranching. Nevada's industrial outputs are tourism, entertainment, mining, machinery, printing and publishing, food processing, and electric equipment. The economy of Nevada has long been tied to vice industries. "[Nevada was] founded on mining and refounded on sin – beginning with prizefighting and easy divorce a century ago and later extending to gaming and prostitution", said the August 21, 2010 issue of The Economist. In portions of the state outside of the Las Vegas and Reno metropolitan areas mining plays a major economic role. Cattle ranching is a major economic activity in rural Nevada. Nevada's agricultural outputs are cattle, hay, alfalfa, dairy products, onions, and potatoes.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1885245901639344, 0.359375, 0.24731182795698922, 0.15456989247311828]
+[0.03305785123966942, 0.06349206349206349, 0.043478260869565216, 0.02717391304347826]
+[0.13114754098360656, 0.25, 0.17204301075268816, 0.10752688172043011]
+
+
+SBERT sim. Score: 0.5740331411361694

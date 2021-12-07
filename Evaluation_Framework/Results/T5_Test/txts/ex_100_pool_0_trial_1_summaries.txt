@@ -1,0 +1,21 @@
+Document:
+alaska
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined, and the seventh-largest subnational division in the world. It is the third-least populous and the most sparsely populated state, but by far the continent's most populous territory located mostly north of the 60th parallel, with an estimated population of 738,432 as of 2015—more than quadruple the combined populations of Northern Canada and Greenland. United States armed forces bases and tourism are also a significant part of the economy; more than half the state is federally owned public land, including a multitude of national forests, parks, and wildlife refuges. Close to two dozen native languages are spoken, and Alaskan Natives exercise considerable influence in local and state politics. At 663,268 square miles (1,717,856 km2) in area, Alaska is by far the largest state in the United States, and is more than twice the size of the second-largest US state, Texas. In 2010, Alaska ranked as the 47th state by population, ahead of North Dakota, Vermont, and Wyoming (and Washington, D.C.). Alaska is the least densely populated state, and one of the most sparsely populated areas in the world, at 1.2 inhabitants per square mile (0.46/km2), with the next state, Wyoming, at 5.8 inhabitants per square mile (2.2/km2). Alaska is by far the largest US state by area, and the tenth wealthiest (per capita income). It is one of five states with no sales tax, one of seven states with no individual income tax, and—along with New Hampshire—one of two that has neither. Alaska is the third state with jungle primaries for all statewide races, the second state with ranked voting, and the only state with both. Many of the more densely populated parts of the state are part of Alaska's 16 boroughs, which function somewhat similarly to counties in other states. The state's most populous city is Anchorage, home to 278,700 people in 2006, 225,744 of whom live in the urbanized area.
+\Predicted Summary:
+is a US state on the northwest extremity of the country's West Coast, just across the Bering Strait . Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined . Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined, and the seventh-largest subnational division in the world .
+
+GT:
+While it has one of the smallest state economies in the country, Alaska's per capita income is among the highest, owing to a diversified economy dominated by fishing, natural gas, and oil, all of which it has in abundance. With its myriad islands, Alaska has nearly 34,000 miles (55,000 km) of tidal shoreline. The United States Census Bureau estimates that the population of Alaska was 731,545 on July 1, 2019, a 3.00% increase since the 2010 United States Census. According to a 2013 study by Phoenix Marketing International, Alaska had the fifth-largest number of millionaires per capita in the United States, with a ratio of 6.75 percent. Alaska also offers some of the highest hydroelectric power potential in the country from its numerous rivers. Alaskan agriculture has experienced a surge in growth of market gardeners, small farms and farmers' markets in recent years, with the highest percentage increase (46%) in the nation in growth in farmers' markets in 2011, compared to 17% nationwide. Alaska was formerly the only state in which possession of one ounce or less of marijuana in one's home was completely legal under state law, though the federal law remains in force. Larger towns usually have their own local police and some villages rely on "Public Safety Officers" who have police training but do not carry firearms.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12719298245614036, 0.3717948717948718, 0.1895424836601307, 0.11846405228758172]
+[0.013215859030837005, 0.03896103896103896, 0.019736842105263157, 0.012335526315789474]
+[0.08771929824561403, 0.2564102564102564, 0.13071895424836602, 0.08169934640522875]
+
+
+SBERT sim. Score: 0.5804998874664307

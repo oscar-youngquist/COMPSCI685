@@ -1,0 +1,21 @@
+Document:
+colorado
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It is the 8th most extensive and 21st most populous US state. Colorado is a comparatively wealthy state, ranking 8th in household income in 2016, and 11th in per capita income in 2010. Much of Colorado is very dry, with the state averaging only 17 inches (430 millimeters) of precipitation per year statewide. Water flowing out of the Colorado Rocky Mountains is a very significant source of water for the farms, towns, and cities of the southwest states of New Mexico, Arizona, Utah, and Nevada, as well as the Midwest, such as Nebraska and Kansas, and the southern states of Oklahoma and Texas. Colorado is the least populous state with a franchise in each of the major professional sports leagues. The state is home to a network of US and Colorado highways that provide access to all principal areas of the state. Colorado is considered a swing state or (more recently) a blue state in both state and federal elections.
+\Predicted Summary:
+, the Colorado River, which early Spanish explorers named the Ro Colorado ("Red River") for the ruddy silt the river carried from the mountains . Colorado is the 8th most extensive and 21st most populous US state . the estimated population of Colorado is 5,758,736 as of 2019, an increase of 14.5% since the 2010 United States Census .
+
+GT:
+Colorado is noted for its vivid landscape of mountains, forests, high plains, mesas, canyons, plateaus, rivers and desert lands. Colorado is a comparatively wealthy state, ranking 8th in household income in 2016, and 11th in per capita income in 2010. Despite its mountainous terrain, Colorado is relatively quiet seismically. According to several studies, Coloradans have the lowest rates of obesity of any state in the US. According to a report in the Journal of the American Medical Association, residents of Colorado had a 2014 life expectancy of 80.21 years, the longest of any US state. There are also a number of established film festivals in Colorado, including Aspen Shortsfest, Boulder International Film Festival, Castle Rock Film Festival, Denver Film Festival, Festivus Film Festival (ended in 2013), Mile High Horror Film Festival, Moondance International Film Festival, Mountainfilm in Telluride, Rocky Mountain Women's Film Festival, and Telluride Film Festival. Colorado is known for its Southwest and Rocky Mountain cuisine. Colorado is open to cannabis (marijuana) tourism. On November 7, 2000, 54% of Colorado voters passed Amendment 20, which amends the Colorado State constitution to allow the medical use of marijuana. The first recreational marijuana shops in Colorado, and by extension the United States, opened their doors on January 1, 2014. CNBC's list of "Top States for Business for 2010" has recognized Colorado as the third-best state in the nation, falling short only to Texas and Virginia. Per capita personal income in 2010 was $51,940, ranking Colorado 11th in the nation.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11857707509881422, 0.5172413793103449, 0.19292604501607719, 0.12057877813504823]
+[0.023809523809523808, 0.10526315789473684, 0.038834951456310676, 0.024271844660194174]
+[0.07114624505928854, 0.3103448275862069, 0.11575562700964633, 0.07234726688102897]
+
+
+SBERT sim. Score: 0.46278247237205505
