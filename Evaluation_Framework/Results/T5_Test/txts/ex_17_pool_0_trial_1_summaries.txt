@@ -1,0 +1,21 @@
+Document:
+south_carolina
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The Atlantic Coastal Plain makes up two-thirds of the state. At that time South Carolina had the largest population of Jews in the sixteen states of the United States, mostly based in Savannah and Charleston, the latter being the country's fifth largest city. The state also converted its agricultural base from cotton to more profitable crops; attracted large military bases through its powerful Democratic congressional delegation, part of the one-party South following disfranchisement of blacks at the turn of the century; and created tourism industries. There are also countless local festivals throughout the state highlighting many cultural traditions, historical events, and folklore. According to the South Carolina Arts Commission, creative industries generate $9.2 billion annually and support over 78,000 jobs in the state. College teams represent their particular South Carolina institutions, and are the primary options for football, basketball and baseball attendance in the state. Industrial outputs include textile goods, chemical products, paper products, machinery, automobiles, automotive products and tourism. Major agricultural outputs of the state are tobacco, poultry, cotton, cattle, dairy products, soybeans, hay, rice, and swine. According to the Bureau of Labor Statistics, as of March 2012, South Carolina had 1,852,700 nonfarm jobs of which 12% are in manufacturing, 11.5% are in leisure and hospitality, 19% are in trade, transportation, and utilities, and 11.8% are in education and health services. The service sector accounts for 83.7% of the South Carolina economy. Markets in which the stations are located include Columbia, Florence, Allendale, Myrtle Beach, Greenville, Charleston, Conway, Beaufort, Hardeeville, Spartanburg, Greenwood, Anderson and Sumter. The state has the fourth largest state-maintained system in the country, consisting of 11 Interstates, numbered highways, state highways, and secondary roads, totalling approximately 41,500 miles.
+\Predicted Summary:
+, the first state to vote in favor of secession from the Union on December 20, 1868. South Carolina is a state in the Deep South region of the Southern United States . South Carolina is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia . South Carolina is the 40th most extensive and 23rd most populous US state .
+
+GT:
+Industrial outputs include textile goods, chemical products, paper products, machinery, automobiles, automotive products and tourism. Major agricultural outputs of the state are tobacco, poultry, cotton, cattle, dairy products, soybeans, hay, rice, and swine. According to the Bureau of Labor Statistics, as of March 2012, South Carolina had 1,852,700 nonfarm jobs of which 12% are in manufacturing, 11.5% are in leisure and hospitality, 19% are in trade, transportation, and utilities, and 11.8% are in education and health services. The service sector accounts for 83.7% of the South Carolina economy. Many large corporations have moved their locations to South Carolina. Boeing opened an aircraft manufacturing facility in Charleston in 2011, which serves as one of two final assembly sites for the 787 Dreamliner. South Carolina also benefits from foreign investment. There are 1,950 foreign-owned firms operating in South Carolina employing almost 135,000 people. Foreign Direct Investment (FDI) brought 1.06 billion dollars to the state economy in 2010.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15853658536585366, 0.3880597014925373, 0.2251082251082251, 0.1406926406926407]
+[0.03680981595092025, 0.09090909090909091, 0.05240174672489083, 0.03275109170305677]
+[0.11585365853658537, 0.2835820895522388, 0.1645021645021645, 0.10281385281385283]
+
+
+SBERT sim. Score: 0.3962806165218353

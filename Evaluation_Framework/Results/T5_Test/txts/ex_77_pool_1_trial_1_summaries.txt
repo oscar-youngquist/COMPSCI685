@@ -1,0 +1,21 @@
+Document:
+ohio
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Of the fifty states, it is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated. Ohio was the first post-colonial free state admitted to the union, and became one of the earliest and most influential industrial powerhouses in the 20th century; although it has transitioned to a more information and service based economy in the 21st century, Ohio remains an industrial state, ranking seventh in GDP as of 2019, with the third largest manufacturing sector and second largest automobile production. The state is known for its status as both a swing state and a bellwether in national elections. Cincinnati anchors Southwest Ohio and is the largest economy in the state. The industry of Ohio made the state one of the most important states in the Union during the Civil war. Ohio's population growth lags that of the entire United States, and whites are found in a greater density than the US average. This ranks Ohio's economy as the seventh-largest of all fifty states and the District of Columbia. Ohio has the largest bioscience sector in the Midwest, and is a national leader in the "green" economy. Ohio's manufacturing sector is the third-largest of all fifty United States states in terms of gross domestic product.
+\Predicted Summary:
+the first post-colonial free state admitted to the union on March 1, 1803 . Ohio is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated . Ohio is known for its status as both a swing state and a bellwether in national elections .
+
+GT:
+Ohio was the first post-colonial free state admitted to the union, and became one of the earliest and most influential industrial powerhouses in the 20th century; although it has transitioned to a more information and service based economy in the 21st century, Ohio remains an industrial state, ranking seventh in GDP as of 2019, with the third largest manufacturing sector and second largest automobile production. Cincinnati anchors Southwest Ohio and is the largest economy in the state. As of 2016, Ohio's gross domestic product (GDP) was $626 billion. This ranks Ohio's economy as the seventh-largest of all fifty states and the District of Columbia. Ohio has the largest bioscience sector in the Midwest, and is a national leader in the "green" economy. Ohio is the largest producer in the country of plastics, rubber, fabricated metals, electrical equipment, and appliances. By employment, Ohio's largest sector is trade/transportation/utilities, which employs 1,010,000 Ohioans, or 19.4% of Ohio's workforce, while the health care and education sector employs 825,000 Ohioans (15.8%). Government employs 787,000 Ohioans (15.1%), manufacturing employs 669,000 Ohioans (12.9%), and professional and technical services employs 638,000 Ohioans (12.2%). Fifty-nine of the United States' top 1,000 publicly traded companies (by revenue in 2008) are headquartered in Ohio, including Procter & Gamble, Goodyear Tire & Rubber, AK Steel, Timken, Abercrombie & Fitch, and Wendy's.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13865546218487396, 0.5789473684210527, 0.22372881355932206, 0.13983050847457626]
+[0.05907172995780591, 0.25, 0.09556313993174062, 0.059726962457337884]
+[0.09663865546218488, 0.40350877192982454, 0.1559322033898305, 0.09745762711864406]
+
+
+SBERT sim. Score: 0.610850989818573

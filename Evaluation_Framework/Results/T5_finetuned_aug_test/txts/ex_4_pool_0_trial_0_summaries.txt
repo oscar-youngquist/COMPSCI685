@@ -1,21 +1,21 @@
 Document:
-new_hampshire
+maine
 
 Intent:
-The main reasons why you would like living in this state
+What is the state's policy regarding education?
 
 Input:
-It is the state with the highest percentage of timberland area in the country. It contains less than 5% of the state's population, suffers relatively high poverty, and is steadily losing population as the logging and paper industries decline. New Hampshire has the highest percentage (22.9%) of residents with French/French-Canadian/Acadian ancestry of any US state. The Bureau of Economic Analysis estimates that New Hampshire's total state product in 2018 was $86 billion, ranking 40th in the United States. The state's largest economic sectors in 2018, based on contribution to GDP, are: 15% real estate and rental and leasing; 13% professional business services; 12% manufacturing; 10% government and government services; and 9% health care and social services. The state does have narrower taxes on meals, lodging, vehicles, business and investment income, and tolls on state roads. The state has no general sales tax and no personal state income tax (the state does tax, at a five percent rate, income from dividends and interest), and the legislature has exercised fiscal restraint. However, the state's overall tax burden is relatively low; in 2010 New Hampshire ranked 44th highest among states in combined average state and local tax burden. In 2008 the state tied with Massachusetts as having the highest scores on the SAT and ACT standardized tests given to high school students.
+There are thirty institutions of higher learning in Maine. These institutions include the University of Maine, which is the oldest, largest and only research university in the state. Maine's per-student public expenditure for elementary and secondary schools was 21st in the nation in 2012, at $12,344. The collegiate system of Maine also includes numerous baccalaureate colleges such as: the Maine Maritime Academy (MMA), Unity College, and Thomas College. There is only one medical school in the state, (University of New England's College of Osteopathic Medicine) and only one law school (The University of Maine School of Law). Private schools in Maine are funded independently of the state and its furthered domains. Private schools are less common than public schools. A large number of private elementary schools with under 20 students exist, but most private high schools in Maine can be described as "semi-private".
 \Predicted Summary:
-New Hampshire is a state in the Northeastern United States . New Hampshire is bordered by Massachusetts to the south, Vermont to the west, Maine and the Atlantic Ocean to the east . New Hampshire is the 5th smallest by area and the 10th least populous US state .
+the, established by the Plymouth Company in 1607, and established by the Plymouth Company in 1607 . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states . Maine is the only state to border only one other state .
 
 GT:
-New Hampshire has no general sales tax, nor income tax other than on interest and dividends. In 2016, a Gallup Poll found that New Hampshire was the least religious state in the United States. New Hampshire today has a broad-based and growing economy, with a state GDP growth rate of 2.2% in 2018. The state's largest economic sectors in 2018, based on contribution to GDP, are: 15% real estate and rental and leasing; 13% professional business services; 12% manufacturing; 10% government and government services; and 9% health care and social services. The issue of taxation is controversial in New Hampshire, which has a property tax (subject to municipal control) but no broad sales tax or income tax. The state has no general sales tax and no personal state income tax (the state does tax, at a five percent rate, income from dividends and interest), and the legislature has exercised fiscal restraint. In March 2018, 86% of New Hampshire's workforce were employed by the private sector, with 53% of those workers being employed by firms with less than 100 employees. New Hampshire has a well-maintained, well-signed network of Interstate highways, US highways, and state highways. New Hampshire is also the home of several prestigious university-preparatory schools, such as Phillips Exeter Academy, St. Paul's School, Proctor Academy, Brewster Academy, and Kimball Union Academy. In 2008 the state tied with Massachusetts as having the highest scores on the SAT and ACT standardized tests given to high school students. Funspot, the world's largest video arcade (now termed a museum), is in Laconia.
+These institutions include the University of Maine, which is the oldest, largest and only research university in the state. UMaine was founded in 1865 and is the state's only land grant and sea grant college. The University of Maine is located in the town of Orono and is the flagship of Maine. Maine's per-student public expenditure for elementary and secondary schools was 21st in the nation in 2012, at $12,344. Private schools in Maine are funded independently of the state and its furthered domains. A large number of private elementary schools with under 20 students exist, but most private high schools in Maine can be described as "semi-private".
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.1198501872659176, 0.6956521739130435, 0.20447284345047922, 0.12779552715654954]
-[0.03759398496240601, 0.2222222222222222, 0.06430868167202572, 0.04019292604501608]
-[0.0898876404494382, 0.5217391304347826, 0.15335463258785942, 0.09584664536741214]
+[0.19469026548672566, 0.4489795918367347, 0.2716049382716049, 0.16975308641975306]
+[0.03571428571428571, 0.08333333333333333, 0.05, 0.031249999999999997]
+[0.13274336283185842, 0.30612244897959184, 0.1851851851851852, 0.11574074074074076]
 
 
-SBERT sim. Score: 0.686472475528717
+SBERT sim. Score: 0.5060267448425293

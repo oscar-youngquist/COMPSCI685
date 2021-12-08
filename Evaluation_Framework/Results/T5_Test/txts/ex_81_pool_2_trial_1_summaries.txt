@@ -1,0 +1,21 @@
+Document:
+maryland
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It is the 42nd largest and 9th smallest state and is closest in size to the state of Hawaii [10,930.98 square miles (28,311.1 km2)], the next smaller state. The state harbors a considerable number of white-tailed deer, especially in the woody and mountainous west of the state, and overpopulation can become a problem. Maryland ranks 40th in total energy consumption nationwide, and it managed less toxic waste per capita than all but six states in 2005. Also, the state's poverty rate of 7.8 percent is the lowest in the country. As of February 2018, the state's unemployment rate was 4.2 percent. In addition, a number of educational and medical research institutions are located in the state. Maryland's state sales tax is six percent.
+\Predicted Summary:
+, Maryland is a state in the Mid-Atlantic region of the Southern United States . Maryland is named after the English Queen Henrietta Maria, known in England as Queen Mary . MERR--lnd is a state in the Mid-Atlantic region of the Southern United States . it is named after the English Queen Henrietta Maria, known in England as Queen Mary .
+
+GT:
+As of 2015, Maryland had the highest median household income of any state, owing in large part to its proximity to Washington, D.C. and a highly diversified economy spanning manufacturing, services, higher education, and biotechnology. Maryland has one of the most diverse Hispanic populations in the country, with significant populations from various Caribbean and Central American nations. Attracting educated Asians and Africans to the professional jobs in the region, Maryland has the fifth-largest proportions of racial minorities in the country. According to the US Census Bureau, Maryland households are currently the wealthiest in the country, with a 2013 median household income of $72,483 which puts it ahead of New Jersey and Connecticut, which are second and third respectively. Maryland's economy benefits from the state's proximity to the federal government in Washington, D.C. with an emphasis on technical and administrative tasks for the defense/aerospace industry and bio-research laboratories, as well as staffing of satellite government headquarters in the suburban or exurban Baltimore/Washington area. Same-sex couples began marrying in Maryland on January 1, 2013. Education Week ranked Maryland #1 in its nationwide 2009–2013 Quality Counts reports.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11282051282051282, 0.3728813559322034, 0.1732283464566929, 0.10826771653543307]
+[0.015463917525773196, 0.05172413793103448, 0.02380952380952381, 0.014880952380952382]
+[0.08717948717948718, 0.288135593220339, 0.13385826771653542, 0.08366141732283465]
+
+
+SBERT sim. Score: 0.42085838317871094

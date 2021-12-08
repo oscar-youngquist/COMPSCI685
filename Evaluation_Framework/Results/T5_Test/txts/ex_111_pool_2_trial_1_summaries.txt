@@ -1,0 +1,21 @@
+Document:
+indiana
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It is the 38th-largest by area and the 17th-most populous of the 50 United States. With a total area (land and water) of 36,418 square miles (94,320 km2), Indiana ranks as the 38th largest state in size. Located in the Midwestern United States, Indiana is one of eight states that make up the Great Lakes Region. The highest point in the state is Hoosier Hill in Wayne County at 1,257 feet (383 m) above sea level. According to the Indiana Department of Natural Resources, there were 65 rivers, streams, and creeks of environmental interest or scenic beauty, which included only a portion of an estimated 24,000 total river miles within the state. As of 2010, the state includes 16 metropolitan and 25 micropolitan statistical areas, 117 incorporated cities, 450 towns, and several other smaller divisions and statistical areas. The state's population density was 181.0 persons per square mile, the 16th-highest in the United States. Hamilton County has also grown faster than any county in the states bordering Indiana (Illinois, Michigan, Ohio and Kentucky), and is the 20th-fastest growing county in the country. Indianapolis has the largest population of the state's metropolitan areas and the 33rd-largest in the country. In 2005, the Bay Area Center for Voting Research rated the most liberal and conservative cities in the United States on voting statistics in the 2004 presidential election, based on 237 cities with populations of more than 100,000. Muncie has produced the most per capita of any American city, with two other Indiana cities in the top ten. Its proximity to large urban centers, such as Indianapolis and Chicago, assure dairying, egg production, and specialty horticulture occur.Other crops include melons, tomatoes, grapes, mint, popping corn, and tobacco in the southern counties.
+\Predicted Summary:
+, Indiana was admitted to the United States as the 19th state on December 11, 1816 . Indiana is a US state in the Midwestern and Great Lakes regions of North America . it borders Lake Michigan to the northwest, Michigan to the north, Ohio to the east, the Ohio River and Kentucky to the east .
+
+GT:
+Indiana has an extensive history with auto racing. Indianapolis hosts the Indianapolis 500 mile race over Memorial Day weekend at the Indianapolis Motor Speedway every May. The name of the race is usually shortened to "Indy 500" and also goes by the nickname "The Greatest Spectacle in Racing". As of 2013 Indiana has produced more National Basketball Association (NBA) players per capita than any other state. Muncie has produced the most per capita of any American city, with two other Indiana cities in the top ten. It has a rich basketball heritage that reaches back to the sport's formative years. The NBA's Indiana Pacers play their home games at Bankers Life Fieldhouse Indianapolis is home to the Indianapolis Colts. The Colts are members of the South Division of the American Football Conference. Indiana has had great sports success at the collegiate level. In 2017, Indiana had a civilian labor force of nearly 3.4 million, the 15th largest in the US Indiana has an unemployment rate of 3.4 percent, lower than the national average. In 2016, Indiana was home to seven Fortune 500 companies with a combined $142.5 billion in revenue.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1282051282051282, 0.4716981132075472, 0.20161290322580644, 0.126008064516129]
+[0.020618556701030927, 0.07692307692307693, 0.03252032520325203, 0.02032520325203252]
+[0.08205128205128205, 0.3018867924528302, 0.12903225806451615, 0.08064516129032258]
+
+
+SBERT sim. Score: 0.431773841381073

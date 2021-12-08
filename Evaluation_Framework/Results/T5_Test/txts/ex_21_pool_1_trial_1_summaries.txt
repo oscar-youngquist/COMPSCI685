@@ -1,0 +1,21 @@
+Document:
+new_mexico
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Railroads were later supplemented or replaced by a system of highways and airports. Today, New Mexico's Interstate Highways approximate the earlier land routes of the Camino Real, the Santa Fe Trail and the transcontinental railroads. Interstate 10 travels in the southwest portion of New Mexico starting from the Arizona stateline near Lordsburg to the area in between Las Cruces and Anthony, near El Paso, Texas. Interstate 40 is a major east–west interstate highway starting from the Arizona stateline west of Gallup to the Texas stateline east from Tucumcari. Rural and intercity public transportation by road is provided by Americanos USA, LLC, Greyhound Lines and several government operators. In addition to local railroads and other tourist lines, the state jointly owns and operates a heritage narrow-gauge steam railroad, the Cumbres and Toltec Scenic Railway, with the state of Colorado. New Mexico is served by two class I railroads, the BNSF Railway and the Union Pacific Railroad. Combined, they operate 2,200 route miles of railway in the state. A commuter rail operation, the New Mexico Rail Runner Express, connects the state's capital, its largest city, and other communities. Passenger train service once connected nine of New Mexico's present ten most populous cities (the exception is Rio Rancho), while today passenger train service connects two: Albuquerque and Santa Fe.
+\Predicted Summary:
+,,,,, and the Sandia and Los Alamos are among the states that have a large military presence in New Mexico . New Mexico is a state in the Southwestern region of the United States of America; its capital is Santa Fe . New Mexico is the 36th largest state by population; its largest city is Albuquerque . New Mexico is bordered by the state of Texas to the east-southeast, Oklahoma to the northeast, and the Mexican states of
+
+GT:
+New Mexico currently has 15 United States Highways. Rural and intercity public transportation by road is provided by Americanos USA, LLC, Greyhound Lines and several government operators. The New Mexico Rail Runner Express is a commuter rail system serving the metropolitan area of Albuquerque, New Mexico. In addition to local railroads and other tourist lines, the state jointly owns and operates a heritage narrow-gauge steam railroad, the Cumbres and Toltec Scenic Railway, with the state of Colorado. A commuter rail operation, the New Mexico Rail Runner Express, connects the state's capital, its largest city, and other communities. Amtrak's Southwest Chief passes through daily at stations in Gallup, Albuquerque, Lamy, Las Vegas, and Raton, offering connections to Los Angeles, Chicago and intermediate points. The Sunset Limited makes stops three times a week in both directions at Lordsburg, and Deming, serving Los Angeles, New Orleans and intermediate points. The Albuquerque International Sunport is the state's primary port of entry for air transportation.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2804878048780488, 0.6133333333333333, 0.38493723849372385, 0.24058577405857742]
+[0.07975460122699386, 0.17567567567567569, 0.10970464135021096, 0.06856540084388185]
+[0.15853658536585366, 0.3466666666666667, 0.21757322175732216, 0.13598326359832638]
+
+
+SBERT sim. Score: 0.5854294896125793

@@ -1,0 +1,21 @@
+Document:
+new_hampshire
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+With some of the highest ski mountains on the East Coast, New Hampshire's major recreational attractions include skiing, snowmobiling, and other winter sports, hiking and mountaineering (Mount Monadnock in the state's southwestern corner is among the most climbed mountains in the US), observing the fall foliage, summer cottages along many lakes and the seacoast, motor sports at the New Hampshire Motor Speedway, and Motorcycle Week, a popular motorcycle rally held in Weirs Beach in Laconia in June. New Hampshire's major regions are the Great North Woods, the White Mountains, the Lakes Region, the Seacoast, the Merrimack Valley, the Monadnock Region, and the Dartmouth-Lake Sunapee area. With hurricane-force winds every third day on average, more than a hundred recorded deaths among visitors, and conspicuous krumholtz (dwarf, matted trees much like a carpet of bonsai trees), the climate on the upper reaches of Mount Washington has inspired the weather observatory on the peak to claim that the area has the "World's Worst Weather". Even after its loss, the Old Man remains an enduring symbol for the state, seen on state highway signs, automobile license plates, and many government and private entities around New Hampshire. The climate of the southeastern portion is moderated by the Atlantic Ocean and averages relatively milder winters (for New Hampshire), while the northern and interior portions experience colder temperatures and lower humidity. Despite the similar language, they had a very different culture and religion from other Algonquian peoples. Most towns generally operate on the town meeting form of government, where the registered voters in the town act as the town legislature, and a board of selectmen acts as the executive of the town. New Hampshire has two universities competing at the NCAA Division I in all collegiate sports: the Dartmouth Big Green (Ivy League) and the New Hampshire Wildcats (America East Conference), as well as three NCAA Division II teams: Franklin Pierce Ravens, Saint Anselm Hawks and Southern New Hampshire Penmen (Northeast-10 Conference). Prominent individuals from New Hampshire include founding father Nicholas Gilman, Senatortor Daniel Webster, Revolutionary War hero John Stark, editor Horace Greeley, founder of the Christian Science religion Mary Baker Eddy, poet Robert Frost, astronaut Alan Shepard, rock musician Ronnie James Dio, author Dan Brown, actor Adam Sandler, inventor Dean Kamen, comedians Sarah Silverman and Seth Meyers, restaurateurs Richard and Maurice McDonald, and President of the United States Franklin Pierce.
+\Predicted Summary:
+New Hampshire is a state in the Northeastern United States . New Hampshire is bordered by Massachusetts to the south, Vermont to the west, Maine and the Atlantic Ocean to the east . New Hampshire is the 5th smallest by area and the 10th least populous US state .
+
+GT:
+In summer and early autumn, New Hampshire is home to many county fairs, the largest being the Hopkinton State Fair, in Contoocook. New Hampshire's Lakes Region is home to many summer camps, especially around Lake Winnipesaukee, and is a popular tourist destination. The Peterborough Players have performed every summer in Peterborough since 1933. The Barnstormers Theatre in Tamworth, founded in 1931, is one of the longest-running professional summer theaters in the United States. In the winter, New Hampshire's ski areas and snowmobile trails attract visitors from a wide area. After the lakes freeze over they become dotted with ice fishing ice houses, known locally as bobhouses.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.23853211009174313, 0.5652173913043478, 0.3354838709677419, 0.20967741935483872]
+[0.08333333333333333, 0.2, 0.11764705882352941, 0.07352941176470588]
+[0.1651376146788991, 0.391304347826087, 0.23225806451612901, 0.14516129032258063]
+
+
+SBERT sim. Score: 0.3997560739517212

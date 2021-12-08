@@ -1,0 +1,21 @@
+Document:
+montana
+
+Intent:
+What are some of the most interesting things about this state?
+
+Input:
+Montana ( (listen)) is a state in the Northwestern United States. It is the fourth-largest state by area, the eighth-least populous state, and the third-least densely populated state. It is the fourth-largest state in the United States after Alaska, Texas, and California; it is the largest landlocked state. Montana is one of only two contiguous states (along with Colorado) that are antipodal to land. Montana is the only one of the first 48 states lacking a completed battleship being named for it. Montana has a larger Native American population, both numerically and as a percentage, than most US states. Of Montana's 20 largest cities, Polson (15.7%), Havre (13.0%), Great Falls (5.0%), Billings (4.4%), and Anaconda (3.1%) had the greatest percentages of Native American residents in 2010. It is the only state in the US with such a constitutional mandate. Montana has the highest suicide rate of any state in the US as of 2017. Montana and South Dakota are the only states to share a land border which is not traversed by a paved road.
+\Predicted Summary:
+Montana is a state in the Northwestern United States. It is bordered by the west, North Dakota and South Dakota to the east, and Wyoming to the south . Montana is the fourth-largest state by area, the eighth-least populous state, and the third-least densely populated state . the name Montana comes from the Latin word montaa, meaning "mountain" or more broadly "mountainous country"
+
+GT:
+Montana has no official nickname but several unofficial ones, most notably "Big Sky Country", "The Treasure State", "Land of the Shining Mountains", and "The Last Best Place". It is the fourth-largest state in the United States after Alaska, Texas, and California; it is the largest landlocked state. Hell Roaring Creek begins in southern Montana, and when combined with the Red Rock, Beaverhead, Jefferson, Missouri, and Mississippi River, is the longest river in North America and the fourth longest river in the world. The coldest temperature on record for Montana is also the coldest temperature for the contiguous United States. On January 20, 1954, −70 °F or −56.7 °C was recorded at a gold mining camp near Rogers Pass. Loma is the site of the most extreme recorded temperature change in a 24-hour period in the United States. On January 15, 1972, a chinook wind blew in and the temperature rose from −54 to 49 °F (−47.8 to 9.4 °C). As World War I broke out, Jeannette Rankin, the first woman in the United States to be a member of Congress, voted against the United States' declaration of war. Montana is the only one of the first 48 states lacking a completed battleship being named for it. Montana eventually became home to the largest ICBM field in the US covering 23,500 square miles (61,000 km2). Montana has a larger Native American population, both numerically and as a percentage, than most US states. Montana is ranked as the least obese state in the US, at 19.6%, according to the 2014 Gallup Poll. Montana has the highest suicide rate of any state in the US as of 2017. Montana's motto, Oro y Plata, Spanish for "Gold and Silver", recognizing the significant role of mining, was first adopted in 1865, when Montana was still a territory.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12540192926045016, 0.609375, 0.208, 0.13]
+[0.041935483870967745, 0.20634920634920634, 0.06970509383378017, 0.0435656836461126]
+[0.0932475884244373, 0.453125, 0.15466666666666667, 0.09666666666666668]
+
+
+SBERT sim. Score: 0.5186024904251099

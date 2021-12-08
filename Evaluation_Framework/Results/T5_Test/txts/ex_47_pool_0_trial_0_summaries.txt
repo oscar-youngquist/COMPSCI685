@@ -1,0 +1,21 @@
+Document:
+georgia
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+With the advantages of cheap real estate, low taxes, right-to-work laws and a regulatory environment limiting government interference, the Atlanta metropolitan area became a national center of finance, insurance, technology, manufacturing, real estate, logistics, and transportation companies, as well as the film, convention, and trade show businesses. The most popular freshwater game fish are trout, bream, bass, and catfish, all but the last of which are produced in state hatcheries for restocking. The colonial settlement of large numbers of Scottish American, English American and Scotch-Irish Americans in the mountains and piedmont, and coastal settlement by some English Americans and African Americans, have strongly influenced the state's culture in food, language and music. In the Atlanta area, World of Coke, Georgia Aquarium, Zoo Atlanta and Stone Mountain are important tourist attractions. There are a number of performing arts venues in the state, among the largest are the Fox Theatre, and the Alliance Theatre at the Woodruff Arts Center, both on Peachtree Street in Midtown Atlanta as well as the Cobb Energy Performing Arts Centre, located in Northwest Atlanta. Sports in Georgia include professional teams in nearly all major sports, Olympic Games contenders and medalists, collegiate teams in major and small-school conferences and associations, and active amateur teams and individual sports. The state of Georgia has teams in four major professional leagues—the Atlanta Braves of Major League Baseball, the Atlanta Falcons of the National Football League, the Atlanta Hawks of the National Basketball Association, and Atlanta United FC of Major League Soccer.
+\Predicted Summary:
+,,, the Mississippi Territory, to French Louisiana at the Mississippi River. Georgia is the 9th most populous metropolitan area in the United States . Georgia is the 9th most populous metropolitan area in the United States and contains about 57% of its entire population . Georgia is the 9th most populous metropolitan area in the United States and contains about 57% of the entire population .
+
+GT:
+Georgia's major fine art museums include the High Museum of Art and the Michael C. Carlos Museum, both in Atlanta; the Georgia Museum of Art on the campus of the University of Georgia in Athens; Telfair Museum of Art and the SCAD Museum of Art in Savannah; and the Morris Museum of Art in Augusta. The Atlanta Symphony Orchestra is the most widely recognized orchestra and largest arts organization in the southeastern United States. There are a number of performing arts venues in the state, among the largest are the Fox Theatre, and the Alliance Theatre at the Woodruff Arts Center, both on Peachtree Street in Midtown Atlanta as well as the Cobb Energy Performing Arts Centre, located in Northwest Atlanta. Well-known television shows set in Atlanta include, from Tyler Perry Studios, House of Payne and Tyler Perry's Meet the Browns, The Real Housewives of Atlanta, the CBS sitcom Designing Women, Matlock, the popular AMC series The Walking Dead, Lifetime's Drop Dead Diva, Rectify and numerous HGTV original productions. A number of notable musicians in various genres of popular music are from Georgia. The state of Georgia has teams in four major professional leagues—the Atlanta Braves of Major League Baseball, the Atlanta Falcons of the National Football League, the Atlanta Hawks of the National Basketball Association, and Atlanta United FC of Major League Soccer. The Masters golf tournament, the first of the PGA tour's four "majors", is held annually the second weekend of April at the Augusta National Golf Club.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.109375, 0.45161290322580644, 0.1761006289308176, 0.110062893081761]
+[0.023529411764705882, 0.09836065573770492, 0.0379746835443038, 0.02373417721518987]
+[0.0859375, 0.3548387096774194, 0.13836477987421383, 0.08647798742138364]
+
+
+SBERT sim. Score: 0.35228201746940613

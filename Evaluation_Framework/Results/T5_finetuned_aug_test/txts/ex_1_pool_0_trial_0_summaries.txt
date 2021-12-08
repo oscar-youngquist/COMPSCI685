@@ -1,21 +1,21 @@
 Document:
-delaware
+maine
 
 Intent:
-What are the available modes of transport in this state?
+The main reasons why you would like living in this state
 
 Input:
-In addition to I-95, there are six US highways that serve Delaware: US 9, US 13, US 40, US 113, US 202, and US 301. There are also several state highways that cross the state of Delaware; a few of them include DE 1, DE 9, and DE 404. US 40 is a primary east–west route, connecting Maryland with New Jersey. It is the first of several signed bike routes planned in Delaware. Amtrak has two stations in Delaware along the Northeast Corridor; the relatively quiet Newark Rail Station in Newark, and the busier Wilmington Rail Station in Wilmington. The Northeast Corridor is also served by SEPTA's Wilmington/Newark Line of Regional Rail, which serves Claymont, Wilmington, Churchmans Crossing, and Newark. Multiple short-line railroads provide freight service in Delaware. The Delmarva Central Railroad operates the most trackage of the short-line railroads, running from an interchange with Norfolk Southern in Porter south through Dover, Harrington, and Seaford to Delmar, with another line running from Harrington to Frankford and branches from Ellendale to Milton and from Georgetown to Gravel Hill. The system includes bus, subsidized passenger rail operated by Philadelphia transit agency SEPTA, and subsidized taxi and paratransit modes.
+It is also the northeasternmost among the contiguous United States, the northernmost state east of the Great Lakes, and the only state to border only one other state. As of 2010, Maine was also the most rural state in the Union, with only 38.7% of the state's population living within urban areas. The modest population growth in the state has been concentrated in the southern coastal counties However, the northern, more rural areas of the state have experienced a slight decline in population in recent years. The state is a popular destination for sport hunting (particularly deer, moose and bear), sport fishing, snowmobiling, skiing, boating, camping and hiking, among other activities. The state is a major producer of potatoes, wild blueberries, apples, maple syrup and sweet corn. Since the 1980s, the state has gotten a reputation for its local food and restaurant meals.
 \Predicted Summary:
-,,,,,, the Delaware River, named after Thomas West, 3rd Baron De La Warr (1577–1618) who was the ruling governor of the Colony of Virginia at the time Europeans first explored the river . Delaware is the second-smallest and sixth-least populous state, but also the sixth-most densely populated . Delaware is the second-smallest and sixth-least populous state, but also the sixth-most densely populated
+the Popham Colony, established by the Plymouth Company in 1607 . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states . Maine is the only state to border only one other state .
 
 GT:
-DelDOT manages programs such as a Delaware Adopt-a-Highway program, major road route snow removal, traffic control infrastructure (signs and signals), toll road management, Delaware Division of Motor Vehicles, the Delaware Transit Corporation (branded as "DART First State", the state government public transportation organization), among others. In 2009, DelDOT maintained 13,507 lane-miles, totaling 89 percent of the state's public roadway system, the rest being under the supervision of individual municipalities. Three ferries operate in the state of Delaware: Amtrak has two stations in Delaware along the Northeast Corridor; the relatively quiet Newark Rail Station in Newark, and the busier Wilmington Rail Station in Wilmington. The Northeast Corridor is also served by SEPTA's Wilmington/Newark Line of Regional Rail, which serves Claymont, Wilmington, Churchmans Crossing, and Newark. Two Class I railroads, Norfolk Southern and CSX, provide freight rail service in northern New Castle County. The DART First State public transportation system was named "Most Outstanding Public Transportation System" in 2003 by the American Public Transportation Association. The system includes bus, subsidized passenger rail operated by Philadelphia transit agency SEPTA, and subsidized taxi and paratransit modes. The paratransit system, consisting of a statewide door-to-door bus service for the elderly and disabled, has been described by a Delaware state report as "the most generous paratransit system in the United States". Various airlines had served Wilmington Airport, the latest departure being Frontier Airlines in April 2015. Therefore, Delaware commercial airline passengers most frequently use Philadelphia International Airport (PHL), Baltimore-Washington International Thurgood Marshall Airport (BWI) and Washington Dulles International Airport (IAD) for domestic and international transit.
+There are thirty institutions of higher learning in Maine. These institutions include the University of Maine, which is the oldest, largest and only research university in the state. Bowdoin College is a liberal arts college founded in 1794 in Brunswick, making it the oldest institution of higher learning in the state. The collegiate system of Maine also includes numerous baccalaureate colleges such as: the Maine Maritime Academy (MMA), Unity College, and Thomas College. Since the 1980s, the state has gotten a reputation for its local food and restaurant meals. Portland was named Bon Appetit magazine's Restaurant City of the Year in 2018.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.09293680297397769, 0.3787878787878788, 0.1492537313432836, 0.09328358208955223]
-[0.007462686567164179, 0.03076923076923077, 0.012012012012012012, 0.0075075075075075074]
-[0.06691449814126393, 0.2727272727272727, 0.10746268656716416, 0.06716417910447761]
+[0.17475728155339806, 0.4186046511627907, 0.24657534246575347, 0.15410958904109592]
+[0.0196078431372549, 0.047619047619047616, 0.027777777777777776, 0.017361111111111112]
+[0.11650485436893204, 0.27906976744186046, 0.1643835616438356, 0.10273972602739725]
 
 
-SBERT sim. Score: 0.4244118928909302
+SBERT sim. Score: 0.3747596740722656

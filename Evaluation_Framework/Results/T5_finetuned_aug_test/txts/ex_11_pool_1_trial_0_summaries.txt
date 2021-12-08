@@ -1,0 +1,21 @@
+Document:
+mississippi
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Their large earthworks, which expressed their cosmology of political and religious concepts, still stand throughout the Mississippi and Ohio River valleys. Blacks and whites in Mississippi generated rich, quintessentially American music traditions: gospel music, country music, jazz, blues and rock and roll. Many musicians carried their music north to Chicago, where they made it the heart of that city's jazz and blues. Gambling towns in Mississippi have attracted increased tourism: they include the Gulf Coast resort towns of Bay St. Louis, Gulfport and Biloxi, and the Mississippi River towns of Tunica (the third largest gaming area in the United States), Greenville, Vicksburg and Natchez. While Mississippi has been especially known for its music and literature, it has embraced other forms of art. The Magnolia Independent Film Festival, still held annually in Starkville, is the first and oldest in the state. Musicians of the state's Delta region were historically significant to the development of the blues. Their friendship and respect is an important example of Mississippi's musical legacy. The state is creating a Mississippi Blues Trail, with dedicated markers explaining historic sites significant to the history of blues music, such as Clarksdale's Riverside Hotel, where Bessie Smith died after her auto accident on Highway 61. The Delta Blues Museum there is visited by tourists from all over the world. and Afroman, Mississippi musicians have been significant in all genres.
+\Predicted Summary:
+,,, Mississippi,,, and is the state's largest metropolitan area. Mississippi is the state's largest metropolitan area. Mississippi is the state's largest metropolitan area. Mississippi is the 32nd largest and 34th-most populous state. Mississippi is bordered to the north by Tennessee; to the east by Alabama; to the southwest by Louisiana; and to the northwest by Arkansas. Mississippi is the state's largest metropolitan area. Mississippi is the largest state in the country.
+
+GT:
+Gambling towns in Mississippi have attracted increased tourism: they include the Gulf Coast resort towns of Bay St. Louis, Gulfport and Biloxi, and the Mississippi River towns of Tunica (the third largest gaming area in the United States), Greenville, Vicksburg and Natchez. Before Hurricane Katrina struck the Gulf Coast, Mississippi was the second-largest gambling state in the Union, after Nevada and ahead of New Jersey. While Mississippi has been especially known for its music and literature, it has embraced other forms of art. Jackson established the USA International Ballet Competition, which is held every four years. The Magnolia Independent Film Festival, still held annually in Starkville, is the first and oldest in the state. Musicians of the state's Delta region were historically significant to the development of the blues. The state is creating a Mississippi Blues Trail, with dedicated markers explaining historic sites significant to the history of blues music, such as Clarksdale's Riverside Hotel, where Bessie Smith died after her auto accident on Highway 61. The Delta Blues Museum there is visited by tourists from all over the world. Elvis Presley, who created a sensation in the 1950s as a crossover artist and contributed to rock 'n' roll, was a native of Tupelo.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.18357487922705315, 0.5066666666666667, 0.2695035460992908, 0.16843971631205673]
+[0.043689320388349516, 0.12162162162162163, 0.0642857142857143, 0.04017857142857143]
+[0.13043478260869565, 0.36, 0.19148936170212763, 0.1196808510638298]
+
+
+SBERT sim. Score: 0.3407488763332367

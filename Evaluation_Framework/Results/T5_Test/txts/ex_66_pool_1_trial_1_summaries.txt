@@ -1,0 +1,21 @@
+Document:
+tennessee
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+In this valley are numerous towns and two of the region's three urban areas, Knoxville, the third largest city in the state, and Chattanooga, the fourth largest city in the state. East Tennessee has several important transportation links with Middle and West Tennessee, as well as the rest of the nation and the world, including several major airports and interstates. Knoxville's McGhee Tyson Airport (TYS) and Chattanooga's Chattanooga Metropolitan Airport (CHA), as well as the Tri-Cities' Tri-Cities Regional Airport (TRI), provide air service to numerous destinations. I-24, I-81, I-40, I-75, and I-26 along with numerous state highways and other important roads, traverse the Grand Division and connect Chattanooga, Knoxville, and the Tri-Cities, along with other cities and towns such as Cleveland, Athens, and Sevierville. Middle Tennessee is one of the primary state population and transportation centers along with the heart of state government. Its branch interstate highways include I-240 in Memphis I-26, although technically an east–west interstate, runs from the North Carolina border below Johnson City to its terminus at Kingsport. Major airports within the state include Memphis International Airport (MEM), Nashville International Airport (BNA), McGhee Tyson Airport (TYS) outside of Knoxville in Blount County, Chattanooga Metropolitan Airport (CHA), Tri-Cities Regional Airport (TRI), and McKellar-Sipes Regional Airport (MKL), in Jackson. For passenger rail service, Memphis and Newbern, are served by the Amtrak City of New Orleans line on its run between Chicago, Illinois, and New Orleans, Louisiana. Nashville is served by the Music City Star commuter rail service. Norfolk Southern Railway operates lines in East Tennessee, through cities including Knoxville and Chattanooga, and operates a classification yard near Knoxville, the John Sevier Yard.
+\Predicted Summary:
+the Confederacy in 1861. Tennessee was the first state to leave the Union at the end of the war . Tennessee was the last state to leave the Union at the outbreak of the American Civil War in 1861 . Tennessee was the first state to join the Confederacy at the outbreak of the American Civil War .
+
+GT:
+East Tennessee has several important transportation links with Middle and West Tennessee, as well as the rest of the nation and the world, including several major airports and interstates. Knoxville's McGhee Tyson Airport (TYS) and Chattanooga's Chattanooga Metropolitan Airport (CHA), as well as the Tri-Cities' Tri-Cities Regional Airport (TRI), provide air service to numerous destinations. I-24, I-81, I-40, I-75, and I-26 along with numerous state highways and other important roads, traverse the Grand Division and connect Chattanooga, Knoxville, and the Tri-Cities, along with other cities and towns such as Cleveland, Athens, and Sevierville. Interstate 40 crosses the state in an east–west orientation. Its branch interstate highways include I-240 in Memphis Major airports within the state include Memphis International Airport (MEM), Nashville International Airport (BNA), McGhee Tyson Airport (TYS) outside of Knoxville in Blount County, Chattanooga Metropolitan Airport (CHA), Tri-Cities Regional Airport (TRI), and McKellar-Sipes Regional Airport (MKL), in Jackson. For passenger rail service, Memphis and Newbern, are served by the Amtrak City of New Orleans line on its run between Chicago, Illinois, and New Orleans, Louisiana. Nashville is served by the Music City Star commuter rail service. Cargo services in Tennessee are primarily served by CSX Transportation, which has a hump yard in Nashville called Radnor Yard. Norfolk Southern Railway operates lines in East Tennessee, through cities including Knoxville and Chattanooga, and operates a classification yard near Knoxville, the John Sevier Yard. BNSF operates a major intermodal facility in Memphis.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09055118110236221, 0.41818181818181815, 0.1488673139158576, 0.09304207119741101]
+[0.003952569169960474, 0.018518518518518517, 0.0065146579804560255, 0.004071661237785016]
+[0.05905511811023622, 0.2727272727272727, 0.0970873786407767, 0.060679611650485424]
+
+
+SBERT sim. Score: 0.21471145749092102

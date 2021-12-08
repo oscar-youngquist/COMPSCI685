@@ -1,0 +1,21 @@
+Document:
+texas
+
+Intent:
+What drives the economy in this state?
+
+Input:
+With a growing base of industry, the state leads in many industries, including tourism, agriculture, petrochemicals, energy, computers and electronics, aerospace, and biomedical sciences. Cotton and lumber became major industries creating new economic booms in various regions of the state. Causes of the state's vast greenhouse gas emissions include the state's large number of coal power plants and the state's refining and manufacturing industries. At $7.4 billion or 56.7 percent of Texas's annual agricultural cash receipts, beef cattle production represents the largest single segment of Texas agriculture. Texas leads the nation in the production of cattle, horses, sheep, goats, wool, mohair and hay. The state also leads the nation in production of cotton which is the number one crop grown in the state in terms of value. The state is a leader in renewable energy commercialization
+\Predicted Summary:
+, Texas is the second largest state in the US, and the second largest in the US . Texas is the second largest state by both area (after Alaska) and population (after California). Texas shares borders with the states of Louisiana to the east, Arkansas to the northeast, Oklahoma to the north, New Mexico to the west, and the Mexican states of Chihuahua, Coahuila, Nuevo León, and Tamaulipas to the south and southwest .
+
+GT:
+Texas developed a diversified economy and high tech industry in the mid-20th century. With a growing base of industry, the state leads in many industries, including tourism, agriculture, petrochemicals, energy, computers and electronics, aerospace, and biomedical sciences. Texas's economy is the second-largest of any country subdivision globally, behind California. Its per capita personal income in 2009 was $36,484, ranking 29th in the nation. Texas's large population, an abundance of natural resources, thriving cities and leading centers of higher education have contributed to a large and diverse economy. Since oil was discovered, the state's economy has reflected the state of the petroleum industry.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.26851851851851855, 0.4027777777777778, 0.3222222222222223, 0.20138888888888892]
+[0.06542056074766354, 0.09859154929577464, 0.07865168539325842, 0.04915730337078651]
+[0.17592592592592593, 0.2638888888888889, 0.2111111111111111, 0.13194444444444445]
+
+
+SBERT sim. Score: 0.6932042241096497

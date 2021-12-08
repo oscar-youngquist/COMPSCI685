@@ -1,0 +1,21 @@
+Document:
+tennessee
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+East Tennessee has several important transportation links with Middle and West Tennessee, as well as the rest of the nation and the world, including several major airports and interstates. I-24, I-81, I-40, I-75, and I-26 along with numerous state highways and other important roads, traverse the Grand Division and connect Chattanooga, Knoxville, and the Tri-Cities, along with other cities and towns such as Cleveland, Athens, and Sevierville. Middle Tennessee is one of the primary state population and transportation centers along with the heart of state government. Interstate 40 crosses the state in an east–west orientation. Its branch interstate highways include I-240 in Memphis In a north–south orientation are highways I-55, I-65, I-75, and I-81. I-155 is a branch highway from I-55. An extension of I-69 is proposed to travel through the western part of the state, from South Fulton to Memphis. A branch interstate, I-269 also exists from Millington to Collierville. For passenger rail service, Memphis and Newbern, are served by the Amtrak City of New Orleans line on its run between Chicago, Illinois, and New Orleans, Louisiana. Nashville is served by the Music City Star commuter rail service.
+\Predicted Summary:
+,,,,,, and in the early 1940s, the city of Oak Ridge. Tennessee is the state's capital and largest city, with a 2019 population of 670,820 and a 2019 metro population of 1,934,045 . Tennessee is the 36th largest by area and the 16th most populous of the 50 states . Tennessee is rooted in the Watauga Association, a 1772 frontier pact .
+
+GT:
+East Tennessee has several important transportation links with Middle and West Tennessee, as well as the rest of the nation and the world, including several major airports and interstates. Knoxville's McGhee Tyson Airport (TYS) and Chattanooga's Chattanooga Metropolitan Airport (CHA), as well as the Tri-Cities' Tri-Cities Regional Airport (TRI), provide air service to numerous destinations. I-24, I-81, I-40, I-75, and I-26 along with numerous state highways and other important roads, traverse the Grand Division and connect Chattanooga, Knoxville, and the Tri-Cities, along with other cities and towns such as Cleveland, Athens, and Sevierville. Interstate 40 crosses the state in an east–west orientation. Its branch interstate highways include I-240 in Memphis Major airports within the state include Memphis International Airport (MEM), Nashville International Airport (BNA), McGhee Tyson Airport (TYS) outside of Knoxville in Blount County, Chattanooga Metropolitan Airport (CHA), Tri-Cities Regional Airport (TRI), and McKellar-Sipes Regional Airport (MKL), in Jackson. For passenger rail service, Memphis and Newbern, are served by the Amtrak City of New Orleans line on its run between Chicago, Illinois, and New Orleans, Louisiana. Nashville is served by the Music City Star commuter rail service. Cargo services in Tennessee are primarily served by CSX Transportation, which has a hump yard in Nashville called Radnor Yard. Norfolk Southern Railway operates lines in East Tennessee, through cities including Knoxville and Chattanooga, and operates a classification yard near Knoxville, the John Sevier Yard. BNSF operates a major intermodal facility in Memphis.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11811023622047244, 0.4838709677419355, 0.18987341772151897, 0.11867088607594935]
+[0.015810276679841896, 0.06557377049180328, 0.02547770700636942, 0.015923566878980888]
+[0.07086614173228346, 0.2903225806451613, 0.1139240506329114, 0.07120253164556962]
+
+
+SBERT sim. Score: 0.3262544274330139

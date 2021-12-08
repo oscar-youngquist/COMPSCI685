@@ -1,0 +1,21 @@
+Document:
+kansas
+
+Intent:
+What are the major historical events in this state?
+
+Input:
+When it was officially opened to settlement by the US government in 1854 with the Kansas–Nebraska Act, abolitionist Free-Staters from New England and pro-slavery settlers from neighboring Missouri rushed to the territory to determine whether Kansas would become a free state or a slave state. Between 1763 and 1803 the territory of Kansas was integrated into Spanish Louisiana. The governor Luis de Unzaga 'le Conciliateur', during that period, promoted expeditions and good relations with the Amerindians peoples, among the explorers were Antoine de Marigny and others who continued trading across the Kansas River, especially at its confluence with the Missouri River, tributaries of the Mississippi River. Southwest Kansas, however, was still a part of Spain, Mexico, and the Republic of Texas until the conclusion of the Mexican–American War in 1848, when these lands were ceded to the United States. Missouri and Arkansas sent settlers into Kansas all along its eastern border. Many African Americans also looked to Kansas as the land of "John Brown" and, led by freedmen like Benjamin "Pap" Singleton, began establishing black colonies in the state.
+\Predicted Summary:
+,,, and was occupied by the abolitionists in 1861. Kansas is the 15th-largest state by area and is the 34th most-populous state by area . Kansas was once home to many and diverse Native American tribes, including the kansans . the state was once a free state, and was once a slave state .
+
+GT:
+The first European to set foot in present-day Kansas was the Spanish conquistador Francisco Vázquez de Coronado, who explored the area in 1541. In 1803, most of modern Kansas was acquired by the United States as part of the Louisiana Purchase. In 1827, Fort Leavenworth became the first permanent settlement of white Americans in the future state. Kansas was admitted to the Union as a free state on January 29, 1861, making it the 34th state to join the United States. Many African Americans also looked to Kansas as the land of "John Brown" and, led by freedmen like Benjamin "Pap" Singleton, began establishing black colonies in the state. Leaving southern states in the late 1870s because of increasing discrimination, they became known as Exodusters.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2204724409448819, 0.5384615384615384, 0.3128491620111732, 0.19553072625698326]
+[0.047619047619047616, 0.11764705882352941, 0.06779661016949151, 0.0423728813559322]
+[0.13385826771653545, 0.3269230769230769, 0.18994413407821228, 0.11871508379888267]
+
+
+SBERT sim. Score: 0.5803796648979187

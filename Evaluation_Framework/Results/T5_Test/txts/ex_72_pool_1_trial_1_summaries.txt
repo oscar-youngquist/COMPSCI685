@@ -1,0 +1,21 @@
+Document:
+florida
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Other urban areas in the state with a population of more than one million are Tampa Bay, Orlando, and Jacksonville. It is the flattest state in the United States, and Lake Okeechobee is its largest freshwater lake. With a population of more than 18 million, according to the 2010 census, Florida is the most populous state in the southeastern United States and the third-most populous in the United States. Florida is one of the largest states east of the Mississippi River, and only Alaska and Michigan are larger in water area. This is the third-most diverse state in the union, behind California and Texas, both larger states. Those of English and Irish ancestry are present in large numbers in all the urban/suburban areas across the state. Because of this, the area has consistently voted as one of the most Democratic areas of the state.
+\Predicted Summary:
+is the second largest state in the world. Florida is the third-most populous and the 22nd-most extensive of the 50 United States. Florida is the third-most populous state in the southeastern region of the United States. Florida is the principal location of the Seminole Wars (1816 – 1858), the longest and most extensive of Indian Wars in United States history. Florida was restored to the Union on January 10, 1861.
+
+GT:
+Due to its subtropical and tropical climate, Florida rarely receives measurable snowfall. Florida is host to many types of wildlife including: Florida is a low per capita energy user. Florida's economy ranks among the largest in the world. Tourism makes up one of the largest sectors of the state economy, with nearly 1.4 million people employed in the tourism industry in 2016 (a record for the state, surpassing the 1.2 million employment from 2015). Florida has the largest collection of Art Deco and Streamline Moderne buildings, both in the United States and in the entire world, most of which are located in the Miami metropolitan area, especially Miami Beach's Art Deco District, constructed as the city was becoming a resort destination. Florida overall was ranked the 7th best state in America for educating students at all levels by US News & World Report in 2018. Florida has three NFL teams, two MLB teams, two NBA teams, two NHL teams, and two MLS teams.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2289156626506024, 0.5277777777777778, 0.31932773109243695, 0.19957983193277315]
+[0.06060606060606061, 0.14084507042253522, 0.08474576271186442, 0.05296610169491526]
+[0.15060240963855423, 0.3472222222222222, 0.2100840336134454, 0.13130252100840337]
+
+
+SBERT sim. Score: 0.5829105377197266

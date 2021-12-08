@@ -1,0 +1,21 @@
+Document:
+new_york
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+The next four most populous cities in the state are Buffalo, Rochester, Yonkers, and Syracuse, while the state capital is Albany. The central part of the state is dominated by the Finger Lakes, a popular vacation and tourist destination. It is larger than the Yellowstone, Yosemite, Grand Canyon, Glacier, and Olympic National Parks combined. The state also has a large manufacturing sector that includes printing and the production of garments, mainly in New York City; and furs, railroad equipment, automobile parts, and bus line vehicles, concentrated in Upstate regions. New York City, as well as the state's other major urban locales, including Albany, Buffalo, Rochester, Yonkers, and Syracuse, are significant Democratic strongholds, with liberal politics. The annual United States Open Tennis Championships is one of the world's four Grand Slam tennis tournaments and is held at the National Tennis Center in Flushing Meadows–Corona Park in the New York City borough of Queens.
+\Predicted Summary:
+the first Europeans arrived southward from New York to New York . New York is a state in the northeastern United States. It was one of the original thirteen colonies, forming the United States. New York is the 27th largest state. With an estimated population of 8.34 million as of 2019 makes it the fourth most populous city in the world. New York is the most populous city in the world.
+
+GT:
+Niagara Falls State Park, established in 1885, is the oldest state park in the United States and the first to be created via eminent domain. The Catskill Park was protected in legislation passed in 1885, which declared that its land was to be conserved and never put up for sale or lease. The State of New York is well represented in the National Park System with 22 national parks, which received 16,349,381 visitors in 2011. This constitutes a total LGBT adult population of 570,388 individuals. New York also has two Major League Baseball teams, the New York Yankees (based in the Bronx) and the New York Mets (based in Queens). The National Museum of Racing and Hall of Fame in Saratoga Springs, Saratoga County, honors achievements in the sport of thoroughbred horse racing.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2647058823529412, 0.5070422535211268, 0.3478260869565218, 0.21739130434782608]
+[0.0962962962962963, 0.18571428571428572, 0.1268292682926829, 0.07926829268292683]
+[0.17647058823529413, 0.3380281690140845, 0.2318840579710145, 0.14492753623188406]
+
+
+SBERT sim. Score: 0.36662212014198303

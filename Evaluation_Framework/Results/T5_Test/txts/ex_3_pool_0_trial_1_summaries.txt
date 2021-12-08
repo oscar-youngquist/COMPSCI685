@@ -1,0 +1,21 @@
+Document:
+wisconsin
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Like neighboring Minnesota, the state remains a center of German American and Scandinavian American culture. Manufacturing (especially paper products), information technology, cranberries, ginseng, and tourism are also major contributors to the state's economy. Many immigrants carried cheese-making traditions that, combined with the state's suitable geography and dairy research led by Stephen Babcock at the University of Wisconsin, helped the state build a reputation as "America's Dairyland". As of 2010, the Catholic Church had the highest number of adherents in Wisconsin (at 1,425,523), followed by the Evangelical Lutheran Church in America with 414,326 members, and the Lutheran Church–Missouri Synod with 223,279 adherents. A large part of the state's manufacturing sector includes commercial food processing, including well-known brands such as Oscar Mayer, Tombstone frozen pizza, Johnsonville brats, and Usinger's sausage. The traditional prominence of references to dairy farming and cheesemaking in Wisconsin's rural economy (the state's license plates have read "America's Dairyland" since 1940) have led to the nickname (sometimes used pejoratively among non-residents) of "cheeseheads", and to the creation of "cheesehead hats" made of yellow foam in the shape of a wedge of cheese.
+\Predicted Summary:
+Jacques Marquette was the first European to reach the Wisconsin River . French writers changed the spelling from Ouisconsin to Ouisconsin . Wisconsin is a state in the Great Lakes region of the Midwestern United States . Wisconsin is the 23rd-largest state by total area and the 20th-most populous .
+
+GT:
+Tourist destinations such as the House on the Rock near Spring Green, Circus World Museum in Baraboo, and The Dells of the Wisconsin River draw thousands of visitors annually, and festivals such as Summerfest and the EAA Oshkosh Airshow draw international attention, along with hundreds of thousands of visitors. In the North Country, what had been an industrial area focused on timber has largely been transformed into a vacation destination. Popular interest in the environment and environmentalism, added to traditional interests in hunting and fishing, has attracted a large urban audience within driving range. The distinctive Door Peninsula, which extends off the eastern coast of the state, contains one of the state's tourist destinations, Door County. Door County is a popular destination for boaters because of the large number of natural harbors, bays, and boat launches on both the Green Bay and Lake Michigan sides of the peninsula that forms the county. The area draws more than two million visitors yearly to its quaint villages, seasonal cherry picking, and fish boils.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11627906976744186, 0.4166666666666667, 0.1818181818181818, 0.11363636363636363]
+[0.03508771929824561, 0.1276595744680851, 0.055045871559633024, 0.03440366972477064]
+[0.0872093023255814, 0.3125, 0.13636363636363635, 0.08522727272727272]
+
+
+SBERT sim. Score: 0.39513856172561646

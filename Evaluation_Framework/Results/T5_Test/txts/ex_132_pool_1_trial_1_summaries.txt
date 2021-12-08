@@ -1,0 +1,21 @@
+Document:
+michigan
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Michigan is the leading auto-producing state in the US, with the industry primarily located throughout the Midwestern United States; Ontario, Canada; and the Southern United States. Agriculture also serves a significant role, making the state a leading grower of fruit in the US, including blueberries, cherries, apples, grapes, and peaches. The state has numerous large islands, the principal ones being the North Manitou and South Manitou, Beaver, and Fox groups in Lake Michigan; Isle Royale and Grande Isle in Lake Superior; Marquette, Bois Blanc, and Mackinac islands in Lake Huron; and Neebish, Sugar, and Drummond islands in St. Mary's River. Other national protected areas in the state include: Keweenaw National Historical Park, Pictured Rocks National Lakeshore, Sleeping Bear Dunes National Lakeshore, Huron National Forest, Manistee National Forest, Hiawatha National Forest, Ottawa National Forest and Father Marquette National Memorial. With 78 state parks, 19 state recreation areas, and six state forests, Michigan has the largest state park and state forest system of any state. These parks and forests include Holland State Park, Mackinac Island State Park, Au Sable State Forest, and Mackinaw State Forest. A wide variety of commodity crops, fruits, and vegetables are grown in Michigan, making it second only to California among US states in the diversity of its agriculture. Livestock in the state included 78,000 sheep, a million cattle, a million hogs, and more than three million chickens. The state has the highest number of golf courses and registered snowmobiles in the nation.
+\Predicted Summary:
+in the 17th century, it was claimed as part of new France colony . It was claimed as part of new France colony . the region was once part of the larger Northwest Territory .
+
+GT:
+In 2018, the state electorate passed proposals to create an independent redistricting commission, and to legalize the recreational use of marijuana. In 2020, voters approved two ballot measures, one to increase the limit of money from sales of gas and oil from state-owned land that can benefit state parks, and another to require a warrant for search or seizure of electronic data and communications. The state is home to several areas maintained by the National Park Service including: Isle Royale National Park, in Lake Superior, about 30 miles (48 km) southeast of Thunder Bay, Ontario. With 78 state parks, 19 state recreation areas, and six state forests, Michigan has the largest state park and state forest system of any state. Michigan's schools and colleges rank among the nation's best. The state has maintained its early commitment to public education. The state's infrastructure gives it a competitive edge Michigan led the nation in job creation improvement in 2010. Michigan's personal income tax is a flat rate of 4.25%. A wide variety of commodity crops, fruits, and vegetables are grown in Michigan, making it second only to California among US states in the diversity of its agriculture.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.04477611940298507, 0.28125, 0.07725321888412016, 0.0482832618025751]
+[0.005, 0.03225806451612903, 0.008658008658008658, 0.005411255411255412]
+[0.03482587064676617, 0.21875, 0.060085836909871244, 0.03755364806866953]
+
+
+SBERT sim. Score: 0.06666617095470428

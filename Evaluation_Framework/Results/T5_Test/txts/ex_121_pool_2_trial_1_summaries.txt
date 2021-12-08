@@ -1,0 +1,21 @@
+Document:
+kansas
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+By 2015, Kansas was one of the most productive agricultural states, producing high yields of wheat, corn, sorghum, and soybeans. Kansas, which has an area of 82,278 square miles (213,100 square kilometers) is the 15th-largest state by area and is the 34th most-populous of the 50 states with a population of 2,913,314. Thus, Kansas is the country's ninth or tenth sunniest state, depending on the source. In 2006, the city was ranked as the sixth best place to live in America; the neighboring city of Olathe was 13th. The cities of Olathe, Shawnee, De Soto and Gardner have some of the state's fastest growing populations. To the north, Kansas City, with the second largest land area in the state, contains a number of diverse ethnic neighborhoods. The state's agricultural outputs are cattle, sheep, wheat, sorghum, soybeans, cotton, hogs, corn, and salt. Kansas is ranked eighth in US petroleum production. Kansas is also ranked eighth in US natural gas production. Kansas also has the country's third largest state highway system after Texas and California.
+\Predicted Summary:
+,, was a hotbed of violence and chaos in its early days as these forces collided . Kansas is the 15th-largest state by area and is the 34th most-populous of the 50 states . by 2015, Kansas was one of the most productive agricultural states by area .
+
+GT:
+Its attractions include the Kansas Speedway, Sporting Kansas City, Kansas City T-Bones, Schlitterbahn, and The Legends at Village West retail and entertainment center. Nearby, Kansas's first settlement Bonner Springs is home to several national and regional attractions including the Providence Medical Center Amphitheather, the National Agricultural Center and Hall of Fame, and the annual Kansas City Renaissance Festival. The state's economy is also heavily influenced by the aerospace industry. Several large aircraft corporations have manufacturing facilities in Wichita and Kansas City, including Spirit AeroSystems, Bombardier Aerospace (LearJet), and Textron Aviation (a merger of the former Cessna, Hawker, and Beechcraft brands). Major companies headquartered in Kansas include the Sprint Corporation (with world headquarters in Overland Park), YRC Worldwide (Overland Park), Garmin (Olathe), Payless Shoes (national headquarters and major distribution facilities in Topeka), and Koch Industries (with national headquarters in Wichita), and Coleman (headquarters in Wichita) . Telephone company Embarq formerly had its national headquarters in Overland Park before its acquisition by CenturyTel in 2009, and still employs several hundred people in Gardner. Sporting Kansas City, who have played their home games at Village West in Kansas City, since 2008, are the first top-tier professional sports league and first Major League Soccer team to be located within Kansas. In 2011 the team moved to their new home, a $165m soccer specific stadium now known as Children's Mercy Park. Historically, Kansans have supported the major league sports teams of Kansas City, Missouri, including the Kansas City Royals (MLB), and the Kansas City Chiefs (NFL), in part because the home stadiums for these teams are a few miles from the Kansas border.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08088235294117647, 0.4782608695652174, 0.13836477987421383, 0.08647798742138364]
+[0.0036900369003690036, 0.022222222222222223, 0.006329113924050633, 0.003955696202531646]
+[0.051470588235294115, 0.30434782608695654, 0.0880503144654088, 0.055031446540880505]
+
+
+SBERT sim. Score: 0.32144808769226074

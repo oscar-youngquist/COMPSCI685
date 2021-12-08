@@ -1,0 +1,21 @@
+Document:
+florida
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+This is the second-highest number of islands of any state Much of the state is at or near sea level. This is the third-most diverse state in the union, behind California and Texas, both larger states. Most of this is in Bone Valley. This was the sixth highest percentage of any US state. Florida has the second largest Puerto Rican population after New York, as well as the fastest-growing in the nation. This is the largest Jewish population in the southern US and the third-largest in the US behind those of New York and California. The area is often seen as a merging point of the conservative northern portion of the state and the liberal southern portion, making it the biggest swing area in the state. In 2004, they had a combined total of 95.7% of the state's domestic product. Many coastal cities include some of the wealthiest per-capita areas in the United States. Tourism makes up one of the largest sectors of the state economy, with nearly 1.4 million people employed in the tourism industry in 2016 (a record for the state, surpassing the 1.2 million employment from 2015). Agriculture is the second largest industry in the state.
+\Predicted Summary:
+is the state of Florida, which is the second largest state in the world . Florida is the third-most populous state in the world, and the 22nd-most extensive in the world . Florida is the largest state in the world, and the state's economy relies on tourism, agriculture, and transportation .
+
+GT:
+Due to its subtropical and tropical climate, Florida rarely receives measurable snowfall. Florida's economy ranks among the largest in the world. As of 2018, the gross state product (GSP) is about $1.0 trillion, the fourth largest economy in the United States. Florida is responsible for 5 percent of the United States' approximately $21 trillion gross domestic product (GDP). Tourism makes up one of the largest sectors of the state economy, with nearly 1.4 million people employed in the tourism industry in 2016 (a record for the state, surpassing the 1.2 million employment from 2015). Many beach towns are popular tourist destinations, particularly during winter and spring break. Amusement parks, especially in the Greater Orlando area, make up a significant portion of tourism. The Walt Disney World Resort is the most visited vacation resort in the world with more than 58 million visitors annually, consisting of four theme parks, 27 themed resort hotels, nine non-Disney hotels, two water parks, four golf courses and other recreational venues. Other major theme parks in the area include Universal Orlando Resort, SeaWorld Orlando and Busch Gardens Tampa. Florida has three NFL teams, two MLB teams, two NBA teams, two NHL teams, and two MLS teams. Florida gained its first permanent major-league professional sports team in 1966 when the American Football League added the Miami Dolphins. About half of all Major League Baseball teams conduct spring training in the state, with teams informally organized into the "Grapefruit League". Throughout MLB history, other teams have held spring training in Florida. NASCAR (headquartered in Daytona Beach) begins all three of its major auto racing series in Florida at Daytona International Speedway in February, featuring the Daytona 500, and ends all three Series in November at Homestead-Miami Speedway. Florida is a major golf hub. Florida has teams in all five American major league sports. Florida's most recent major-league team, Inter Miami, began play in MLS in 2020.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12232415902140673, 0.7843137254901961, 0.21164021164021163, 0.13227513227513227]
+[0.03987730061349693, 0.26, 0.06914893617021277, 0.043218085106382975]
+[0.08256880733944955, 0.5294117647058824, 0.14285714285714285, 0.08928571428571427]
+
+
+SBERT sim. Score: 0.6188116073608398

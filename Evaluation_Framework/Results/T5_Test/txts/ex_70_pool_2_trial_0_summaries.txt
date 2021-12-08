@@ -1,0 +1,21 @@
+Document:
+california
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+There are about a dozen important commercial airports and many more general aviation airports throughout the state. Inter-city rail travel is provided by Amtrak California; the three routes, the Capitol Corridor, Pacific Surfliner, and San Joaquin, are funded by Caltrans. Integrated subway and light rail networks are found in Los Angeles (Metro Rail) and San Francisco (MUNI Metro). Furthermore, commuter rail networks serve the San Francisco Bay Area (ACE, BART, Caltrain, SMART), Greater Los Angeles (Metrolink), and San Diego County (Coaster). Nearly all counties operate bus lines, and many cities operate their own city bus lines as well. Intercity bus travel is provided by Greyhound, Megabus, and Amtrak Thruway Motorcoach.
+\Predicted Summary:
+, and the San Francisco Bay Area are the nation's second- and fifth-most-populous urban regions . California is considered the origin of the hippie counterculture, beach and car culture, the Internet, the Internet, and the internet . California is considered the origin of the hippie counterculture, beach and car culture, the Internet, the Internet, and the internet .
+
+GT:
+California's vast terrain is connected by an extensive system of controlled-access highways ('freeways'), limited-access roads ('expressways'), and highways. Los Angeles International Airport (LAX), the 4th busiest airport in the world in 2018, and San Francisco International Airport (SFO), the 25th busiest airport in the world in 2018, are major hubs for trans-Pacific and transcontinental traffic. There are about a dozen important commercial airports and many more general aviation airports throughout the state. California also has several important seaports. The giant seaport complex formed by the Port of Los Angeles and the Port of Long Beach in Southern California is the largest in the country and responsible for handling about a fourth of all container cargo traffic in the United States. Inter-city rail travel is provided by Amtrak California; the three routes, the Capitol Corridor, Pacific Surfliner, and San Joaquin, are funded by Caltrans. These services are the busiest intercity rail lines in the United States outside the Northeast Corridor and ridership is continuing to set records. Nearly all counties operate bus lines, and many cities operate their own city bus lines as well. Intercity bus travel is provided by Greyhound, Megabus, and Amtrak Thruway Motorcoach.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.145, 0.5087719298245614, 0.22568093385214008, 0.14105058365758752]
+[0.020100502512562814, 0.07142857142857142, 0.03137254901960784, 0.0196078431372549]
+[0.11, 0.38596491228070173, 0.17120622568093385, 0.10700389105058367]
+
+
+SBERT sim. Score: 0.3181987404823303

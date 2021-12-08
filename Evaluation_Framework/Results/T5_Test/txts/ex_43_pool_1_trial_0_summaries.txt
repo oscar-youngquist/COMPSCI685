@@ -1,0 +1,21 @@
+Document:
+tennessee
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The state constitution allows no more than two justices of the five-member Tennessee Supreme Court to be from one Grand Division and a similar rule applies to certain commissions and boards. The governor is the only official who is elected statewide. Unlike most states, the state does not elect the lieutenant governor directly; the Tennessee Senatorte elects its Speaker, who serves as lieutenant governor. The bicameral Legislative Branch, known as the Tennessee General Assembly, consists of the 33-member Senatorte and the 99-member House of Representatives. The speaker of the state Senatorte also holds the title of lieutenant governor. Constitutional officials in the legislative branch are elected by a joint session of the legislature. In the early 21st century, Republican voters control most of the state, especially in the more rural and suburban areas outside of the cities; Democratic strength is mostly confined to the urban cores of the four major cities, and is particularly strong in the cities of Nashville and Memphis. It also required both houses of state legislatures to be based on population for representation and not geographic districts such as counties. Tennessee's Constitution requires that each County have an elected Sheriff.
+\Predicted Summary:
+the Confederacy in 1861. Tennessee was the first state to leave the Union at the end of the war . Tennessee was the last state to leave the Union at the outbreak of the American Civil War in 1861 . Tennessee was the first state to join the Confederacy at the outbreak of the American Civil War .
+
+GT:
+Similar to the United States Federal Government, Tennessee's government has three parts. The Executive Branch is led by Tennessee's governor, who holds office for a four-year term and may serve a maximum of two consecutive terms. The governor is the only official who is elected statewide. Unlike most states, the state does not elect the lieutenant governor directly; the Tennessee Senatorte elects its Speaker, who serves as lieutenant governor. The governor is supported by 22 cabinet-level departments, most headed by a commissioner who serves at the pleasure of the governor: The Executive Branch also includes several agencies, boards and commissions, some of which are under the auspices of one of the cabinet-level departments. The bicameral Legislative Branch, known as the Tennessee General Assembly, consists of the 33-member Senatorte and the 99-member House of Representatives. Senatortors serve four-year terms, and House members serve two-year terms. Each chamber chooses its own speaker. The speaker of the state Senatorte also holds the title of lieutenant governor. Constitutional officials in the legislative branch are elected by a joint session of the legislature. The highest court in Tennessee is the state Supreme Court. It has a chief justice and four associate justices. No more than two justices can be from the same Grand Division. The Supreme Court of Tennessee also appoints the Attorney General, a practice not found in any of the other 49 states. Both the Court of Appeals and the Court of Criminal Appeals have 12 judges. A number of local, circuit, and federal courts provide judicial services.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09848484848484848, 0.4727272727272727, 0.16300940438871472, 0.10188087774294671]
+[0.015209125475285171, 0.07407407407407407, 0.025236593059936908, 0.015772870662460567]
+[0.09090909090909091, 0.43636363636363634, 0.1504702194357367, 0.09404388714733543]
+
+
+SBERT sim. Score: 0.29498594999313354

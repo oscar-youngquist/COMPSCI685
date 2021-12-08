@@ -1,0 +1,21 @@
+Document:
+new_hampshire
+
+Intent:
+What drives the economy in this state?
+
+Input:
+It is the state with the highest percentage of timberland area in the country. It contains less than 5% of the state's population, suffers relatively high poverty, and is steadily losing population as the logging and paper industries decline. The northern parts of the state produced lumber, and the mountains provided tourist attractions. Its agricultural outputs are dairy products, nursery stock, cattle, apples and eggs. Its industrial outputs are machinery, electric equipment, rubber and plastic products, and tourism is a major component of the economy. Today, of the state's total manufacturing dollar value, these sectors contribute only two percent for textiles, two percent for leather goods, and nine percent for machining. New Hampshire today has a broad-based and growing economy, with a state GDP growth rate of 2.2% in 2018. The state's largest economic sectors in 2018, based on contribution to GDP, are: 15% real estate and rental and leasing; 13% professional business services; 12% manufacturing; 10% government and government services; and 9% health care and social services. Efforts to diversify the state's general economy have been ongoing.
+\Predicted Summary:
+, New Hampshire is a state in the Northeastern United States. New Hampshire is a state in the Northeastern United States . New Hampshire is the 5th smallest by area and the 10th most populous state . New Hampshire is home to a number of other states, including the u.s., and the u.s.
+
+GT:
+The Bureau of Economic Analysis estimates that New Hampshire's total state product in 2018 was $86 billion, ranking 40th in the United States. Its agricultural outputs are dairy products, nursery stock, cattle, apples and eggs. Its industrial outputs are machinery, electric equipment, rubber and plastic products, and tourism is a major component of the economy. New Hampshire today has a broad-based and growing economy, with a state GDP growth rate of 2.2% in 2018. The state's largest economic sectors in 2018, based on contribution to GDP, are: 15% real estate and rental and leasing; 13% professional business services; 12% manufacturing; 10% government and government services; and 9% health care and social services. In March 2018, 86% of New Hampshire's workforce were employed by the private sector, with 53% of those workers being employed by firms with less than 100 employees. According to community surveys by the Economic & Labor Market Information Bureau of NH Employment Security, the following are the largest private employers in the state: New Hampshire's state government employs approximately 6,100 people. Additionally, the US Department of State employs approximately 1,600 people at the National Visa Center in Portsmouth, which processes United States immigrant visa petitions.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17073170731707318, 0.6730769230769231, 0.27237354085603116, 0.1702334630350195]
+[0.05392156862745098, 0.21568627450980393, 0.08627450980392157, 0.05392156862745098]
+[0.12195121951219512, 0.4807692307692308, 0.1945525291828794, 0.12159533073929962]
+
+
+SBERT sim. Score: 0.6234784126281738

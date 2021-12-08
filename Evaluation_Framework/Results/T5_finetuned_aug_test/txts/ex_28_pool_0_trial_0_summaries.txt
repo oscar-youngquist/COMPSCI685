@@ -1,0 +1,21 @@
+Document:
+maine
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+
+Input:
+Maine's Moosehead Lake is the largest lake wholly in New England, since Lake Champlain is located between Vermont, New York and Québec. The Northwest Aroostook, Maine unorganized territory in the northern part of the state, for example, has an area of 2,668 square miles (6,910 km2) and a population of 10, or one person for every 267 square miles (690 km2). Along the famous rock-bound coast of Maine are lighthouses, beaches, fishing villages, and thousands of offshore islands, including the Isles of Shoals which straddle the New Hampshire border. As explained in detail under "Geography", there are large tracts of uninhabited land in some remote parts of the interior of the state, particularly in the North Maine Woods. Tourism and outdoor recreation play a major and increasingly important role in Maine's economy. The state is a popular destination for sport hunting (particularly deer, moose and bear), sport fishing, snowmobiling, skiing, boating, camping and hiking, among other activities. Maine also has three Reservations: Indian Island, Indian Township Reservation, and Pleasant Point Indian Reservation. There are also branch campuses in Augusta, Farmington, Fort Kent, Machias, and Presque Isle.
+\Predicted Summary:
+the, established by the Plymouth Company in 1607, and established by the Plymouth Company in 1607 . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states . Maine is the only state to border only one other state .
+
+GT:
+Maine's Moosehead Lake is the largest lake wholly in New England, since Lake Champlain is located between Vermont, New York and Québec. Mount Katahdin is the northern terminus of the Appalachian Trail, which extends southerly to Springer Mountain, Georgia, and the southern terminus of the new International Appalachian Trail which, when complete, will run to Belle Isle, Newfoundland and Labrador. Also in this easternmost area in the Bay of Fundy is the Old Sow, the largest tidal whirlpool in the Western Hemisphere. Along the famous rock-bound coast of Maine are lighthouses, beaches, fishing villages, and thousands of offshore islands, including the Isles of Shoals which straddle the New Hampshire border. Bubble Rock, a glacial erratic, is a large boulder perched on the edge of Bubble Mountain in Acadia National Park. Acadia National Park is the only national park in New England.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14583333333333334, 0.42857142857142855, 0.21761658031088085, 0.13601036269430053]
+[0.03496503496503497, 0.10416666666666667, 0.052356020942408384, 0.03272251308900524]
+[0.10416666666666667, 0.30612244897959184, 0.15544041450777202, 0.09715025906735753]
+
+
+SBERT sim. Score: 0.3971642851829529

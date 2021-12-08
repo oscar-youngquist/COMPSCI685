@@ -1,0 +1,21 @@
+Document:
+hawaii
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Of the fifty US states, Hawaii is the eighth-smallest in area and the 11th-least populous, but with 1.4 million residents is the 13th-most densely populated. Hawaii is among the most diverse states in the country, owing to its central location in the Pacific and over two centuries of migration; it has the nation's only Asian American majority, largest Buddhist community, and largest proportion of multiracial people. Although its relative isolation results in one of the nation's highest costs of living, Hawaii ranks as the third wealthiest state in the US; Honolulu ranks high in several world livability rankings, ranking 22nd out of 140 cities worldwide in the 2019 Global Liveability Index, the highest of any American city. Hawaii has the highest percentage of Asian Americans and multiracial Americans and the lowest percentage of White Americans of any state. About 82.2% of the state's residents were born in the United States. Since statehood in 1959, tourism has been the largest industry, contributing 24.3% of the gross state product (GSP) in 1997, despite efforts to diversify. State Senatortor Sam Slom says state taxes are comparatively higher than other states because the state government handles education, health care, and social services that are usually handled at a county or municipal level in most other states. Hawaii home values were the highest of all states, including California with a median home value of US$211,500. Hawaii has the fewest local governments among US states.
+\Predicted Summary:
+, Hawaii is the fourth longest in the US, at about 750 miles (1,210 km) of the state's ocean coastline . Hawaii is the only state outside North America, the only island state, and the only state in the tropics . Hawaii is the only state outside the state, the only state in the tropics, and the fourth longest in the country .
+
+GT:
+Although its relative isolation results in one of the nation's highest costs of living, Hawaii ranks as the third wealthiest state in the US; Honolulu ranks high in several world livability rankings, ranking 22nd out of 140 cities worldwide in the 2019 Global Liveability Index, the highest of any American city. Hawaiʻi's climate is typical for the tropics, although temperatures and humidity tend to be less extreme because of near-constant trade winds from the east. Hawaii has had a long history of LGBT identities. A 2012 poll by Gallup found that Hawaii had the largest proportion of lesbian, gay, bisexual and transgender (LGBT) adults in the US, at 5.1%, comprising an estimated adult LGBT population of 53,966 individuals. The median home value in Hawaii in the 2000 US Census was US$272,700, while the national median home value was US$119,600. The cuisine of Hawaii is a fusion of many foods brought by immigrants to the Hawaiian Islands, including the earliest Polynesians and Native Hawaiian cuisine, and American, Chinese, Filipino, Japanese, Korean, Polynesian, Puerto Rican, and Portuguese origins.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17204301075268819, 0.5245901639344263, 0.25910931174089075, 0.1619433198380567]
+[0.05405405405405406, 0.16666666666666666, 0.0816326530612245, 0.05102040816326531]
+[0.10752688172043011, 0.32786885245901637, 0.16194331983805668, 0.10121457489878541]
+
+
+SBERT sim. Score: 0.45727917551994324

@@ -1,0 +1,21 @@
+Document:
+nevada
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The tourism industry remains Nevada's largest employer, with mining continuing as a substantial sector of the economy: Nevada is the fourth-largest producer of gold in the world. Nevada ranks second in the United States by the number of mountains, behind Alaska, and ahead of California, Montana, and Washington. Over 80% of the state's area is owned by the federal government. Mining plays an important role in the economies of the rural counties, with tourism being less prominent. The economy of Nevada is tied to tourism (especially entertainment and gambling related), mining, and cattle ranching. Nevada's industrial outputs are tourism, entertainment, mining, machinery, printing and publishing, food processing, and electric equipment. In portions of the state outside of the Las Vegas and Reno metropolitan areas mining plays a major economic role. Cattle ranching is a major economic activity in rural Nevada. Nevada's agricultural outputs are cattle, hay, alfalfa, dairy products, onions, and potatoes. The north has long maintained control of key positions in state government, even while the population of southern Nevada is larger than the rest of the state combined. The great majority of the state's elected officials are from either Las Vegas or Reno. The state is ranked just below California, Texas, Florida, and New York in the total number of rooms, but those states have much larger populations.
+\Predicted Summary:
+is a state in the Western United States. Nevada is bordered by Oregon to the northwest, Idaho to the northeast, California to the west, and Arizona to the southeast . Nevada is the 7th-most extensive, but the 9th-least densely populated of the US states . Nevada is officially known as the "Silver State" because of the importance of silver to its history and economy .
+
+GT:
+The economy of Nevada is tied to tourism (especially entertainment and gambling related), mining, and cattle ranching. Nevada's industrial outputs are tourism, entertainment, mining, machinery, printing and publishing, food processing, and electric equipment. The economy of Nevada has long been tied to vice industries. "[Nevada was] founded on mining and refounded on sin – beginning with prizefighting and easy divorce a century ago and later extending to gaming and prostitution", said the August 21, 2010 issue of The Economist. In portions of the state outside of the Las Vegas and Reno metropolitan areas mining plays a major economic role. By value, gold is by far the most important mineral mined. In 2004, 6,800,000 ounces (190,000,000 g) of gold worth $2.84 billion were mined in Nevada, and the state accounted for 8.7% of world gold production (see Gold mining in Nevada). Silver is a distant second, with 10,300,000 ounces (290,000,000 g) worth $69 million mined in 2004 (see Silver mining in Nevada). Other minerals mined in Nevada include construction aggregates, copper, gypsum, diatomite and lithium. Cattle ranching is a major economic activity in rural Nevada. Nevada's agricultural outputs are cattle, hay, alfalfa, dairy products, onions, and potatoes.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15942028985507245, 0.515625, 0.2435424354243542, 0.1522140221402214]
+[0.019417475728155338, 0.06349206349206349, 0.029739776951672865, 0.01858736059479554]
+[0.0966183574879227, 0.3125, 0.14760147601476015, 0.09225092250922509]
+
+
+SBERT sim. Score: 0.5720046162605286

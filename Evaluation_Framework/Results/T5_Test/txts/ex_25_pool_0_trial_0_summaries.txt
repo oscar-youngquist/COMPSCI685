@@ -1,0 +1,21 @@
+Document:
+west_virginia
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+West Virginia is the 41st-largest state by area and ranks 38th in population, with around 1.791 million residents. Most pro-statehood votes came from 16 counties around the Northern panhandle. West Virginia is also one of the cloudiest states in the nation, with the cities of Elkins and Beckley ranking 9th and 10th in the US respectively for the number of cloudy days per year (over 210). West Virginia is the least populous southeastern state. Only 1.6% of the state's residents were foreign-born, placing West Virginia last among the 50 states in that statistic. A survey conducted in 2015 by the Pew Research Center found that West Virginia was the seventh most "highly religious" state in the United States. Four of the five counties with the highest rates of drug-induced deaths are in West Virginia (McDowell, Wyoming, Cabell and Raleigh Counties).
+\Predicted Summary:
+is a state in the Appalachian and Mid-Atlantic regions of the Southern United States . West Virginia is the 41st-largest state by area and ranks 38th in population . it is bordered by Pennsylvania to the northeast, Maryland to the east and northeast, Kentucky to the southeast, and Ohio to the northwest .
+
+GT:
+The climate of West Virginia is generally a humid subtropical climate (Köppen climate classification Cfa, except Dfb at the higher elevations) with warm to hot, humid summers and chilly winters, increasing in severity with elevation. West Virginia is the least populous southeastern state. The economy of West Virginia nominally would be the 62nd largest economy globally behind Iraq and ahead of Croatia according to 2009 World Bank projections, and the 64th largest behind Iraq and ahead of Libya according to 2009 International Monetary Fund projections. West Virginia was one of only ten states in 2009 that grew economically. Morgantown was ranked by Forbes as the #10 best small city in the nation to conduct business in 2010. The city is also home to West Virginia University, the 95th best public university according to US News & World Report in 2011. The net corporate income tax rate is 6.5% while business costs are 13% below the national average. In addition to such outdoor recreation opportunities, the state offers a number of historic and cultural attractions.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17714285714285713, 0.5961538461538461, 0.2731277533039647, 0.17070484581497797]
+[0.028735632183908046, 0.09803921568627451, 0.04444444444444444, 0.027777777777777773]
+[0.12, 0.40384615384615385, 0.18502202643171806, 0.11563876651982379]
+
+
+SBERT sim. Score: 0.5998495817184448

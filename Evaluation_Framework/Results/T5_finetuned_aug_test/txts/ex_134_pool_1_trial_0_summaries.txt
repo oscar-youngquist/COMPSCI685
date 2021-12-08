@@ -1,0 +1,21 @@
+Document:
+oregon
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Portland, with 647,805, ranks as the 26th among US cities. It would earn the nickname "Stumptown", and would later become recognized as one of the most dangerous port cities in the United States due to racketeering and illegal activities at the turn of the 20th century. Bend, near the geographic center of the state, is one of the ten fastest-growing metropolitan areas in the United States. Tourism is also a strong industry in the state. The state's coastal region produces significant tourism as well. The State currently collects the tax for TriMet and the Lane Transit District. Oregon was the nation's "Top Moving Destination" in 2014, with two families moving into the state for every one moving out (66.4% to 33.6%). Oregon was also the top moving destination in 2013, and the second-most popular destination in 2010 through 2012.
+\Predicted Summary:
+,,,, and a strait,,, and a strait,,, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, and Oregon . Oregon is a state in the Pacific Northwest region, with 4 million people . Oregon is the ninth largest state in the country, with 169,798 residents .
+
+GT:
+The Columbia River, which forms much of Oregon's northern border, also played a major role in the region's geological evolution, as well as its economic and cultural development. The Columbia is one of North America's largest rivers, and one of two rivers to cut through the Cascades (the Klamath River in southern Oregon is the other). Beginning in the 1880s, the growth of railroads expanded the state's lumber, wheat, and other agricultural markets, and the rapid growth of its cities. Industrial expansion began in earnest following the 1933–37 construction of the Bonneville Dam on the Columbia River. Hydroelectric power, food, and lumber provided by Oregon helped fuel the development of the West, although the periodic fluctuations in the US building industry have hurt the state's economy on multiple occasions. Portland in particular experienced a population boom between 1900 and 1930, tripling in size; the arrival of World War II also provided the northwest region of the state with an industrial boom, where Liberty ships and aircraft carriers were constructed.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12, 0.40384615384615385, 0.18502202643171806, 0.11563876651982379]
+[0.028735632183908046, 0.09803921568627451, 0.04444444444444444, 0.027777777777777773]
+[0.08, 0.2692307692307692, 0.12334801762114536, 0.07709251101321586]
+
+
+SBERT sim. Score: 0.4167802631855011

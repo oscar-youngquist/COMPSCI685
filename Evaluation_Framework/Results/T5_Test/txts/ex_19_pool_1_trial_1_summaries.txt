@@ -1,0 +1,21 @@
+Document:
+south_dakota
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+The per capita personal income was $38,865 in 2010, ranked 25th in the US, and 12.5% of the population was below the poverty line in 2008.CNBC's list of "Top States for Business for 2010" has recognized South Dakota as the seventh best state in the nation. Government spending is another important segment of the state's economy, providing over ten percent of the gross state product. Several major US highways pass through the state. As of 2005, South Dakota has the lowest per capita total state tax rate in the United States. The state does not levy personal or corporate income taxes, inheritance taxes, or taxes on intangible personal property. The state sales tax rate is 4.5 percent. Ad valorem property taxes are local taxes and are a large source of funding for school systems, counties, municipalities and other local government units.
+\Predicted Summary:
+is a US state in the Midwestern region of the United States . South Dakota is bisected by the Missouri River, dividing South Dakota into two geographically and socially distinct halves . the state is bisected by the Missouri River, dividing South Dakota into two geographically and socially distinct halves .
+
+GT:
+The per capita personal income was $38,865 in 2010, ranked 25th in the US, and 12.5% of the population was below the poverty line in 2008.CNBC's list of "Top States for Business for 2010" has recognized South Dakota as the seventh best state in the nation. Citibank, which was the largest bank holding company in the United States at one time, established national banking operations in South Dakota in 1981 to take advantage of favorable banking regulations. Another important sector in South Dakota's economy is tourism. Many travel to view the attractions of the state, particularly those in the Black Hills region, such as historic Deadwood, Mount Rushmore, and the nearby state and national parks. One of the largest tourist events in the state is the annual Sturgis Motorcycle Rally. The five-day event drew over 739,000 attendees in 2015; significant considering the state has a total population of 850,000. In 2006, tourism provided an estimated 33,000 jobs in the state and contributed over two billion dollars to the economy of South Dakota. As of 2005, South Dakota has the lowest per capita total state tax rate in the United States. The state does not levy personal or corporate income taxes, inheritance taxes, or taxes on intangible personal property.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1152073732718894, 0.5208333333333334, 0.18867924528301888, 0.11792452830188682]
+[0.046296296296296294, 0.2127659574468085, 0.07604562737642585, 0.04752851711026615]
+[0.08294930875576037, 0.375, 0.13584905660377358, 0.08490566037735849]
+
+
+SBERT sim. Score: 0.470232754945755

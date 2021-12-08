@@ -1,21 +1,21 @@
 Document:
-south_carolina
+new_hampshire
 
 Intent:
 What drives the economy in this state?
 
 Input:
-By the second half of the 1700s, South Carolina was one of the richest of the Thirteen Colonies. The state also converted its agricultural base from cotton to more profitable crops; attracted large military bases through its powerful Democratic congressional delegation, part of the one-party South following disfranchisement of blacks at the turn of the century; and created tourism industries. According to the South Carolina Arts Commission, creative industries generate $9.2 billion annually and support over 78,000 jobs in the state. In 2019, South Carolina's GDP was $249.9 billion, making the state the 26th largest by GDP in the United States. Industrial outputs include textile goods, chemical products, paper products, machinery, automobiles, automotive products and tourism. Major agricultural outputs of the state are tobacco, poultry, cotton, cattle, dairy products, soybeans, hay, rice, and swine. The service sector accounts for 83.7% of the South Carolina economy. The state has the fourth largest state-maintained system in the country, consisting of 11 Interstates, numbered highways, state highways, and secondary roads, totalling approximately 41,500 miles.
+It contains less than 5% of the state's population, suffers relatively high poverty, and is steadily losing population as the logging and paper industries decline. The northern parts of the state produced lumber, and the mountains provided tourist attractions. Its agricultural outputs are dairy products, nursery stock, cattle, apples and eggs. Its industrial outputs are machinery, electric equipment, rubber and plastic products, and tourism is a major component of the economy. The state's largest economic sectors in 2018, based on contribution to GDP, are: 15% real estate and rental and leasing; 13% professional business services; 12% manufacturing; 10% government and government services; and 9% health care and social services. Efforts to diversify the state's general economy have been ongoing.
 \Predicted Summary:
-, the first state to vote in favor of secession from the Union on December 20, 1868. South Carolina is a state in the Deep South region of the Southern United States . South Carolina is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia . South Carolina is the 40th most extensive and 23rd most populous US state .
+, New Hampshire is a state in the Northeastern United States. New Hampshire is a state in the Northeastern United States . New Hampshire is the 5th smallest by area and the 10th most populous state . New Hampshire is home to a number of other states, including the u.s., and the u.s.
 
 GT:
-Industrial outputs include textile goods, chemical products, paper products, machinery, automobiles, automotive products and tourism. Major agricultural outputs of the state are tobacco, poultry, cotton, cattle, dairy products, soybeans, hay, rice, and swine. According to the Bureau of Labor Statistics, as of March 2012, South Carolina had 1,852,700 nonfarm jobs of which 12% are in manufacturing, 11.5% are in leisure and hospitality, 19% are in trade, transportation, and utilities, and 11.8% are in education and health services. The service sector accounts for 83.7% of the South Carolina economy. Many large corporations have moved their locations to South Carolina. Boeing opened an aircraft manufacturing facility in Charleston in 2011, which serves as one of two final assembly sites for the 787 Dreamliner.
+Its agricultural outputs are dairy products, nursery stock, cattle, apples and eggs. Its industrial outputs are machinery, electric equipment, rubber and plastic products, and tourism is a major component of the economy. Today, of the state's total manufacturing dollar value, these sectors contribute only two percent for textiles, two percent for leather goods, and nine percent for machining. The state's largest economic sectors in 2018, based on contribution to GDP, are: 15% real estate and rental and leasing; 13% professional business services; 12% manufacturing; 10% government and government services; and 9% health care and social services. New Hampshire's workforce is 90% in nonfarm employment, with 18% employed in trade, transportation, and utilities; 17% in education and health care; 12% in government; 11% in professional and business services; and 10% in leisure and hospitality. According to a 2013 study by Phoenix Marketing International, New Hampshire had the eighth-highest percentage of millionaire households in the United States, at 6.48% of all households.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.15873015873015872, 0.29850746268656714, 0.20725388601036268, 0.12953367875647667]
-[0.04, 0.07575757575757576, 0.05235602094240838, 0.032722513089005235]
-[0.12698412698412698, 0.23880597014925373, 0.16580310880829013, 0.10362694300518134]
+[0.15757575757575756, 0.5, 0.23963133640552994, 0.1497695852534562]
+[0.036585365853658534, 0.11764705882352941, 0.05581395348837209, 0.03488372093023256]
+[0.09090909090909091, 0.28846153846153844, 0.13824884792626727, 0.08640552995391705]
 
 
-SBERT sim. Score: 0.35077017545700073
+SBERT sim. Score: 0.5587268471717834

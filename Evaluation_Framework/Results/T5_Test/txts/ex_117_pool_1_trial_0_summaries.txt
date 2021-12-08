@@ -1,0 +1,21 @@
+Document:
+tennessee
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Tennessee's major industries include agriculture, manufacturing, and tourism. Poultry, soybeans, and cattle are the state's primary agricultural products, and major manufacturing exports include chemicals, transportation equipment, and electrical equipment. In this valley are numerous towns and two of the region's three urban areas, Knoxville, the third largest city in the state, and Chattanooga, the fourth largest city in the state. Middle Tennessee is one of the primary state population and transportation centers along with the heart of state government. The Gulf of Mexico is the dominant factor in the climate of Tennessee, with winds from the south being responsible for most of the state's annual precipitation. Major outputs for the state include textiles, cotton, cattle, and electrical power. Tourism contributes billions of dollars every year to the state's economy, and Tennessee is ranked among the Top 10 destinations in the nation.
+\Predicted Summary:
+the Confederacy in 1861. Tennessee was the first state to leave the Union at the end of the war . Tennessee was the last state to leave the Union at the outbreak of the American Civil War in 1861 . Tennessee was the first state to join the Confederacy at the outbreak of the American Civil War .
+
+GT:
+Major outputs for the state include textiles, cotton, cattle, and electrical power. Tennessee has more than 82,000 farms, roughly 59 percent of which accommodate beef cattle. Soybeans are also heavily planted in West Tennessee, focusing on the northwest corner of the state. Large corporations with headquarters in Tennessee include FedEx, AutoZone and International Paper, all based in Memphis; Pilot Corporation and Regal Entertainment Group, based in Knoxville; Eastman Chemical Company, based in Kingsport; Hospital Corporation of America and Caterpillar Financial, based in Nashville; and Unum, based in Chattanooga. Four automobile manufacturers have factories in Tennessee: Nissan in Smyrna, General Motors in Spring Hill, Van Hool in Morristown, and Volkswagen in Chattanooga. Other major manufacturers include a $2 billion polysilicon production facility owned by Wacker Chemie in Bradley County and a $1.2 billion polysilicon production facility owned by Hemlock Semiconductor in Clarksville.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09090909090909091, 0.23636363636363636, 0.13131313131313133, 0.08207070707070707]
+[0.007042253521126761, 0.018518518518518517, 0.01020408163265306, 0.0063775510204081625]
+[0.06993006993006994, 0.18181818181818182, 0.10101010101010101, 0.06313131313131314]
+
+
+SBERT sim. Score: 0.21608014404773712

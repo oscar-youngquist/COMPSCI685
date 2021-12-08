@@ -1,0 +1,21 @@
+Document:
+new_mexico
+
+Intent:
+What drives the economy in this state?
+
+Input:
+With a total area of 121,590 sq mi (314,900 km2), it is the fifth-largest and sixth-least densely populated of the 50 states. On the southern border, Texas makes up the eastern two-thirds, while the Mexican states of Chihuahua and Sonora make up the western third, with Chihuahua making up about 90% of that. A major oil discovery in 1928 brought wealth to the state, especially Lea County and the town of Hobbs. The state also has a large Native American population, second in percentage behind that of Alaska. Oil and gas production, tourism, and federal government spending are important drivers of the state economy. Republicans have traditionally had their strongholds in the eastern and southern parts of the state, the Farmington area, Rio Rancho, and the newly developed areas in the Northwest mesa. Los Alamos County has the highest number percent of post secondary degree holders of any county in New Mexico with 38.7% of the population (4,899 persons) estimated by the 2010-2014 American Community Survey. With 16 million acres (6,500,000 ha), mostly in neighboring Arizona, the reservation of the Navajo Nation ranks as the largest in the United States.
+\Predicted Summary:
+,,,,, and the Sandia and Los Alamos are among the states that have a large military presence in New Mexico . New Mexico is a state in the Southwestern region of the United States of America; its capital is Santa Fe . New Mexico is the 36th largest state by population; its largest city is Albuquerque . New Mexico is bordered by the state of Texas to the east-southeast, Oklahoma to the northeast, and the Mexican states of
+
+GT:
+The economy of New Mexico is dependent on oil drilling, mineral extraction, dryland farming, cattle ranching, acequia and landrace agriculture, lumber milling, retail trade, scientific research laboratories, technological development, as well as the arts, especially textiles and visual arts. Because of this, its film industry has grown and contributed $1.23 billion to its overall economy. Oil and gas production, tourism, and federal government spending are important drivers of the state economy. State government has an elaborate system of tax credits and technical assistance to promote job growth and business investment, especially in new technologies. Federal government spending is a major driver of the New Mexico economy. The New Mexico Film Office estimated at the end of 2007 that the incentive program had brought more than 85 film projects to the state since 2003 and had added $1.2 billion to the economy.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2517482517482518, 0.48, 0.3302752293577982, 0.20642201834862386]
+[0.07746478873239436, 0.14864864864864866, 0.10185185185185186, 0.06365740740740741]
+[0.16783216783216784, 0.32, 0.2201834862385321, 0.13761467889908255]
+
+
+SBERT sim. Score: 0.49768155813217163

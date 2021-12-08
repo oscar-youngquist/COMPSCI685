@@ -1,0 +1,21 @@
+Document:
+minnesota
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+There is water transportation along the Mississippi River system and from the ports of Lake Superior. Paul International Airport (MSP), a major passenger and freight hub for Delta Air Lines and Sun Country Airlines. Most other domestic carriers serve the airport. Large commercial jet service is provided at Duluth and Rochester, with scheduled commuter service to four smaller cities via Delta Connection carriers SkyWest Airlines, Compass Airlines, and Endeavor Air. In Greater Minnesota transit services are provided by city systems such as Duluth Transit Authority, Mankato Transit System, MATBUS (Fargo-Moorhead), Rochester Public Transit, Saint Cloud Metro Bus, Winona Public Transit and others. Local public transit is provided by bus networks in the larger cities and by two rail services. From there, light rail runs to Saint Paul Union Depot on the Green Line, and to the MSP airport and the Mall of America via the Blue Line.
+\Predicted Summary:
+,,, and the North Woods, used for mining, forestry, and recreation. Minnesota is a center of the Upper Midwest, Great Lakes, and northern region of the United States . Minnesota is the 12th largest in area and the 22nd most populous of the US states .
+
+GT:
+The major Interstate highways are Interstate 35 (I-35), I-90, and I-94, with I-35 and I-94 connecting the Minneapolis–St. There are nearly two dozen rail corridors in Minnesota, most of which go through Minneapolis–St. There is water transportation along the Mississippi River system and from the ports of Lake Superior. Minnesota's principal airport is Minneapolis–St. Paul International Airport (MSP), a major passenger and freight hub for Delta Air Lines and Sun Country Airlines. Large commercial jet service is provided at Duluth and Rochester, with scheduled commuter service to four smaller cities via Delta Connection carriers SkyWest Airlines, Compass Airlines, and Endeavor Air. Public transit services are available in the regional urban centers in Minnesota including Metro Transit in the Twin Cities, opt out suburban operators Minnesota Valley Transit Authority, SouthWest Transit, Plymouth Metrolink, Maple Grove Transit and others. In Greater Minnesota transit services are provided by city systems such as Duluth Transit Authority, Mankato Transit System, MATBUS (Fargo-Moorhead), Rochester Public Transit, Saint Cloud Metro Bus, Winona Public Transit and others. Dial-a-Ride service is available for persons with disabilities in a majority of Minnesota Counties. In addition to bus services, Amtrak's daily Empire Builder (Chicago–Seattle/Portland) train runs through Minnesota, calling at the Saint Paul Union Depot and five other stations. Intercity bus providers include Jefferson Lines, Greyhound, and Megabus. The Northstar Line commuter rail service runs from Big Lake to the Target Field station in downtown Minneapolis. From there, light rail runs to Saint Paul Union Depot on the Green Line, and to the MSP airport and the Mall of America via the Blue Line.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08633093525179857, 0.5581395348837209, 0.14953271028037382, 0.09345794392523366]
+[0.0036101083032490976, 0.023809523809523808, 0.006269592476489029, 0.003918495297805642]
+[0.06115107913669065, 0.3953488372093023, 0.1059190031152648, 0.06619937694704049]
+
+
+SBERT sim. Score: 0.4593324065208435

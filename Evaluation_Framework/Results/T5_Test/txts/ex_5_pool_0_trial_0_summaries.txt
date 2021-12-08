@@ -1,0 +1,21 @@
+Document:
+florida
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+The state's capital is Tallahassee and its most populous municipality is Jacksonville. Other urban areas in the state with a population of more than one million are Tampa Bay, Orlando, and Jacksonville. The American alligator, American crocodile, American flamingo, Roseate spoonbill, Florida panther, bottlenose dolphin, and manatee can be found in Everglades National Park in the southern part of the state. Those of English and Irish ancestry are present in large numbers in all the urban/suburban areas across the state. Aside from the dominant Cuban and Puerto Rican populations, there are also large populations of Mexicans, Colombians, and Dominicans, among numerous other groups, as most Latino groups have sizable numbers in the state. Aside from blacks descended from African slaves brought to the southern US, there are also large numbers of blacks of West Indian, recent African, and Afro-Latino immigrant origins, especially in the Miami/South Florida area. Twenty-seven percent of Florida's population reports speaking a mother language other than English, and more than 200 first languages other than English are spoken at home in the state. Amusement parks, especially in the Greater Orlando area, make up a significant portion of tourism.
+\Predicted Summary:
+is the second largest state in the world. Florida is the third-most populous and the 22nd-most extensive of the 50 United States. Florida is the third-most populous state in the southeastern region of the United States. Florida is the principal location of the Seminole Wars (1816 – 1858), the longest and most extensive of Indian Wars in United States history. Florida was restored to the Union on January 10, 1861.
+
+GT:
+Today, Florida is distinctive for its large Cuban expatriate community and high population growth, as well as for its increasing environmental issues. The state's close proximity to the ocean influences many aspects of Florida culture and daily life. Florida is a reflection of influences and multiple inheritance; African, European, indigenous, Latino, and Asian heritages can be found in the architecture and cuisine. Florida has attracted many writers such as Marjorie Kinnan Rawlings, Ernest Hemingway and Tennessee Williams, and continues to attract celebrities and athletes. Twenty percent of the population speak Spanish as their first language. Twenty-seven percent of Florida's population reports speaking a mother language other than English, and more than 200 first languages other than English are spoken at home in the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1889763779527559, 0.3333333333333333, 0.24120603015075376, 0.1507537688442211]
+[0.047619047619047616, 0.08450704225352113, 0.06091370558375634, 0.03807106598984772]
+[0.12598425196850394, 0.2222222222222222, 0.16080402010050251, 0.10050251256281406]
+
+
+SBERT sim. Score: 0.48889079689979553

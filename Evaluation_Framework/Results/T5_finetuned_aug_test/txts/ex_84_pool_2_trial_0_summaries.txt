@@ -1,0 +1,21 @@
+Document:
+pennsylvania
+
+Intent:
+What is the state's policy regarding education?
+
+Input:
+Pennsylvania has 500 public school districts, thousands of private schools, publicly funded colleges and universities, and over 100 private institutions of higher education. Among residents age 25 and over, 86.7% have graduated from high school. In 2007, Pennsylvania ranked 14th in mathematics, 12th in reading, and 10th in writing for 8th grade students. The Pennsylvania State System of Higher Education (PASSHE) is the public university system of the Commonwealth, with 14 state-owned schools. The Commonwealth System of Higher Education is an organizing body of the four state-related schools in Pennsylvania; these schools (Pennsylvania State University, Lincoln University, the University of Pittsburgh, and Temple University) are independent institutions that receive some state funding. There are also 15 publicly funded two-year community colleges and technical schools that are separate from the PASSHE system. Additionally, there are many private two- and four-year technical schools, colleges, and universities.
+\Predicted Summary:
+,, is a state in the Mid-Atlantic, Appalachian, and Great Lakes regions of the Northeastern United States . Pennsylvania is the 33rd-largest state by area, and the 5th-most populous state according to the most recent official census count in 2010 . Pennsylvania is the 9th-most densely populated of the 50 states .
+
+GT:
+Pennsylvania has 500 public school districts, thousands of private schools, publicly funded colleges and universities, and over 100 private institutions of higher education. In general, under state law, school attendance in Pennsylvania is mandatory for a child from the age of 8 until the age of 17, or until graduation from an accredited high school, whichever is earlier. In 1988, the Pennsylvania General Assembly passed Act 169, which allows parents or guardians to homeschool their children as an option for compulsory school attendance. This law specifies the requirements and responsibilities of the parents and the school district where the family lives. The Pennsylvania State System of Higher Education (PASSHE) is the public university system of the Commonwealth, with 14 state-owned schools. The Commonwealth System of Higher Education is an organizing body of the four state-related schools in Pennsylvania; these schools (Pennsylvania State University, Lincoln University, the University of Pittsburgh, and Temple University) are independent institutions that receive some state funding. There are also 15 publicly funded two-year community colleges and technical schools that are separate from the PASSHE system. Additionally, there are many private two- and four-year technical schools, colleges, and universities.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12755102040816327, 0.4807692307692308, 0.20161290322580647, 0.12600806451612903]
+[0.02564102564102564, 0.09803921568627451, 0.04065040650406503, 0.025406504065040646]
+[0.09183673469387756, 0.34615384615384615, 0.14516129032258066, 0.0907258064516129]
+
+
+SBERT sim. Score: 0.3545364439487457

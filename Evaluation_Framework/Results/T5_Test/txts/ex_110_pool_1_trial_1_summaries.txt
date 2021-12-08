@@ -1,0 +1,21 @@
+Document:
+north_dakota
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+The major Interstate highways are Interstate 29 and Interstate 94, with I-29 and I-94 meeting at Fargo, with I-29 oriented north to south along the eastern edge of the state, and I-94 bisecting the state from east to west between Minnesota and Montana. BNSF and the Canadian Pacific Railway operate the state's largest rail systems. Many branch lines formerly used by BNSF and Canadian Pacific Railway are now operated by the Dakota, Missouri Valley and Western Railroad and the Red River Valley and Western Railroad. North Dakota's principal airports are the Hector International Airport (FAR) in Fargo, Grand Forks International Airport (GFK), Bismarck Municipal Airport (BIS), Minot International Airport (MOT) and Williston Basin International Airport (XWA) in Williston. Intercity bus service is provided by Greyhound and Jefferson Lines. Public transit in North Dakota includes daily fixed-route bus systems in Fargo, Bismarck-Mandan, Grand Forks, and Minot, paratransit service in 57 communities, along with multi-county rural transit systems. North Dakota's three major radio markets center around Fargo, Bismarck, and Grand Forks, though stations broadcast in every region of the state.
+\Predicted Summary:
+, the largest city of North Dakota. North Dakota is the capital of Bismarck, and its largest city is Fargo . North Dakota is the nineteenth largest in area, the fourth least populous, and the fourth most sparsely populated of the 50 states . North Dakota is home to the tallest man-made structure in the Western Hemisphere, the KVLY-TV mast .
+
+GT:
+The major Interstate highways are Interstate 29 and Interstate 94, with I-29 and I-94 meeting at Fargo, with I-29 oriented north to south along the eastern edge of the state, and I-94 bisecting the state from east to west between Minnesota and Montana. BNSF and the Canadian Pacific Railway operate the state's largest rail systems. North Dakota's principal airports are the Hector International Airport (FAR) in Fargo, Grand Forks International Airport (GFK), Bismarck Municipal Airport (BIS), Minot International Airport (MOT) and Williston Basin International Airport (XWA) in Williston. Amtrak's Empire Builder runs through North Dakota, making stops at Fargo (2:13 am westbound, 3:35 am eastbound), Grand Forks (4:52 am westbound, 12:57 am eastbound), Minot (around 9 am westbound and around 9:30 pm eastbound), and four other stations. Intercity bus service is provided by Greyhound and Jefferson Lines. Public transit in North Dakota includes daily fixed-route bus systems in Fargo, Bismarck-Mandan, Grand Forks, and Minot, paratransit service in 57 communities, along with multi-county rural transit systems.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1388888888888889, 0.423728813559322, 0.2092050209205021, 0.1307531380753138]
+[0.027932960893854747, 0.08620689655172414, 0.04219409282700422, 0.026371308016877638]
+[0.08333333333333333, 0.2542372881355932, 0.12552301255230125, 0.07845188284518828]
+
+
+SBERT sim. Score: 0.4656972289085388

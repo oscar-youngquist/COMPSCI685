@@ -1,0 +1,21 @@
+Document:
+pennsylvania
+
+Intent:
+How is the weather of the state?
+
+Input:
+It is the 9th-most densely populated of the 50 states. The state has five geographical regions, namely the Allegheny Plateau, Ridge and Valley, Atlantic Coastal Plain, Piedmont, and the Erie Plain. Pennsylvania's diverse topography also produces a variety of climates, though the entire state experiences cold winters and humid summers. Straddling two major zones, the majority of the state, except for the southeastern corner, has a humid continental climate (Köppen climate classification Dfa). The southern portion of the state has a humid subtropical climate. The largest city, Philadelphia, has some characteristics of the humid subtropical climate (Köppen Cfa) that covers much of Delaware and Maryland to the south. Summers are generally hot and humid. Moving toward the mountainous interior of the state, the winter climate becomes colder, the number of cloudy days increases, and snowfall amounts are greater. Western areas of the state, particularly locations near Lake Erie, can receive over 100 inches (250 cm) of snowfall annually, and the entire state receives plentiful precipitation throughout the year. The state may be subject to severe weather from spring through summer into autumn. Tornadoes occur annually in the state, sometimes in large numbers, such as 30 recorded tornadoes in 2011; generally speaking, these tornadoes do not cause significant damage. Twelve other states saw decreases in their White populations. The state has a high in-migration of black and Hispanic people from other nearby states, with eastern and south-central portions of the state seeing the bulk of the increases.
+\Predicted Summary:
+,, is a state in the Mid-Atlantic, Appalachian, and Great Lakes regions of the Northeastern United States . Pennsylvania is the 33rd-largest state by area, and the 5th-most populous state according to the most recent official census count in 2010 . Pennsylvania is the 9th-most densely populated of the 50 states .
+
+GT:
+Pennsylvania's diverse topography also produces a variety of climates, though the entire state experiences cold winters and humid summers. Straddling two major zones, the majority of the state, except for the southeastern corner, has a humid continental climate (Köppen climate classification Dfa). The southern portion of the state has a humid subtropical climate. The largest city, Philadelphia, has some characteristics of the humid subtropical climate (Köppen Cfa) that covers much of Delaware and Maryland to the south. Summers are generally hot and humid. Moving toward the mountainous interior of the state, the winter climate becomes colder, the number of cloudy days increases, and snowfall amounts are greater. Western areas of the state, particularly locations near Lake Erie, can receive over 100 inches (250 cm) of snowfall annually, and the entire state receives plentiful precipitation throughout the year. The state may be subject to severe weather from spring through summer into autumn. Tornadoes occur annually in the state, sometimes in large numbers, such as 30 recorded tornadoes in 2011; generally speaking, these tornadoes do not cause significant damage.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13333333333333333, 0.46153846153846156, 0.20689655172413796, 0.12931034482758622]
+[0.027932960893854747, 0.09803921568627451, 0.04347826086956521, 0.027173913043478257]
+[0.09444444444444444, 0.3269230769230769, 0.14655172413793105, 0.0915948275862069]
+
+
+SBERT sim. Score: 0.5443321466445923

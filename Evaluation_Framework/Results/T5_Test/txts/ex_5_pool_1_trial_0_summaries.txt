@@ -1,0 +1,21 @@
+Document:
+minnesota
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Minnesota remains a center of Scandinavian American, German American, and Czech American culture. In descending order of population, they are Minneapolis, Saint Paul, Rochester, Duluth, Bloomington, Brooklyn Park, Plymouth, Saint Cloud, Woodbury, Eagan, Maple Grove, Coon Rapids, Eden Prairie, Minnetonka, Burnsville, Apple Valley, Blaine, and Lakeville. The majority of Minnesotans are Protestants, including a large Lutheran contingent, owing to the state's largely Northern European ethnic makeup. The Minnesota Fringe Festival in Minneapolis is an annual celebration of theatre, dance, improvisation, puppetry, kids' shows, visual art, and musicals with more than 800 performances over 11 days. Stereotypical traits of Minnesotans include "Minnesota nice", Lutheranism, a strong sense of community and shared culture, and a distinctive brand of North Central American English sprinkled with Scandinavian expressions. The Minnesota State Fair, advertised as The Great Minnesota Get-Together, is an icon of state culture. Other large annual festivals include the Saint Paul Winter Carnival, the Minnesota Renaissance Festival, Minneapolis' Aquatennial and Mill City Music Festival, Moondance Jam in Walker, Sonshine Christian music festival in Willmar, the Judy Garland Festival in Grand Rapids, the Eelpout Festival on Leech Lake, and the WE Fest in Detroit Lakes. The state's other top markets are Fargo–Moorhead (118th nationally), Duluth–Superior (137th), Rochester–Mason City–Austin (152nd), and Mankato (200th).
+\Predicted Summary:
+,,, and the North Woods, used for mining, forestry, and recreation. Minnesota is a center of the Upper Midwest, Great Lakes, and northern region of the United States . Minnesota is the 12th largest in area and the 22nd most populous of the US states .
+
+GT:
+The Minnesota Orchestra and the Saint Paul Chamber Orchestra are prominent full-time professional musical ensembles who perform concerts and offer educational programs to the Twin Cities' community. The Minnesota Fringe Festival in Minneapolis is an annual celebration of theatre, dance, improvisation, puppetry, kids' shows, visual art, and musicals with more than 800 performances over 11 days. Small-town life is portrayed grimly by Sinclair Lewis in the novel Main Street, and more gently and affectionately by Garrison Keillor in his tales of Lake Wobegon. Minnesotans helped shape the history of music through popular American culture: the Andrews Sisters' "Boogie Woogie Bugle Boy" was an iconic tune of World War II, while the Trashmen's "Surfin' Bird" and Bob Dylan epitomize two sides of the 1960s. A Prairie Home Companion which first aired in 1974, became a long-running comedy radio show on National Public Radio. Stereotypical traits of Minnesotans include "Minnesota nice", Lutheranism, a strong sense of community and shared culture, and a distinctive brand of North Central American English sprinkled with Scandinavian expressions. The Minnesota State Fair, advertised as The Great Minnesota Get-Together, is an icon of state culture. The fair covers the variety of Minnesota life, including fine art, science, agriculture, food preparation, 4-H displays, music, the midway, and corporate merchandising. Other large annual festivals include the Saint Paul Winter Carnival, the Minnesota Renaissance Festival, Minneapolis' Aquatennial and Mill City Music Festival, Moondance Jam in Walker, Sonshine Christian music festival in Willmar, the Judy Garland Festival in Grand Rapids, the Eelpout Festival on Leech Lake, and the WE Fest in Detroit Lakes.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0898876404494382, 0.5581395348837209, 0.15483870967741936, 0.0967741935483871]
+[0.015037593984962405, 0.09523809523809523, 0.025974025974025972, 0.016233766233766232]
+[0.06741573033707865, 0.4186046511627907, 0.11612903225806451, 0.07258064516129031]
+
+
+SBERT sim. Score: 0.409163236618042

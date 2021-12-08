@@ -1,0 +1,21 @@
+Document:
+utah
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Of the fifty US states, Utah is the 13th-largest by area; with a population over three million, it is the 30th-most-populous and 11th-least-densely populated. Utah is the only state where a majority of the population belongs to a single church. The state has a highly diversified economy, with major sectors including transportation, education, information technology and research, government services, mining; it is also a major tourist destination for outdoor recreation. Like most of the western and southwestern states, the federal government owns much of the land in Utah. Utah is the only state where every county contains some national forest. The largest ancestry groups in the state are: Major industries of Utah include: mining, cattle ranching, salt production, and government services. With five national parks (Arches, Bryce Canyon, Canyonlands, Capitol Reef, and Zion), Utah has the third most national parks of any state after Alaska and California. The state of Utah relies heavily on income from tourists and travelers visiting the state's parks and ski resorts, and thus the need to "brand" Utah and create an impression of the state throughout the world has led to several state slogans, the most famous of which being "The Greatest Snow on Earth", which has been in use in Utah officially since 1975 (although the slogan was in unofficial use as early as 1962) and now adorns nearly 50 percent of the state's license plates. Utah and Hawaii are the only two states in the United States to outlaw all forms of gambling. Utah's population is concentrated in two areas, the Wasatch Front in the north-central part of the state, with over 2.6 million residents; and Washington County, in southwestern Utah, locally known as "Dixie", with more than 175,000 residents in the metropolitan area. According to the 2010 Census, Utah was the second fastest-growing state (at 23.8 percent) in the United States between 2000 and 2010 (behind Nevada).
+\Predicted Summary:
+is a state in the Western United States. It is bordered by Colorado to the east, Wyoming to the northeast, Idaho to the north, Arizona to the south and Nevada to the west. Utah is the 13th-largest by area; with a population over three million, it is the 30th-most-populous and 11th-least-densely populated. Disputes between the dominant Mormon community and the federal government delayed the state's admission as a state.
+
+GT:
+Utah is home to more than 600 vertebrate animals as well as numerous invertebrates and insects. Several thousand plants are native to Utah. Utah ranks among the highest in total fertility rate, 47th in teenage pregnancy, lowest in percentage of births out of wedlock, lowest in number of abortions per capita, and lowest in percentage of teen pregnancies terminated in abortion. Utah has the lowest child poverty rate in the country, despite its young demographics. According to the Gallup-Healthways Global Well-Being Index as of 2012, Utahns ranked fourth in overall well-being in the United States. The per capita personal income was $45,700 in 2012. According to the 2007 State New Economy Index, Utah is ranked the top state in the nation for Economic Dynamism, determined by "the degree to which state economies are knowledge-based, globalized, entrepreneurial, information technology-driven and innovation-based". In 2014, Utah was ranked number one in Forbes' list of "Best States For Business". A November 2010 article in Newsweek magazine highlighted Utah and particularly the Salt Lake City area's economic outlook, calling it "the new economic Zion", and examined how the area has been able to bring in high-paying jobs and attract high-tech corporations to the area during a recession.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1650943396226415, 0.4666666666666667, 0.2439024390243902, 0.1524390243902439]
+[0.03317535545023697, 0.0945945945945946, 0.04912280701754386, 0.030701754385964914]
+[0.10377358490566038, 0.29333333333333333, 0.15331010452961674, 0.09581881533101046]
+
+
+SBERT sim. Score: 0.6162772178649902

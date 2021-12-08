@@ -1,0 +1,21 @@
+Document:
+connecticut
+
+Intent:
+How is the government structured in this state?
+
+Input:
+Variations of the bicameral legislature had been proposed by Virginia and New Jersey, but Connecticut's plan was the one that was in effect until the early 20th century, when Senatortors ceased to be selected by their state legislatures and were instead directly elected. The State of Connecticut government has operated under the direction of four separate documents in the course of the state's constitutional history. In addition to the Governor and Lieutenant Governor, there are four other executive officers named in the state constitution that are elected directly by voters: Secretary of the State, Treasurer, Comptroller, and Attorney General. The legislature is the General Assembly. The General Assembly is a bicameral body consisting of an upper body, the State Senatorte (36 senators); and a lower body, the House of Representatives (151 representatives). As of 2019, Connecticut's United States Senatortors are Richard Blumenthal (Democrat) and Chris Murphy (Democrat). Locally elected representatives also develop Local ordinances to govern cities and towns. However, the State of Connecticut also provides statewide ordinances for noise control as well. Connecticut does not have county government, unlike all other states except Rhode Island. The state is divided into 169 towns which serve as the fundamental political jurisdictions. The state is also divided into nine regional councils of government defined by the state Office of Planning and Management, which facilitate regional planning and coordination of services between member towns.
+\Predicted Summary:
+,,,, and the Long Island Sound. Connecticut is the southernmost state in the Northeastern United States. Connecticut is the third smallest state by area, the 29th most populous, and the fourth most densely populated of the fifty states. Connecticut is the third smallest state by area, the 29th most populous, and the fourth most densely populated of the fifty states.
+
+GT:
+Connecticut does not have county government, unlike all other states except Rhode Island. Connecticut county governments were mostly eliminated in 1960, with the exception of sheriffs elected in each county. The judicial system is divided into judicial districts at the trial-court level which largely follow the old county lines. Connecticut shares with the rest of New England a governmental institution called the New England town. The state is divided into 169 towns which serve as the fundamental political jurisdictions. The state is also divided into nine regional councils of government defined by the state Office of Planning and Management, which facilitate regional planning and coordination of services between member towns. Each region has an administrative body made up chief executive officers of the member towns.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2222222222222222, 0.4745762711864407, 0.3027027027027027, 0.18918918918918923]
+[0.008, 0.017241379310344827, 0.01092896174863388, 0.0068306010928961755]
+[0.15873015873015872, 0.3389830508474576, 0.2162162162162162, 0.13513513513513514]
+
+
+SBERT sim. Score: 0.5824626088142395

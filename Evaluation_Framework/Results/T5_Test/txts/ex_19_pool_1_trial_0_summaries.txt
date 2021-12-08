@@ -1,0 +1,21 @@
+Document:
+tennessee
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Poultry, soybeans, and cattle are the state's primary agricultural products, and major manufacturing exports include chemicals, transportation equipment, and electrical equipment. In this valley are numerous towns and two of the region's three urban areas, Knoxville, the third largest city in the state, and Chattanooga, the fourth largest city in the state. Middle Tennessee is one of the primary state population and transportation centers along with the heart of state government. It is one of nine states that do not have a general income tax The state's sales and use tax rate for most items is 7%, the second-highest in the nation, along with Mississippi, Rhode Island, New Jersey, and Indiana. While sales tax remains the main source of state government funding, property taxes are the primary source of revenue for local governments. Tourism contributes billions of dollars every year to the state's economy, and Tennessee is ranked among the Top 10 destinations in the nation.
+\Predicted Summary:
+the Confederacy in 1861. Tennessee was the first state to leave the Union at the end of the war . Tennessee was the last state to leave the Union at the outbreak of the American Civil War in 1861 . Tennessee was the first state to join the Confederacy at the outbreak of the American Civil War .
+
+GT:
+The Great Smoky Mountains National Park, the nation's most visited national park, is located in the eastern part of the state, and a section of the Appalachian Trail roughly follows the Tennessee–North Carolina border. Other major tourist attractions include the Tennessee Aquarium and Chattanooga Choo-Choo Hotel in Chattanooga; Dollywood in Pigeon Forge; Ripley's Aquarium of the Smokies and Ober Gatlinburg in Gatlinburg; the Parthenon, the Country Music Hall of Fame and Museum, and Ryman Auditorium in Nashville; the Jack Daniel's Distillery in Lynchburg; Elvis Presley's Graceland residence and tomb, the Memphis Zoo, the National Civil Rights Museum in Memphis; and Bristol Motor Speedway in Bristol. Tennessee has a reputation as low-tax state and is usually ranked as one of the five states with the lowest tax burden on residents. It is one of nine states that do not have a general income tax The Hall income tax is a tax imposed on most dividends and interest. The tax rate was 6% from 1937 to 2016, but is in the process of being completely phased out by January 1, 2021. The first $1,250 of individual income and $2,500 of joint income is exempt from this tax.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13725490196078433, 0.509090909090909, 0.21621621621621623, 0.13513513513513514]
+[0.019704433497536946, 0.07407407407407407, 0.031128404669260697, 0.019455252918287938]
+[0.10784313725490197, 0.4, 0.1698841698841699, 0.1061776061776062]
+
+
+SBERT sim. Score: 0.2749510109424591

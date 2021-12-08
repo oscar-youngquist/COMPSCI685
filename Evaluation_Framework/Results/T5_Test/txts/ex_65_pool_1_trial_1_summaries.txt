@@ -1,0 +1,21 @@
+Document:
+south_carolina
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+South Carolina is the 40th most extensive and 23rd most populous US state. This is less than some of the states further south, and it is slightly less vulnerable to tornadoes than the states which border on the Gulf of Mexico. Major agricultural outputs of the state are tobacco, poultry, cotton, cattle, dairy products, soybeans, hay, rice, and swine. The state has the fourth largest state-maintained system in the country, consisting of 11 Interstates, numbered highways, state highways, and secondary roads, totalling approximately 41,500 miles. On secondary roads, South Carolina uses a numbering system to keep track of all non-interstate and primary highways that the South Carolina Department of Transportation maintains. FreightCSX Transportation and Norfolk Southern are the only Class I railroad companies in South Carolina, as other freight companies in the state are short lines. There are seven significant airports in South Carolina, all of which act as regional airport hubs.
+\Predicted Summary:
+, the first state to vote in favor of secession from the Union on December 20, 1868. South Carolina is a state in the Deep South region of the Southern United States . South Carolina is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia . South Carolina is the 40th most extensive and 23rd most populous US state .
+
+GT:
+The state has the fourth largest state-maintained system in the country, consisting of 11 Interstates, numbered highways, state highways, and secondary roads, totalling approximately 41,500 miles. On secondary roads, South Carolina uses a numbering system to keep track of all non-interstate and primary highways that the South Carolina Department of Transportation maintains. Passenger railAmtrak operates four passenger routes in South Carolina: the Crescent, the Palmetto, the Silver Meteor, and the Silver Star. The Crescent route serves the Upstate cities, the Silver Star serves the Midlands cities, and the Palmetto and Silver Meteor routes serve the lowcountry cities. FreightCSX Transportation and Norfolk Southern are the only Class I railroad companies in South Carolina, as other freight companies in the state are short lines. There are seven significant airports in South Carolina, all of which act as regional airport hubs.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.22695035460992907, 0.47761194029850745, 0.3076923076923077, 0.1923076923076923]
+[0.02857142857142857, 0.06060606060606061, 0.03883495145631068, 0.024271844660194174]
+[0.15602836879432624, 0.3283582089552239, 0.21153846153846154, 0.13221153846153846]
+
+
+SBERT sim. Score: 0.417115181684494

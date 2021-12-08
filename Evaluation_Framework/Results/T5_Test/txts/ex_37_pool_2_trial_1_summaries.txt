@@ -1,0 +1,21 @@
+Document:
+maine
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Maine's agricultural outputs include poultry, eggs, dairy products, cattle, wild blueberries, apples, maple syrup, and maple sugar. Commercial fishing, once a mainstay of the state's economy, maintains a presence, particularly lobstering and groundfishing. In 2015, 14% of the Northeast's total oyster supply came from Maine. In 2017, the production of Maine's seaweed industry was estimated at $20 million per year. During the 18th and 19th centuries, wooden shipbuilding of this sort made up a sizable portion of the economy. The state is a major producer of potatoes, wild blueberries, apples, maple syrup and sweet corn. Dairy products and chicken's eggs are other major industries.
+\Predicted Summary:
+the Popham Colony, established by the Plymouth Company in 1607 . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states . Maine is known for its jagged, rocky coastline; low, rolling mountains; heavily forested interior; picturesque waterways .
+
+GT:
+Maine's agricultural outputs include poultry, eggs, dairy products, cattle, wild blueberries, apples, maple syrup, and maple sugar. Commercial fishing, once a mainstay of the state's economy, maintains a presence, particularly lobstering and groundfishing. In 2015, 14% of the Northeast's total oyster supply came from Maine. Maine's industrial outputs consist chiefly of paper, lumber and wood products, electronic equipment, leather products, food products, textiles, and bio-technology. Tourism and outdoor recreation play a major and increasingly important role in Maine's economy. The state is a popular destination for sport hunting (particularly deer, moose and bear), sport fishing, snowmobiling, skiing, boating, camping and hiking, among other activities.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1, 0.22916666666666666, 0.13924050632911394, 0.0870253164556962]
+[0.009174311926605505, 0.02127659574468085, 0.012820512820512822, 0.008012820512820512]
+[0.08181818181818182, 0.1875, 0.1139240506329114, 0.07120253164556961]
+
+
+SBERT sim. Score: 0.40560412406921387

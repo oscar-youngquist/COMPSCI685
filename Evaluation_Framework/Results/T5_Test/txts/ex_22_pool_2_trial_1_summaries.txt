@@ -1,0 +1,21 @@
+Document:
+virginia
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+In the western and mountainous parts of the commonwealth, oak and hickory are most common, while lower altitudes are more likely to have small but dense stands of moisture-loving hemlocks and mosses in abundance. Virginia has 226 species of freshwater fish, from 25 families; the state's diverse array of fish species is attributable to its varied and humid climate, physiography, river system interconnections, and lack of Pleistocene glaciers. For example, the state is home to Eastern blacknose dace and sculpin (on the Appalachian Plateau); smallmouth bass and redhorse sucker (in the Ridge and Valley region); brook trout, rainbow trout, brown trout, and the Kanawha darter (in the Blue Ridge); stripeback darter and Roanoke Bass (in the Piedmont); and swampfish, bluespotted sunfish, and pirate perch (on the Coastal Plain). Virginia also has 38 Virginia state parks, 3 undeveloped parks, and 63 natural areas, totaling 127,000 acres (51,000 ha), of which approximately 70,000 acres (28,000 ha) are in state parks. In addition to independent cities, there are also incorporated towns which operate under their own governments, but are part of a county. Northern Virginia, once considered the state's dairy capital, now hosts software, communication technology, defense contracting companies, particularly in the Dulles Technology Corridor and Tysons Corner areas. Modern Virginia culture has many sources, and is part of the culture of the Southern United States. Notable music performance venues include The Birchmere, the Landmark Theater, and Jiffy Lube Live. The state's African tradition is found through gospel, blues, and shout bands, with both Ella Fitzgerald and Pearl Bailey coming from Newport News. Norfolk is however host to two minor league teams: The AAA Norfolk Tides and the ECHL's Norfolk Admirals. Additionally, the Washington Nationals, Boston Red Sox, and Cleveland Indians also have Single-A farm teams in Virginia.
+\Predicted Summary:
+, the Commonwealth of Virginia, is a state in the Mid-Atlantic region of the Southern United States . Virginia has a total area of 42,774.2 square miles (110,784.7 km2), including 3,180.13 square miles (8,236.5 km2) of water . Virginia is the 35th state in the region, between the Atlantic Coast and the Appalachian Mountains .
+
+GT:
+Rich in cultural heritage, Virginia however ranks near the bottom of US states in terms of public spending on the arts, at nearly half of the national average. The state government does fund some institutions, including the Virginia Museum of Fine Arts and the Science Museum of Virginia. Other museums include the popular Steven F. Udvar-Hazy Center of the National Air and Space Museum and the Chrysler Museum of Art. Besides these sites, many open-air museums are located in the Commonwealth, such as Colonial Williamsburg, the Frontier Culture Museum, and various historic battlefields. Theaters and venues in the Commonwealth are found both in the cities and in suburbs. Virginia has launched many award-winning traditional musical artists and internationally successful popular music acts, as well as Hollywood actors. Virginia is known for its tradition in the music genres of old-time string and bluegrass, with groups such as the Carter Family and Stanley Brothers. Many counties and localities host county fairs and festivals. The Virginia State Fair is held at the Meadow Event Park every September. Also in September is the Neptune Festival in Virginia Beach, which celebrates the city, the waterfront, and regional artists. On the Eastern Shore island of Chincoteague the annual Pony Penning of feral Chincoteague ponies at the end of July is a unique local tradition expanded into a week-long carnival. Two important film festivals, the Virginia Film Festival and the VCU French Film Festival, are held annually in Charlottesville and Richmond, respectively.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.112, 0.4666666666666667, 0.1806451612903226, 0.11290322580645162]
+[0.04417670682730924, 0.1864406779661017, 0.07142857142857144, 0.044642857142857144]
+[0.088, 0.36666666666666664, 0.14193548387096774, 0.08870967741935482]
+
+
+SBERT sim. Score: 0.393151193857193

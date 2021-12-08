@@ -1,0 +1,21 @@
+Document:
+delaware
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The state is divided into three counties, having the lowest number of any state; from north to south, they are New Castle County, Kent County, and Sussex County. Delaware's fourth and current constitution, adopted in 1897, provides for executive, judicial and legislative branches. Representatives are elected to two-year terms, while senators are elected to four-year terms. The Senatorte confirms judicial and other nominees appointed by the governor. Minor non-constitutional courts include the Justice of the Peace Courts and Aldermen's Courts. The governor presents a "State of the State" speech to a joint session of the Delaware legislature annually. Each county elects its own legislative body (known in New Castle and Sussex counties as County Council, and in Kent County as Levy Court), which deal primarily in zoning and development issues. Most functions which are handled on a county-by-county basis in other states—such as court and law enforcement—have been centralized in Delaware, leading to a significant concentration of power in the Delaware state government. New Castle County also elects a substantial majority of the legislature Democrats presently hold all the nine statewide elected offices, while the Republicans last won two statewide offices in 2014, State Auditor and State Treasurer. The state is also served by several weekly, monthly and online publications.
+\Predicted Summary:
+,,,,,, the Delaware River, named after Thomas West, 3rd Baron De La Warr (1577–1618) who was the ruling governor of the Colony of Virginia at the time Europeans first explored the river . Delaware is the second-smallest and sixth-least populous state, but also the sixth-most densely populated . Delaware is the second-smallest and sixth-least populous state, but also the sixth-most densely populated
+
+GT:
+Delaware's fourth and current constitution, adopted in 1897, provides for executive, judicial and legislative branches. The Delaware General Assembly consists of a House of Representatives with 41 members and a Senatorte with 21 members. Representatives are elected to two-year terms, while senators are elected to four-year terms. The Senatorte confirms judicial and other nominees appointed by the governor. The Delaware Constitution establishes a number of courts: The executive branch is headed by the Governor of Delaware.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.189873417721519, 0.22727272727272727, 0.2068965517241379, 0.12931034482758622]
+[0.02564102564102564, 0.03076923076923077, 0.027972027972027972, 0.017482517482517484]
+[0.12658227848101267, 0.15151515151515152, 0.13793103448275865, 0.08620689655172414]
+
+
+SBERT sim. Score: 0.4247175455093384

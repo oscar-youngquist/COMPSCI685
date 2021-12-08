@@ -1,0 +1,21 @@
+Document:
+new_hampshire
+
+Intent:
+What are the major historical events in this state?
+
+Input:
+In January 1776, it became the first of the British North American colonies to establish a government independent of the Kingdom of Great Britain's authority; it was the first to establish its own state constitution. Six months later, it became one of the original 13 colonies that signed the United States Declaration of Independence, and in June 1788 it was the ninth state to ratify the United States Constitution, bringing that document into effect. In the 1950s and 1960s, defense contractors moved into many of the former mills, such as Sanders Associates in Nashua; the population of southern New Hampshire surged beginning in the 1980s as major highways connected the region to Greater Boston and established several bedroom communities in the state. The Salmon Falls River and the Piscataqua define the southern portion of the border with Maine. The Piscataqua River boundary was the subject of a border dispute between New Hampshire and Maine in 2001, with New Hampshire claiming dominion over several islands (primarily Seavey's Island) that include the Portsmouth Naval Shipyard. Father Rale's War was fought between the colonists and the Wabanaki Confederacy throughout New Hampshire. New Hampshire was one of the thirteen colonies that rebelled against British rule during the American Revolution. By the time of the American Revolution, New Hampshire was a divided province. At the other end of the social scale, there developed a permanent class of day laborers, mariners, indentured servants and even slaves. Although there were apparently no casualties, these were among the first shots in the American Revolutionary period, occurring approximately five months before the Battles of Lexington and Concord. The United States Constitution was ratified by New Hampshire on June 21, 1788, when New Hampshire became the ninth state to do so. New Hampshire was a Jacksonian stronghold The northern parts of the state produced lumber, and the mountains provided tourist attractions. They experienced a sharp decline due to obsolete plants and the lure of cheaper wages in the Southern United States. In the 116th United States Congress, it is one of only eight states with an entirely Democratic delegation, five of which are in New England (the others are Delaware, Hawaii, and New Mexico).
+\Predicted Summary:
+, New Hampshire is a state in the Northeastern United States. New Hampshire is a state in the Northeastern United States. New Hampshire is bordered by Massachusetts to the south, Vermont to the west, Maine and the Atlantic Ocean to the east . New Hampshire is the 5th smallest by area and the 10th most populous state .
+
+GT:
+English and French explorers visited New Hampshire in 1600–1605, and David Thompson settled at Odiorne's Point in present-day Rye in 1623. The first permanent settlement was at Hilton's Point (present-day Dover). New Hampshire was one of the thirteen colonies that rebelled against British rule during the American Revolution. The only battle fought in New Hampshire was the raid on Fort William and Mary, December 14, 1774, in Portsmouth Harbor, which netted the rebellion sizable quantities of gunpowder, small arms and cannon. The United States Constitution was ratified by New Hampshire on June 21, 1788, when New Hampshire became the ninth state to do so. Industrialization took the form of numerous textile mills, which in turn attracted large flows of immigrants from Quebec (the "French Canadians") and Ireland. After 1960, the textile industry collapsed, but the economy rebounded as a center of high technology and as a service provider. Starting in 1952, New Hampshire gained national and international attention for its presidential primary held early in every presidential election year. It immediately became the most important testing grounds for candidates for the Republican and Democratic nominations.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14736842105263157, 0.509090909090909, 0.22857142857142854, 0.14285714285714282]
+[0.026455026455026454, 0.09259259259259259, 0.04115226337448559, 0.0257201646090535]
+[0.12105263157894737, 0.41818181818181815, 0.18775510204081633, 0.11734693877551021]
+
+
+SBERT sim. Score: 0.562516450881958

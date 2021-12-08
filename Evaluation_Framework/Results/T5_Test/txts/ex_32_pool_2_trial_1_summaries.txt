@@ -1,0 +1,21 @@
+Document:
+florida
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+The state's capital is Tallahassee and its most populous municipality is Jacksonville. Florida is also renowned for amusement parks, orange crops, winter vegetables, the Kennedy Space Center, and as a popular destination for retirees. Florida is a reflection of influences and multiple inheritance; African, European, indigenous, Latino, and Asian heritages can be found in the architecture and cuisine. Florida is one of the largest states east of the Mississippi River, and only Alaska and Michigan are larger in water area. Those of English and Irish ancestry are present in large numbers in all the urban/suburban areas across the state. Amusement parks, especially in the Greater Orlando area, make up a significant portion of tourism. Major ports in Florida include Port Tampa Bay in Tampa, Port Everglades in Fort Lauderdale, Port of Jacksonville in Jacksonville, PortMiami in Miami, Port Canaveral in Brevard County, Port Manatee in Manatee County, and Port of Palm Beach in Riviera Beach. Florida has the largest collection of Art Deco and Streamline Moderne buildings, both in the United States and in the entire world, most of which are located in the Miami metropolitan area, especially Miami Beach's Art Deco District, constructed as the city was becoming a resort destination.
+\Predicted Summary:
+is the second largest state in the world. Florida is the third-most populous and the 22nd-most extensive of the 50 United States. Florida is the third-most populous state in the southeastern region of the United States. Florida is the principal location of the Seminole Wars (1816 – 1858), the longest and most extensive of Indian Wars in United States history. Florida was restored to the Union on January 10, 1861.
+
+GT:
+The state's close proximity to the ocean influences many aspects of Florida culture and daily life. Florida is a reflection of influences and multiple inheritance; African, European, indigenous, Latino, and Asian heritages can be found in the architecture and cuisine. Florida has attracted many writers such as Marjorie Kinnan Rawlings, Ernest Hemingway and Tennessee Williams, and continues to attract celebrities and athletes. It is internationally known for golf, tennis, auto racing, and water sports. Florida has the largest collection of Art Deco and Streamline Moderne buildings, both in the United States and in the entire world, most of which are located in the Miami metropolitan area, especially Miami Beach's Art Deco District, constructed as the city was becoming a resort destination. A unique architectural design found only in Florida is the post-World War II Miami Modern, which can be seen in areas such as Miami's MiMo Historic District. Being of early importance as a regional center of banking and finance, the architecture of Jacksonville displays a wide variety of styles and design principles. Some sections of the state feature architectural styles including Spanish revival, Florida vernacular, and Mediterranean Revival.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.20207253886010362, 0.5416666666666666, 0.2943396226415094, 0.1839622641509434]
+[0.046875, 0.1267605633802817, 0.06844106463878327, 0.04277566539923954]
+[0.13471502590673576, 0.3611111111111111, 0.19622641509433963, 0.12264150943396228]
+
+
+SBERT sim. Score: 0.4549283981323242

@@ -1,0 +1,21 @@
+Document:
+ohio
+
+Intent:
+What is the state's policy regarding education?
+
+Input:
+Substantial amounts of land were set aside for schools. Ohio has five of the top 115 colleges in the nation, according to US News and World Report's 2010 rankings, and was ranked No. 8 by the same magazine in 2008 for best high schools. Ohio's system of public education is outlined in Article VI of the state constitution, and in Title XXXIII of the Ohio Revised Code. At the State level, the Ohio Department of Education, which is overseen by the Ohio State Board of Education, governs primary and secondary educational institutions. At the municipal level, there are approximately 700 school districts statewide. The system averages an annual enrollment of more than 400,000 students, making it one of the five largest state university systems in the US Ohio schools consistently ranking in the top 50 nationally of the US News & World Report of liberal arts colleges are Kenyon College, Oberlin College, and Denison University. For 2008, 31 of Ohio's library systems were all ranked in the top ten for American cities of their population category.
+\Predicted Summary:
+, the first the,,, and is the largest city in the Midwestern United States. Ohio is the 34th-largest by area, and with a population of nearly 11.7 million . Ohio is the seventh-most populous and tenth-most densely populated state . Ohio is the most of any state; it has been a bellwether in national elections .
+
+GT:
+Ohio's system of public education is outlined in Article VI of the state constitution, and in Title XXXIII of the Ohio Revised Code. Ohio University, the first university in the Northwest Territory, was also the first public institution in Ohio. Substantively, Ohio's system is similar to those found in other states. At the State level, the Ohio Department of Education, which is overseen by the Ohio State Board of Education, governs primary and secondary educational institutions. At the municipal level, there are approximately 700 school districts statewide. The Ohio Board of Regents coordinates and assists with Ohio's institutions of higher education which have recently been reorganized into the University System of Ohio under Governor Strickland. The system averages an annual enrollment of more than 400,000 students, making it one of the five largest state university systems in the US Ohio schools consistently ranking in the top 50 nationally of the US News & World Report of liberal arts colleges are Kenyon College, Oberlin College, and Denison University. Ranking in the top 100 nationally of the US News & World Report of national research universities are Case Western Reserve University, Ohio State University and Miami University.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15228426395939088, 0.5357142857142857, 0.23715415019762845, 0.1482213438735178]
+[0.01020408163265306, 0.03636363636363636, 0.01593625498007968, 0.009960159362549799]
+[0.1065989847715736, 0.375, 0.16600790513833993, 0.10375494071146246]
+
+
+SBERT sim. Score: 0.4745422601699829

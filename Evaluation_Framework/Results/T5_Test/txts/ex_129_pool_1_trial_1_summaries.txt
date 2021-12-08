@@ -1,0 +1,21 @@
+Document:
+maryland
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Included among these are the crape myrtle, Italian cypress, southern magnolia, live oak in the warmer parts of the state, and even hardy palm trees in the warmer central and eastern parts of the state. Generally, rural Western Maryland between the West Virginian Panhandle and Pennsylvania has an Appalachian culture; the Southern and Eastern Shore regions of Maryland embody a Southern culture,while densely populated Central Maryland—radiating outward from Baltimore and Washington, D.C.—has more in common with that of the Northeast.The US Census Bureau designates Maryland as one of the South Atlantic States, but it is commonly associated with the Mid-Atlantic States and/or Northeastern United States by other federal agencies, the media, and some residents. Both eastern and western Maryland are, however, dotted with cities of regional importance, such as Ocean City, Princess Anne, and Salisbury on the Eastern Shore and Cumberland, Frostburg, and Hancock in Western Maryland.Southern Maryland is still somewhat rural, but suburbanization from Washington, D.C. has encroached significantly since the 1960s; important local population centers include Lexington Park, Prince Frederick, California, and Waldorf. Amish/Mennonite communities are found in St. Mary's, Garrett, and Cecil counties. Many tourists visit Baltimore, the beaches of the Eastern Shore, and the nature of western Maryland. Attractions in Baltimore include the Harborplace, the Baltimore Aquarium, Fort McHenry, as well as the Camden Yards baseball stadium.Ocean City on the Atlantic Coast has been a popular beach destination in summer, particularly since the Chesapeake Bay Bridge was built in 1952 connecting the Eastern Shore to the more populated Maryland cities. The state capital of Annapolis offers sites such as the state capitol building, the historic district, and the waterfront.Maryland also has several sites of interest to military history, given Maryland's role in the American Civil War and in the War of 1812. Other attractions include the historic and picturesque towns along the Chesapeake Bay, such as Saint Mary's, Maryland's first colonial settlement and original capital.
+\Predicted Summary:
+, Maryland is a state in the Mid-Atlantic region of the Southern United States . Maryland is named after the English Queen Henrietta Maria, known in England as Queen Mary . MERR--lnd is a state in the Mid-Atlantic region of the Southern United States . it is named after the English Queen Henrietta Maria, known in England as Queen Mary .
+
+GT:
+Before its coastline was explored by Europeans in the 16th century, Maryland was inhabited by several groups of Native Americans, mostly by the Algonquin, and to a lesser degree by the Iroquois and Sioux. As one of the original Thirteen Colonies of Great Britain Maryland was founded by George Calvert, 1st Baron Baltimore, a Catholic convert who sought to provide a religious haven for Catholics persecuted in England. Following the dissolution of the Soviet Union, Yugoslavia, and Czechoslovakia, many immigrants from Eastern Europe came to the United States—12 percent of whom currently reside in Maryland. In 2006 645,744 were counted as foreign born, which represents mainly people from Latin America and Asia. Attractions in Baltimore include the Harborplace, the Baltimore Aquarium, Fort McHenry, as well as the Camden Yards baseball stadium.Ocean City on the Atlantic Coast has been a popular beach destination in summer, particularly since the Chesapeake Bay Bridge was built in 1952 connecting the Eastern Shore to the more populated Maryland cities. The state capital of Annapolis offers sites such as the state capitol building, the historic district, and the waterfront.Maryland also has several sites of interest to military history, given Maryland's role in the American Civil War and in the War of 1812.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11374407582938388, 0.4067796610169492, 0.1777777777777778, 0.11111111111111112]
+[0.02857142857142857, 0.10344827586206896, 0.04477611940298507, 0.027985074626865673]
+[0.09004739336492891, 0.3220338983050847, 0.14074074074074075, 0.08796296296296297]
+
+
+SBERT sim. Score: 0.532545804977417

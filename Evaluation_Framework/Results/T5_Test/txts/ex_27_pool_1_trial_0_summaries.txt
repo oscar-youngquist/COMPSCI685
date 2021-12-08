@@ -1,0 +1,21 @@
+Document:
+missouri
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Missouri is home to diverse flora and fauna, including several endemic species. More than half of Missourians (3,294,936 people, or 55.0%) live within the state's two largest metropolitan areas—St. Missouri is ranked 6th in the nation for the production of hogs and 7th for cattle. Tourism, services, and wholesale/retail trade follow manufacturing in importance—tourism benefits from the many rivers, lakes, caves, parks, etc., throughout the state. Missouri is the only state in the Union to have two Federal Reserve Banks: one in Kansas City (serving western Missouri, Kansas, Nebraska, Oklahoma, Colorado, northern New Mexico, and Wyoming) and one in St. Louis (serving eastern Missouri, southern Illinois, southern Indiana, western Kentucky, western Tennessee, northern Mississippi, and all of Arkansas). Kansas City is Missouri's largest city and the principal city of the fourteen-county Kansas City Metropolitan Statistical Area, including five counties in the state of Kansas. There are numerous junior colleges, trade schools, church universities and other private universities in the state.
+\Predicted Summary:
+, the French established Louisiana in 1735 and St. Louis in 1764. The French established Louisiana, a part of New France, founding Ste. Genevieve in 1735 and St. Louis in 1764. Missouri is a state in the Midwestern United States. With more than six million residents, it is the 18th-most populous state of the country.
+
+GT:
+The US Department of Commerce's Bureau of Economic Analysis estimated Missouri's 2016 gross state product at $299.1 billion, ranking 22nd among US states. The agriculture products of the state are beef, soybeans, pork, dairy products, hay, corn, poultry, sorghum, cotton, rice, and eggs. Missouri is ranked 6th in the nation for the production of hogs and 7th for cattle. Missouri also has a growing science, agricultural technology, and biotechnology field. In 2017, Missouri became a right-to-work state, but in August 2018, Missouri voters rejected a right-to-work law with 67% to 33%. There is no inheritance tax and limited Missouri estate tax related to federal estate tax collection. In 2017, the Tax Foundation rated Missouri as having the 5th-best corporate tax index, and the 15th-best overall tax climate.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16176470588235295, 0.4, 0.23036649214659688, 0.14397905759162305]
+[0.022222222222222223, 0.05555555555555555, 0.031746031746031744, 0.01984126984126984]
+[0.11029411764705882, 0.2727272727272727, 0.1570680628272251, 0.09816753926701571]
+
+
+SBERT sim. Score: 0.34711381793022156

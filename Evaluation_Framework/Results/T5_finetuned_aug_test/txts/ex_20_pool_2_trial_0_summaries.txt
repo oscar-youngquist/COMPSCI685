@@ -1,0 +1,21 @@
+Document:
+new_jersey
+
+Intent:
+What is the state's policy regarding education?
+
+Input:
+New Jersey's public school system consistently ranks at or among the top among all fifty US states. As of 2010, there were 605 school districts in the state. In 2015, the state spent more per each public school student than any other US state except New York, Alaska, and Connecticut, amounting to $18,235 spent per pupil; over 50% of the expenditure was allocated to student instruction. In 2014, New Jersey's school systems were ranked at the top of all fifty US states by financial website Wallethub.com. In both 2019 and 2020, Education Week also ranked New Jersey public schools the best of all US states. A 2017 UCLA Civil Rights project found that New Jersey has the sixth-most segregated classrooms in the United States. (The others are Kentucky, Louisiana, Mississippi, and Virginia.)
+\Predicted Summary:
+,,,, of all US states, with 9.76% of households—more than 323,000 of 3.3 million statewide—meeting the criteria . New Jersey was the second-wealthest state by median household income . New Jersey is the fourth-smallest state by area, with 8,882,190 residents .
+
+GT:
+As of 2010, there were 605 school districts in the state. Secretary of Education Rick Rosenberg, appointed by Governor Jon Corzine, created the Education Advancement Initiative (EAI) to increase college admission rates by 10% for New Jersey's high school students, decrease dropout rates by 15%, and increase the amount of money devoted to schools by 10%. In 2010, the state government paid all teachers' premiums for health insurance, but currently all NJ public teachers pay a portion of their own health insurance premiums. New Jersey is known for the quality of its education. In 2015, the state spent more per each public school student than any other US state except New York, Alaska, and Connecticut, amounting to $18,235 spent per pupil; over 50% of the expenditure was allocated to student instruction. According to 2011 Newsweek statistics, students of High Technology High School in Lincroft, Monmouth County and Bergen County Academies in Hackensack, Bergen County registered average SAT scores of 2145 and 2100, respectively, representing the second- and third-highest scores, respectively, of all listed US high schools.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12290502793296089, 0.4782608695652174, 0.19555555555555557, 0.12222222222222225]
+[0.033707865168539325, 0.13333333333333333, 0.05381165919282511, 0.033632286995515695]
+[0.07262569832402235, 0.2826086956521739, 0.11555555555555555, 0.07222222222222222]
+
+
+SBERT sim. Score: 0.45675164461135864

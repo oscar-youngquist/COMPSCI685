@@ -1,0 +1,21 @@
+Document:
+mississippi
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Mississippi ( (listen)) is a state in the Deep South region of the Southern United States, bordered to the north by Tennessee; to the east by Alabama; to the south by the Gulf of Mexico; to the southwest by Louisiana; and to the northwest by Arkansas. Mississippi is bordered to the north by Tennessee, to the east by Alabama, to the south by Louisiana and a narrow coast on the Gulf of Mexico; and to the west, across the Mississippi River, by Louisiana and Arkansas. (See: Lists of cities, towns and villages, census-designated places, metropolitan areas, micropolitan areas, and counties in Mississippi) The southeastern part of the state is dominated by longleaf pine, in both uplands and lowland flatwoods and Sarracenia bogs. Two bands of historical prairie, the Jackson Prairie and the Black Belt, run northwest to southeast in the middle and northeastern part of the state. The rest of the state, primarily north of Interstate 20 not including the prairie regions, consists of mixed pine-hardwood forest, common species being loblolly pine, oaks (e.g., water oak), hickories, sweetgum, and elm. Plantations were developed primarily along the major rivers, where the waterfront provided access to the major transportation routes. Mississippi has six airports with commercial passenger service, the busiest in Jackson (Jackson-Evers International Airport) and one in Gulfport (Gulfport-Biloxi International Airport) Mississippi is served by nine interstate highways: as well as a system of State Highways. Amtrak provides scheduled passenger service along two routes, the Crescent and City of New Orleans. All but two of the United States Class I railroads serve Mississippi (the exceptions are the Union Pacific and Canadian Pacific):
+\Predicted Summary:
+, the Mississippi River, which flows along and defines its western boundary . Mississippi is bordered to the north by Tennessee; to the east by Alabama; to the south by the Gulf of Mexico; to the southwest by Louisiana; and to the northwest by Arkansas . Mississippi is the 32nd largest and 34th-most populous of the 50 US states .
+
+GT:
+Mississippi has six airports with commercial passenger service, the busiest in Jackson (Jackson-Evers International Airport) and one in Gulfport (Gulfport-Biloxi International Airport) Some localities have laws restricting the practice. In 2018, the state was ranked number eight in the Union in terms of impaired driving deaths. Mississippi is served by nine interstate highways: and fourteen main US Routes: as well as a system of State Highways. Amtrak provides scheduled passenger service along two routes, the Crescent and City of New Orleans. Prior to severe damage from Hurricane Katrina, the Sunset Limited traversed the far south of the state; the route originated in Los Angeles, California and it terminated in Florida. All but two of the United States Class I railroads serve Mississippi (the exceptions are the Union Pacific and Canadian Pacific):
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.18045112781954886, 0.42105263157894735, 0.2526315789473684, 0.15789473684210525]
+[0.015151515151515152, 0.03571428571428571, 0.02127659574468085, 0.013297872340425532]
+[0.12030075187969924, 0.2807017543859649, 0.16842105263157894, 0.10526315789473684]
+
+
+SBERT sim. Score: 0.5185922980308533

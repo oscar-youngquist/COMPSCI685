@@ -1,0 +1,21 @@
+Document:
+missouri
+
+Intent:
+How is the government structured in this state?
+
+Input:
+Missouri is bordered by eight states (tied for the most with Tennessee): Iowa to the north, Illinois, Kentucky and Tennessee (via the Mississippi River) to the east, Arkansas to the south and Oklahoma, Kansas and Nebraska to the west. However, the elected legislative body was split between pro-Union and pro-Confederate. Missouri is the only state in the Union to have two Federal Reserve Banks: one in Kansas City (serving western Missouri, Kansas, Nebraska, Oklahoma, Colorado, northern New Mexico, and Wyoming) and one in St. Louis (serving eastern Missouri, southern Illinois, southern Indiana, western Kentucky, western Tennessee, northern Mississippi, and all of Arkansas). The current Constitution of Missouri, the fourth constitution for the state, was adopted in 1945. It provides for three branches of government: the legislative, judicial, and executive branches. The legislative branch consists of two bodies: the House of Representatives and the Senatorte. The judicial department comprises the Supreme Court of Missouri, which has seven judges, the Missouri Court of Appeals (an intermediate appellate court divided into three districts), sitting in Kansas City, St. Louis, and Springfield, and 45 Circuit Courts which function as local trial courts. The executive branch is headed by the Governor of Missouri and includes five other statewide elected offices. At the state level, both Democratic Senatortor Claire McCaskill and Democratic Governor Jay Nixon were re-elected. Today, alcohol laws are controlled by the state government, and local jurisdictions are prohibited from going beyond those state laws. The Missouri State Board of Education has general authority over all public education in the state of Missouri. It is made up of eight citizens appointed by the governor and confirmed by the Missouri Senatorte.
+\Predicted Summary:
+, the French established Louisiana in 1735 and St. Louis in 1764. The French established Louisiana, a part of New France, founding Ste. Genevieve in 1735 and St. Louis in 1764. Missouri is a state in the Midwestern United States. With more than six million residents, it is the 18th-most populous state of the country.
+
+GT:
+It provides for three branches of government: the legislative, judicial, and executive branches. The legislative branch consists of two bodies: the House of Representatives and the Senatorte. These bodies comprise the Missouri General Assembly. The House of Representatives has 163 members apportioned based on the last decennial census. The Senatorte consists of 34 members from districts of approximately equal populations. The judicial department comprises the Supreme Court of Missouri, which has seven judges, the Missouri Court of Appeals (an intermediate appellate court divided into three districts), sitting in Kansas City, St. Louis, and Springfield, and 45 Circuit Courts which function as local trial courts. The executive branch is headed by the Governor of Missouri and includes five other statewide elected offices.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1322314049586777, 0.2909090909090909, 0.1818181818181818, 0.11363636363636363]
+[0.008333333333333333, 0.018518518518518517, 0.01149425287356322, 0.007183908045977012]
+[0.09090909090909091, 0.2, 0.12500000000000003, 0.07812500000000001]
+
+
+SBERT sim. Score: 0.26856914162635803

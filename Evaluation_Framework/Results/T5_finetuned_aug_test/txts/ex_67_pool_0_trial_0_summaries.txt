@@ -1,0 +1,21 @@
+Document:
+maryland
+
+Intent:
+What drives the economy in this state?
+
+Input:
+As of 2015, Maryland had the highest median household income of any state, owing in large part to its proximity to Washington, D.C. and a highly diversified economy spanning manufacturing, services, higher education, and biotechnology. Nearby supplies of natural resources along with railroads fostered its growth into a major manufacturing center. Manufacturing, while large in dollar value, is highly diversified with no sub-sector contributing over 20 percent of the total. Mining other than construction materials is virtually limited to coal, which is located in the mountainous western part of the state. The state as a whole is heavily industrialized, with a booming economy and influential technology centers. Its computer industries are some of the most sophisticated in the United States, and the federal government has invested heavily in the area. Maryland has a large food-production sector. Maryland's food-processing plants are the most significant type of manufacturing by value in the state.
+\Predicted Summary:
+, Maryland is a state in the Mid-Atlantic region of the Southern United States . Maryland is a state in the Mid-Atlantic region of the Southern United States . it is named after the English Queen Henrietta Maria, known in England as Queen Mary . Maryland is a state in the mid-Atlantic region of the Southern United States .
+
+GT:
+As of 2015, Maryland had the highest median household income of any state, owing in large part to its proximity to Washington, D.C. and a highly diversified economy spanning manufacturing, services, higher education, and biotechnology. Maryland's economy benefits from the state's proximity to the federal government in Washington, D.C. with an emphasis on technical and administrative tasks for the defense/aerospace industry and bio-research laboratories, as well as staffing of satellite government headquarters in the suburban or exurban Baltimore/Washington area. Baltimore City is among the top 15 largest ports in the nation, and was one of six major US ports that were part of the February 2006 controversy over the Dubai Ports World deal. The state as a whole is heavily industrialized, with a booming economy and influential technology centers. Its computer industries are some of the most sophisticated in the United States, and the federal government has invested heavily in the area. Maryland is home to several large military bases and scores of high-level government jobs.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16666666666666666, 0.5087719298245614, 0.2510822510822511, 0.15692640692640694]
+[0.04046242774566474, 0.125, 0.0611353711790393, 0.03820960698689956]
+[0.11494252873563218, 0.3508771929824561, 0.17316017316017318, 0.10822510822510822]
+
+
+SBERT sim. Score: 0.4897738993167877

@@ -1,0 +1,21 @@
+Document:
+connecticut
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Connecticut is the third smallest state by area, the 29th most populous, and the fourth most densely populated of the fifty states. The state capital and fourth largest city is Hartford, and other major cities and towns (by population) include Bridgeport, New Haven, Stamford, Waterbury, Norwalk, Danbury, New Britain, Greenwich, and Bristol. Despite Connecticut's relatively small size, it features wide regional variations in its landscape; for example, in the northwestern Litchfield Hills, it features rolling mountains and horse farms, whereas in areas to the east of New Haven along the coast, the landscape features coastal marshes, beaches, and large scale maritime activities. Connecticut's rural areas and small towns in the northeast and northwest corners of the state contrast sharply with its industrial cities such as Stamford, Bridgeport, and New Haven, located along the coastal highways from the New York border to New London, then northward up the Connecticut River to Hartford. Far southern and coastal Connecticut has a climate with cool winters with a mix of rain and infrequent snow, and the long hot and humid summers typical of the middle and lower East Coast. The average yearly snowfall ranges from about 60 inches (1,500 mm) in the higher elevations of the northern portion of the state to only 20–25 inches (510–640 mm) along the southeast coast of Connecticut (Branford to Groton). Forests consist of a mix of Northeastern coastal forests of Oak in southern areas of the state, to the upland New England-Acadian forests in the northwestern parts of the state. Several types of beach grasses and wildflowers are also native to Connecticut. Most of western and southern Connecticut (particularly the Gold Coast) is strongly associated with New York City Connecticut does not have county government, unlike all other states except Rhode Island. The state hosts several major sporting events.
+\Predicted Summary:
+,,,, and the Long Island Sound. Connecticut is the southernmost state in the Northeastern United States. Connecticut is the third smallest state by area, the 29th most populous, and the fourth most densely populated of the fifty states. Connecticut is the third smallest state by area, the 29th most populous, and the fourth most densely populated of the fifty states.
+
+GT:
+As of the 2010 Census, it has the highest per-capita income, Human Development Index (0.962), and median household income in the United States. The Connecticut River, Thames River, and ports along Long Island Sound have given Connecticut a strong maritime tradition which continues today. The state also has a long history of hosting the financial services industry, including insurance companies in Hartford and hedge funds in Fairfield County. Forests consist of a mix of Northeastern coastal forests of Oak in southern areas of the state, to the upland New England-Acadian forests in the northwestern parts of the state. Connecticut's per capita personal income in 2019 was estimated at $79,087, the highest of any state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2605042016806723, 0.5254237288135594, 0.34831460674157305, 0.21769662921348312]
+[0.059322033898305086, 0.1206896551724138, 0.07954545454545456, 0.04971590909090909]
+[0.17647058823529413, 0.3559322033898305, 0.2359550561797753, 0.14747191011235958]
+
+
+SBERT sim. Score: 0.56827712059021

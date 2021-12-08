@@ -1,0 +1,21 @@
+Document:
+iowa
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+It is bordered by six states: Wisconsin to the northeast, Illinois to the east and southeast, Missouri to the south, Nebraska to the west, South Dakota to the northwest, and Minnesota to the north. The state's capital, most populous city, and largest metropolitan area fully located within the state is Des Moines. Natives of central and southern Iowa—including such cities as Council Bluffs, Davenport, Des Moines, and Iowa City—tend to speak the North Midland dialect also found in eastern Nebraska, central Illinois, and central Indiana. The Sioux City Metropolitan Area encompasses areas in three states: Iowa, Nebraska, and South Dakota. Iowa has four primary interstate highways. Interstate 29 (I-29) travels along the state's western edge through Council Bluffs and Sioux City. I-35 travels from the Missouri state line to the Minnesota state line through the state's center, including Des Moines. I-80 travels from the Nebraska state line to the Illinois state line through the center of the state, including Council Bluffs, Des Moines, Iowa City, and the Quad Cities. I-380 is an auxiliary Interstate Highway, which travels from I-80 near Iowa City through Cedar Rapids ending in Waterloo and is part of the Avenue of the Saints highway. Iowa is served by several regional airports including the Des Moines International Airport, the Eastern Iowa Airport, in Cedar Rapids, Quad City International Airport, in Moline, Illinois, and Eppley Airfield, in Omaha, Nebraska. Smaller airports in the state include the Davenport Municipal Airport (Iowa), Dubuque Regional Airport, Fort Dodge Regional Airport, Mason City Municipal Airport, Sioux Gateway Airport, Southeast Iowa Regional Airport, and Waterloo Regional Airport. Amtrak's California Zephyr serves the south of Iowa with stops at Burlington, Mount Pleasant, Ottumwa, Osceola, and Creston on its daily route between Chicago and Emeryville, California.
+\Predicted Summary:
+is the 26th most extensive in total area and the 30th most populous of the 50 US states . Iowa is bordered by the Mississippi River to the east and the Missouri River and Big Sioux River to the west . Iowa is the only state whose east and west borders are formed almost entirely by rivers .
+
+GT:
+Iowa has four primary interstate highways. Interstate 29 (I-29) travels along the state's western edge through Council Bluffs and Sioux City. I-35 travels from the Missouri state line to the Minnesota state line through the state's center, including Des Moines. I-74 begins at I-80 just northeast of Davenport. I-80 travels from the Nebraska state line to the Illinois state line through the center of the state, including Council Bluffs, Des Moines, Iowa City, and the Quad Cities. I-380 is an auxiliary Interstate Highway, which travels from I-80 near Iowa City through Cedar Rapids ending in Waterloo and is part of the Avenue of the Saints highway. Iowa is among the few jurisdictions where municipalities install speed cameras on interstate highways providing a substantial revenue source from out of state drivers. Iowa is served by several regional airports including the Des Moines International Airport, the Eastern Iowa Airport, in Cedar Rapids, Quad City International Airport, in Moline, Illinois, and Eppley Airfield, in Omaha, Nebraska. Smaller airports in the state include the Davenport Municipal Airport (Iowa), Dubuque Regional Airport, Fort Dodge Regional Airport, Mason City Municipal Airport, Sioux Gateway Airport, Southeast Iowa Regional Airport, and Waterloo Regional Airport. Amtrak's California Zephyr serves the south of Iowa with stops at Burlington, Mount Pleasant, Ottumwa, Osceola, and Creston on its daily route between Chicago and Emeryville, California. Fort Madison is served by Amtrak's Southwest Chief, running daily between Chicago and Los Angeles.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10843373493975904, 0.4909090909090909, 0.17763157894736842, 0.11101973684210527]
+[0.028225806451612902, 0.12962962962962962, 0.04635761589403973, 0.02897350993377483]
+[0.07630522088353414, 0.34545454545454546, 0.125, 0.078125]
+
+
+SBERT sim. Score: 0.5694646239280701

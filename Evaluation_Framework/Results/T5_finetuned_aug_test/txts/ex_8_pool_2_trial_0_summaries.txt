@@ -1,0 +1,21 @@
+Document:
+north_dakota
+
+Intent:
+What is the state's policy regarding education?
+
+Input:
+Young adults with university degrees were particularly likely to leave the state. The North Dakota High School Activities Association features more than 25,000 participants. North Dakota's court system has four levels. The state has 11 public colleges and universities, five tribal community colleges, and four private schools. The largest institutions are North Dakota State University and the University of North Dakota. The higher education system consists of the following institutions: North Dakota University System (public institutions): Tribal institutions: Private institutions:
+\Predicted Summary:
+, the largest city of North Dakota. North Dakota is the capital of Bismarck, and its largest city is Fargo . North Dakota is the third largest state in the region, the fourth least populous, and the fourth most sparsely populated of the 50 states . North Dakota has a wealth of oil, including billions of tons of lignite coal .
+
+GT:
+The state has 11 public colleges and universities, five tribal community colleges, and four private schools. The largest institutions are North Dakota State University and the University of North Dakota. The higher education system consists of the following institutions: North Dakota University System (public institutions): Tribal institutions: Private institutions:
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3877551020408163, 0.3333333333333333, 0.3584905660377358, 0.2240566037735849]
+[0.14583333333333334, 0.125, 0.1346153846153846, 0.08413461538461538]
+[0.2653061224489796, 0.22807017543859648, 0.24528301886792453, 0.15330188679245282]
+
+
+SBERT sim. Score: 0.5067946314811707

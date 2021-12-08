@@ -1,0 +1,21 @@
+Document:
+ohio
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The government of Ohio is composed of the executive branch, led by the governor; the legislative branch, consisting of the bicameral Ohio General Assembly; and the judicial branch, led by the state Supreme Court. The state is known for its status as both a swing state and a bellwether in national elections. The state government of Ohio consists of the executive, judicial, and legislative branches. The executive branch is headed by the governor of Ohio. The other elected constitutional offices in the executive branch are the secretary of state (Frank LaRose), auditor (Keith Faber), treasurer (Robert Sprague), and attorney general (Dave Yost). There are three levels of the Ohio state judiciary. The Ohio General Assembly is a bicameral legislature consisting of the Senatorte and House of Representatives. The Senatorte is composed of 33 districts, each of which is represented by one senator. The governor, Mike DeWine, is Republican, as well as all other non-judicial statewide elected officials, including Lieutenant Governor Jon A. Husted, Attorney General Dave Yost, State Auditor Keith Faber, Secretary of State Frank LaRose and State Treasurer Robert Sprague. In the Ohio State Senatorte the Republicans are the majority, 24–9, and in the Ohio House of Representatives the Republicans control the delegation 61–38. As of the 2018 midterms, twelve federal representatives are Republicans while four are Democrats.
+\Predicted Summary:
+the first post-colonial free state admitted to the union on March 1, 1803 . Ohio is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated . Ohio is known for its status as both a swing state and a bellwether in national elections .
+
+GT:
+The government of Ohio is composed of the executive branch, led by the governor; the legislative branch, consisting of the bicameral Ohio General Assembly; and the judicial branch, led by the state Supreme Court. The executive branch is headed by the governor of Ohio. A lieutenant governor succeeds the governor in the event of any removal from office, and performs any duties assigned by the governor. There are three levels of the Ohio state judiciary. The lowest level is the court of common pleas: each county maintains its own constitutionally mandated court of common pleas, which maintain jurisdiction over "all justiciable matters". The intermediate-level court system is the district court system. Twelve courts of appeals exist, each retaining jurisdiction over appeals from common pleas, municipal, and county courts in a set geographical area. The state's highest-ranking court is the Ohio Supreme Court. A seven-justice panel composes the court, which, by its own discretion, hears appeals from the courts of appeals, and retains original jurisdiction over limited matters. The Ohio General Assembly is a bicameral legislature consisting of the Senatorte and House of Representatives. The Senatorte is composed of 33 districts, each of which is represented by one senator. Each senator represents approximately 330,000 constituents. The House of Representatives is composed of 99 members.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10091743119266056, 0.38596491228070173, 0.16, 0.1]
+[0.013824884792626729, 0.05357142857142857, 0.02197802197802198, 0.013736263736263736]
+[0.07339449541284404, 0.2807017543859649, 0.11636363636363636, 0.07272727272727274]
+
+
+SBERT sim. Score: 0.3290112316608429

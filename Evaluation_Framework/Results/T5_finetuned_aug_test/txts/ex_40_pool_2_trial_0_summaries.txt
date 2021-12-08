@@ -1,0 +1,21 @@
+Document:
+new_jersey
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+This toll road, which overlaps with Interstate 95 for much of its length, carries traffic between Delaware and New York, and up and down the East Coast in general. It connects Fort Lee, New Jersey to the Washington Heights neighborhood of Upper Manhattan, and carries Interstate 95 and US Route 1/9 across the Hudson River. The adjacent Newark Airport railroad station provides access to Amtrak and NJ Transit trains along the Northeast Corridor Line. Two smaller commercial airports, Atlantic City International Airport and rapidly growing Trenton-Mercer Airport, also operate in other parts of the state. NJ Transit operates extensive rail and bus service throughout the state. Today, NJ Transit has eleven commuter rail lines that run through different parts of the state. The PATH is a rapid transit system consisting of four lines operated by the Port Authority of New York and New Jersey.
+\Predicted Summary:
+, New Jersey,,, of all US states, with 9.76% of households surveyed . New Jersey was the second-wealthest state by median household income . New Jersey is the fourth-smallest state by area, with 8,882,190 residents . New Jersey is the 11th-most populous state by area, with 8,882,190 residents .
+
+GT:
+The New Jersey Turnpike is one of the most prominent and heavily trafficked roadways in the United States. The Garden State Parkway, or simply "the Parkway", carries relatively more in-state traffic than interstate traffic and runs from New Jersey's northern border to its southernmost tip at Cape May. New Jersey is connected to New York City via various key bridges and tunnels. Newark Liberty International Airport (EWR) is one of the busiest airports in the United States. Two smaller commercial airports, Atlantic City International Airport and rapidly growing Trenton-Mercer Airport, also operate in other parts of the state. NJ Transit operates extensive rail and bus service throughout the state. NJ Transit also operates three light rail systems in the state. The PATH is a rapid transit system consisting of four lines operated by the Port Authority of New York and New Jersey. Amtrak operates numerous long-distance passenger trains in New Jersey, both to and from neighboring states and around the country. The Southeastern Pennsylvania Transportation Authority, or SEPTA, has two commuter rail lines that operate into New Jersey. AirTrain Newark is a monorail connecting the Amtrak/NJ Transit station on the Northeast Corridor to the airport's terminals and parking lots. New York Waterway has ferry terminals at Belford, Jersey City, Hoboken, Weehawken, and Edgewater, with service to different parts of Manhattan. Liberty Water Taxi in Jersey City has ferries from Paulus Hook and Liberty State Park to Battery Park City in Manhattan. Statue Cruises offers service from Liberty State Park to the Statue of Liberty National Monument, including Ellis Island. The Delaware River and Bay Authority operates the Cape May–Lewes Ferry on Delaware Bay, carrying both passengers and vehicles between New Jersey and Delaware.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07586206896551724, 0.4230769230769231, 0.1286549707602339, 0.0804093567251462]
+[0.01730103806228374, 0.09803921568627451, 0.029411764705882356, 0.018382352941176475]
+[0.05862068965517241, 0.3269230769230769, 0.09941520467836257, 0.062134502923976605]
+
+
+SBERT sim. Score: 0.41920045018196106

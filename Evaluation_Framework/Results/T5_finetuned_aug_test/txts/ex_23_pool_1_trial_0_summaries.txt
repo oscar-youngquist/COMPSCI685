@@ -1,0 +1,21 @@
+Document:
+michigan
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The governor and the other state constitutional officers serve four-year terms and may be re-elected only once. The other constitutionally elected executive officers are the lieutenant governor, who is elected on a joint ticket with the governor, the secretary of state, and the attorney general. The lieutenant governor presides over the Senatorte (voting only in case of a tie) and is also a member of the cabinet. The secretary of state is the chief elections officer and is charged with running many licensure programs including motor vehicles, all of which are done through the branch offices of the secretary of state. Members of both houses of the legislature are elected through first past the post elections by single-member electoral districts of near-equal population that often have boundaries which coincide with county and municipal lines. Senatortors serve four-year terms concurrent to those of the governor, while representatives serve two-year terms. Governors since the 1970s have alternated between the two parties, and statewide offices including attorney general, secretary of state, and senator have been held by members of both parties in varying proportion. The state's congressional delegation is commonly split, with one party or the other typically holding a narrow majority. State government is decentralized among three tiers—statewide, county and township. Both of them exercise state government authority, localized to meet the particular needs of their jurisdictions, as provided by state law.
+\Predicted Summary:
+,,, and was occupied by Native Americans in the 17th century. Michigan is the tenth most populous state, the 11th most extensive state by area, and the largest by area . Michigan is the only state to consist of two peninsulas, the Upper Peninsula, and Lake Michigan . Michigan is the largest state in the world, with a population of approximately 10 million .
+
+GT:
+Michigan is governed as a republic, with three branches of government: the executive branch consisting of the Governor of Michigan and the other independently elected constitutional officers; the legislative branch consisting of the House of Representatives and Senatorte; and the judicial branch. The Michigan Constitution allows for the direct participation of the electorate by statutory initiative and referendum, recall, and constitutional initiative and referral (Article II, § 9, defined as "the power to propose laws and to enact and reject laws, called the initiative, and the power to approve or reject laws enacted by the legislature, called the referendum. The governor and the other state constitutional officers serve four-year terms and may be re-elected only once. The other constitutionally elected executive officers are the lieutenant governor, who is elected on a joint ticket with the governor, the secretary of state, and the attorney general. The Michigan Legislature consists of a 38-member Senatorte and 110-member House of Representatives. The Michigan judiciary consists of two courts with primary jurisdiction (the Circuit Courts and the District Courts), one intermediate level appellate court (the Michigan Court of Appeals), and the Michigan Supreme Court. District courts are trial courts of limited jurisdiction, handling most traffic violations, small claims, misdemeanors, and civil suits where the amount contended is below $25,000. District courts are often responsible for handling the preliminary examination and for setting bail in felony cases. District court judges are elected to terms of six years. There are 57 circuit courts in the State of Michigan, which have original jurisdiction over all civil suits where the amount contended in the case exceeds $25,000 and all criminal cases involving felonies.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12186379928315412, 0.5666666666666667, 0.20058997050147492, 0.12536873156342182]
+[0.02158273381294964, 0.1016949152542373, 0.03560830860534125, 0.02225519287833828]
+[0.08602150537634409, 0.4, 0.1415929203539823, 0.08849557522123895]
+
+
+SBERT sim. Score: 0.4688971936702728

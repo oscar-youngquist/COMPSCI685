@@ -1,0 +1,21 @@
+Document:
+new_jersey
+
+Intent:
+How is the government structured in this state?
+
+Input:
+Until 2010, the governor was the only statewide elected executive official in the state and appointed numerous government officials. A 2005 amendment to the state Constitution prevents the Senatorte President from becoming acting governor in the event of a permanent gubernatorial vacancy without giving up her or his seat in the state Senatorte. Each of the 40 legislative districts elects one state senator and two Assembly members. Assembly members are elected for a two-year term in all odd-numbered years; state senators are elected in the years ending in 1, 3, and 7 and thus serve either four- or two-year terms. New Jersey is one of only five states that elects its state officials in odd-numbered years. All are appointed by the governor with the advice and consent of a majority of the membership of the state senate. Depending on the county, the executive and legislative functions may be performed by the Board of Chosen Freeholders or split into separate branches of government. In the other five counties (Atlantic, Bergen, Essex, Hudson and Mercer), there is a directly elected County Executive who performs the executive functions while the Board of Chosen Freeholders retains a legislative and oversight role. Municipalities can also formulate their own unique form of government and operate under a Special Charter with the approval of the New Jersey Legislature. The state's Democratic strongholds include Camden County, Essex County (typically the state's most Democratic county—it includes Newark, the state's largest city), Hudson County (the second-strongest Democratic county, including Jersey City, the state's second-largest city); Mercer County (especially around Trenton and Princeton), Middlesex County, and Union County (including Elizabeth, the state's fourth-largest city).
+\Predicted Summary:
+,, New Jersey, and Newark, New Jersey, helped drive the nation's Industrial Revolution . New Jersey was first inhabited by Native Americans for at least 2,800 years . New Jersey was the second-wealthest state by median household income .
+
+GT:
+The current version of the New Jersey State Constitution was adopted in 1947. It provides for a bicameral New Jersey Legislature, consisting of an upper house Senatorte of 40 members and a lower house General Assembly of 80 members. Each of the 40 legislative districts elects one state senator and two Assembly members. The New Jersey Supreme Court consists of a chief justice and six associate justices. All are appointed by the governor with the advice and consent of a majority of the membership of the state senate. Most of the day-to-day work in the New Jersey courts is carried out in the Municipal Court, where simple traffic tickets, minor criminal offenses, and small civil matters are heard. More serious criminal and civil cases are handled by the Superior Court for each county. The Superior Court also has an Appellate Division, which functions as the state's intermediate appellate court. There is also a Tax Court, which is a court of limited jurisdiction.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10303030303030303, 0.4473684210526316, 0.16748768472906403, 0.10467980295566501]
+[0.024390243902439025, 0.10810810810810811, 0.03980099502487563, 0.024875621890547265]
+[0.07272727272727272, 0.3157894736842105, 0.11822660098522166, 0.07389162561576355]
+
+
+SBERT sim. Score: 0.28193923830986023

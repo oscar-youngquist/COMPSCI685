@@ -1,0 +1,21 @@
+Document:
+texas
+
+Intent:
+What drives the economy in this state?
+
+Input:
+In the later 19th century cotton and lumber grew to be major industries as the cattle industry became less lucrative. With a growing base of industry, the state leads in many industries, including tourism, agriculture, petrochemicals, energy, computers and electronics, aerospace, and biomedical sciences. Cotton and lumber became major industries creating new economic booms in various regions of the state. As with some other states before, the lumber industry quickly expanded in Texas and was its largest industry before the beginning of the 20th century. At $7.4 billion or 56.7 percent of Texas's annual agricultural cash receipts, beef cattle production represents the largest single segment of Texas agriculture. The state also leads the nation in production of cotton which is the number one crop grown in the state in terms of value.
+\Predicted Summary:
+, Texas is the second largest state in the US, and the second largest in the US . Texas is the second largest state by both area (after Alaska) and population (after California). Texas shares borders with the states of Louisiana to the east, Arkansas to the northeast, Oklahoma to the north, New Mexico to the west, and the Mexican states of Chihuahua, Coahuila, Nuevo León, and Tamaulipas to the south and southwest .
+
+GT:
+Texas's large population, an abundance of natural resources, thriving cities and leading centers of higher education have contributed to a large and diverse economy. Since oil was discovered, the state's economy has reflected the state of the petroleum industry. In 2010, Site Selection Magazine ranked Texas as the most business-friendly state in the nation, in part because of the state's three-billion-dollar Texas Enterprise Fund. Texas has the joint-highest number of Fortune 500 company headquarters in the United States, along with California. In 2010, there were 346,000 millionaires in Texas, constituting the second-largest population of millionaires in the nation. Texas has a "low taxes, low services" reputation. According to the Tax Foundation, Texans' state and local tax burdens rank among the lowest in the nation, 7th lowest nationally; state and local taxes cost $3,580 per capita, or 8.4 percent of resident incomes. Instead, the state collects revenue from property taxes (though these are collected at the county, city, and school district level; Texas has a state constitutional prohibition against a state property tax) and sales taxes.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1881720430107527, 0.4861111111111111, 0.2713178294573644, 0.16957364341085274]
+[0.043243243243243246, 0.11267605633802817, 0.0625, 0.0390625]
+[0.13440860215053763, 0.3472222222222222, 0.1937984496124031, 0.12112403100775193]
+
+
+SBERT sim. Score: 0.6098792552947998

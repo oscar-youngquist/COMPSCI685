@@ -1,0 +1,21 @@
+Document:
+pennsylvania
+
+Intent:
+What drives the economy in this state?
+
+Input:
+At the beginning of the 20th century, Pennsylvania's economy centered on steel production, logging, coal mining, textile production and other forms of industrial manufacturing. Much of the Commonwealth is rural Pennsylvania ranks 19th overall in agricultural production. The financial impact of agriculture in Pennsylvania includes employment of more than 66,800 people employed by the food manufacturing industry; and over $1.7 billion in food product export (in 2011). It was also a keystone state economically, having both the industry common to the North (making such wares as Conestoga wagons and rifles) and the agriculture common to the South (producing feed, fiber, food, and tobacco). "The Coal State", "The Oil State", "The Chocolate State", and "The Steel State" were adopted when those were the state's greatest industries.
+\Predicted Summary:
+, the state's capital and its 13th-largest city is Harrisburg . Pennsylvania is the 33rd-largest state by area, and the 5th-most populous state according to the most recent official US Census count in 2010 . Pennsylvania is the 9th-most densely populated of the 50 states .
+
+GT:
+At the beginning of the 20th century, Pennsylvania's economy centered on steel production, logging, coal mining, textile production and other forms of industrial manufacturing. Philadelphia is home to six Fortune 500 companies, with more located in suburbs like King of Prussia; it is a leader in the financial and insurance industry. Pittsburgh is home to eight Fortune 500 companies, including US Steel, PPG Industries, and H.J. Heinz. In all, Pennsylvania is home to fifty Fortune 500 companies.Hershey is home to The Hershey Company, one of the largest chocolate manufacturers in the world. Erie is also home to GE Transportation, which is the largest producer of train locomotives in the United States. As in the US as a whole and in most states, the largest private employer in the Commonwealth is Walmart, followed by the University of Pennsylvania. Pennsylvania is also home to the oldest investor-owned utility company in the US, The York Water Company.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1518987341772152, 0.5106382978723404, 0.23414634146341465, 0.14634146341463417]
+[0.03184713375796178, 0.10869565217391304, 0.04926108374384236, 0.030788177339901475]
+[0.11392405063291139, 0.3829787234042553, 0.175609756097561, 0.1097560975609756]
+
+
+SBERT sim. Score: 0.4519999027252197

@@ -1,0 +1,21 @@
+Document:
+michigan
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Lansing is the state capital and is home to all three branches of state government. Detroit Metropolitan Airport is one of the nation's most recently expanded and modernized airports with six major runways, and large aircraft maintenance facilities capable of servicing and repairing a Boeing 747 and is a major hub for Delta Air Lines. Michigan is served by four Class I railroads: the Canadian National Railway, the Canadian Pacific Railway, CSX Transportation, and the Norfolk Southern Railway. Amtrak passenger rail services the state, connecting many southern and western Michigan cities to Chicago, Illinois. The Gerald R. Ford International Airport in Grand Rapids is the next busiest airport in the state, served by eight airlines to 23 destinations. MBS International Airport serves Midland, Bay City and Saginaw. Smaller regional and local airports are located throughout the state including on several islands.
+\Predicted Summary:
+in the 17th century, it was claimed as part of new France colony . It was claimed as part of new France colony . the region was once part of the larger Northwest Territory .
+
+GT:
+Michigan has nine international road crossings with Ontario, Canada: Michigan is served by four Class I railroads: the Canadian National Railway, the Canadian Pacific Railway, CSX Transportation, and the Norfolk Southern Railway. Amtrak passenger rail services the state, connecting many southern and western Michigan cities to Chicago, Illinois. The Detroit Metropolitan Airport in the western suburb of Romulus, was in 2010 the 16th busiest airfield in North America measured by passenger traffic. The Gerald R. Ford International Airport in Grand Rapids is the next busiest airport in the state, served by eight airlines to 23 destinations. Flint Bishop International Airport is the third largest airport in the state, served by four airlines to several primary hubs.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.05172413793103448, 0.1875, 0.08108108108108109, 0.050675675675675685]
+[0.008695652173913044, 0.03225806451612903, 0.013698630136986302, 0.008561643835616438]
+[0.05172413793103448, 0.1875, 0.08108108108108109, 0.050675675675675685]
+
+
+SBERT sim. Score: -0.0664178654551506

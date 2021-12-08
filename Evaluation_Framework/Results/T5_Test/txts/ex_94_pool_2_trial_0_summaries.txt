@@ -1,0 +1,21 @@
+Document:
+new_york
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The next four most populous cities in the state are Buffalo, Rochester, Yonkers, and Syracuse, while the state capital is Albany. Aside from the five counties of New York City, each of these counties is subdivided into towns and cities, incorporated under state law. It is composed of three branches: executive, legislative, and judicial. The governor is the state's chief executive and is assisted by the lieutenant governor. The New York State Legislature is bicameral and consists of the New York State Senatorte and the New York State Assembly. The state is divided into counties, cities, towns, and villages, all of which are municipal corporations with respect to their own governments, as well as various corporate entities that serve single purposes that are also local governments, such as school districts, fire districts, and New York state public-benefit corporations, frequently known as authorities or development corporations.
+\Predicted Summary:
+the first Europeans arrived southward from New York to New York . New York is a state in the northeastern United States. It was one of the original thirteen colonies, forming the United States. New York is the 27th largest state. With an estimated population of 8.34 million as of 2019 makes it the fourth most populous city in the world. New York is the most populous city in the world.
+
+GT:
+It is composed of three branches: executive, legislative, and judicial. The governor is the state's chief executive and is assisted by the lieutenant governor. The New York State Legislature is bicameral and consists of the New York State Senatorte and the New York State Assembly. The state is divided into counties, cities, towns, and villages, all of which are municipal corporations with respect to their own governments, as well as various corporate entities that serve single purposes that are also local governments, such as school districts, fire districts, and New York state public-benefit corporations, frequently known as authorities or development corporations. Each municipal corporation is granted varying home rule powers as provided by the New York Constitution. The state also has 10 Indian reservations.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2698412698412698, 0.4788732394366197, 0.3451776649746192, 0.21573604060913706]
+[0.056, 0.1, 0.0717948717948718, 0.04487179487179488]
+[0.15079365079365079, 0.2676056338028169, 0.19289340101522842, 0.12055837563451775]
+
+
+SBERT sim. Score: 0.32064518332481384

@@ -1,0 +1,21 @@
+Document:
+missouri
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Outside of the state's major cities, popular tourist destinations include the Lake of the Ozarks, Table Rock Lake and Branson. Well-known Missourians include Chuck Berry, Sheryl Crow, Walt Disney, Edwin Hubble, Nelly, Brad Pitt, Harry S. Truman, and Mark Twain. Missouri is home to diverse flora and fauna, including several endemic species. Kansas City is a major railroad hub for BNSF Railway, Norfolk Southern Railway, Kansas City Southern Railway, and Union Pacific Railroad, and every class 1 railroad serves Missouri. Jefferson City is the capital city of Missouri, while the state's five largest cities are Kansas City, St. Louis, Springfield, Columbia, and Independence. Some of the other major cities comprising the Kansas City metro area in Missouri include Independence, Lee's Summit, Blue Springs, Liberty, Raytown, Gladstone, and Grandview. These include guitarist and rock pioneer Chuck Berry, singer and actress Josephine Baker, "Queen of Rock" Tina Turner, pop singer-songwriter Sheryl Crow, Michael McDonald of the Doobie Brothers, and rappers Nelly, Chingy and Akon, all of whom are either current or former residents of St. Louis. Country singers from Missouri include Perryville native Chris Janson, New Franklin native Sara Evans, Cantwell native Ferlin Husky, West Plains native Porter Wagoner, Tyler Farr of Garden City, and Mora native Leroy Van Dyke, along with bluegrass musician Rhonda Vincent, a native of Greentop.
+\Predicted Summary:
+, the French established Louisiana in 1735 and St. Louis in 1764. The French established Louisiana, a part of New France, founding Ste. Genevieve in 1735 and St. Louis in 1764. Missouri is a state in the Midwestern United States. With more than six million residents, it is the 18th-most populous state of the country.
+
+GT:
+The Kansas City Symphony and the St. Louis Symphony Orchestra are the state's major orchestras. The latter is the nation's second-oldest symphony orchestra and achieved prominence in recent years under conductor Leonard Slatkin. Branson is well-known for its music theaters, most of which bear the name of a star performer or musical group. Missouri is the native state of Mark Twain. His novels The Adventures of Tom Sawyer and The Adventures of Huckleberry Finn are set in his boyhood hometown of Hannibal. Novelist Daniel Woodrell, known for depicting life in the Missouri Ozarks, was born in Springfield and lives in West Plains.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2169811320754717, 0.41818181818181815, 0.2857142857142857, 0.17857142857142858]
+[0.047619047619047616, 0.09259259259259259, 0.06289308176100629, 0.03930817610062893]
+[0.1320754716981132, 0.2545454545454545, 0.1739130434782609, 0.10869565217391303]
+
+
+SBERT sim. Score: 0.2483614832162857

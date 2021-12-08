@@ -1,0 +1,21 @@
+Document:
+indiana
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Indiana has a diverse economy with a gross state product of $359.12 billion in 2017. Indiana manufactured 4.5 percent of total United States military armaments produced during World War II, ranking eighth among the 48 states. A high percentage of Indiana's income is from manufacturing. According to the Bureau of Labor Statistics, nearly 17 percent of the state's non-farm workforce is employed in manufacturing, the highest of any state in the US The state's five leading exports were motor vehicles and auto parts, pharmaceutical products, industrial machinery, optical and medical equipment, and electric machinery. Overall, Indiana ranks fifth among all US states in total sales and shipments of pharmaceutical products and second highest in the number of biopharmaceutical related jobs. Its proximity to large urban centers, such as Indianapolis and Chicago, assure dairying, egg production, and specialty horticulture occur.Other crops include melons, tomatoes, grapes, mint, popping corn, and tobacco in the southern counties.
+\Predicted Summary:
+, Indiana was admitted to the United States as the 19th state on December 11, 1816 . Indiana is a US state in the Midwestern and Great Lakes regions of North America . it borders Lake Michigan to the northwest, Michigan to the north, Ohio to the east, the Ohio River and Kentucky to the east .
+
+GT:
+A high percentage of Indiana's income is from manufacturing. According to the Bureau of Labor Statistics, nearly 17 percent of the state's non-farm workforce is employed in manufacturing, the highest of any state in the US The state's five leading exports were motor vehicles and auto parts, pharmaceutical products, industrial machinery, optical and medical equipment, and electric machinery. Despite its reliance on manufacturing, Indiana has been less affected by declines in traditional Rust Belt manufactures than many of its neighbors. Northwest Indiana has been the largest steel producing center in the US since 1975 and accounted for 27 percent of American-made steel in 2016. Indiana is within the US Corn Belt and Grain Belt. Along with corn, soybeans are also a major cash crop. Its proximity to large urban centers, such as Indianapolis and Chicago, assure dairying, egg production, and specialty horticulture occur.Other crops include melons, tomatoes, grapes, mint, popping corn, and tobacco in the southern counties.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15337423312883436, 0.4716981132075472, 0.23148148148148148, 0.14467592592592593]
+[0.024691358024691357, 0.07692307692307693, 0.03738317757009346, 0.02336448598130841]
+[0.11042944785276074, 0.33962264150943394, 0.16666666666666666, 0.10416666666666669]
+
+
+SBERT sim. Score: 0.47464391589164734

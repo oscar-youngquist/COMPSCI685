@@ -1,0 +1,21 @@
+Document:
+washington
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+
+Input:
+Western Washington also is home of the Olympic Mountains, far west on the Olympic Peninsula, which support dense forests of conifers and areas of temperate rainforest. The main cities are all located alongside rivers or lakes; indeed, most of them are named after the river or lake they adjoin. The state's various areas of wilderness offer sanctuary, with substantially large populations of shorebirds and marine mammals. Washington has a variety of National Park Service units. Among these are the Alta Lake State Park, Lake Roosevelt National Recreation Area, San Juan Islands National Wildlife Refuge, as well as three national parks—the Olympic National Park, North Cascades National Park, and Mount Rainier National Park. Almost 95 percent (876,517 acres, 354,714 hectares, 3,547.14 square kilometers) of Olympic National Park's area has been designated as wilderness under the National Wilderness Preservation System. Additionally, there are 143 state parks and 9 national forests, run by the Washington State Park System and the United States Forest Service. It is managed together as the Okanogan–Wenatchee National Forest, encompassing a considerably larger area of around 3,239,404 acres (1,310,940 ha). There are extensive waterways around Washington's largest cities, including Seattle, Bellevue, Tacoma and Olympia.
+\Predicted Summary:
+,,,,, and apricots, asparagus, lentils, and potatoes . Washington is the second most populous state on the west coast and in the Western United States . Washington is the second most populous state on the west coast and in the Western United States .
+
+GT:
+The Cascade Range has several volcanoes, which reach altitudes significantly higher than the rest of the mountains. From north to south, these major volcanoes are Mount Baker, Glacier Peak, Mount Rainier, Mount St. Helens, and Mount Adams. Mount Rainier, the tallest mountain in the state, is 50 miles (80 km) south of the city of Seattle, from which it is prominently visible. Western Washington also is home of the Olympic Mountains, far west on the Olympic Peninsula, which support dense forests of conifers and areas of temperate rainforest. Washington has a variety of National Park Service units. Among these are the Alta Lake State Park, Lake Roosevelt National Recreation Area, San Juan Islands National Wildlife Refuge, as well as three national parks—the Olympic National Park, North Cascades National Park, and Mount Rainier National Park. Additionally, there are 143 state parks and 9 national forests, run by the Washington State Park System and the United States Forest Service. Pacific Raceways is a motorsports venue which has hosted the Northwest Nationals of the NHRA Mello Yello Drag Racing Series and a round of the Trans-Am Series.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12903225806451613, 0.6, 0.21238938053097342, 0.13274336283185842]
+[0.016216216216216217, 0.07692307692307693, 0.026785714285714284, 0.016741071428571428]
+[0.08602150537634409, 0.4, 0.1415929203539823, 0.08849557522123895]
+
+
+SBERT sim. Score: 0.30403804779052734

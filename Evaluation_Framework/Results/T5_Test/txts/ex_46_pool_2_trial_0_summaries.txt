@@ -1,0 +1,21 @@
+Document:
+utah
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+I-15 and I-80 are the main interstate highways in the state, where they intersect and briefly merge near downtown Salt Lake City. The Utah Transit Authority (UTA), which operates TRAX, also operates a bus system that stretches across the Wasatch Front, west into Grantsville, and east into Park City. Several bus companies also provide access to the ski resorts in winter, and local bus companies also serve the cities of Cedar City, Logan, Park City, and St. George. Amtrak's California Zephyr, with one train in each direction daily, runs east–west through Utah with stops in Green River, Helper, Provo, and Salt Lake City. Salt Lake City International Airport is the only international airport in the state and serves as one of the hubs for Delta Air Lines. The airport has non-stop service to more than a hundred destinations throughout the United States, Canada, and Mexico, as well as to Amsterdam, London and Paris. Canyonlands Field (near Moab), Cedar City Regional Airport, Ogden-Hinckley Airport, Provo Municipal Airport, St. George Regional Airport, and Vernal Regional Airport all provide limited commercial air service.
+\Predicted Summary:
+is a state in the Western United States. It is bordered by Colorado to the east, Wyoming to the northeast, Idaho to the north, Arizona to the south and Nevada to the west. Utah is the 13th-largest by area; with a population over three million, it is the 30th-most-populous and 11th-least-densely populated. Disputes between the dominant Mormon community and the federal government delayed the state's admission as a state.
+
+GT:
+I-15 and I-80 are the main interstate highways in the state, where they intersect and briefly merge near downtown Salt Lake City. TRAX, a light rail system in the Salt Lake Valley, consists of three lines. The Blue Line (formerly Salt Lake/Sandy Line) begins in the suburb of Draper and ends in Downtown Salt Lake City. The Red Line (Mid-Jordan/University Line) begins in the Daybreak Community of South Jordan, a southwestern valley suburb, and ends at the University of Utah. The Green Line begins in West Valley City, passes through downtown Salt Lake City, and ends at Salt Lake City International Airport. The Utah Transit Authority (UTA), which operates TRAX, also operates a bus system that stretches across the Wasatch Front, west into Grantsville, and east into Park City. Several bus companies also provide access to the ski resorts in winter, and local bus companies also serve the cities of Cedar City, Logan, Park City, and St. George. A commuter rail line known as FrontRunner, also operated by UTA, runs between Ogden and Provo via Salt Lake City. Amtrak's California Zephyr, with one train in each direction daily, runs east–west through Utah with stops in Green River, Helper, Provo, and Salt Lake City. Salt Lake City International Airport is the only international airport in the state and serves as one of the hubs for Delta Air Lines.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14102564102564102, 0.44, 0.21359223300970875, 0.13349514563106793]
+[0.017167381974248927, 0.05405405405405406, 0.026058631921824105, 0.016286644951140065]
+[0.08974358974358974, 0.28, 0.13592233009708737, 0.08495145631067962]
+
+
+SBERT sim. Score: 0.40803205966949463

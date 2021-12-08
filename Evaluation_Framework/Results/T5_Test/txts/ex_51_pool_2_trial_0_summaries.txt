@@ -1,0 +1,21 @@
+Document:
+new_york
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+The next four most populous cities in the state are Buffalo, Rochester, Yonkers, and Syracuse, while the state capital is Albany. The state is bordered by New Jersey and Pennsylvania to the south and Connecticut, Massachusetts, and Vermont to the east. The southern part of the state is in the Atlantic coastal plain and includes Long Island and several smaller associated islands, as well as New York City and the lower Hudson River Valley. The central part of the state is dominated by the Finger Lakes, a popular vacation and tourist destination. The western section of the state is drained by the Allegheny River and rivers of the Susquehanna and Delaware River systems. The major cities of the state developed along the key transportation and trade routes of the early 19th century, including the Erie Canal and railroads paralleling it. Major metro areas include New York City, Buffalo, Rochester, the Capital District (Albany, Schenectady, and Troy), Poughkeepsie, Syracuse, Utica, and Binghamton. The state also has a large manufacturing sector that includes printing and the production of garments, mainly in New York City; and furs, railroad equipment, automobile parts, and bus line vehicles, concentrated in Upstate regions. In the 19th century, railroads were constructed along the river valleys, followed by the New York State Thruway in the 20th century. The New York State Department of Transportation (NYSDOT) is the department of the government of New York responsible for the development and operation of highways, railroads, mass transit systems, ports, waterways, and aviation facilities within New York State. In addition to the well known New York City Subway system—which is confined within New York City—four suburban commuter railroad systems enter and leave the city: the Long Island Rail Road, Metro-North Railroad, Port Authority Trans-Hudson, and five of New Jersey Transit's rail lines. Other cities and towns in New York have urban and regional public transportation.
+\Predicted Summary:
+the first Europeans arrived southward from New York to New York . New York is a state in the northeastern United States. It was one of the original thirteen colonies, forming the United States. New York is the 27th largest state. With an estimated population of 8.34 million as of 2019 makes it the fourth most populous city in the world. New York is the most populous city in the world.
+
+GT:
+New York has one of the most extensive and one of the oldest transportation infrastructures in the country. The New York State Department of Transportation (NYSDOT) is the department of the government of New York responsible for the development and operation of highways, railroads, mass transit systems, ports, waterways, and aviation facilities within New York State. This 1,500 sq mi (3,900 km2) port district is generally encompassed within a 25 mi (40 km) radius of the Statue of Liberty National Monument. The Port Authority is headquartered at 4 World Trade Center in Lower Manhattan. The New York City Department of Transportation (NYCDOT) is the agency of the government of New York City responsible for the management of much of New York City's own transportation infrastructure. Other cities and towns in New York have urban and regional public transportation. In Buffalo, the Niagara Frontier Transportation Authority runs the Buffalo Metro Rail light-rail system; in Rochester, the Rochester Subway operated from 1927 until 1956, but fell into disuse as state and federal investment went to highways. Portions of the transportation system are intermodal, allowing travelers to switch easily from one mode of transportation to another. One of the most notable examples is AirTrain JFK which allows rail passengers to travel directly to terminals at John F. Kennedy International Airport as well as to the underground New York City Subway system.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17672413793103448, 0.5774647887323944, 0.2706270627062706, 0.16914191419141916]
+[0.047619047619047616, 0.15714285714285714, 0.07308970099667775, 0.04568106312292359]
+[0.11637931034482758, 0.38028169014084506, 0.17821782178217824, 0.11138613861386139]
+
+
+SBERT sim. Score: 0.36931362748146057

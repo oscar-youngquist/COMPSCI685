@@ -1,0 +1,21 @@
+Document:
+west_virginia
+
+Intent:
+What drives the economy in this state?
+
+Input:
+West Virginia is the 41st-largest state by area and ranks 38th in population, with around 1.791 million residents. The state is noted for its mountains and rolling hills, its historically significant logging and coal mining industries, and its political and labor history. The native vegetation for most of the state was originally mixed hardwood forest of oak, chestnut, maple, beech, and white pine, with willow and American sycamore along the state's waterways. Tourism contributed $4.27 billion to the state's economy and employed 44,400 people in 2010, making it one of the state's largest industries. In addition to such outdoor recreation opportunities, the state offers a number of historic and cultural attractions. According to the Energy Information Administration, West Virginia is a top coal-producer in the United States, second only to Wyoming. West Virginia produces a surplus of electricity and leads the Nation in net interstate electricity exports. The state lost 5,600 jobs in its labor force in four critical economic sectors: construction (1,900), manufacturing (1,100), retail (1,800), and education (800), while gaining just 400 in mining and logging.
+\Predicted Summary:
+is a state in the Appalachian and Mid-Atlantic regions of the Southern United States . West Virginia is the 41st-largest state by area and ranks 38th in population . it is bordered by Pennsylvania to the northeast, Maryland to the east and northeast, Kentucky to the southeast, and Ohio to the northwest .
+
+GT:
+It is also known for a wide range of outdoor recreational opportunities, including skiing, whitewater rafting, fishing, hiking, backpacking, mountain biking, rock climbing, and hunting. The city is also home to West Virginia University, the 95th best public university according to US News & World Report in 2011. Tourism contributed $4.27 billion to the state's economy and employed 44,400 people in 2010, making it one of the state's largest industries. Many tourists, especially in the eastern mountains, are drawn to the region's notable opportunities for outdoor recreation. In addition to such outdoor recreation opportunities, the state offers a number of historic and cultural attractions. According to the Energy Information Administration, West Virginia is a top coal-producer in the United States, second only to Wyoming. As of 2017, the coal industry accounted for 2% of state employment.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2127659574468085, 0.5769230769230769, 0.31088082901554404, 0.19430051813471502]
+[0.07142857142857142, 0.19607843137254902, 0.10471204188481675, 0.06544502617801046]
+[0.14184397163120568, 0.38461538461538464, 0.20725388601036268, 0.1295336787564767]
+
+
+SBERT sim. Score: 0.613158106803894

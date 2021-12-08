@@ -1,0 +1,21 @@
+Document:
+south_carolina
+
+Intent:
+How is the government structured in this state?
+
+Input:
+South Carolina's state government consists of the Executive, Legislative, and Judicial branches. Also relevant are the state constitution, law enforcement agencies, federal representation, state finances, and state taxes. South Carolina has historically had a weak executive branch and a strong legislature. Before 1865, governors in South Carolina were appointed by the General Assembly, and held the title "President of State". But, the 1867 Constitution, passed during the Reconstruction era, extended democratization by establishing home rule for counties, which were established from the formerly designated districts of the state. The 1895 state constitution overturned this, reducing the role of counties and strengthening the relative role of the state legislature; essentially the counties were agents of the state and ruled by the General Assembly through the legislative delegation for each county. They are geographically comprehensive As each county had one state senator, that position was particularly powerful. During this time the state had changed, with increasing urbanization, but rural counties retained proportionally more power as the legislature was based in representatives elected from counties rather than population districts. Several changes to the state constitution have affected the office of the governor and the cabinet. In 1993, the state passed an amendment requiring a limited cabinet (all of whom must be popularly elected). Columbia, the new state capital was founded in the center of the state, and the State Legislature first met there in 1790. The 1895 constitution overturned local representative government, reducing the role of the counties to agents of state government, effectively ruled by the General Assembly, through the legislative delegations for each county. As each county had one state senator, that person had considerable power. The state has the fourth largest state-maintained system in the country, consisting of 11 Interstates, numbered highways, state highways, and secondary roads, totalling approximately 41,500 miles.
+\Predicted Summary:
+, the first state to vote in favor of secession from the Union on December 20, 1868. South Carolina is a state in the Deep South region of the Southern United States . South Carolina is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia . South Carolina is the 40th most extensive and 23rd most populous US state .
+
+GT:
+South Carolina's state government consists of the Executive, Legislative, and Judicial branches. Also relevant are the state constitution, law enforcement agencies, federal representation, state finances, and state taxes. South Carolina has historically had a weak executive branch and a strong legislature. The Home Rule Act of 1975 implemented the amendment giving more power to the counties. With urbanization, their governments have become increasingly important in the state. In 1993, the state passed an amendment requiring a limited cabinet (all of whom must be popularly elected).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.26744186046511625, 0.34328358208955223, 0.3006535947712418, 0.18790849673202617]
+[0.07058823529411765, 0.09090909090909091, 0.07947019867549669, 0.04966887417218543]
+[0.16279069767441862, 0.208955223880597, 0.18300653594771243, 0.11437908496732027]
+
+
+SBERT sim. Score: 0.4651491641998291

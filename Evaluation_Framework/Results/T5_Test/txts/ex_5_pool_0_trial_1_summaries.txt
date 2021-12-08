@@ -1,0 +1,21 @@
+Document:
+maine
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Today the village is known as Broadmayne, which is primitive Welsh or Brythonic, "main" meaning rock or stone, considered a reference to the many large sarsen stones still present around Little Mayne farm, half a mile northeast of Broadmayne village. Maine's Moosehead Lake is the largest lake wholly in New England, since Lake Champlain is located between Vermont, New York and Québec. Over a quarter of the population of Lewiston, Waterville, and Biddeford are Franco-American. Smaller numbers of various other groups, including Irish, Italian and Polish, have settled throughout the state since the late 19th and early 20th century immigration waves. The state is a popular destination for sport hunting (particularly deer, moose and bear), sport fishing, snowmobiling, skiing, boating, camping and hiking, among other activities. The governmental format of most organized towns and plantations is the town meeting, while the format of most cities is the council-manager form. The unorganized territory of Maine consists of more than 400 townships (towns are incorporated, townships are unincorporated), plus many coastal islands that do not lie within any municipal bounds. The three colleges collectively form the Colby-Bates-Bowdoin Consortium and are ranked among the best colleges in the United States The state is a major producer of potatoes, wild blueberries, apples, maple syrup and sweet corn.
+\Predicted Summary:
+the Popham Colony, established by the Plymouth Company in 1607 . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states . Maine is known for its jagged, rocky coastline; low, rolling mountains; heavily forested interior; picturesque waterways .
+
+GT:
+Maine has the highest percentage of French Americans of any state. Most of them are of Canadian origin, but in some cases have been living there since prior to the American Revolutionary War. There are particularly high concentrations in the northern part of Maine in Aroostook County, which is part of a cultural region known as Acadia that goes over the border into New Brunswick. The upper Saint John River valley area was once part of the so-called Republic of Madawaska, before the frontier was decided in the Webster-Ashburton Treaty of 1842. Over a quarter of the population of Lewiston, Waterville, and Biddeford are Franco-American. Most of the residents of the Mid Coast and Down East sections are chiefly of British heritage. Smaller numbers of various other groups, including Irish, Italian and Polish, have settled throughout the state since the late 19th and early 20th century immigration waves.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10596026490066225, 0.3333333333333333, 0.16080402010050251, 0.10050251256281409]
+[0.013333333333333334, 0.0425531914893617, 0.02030456852791878, 0.012690355329949237]
+[0.09271523178807947, 0.2916666666666667, 0.14070351758793972, 0.08793969849246233]
+
+
+SBERT sim. Score: 0.5041297078132629

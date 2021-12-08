@@ -1,0 +1,21 @@
+Document:
+south_carolina
+
+Intent:
+What drives the economy in this state?
+
+Input:
+By the second half of the 1700s, South Carolina was one of the richest of the Thirteen Colonies. The state also converted its agricultural base from cotton to more profitable crops; attracted large military bases through its powerful Democratic congressional delegation, part of the one-party South following disfranchisement of blacks at the turn of the century; and created tourism industries. According to the South Carolina Arts Commission, creative industries generate $9.2 billion annually and support over 78,000 jobs in the state. In 2019, South Carolina's GDP was $249.9 billion, making the state the 26th largest by GDP in the United States. Industrial outputs include textile goods, chemical products, paper products, machinery, automobiles, automotive products and tourism. Major agricultural outputs of the state are tobacco, poultry, cotton, cattle, dairy products, soybeans, hay, rice, and swine. The service sector accounts for 83.7% of the South Carolina economy.
+\Predicted Summary:
+,,,,, and a lot of land is swampy. South Carolina is a state in the Deep South region of the Southern United States . South Carolina is the 40th most extensive and 23rd most populous state .
+
+GT:
+Industrial outputs include textile goods, chemical products, paper products, machinery, automobiles, automotive products and tourism. Major agricultural outputs of the state are tobacco, poultry, cotton, cattle, dairy products, soybeans, hay, rice, and swine. According to the Bureau of Labor Statistics, as of March 2012, South Carolina had 1,852,700 nonfarm jobs of which 12% are in manufacturing, 11.5% are in leisure and hospitality, 19% are in trade, transportation, and utilities, and 11.8% are in education and health services. Boeing opened an aircraft manufacturing facility in Charleston in 2011, which serves as one of two final assembly sites for the 787 Dreamliner. South Carolina also benefits from foreign investment. Since 1994, BMW has had a production facility in Spartanburg County near Greer and since 1996 the Zapp Group operates in Summerville near Charleston.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1037037037037037, 0.4117647058823529, 0.16568047337278105, 0.10355029585798815]
+[0.022388059701492536, 0.09090909090909091, 0.03592814371257485, 0.022455089820359278]
+[0.07407407407407407, 0.29411764705882354, 0.1183431952662722, 0.07396449704142011]
+
+
+SBERT sim. Score: 0.271584153175354

@@ -1,0 +1,21 @@
+Document:
+colorado
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Major parts of the economy include government and defense, mining, agriculture, tourism, and increasingly other kinds of manufacturing. The state's fastest-growing counties are Douglas and Weld. The state generated tax, fee, and license revenue of $194 million in 2016 on legal marijuana sales. Current agricultural products are cattle, wheat, dairy products, corn, and hay. In addition to these and other federal agencies, Colorado has abundant National Forest land and four National Parks that contribute to federal ownership of 24,615,788 acres (99,617 km2) of land in Colorado, or 37% of the total area of the state.In the second half of the 20th century, the industrial and service sectors have expanded greatly. The state's economy is diversified, and is notable for its concentration of scientific research and high-technology industries. It is integral to the US economy, being a critical artery for the movement of energy, agriculture, mining, and industrial commodities as well as general freight and manufactured products between the East and Midwest and the Pacific coast states. The state of Colorado currently has 271 active incorporated municipalities, including 196 towns, 73 cities, and two consolidated city and county governments.
+\Predicted Summary:
+, the Colorado River, which early Spanish explorers named the Ro Colorado ("Red River") for the ruddy silt the river carried from the mountains . Colorado is the 8th most extensive and 21st most populous US state . the estimated population of Colorado is 5,758,736 as of 2019, an increase of 14.5% since the 2010 United States Census .
+
+GT:
+Colorado is home to many nationally praised microbreweries, including New Belgium Brewing Company, Odell Brewing Company, Great Divide Brewing Company, and Bristol Brewing Company. The state's economy broadened from its mid-19th-century roots in mining when irrigated agriculture developed, and by the late 19th century, raising livestock had become important. Current agricultural products are cattle, wheat, dairy products, corn, and hay. The federal government is also a major economic force in the state with many important federal facilities including NORAD (North American Aerospace Defense Command), United States Air Force Academy, Schriever Air Force Base located approximately 10 miles (16 kilometers) east of Peterson Air Force Base, and Fort Carson, both located in Colorado Springs within El Paso County; NOAA, the National Renewable Energy Laboratory (NREL) in Golden, and the National Institute of Standards and Technology in Boulder; US Geological Survey and other government agencies at the Denver Federal Center near Lakewood; the Denver Mint, Buckley Air Force Base, the Tenth Circuit Court of Appeals, and the Byron G. Rogers Federal Building and United States Courthouse in Denver; and a federal Supermax Prison and other federal prisons near Cañon City. In addition to these and other federal agencies, Colorado has abundant National Forest land and four National Parks that contribute to federal ownership of 24,615,788 acres (99,617 km2) of land in Colorado, or 37% of the total area of the state.In the second half of the 20th century, the industrial and service sectors have expanded greatly. The state's economy is diversified, and is notable for its concentration of scientific research and high-technology industries. Other industries include food processing, transportation equipment, machinery, chemical products, the extraction of metals such as gold (see Gold mining in Colorado), silver, and molybdenum. Colorado now also has the largest annual production of beer of any state. The state's diverse geography and majestic mountains attract millions of tourists every year, including 85.2 million in 2018. Tourism contributes greatly to Colorado's economy, with tourists generating $22.3 billion in 2018.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0755813953488372, 0.4482758620689655, 0.12935323383084574, 0.0808457711442786]
+[0.008746355685131196, 0.05263157894736842, 0.015, 0.009375]
+[0.05232558139534884, 0.3103448275862069, 0.08955223880597014, 0.05597014925373135]
+
+
+SBERT sim. Score: 0.3737483024597168

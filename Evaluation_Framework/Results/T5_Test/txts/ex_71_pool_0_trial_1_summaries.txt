@@ -1,0 +1,21 @@
+Document:
+south_dakota
+
+Intent:
+How is the government structured in this state?
+
+Input:
+While several Democrats have represented South Dakota for multiple terms in both chambers of Congress, the state government is largely controlled by the Republican Party, whose nominees have carried South Dakota in each of the last 13 presidential elections. Like other US states, the structure of the government of South Dakota follows the same separation of powers as the federal government, with executive, legislative, and judicial branches. The structure of the state government is laid out in the Constitution of South Dakota, the highest law in the state. The constitution may be amended by a majority vote of both houses of the legislature, or by voter initiative. The Governor of South Dakota occupies the executive branch of the state government. The state constitution gives the governor the power to sign into law or veto bills passed by the state legislature, to serve as commander-in-chief of the South Dakota National Guard, to appoint a cabinet, and to commute criminal sentences or to pardon those convicted of crimes. The governor serves for a four-year term, and may not serve more than two consecutive terms. The state legislature is made up of two bodies, the Senatorte, which has 35 members, and the House of Representatives, with 70 members. The legislature meets for an annual session which begins on the second Tuesday in January and lasts for 30 days The judicial branch is made up of several levels. The state supreme court, with four justices and a chief justice, is the highest court in the state. Below the supreme court are the circuit courts South Dakota is one of seven states with only one seat in the US House of Representatives. Since statehood, Republicans have carried the state's electoral votes in all but five presidential elections: 1896, 1912 (by Theodore Roosevelt's Progressive Party), 1932, 1936 and 1964. The South Dakota Board of Regents, whose members are appointed by the governor, controls the six public universities in the state.
+\Predicted Summary:
+is a US state in the Midwestern region of the United States . South Dakota is bisected by the Missouri River, dividing South Dakota into two geographically and socially distinct halves . the state is bisected by the Missouri River, dividing South Dakota into two geographically and socially distinct halves .
+
+GT:
+Like other US states, the structure of the government of South Dakota follows the same separation of powers as the federal government, with executive, legislative, and judicial branches. The structure of the state government is laid out in the Constitution of South Dakota, the highest law in the state. The constitution may be amended by a majority vote of both houses of the legislature, or by voter initiative. The Governor of South Dakota occupies the executive branch of the state government. The state constitution gives the governor the power to sign into law or veto bills passed by the state legislature, to serve as commander-in-chief of the South Dakota National Guard, to appoint a cabinet, and to commute criminal sentences or to pardon those convicted of crimes. The state legislature is made up of two bodies, the Senatorte, which has 35 members, and the House of Representatives, with 70 members. South Dakota is divided into 35 legislative districts, with voters electing two representatives and one senator per district. The legislature meets for an annual session which begins on the second Tuesday in January and lasts for 30 days The judicial branch is made up of several levels. The state supreme court, with four justices and a chief justice, is the highest court in the state. Below the supreme court are the circuit courts
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13333333333333333, 0.625, 0.21978021978021978, 0.13736263736263735]
+[0.04017857142857143, 0.19148936170212766, 0.06642066420664207, 0.0415129151291513]
+[0.10222222222222223, 0.4791666666666667, 0.1684981684981685, 0.10531135531135533]
+
+
+SBERT sim. Score: 0.534996509552002

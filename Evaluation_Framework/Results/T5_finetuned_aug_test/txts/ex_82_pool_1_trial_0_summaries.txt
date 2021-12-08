@@ -1,0 +1,21 @@
+Document:
+new_hampshire
+
+Intent:
+What is the state's policy regarding education?
+
+Input:
+It contains less than 5% of the state's population, suffers relatively high poverty, and is steadily losing population as the logging and paper industries decline. The four counties covering these two areas account for 72% of the state population, and one (Hillsborough) has nearly 30% of the state population, as well as the two most populous communities, Manchester and Nashua. The gender makeup of the state was 49.3% male and 50.7% female. New Hampshire and Vermont are also at the lowest levels among states in religious commitment. In the 116th United States Congress, it is one of only eight states with an entirely Democratic delegation, five of which are in New England (the others are Delaware, Hawaii, and New Mexico). State highway numbering is arbitrary, with no overall system as with US and Interstate systems. The first public high schools in the state were the Boys' High School and the Girls' High School of Portsmouth, established either in 1827 or 1830 depending on the source. New Hampshire has more than 80 public high schools, many of which serve more than one town. The largest is Pinkerton Academy in Derry, which is owned by a private non-profit organization and serves as the public high school of a number of neighboring towns. There are at least 30 private high schools in the state. New Hampshire is also the home of several prestigious university-preparatory schools, such as Phillips Exeter Academy, St. Paul's School, Proctor Academy, Brewster Academy, and Kimball Union Academy. In 2008 the state tied with Massachusetts as having the highest scores on the SAT and ACT standardized tests given to high school students. New Hampshire has two universities competing at the NCAA Division I in all collegiate sports: the Dartmouth Big Green (Ivy League) and the New Hampshire Wildcats (America East Conference), as well as three NCAA Division II teams: Franklin Pierce Ravens, Saint Anselm Hawks and Southern New Hampshire Penmen (Northeast-10 Conference). Most other schools compete in NCAA Division III or the NAIA. Annually since 2002, high-school statewide all-stars compete against Vermont in ten sports during "Twin State" playoffs.
+\Predicted Summary:
+, New Hampshire is a state in the Northeastern United States. New Hampshire is a state in the Northeastern United States. New Hampshire is bordered by Massachusetts to the south, Vermont to the west, Maine and the Atlantic Ocean to the east . New Hampshire is the 5th smallest by area and the 10th most populous state .
+
+GT:
+The first public high schools in the state were the Boys' High School and the Girls' High School of Portsmouth, established either in 1827 or 1830 depending on the source. New Hampshire has more than 80 public high schools, many of which serve more than one town. The largest is Pinkerton Academy in Derry, which is owned by a private non-profit organization and serves as the public high school of a number of neighboring towns. There are at least 30 private high schools in the state. New Hampshire is also the home of several prestigious university-preparatory schools, such as Phillips Exeter Academy, St. Paul's School, Proctor Academy, Brewster Academy, and Kimball Union Academy. In 2008 the state tied with Massachusetts as having the highest scores on the SAT and ACT standardized tests given to high school students.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.19285714285714287, 0.4909090909090909, 0.27692307692307694, 0.17307692307692307]
+[0.050359712230215826, 0.12962962962962962, 0.07253886010362695, 0.04533678756476684]
+[0.1357142857142857, 0.34545454545454546, 0.19487179487179487, 0.12179487179487179]
+
+
+SBERT sim. Score: 0.4323987066745758

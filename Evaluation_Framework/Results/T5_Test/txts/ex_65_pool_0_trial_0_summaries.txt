@@ -1,0 +1,21 @@
+Document:
+louisiana
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Louisiana is bordered by the state of Texas to the west, Arkansas to the north, Mississippi to the east, and the Gulf of Mexico to the south. Louisiana is bordered to the west by Texas This area lies principally along the Gulf of Mexico and the Mississippi River, which traverses the state from north to south for a distance of about 600 mi (970 km) and empties into the Gulf of Mexico; the Red River; the Ouachita River and its branches; and other minor streams (some of which are called bayous). Through a peculiarity of the political geography of the United States, this is substantially less than the 9-mile (14 km)-wide jurisdiction of nearby states Texas and Florida, which, like Louisiana, have extensive Gulf coastlines. In addition to National Park Service areas and a United States National Forest, Louisiana operates a system of state parks, state historic sites, one state preservation area, one state forest, and many Wildlife Management Areas. Louisiana operates a system of 22 state parks, 17 state historic sites and one state preservation area. The Louisiana Natural and Scenic Rivers System provides a degree of protection for 51 rivers, streams and bayous in the state. The Louisiana Department of Transportation and Development is the state government organization in charge of maintaining public transportation, roadways, bridges, canals, select levees, floodplain management, port facilities, commercial vehicles, and aviation which includes 69 airports.
+\Predicted Summary:
+,, and African cultures. Louisiana is the 19th-smallest by area and the 25th most populous of the 50 US states. Louisiana is the 19th-smallest by area and the 25th most populous of the 50 US states. Louisiana is bordered by the state of Texas to the west, Arkansas to the north, Mississippi to the east, and the Gulf of Mexico to the south.
+
+GT:
+Tourism is an important element in the economy, especially in the New Orleans area. The Port of South Louisiana, located on the Mississippi River between New Orleans and Baton Rouge, was the largest volume shipping port in the Western Hemisphere and 4th largest in the world, as well as the largest bulk cargo port in the US in 2004. The Louisiana Department of Transportation and Development is the state government organization in charge of maintaining public transportation, roadways, bridges, canals, select levees, floodplain management, port facilities, commercial vehicles, and aviation which includes 69 airports. The Intracoastal Waterway is an important means of transporting commercial goods such as petroleum and petroleum products, agricultural produce, building materials and manufactured goods. In 2011, Louisiana ranked among the five deadliest states for debris/litter-caused vehicle accidents per total number of registered vehicles and population size. Figures derived from the NHTSA show at least 25 persons in Louisiana were killed per year in motor vehicle collisions with non-fixed objects, including debris, dumped litter, animals and their carcasses.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1896551724137931, 0.515625, 0.27731092436974786, 0.17331932773109243]
+[0.011560693641618497, 0.031746031746031744, 0.016949152542372878, 0.01059322033898305]
+[0.1206896551724138, 0.328125, 0.17647058823529413, 0.11029411764705882]
+
+
+SBERT sim. Score: 0.5149163603782654

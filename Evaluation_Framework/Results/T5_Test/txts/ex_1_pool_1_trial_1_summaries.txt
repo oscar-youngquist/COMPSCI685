@@ -1,0 +1,21 @@
+Document:
+alabama
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Major airports with sustained operations in Alabama include Birmingham-Shuttlesworth International Airport (BHM), Huntsville International Airport (HSV), Dothan Regional Airport (DHN), Mobile Regional Airport (MOB), Montgomery Regional Airport (MGM), Northwest Alabama Regional Airport (MSL) and Northeast Alabama Regional Airport (GAD). For rail transport, Amtrak schedules the Crescent, a daily passenger train, running from New York to New Orleans with station stops at Anniston, Birmingham, and Tuscaloosa. Alabama has six major interstate routes: Interstate 65 (I-65) travels north–south roughly through the middle of the state; I-20/I-59 travel from the central west Mississippi state line to Birmingham, where I-59 continues to the north-east corner of the state and I-20 continues east towards Atlanta; I-85 originates in Montgomery and travels east-northeast to the Georgia state line, providing a main thoroughfare to Atlanta; and I-10 traverses the southernmost portion of the state, traveling from west to east through Mobile. In addition, there are currently five auxiliary interstate routes in the state: I-165 in Mobile, I-359 in Tuscaloosa, I-459 around Birmingham, I-565 in Decatur and Huntsville, and I-759 in Gadsden. Highways also pass through the state, such as US Route 11 (US-11), US-29, US-31, US-43, US-45, US-72, US-78, US-80, US-82, US-84, US-90, US-98, US-231, US-278, US-280, US-331, US-411, and US-431. There are four toll roads in the state: Montgomery Expressway in Montgomery The Port of Mobile, Alabama's only saltwater port, is a large seaport on the Gulf of Mexico with inland waterway access to the Midwest by way of the Tennessee–Tombigbee Waterway. The state's other ports are on rivers with access to the Gulf of Mexico.
+\Predicted Summary:
+,,,,, a Muskogean-speaking tribe whose members lived just below the confluence of the Coosa and Tallapoosa rivers . Alabama is a state in the Deep South region of the Southern United States, bordered by Tennessee to the north; Georgia to the east; Florida and the Gulf of Mexico to the west . Alabama is the 30th largest by area and the 24th-most populous of the US states .
+
+GT:
+Major airports with sustained operations in Alabama include Birmingham-Shuttlesworth International Airport (BHM), Huntsville International Airport (HSV), Dothan Regional Airport (DHN), Mobile Regional Airport (MOB), Montgomery Regional Airport (MGM), Northwest Alabama Regional Airport (MSL) and Northeast Alabama Regional Airport (GAD). For rail transport, Amtrak schedules the Crescent, a daily passenger train, running from New York to New Orleans with station stops at Anniston, Birmingham, and Tuscaloosa. Alabama has six major interstate routes: Interstate 65 (I-65) travels north–south roughly through the middle of the state; I-20/I-59 travel from the central west Mississippi state line to Birmingham, where I-59 continues to the north-east corner of the state and I-20 continues east towards Atlanta; I-85 originates in Montgomery and travels east-northeast to the Georgia state line, providing a main thoroughfare to Atlanta; and I-10 traverses the southernmost portion of the state, traveling from west to east through Mobile. Highways also pass through the state, such as US Route 11 (US-11), US-29, US-31, US-43, US-45, US-72, US-78, US-80, US-82, US-84, US-90, US-98, US-231, US-278, US-280, US-331, US-411, and US-431. The Port of Mobile, Alabama's only saltwater port, is a large seaport on the Gulf of Mexico with inland waterway access to the Midwest by way of the Tennessee–Tombigbee Waterway. The state's other ports are on rivers with access to the Gulf of Mexico.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16733067729083664, 0.6363636363636364, 0.2649842271293375, 0.16561514195583596]
+[0.044, 0.16923076923076924, 0.06984126984126984, 0.04365079365079365]
+[0.10358565737051793, 0.3939393939393939, 0.16403785488958988, 0.10252365930599368]
+
+
+SBERT sim. Score: 0.5608592629432678

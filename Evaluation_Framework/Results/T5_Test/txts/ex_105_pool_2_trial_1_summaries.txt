@@ -1,0 +1,21 @@
+Document:
+florida
+
+Intent:
+How is the government structured in this state?
+
+Input:
+Andrew Jackson, on behalf of the US federal government, served as a military commissioner with the powers of governor of the newly acquired territory for a brief period. This is the third-most diverse state in the union, behind California and Texas, both larger states. The state government consists of three separate branches: judicial, executive, and legislative. The legislature enacts bills, which, if signed by the governor, become law. The state government's primary revenue source is sales tax. Because of this, the area has consistently voted as one of the most Democratic areas of the state. Reapportionment following the 2010 United States Census gave the state two more seats in the House of Representatives. The political make-up of congressional and legislative districts has enabled Republicans to control the governorship and most statewide elective offices, and 17 of the state's 27 seats in the 2012 House of Representatives. In the 2010 elections, Republicans solidified their dominance statewide, by winning the governor's mansion, and maintaining firm majorities in both houses of the state legislature. In 2010, more than 63% of state voters approved the initiated Amendments 5 and 6 to the state constitution, to ensure more fairness in districting. The state's Democratic representation at the national level increased by one seat, but the overall state-wide composition was 16 Republicans to 11 Democrats. School districts are organized within county boundaries. Each school district has an elected Board of Education that sets policy, budget, goals, and approves expenditures.
+\Predicted Summary:
+is the second largest state in the world. Florida is the third-most populous and the 22nd-most extensive of the 50 United States. Florida is the third-most populous state in the southeastern region of the United States. Florida is the principal location of the Seminole Wars (1816 – 1858), the longest and most extensive of Indian Wars in United States history. Florida was restored to the Union on January 10, 1861.
+
+GT:
+The basic structure, duties, function, and operations of the government of the State of Florida are defined and established by the Florida Constitution, which establishes the basic law of the state and guarantees various rights and freedoms of the people. The state government consists of three separate branches: judicial, executive, and legislative. The legislature enacts bills, which, if signed by the governor, become law. The Florida Legislature comprises the Florida Senatorte, which has 40 members, and the Florida House of Representatives, which has 120 members. Florida has 67 counties. There are 379 cities in Florida (out of 411) that report regularly to the Florida Department of Revenue, but there are other incorporated municipalities that do not.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.23275862068965517, 0.375, 0.2872340425531915, 0.17952127659574468]
+[0.043478260869565216, 0.07042253521126761, 0.053763440860215055, 0.033602150537634407]
+[0.1896551724137931, 0.3055555555555556, 0.23404255319148937, 0.14627659574468085]
+
+
+SBERT sim. Score: 0.4636707007884979

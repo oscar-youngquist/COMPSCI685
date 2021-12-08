@@ -1,0 +1,21 @@
+Document:
+nevada
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The tourism industry remains Nevada's largest employer, with mining continuing as a substantial sector of the economy: Nevada is the fourth-largest producer of gold in the world. Mining plays an important role in the economies of the rural counties, with tourism being less prominent. The economy of Nevada is tied to tourism (especially entertainment and gambling related), mining, and cattle ranching. Nevada's industrial outputs are tourism, entertainment, mining, machinery, printing and publishing, food processing, and electric equipment. In portions of the state outside of the Las Vegas and Reno metropolitan areas mining plays a major economic role. Cattle ranching is a major economic activity in rural Nevada. Nevada's agricultural outputs are cattle, hay, alfalfa, dairy products, onions, and potatoes. The state is ranked just below California, Texas, Florida, and New York in the total number of rooms, but those states have much larger populations.
+\Predicted Summary:
+is a state in the Western United States. Nevada is bordered by Oregon to the northwest, Idaho to the northeast, California to the west, and Arizona to the southeast . Nevada is the 7th-most extensive, but the 9th-least densely populated of the US states . Nevada is officially known as the "Silver State" because of the importance of silver to its history and economy .
+
+GT:
+Nevada is officially known as the "Silver State" because of the importance of silver to its history and economy. The tourism industry remains Nevada's largest employer, with mining continuing as a substantial sector of the economy: Nevada is the fourth-largest producer of gold in the world. Mining shaped Nevada's economy for many years (see Silver mining in Nevada). The economy of Nevada is tied to tourism (especially entertainment and gambling related), mining, and cattle ranching. Nevada's industrial outputs are tourism, entertainment, mining, machinery, printing and publishing, food processing, and electric equipment. The economy of Nevada has long been tied to vice industries. "[Nevada was] founded on mining and refounded on sin – beginning with prizefighting and easy divorce a century ago and later extending to gaming and prostitution", said the August 21, 2010 issue of The Economist.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2714285714285714, 0.59375, 0.37254901960784315, 0.23284313725490194]
+[0.16546762589928057, 0.36507936507936506, 0.2277227722772277, 0.14232673267326731]
+[0.1357142857142857, 0.296875, 0.18627450980392157, 0.11642156862745097]
+
+
+SBERT sim. Score: 0.6807775497436523

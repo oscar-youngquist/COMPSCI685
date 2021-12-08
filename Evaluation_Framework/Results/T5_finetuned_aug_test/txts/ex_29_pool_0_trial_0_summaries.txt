@@ -1,0 +1,21 @@
+Document:
+new_hampshire
+
+Intent:
+Which places seem interesting to you for visiting in this state?
+
+Input:
+With some of the highest ski mountains on the East Coast, New Hampshire's major recreational attractions include skiing, snowmobiling, and other winter sports, hiking and mountaineering (Mount Monadnock in the state's southwestern corner is among the most climbed mountains in the US), observing the fall foliage, summer cottages along many lakes and the seacoast, motor sports at the New Hampshire Motor Speedway, and Motorcycle Week, a popular motorcycle rally held in Weirs Beach in Laconia in June. New Hampshire's major regions are the Great North Woods, the White Mountains, the Lakes Region, the Seacoast, the Merrimack Valley, the Monadnock Region, and the Dartmouth-Lake Sunapee area. Hampton Beach is a popular local summer destination. The northern parts of the state produced lumber, and the mountains provided tourist attractions. Tourist railroads include the Conway Scenic Railroad, Hobo-Winnipesaukee Railroad, and the Mount Washington Cog Railway. Other motor racing venues include Star Speedway and New England Dragway in Epping, Lee Speedway in Lee, Twin State Speedway in Claremont, Monadnock Speedway in Winchester and Canaan Fair Speedway in Canaan. New Hampshire's Lakes Region is home to many summer camps, especially around Lake Winnipesaukee, and is a popular tourist destination. In the winter, New Hampshire's ski areas and snowmobile trails attract visitors from a wide area. Funspot, the world's largest video arcade (now termed a museum), is in Laconia.
+\Predicted Summary:
+, New Hampshire is a state in the Northeastern United States. New Hampshire is a state in the Northeastern United States. New Hampshire is bordered by Massachusetts to the south, Vermont to the west, Maine and the Atlantic Ocean to the east . New Hampshire is the 5th smallest by area and the 10th most populous state .
+
+GT:
+The New Hampshire Motor Speedway in Loudon is an oval track and road course which has been visited by national motorsport championship series such as the NASCAR Cup Series, the NASCAR Xfinity Series, the NASCAR Camping World Truck Series, NASCAR Whelen Modified Tour, American Canadian Tour (ACT), the Champ Car and the IndyCar Series. Other motor racing venues include Star Speedway and New England Dragway in Epping, Lee Speedway in Lee, Twin State Speedway in Claremont, Monadnock Speedway in Winchester and Canaan Fair Speedway in Canaan. New Hampshire has two universities competing at the NCAA Division I in all collegiate sports: the Dartmouth Big Green (Ivy League) and the New Hampshire Wildcats (America East Conference), as well as three NCAA Division II teams: Franklin Pierce Ravens, Saint Anselm Hawks and Southern New Hampshire Penmen (Northeast-10 Conference). In the spring, New Hampshire's many sap houses hold sugaring-off open houses. In summer and early autumn, New Hampshire is home to many county fairs, the largest being the Hopkinton State Fair, in Contoocook. New Hampshire's Lakes Region is home to many summer camps, especially around Lake Winnipesaukee, and is a popular tourist destination. The Peterborough Players have performed every summer in Peterborough since 1933. The Barnstormers Theatre in Tamworth, founded in 1931, is one of the longest-running professional summer theaters in the United States. In September, New Hampshire is host to the New Hampshire Highland Games. In the winter, New Hampshire's ski areas and snowmobile trails attract visitors from a wide area. Funspot, the world's largest video arcade (now termed a museum), is in Laconia.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13382899628252787, 0.6545454545454545, 0.2222222222222222, 0.1388888888888889]
+[0.055970149253731345, 0.2777777777777778, 0.09316770186335405, 0.05822981366459628]
+[0.09665427509293681, 0.4727272727272727, 0.16049382716049382, 0.10030864197530864]
+
+
+SBERT sim. Score: 0.5454807877540588

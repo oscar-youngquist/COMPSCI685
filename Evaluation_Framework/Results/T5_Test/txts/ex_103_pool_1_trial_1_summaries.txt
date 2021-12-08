@@ -1,0 +1,21 @@
+Document:
+michigan
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Michigan is the leading auto-producing state in the US, with the industry primarily located throughout the Midwestern United States; Ontario, Canada; and the Southern United States. Agriculture also serves a significant role, making the state a leading grower of fruit in the US, including blueberries, cherries, apples, grapes, and peaches. Lansing is the state capital and is home to all three branches of state government. The state has numerous large islands, the principal ones being the North Manitou and South Manitou, Beaver, and Fox groups in Lake Michigan; Isle Royale and Grande Isle in Lake Superior; Marquette, Bois Blanc, and Mackinac islands in Lake Huron; and Neebish, Sugar, and Drummond islands in St. Mary's River. Western Michigan is known for the Dutch heritage of many residents (the highest concentration of any state), especially in Holland and metropolitan Grand Rapids. A wide variety of commodity crops, fruits, and vegetables are grown in Michigan, making it second only to California among US states in the diversity of its agriculture. Livestock in the state included 78,000 sheep, a million cattle, a million hogs, and more than three million chickens. Thornapple Valley, Ball Park Franks, Koegel Meat Company, and Hebrew National sausage companies are all based in Michigan. Michigan's major-league sports teams include: Detroit Tigers baseball team, Detroit Lions football team, Detroit Red Wings ice hockey team, and the Detroit Pistons men's basketball team. The state's two largest athletic programs are the Michigan Wolverines and Michigan State Spartans, which play in the NCAA Big Ten Conference. Michigan Stadium in Ann Arbor, home to the Michigan Wolverines football team, is the largest stadium in the Western Hemisphere and the second-largest stadium worldwide behind Rungrado May Day Stadium in Pyongyang, North Korea.
+\Predicted Summary:
+in the 17th century, it was claimed as part of new France colony . It was claimed as part of new France colony . the region was once part of the larger Northwest Territory .
+
+GT:
+Michigan music is known for three music trends: early punk rock, Motown/soul music and techno music. Michigan musicians include Bill Haley & His Comets, The Supremes, The Marvelettes, The Temptations, The Four Tops, Stevie Wonder, Marvin Gaye "The Prince of Soul", Smokey Robinson and the Miracles, Aretha Franklin, Mary Wells, Tommy James and the Shondells, ? and the Mysterians, Al Green, The Spinners, Grand Funk Railroad, The Stooges, the MC5, The Knack, Madonna "The Queen of Pop", Bob Seger, Ray Parker Jr., Aaliyah, Eminem, Kid Rock, Jack White and Meg White (The White Stripes), Big Sean, Alice Cooper, and Del Shannon. Major theaters in Michigan include the Fox Theatre, Music Hall, Gem Theatre, Masonic Temple Theatre, the Detroit Opera House, Fisher Theatre, The Fillmore Detroit, Saint Andrew's Hall, Majestic Theater, and Orchestra Hall. The Nederlander Organization, the largest controller of Broadway productions in New York City, originated in Detroit. Michigan's major-league sports teams include: Detroit Tigers baseball team, Detroit Lions football team, Detroit Red Wings ice hockey team, and the Detroit Pistons men's basketball team. All of Michigan's major league teams play in the Metro Detroit area. The Michigan International Speedway is the site of NASCAR races and Detroit was formerly the site of a Formula One World Championship Grand Prix race. Collegiate sports in Michigan are popular in addition to professional sports. The state's two largest athletic programs are the Michigan Wolverines and Michigan State Spartans, which play in the NCAA Big Ten Conference. The Michigan High School Athletic Association features around 300,000 participants.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.034482758620689655, 0.28125, 0.06143344709897611, 0.03839590443686007]
+[0.0038461538461538464, 0.03225806451612903, 0.006872852233676976, 0.00429553264604811]
+[0.034482758620689655, 0.28125, 0.06143344709897611, 0.03839590443686007]
+
+
+SBERT sim. Score: -0.09197109192609787

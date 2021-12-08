@@ -1,0 +1,21 @@
+Document:
+connecticut
+
+Intent:
+How is the government structured in this state?
+
+Input:
+From 1639 until the adoption of the 1818 constitution, the governor presided over the General Assembly. In addition to the Governor and Lieutenant Governor, there are four other executive officers named in the state constitution that are elected directly by voters: Secretary of the State, Treasurer, Comptroller, and Attorney General. The legislature is the General Assembly. The General Assembly is a bicameral body consisting of an upper body, the State Senatorte (36 senators); and a lower body, the House of Representatives (151 representatives). Per Article XV of the state constitution, Senatortors and Representatives must be at least 18 years of age and are elected to two-year terms in November on even-numbered years. As of 2019, Connecticut's United States Senatortors are Richard Blumenthal (Democrat) and Chris Murphy (Democrat). Locally elected representatives also develop Local ordinances to govern cities and towns. The state is divided into 169 towns which serve as the fundamental political jurisdictions. The state is also divided into nine regional councils of government defined by the state Office of Planning and Management, which facilitate regional planning and coordination of services between member towns.
+\Predicted Summary:
+,,,, and the Long Island Sound. Connecticut is the southernmost state in the Northeastern United States. Connecticut is the third smallest state by area, the 29th most populous, and the fourth most densely populated of the fifty states. Connecticut is the third smallest state by area, the 29th most populous, and the fourth most densely populated of the fifty states.
+
+GT:
+The governor heads the executive branch. In addition to the Governor and Lieutenant Governor, there are four other executive officers named in the state constitution that are elected directly by voters: Secretary of the State, Treasurer, Comptroller, and Attorney General. All executive officers are elected to four-year terms. The legislature is the General Assembly. The General Assembly is a bicameral body consisting of an upper body, the State Senatorte (36 senators); and a lower body, the House of Representatives (151 representatives). Bills must pass each house in order to become law. The governor can veto the bill, but this veto can be overridden by a two-thirds majority in each house. Per Article XV of the state constitution, Senatortors and Representatives must be at least 18 years of age and are elected to two-year terms in November on even-numbered years. There also must always be between 30 and 50 senators and 125 to 225 representatives. The Lieutenant Governor presides over the Senatorte, except when absent from the chamber, when the President pro tempore presides. The Speaker of the House presides over the House. Locally elected representatives also develop Local ordinances to govern cities and towns. The town ordinances often include noise control and zoning guidelines. However, the State of Connecticut also provides statewide ordinances for noise control as well. The highest court of Connecticut's judicial branch is the Connecticut Supreme Court, headed by the Chief Justice of Connecticut. The Supreme Court is responsible for deciding on the constitutionality of the law or cases as they relate to the law. The Appellate Court is a lesser statewide court and the Superior Courts are lower courts that resemble county courts of other states. Connecticut does not have county government, unlike all other states except Rhode Island. The state is divided into 169 towns which serve as the fundamental political jurisdictions. The state is also divided into nine regional councils of government defined by the state Office of Planning and Management, which facilitate regional planning and coordination of services between member towns.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09620991253644315, 0.559322033898305, 0.16417910447761194, 0.10261194029850747]
+[0.02046783625730994, 0.1206896551724138, 0.035, 0.021875000000000002]
+[0.0728862973760933, 0.423728813559322, 0.12437810945273632, 0.0777363184079602]
+
+
+SBERT sim. Score: 0.12757381796836853

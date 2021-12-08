@@ -1,0 +1,21 @@
+Document:
+montana
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The economy is primarily based on agriculture, including ranching and cereal grain farming. Other significant economic resources include oil, gas, coal, mining, and lumber. The health care, service, and government sectors also are significant to the state's economy. The Big Hole Valley, Bitterroot Valley, Gallatin Valley, Flathead Valley, and Paradise Valley have extensive agricultural resources and multiple opportunities for tourism and recreation. A series of major mining discoveries in the western third of the state starting in 1862 found gold, silver, copper, lead, and coal (and later oil) which attracted tens of thousands of miners to the area. The largest mining operations were in the city of Butte, which had important silver deposits and gigantic copper deposits. Pressure over land ownership and control increased due to discoveries of gold in various parts of Montana and surrounding states. Cattle ranching has been central to Montana's history and economy since Johnny Grant began wintering cattle in the Deer Lodge Valley in the 1850s and traded cattle fattened in fertile Montana valleys with emigrants on the Oregon Trail. By 1880, farms were in the more verdant valleys of central and western Montana, but few were on the eastern plains. The war created a boom for Montana mining, lumber, and farming interests, as demand for war materials and food increased. The wheat farms in eastern Montana make the state a major producer; the wheat has a relatively high protein content, thus commands premium prices. About 2000–3000 Chinese miners were in the mining areas of Montana by 1870, and 2500 in 1890. Significant industries exist for lumber and mineral extraction; the state's resources include gold, coal, silver, talc, and vermiculite. Tourism is also important to the economy, with more than ten million visitors a year to Glacier National Park, Flathead Lake, the Missouri River headwaters, the site of the Battle of Little Bighorn, and three of the five entrances to Yellowstone National Park.
+\Predicted Summary:
+Montana is a state in the Northwestern United States. It is bordered by the west, North Dakota and South Dakota to the east, and Wyoming to the south . Montana is the fourth-largest state by area, the eighth-least populous state, and the third-least densely populated state . the name Montana comes from the Latin word montaa, meaning "mountain" or more broadly "mountainous country"
+
+GT:
+The economy is primarily based on agriculture, including ranching and cereal grain farming. Other significant economic resources include oil, gas, coal, mining, and lumber. The health care, service, and government sectors also are significant to the state's economy. Montana's fastest-growing sector is tourism; nearly 13 million annual tourists visit Glacier National Park, Yellowstone National Park, Beartooth Highway, Flathead Lake, Big Sky Resort, and other attractions. Cattle ranching has been central to Montana's history and economy since Johnny Grant began wintering cattle in the Deer Lodge Valley in the 1850s and traded cattle fattened in fertile Montana valleys with emigrants on the Oregon Trail. Montana is a relative hub of beer microbrewing, ranking third in the nation in number of craft breweries per capita in 2011. Significant industries exist for lumber and mineral extraction; the state's resources include gold, coal, silver, talc, and vermiculite. Tourism is also important to the economy, with more than ten million visitors a year to Glacier National Park, Flathead Lake, the Missouri River headwaters, the site of the Battle of Little Bighorn, and three of the five entrances to Yellowstone National Park.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13612565445026178, 0.40625, 0.20392156862745098, 0.12745098039215688]
+[0.02631578947368421, 0.07936507936507936, 0.039525691699604744, 0.024703557312252964]
+[0.09424083769633508, 0.28125, 0.1411764705882353, 0.08823529411764706]
+
+
+SBERT sim. Score: 0.4571683704853058

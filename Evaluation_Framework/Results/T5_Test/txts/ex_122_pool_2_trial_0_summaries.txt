@@ -1,0 +1,21 @@
+Document:
+illinois
+
+Intent:
+What drives the economy in this state?
+
+Input:
+With Chicago in northeastern Illinois, small industrial cities and immense agricultural productivity in the north and center of the state, and natural resources such as coal, timber, and petroleum in the south, Illinois has a diverse economic base, and is a major transportation hub. Agriculture, particularly corn and soybeans, as well as educational institutions and manufacturing centers, figure prominently in Central Illinois. Illinois's major agricultural outputs are corn, soybeans, hogs, cattle, dairy products, and wheat. In most years, Illinois is either the first or second state for the highest production of soybeans, with a harvest of 427.7 million bushels (11.64 million metric tons) in 2008, after Iowa's production of 444.82 million bushels (12.11 million metric tons). As of 2011, Illinois is ranked as the 4th-most productive manufacturing state in the country, behind California, Texas, and Ohio. About three-quarters of the state's manufacturers are located in the Northeastern Opportunity Return Region, with 38 percent of Illinois's approximately 18,900 manufacturing plants located in Cook County. As of 2006, the leading manufacturing industries in Illinois, based upon value-added, were chemical manufacturing ($18.3 billion), machinery manufacturing ($13.4 billion), food manufacturing ($12.9 billion), fabricated metal products ($11.5 billion), transportation equipment ($7.4 billion), plastics and rubber products ($7.0 billion), and computer and electronic products ($6.1 billion).
+\Predicted Summary:
+,,,,, and the Michigan Canal (1848) made transportation between the Great Lakes and the Mississippi River valley faster and cheaper . The Illinois and Michigan Canal (1848) made transportation between the Great Lakes and the Mississippi River valley faster and cheaper . the state has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all states .
+
+GT:
+In most years, Illinois is either the first or second state for the highest production of soybeans, with a harvest of 427.7 million bushels (11.64 million metric tons) in 2008, after Iowa's production of 444.82 million bushels (12.11 million metric tons). Illinois ranks second in US corn production with more than 1.5 billion bushels produced annually. Although Chicago may no longer be "Hog Butcher for the World", the Chicago area remains a global center for food manufacture and meat processing, with many plants, processing houses, and distribution facilities concentrated in the area of the former Union Stock Yards. Illinois is one of the nation's manufacturing leaders, boasting annual value added productivity by manufacturing of over $107 billion in 2006. As of 2011, Illinois is ranked as the 4th-most productive manufacturing state in the country, behind California, Texas, and Ohio. As of 2006, the leading manufacturing industries in Illinois, based upon value-added, were chemical manufacturing ($18.3 billion), machinery manufacturing ($13.4 billion), food manufacturing ($12.9 billion), fabricated metal products ($11.5 billion), transportation equipment ($7.4 billion), plastics and rubber products ($7.0 billion), and computer and electronic products ($6.1 billion). By the early 2000s, Illinois's economy had moved toward a dependence on high-value-added services, such as financial trading, higher education, law, logistics, and medicine. Illinois is a leading refiner of petroleum in the American Midwest, with a combined crude oil distillation capacity of nearly 900,000 barrels per day (140,000 m3/d).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09302325581395349, 0.3870967741935484, 0.15, 0.09375]
+[0.0038910505836575876, 0.01639344262295082, 0.006289308176100629, 0.003930817610062893]
+[0.05813953488372093, 0.24193548387096775, 0.09375, 0.05859375000000001]
+
+
+SBERT sim. Score: 0.4946101903915405

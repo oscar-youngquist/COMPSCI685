@@ -1,0 +1,21 @@
+Document:
+north_carolina
+
+Intent:
+How is the government structured in this state?
+
+Input:
+Elected in 1862, Governor Zebulon Baird Vance tried to maintain state autonomy against Confederate President Jefferson Davis in Richmond. The elections in April 1868 following the constitutional convention led to a narrow victory for a Republican-dominated government, with 19 African-Americans holding positions in the North Carolina State Legislature. In 1896 a biracial, Populist-Republican Fusionist coalition gained the governor's office and passed laws that would extend the voting franchise to blacks and poor whites. Voters of North Carolina's 2nd congressional district elected a total of four African-American congressmen through these years of the late 19th century. The government of North Carolina is divided into three branches: executive, legislative, and judicial. These consist of the Council of State (led by the Governor), the bicameral legislature (called the General Assembly), and the state court system (headed by the North Carolina Supreme Court). The state constitution delineates the structure and function of the state government. In 2012, the state elected a Republican governor (Pat McCrory) and lieutenant governor (Dan Forest) for the first time in more than two decades, while also giving the Republicans veto-proof majorities in both the State House of Representatives and the State Senatorte. Several US House of Representatives seats flipped control in 2012, with the Republicans holding nine seats to the Democrats' four. In the 2014 mid-term elections, Republican David Rouzer won the state's seventh congressional district seat, increasing the congressional delegation party split to 10–3 in favor of the GOP. Because of gerrymandering in redistricting after the 2010 census, Democrats have been underrepresented in the state and Congressional delegations since 2012, although they have sometimes represented more than half the state's population. The North Carolina Superintendent of Public Instruction is the secretary of the North Carolina State Board of Education, but the board, rather than the superintendent, holds most of the legal authority for making public education policy.
+\Predicted Summary:
+the first controlled, sustained flight of a powered, heavier-than-air aircraft . North Carolina is the 28th largest and 9th-most populous of the 50 United States . North Carolina is the largest metropolitan area in the state, with an estimated population of 1,362,540 in 2018, .
+
+GT:
+The government of North Carolina is divided into three branches: executive, legislative, and judicial. These consist of the Council of State (led by the Governor), the bicameral legislature (called the General Assembly), and the state court system (headed by the North Carolina Supreme Court). The state constitution delineates the structure and function of the state government. North Carolina has 13 seats in the US House of Representatives and two seats in the US Senatorte. North Carolina's party loyalties have undergone a series of important shifts in the last few years: While the 2010 midterms saw Tar Heel voters elect a bicameral Republican majority legislature for the first time in more than a century, North Carolina has also become a Southern swing state in presidential races. Since Southern Democrat Jimmy Carter's comfortable victory in the state in 1976, the state had consistently leaned Republican in presidential elections until Democrat Barack Obama narrowly won the state in 2008. Because of gerrymandering in redistricting after the 2010 census, Democrats have been underrepresented in the state and Congressional delegations since 2012, although they have sometimes represented more than half the state's population.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11518324607329843, 0.46808510638297873, 0.18487394957983194, 0.11554621848739495]
+[0.03684210526315789, 0.15217391304347827, 0.05932203389830508, 0.037076271186440676]
+[0.09424083769633508, 0.3829787234042553, 0.1512605042016807, 0.09453781512605042]
+
+
+SBERT sim. Score: 0.4452553987503052

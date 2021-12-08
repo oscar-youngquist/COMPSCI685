@@ -1,0 +1,21 @@
+Document:
+oklahoma
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The state has 77 counties with jurisdiction over most local government functions within each respective domain, five congressional districts, and a voting base with a plurality in the Republican Party. State officials are elected by plurality voting in the state of Oklahoma. The Legislature of Oklahoma consists of the Senatorte and the House of Representatives. As the lawmaking branch of the state government, it is responsible for raising and distributing the money necessary to run the government. The state has a term limit for its legislature that restricts any one person to twelve cumulative years service between both legislative branches. Judges of those two courts, as well as the Court of Civil Appeals are appointed by the Governor upon the recommendation of the state Judicial Nominating Commission, and are subject to a non-partisan retention vote on a six-year rotating schedule. The executive branch consists of the Governor, their staff, and other elected officials. The principal head of government, the Governor is the chief executive of the Oklahoma executive branch, serving as the ex officio Commander-in-chief of the Oklahoma National Guard when not called into Federal use and reserving the power to veto bills passed through the Legislature. The state is divided into 77 counties that govern locally, each headed by a three-member council of elected commissioners, a tax assessor, clerk, court clerk, treasurer, and sheriff. While each municipality operates as a separate and independent local government with executive, legislative and judicial power, county governments maintain jurisdiction over both incorporated cities and non-incorporated areas within their boundaries, but have executive power but no legislative or judicial power. Tribal governments are recognized by the United States as quasi-sovereign entities with executive, judicial, and legislative powers over tribal members and functions, but are subject to the authority of the United States Congress to revoke or withhold certain powers.
+\Predicted Summary:
+, Oklahoma is the largest state in the United States, with a population of about 50,000 . Oklahoma is a state in the western extreme of the Upland South, bordered by the state of Texas . Oklahoma is the 20th-most extensive and the 28th-most populous of the 50 United States . Oklahoma is a major producer of natural gas, oil, and agricultural products .
+
+GT:
+The Legislature of Oklahoma consists of the Senatorte and the House of Representatives. The Senatorte has 48 members serving four-year terms, while the House has 101 members with two-year terms. The state has a term limit for its legislature that restricts any one person to twelve cumulative years service between both legislative branches. Oklahoma's judicial branch consists of the Oklahoma Supreme Court, the Oklahoma Court of Criminal Appeals, and 77 District Courts that each serve one county. Oklahoma has two courts of last resort: the state Supreme Court hears civil cases, and the state Court of Criminal Appeals hears criminal cases (this split system exists only in Oklahoma and neighboring Texas). The state is divided into 77 counties that govern locally, each headed by a three-member council of elected commissioners, a tax assessor, clerk, court clerk, treasurer, and sheriff.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.21678321678321677, 0.5, 0.3024390243902439, 0.1890243902439024]
+[0.028169014084507043, 0.06557377049180328, 0.03940886699507389, 0.02463054187192118]
+[0.14685314685314685, 0.3387096774193548, 0.20487804878048782, 0.12804878048780488]
+
+
+SBERT sim. Score: 0.43963003158569336

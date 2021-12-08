@@ -1,0 +1,21 @@
+Document:
+ohio
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Of the fifty states, it is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated. The state is known for its status as both a swing state and a bellwether in national elections. Ohio's neighbors are Pennsylvania to the east, Michigan to the northwest, Lake Erie to the north, Indiana to the west, Kentucky on the south, and West Virginia on the southeast. The climate of Ohio is a humid continental climate (Köppen climate classification Dfa/Dfb) throughout most of the state, except in the extreme southern counties of Ohio's Bluegrass region section, which are located on the northern periphery of the humid subtropical climate (Cfa) and Upland South region of the United States. The industry of Ohio made the state one of the most important states in the Union during the Civil war. This ranks Ohio's economy as the seventh-largest of all fifty states and the District of Columbia. Ohio's manufacturing sector is the third-largest of all fifty United States states in terms of gross domestic product. Additionally, the North Country Trail (the longest of the eleven National Scenic Trails authorized by Congress) and the American Discovery Trail (a system of recreational trails and roads that collectively form a coast-to-coast route across the mid-tier of the United States) pass through Ohio.
+\Predicted Summary:
+the first post-colonial free state admitted to the union on March 1, 1803 . Ohio is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated . Ohio is known for its status as both a swing state and a bellwether in national elections .
+
+GT:
+Although predominantly not in a subtropical climate, some warmer-climate flora and fauna do reach well into Ohio. Columbus is the capital of Ohio, located near the geographic center of the state and well known for The Ohio State University. Akron, Canton, Cleveland, Mansfield, and Youngstown are in the Northeast, known for major industrial companies Goodyear Tire and Rubber and Timken, top ranked colleges Case Western Reserve University and Kent State University, the Cleveland Clinic, and cultural attractions including the Cleveland Museum of Art, Big Five group Cleveland Orchestra, Playhouse Square, the Pro Football Hall of Fame, and the Rock and Roll Hall of Fame. The state has also won three consecutive Governor's Cup awards from the magazine, based on business growth and developments. This ranks Ohio's economy as the seventh-largest of all fifty states and the District of Columbia. The Ohio Lottery has contributed over $15.5 billion to public education in its 34-year history. Ohio is home to some of the nation's highest-ranked public libraries. The Rock and Roll Hall of Fame and the Rhythm and Blues Music Hall of Fame are both located in Cleveland. Cleveland disc jockey Alan Freed is credited with coining the term and promoting rock and roll in the early 1950s. Ohio is home to eight professional sports teams across the five different major leagues in the United States.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1206896551724138, 0.49122807017543857, 0.19377162629757785, 0.12110726643598616]
+[0.025974025974025976, 0.10714285714285714, 0.041811846689895474, 0.026132404181184673]
+[0.06465517241379311, 0.2631578947368421, 0.10380622837370242, 0.06487889273356402]
+
+
+SBERT sim. Score: 0.48693087697029114

@@ -1,0 +1,21 @@
+Document:
+michigan
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Michigan is the leading auto-producing state in the US, with the industry primarily located throughout the Midwestern United States; Ontario, Canada; and the Southern United States. Agriculture also serves a significant role, making the state a leading grower of fruit in the US, including blueberries, cherries, apples, grapes, and peaches. A wide variety of commodity crops, fruits, and vegetables are grown in Michigan, making it second only to California among US states in the diversity of its agriculture. Livestock in the state included 78,000 sheep, a million cattle, a million hogs, and more than three million chickens. Hunting and fishing are significant industries in the state. The forest products industry and recreational users contribute $12 billion and 200,000 associated jobs annually to the state's economy.
+\Predicted Summary:
+in the 17th century, it was claimed as part of new France colony . It was claimed as part of new France colony . the region was once part of the larger Northwest Territory .
+
+GT:
+Although Michigan developed a diverse economy, it is widely known as the center of the US automotive industry, which developed as a major economic force in the early 20th century. It is home to the country's three major automobile companies (whose headquarters are all in Metro Detroit). While sparsely populated, the Upper Peninsula is important for tourism due to its abundance of natural resources, while the Lower Peninsula is a center of manufacturing, forestry, agriculture, services, and high-tech industry. Products and services include automobiles, food products, information technology, aerospace, military equipment, furniture, and mining of copper and iron ore. Michigan is the third leading grower of Christmas trees with 60,520 acres (245 km2) of land dedicated to Christmas tree farming. Michigan ranks first in the nation in licensed hunters (over one million) who contribute $2 billion annually to its economy. The forest products industry and recreational users contribute $12 billion and 200,000 associated jobs annually to the state's economy.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07317073170731707, 0.375, 0.12244897959183672, 0.07653061224489796]
+[0.018404907975460124, 0.0967741935483871, 0.030927835051546393, 0.019329896907216496]
+[0.054878048780487805, 0.28125, 0.09183673469387756, 0.05739795918367348]
+
+
+SBERT sim. Score: 0.06752841174602509

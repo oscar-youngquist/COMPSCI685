@@ -1,0 +1,21 @@
+Document:
+new_jersey
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+As of 2010, New Jersey was the eleventh-most populous state in the United States, and the most densely populated, at 1,185 residents per square mile (458 per km2), with most of the population residing in the counties surrounding New York City, Philadelphia, and along the eastern Jersey Shore, while the extreme southern and northwestern counties are relatively less dense overall. The state has the second largest Jewish population by percentage (after New York); the second largest Muslim population by percentage (after Michigan); the largest population of Peruvians in the United States; the largest population of Cubans outside of Florida; the third highest Asian population by percentage; and the second highest Italian population, according to the 2000 Census. Monroe Township in Middlesex County has experienced a particularly rapid growth rate in its Indian American population, with an estimated 5,943 (13.6%) as of 2017, which was 23 times the 256 (0.9%) counted as of the 2000 Census; and Diwali is celebrated by the township as a Hindu holiday. This accessibility to consumer revenue has enabled seaside resorts such as Atlantic City and the remainder of the Jersey Shore, as well as the state's other natural and cultural attractions, to contribute significantly to the record 111 million tourist visits to New Jersey in 2018, providing US$44.7 billion in tourism revenue, directly supporting 333,860 jobs, sustaining more than 531,000 jobs overall including peripheral impacts, and generating US$5 billion in state and local tax revenue. The state's Democratic strongholds include Camden County, Essex County (typically the state's most Democratic county—it includes Newark, the state's largest city), Hudson County (the second-strongest Democratic county, including Jersey City, the state's second-largest city); Mercer County (especially around Trenton and Princeton), Middlesex County, and Union County (including Elizabeth, the state's fourth-largest city). The suburban northwestern and southeastern counties of the state are reliably Republican: Republicans have support along the coast in Ocean County and in the mountainous northwestern part of the state, especially Morris County, Sussex County, and Warren County.
+\Predicted Summary:
+,, New Jersey, and Newark, New Jersey, helped drive the nation's Industrial Revolution . New Jersey was first inhabited by Native Americans for at least 2,800 years . New Jersey was the second-wealthest state by median household income .
+
+GT:
+As of 2020, New Jersey was home to the highest number of millionaires per capita of all US states, with 9.76% of households—more than 323,000 of 3.3 million statewide—meeting the criteria. New Jersey is the birthplace of modern inventions such as: FM radio, the motion picture camera, the lithium battery, the light bulb, transistors, and the electric train. Other New Jersey creations include: the drive-in movie, the cultivated blueberry, cranberry sauce, the postcard, the boardwalk, the zipper, the phonograph, saltwater taffy, the dirigible, the seedless watermelon, the first use of a submarine in warfare, and the ice cream cone. The state is home to many diner manufacturers and has over 600 diners, more than any other place in the world. New Jersey is frequently the target of jokes in American culture, especially from New York City-based television shows, such as Saturday Night Live. New Jersey is known for several foods developed within the region, including Taylor Ham (also known as pork roll), cheesesteaks, and scrapple.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10465116279069768, 0.47368421052631576, 0.17142857142857143, 0.10714285714285715]
+[0.029239766081871343, 0.13513513513513514, 0.04807692307692307, 0.03004807692307692]
+[0.0755813953488372, 0.34210526315789475, 0.12380952380952381, 0.0773809523809524]
+
+
+SBERT sim. Score: 0.44813457131385803

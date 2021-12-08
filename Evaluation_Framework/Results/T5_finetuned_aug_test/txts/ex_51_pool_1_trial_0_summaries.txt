@@ -1,0 +1,21 @@
+Document:
+michigan
+
+Intent:
+What is the state's policy regarding education?
+
+Input:
+Many private colleges were founded as well, and the smaller cities established high schools late in the century. Cities, state universities, and villages are vested with home rule powers of varying degrees. The fifteen state universities have broad power and can do anything within the parameters of their status as educational institutions that is not prohibited by the state constitution. The state has maintained its early commitment to public education. Michigan's education system serves 1.6 million K-12 students in public schools. More than 124,000 students attend private schools and an uncounted number are home-schooled under certain legal requirements. The public school system had a $14.5 billion budget in 2008–09.
+\Predicted Summary:
+in the 17th century, it was claimed as part of the new French colony . Michigan is a state in the Great Lakes and Midwestern regions of the United States . it is the tenth most populous state, the 11th most extensive state by area, and the largest by area . Michigan is the largest metropolitan economy in the world .
+
+GT:
+The Michigan State Normal School, now Eastern Michigan University, was founded in 1849, for the training of teachers. Cities, state universities, and villages are vested with home rule powers of varying degrees. The fifteen state universities have broad power and can do anything within the parameters of their status as educational institutions that is not prohibited by the state constitution. The state has maintained its early commitment to public education. Property taxes are assessed on the local level, but every property owner's local assessment contributes six mills (a rate of $6 per $1000 of property value) to the statutory State Education Tax. Event tourism draws large numbers to occasions like the Tulip Time Festival and the National Cherry Festival.In 2006, the Michigan State Board of Education mandated all public schools in the state hold their first day of school after Labor Day, in accordance with the new Post Labor Day School law. The public school system had a $14.5 billion budget in 2008–09.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16766467065868262, 0.49122807017543857, 0.25, 0.15625]
+[0.018072289156626505, 0.05357142857142857, 0.02702702702702703, 0.016891891891891893]
+[0.11976047904191617, 0.3508771929824561, 0.17857142857142858, 0.11160714285714286]
+
+
+SBERT sim. Score: 0.4416680335998535

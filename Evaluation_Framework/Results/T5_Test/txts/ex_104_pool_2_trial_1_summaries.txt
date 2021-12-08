@@ -1,0 +1,21 @@
+Document:
+north_carolina
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The state mainly continued with an economy based on tobacco, cotton textiles and commodity agriculture. The Piedmont region of central North Carolina is the state's most populous region, containing the six largest cities in the state by population. The state has a very diverse economy because of its great availability of hydroelectric power, its pleasant climate, and its wide variety of soils. The state ranks third among the South Atlantic states in population, but leads the region in industry and agriculture. North Carolina leads the nation in the production of tobacco, textiles, and furniture. Science, technology, engineering, and math (STEM) industries in the area surrounding North Carolina's capital have grown 17.9 percent since 2001, placing Raleigh-Cary at No. North Carolina is the leading US state in production of flue-cured tobacco and sweet potatoes, and comes second in the farming of pigs and hogs, trout, and turkeys. The nonprofit arts and culture industry generates $1.2 billion in direct economic activity in North Carolina, supporting more than 43,600 full-time equivalent jobs and generating $119 million in revenue for local governments and the state of North Carolina. Recognized and marketed brands of beer in North Carolina include Highland Brewing, Duck Rabbit Brewery, Mother Earth Brewery, Weeping Radish Brewery, Big Boss Brewing, Foothills Brewing, Carolina Brewing Company, Lonerider Brewing, and White Rabbit Brewing Company. North Carolina has large grazing areas for beef and dairy cattle. The state's shipping, commercial fishing, and lumber industries are important to its economy. Service industries, including education, health care, private research, and retail trade, are also important.
+\Predicted Summary:
+the first controlled, sustained flight of a powered, heavier-than-air aircraft . North Carolina is the 28th largest and 9th-most populous of the 50 United States . North Carolina is the largest metropolitan area in the state, with an estimated population of 1,362,540 in 2018, .
+
+GT:
+The state has a very diverse economy because of its great availability of hydroelectric power, its pleasant climate, and its wide variety of soils. The state ranks third among the South Atlantic states in population, but leads the region in industry and agriculture. North Carolina leads the nation in the production of tobacco, textiles, and furniture. Charlotte, the state's largest city, is a major textile and trade center. Science, technology, engineering, and math (STEM) industries in the area surrounding North Carolina's capital have grown 17.9 percent since 2001, placing Raleigh-Cary at No. North Carolina is the leading US state in production of flue-cured tobacco and sweet potatoes, and comes second in the farming of pigs and hogs, trout, and turkeys. In the three most recent USDA surveys (2002, 2007, 2012), North Carolina also ranked second in the production of Christmas trees. North Carolina has 15 metropolitan areas, and in 2010 was chosen as the third-best state for business by Forbes Magazine, and the second-best state by Chief Executive Officer Magazine. While North Carolina's urban areas have enjoyed a prosperous economy with steady job growth, low unemployment, and rising wages, many of the state's rural counties have suffered from job loss, rising levels of poverty, and population loss as their manufacturing base has declined.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12612612612612611, 0.5957446808510638, 0.20817843866171, 0.13011152416356878]
+[0.03619909502262444, 0.17391304347826086, 0.0599250936329588, 0.03745318352059925]
+[0.09009009009009009, 0.425531914893617, 0.14869888475836432, 0.09293680297397769]
+
+
+SBERT sim. Score: 0.5728498697280884

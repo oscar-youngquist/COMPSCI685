@@ -1,0 +1,21 @@
+Document:
+michigan
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Agriculture also serves a significant role, making the state a leading grower of fruit in the US, including blueberries, cherries, apples, grapes, and peaches. The state has numerous large islands, the principal ones being the North Manitou and South Manitou, Beaver, and Fox groups in Lake Michigan; Isle Royale and Grande Isle in Lake Superior; Marquette, Bois Blanc, and Mackinac islands in Lake Huron; and Neebish, Sugar, and Drummond islands in St. Mary's River. With 78 state parks, 19 state recreation areas, and six state forests, Michigan has the largest state park and state forest system of any state. Western Michigan is known for the Dutch heritage of many residents (the highest concentration of any state), especially in Holland and metropolitan Grand Rapids. A wide variety of commodity crops, fruits, and vegetables are grown in Michigan, making it second only to California among US states in the diversity of its agriculture. Livestock in the state included 78,000 sheep, a million cattle, a million hogs, and more than three million chickens. Hunting and fishing are significant industries in the state. Major theaters in Michigan include the Fox Theatre, Music Hall, Gem Theatre, Masonic Temple Theatre, the Detroit Opera House, Fisher Theatre, The Fillmore Detroit, Saint Andrew's Hall, Majestic Theater, and Orchestra Hall.
+\Predicted Summary:
+in the 17th century, it was claimed as part of new France colony . It was claimed as part of new France colony . the region was once part of the larger Northwest Territory .
+
+GT:
+Michigan music is known for three music trends: early punk rock, Motown/soul music and techno music. Major theaters in Michigan include the Fox Theatre, Music Hall, Gem Theatre, Masonic Temple Theatre, the Detroit Opera House, Fisher Theatre, The Fillmore Detroit, Saint Andrew's Hall, Majestic Theater, and Orchestra Hall. The Nederlander Organization, the largest controller of Broadway productions in New York City, originated in Detroit. Motown Motion Picture Studios with 535,000 square feet (49,700 m2) produces movies in Detroit and the surrounding area based at the Pontiac Centerpoint Business Campus. Michigan's major-league sports teams include: Detroit Tigers baseball team, Detroit Lions football team, Detroit Red Wings ice hockey team, and the Detroit Pistons men's basketball team. All of Michigan's major league teams play in the Metro Detroit area. Collegiate sports in Michigan are popular in addition to professional sports.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.04794520547945205, 0.21875, 0.07865168539325844, 0.04915730337078652]
+[0.006896551724137931, 0.03225806451612903, 0.011363636363636362, 0.007102272727272727]
+[0.04794520547945205, 0.21875, 0.07865168539325844, 0.04915730337078652]
+
+
+SBERT sim. Score: -0.0722813755273819

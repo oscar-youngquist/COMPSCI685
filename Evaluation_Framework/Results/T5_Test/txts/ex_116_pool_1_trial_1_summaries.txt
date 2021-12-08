@@ -1,0 +1,21 @@
+Document:
+alaska
+
+Intent:
+How is the government structured in this state?
+
+Input:
+Like all other US states, Alaska is governed as a republic, with three branches of government: an executive branch consisting of the governor of Alaska and his or her appointees which head executive departments; a legislative branch consisting of the Alaska House of Representatives and Alaska Senatorte; and a judicial branch consisting of the Alaska Supreme Court and lower courts. The Alaska Legislature consists of a 40-member House of Representatives and a 20-member Senatorte. Six Republicans and four Democrats have served as governor of Alaska. Alaska regularly supports Republicans in presidential elections and has done so since statehood. Republicans have won the state's electoral college votes in all but one election that it has participated in (1964). Alaska is the third state with jungle primaries for all statewide races, the second state with ranked voting, and the only state with both.
+\Predicted Summary:
+is a US state on the northwest extremity of the country's West Coast, just across the Bering Strait . Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined . Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined, and the seventh-largest subnational division in the world .
+
+GT:
+Like all other US states, Alaska is governed as a republic, with three branches of government: an executive branch consisting of the governor of Alaska and his or her appointees which head executive departments; a legislative branch consisting of the Alaska House of Representatives and Alaska Senatorte; and a judicial branch consisting of the Alaska Supreme Court and lower courts. The Alaska Legislature consists of a 40-member House of Representatives and a 20-member Senatorte. Senatortors serve four-year terms and House members two. Alaska's court system has four levels: the Alaska Supreme Court, the Alaska Court of Appeals, the superior courts and the district courts. Although in its early years of statehood Alaska was a Democratic state, since the early 1970s it has been characterized as Republican-leaning. Six Republicans and four Democrats have served as governor of Alaska.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1619718309859155, 0.2948717948717949, 0.2090909090909091, 0.1306818181818182]
+[0.028368794326241134, 0.05194805194805195, 0.03669724770642202, 0.02293577981651376]
+[0.11267605633802817, 0.20512820512820512, 0.14545454545454545, 0.09090909090909091]
+
+
+SBERT sim. Score: 0.5012855529785156

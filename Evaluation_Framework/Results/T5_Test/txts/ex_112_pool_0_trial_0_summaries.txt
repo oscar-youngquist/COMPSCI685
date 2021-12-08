@@ -1,0 +1,21 @@
+Document:
+arkansas
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Arkansas's culture is observable in museums, theaters, novels, television shows, restaurants, and athletic venues across the state. In eastern Arkansas, one can find Taxodium (cypress), Quercus nigra (water oaks), and hickories with their roots submerged in the Mississippi Valley bayous indicative of the deep south. Other cities in Arkansas include Pine Bluff, Crossett, Bryant, Lake Village, Hot Springs, Bentonville, Texarkana, Sherwood, Jacksonville, Russellville, Bella Vista, West Memphis, Paragould, Cabot, Searcy, Van Buren, El Dorado, Blytheville, Harrison, Dumas, Rison, Warren, and Mountain Home. Many cities also hold festivals, which draw tourists to Arkansas culture, such as The Bradley County Pink Tomato Festival in Warren, King Biscuit Blues Festival, Ozark Folk Festival, Toad Suck Daze, and Tontitown Grape Festival. The culture of Arkansas includes distinct cuisine, dialect, and traditional festivals. Arkansas features a variety of native music across the state, ranging from the blues heritage of West Memphis, Pine Bluff, Helena–West Helena to rockabilly, bluegrass, and folk music from the Ozarks. Festivals such as the King Biscuit Blues Festival and Bikes, Blues, and BBQ pay homage to the history of blues in the state. Several smaller retirement communities such as Bull Shoals, Hot Springs Village, and Fairfield Bay have flourished due to their position on a fishing lake.
+\Predicted Summary:
+, Arkansas, is a state in the south central United States, home to more than three million people . Arkansas () is a state in the south central United States, home to more than three million people as of 2018 . it is home to more than three million people as of 2018 .
+
+GT:
+The most enduring icon of Arkansas's hillbilly reputation is The Arkansas Traveller, a painted depiction of a folk tale from the 1840s. Art and history museums display pieces of cultural value for Arkansans and tourists to enjoy. Crystal Bridges Museum of American Art in Bentonville was visited by 604,000 people in 2012, its first year. The museum includes walking trails and educational opportunities in addition to displaying over 450 works covering five centuries of American art. Several historic town sites have been restored as Arkansas state parks, including Historic Washington State Park, Powhatan Historic State Park, and Davidsonville Historic State Park. Arkansas features a variety of native music across the state, ranging from the blues heritage of West Memphis, Pine Bluff, Helena–West Helena to rockabilly, bluegrass, and folk music from the Ozarks. Festivals such as the King Biscuit Blues Festival and Bikes, Blues, and BBQ pay homage to the history of blues in the state. Literature set in Arkansas such as I Know Why the Caged Bird Sings by Maya Angelou and A Painted House by John Grisham describe the culture at various time periods.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11170212765957446, 0.42857142857142855, 0.1772151898734177, 0.11075949367088606]
+[0.0053475935828877, 0.020833333333333332, 0.00851063829787234, 0.005319148936170212]
+[0.07446808510638298, 0.2857142857142857, 0.11814345991561181, 0.07383966244725738]
+
+
+SBERT sim. Score: 0.4168742001056671

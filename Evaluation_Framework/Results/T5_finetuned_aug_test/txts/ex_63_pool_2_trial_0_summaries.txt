@@ -1,0 +1,21 @@
+Document:
+florida
+
+Intent:
+What are the major historical events in this state?
+
+Input:
+Florida was admitted as the 27th state on March 3, 1845. In 1810, parts of West Florida were annexed by proclamation of President James Madison, who claimed the region as part of the Louisiana Purchase. The US annexed the Mobile District of West Florida to the Mississippi Territory in 1812. President James Monroe was authorized on March 3, 1821 to take possession of East Florida and West Florida for the United States and provide for initial governance. On March 3, 1845, only one day before the end of President John Tyler's term in office, Florida became the 27th state, admitted as a slave state and no longer a sanctuary for runaway slaves. The largest engagements in the state were the Battle of Olustee, on February 20, 1864, and the Battle of Natural Bridge, on March 6, 1865. Some of their ancestry went back to the original thirteen colonies. 2008 marked the first time since 1944, when Franklin D. Roosevelt carried the state for the fourth time, that Florida was carried by a Northern Democrat for president.
+\Predicted Summary:
+is the second largest state in the world. Florida is the third-most populous state in the world, and the 22nd-most extensive in the world. Florida is the largest freshwater lake in the country. Florida is the flattest state in the united states. Florida is renowned for its large population, its high population growth, and its growing environmental issues.
+
+GT:
+Ponce de León spotted and landed on the peninsula on April 2, 1513. In 1738, the Spanish governor of Florida Manuel de Montiano established Fort Gracia Real de Santa Teresa de Mose near St. Augustine, a fortified town for escaped slaves to whom Montiano granted citizenship and freedom in return for their service in the Florida militia, and which became the first free black settlement legally sanctioned in North America. Spain regained both East and West Florida after Britain's defeat in the Revolutionary War and the subsequent Treaty of Versailles in 1783, and continued the provincial divisions until 1821. In 1810, parts of West Florida were annexed by proclamation of President James Madison, who claimed the region as part of the Louisiana Purchase. Madrid therefore decided to cede the territory to the United States through the Adams–Onís Treaty, which took effect in 1821. On March 30, 1822, the US Congress merged East Florida and part of West Florida into the Florida Territory. On March 3, 1845, only one day before the end of President John Tyler's term in office, Florida became the 27th state, admitted as a slave state and no longer a sanctuary for runaway slaves. Following the American Civil War, Florida's congressional representation was restored on June 25, 1868, albeit forcefully after Radical Reconstruction and the installation of unelected government officials under the final authority of federal military commanders.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10970464135021098, 0.43333333333333335, 0.17508417508417512, 0.10942760942760944]
+[0.0211864406779661, 0.0847457627118644, 0.03389830508474576, 0.021186440677966104]
+[0.09282700421940929, 0.36666666666666664, 0.14814814814814814, 0.09259259259259259]
+
+
+SBERT sim. Score: 0.30773693323135376

@@ -1,0 +1,21 @@
+Document:
+arizona
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It is the 6th largest and the 14th most populous of the 50 states. Arizona is the sixth largest state by area, ranked after New Mexico and before Nevada. The state is less well known for its pine-covered north-central portion of the high country of the Colorado Plateau (see Arizona Mountains forests). Due to its large area and variations in elevation, the state has a wide variety of localized climate conditions. The composition of the state's economy is moderately diverse; although health care, transportation and the government remain the largest sectors. The state's per capita income is $40,828, ranking 39th in the US As of August 2020, the state's unemployment rate was 5.9%.
+\Predicted Summary:
+,,,,,, a small spring, Arizona, Arizona, and Arizona. Arizona is the 6th largest and the 14th most populous state in the 50 states. It is the 6th largest and the 14th most populous state of the 50 states. Arizona is the 6th largest and the 14th most populous state of the 50 states. Arizona is the 6th largest and the 14th most populous state of the 50 states. Arizona is the 6th largest and the 14th most
+
+GT:
+In addition to the internationally known Grand Canyon National Park, which is one of the world's seven natural wonders, there are several national forests, national parks, and national monuments. Hinduism became the largest non-Christian religion (when combining all denominations) in 2010 with more than 32,000 adherents, followed by Judaism with more than 20,000 and Buddhism with more than 19,000. The composition of the state's economy is moderately diverse; although health care, transportation and the government remain the largest sectors. The state transaction privilege tax is 5.6%; however, county and municipal sales taxes generally add an additional 2%. The state of Arizona does not levy a state tax on food for home consumption or on drugs prescribed by a licensed physician or dentist. The Phoenix and Tucson metropolitan areas are served by public bus transit systems.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2112676056338028, 0.39473684210526316, 0.2752293577981651, 0.17201834862385318]
+[0.028368794326241134, 0.05333333333333334, 0.03703703703703704, 0.023148148148148147]
+[0.1619718309859155, 0.3026315789473684, 0.21100917431192662, 0.13188073394495414]
+
+
+SBERT sim. Score: 0.4578806459903717

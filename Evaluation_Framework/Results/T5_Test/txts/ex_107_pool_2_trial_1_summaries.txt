@@ -1,0 +1,21 @@
+Document:
+virginia
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Virginia's economy has many sectors: agriculture in the Shenandoah Valley; federal agencies in Northern Virginia, including the headquarters of the US Department of Defense and Central Intelligence Agency; and military facilities in Hampton Roads, the site of the region's main seaport. Virginia has 226 species of freshwater fish, from 25 families; the state's diverse array of fish species is attributable to its varied and humid climate, physiography, river system interconnections, and lack of Pleistocene glaciers. For example, the state is home to Eastern blacknose dace and sculpin (on the Appalachian Plateau); smallmouth bass and redhorse sucker (in the Ridge and Valley region); brook trout, rainbow trout, brown trout, and the Kanawha darter (in the Blue Ridge); stripeback darter and Roanoke Bass (in the Piedmont); and swampfish, bluespotted sunfish, and pirate perch (on the Coastal Plain). Tourism in Virginia supported an estimated 234,000 jobs in 2018, making tourism the state's fifth largest industry. Though agriculture has declined significantly since 1960 when there were twice as many farms, it remains the largest single industry in Virginia, providing for over 334,000 jobs. Though it is no longer the primary crop, Virginia is still the third-largest producer of tobacco in the United States. Virginia is also the country's third-largest producer of seafood as of 2018, with sea scallops, oysters, Chesapeake blue crabs, menhaden, and hardshell clams as the largest seafood harvests by value, and France, Canada, and Hong Kong as the top export destinations. Commercial fishing supports 18,220 jobs as of 2020, while recreation fishing supports another 5,893. Virginia has the seventh-highest number of wineries in the nation, with 307 as of 2020.
+\Predicted Summary:
+, the Commonwealth of Virginia, is a state in the Mid-Atlantic region of the Southern United States . Virginia has a total area of 42,774.2 square miles (110,784.7 km2), including 3,180.13 square miles (8,236.5 km2) of water . Virginia is the 35th state in the region, between the Atlantic Coast and the Appalachian Mountains .
+
+GT:
+Virginia's economy has many sectors: agriculture in the Shenandoah Valley; federal agencies in Northern Virginia, including the headquarters of the US Department of Defense and Central Intelligence Agency; and military facilities in Hampton Roads, the site of the region's main seaport. Virginia's economy has diverse sources of income, including local and federal government, military, farming and high-tech. Tourism in Virginia supported an estimated 234,000 jobs in 2018, making tourism the state's fifth largest industry. It generated $26 billion, an increase 4.4 percent from 2017. Though agriculture has declined significantly since 1960 when there were twice as many farms, it remains the largest single industry in Virginia, providing for over 334,000 jobs. Virginia is also the country's third-largest producer of seafood as of 2018, with sea scallops, oysters, Chesapeake blue crabs, menhaden, and hardshell clams as the largest seafood harvests by value, and France, Canada, and Hong Kong as the top export destinations.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13580246913580246, 0.36666666666666664, 0.1981981981981982, 0.12387387387387386]
+[0.024844720496894408, 0.06779661016949153, 0.03636363636363636, 0.022727272727272724]
+[0.1111111111111111, 0.3, 0.16216216216216217, 0.10135135135135134]
+
+
+SBERT sim. Score: 0.44615474343299866

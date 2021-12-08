@@ -1,0 +1,21 @@
+Document:
+alaska
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+West of Fairbanks lies another concentration of small farms catering to restaurants, the hotel and tourist industry, and community-supported agriculture. However, a small assortment of state and local fairs (with the Alaska State Fair in Palmer the largest), are held mostly in the late summer. The fairs are mostly located in communities with historic or current agricultural activity, and feature local farmers exhibiting produce in addition to more high-profile commercial activities such as carnival rides, concerts and food. The Alaska Bush, central Juneau, midtown and downtown Anchorage, and the areas surrounding the University of Alaska Fairbanks campus and Ester have been strongholds of the Democratic Party. Some of Alaska's popular annual events are the Iditarod Trail Sled Dog Race from Anchorage to Nome, World Ice Art Championships in Fairbanks, the Blueberry Festival and Alaska Hummingbird Festival in Ketchikan, the Sitka Whale Fest, and the Stikine River Garnet Fest in Wrangell. Influences on music in Alaska include the traditional music of Alaska Natives as well as folk music brought by later immigrants from Russia and Europe. Prominent musicians from Alaska include singer Jewel, traditional Aleut flautist Mary Youngblood, folk singer-songwriter Libby Roderick, Christian music singer-songwriter Lincoln Brewster, metal/post hardcore band 36 Crazyfists and the groups Pamyua and Portugal. There are many established music festivals in Alaska, including the Alaska Folk Festival, the Fairbanks Summer Arts Festival] the Anchorage Folk Festival, the Athabascan Old-Time Fiddling Festival, the Sitka Jazz Festival, and the Sitka Summer Music Festival.
+\Predicted Summary:
+is a US state on the northwest extremity of the country's West Coast, just across the Bering Strait . Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined . Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined, and the seventh-largest subnational division in the world .
+
+GT:
+Some of Alaska's popular annual events are the Iditarod Trail Sled Dog Race from Anchorage to Nome, World Ice Art Championships in Fairbanks, the Blueberry Festival and Alaska Hummingbird Festival in Ketchikan, the Sitka Whale Fest, and the Stikine River Garnet Fest in Wrangell. The Alaska Native Heritage Center celebrates the rich heritage of Alaska's 11 cultural groups. Their purpose is to encourage cross-cultural exchanges among all people and enhance self-esteem among Native people. The Alaska Native Arts Foundation promotes and markets Native art from all regions and cultures in the State, using the internet. Influences on music in Alaska include the traditional music of Alaska Natives as well as folk music brought by later immigrants from Russia and Europe. There are many established music festivals in Alaska, including the Alaska Folk Festival, the Fairbanks Summer Arts Festival] the Anchorage Folk Festival, the Athabascan Old-Time Fiddling Festival, the Sitka Jazz Festival, and the Sitka Summer Music Festival.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13580246913580246, 0.28205128205128205, 0.18333333333333332, 0.11458333333333331]
+[0.012422360248447204, 0.025974025974025976, 0.01680672268907563, 0.010504201680672268]
+[0.08641975308641975, 0.1794871794871795, 0.11666666666666667, 0.07291666666666667]
+
+
+SBERT sim. Score: 0.3224610686302185

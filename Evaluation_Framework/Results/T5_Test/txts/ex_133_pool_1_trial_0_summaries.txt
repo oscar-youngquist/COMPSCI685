@@ -1,0 +1,21 @@
+Document:
+alaska
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined, and the seventh-largest subnational division in the world. While it has one of the smallest state economies in the country, Alaska's per capita income is among the highest, owing to a diversified economy dominated by fishing, natural gas, and oil, all of which it has in abundance. At 663,268 square miles (1,717,856 km2) in area, Alaska is by far the largest state in the United States, and is more than twice the size of the second-largest US state, Texas. Alaska is the seventh largest sub-national division in the world, and if it was an independent nation would be the 19th largest country in the world. In 2010, Alaska ranked as the 47th state by population, ahead of North Dakota, Vermont, and Wyoming (and Washington, D.C.). Alaska is by far the largest US state by area, and the tenth wealthiest (per capita income). Alaska also has the largest Quaker population (by percentage) of any state.
+\Predicted Summary:
+is a US state on the northwest extremity of the country's West Coast, just across the Bering Strait . Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined . Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined, and the seventh-largest subnational division in the world .
+
+GT:
+While it has one of the smallest state economies in the country, Alaska's per capita income is among the highest, owing to a diversified economy dominated by fishing, natural gas, and oil, all of which it has in abundance. Unimak Island, for example, is home to Mount Shishaldin, which is an occasionally smoldering volcano that rises to 10,000 feet (3,000 m) above the North Pacific. It is the most perfect volcanic cone on Earth, even more symmetrical than Japan's Mount Fuji. The 2018 gross state product was $55 billion, 48th in the nation. Its per capita personal income for 2018 was $73,000, ranking 7th in the nation. According to a 2013 study by Phoenix Marketing International, Alaska had the fifth-largest number of millionaires per capita in the United States, with a ratio of 6.75 percent. The Alaska Permanent Fund is a constitutionally authorized appropriation of oil revenues, established by voters in 1976 to manage a surplus in state petroleum revenues from oil, largely in anticipation of the then recently constructed Trans-Alaska Pipeline System. Starting in 1982, dividends from the fund's annual growth have been paid out each year to eligible Alaskans, ranging from an initial $1,000 in 1982 (equal to three years' payout, as the distribution of payments was held up in a lawsuit over the distribution scheme) to $3,269 in 2008 (which included a one-time $1,200 "Resource Rebate").
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1322314049586777, 0.41025641025641024, 0.19999999999999998, 0.125]
+[0.016597510373443983, 0.05194805194805195, 0.025157232704402517, 0.015723270440251572]
+[0.08677685950413223, 0.2692307692307692, 0.13125, 0.08203125]
+
+
+SBERT sim. Score: 0.450900673866272

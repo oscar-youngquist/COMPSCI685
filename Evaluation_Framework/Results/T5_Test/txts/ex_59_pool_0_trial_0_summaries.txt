@@ -1,0 +1,21 @@
+Document:
+mississippi
+
+Intent:
+How is the government structured in this state?
+
+Input:
+However, black residents were deprived of all political power after white legislators passed a new state constitution in 1890 specifically to "eliminate the nigger from politics", according to the state's Democratic governor, James K. Vardaman. In 1954 the state had created the Mississippi State Sovereignty Commission, a tax-supported agency, chaired by the Governor, that claimed to work for the state's image but effectively spied on activists and passed information to the local White Citizens' Councils to suppress black activism. As with all other US states and the federal government, Mississippi's government is based on the separation of legislative, executive and judicial power. Executive authority in the state rests with the Governor, currently Tate Reeves (R). The lieutenant governor, currently Delbert Hosemann (R), is elected on a separate ballot. Both the governor and lieutenant governor are elected to four-year terms of office. Unlike the federal government, but like many other US States, most of the heads of major executive departments are elected by the citizens of Mississippi rather than appointed by the governor. Mississippi is one of five states that elects its state officials in odd-numbered years (the others are Kentucky, Louisiana, New Jersey and Virginia). Mississippi holds elections for these offices every four years, always in the year preceding presidential elections. Section 265 of the Constitution of the State of Mississippi declares that "No person who denies the existence of a Supreme Being shall hold any office in this state."
+\Predicted Summary:
+, the Mississippi River, which flows along and defines its western boundary . Mississippi is bordered to the north by Tennessee; to the east by Alabama; to the south by the Gulf of Mexico; to the southwest by Louisiana; and to the northwest by Arkansas . Mississippi is the 32nd largest and 34th-most populous of the 50 US states .
+
+GT:
+As with all other US states and the federal government, Mississippi's government is based on the separation of legislative, executive and judicial power. Executive authority in the state rests with the Governor, currently Tate Reeves (R). The lieutenant governor, currently Delbert Hosemann (R), is elected on a separate ballot. Both the governor and lieutenant governor are elected to four-year terms of office. Unlike the federal government, but like many other US States, most of the heads of major executive departments are elected by the citizens of Mississippi rather than appointed by the governor. Mississippi is one of five states that elects its state officials in odd-numbered years (the others are Kentucky, Louisiana, New Jersey and Virginia). Mississippi holds elections for these offices every four years, always in the year preceding presidential elections.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2, 0.47368421052631576, 0.28125, 0.17578125]
+[0.029850746268656716, 0.07142857142857142, 0.042105263157894736, 0.026315789473684206]
+[0.13333333333333333, 0.3157894736842105, 0.18750000000000003, 0.1171875]
+
+
+SBERT sim. Score: 0.4775145649909973

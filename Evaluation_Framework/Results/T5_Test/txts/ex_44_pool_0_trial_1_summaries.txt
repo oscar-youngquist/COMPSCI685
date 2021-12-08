@@ -1,0 +1,21 @@
+Document:
+maryland
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Both eastern and western Maryland are, however, dotted with cities of regional importance, such as Ocean City, Princess Anne, and Salisbury on the Eastern Shore and Cumberland, Frostburg, and Hancock in Western Maryland.Southern Maryland is still somewhat rural, but suburbanization from Washington, D.C. has encroached significantly since the 1960s; important local population centers include Lexington Park, Prince Frederick, California, and Waldorf. The Washington, D.C. metropolitan area is also home to large Eritrean and Somali communities. Amish/Mennonite communities are found in St. Mary's, Garrett, and Cecil counties. In addition, a number of educational and medical research institutions are located in the state. Attractions in Baltimore include the Harborplace, the Baltimore Aquarium, Fort McHenry, as well as the Camden Yards baseball stadium.Ocean City on the Atlantic Coast has been a popular beach destination in summer, particularly since the Chesapeake Bay Bridge was built in 1952 connecting the Eastern Shore to the more populated Maryland cities. The state capital of Annapolis offers sites such as the state capitol building, the historic district, and the waterfront.Maryland also has several sites of interest to military history, given Maryland's role in the American Civil War and in the War of 1812. Other attractions include the historic and picturesque towns along the Chesapeake Bay, such as Saint Mary's, Maryland's first colonial settlement and original capital.
+\Predicted Summary:
+, Maryland is a state in the Mid-Atlantic region of the Southern United States . Maryland is named after the English Queen Henrietta Maria, known in England as Queen Mary . MERR--lnd is a state in the Mid-Atlantic region of the Southern United States . it is named after the English Queen Henrietta Maria, known in England as Queen Mary .
+
+GT:
+African Americans form a sizable portion of the state's population, nearly 30 percent in 2010. Most are descendants of people transported to the area as slaves from West Africa, and many are of mixed race, including European and Native American ancestry. Concentrations of African Americans live in Baltimore City, Prince George's County, a suburb of Washington, D.C., where many work; Charles County, western parts of Baltimore County, and the southern Eastern Shore. The Ethiopian community of Greater DC was historically based in Washington, D.C.'s Adams Morgan and Shaw neighborhoods, but as the community has grown, many Ethiopians have settled in Silver Spring. Smaller but much older Irish populations can be found in Southern Maryland, with some roots dating as far back as the early Maryland colony. This population, however, still remains culturally very active and yearly festivals are held. Large ethnic minorities include Eastern Europeans such as Croatians, Belarusians, Russians and Ukrainians. Following the dissolution of the Soviet Union, Yugoslavia, and Czechoslovakia, many immigrants from Eastern Europe came to the United States—12 percent of whom currently reside in Maryland. The state capital of Annapolis offers sites such as the state capitol building, the historic district, and the waterfront.Maryland also has several sites of interest to military history, given Maryland's role in the American Civil War and in the War of 1812. Other attractions include the historic and picturesque towns along the Chesapeake Bay, such as Saint Mary's, Maryland's first colonial settlement and original capital.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10236220472440945, 0.4406779661016949, 0.1661341853035144, 0.10383386581469649]
+[0.023715415019762844, 0.10344827586206896, 0.03858520900321544, 0.024115755627009645]
+[0.07874015748031496, 0.3389830508474576, 0.12779552715654952, 0.07987220447284345]
+
+
+SBERT sim. Score: 0.45132845640182495

@@ -1,0 +1,21 @@
+Document:
+washington
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Washington is the nation's largest producer of apples, hops, pears, red raspberries, spearmint oil, and sweet cherries, and ranks high in the production of apricots, asparagus, dry edible peas, grapes, lentils, peppermint oil, and potatoes. Livestock and livestock products make important contributions to total farm revenue, and the commercial fishing of salmon, halibut, and bottomfish makes a significant contribution to the state's economy. Despite the limited amount of rainfall, agriculture is an extremely important business throughout much of Eastern Washington, as the soil is highly productive and irrigation, aided by dams along the Columbia River, is fairly widespread. Early prominent industries in the state included agriculture and lumber. Other industries that developed in the state included fishing, salmon canning and mining. Significant business within the state include the design and manufacture of aircraft (Boeing), automotive (Paccar), computer software development (Microsoft, Bungie, Amazon, Nintendo of America, Valve, ArenaNet), telecom (T-Mobile US), electronics, biotechnology, aluminum production, lumber and wood products (Weyerhaeuser), mining, beverages (Starbucks, Jones Soda), real estate (John L. Scott, Colliers International, Windermere Real Estate, Kidder Mathews), retail (Nordstrom, Eddie Bauer, Car Toys, Costco, R.E.I. Washington is a leading agricultural state. Washington also ranked second in the nation in production of fall potatoes (a quarter of the nation's production), nectarines, apricots, grapes (all varieties taken together), sweet corn for processing (a quarter of the nation's production), and summer onions (a fifth of the nation's production).
+\Predicted Summary:
+, and is the 13th most populous state, with more than 7.6 million people . Washington is the 18th largest state, with an area of 71,362 square miles (184,827 km2), and the 13th most populous state . the state is the second most populous state on the west coast and in the Western United States, after California .
+
+GT:
+Livestock and livestock products make important contributions to total farm revenue, and the commercial fishing of salmon, halibut, and bottomfish makes a significant contribution to the state's economy. Washington ranks second only to California in wine production. Manufacturing industries in Washington include aircraft and missiles, shipbuilding, and other transportation equipment, food processing, metals and metal products, chemicals, and machinery. Significant business within the state include the design and manufacture of aircraft (Boeing), automotive (Paccar), computer software development (Microsoft, Bungie, Amazon, Nintendo of America, Valve, ArenaNet), telecom (T-Mobile US), electronics, biotechnology, aluminum production, lumber and wood products (Weyerhaeuser), mining, beverages (Starbucks, Jones Soda), real estate (John L. Scott, Colliers International, Windermere Real Estate, Kidder Mathews), retail (Nordstrom, Eddie Bauer, Car Toys, Costco, R.E.I. ), and tourism (Alaska Airlines, Expedia, Inc.). At over 80 percent the state has significant amounts of hydroelectric power generation. Also, significant amounts of trade with Asia pass through the ports of the Puget Sound, leading to a number six ranking of US ports (ranking combines twenty-foot equivalent units (TEUs) moved and infrastructure index).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1111111111111111, 0.3508771929824561, 0.16877637130801687, 0.10548523206751055]
+[0.0111731843575419, 0.03571428571428571, 0.017021276595744678, 0.010638297872340425]
+[0.07222222222222222, 0.22807017543859648, 0.10970464135021096, 0.06856540084388184]
+
+
+SBERT sim. Score: 0.45985135436058044

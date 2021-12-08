@@ -1,0 +1,21 @@
+Document:
+alaska
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined, and the seventh-largest subnational division in the world. While it has one of the smallest state economies in the country, Alaska's per capita income is among the highest, owing to a diversified economy dominated by fishing, natural gas, and oil, all of which it has in abundance. United States armed forces bases and tourism are also a significant part of the economy; more than half the state is federally owned public land, including a multitude of national forests, parks, and wildlife refuges. At 663,268 square miles (1,717,856 km2) in area, Alaska is by far the largest state in the United States, and is more than twice the size of the second-largest US state, Texas. Alaska is the seventh largest sub-national division in the world, and if it was an independent nation would be the 19th largest country in the world. In 2010, Alaska ranked as the 47th state by population, ahead of North Dakota, Vermont, and Wyoming (and Washington, D.C.). Alaska is by far the largest US state by area, and the tenth wealthiest (per capita income). The oil and gas industry dominates the Alaskan economy, with more than 80% of the state's revenues derived from petroleum extraction. Agricultural production is primarily for consumption within the state and includes nursery stock, dairy products, vegetables, and livestock.
+\Predicted Summary:
+is a US state on the northwest extremity of the country's West Coast, just across the Bering Strait . Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined . Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined, and the seventh-largest subnational division in the world .
+
+GT:
+Alaska ( (listen); Aleut: Alax̂sxax̂; Inupiaq: Alaasikaq; Pacific Gulf Yupik: Alas'kaaq; Tlingit: Anáaski) is a US state on the northwest extremity of the country's West Coast, just across the Bering Strait. Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined, and the seventh-largest subnational division in the world. The state is bordered by Canada's Yukon and British Columbia to the east (making it the only state to border a Canadian territory), the Gulf of Alaska and the Pacific Ocean to the south and southwest, the Bering Sea, Bering Strait, and Chukchi Sea to the west and the Arctic Ocean to the north. The 1968 discovery of oil at Prudhoe Bay and the 1977 completion of the Trans-Alaska Pipeline System led to an oil boom. Royalty revenues from oil have funded large state budgets from 1980 onward. The 2018 gross state product was $55 billion, 48th in the nation. The oil and gas industry dominates the Alaskan economy, with more than 80% of the state's revenues derived from petroleum extraction. Alaska's main export product (excluding oil and natural gas) is seafood, primarily salmon, cod, Pollock and crab. Agriculture represents a very small fraction of the Alaskan economy. Alaska has vast energy resources, although its oil reserves have been largely depleted. Major oil and gas reserves were found in the Alaska North Slope (ANS) and Cook Inlet basins, but according to the Energy Information Administration, by February 2014 Alaska had fallen to fourth place in the nation in crude oil production after Texas, North Dakota, and California. Alaska's economy depends heavily on increasingly expensive diesel fuel for heating, transportation, electric power and light.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.22297297297297297, 0.8461538461538461, 0.35294117647058826, 0.22058823529411767]
+[0.17627118644067796, 0.6753246753246753, 0.2795698924731183, 0.17473118279569894]
+[0.19256756756756757, 0.7307692307692307, 0.3048128342245989, 0.19050802139037432]
+
+
+SBERT sim. Score: 0.7000387907028198

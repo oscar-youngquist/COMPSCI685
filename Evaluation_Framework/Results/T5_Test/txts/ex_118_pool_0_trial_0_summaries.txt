@@ -1,0 +1,21 @@
+Document:
+mississippi
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+In addition to its namesake, major rivers in Mississippi include the Big Black River, the Pearl River, the Yazoo River, the Pascagoula River, and the Tombigbee River. (See: Lists of cities, towns and villages, census-designated places, metropolitan areas, micropolitan areas, and counties in Mississippi) The southeastern part of the state is dominated by longleaf pine, in both uplands and lowland flatwoods and Sarracenia bogs. The rest of the state, primarily north of Interstate 20 not including the prairie regions, consists of mixed pine-hardwood forest, common species being loblolly pine, oaks (e.g., water oak), hickories, sweetgum, and elm. Mississippi is home to 63 crayfish species, including at least 17 endemic species. Americans of Scots-Irish, English and Scottish ancestry are present throughout the state. The Magnolia Independent Film Festival, still held annually in Starkville, is the first and oldest in the state. While the state has had a reputation for being racist, Mississippi musicians created new forms by combining and creating variations on musical traditions from Africa, African American traditions, and the musical traditions of white Southerners strongly shaped by Scots-Irish and other styles.
+\Predicted Summary:
+, the Mississippi River, which flows along and defines its western boundary . Mississippi is bordered to the north by Tennessee; to the east by Alabama; to the south by the Gulf of Mexico; to the southwest by Louisiana; and to the northwest by Arkansas . Mississippi is the 32nd largest and 34th-most populous of the 50 US states .
+
+GT:
+While Mississippi has been especially known for its music and literature, it has embraced other forms of art. Its strong religious traditions have inspired striking works by outsider artists who have been shown nationally. Jackson established the USA International Ballet Competition, which is held every four years. This ballet competition attracts the most talented young dancers from around the world. Musicians of the state's Delta region were historically significant to the development of the blues. While the state has had a reputation for being racist, Mississippi musicians created new forms by combining and creating variations on musical traditions from Africa, African American traditions, and the musical traditions of white Southerners strongly shaped by Scots-Irish and other styles. The Delta Blues Museum there is visited by tourists from all over the world. From opera star Leontyne Price to the alternative rock band 3 Doors Down, to gulf and western singer Jimmy Buffett, modern rock/jazz/world music guitarist-producer Clifton Hyde, to rappers David Banner, Big K.R.I.T. and Afroman, Mississippi musicians have been significant in all genres.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.18232044198895028, 0.5789473684210527, 0.2773109243697479, 0.17331932773109246]
+[0.016666666666666666, 0.05357142857142857, 0.02542372881355932, 0.015889830508474576]
+[0.09392265193370165, 0.2982456140350877, 0.14285714285714285, 0.08928571428571427]
+
+
+SBERT sim. Score: 0.4154362976551056

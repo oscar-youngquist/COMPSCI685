@@ -1,0 +1,21 @@
+Document:
+mississippi
+
+Intent:
+How is the weather of the state?
+
+Input:
+Mississippi has a humid subtropical climate classification. Mississippi has a humid subtropical climate with long, hot and humid summers, and short, mild winters. The temperature varies little statewide in the summer; however, in winter, the region near Mississippi Sound is significantly warmer than the inland portion of the state. The recorded temperature in Mississippi has ranged from −19 °F (−28 °C), in 1966, at Corinth in the northeast, to 115 °F (46 °C), in 1930, at Holly Springs in the north. Heavy snowfall rarely occurs, but isn't unheard of, such as during the New Year's Eve 1963 snowstorm. Yearly precipitation generally increases from north to south, with the regions closer to the Gulf being the most humid. Thus, Clarksdale, in the northwest, gets about 50 in (1,300 mm) of precipitation annually and Biloxi, in the south, about 61 in (1,500 mm). Small amounts of snow fall in northern and central Mississippi The late summer and fall is the seasonal period of risk for hurricanes moving inland from the Gulf of Mexico, especially in the southern part of the state. As in the rest of the Deep South, thunderstorms are common in Mississippi, especially in the southern part of the state.
+\Predicted Summary:
+, Mississippi is the largest and 34th-most populous state in the United States. Mississippi is the largest and largest metropolitan area in the country. Mississippi is bordered to the north by Tennessee; to the east by Alabama; to the south by the Gulf of Mexico; and to the northwest by Arkansas. Mississippi is the largest and 34th-most populous state in the country.
+
+GT:
+Mississippi has a humid subtropical climate classification. Mississippi has a humid subtropical climate with long, hot and humid summers, and short, mild winters. Temperatures average about 81 °F (27 °C) in July and about 42 °F (6 °C) in January. The temperature varies little statewide in the summer; however, in winter, the region near Mississippi Sound is significantly warmer than the inland portion of the state. The recorded temperature in Mississippi has ranged from −19 °F (−28 °C), in 1966, at Corinth in the northeast, to 115 °F (46 °C), in 1930, at Holly Springs in the north. Heavy snowfall rarely occurs, but isn't unheard of, such as during the New Year's Eve 1963 snowstorm. Yearly precipitation generally increases from north to south, with the regions closer to the Gulf being the most humid. Thus, Clarksdale, in the northwest, gets about 50 in (1,300 mm) of precipitation annually and Biloxi, in the south, about 61 in (1,500 mm). Small amounts of snow fall in northern and central Mississippi The late summer and fall is the seasonal period of risk for hurricanes moving inland from the Gulf of Mexico, especially in the southern part of the state. On average, Mississippi has around 27 tornadoes annually; the northern part of the state has more tornadoes earlier in the year and the southern part a higher frequency later in the year.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15948275862068967, 0.5873015873015873, 0.2508474576271187, 0.15677966101694918]
+[0.047619047619047616, 0.1774193548387097, 0.07508532423208192, 0.0469283276450512]
+[0.11637931034482758, 0.42857142857142855, 0.18305084745762712, 0.11440677966101695]
+
+
+SBERT sim. Score: 0.43193724751472473
