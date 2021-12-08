@@ -1,0 +1,21 @@
+Document:
+massachusetts
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+The state has been ranked as one of the top states in the United States for citizens to live in, as well as one of the most expensive. As of 2015, Massachusetts was estimated to be the third-most densely populated US state, with 871.0 people per square mile, behind New Jersey and Rhode Island. CNBC's list of "Top States for Business for 2014" has recognized Massachusetts as the 25th-best state in the nation for business, and for the second year in a row the state was ranked by Bloomberg as the most innovative state in America. Massachusetts is the second-largest cranberry-producing state in the union after Wisconsin. In February 2017, US News & World Report ranked Massachusetts the best state in the United States based upon 60 metrics including healthcare, education, crime, infrastructure, opportunity, economy, and government. In 2014 and 2015, Massachusetts was ranked as the most energy efficient state the United States while Boston is the most efficient city, but it had the fourth-highest average residential retail electricity prices of any state. Massachusetts is easily one of the most Democratic states in the country. Massachusetts generally ranks highly among states in most health and disease prevention categories.
+\Predicted Summary:
+, the,,, and. Supreme J. Massachusetts, is the most populous state in the Northeastern United States. Massachusetts is the capital of Massachusetts. Massachusetts is the most populous state in the Northeastern United States. Massachusetts borders on the Atlantic Ocean to the east, the states of Connecticut and Rhode Island to the south, and New Hampshire and Vermont to the west. Massachusetts is the capital of Massachusetts.
+
+GT:
+The Kennedy family was prominent in Massachusetts politics in the 20th century. In 1966, Massachusetts became the first state to directly elect an African American to the US senate with Edward Brooke. Massachusetts is the 7th-smallest state in the United States. Most of Massachusetts has a humid continental climate, with cold winters and warm summers. To combat this change, the state of Massachusetts’ Executive Office of Energy and Environmental Affairs has outlined a path to decarbonization of the state’s economy. On April 22, 2020, the Secretary of Energy and Environmental Affairs of Massachusetts, Kathleen A. Theoharides, released a Determination of Statewide Emissions limits for 2050. To ensure that the Commonwealth experiences warming no more than 1.5°C of pre-industrialization levels, the state will work to achieve net-zero emissions and the overall reduction of greenhouse gas emissions by 85 percent by the year 2050. In 2018, Massachusetts's overall educational system was ranked the top among all fifty US states by US News & World Report. The per capita personal income in 2012 was $53,221, making it the third-highest state in the nation. As of January 2020, Massachusetts state general minimum wage is $13.50 per hour while the minimum wage for tipped workers is $5.55 an hour. Massachusetts has gradually shifted from a Republican-leaning state to one largely dominated by Democrats; the 1952 victory of John F. Kennedy over incumbent Senatortor Henry Cabot Lodge, Jr. is seen as a watershed moment in this transformation. Massachusetts generally ranks highly among states in most health and disease prevention categories. In 2015, the United Health Foundation ranked the state as third-healthiest overall.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1618705035971223, 0.6923076923076923, 0.26239067055393583, 0.1639941690962099]
+[0.04332129963898917, 0.1875, 0.07038123167155425, 0.04398826979472141]
+[0.11151079136690648, 0.47692307692307695, 0.18075801749271136, 0.11297376093294459]
+
+
+SBERT sim. Score: 0.5053161382675171

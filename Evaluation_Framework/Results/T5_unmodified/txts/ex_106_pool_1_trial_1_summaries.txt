@@ -1,0 +1,21 @@
+Document:
+new_jersey
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Northwestern New Jersey is more wooded, rural, and mountainous. For further information on various ethnoracial groups and neighborhoods prominently featured within New Jersey, see the following articles: New Jersey has continued to play a prominent role as a US cultural nexus. Like every state, New Jersey has its own cuisine, religious communities, museums, and halls of fame. New Jersey has long been an important origin for both rock and rap music. Founded in 1974 in Kansas City, Missouri, as the Kansas City Scouts, the team played in Denver, Colorado, as the Colorado Rockies from 1976 until the spring of 1982 when naval architect, businessman, and Jersey City native John J. McMullen purchased, renamed, and moved the franchise to Brendan Byrne Arena in East Rutherford's Meadowlands Sports Complex. The university also fields men's basketball and baseball programs. It has two campuses, each with its own sports teams. The teams at the Metropolitan Campus are known as the FDU Knights, and compete in the Northeast Conference and NCAA Division I. (The others are Kentucky, Louisiana, Mississippi, and Virginia.) Visitors and residents take advantage of and contribute to performances at the numerous music, theater, and dance companies and venues located throughout the state, including:
+\Predicted Summary:
+,, New Jersey, and Newark, New Jersey, helped drive the nation's Industrial Revolution . New Jersey was first inhabited by Native Americans for at least 2,800 years . New Jersey was the second-wealthest state by median household income .
+
+GT:
+New Jersey's location at the center of the Northeast megalopolis and its extensive transportation system have put over one-third of all United States residents and many Canadian residents within overnight distance by land. This accessibility to consumer revenue has enabled seaside resorts such as Atlantic City and the remainder of the Jersey Shore, as well as the state's other natural and cultural attractions, to contribute significantly to the record 111 million tourist visits to New Jersey in 2018, providing US$44.7 billion in tourism revenue, directly supporting 333,860 jobs, sustaining more than 531,000 jobs overall including peripheral impacts, and generating US$5 billion in state and local tax revenue. In 1976, a referendum of New Jersey voters approved casino gambling in Atlantic City, where the first legalized casino opened in 1978. New Jersey has continued to play a prominent role as a US cultural nexus. Like every state, New Jersey has its own cuisine, religious communities, museums, and halls of fame. New Jersey is the birthplace of modern inventions such as: FM radio, the motion picture camera, the lithium battery, the light bulb, transistors, and the electric train. New Jersey is known for several foods developed within the region, including Taylor Ham (also known as pork roll), cheesesteaks, and scrapple. Several states with substantial Italian American populations take credit for the development of submarine sandwiches, including New Jersey. New Jersey has long been an important origin for both rock and rap music.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07258064516129033, 0.47368421052631576, 0.1258741258741259, 0.07867132867132867]
+[0.016194331983805668, 0.10810810810810811, 0.028169014084507043, 0.017605633802816902]
+[0.05241935483870968, 0.34210526315789475, 0.09090909090909093, 0.05681818181818181]
+
+
+SBERT sim. Score: 0.4372696578502655

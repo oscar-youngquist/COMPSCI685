@@ -1,0 +1,21 @@
+Document:
+new_york
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+The central part of the state is dominated by the Finger Lakes, a popular vacation and tourist destination. It also connected the burgeoning agricultural production of the Midwest and shipping on the Great Lakes, with the port of New York City. In contrast with New York City's urban landscape, the vast majority of the state's geographic area is dominated by meadows, forests, rivers, farms, mountains, and lakes. Birds of prey that are present in the state are great horned owls, bald eagles, red-tailed hawks, American kestrels, and northern harriers. New York has many state parks and two major forest preserves. The state also has a large manufacturing sector that includes printing and the production of garments, mainly in New York City; and furs, railroad equipment, automobile parts, and bus line vehicles, concentrated in Upstate regions. The New York Agriculture industry is a major producer overall, ranking among the top five states for agricultural products including maple syrup, apples, cherries, cabbage, dairy products, onions, and potatoes. New York is also home to what is widely regarded as the best performing arts schools in the world. Several US national sports halls of fame are or have been situated in New York.
+\Predicted Summary:
+the first Europeans arrived southward from New York to New York . New York is a state in the northeastern United States. It was one of the original thirteen colonies, forming the United States. New York is the 27th largest state. With an estimated population of 8.34 million as of 2019 makes it the fourth most populous city in the world. New York is the most populous city in the world.
+
+GT:
+A global city, New York City is home to the United Nations Headquarters, and has been described as the cultural, financial, and media capital of the world, as well as the world's most economically powerful city. In addition, New York has the largest Puerto Rican, Dominican, and Jamaican American populations in the continental United States.The Chinese population constitutes the fastest-growing nationality in New York State, which is the top destination for new Chinese immigrants, and large-scale Chinese immigration continues into the state. Multiple satellites of the original Manhattan Chinatown, in Brooklyn, and around Flushing, Queens, are thriving as traditionally urban enclaves, while also expanding rapidly eastward into suburban Nassau County, on Long Island. Long Island, including Queens and Nassau County, is also home to several Little Indias (लघु भारत) and a large Koreatown (롱 아일랜드 코리아타운), with large and growing attendant populations of Indian Americans and Korean Americans, respectively. Brooklyn has been a destination for West Indian immigrants of African descent, as well as Asian Indian immigrants. The annual New York City India Day Parade, held on or approximately every August 15 since 1981, is the world's largest Indian Independence Day parade outside of India.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2358974358974359, 0.647887323943662, 0.3458646616541353, 0.2161654135338346]
+[0.07731958762886598, 0.21428571428571427, 0.11363636363636365, 0.07102272727272728]
+[0.13333333333333333, 0.36619718309859156, 0.19548872180451127, 0.12218045112781954]
+
+
+SBERT sim. Score: 0.5037828087806702

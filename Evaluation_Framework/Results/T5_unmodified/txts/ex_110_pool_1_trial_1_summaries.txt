@@ -1,0 +1,21 @@
+Document:
+south_carolina
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+The natural environment is divided from east to west by the Atlantic coastal plain, the Piedmont, and the Blue Ridge Mountains. The environment here is that of the Appalachian-Blue Ridge forests ecoregion. Coastal areas of the state have very mild winters, with high temperatures approaching an average of 60 °F (16 °C) and overnight lows around 40 °F (5–8 °C). Some Primary Statistical Areas of South Carolina overlap with neighbouring states of North Carolina and Georgia They are geographically comprehensive There are also numerous historic sites and museums scattered throughout the state paying homage to many events and periods in the state's history from Native American inhabitation to the present day. Several large venues can house major events, including Colonial Life Arena in Columbia, Bon Secours Wellness Arena in Greenville, and North Charleston Coliseum. There are also countless local festivals throughout the state highlighting many cultural traditions, historical events, and folklore. The state is also home to numerous minor league professional teams. South Carolina is also a top destination for golf and water sports.
+\Predicted Summary:
+, the first state to vote in favor of secession from the Union on December 20, 1868. South Carolina is a state in the Deep South region of the Southern United States . South Carolina is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia . South Carolina is the 40th most extensive and 23rd most populous US state .
+
+GT:
+South Carolina ( (listen)) is a state in the Deep South region of the Southern United States. Culturally, the coastal plain is split into the Lowcountry and the Pee Dee region. The Atlantic Coastal Plain makes up two-thirds of the state. Its eastern border is the Sea Islands, a chain of tidal and barrier islands. South Carolina has a humid subtropical climate (Köppen climate classification Cfa), although high-elevation areas in the Upstate area have fewer subtropical characteristics than areas on the Atlantic coastline. In the summer, South Carolina is hot and humid, with daytime temperatures averaging between 86–93 °F (30–34 °C) in most of the state and overnight lows averaging 70–75 °F (21–24 °C) on the coast and from 66–73 °F (19–23 °C) inland. Coastal areas of the state have very mild winters, with high temperatures approaching an average of 60 °F (16 °C) and overnight lows around 40 °F (5–8 °C). Snowfall in South Carolina is minimal in the lower elevation areas south and east of Columbia. It is not uncommon for areas along the southernmost coast to not receive measurable snowfall for several years. Although no major league professional sports teams are based in South Carolina, the Carolina Panthers do have training facilities in the state and played their inaugural season's home games at Clemson's Memorial Stadium, however, they now play at Bank of America Stadium in North Carolina. South Carolina is also a top destination for golf and water sports. South Carolina is also home to one of NASCAR's first tracks and its first paved speedway, Darlington Raceway, located northwest of Florence.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1588447653429603, 0.6567164179104478, 0.2558139534883721, 0.15988372093023254]
+[0.07608695652173914, 0.3181818181818182, 0.12280701754385966, 0.07675438596491228]
+[0.10830324909747292, 0.44776119402985076, 0.1744186046511628, 0.10901162790697674]
+
+
+SBERT sim. Score: 0.5457248687744141

@@ -1,0 +1,21 @@
+Document:
+oklahoma
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The state ranks third in the nation for production of natural gas, is the 27th-most agriculturally productive state, and also ranks 5th in production of wheat. The government sector provides the most jobs, with 339,300 in 2011, followed by the transportation and utilities sector, providing 279,500 jobs, and the sectors of education, business, and manufacturing, providing 207,800, 177,400, and 132,700 jobs, respectively. Among the state's largest industries, the aerospace sector generates $11 billion annually. In 2005, international exports from Oklahoma's manufacturing industry totaled $4.3 billion, accounting for 3.6 percent of its economic impact. Tire manufacturing, meat processing, oil and gas equipment manufacturing, and air conditioner manufacturing are the state's largest manufacturing industries. The 27th-most agriculturally productive state, Oklahoma is fifth in cattle production and fifth in production of wheat. The state had 85,500 farms in 2012, collectively producing $4.3 billion in animal products and fewer than one billion dollars in crop output with more than $6.1 billion added to the state's gross domestic product.
+\Predicted Summary:
+, Oklahoma is the 20th-most extensive and the 28th-most populous of the 50 United States . Oklahoma is a state in the South Central region of the United States, bordered by the state of Texas on the south and west . Oklahoma is the 20th-most extensive and the 28th-most populous of the 50 United States .
+
+GT:
+Though oil has historically dominated the state's economy, a collapse in the energy industry during the 1980s led to the loss of nearly 90,000 energy-related jobs between 1980 and 2000, severely damaging the local economy. The government sector provides the most jobs, with 339,300 in 2011, followed by the transportation and utilities sector, providing 279,500 jobs, and the sectors of education, business, and manufacturing, providing 207,800, 177,400, and 132,700 jobs, respectively. In total, aerospace accounts for more than 10 percent of Oklahoma's industrial output, and it is one of the top 10 states in aerospace engine manufacturing. Oklahoma is the nation's third-largest producer of natural gas, and its fifth-largest producer of crude oil. Ten years later in 2019, 53.5 % of electricity was produced from natural gas and 34.6 % from wind power. The 27th-most agriculturally productive state, Oklahoma is fifth in cattle production and fifth in production of wheat. Approximately 5.5 percent of American beef comes from Oklahoma, while the state produces 6.1 percent of American wheat, 4.2 percent of American pig products, and 2.2 percent of dairy products.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16243654822335024, 0.5714285714285714, 0.25296442687747034, 0.15810276679841895]
+[0.05102040816326531, 0.18181818181818182, 0.0796812749003984, 0.04980079681274901]
+[0.10152284263959391, 0.35714285714285715, 0.15810276679841895, 0.09881422924901186]
+
+
+SBERT sim. Score: 0.5589789152145386

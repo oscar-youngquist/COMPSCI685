@@ -1,0 +1,21 @@
+Document:
+delaware
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Since the turn of the 20th century, Delaware is also a de facto onshore corporate haven, in which by virtue of its corporate laws, the state is the domicile of over 50% of all NYSE-listed business and 60% of the Fortune 500. It still has a substantial presence in the state. Delaware's agricultural output consists of poultry, nursery stock, soybeans, dairy products and corn. The state's largest employers are: More than half of all US publicly traded companies, and 63% of the Fortune 500, are incorporated in Delaware. The state's attractiveness as a corporate haven is largely because of its business-friendly corporation law. Gambling provides significant revenue to the state. Wilmington is the state's most populous city (70,635) and its economic hub. In 2015, tourism in Delaware generated $3.1 billion, which makes up five percent of the state's GDP. Delaware saw 8.5 million visitors in 2015, with the tourism industry employing 41,730 people, making it the 4th largest private employer in the state.
+\Predicted Summary:
+,,,,,, the Delaware River, named after Thomas West, 3rd Baron De La Warr (1577–1618) who was the ruling governor of the Colony of Virginia at the time Europeans first explored the river . Delaware is the second-smallest and sixth-least populous state, but also the sixth-most densely populated . Delaware is the second-smallest and sixth-least populous state, but also the sixth-most densely populated
+
+GT:
+Since the turn of the 20th century, Delaware is also a de facto onshore corporate haven, in which by virtue of its corporate laws, the state is the domicile of over 50% of all NYSE-listed business and 60% of the Fortune 500. Delaware's agricultural output consists of poultry, nursery stock, soybeans, dairy products and corn. More than half of all US publicly traded companies, and 63% of the Fortune 500, are incorporated in Delaware. The state's attractiveness as a corporate haven is largely because of its business-friendly corporation law. Franchise taxes on Delaware corporations supply about a fifth of the state's revenue. Although "USA (Delaware)" ranked as the world's most opaque jurisdiction on the Tax Justice Network's 2009 Financial Secrecy Index, the same group's 2011 Index ranks the US fifth and does not specify Delaware. In Delaware, there are more than a million registered corporations, meaning there are more corporations than people. Gambling provides significant revenue to the state. For instance, the casino at Delaware Park Racetrack provided more than $100 million to the state in 2010. According to SeaGrant Delaware, the Delaware beaches generate $6.9 billion annually and over $711 million in tax revenue. In 2015, tourism in Delaware generated $3.1 billion, which makes up five percent of the state's GDP.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10762331838565023, 0.36363636363636365, 0.1660899653979239, 0.10380622837370243]
+[0.018018018018018018, 0.06153846153846154, 0.027874564459930317, 0.017421602787456445]
+[0.08071748878923767, 0.2727272727272727, 0.12456747404844289, 0.07785467128027682]
+
+
+SBERT sim. Score: 0.47351932525634766

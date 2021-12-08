@@ -1,0 +1,21 @@
+Document:
+oklahoma
+
+Intent:
+What drives the economy in this state?
+
+Input:
+A major producer of natural gas, oil, and agricultural products, Oklahoma relies on an economic base of aviation, energy, telecommunications, and biotechnology. Oklahoma is host to a diverse range of sectors including aviation, energy, transportation equipment, food processing, electronics, and telecommunications. The state ranks third in the nation for production of natural gas, is the 27th-most agriculturally productive state, and also ranks 5th in production of wheat. Four Fortune 500 companies and six Fortune 1000 companies are headquartered in Oklahoma, and it has been rated one of the most business-friendly states in the nation, with the 7th-lowest tax burden in 2007. Among the state's largest industries, the aerospace sector generates $11 billion annually. In total, aerospace accounts for more than 10 percent of Oklahoma's industrial output, and it is one of the top 10 states in aerospace engine manufacturing. The state is the top manufacturer of tires in North America and contains one of the fastest-growing biotechnology industries in the nation. Tire manufacturing, meat processing, oil and gas equipment manufacturing, and air conditioner manufacturing are the state's largest manufacturing industries. According to Forbes magazine, Oklahoma City-based Devon Energy Corporation, Chesapeake Energy Corporation, and SandRidge Energy Corporation are the largest private oil-related companies in the nation, and all Oklahoma's Fortune 500 companies are energy-related. Tulsa's ONEOK and Williams Companies are the state's largest and second-largest companies respectively, also ranking as the nation's second- and third-largest companies in the field of energy, according to Fortune magazine. The magazine also placed Devon Energy as the second-largest company in the mining and crude oil-producing industry in the nation, while Chesapeake Energy ranks seventh respectively in that sector and Oklahoma Gas & Electric ranks as the 25th-largest gas and electric utility company. The 27th-most agriculturally productive state, Oklahoma is fifth in cattle production and fifth in production of wheat. The state had 85,500 farms in 2012, collectively producing $4.3 billion in animal products and fewer than one billion dollars in crop output with more than $6.1 billion added to the state's gross domestic product. Poultry and swine are its second- and third-largest agricultural industries.
+\Predicted Summary:
+, Oklahoma is the 20th-most extensive and the 28th-most populous of the 50 United States . Oklahoma is a state in the South Central region of the United States, bordered by the state of Texas on the south and west . Oklahoma is the 20th-most extensive and the 28th-most populous of the 50 United States .
+
+GT:
+Oklahoma is host to a diverse range of sectors including aviation, energy, transportation equipment, food processing, electronics, and telecommunications. Oklahoma is an important producer of natural gas, aircraft, and food. The state ranks third in the nation for production of natural gas, is the 27th-most agriculturally productive state, and also ranks 5th in production of wheat. Among the state's largest industries, the aerospace sector generates $11 billion annually. Tulsa is home to the largest airline maintenance base in the world, which serves as the global maintenance and engineering headquarters for American Airlines. The state is the top manufacturer of tires in North America and contains one of the fastest-growing biotechnology industries in the nation. Oklahoma is the nation's third-largest producer of natural gas, and its fifth-largest producer of crude oil. As a whole, the oil energy industry contributes $35 billion to Oklahoma's gross domestic product (GDP), and employees of the state's oil-related companies earn an average of twice the state's typical yearly income.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1791907514450867, 0.5535714285714286, 0.27074235807860264, 0.16921397379912664]
+[0.05232558139534884, 0.16363636363636364, 0.07929515418502203, 0.04955947136563877]
+[0.13872832369942195, 0.42857142857142855, 0.2096069868995633, 0.13100436681222705]
+
+
+SBERT sim. Score: 0.5186131000518799

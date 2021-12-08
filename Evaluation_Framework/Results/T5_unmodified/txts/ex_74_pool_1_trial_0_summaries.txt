@@ -1,0 +1,21 @@
+Document:
+minnesota
+
+Intent:
+How is the government structured in this state?
+
+Input:
+There are also a number of municipal utilities. As with the federal government of the United States, power in Minnesota is divided into three branches: executive, legislative, and judicial. The executive branch is headed by the governor. The governor has a cabinet consisting of the leaders of various state government agencies, called commissioners. The other elected constitutional offices are secretary of state, attorney general, and state auditor. Constitutional officeholders: The Minnesota Legislature is a bicameral body consisting of the Senatorte and the House of Representatives. The state has 67 districts, each with about 60,000 people. Each district has one senator and two representatives, each senatorial district being divided into A and B sections for members of the House. Senatortors serve for four years and representatives for two years. Minnesota's court system has three levels. Two specialized courts within administrative agencies have been established: the workers' compensation court of appeals, and the tax court, which deals with non-criminal tax cases. In addition to the city and county levels of government found in the United States, Minnesota has other entities that provide governmental oversight and planning. Many lakes and rivers are overseen by watershed districts and soil and water conservation districts. The state has eight congressional districts; they are represented by Jim Hagedorn (1st district; R), Angie Craig (2nd; DFL), Dean Phillips (3rd; DFL), Betty McCollum (4th; DFL), Ilhan Omar (5th; DFL), Tom Emmer (6th; R), Michelle Fischbach (7th; R), and Pete Stauber (8th; R).
+\Predicted Summary:
+,,, and the North Woods, used for mining, forestry, and recreation. Minnesota is a center of the Upper Midwest, Great Lakes, and northern region of the United States . Minnesota is the 12th largest in area and the 22nd most populous of the US states .
+
+GT:
+As with the federal government of the United States, power in Minnesota is divided into three branches: executive, legislative, and judicial. The executive branch is headed by the governor. The governor has a cabinet consisting of the leaders of various state government agencies, called commissioners. The other elected constitutional offices are secretary of state, attorney general, and state auditor. The Minnesota Legislature is a bicameral body consisting of the Senatorte and the House of Representatives. Each district has one senator and two representatives, each senatorial district being divided into A and B sections for members of the House. Senatortors serve for four years and representatives for two years. Minnesota's court system has three levels. Most cases start in the district courts, which are courts of general jurisdiction. There are 279 district court judgeships in ten judicial districts. Appeals from the trial courts and challenges to certain governmental decisions are heard by the Minnesota Court of Appeals, consisting of 19 judges who typically sit in three-judge panels. The seven-justice Minnesota Supreme Court hears all appeals from the tax court, the workers' compensation court of appeals, first-degree murder convictions, and discretionary appeals from the court of appeals; it also has original jurisdiction over election disputes. Two specialized courts within administrative agencies have been established: the workers' compensation court of appeals, and the tax court, which deals with non-criminal tax cases. In addition to the city and county levels of government found in the United States, Minnesota has other entities that provide governmental oversight and planning. Regional development commissions (RDCs) provide technical assistance to local governments in broad multi-county area of the state. Today, the tribal governments are divided into 11 semi-autonomous reservations that negotiate with the US and the state on a bilateral basis:
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0903010033444816, 0.627906976744186, 0.15789473684210528, 0.09868421052631579]
+[0.03691275167785235, 0.2619047619047619, 0.06470588235294117, 0.04044117647058824]
+[0.06688963210702341, 0.46511627906976744, 0.11695906432748537, 0.07309941520467836]
+
+
+SBERT sim. Score: 0.4433513879776001

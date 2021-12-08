@@ -1,0 +1,21 @@
+Document:
+connecticut
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Geographically the state is part of New England, and although its cultural history stems from the region, in the modern age large sections of it are increasingly connected to and associated with the tri-state area with New York and New Jersey. It is known as the "Constitution State", the "Nutmeg State", the "Provisions State", and the "Land of Steady Habits". Despite Connecticut's relatively small size, it features wide regional variations in its landscape; for example, in the northwestern Litchfield Hills, it features rolling mountains and horse farms, whereas in areas to the east of New Haven along the coast, the landscape features coastal marshes, beaches, and large scale maritime activities. This affected the agricultural economy in the state. Most of western and southern Connecticut (particularly the Gold Coast) is strongly associated with New York City Foxwoods Resort Casino and Mohegan Sun are the two biggest tourist draws and number among the state's largest employers The state hosts several major sporting events.
+\Predicted Summary:
+,,,, and the Long Island Sound. Connecticut is the southernmost state in the Northeastern United States. Connecticut is the third smallest state by area, the 29th most populous, and the fourth most densely populated of the fifty states. Connecticut is the third smallest state by area, the 29th most populous, and the fourth most densely populated of
+
+GT:
+Connecticut's economic output in 2019 as measured by gross domestic product was $289 billion, up from $277.9 billion in 2018. Connecticut's per capita personal income in 2019 was estimated at $79,087, the highest of any state. According to a 2018 study by Phoenix Marketing International, Connecticut had the third-largest number of millionaires per capita in the United States, with a ratio of 7.75%. Connecticut ranked third in the nation for educational performance, according to Education Week's Quality Counts 2018 report. It earned an overall score of 83.5 out of 100 points. On average, the country received a score of 75.2.Connecticut posted a B-plus in the Chance-for-Success category, ranking fourth on factors that contribute to a person's success both within and outside the K-12 education system.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15714285714285714, 0.39285714285714285, 0.22448979591836732, 0.14030612244897958]
+[0.02158273381294964, 0.05454545454545454, 0.030927835051546393, 0.019329896907216496]
+[0.11428571428571428, 0.2857142857142857, 0.16326530612244897, 0.10204081632653061]
+
+
+SBERT sim. Score: 0.5279009938240051

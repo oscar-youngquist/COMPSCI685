@@ -1,0 +1,21 @@
+Document:
+louisiana
+
+Intent:
+How is the government structured in this state?
+
+Input:
+Louisiana is the only US state with political subdivisions termed parishes, which are equivalent to counties. He extended patronage control through every branch of Louisiana's state government. Gov. Most parishes have an elected government known as the Police Jury, dating from the colonial days. It is the legislative and executive government of the parish, and is elected by the voters. Its members are called Jurors, and together they elect a president as their chairman. A more limited number of parishes operate under home rule charters, electing various forms of government. Louisiana is unique among US states in using a system for its state and local elections similar to that of modern France. Its troopers have statewide jurisdiction with power to enforce all laws of the state, including city and parish ordinances. The sheriffs are responsible for general law enforcement in their respective parishes. The judiciary of Louisiana is defined under the Constitution and law of Louisiana and is composed of the Louisiana Supreme Court, the Louisiana Circuit Courts of Appeal, the District Courts, the Justice of the Peace Courts, the Mayor's Courts, the City Courts, and the Parish Courts. The chief justice of the Louisiana Supreme Court is the chief administrator of the judiciary. Its administration is aided by the Judiciary Commission of Louisiana, the Louisiana Attorney Disciplinary Board, and the Judicial Council of the Supreme Court of Louisiana.
+\Predicted Summary:
+,, and African cultures. Louisiana is the 19th-smallest by area and the 25th most populous of the 50 US states. Louisiana is the 19th-smallest by area and the 25th most populous of the 50 US states. Louisiana is bordered by the state of Texas to the west, Arkansas to the north, Mississippi to the east, and the Gulf of Mexico to the south.
+
+GT:
+The current Louisiana governor is Democrat John Bel Edwards. Louisiana is divided into 64 parishes (the equivalent of counties in most other states). Most parishes have an elected government known as the Police Jury, dating from the colonial days. It is the legislative and executive government of the parish, and is elected by the voters. Its members are called Jurors, and together they elect a president as their chairman. A more limited number of parishes operate under home rule charters, electing various forms of government. This include mayor–council, council–manager (in which the council hires a professional operating manager for the parish), and others. The Louisiana political and legal structure has maintained several elements from the times of French and Spanish governance. Louisiana is unique among US states in using a system for its state and local elections similar to that of modern France. All candidates, regardless of party affiliation, run in a nonpartisan blanket primary (or "jungle primary") on Election Day. If no candidate has more than 50% of the vote, the two candidates with the highest vote totals compete in a runoff election approximately one month later. The judiciary of Louisiana is defined under the Constitution and law of Louisiana and is composed of the Louisiana Supreme Court, the Louisiana Circuit Courts of Appeal, the District Courts, the Justice of the Peace Courts, the Mayor's Courts, the City Courts, and the Parish Courts. The chief justice of the Louisiana Supreme Court is the chief administrator of the judiciary. Its administration is aided by the Judiciary Commission of Louisiana, the Louisiana Attorney Disciplinary Board, and the Judicial Council of the Supreme Court of Louisiana.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1299638989169675, 0.5625, 0.21114369501466276, 0.13196480938416422]
+[0.03985507246376811, 0.1746031746031746, 0.06489675516224187, 0.04056047197640118]
+[0.09747292418772563, 0.421875, 0.15835777126099707, 0.09897360703812316]
+
+
+SBERT sim. Score: 0.4659650921821594

@@ -1,0 +1,21 @@
+Document:
+montana
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The economy is primarily based on agriculture, including ranching and cereal grain farming. Other significant economic resources include oil, gas, coal, mining, and lumber. The health care, service, and government sectors also are significant to the state's economy. A series of major mining discoveries in the western third of the state starting in 1862 found gold, silver, copper, lead, and coal (and later oil) which attracted tens of thousands of miners to the area. The largest mining operations were in the city of Butte, which had important silver deposits and gigantic copper deposits. The war created a boom for Montana mining, lumber, and farming interests, as demand for war materials and food increased. The wheat farms in eastern Montana make the state a major producer; the wheat has a relatively high protein content, thus commands premium prices. Significant industries exist for lumber and mineral extraction; the state's resources include gold, coal, silver, talc, and vermiculite.
+\Predicted Summary:
+Montana Territory was added in 1863 to a bill by the United States House Committee on Territories . the name Montana comes from the Latin word montaa, meaning "mountain" or more broadly "mountainous country" the name Montana comes from the Latin word montanea, meaning "mountain" or "mountainous country"
+
+GT:
+The economy is primarily based on agriculture, including ranching and cereal grain farming. Other significant economic resources include oil, gas, coal, mining, and lumber. The health care, service, and government sectors also are significant to the state's economy. Montana's fastest-growing sector is tourism; nearly 13 million annual tourists visit Glacier National Park, Yellowstone National Park, Beartooth Highway, Flathead Lake, Big Sky Resort, and other attractions. Cattle ranching has been central to Montana's history and economy since Johnny Grant began wintering cattle in the Deer Lodge Valley in the 1850s and traded cattle fattened in fertile Montana valleys with emigrants on the Oregon Trail. Significant industries exist for lumber and mineral extraction; the state's resources include gold, coal, silver, talc, and vermiculite. Tourism is also important to the economy, with more than ten million visitors a year to Glacier National Park, Flathead Lake, the Missouri River headwaters, the site of the Battle of Little Bighorn, and three of the five entrances to Yellowstone National Park.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08284023668639054, 0.2978723404255319, 0.12962962962962965, 0.08101851851851852]
+[0.0, 0.0, 0.0, 0.0]
+[0.05325443786982249, 0.19148936170212766, 0.08333333333333334, 0.052083333333333336]
+
+
+SBERT sim. Score: 0.3019014000892639

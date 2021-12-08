@@ -1,0 +1,21 @@
+Document:
+oklahoma
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Western ranchers, Native American tribes, Southern settlers, and eastern oil barons have shaped the state's cultural predisposition, and its largest cities have been named among the most underrated cultural destinations in the United States. In the state's largest urban areas, pockets of jazz culture flourish, and Native American, Mexican American, and Asian American communities produce music and art of their respective cultures. The cities of Norman, Lawton, and Stillwater, among others, also host well-reviewed community theatre companies. Annual ethnic festivals and events take place throughout the state such as Native American powwows and ceremonial events, and include festivals (as examples) in Scottish, Irish, German, Italian, Vietnamese, Chinese, Czech, Jewish, Arab, Mexican and African-American communities depicting cultural heritage or traditions. Oklahoma City is home to a few reoccurring events and festivals. Collegiate athletics are a popular draw in the state.
+\Predicted Summary:
+, Oklahoma is the 20th-most extensive and the 28th-most populous of the 50 United States . Oklahoma is a state in the South Central region of the United States, bordered by the state of Texas on the south and west . Oklahoma is the 20th-most extensive and the 28th-most populous of the 50 United States .
+
+GT:
+Residents of Oklahoma are associated with traits of Southern hospitality—the 2006 Catalogue for Philanthropy (with data from 2004) ranks Oklahomans 7th in the nation for overall generosity. In the state's largest urban areas, pockets of jazz culture flourish, and Native American, Mexican American, and Asian American communities produce music and art of their respective cultures. Prominent theatre companies in Oklahoma include, in the capital city, Oklahoma City Theatre Company, Carpenter Square Theatre, Oklahoma Shakespeare in the Park, and CityRep. Oklahoma is in the nation's middle percentile in per capita spending on the arts, ranking 17th, and contains more than 300 museums. The Oklahoma City Museum of Art contains the most comprehensive collection of glass sculptures by artist Dale Chihuly in the world, and Oklahoma City's National Cowboy & Western Heritage Museum documents the heritage of the American Western frontier. The Oklahoma City Pride Parade has been held annually in late June since 1987 in the gay district of Oklahoma City on 39th and Penn. In 2006, Tulsa's Oktoberfest was named one of the top 10 in the world by USA Today and one of the top German food festivals in the nation by Bon Appétit magazine.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12935323383084577, 0.4642857142857143, 0.20233463035019456, 0.1264591439688716]
+[0.035, 0.12727272727272726, 0.054901960784313725, 0.03431372549019608]
+[0.1044776119402985, 0.375, 0.1634241245136187, 0.10214007782101167]
+
+
+SBERT sim. Score: 0.4817623794078827

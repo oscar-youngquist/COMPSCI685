@@ -1,0 +1,21 @@
+Document:
+nevada
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+It is also known as the "Battle Born State" because it achieved statehood during the Civil War (the words "Battle Born" also appear on the state flag); as the "Sagebrush State", for the native plant of the same name; and as the "Sage-hen State". American Indians of the Paiute, Shoshone, and Washoe tribes inhabited what is now Nevada. Mining booms drew many Greek and Eastern European immigrants to Nevada. Native American tribes in Nevada are the Koso, Paiute, Panamint, Shoshoni, Walapi, Washoe and Ute tribes. The culture of these places differs significantly from major metropolitan areas. People in these rural counties tend to be native Nevada residents, unlike in the Las Vegas and Reno areas, where the vast majority of the population was born in another state. Ranching also has a long tradition in rural Nevada. Due to heavy growth in the southern portion of the state, there is a noticeable divide between the politics of northern and southern Nevada.
+\Predicted Summary:
+is a state in the Western United States. Nevada is bordered by Oregon to the northwest, Idaho to the northeast, California to the west, and Arizona to the southeast . Nevada is the 7th-most extensive, but the 9th-least densely populated of the US states . Nevada is officially known as the "Silver State" because of the importance of silver to its history and economy .
+
+GT:
+Unregulated gambling was commonplace in the early Nevada mining towns but was outlawed in 1909 as part of a nationwide anti-gambling crusade. Because of subsequent declines in mining output and the decline of the agricultural sector during the Great Depression, Nevada again legalized gambling on March 19, 1931, with approval from the legislature. By the late 20th century, many immigrants from China, Japan, Korea, the Philippines, Bangladesh, India, and Vietnam came to the Las Vegas metropolitan area. The city now has one of America's most prolific Asian American communities, with a mostly Chinese and Taiwanese area known as "Chinatown" west of I-15 on Spring Mountain Road. In 2016, Nevada voters approved Question 2, which legalized the possession, transportation and cultivation of personal use amounts of marijuana for adults age 21 years and older, and authorized the creation of a regulated market for the sale of marijuana to adults age 21 years and older through state-licensed retail outlets. Prostitution is legal in parts of Nevada in licensed brothels, but only counties with populations under 400,000 have the option to legalize it. Although prostitution is not a major part of the Nevada economy, employing roughly 300 women as independent contractors, it is a very visible endeavor.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1722488038277512, 0.5625, 0.26373626373626374, 0.16483516483516483]
+[0.03365384615384615, 0.1111111111111111, 0.05166051660516605, 0.03228782287822878]
+[0.10047846889952153, 0.328125, 0.15384615384615385, 0.09615384615384616]
+
+
+SBERT sim. Score: 0.4938809871673584

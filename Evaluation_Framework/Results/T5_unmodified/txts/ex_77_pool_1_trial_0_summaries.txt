@@ -1,0 +1,21 @@
+Document:
+georgia
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Taking advantage of Atlanta's status as a transportation hub, in 1991 USestablished its headquarters in a suburb. Atlanta boasts the world's busiest airport, as measured both by passenger traffic and by aircraft traffic. Hartsfield–Jackson Atlanta International Airport moves over 650,000 tons of cargo annually through three cargo complexes (two million square feet of floor space). Georgia is a major railway hub, has the most extensive rail system in the Southeast, and has the service of two Class I railroads, CSX and Norfolk Southern, plus 24 short-line railroads. Rail shipments include intermodal, bulk, automotive and every other type of shipment. Georgia has an extensive interstate highway system including 1,200 miles of interstate highway and 20,000 miles of federal and state highways that facilitate the efficient movement of more than $620 billion of cargo by truck each year. Georgia's six interstates connect to 80 percent of the US population within a two-day truck drive. Georgia's primary commercial airport is Hartsfield–Jackson Atlanta International Airport (ATL), the world's busiest airport. In addition to Hartsfield–Jackson, there are eight other airports serving major commercial traffic in Georgia. Savannah/Hilton Head International Airport is the second-busiest airport in the state as measured by passengers served, and is the only additional international airport. Other commercial airports (ranked in order of passengers served) are located in Augusta, Columbus, Albany, Macon, Brunswick, Valdosta, and Athens. Formed in 1971 as strictly a bus system, MARTA operates a network of bus routes linked to a rapid transit system consisting of 48 miles (77 km) of rail track with 38 train stations. MARTA operates almost exclusively in Fulton and DeKalb counties, with bus service to two destinations in Cobb county and the Cumberland Transfer Center next to the Cumberland Mall, and a single rail station in Clayton County at Hartsfield–Jackson Atlanta International Airport.
+\Predicted Summary:
+,,, the Mississippi Territory, to French Louisiana at the Mississippi River. Georgia is the 9th most populous metropolitan area in the United States . Georgia is the 9th most populous metropolitan area in the United States and contains about 57% of its entire population . Georgia is the 9th most populous metropolitan area in the United States and contains about 57% of the entire population .
+
+GT:
+Georgia's major Interstate Highways are I-20, I-75, I-85, and I-95. Georgia's primary commercial airport is Hartsfield–Jackson Atlanta International Airport (ATL), the world's busiest airport. In addition to Hartsfield–Jackson, there are eight other airports serving major commercial traffic in Georgia. Savannah/Hilton Head International Airport is the second-busiest airport in the state as measured by passengers served, and is the only additional international airport. Other commercial airports (ranked in order of passengers served) are located in Augusta, Columbus, Albany, Macon, Brunswick, Valdosta, and Athens. The Georgia Ports Authority manages two deepwater seaports, at Savannah and Brunswick, and two river ports, at Bainbridge and Columbus. The Port of Savannah is a major US seaport on the Atlantic coast. The Metropolitan Atlanta Rapid Transit Authority (MARTA) is the principal rapid transit system in the Atlanta metropolitan area. Formed in 1971 as strictly a bus system, MARTA operates a network of bus routes linked to a rapid transit system consisting of 48 miles (77 km) of rail track with 38 train stations. MARTA operates almost exclusively in Fulton and DeKalb counties, with bus service to two destinations in Cobb county and the Cumberland Transfer Center next to the Cumberland Mall, and a single rail station in Clayton County at Hartsfield–Jackson Atlanta International Airport. MARTA also operates a separate paratransit service for disabled customers.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12608695652173912, 0.46774193548387094, 0.19863013698630136, 0.12414383561643834]
+[0.026200873362445413, 0.09836065573770492, 0.04137931034482758, 0.02586206896551724]
+[0.09130434782608696, 0.3387096774193548, 0.14383561643835616, 0.08989726027397262]
+
+
+SBERT sim. Score: 0.49826735258102417

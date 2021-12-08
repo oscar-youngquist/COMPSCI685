@@ -1,0 +1,21 @@
+Document:
+georgia
+
+Intent:
+What drives the economy in this state?
+
+Input:
+If Georgia were a stand-alone country, it would be the 28th largest economy in the world, based on data from 2005. For the five years through November 2017, Georgia has been ranked the top state (number 1) in the nation to do business, and has been recognized as number 1 for business and labor climate in the nation, number 1 in business climate in the nation, number 1 in the nation in workforce training and as having a "Best in Class" state economic development agency. The state is the number one producer of pecans in the world, with the region around Albany in southwest Georgia being the center of Georgia's pecan production. Southern Congressmen have attracted major investment by the US military in the state. The leading area of energy consumption is the industrial sector because Georgia "is a leader in the energy-intensive wood and paper products industry". The state's other top markets are Savannah (95th largest), Augusta (115th largest), and Columbus (127th largest).
+\Predicted Summary:
+,,, the Mississippi Territory, to French Louisiana at the Mississippi River. Georgia is the 9th most populous metropolitan area in the United States . Georgia is the 9th most populous metropolitan area in the United States and contains about 57% of its entire population . Georgia is the 9th most populous metropolitan area in the United States and contains about 57% of the entire population .
+
+GT:
+Atlanta has been the site of growth in finance, insurance, technology, manufacturing, real estate, service, logistics, transportation, film, communications, convention and trade show businesses and industries, while tourism is important to the economy. Atlanta is a global city, also called world city or sometimes alpha city or world center, as a city generally considered to be an important node in the global economic system. The Port of Savannah is the fourth largest seaport in the United States, importing and exporting a total of 2.3 million TEUs per year. Hartsfield–Jackson Atlanta International Airport moves over 650,000 tons of cargo annually through three cargo complexes (two million square feet of floor space). Southern Congressmen have attracted major investment by the US military in the state. The several installations include Moody Air Force Base, Fort Stewart, Hunter Army Airfield, Naval Submarine Base Kings Bay, Fort Benning, Robins Air Force Base, Fort Gordon, Marine Corps Logistics Base Albany, Dobbins Air Reserve Base, Coast Guard Air Station Savannah and Coast Guard Station Brunswick. These installations command numerous jobs and business for related contractors.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1270718232044199, 0.3709677419354839, 0.18930041152263374, 0.1183127572016461]
+[0.03333333333333333, 0.09836065573770492, 0.049792531120331954, 0.031120331950207466]
+[0.10497237569060773, 0.3064516129032258, 0.15637860082304525, 0.09773662551440329]
+
+
+SBERT sim. Score: 0.3529232144355774

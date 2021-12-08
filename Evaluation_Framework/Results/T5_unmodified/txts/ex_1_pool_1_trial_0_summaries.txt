@@ -1,0 +1,21 @@
+Document:
+florida
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+In the pre-automobile era, railroads played a key role in the state's development, particularly in coastal areas. Numerous other railroads were built all over the interior of the state. Much of the state is at or near sea level. This is the third-most diverse state in the union, behind California and Texas, both larger states. The fast-growing I-4 corridor area, which runs through Central Florida and connects the cities of Daytona Beach, Orlando, and Tampa/St. The area is often seen as a merging point of the conservative northern portion of the state and the liberal southern portion, making it the biggest swing area in the state. Many coastal cities include some of the wealthiest per-capita areas in the United States. Florida is the leading state for sales of powerboats. Florida has many seaports that serve container ships, tank ships, and cruise lines. The world's top three busiest cruise ports are found in Florida with PortMiami as the busiest and Port Canaveral and Port Everglades as the second and third busiest. Port Tampa Bay meanwhile is the largest in the state, having the most tonnage. Florida's highway system contains 1,495 mi (2,406 km) of interstate highway, and 10,601 mi (17,061 km) of non-interstate highway, such as state highways and US Highways. Florida's interstates, state highways, and US Highways are maintained by the Florida Department of Transportation. Intercity bus travel, which utilizes Florida's highway system, is provided by Greyhound, Megabus, and Amtrak Thruway Motorcoach. Florida's primary interstate routes include: Florida's seven large hub and medium hub airports, as classified by the FAA, are the following:
+\Predicted Summary:
+is the second largest state in the world. Florida is the third-most populous and the 22nd-most extensive of the 50 United States. Florida is the third-most populous state in the southeastern region of the United States. Florida is the principal location of the Seminole Wars (1816 – 1858), the longest and most extensive of Indian Wars in United States history. Florida was restored to the Union on January 10, 1861.
+
+GT:
+Florida's highway system contains 1,495 mi (2,406 km) of interstate highway, and 10,601 mi (17,061 km) of non-interstate highway, such as state highways and US In 2011, there were about 9,000 retail gas stations in the state. Floridians consumed 21 million gallons of gasoline daily in 2011, ranking it third in national use behind California and Texas.Motorists have the 45th lowest rate of car insurance in the US 24% are uninsured. Drivers between 15 and 19 years of age averaged 364 car crashes a year per ten thousand licensed Florida drivers in 2010. Drivers 70 and older averaged 95 per 10,000 during the same time frame. Intercity bus travel, which utilizes Florida's highway system, is provided by Greyhound, Megabus, and Amtrak Thruway Motorcoach. Before the construction of routes under the Federal Aid Highway Act of 1956, Florida began construction of a long cross-state toll road, Florida's Turnpike. The first section, from Fort Pierce south to the Golden Glades Interchange was completed in 1957. Florida has 131 public airports. Florida's seven large hub and medium hub airports, as classified by the FAA, are the following:
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15736040609137056, 0.4305555555555556, 0.23048327137546468, 0.14405204460966542]
+[0.015306122448979591, 0.04225352112676056, 0.02247191011235955, 0.014044943820224719]
+[0.1065989847715736, 0.2916666666666667, 0.15613382899628253, 0.0975836431226766]
+
+
+SBERT sim. Score: 0.40573471784591675

@@ -1,0 +1,21 @@
+Document:
+georgia
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+The colonial settlement of large numbers of Scottish American, English American and Scotch-Irish Americans in the mountains and piedmont, and coastal settlement by some English Americans and African Americans, have strongly influenced the state's culture in food, language and music. The Georgia Film, Music and Digital Entertainment Office promotes filming in the state. Georgia overtook California in 2016 as the state location with the most feature films produced. Television shows like Stranger Things, The Walking Dead, and The Vampire Diaries are filmed in the state. There are a number of performing arts venues in the state, among the largest are the Fox Theatre, and the Alliance Theatre at the Woodruff Arts Center, both on Peachtree Street in Midtown Atlanta as well as the Cobb Energy Performing Arts Centre, located in Northwest Atlanta. Production was then moved to Burbank, California. A number of notable musicians in various genres of popular music are from Georgia. The city of Athens sparked an influential rock music scene in the 1980s and 1990s.
+\Predicted Summary:
+,,, the Mississippi Territory, to French Louisiana at the Mississippi River. Georgia is the 9th most populous metropolitan area in the United States . Georgia is the 9th most populous metropolitan area in the United States and contains about 57% of its entire population . Georgia is the 9th most populous metropolitan area in the United States and contains about 57% of the entire population .
+
+GT:
+Georgia's major fine art museums include the High Museum of Art and the Michael C. Carlos Museum, both in Atlanta; the Georgia Museum of Art on the campus of the University of Georgia in Athens; Telfair Museum of Art and the SCAD Museum of Art in Savannah; and the Morris Museum of Art in Augusta. The state theatre of Georgia is the Springer Opera House located in Columbus. The Atlanta Symphony Orchestra is the most widely recognized orchestra and largest arts organization in the southeastern United States. There are a number of performing arts venues in the state, among the largest are the Fox Theatre, and the Alliance Theatre at the Woodruff Arts Center, both on Peachtree Street in Midtown Atlanta as well as the Cobb Energy Performing Arts Centre, located in Northwest Atlanta. Authors have grappled with Georgia's complex history. Popular novels related to this include Margaret Mitchell's Gone with the Wind, Olive Ann Burns' Cold Sassy Tree, and Alice Walker's The Color Purple. A number of noted authors, poets and playwrights have lived in Georgia, such as James Dickey, Flannery O'Connor, Sidney Lanier, Frank Yerby and Lewis Grizzard. A number of notable musicians in various genres of popular music are from Georgia. Among them are Ray Charles (whose many hits include "Georgia on My Mind", now the official state song), and Gladys Knight (known for her Georgia-themed song, "Midnight Train to Georgia"). The city of Athens sparked an influential rock music scene in the 1980s and 1990s. Among the groups achieving their initial prominence there were R.E.M., Widespread Panic, and the B-52's. Since the 1990s, various hip-hop and R&B musicians have included top-selling artists such as Outkast, Usher, Ludacris, TLC, B.o.B., and Ciara. Atlanta is mentioned in a number of these artists' tracks, such as Usher's "A-Town Down" reference in his 2004 hit "Yeah!" (which also features Atlanta artists Lil Jon and Ludacris), Ludacris' "Welcome to Atlanta", Outkast's album "ATLiens", and B.o.B. 's multiple references to Decatur, Georgia, as in his hit song "Strange Clouds".
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08123249299719888, 0.46774193548387094, 0.13842482100238665, 0.08651551312649165]
+[0.025280898876404494, 0.14754098360655737, 0.043165467625899276, 0.02697841726618705]
+[0.06722689075630252, 0.3870967741935484, 0.11455847255369928, 0.07159904534606204]
+
+
+SBERT sim. Score: 0.4257987439632416

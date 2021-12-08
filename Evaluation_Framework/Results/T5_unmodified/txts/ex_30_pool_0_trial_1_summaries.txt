@@ -1,0 +1,21 @@
+Document:
+maryland
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+As of 2015, Maryland had the highest median household income of any state, owing in large part to its proximity to Washington, D.C. and a highly diversified economy spanning manufacturing, services, higher education, and biotechnology. In 2007, Forbes.com rated Maryland as the fifth "Greenest" state in the country behind three of the Pacific States and Vermont. In addition, a number of educational and medical research institutions are located in the state. The state as a whole is heavily industrialized, with a booming economy and influential technology centers. Maryland has a large food-production sector. Maryland's food-processing plants are the most significant type of manufacturing by value in the state. The top income tax bracket of 9.45 percent is the fifth highest combined state and local income tax rates in the country, behind New York City's 11.35 percent, California's 10.3 percent, Rhode Island's 9.9 percent, and Vermont's 9.5 percent.
+\Predicted Summary:
+, Maryland is a state in the Mid-Atlantic region of the Southern United States . Maryland is named after the English Queen Henrietta Maria, known in England as Queen Mary . MERR--lnd is a state in the Mid-Atlantic region of the Southern United States . it is named after the English Queen Henrietta Maria, known in England as Queen Mary .
+
+GT:
+As of 2011, 58.0 percent of Maryland's population younger than age 1 were minority background. According to the US Census Bureau, Maryland households are currently the wealthiest in the country, with a 2013 median household income of $72,483 which puts it ahead of New Jersey and Connecticut, which are second and third respectively. Maryland's economy benefits from the state's proximity to the federal government in Washington, D.C. with an emphasis on technical and administrative tasks for the defense/aerospace industry and bio-research laboratories, as well as staffing of satellite government headquarters in the suburban or exurban Baltimore/Washington area. Maryland has a large food-production sector. A large component of this is commercial fishing, centered in the Chesapeake Bay, but also including activity off the short Atlantic seacoast. Education Week ranked Maryland #1 in its nationwide 2009–2013 Quality Counts reports. The College Board's 9th Annual AP Report to the Nation also ranked Maryland first.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13496932515337423, 0.3728813559322034, 0.1981981981981982, 0.12387387387387387]
+[0.012345679012345678, 0.034482758620689655, 0.01818181818181818, 0.011363636363636364]
+[0.09202453987730061, 0.2542372881355932, 0.13513513513513511, 0.08445945945945946]
+
+
+SBERT sim. Score: 0.45540565252304077

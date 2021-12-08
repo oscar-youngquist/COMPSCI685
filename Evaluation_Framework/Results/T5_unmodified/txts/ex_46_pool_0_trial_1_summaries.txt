@@ -1,0 +1,21 @@
+Document:
+maryland
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Nearby supplies of natural resources along with railroads fostered its growth into a major manufacturing center. Mining other than construction materials is virtually limited to coal, which is located in the mountainous western part of the state. The state as a whole is heavily industrialized, with a booming economy and influential technology centers. Maryland has a large food-production sector. Agriculture is oriented to dairy farming (especially in foothill and piedmont areas) for nearby large city milksheads plus specialty perishable horticulture crops, such as cucumbers, watermelons, sweet corn, tomatoes, muskmelons, squash, and peas (Source:USDA Crop Profiles). Maryland's food-processing plants are the most significant type of manufacturing by value in the state.
+\Predicted Summary:
+, Maryland is a state in the Mid-Atlantic region of the Southern United States . Maryland is named after the English Queen Henrietta Maria, known in England as Queen Mary . MERR--lnd is a state in the Mid-Atlantic region of the Southern United States . it is named after the English Queen Henrietta Maria, known in England as Queen Mary
+
+GT:
+Maryland's economy benefits from the state's proximity to the federal government in Washington, D.C. with an emphasis on technical and administrative tasks for the defense/aerospace industry and bio-research laboratories, as well as staffing of satellite government headquarters in the suburban or exurban Baltimore/Washington area. Ft. Meade serves as the headquarters of the Defense Information Systems Agency, United States Cyber Command, and the National Security Agency/Central Security Service. In addition, a number of educational and medical research institutions are located in the state. In fact, the various components of The Johns Hopkins University and its medical research facilities are now the largest single employer in the Baltimore area. Altogether, white collar technical and administrative workers comprise 25 percent of Maryland's labor force, attributable in part to nearby Maryland being a part of the Washington Metro Area where the federal government office employment is relatively high. Manufacturing, while large in dollar value, is highly diversified with no sub-sector contributing over 20 percent of the total.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13953488372093023, 0.4067796610169492, 0.20779220779220778, 0.12987012987012986]
+[0.03508771929824561, 0.10344827586206896, 0.052401746724890834, 0.03275109170305677]
+[0.10465116279069768, 0.3050847457627119, 0.15584415584415584, 0.09740259740259741]
+
+
+SBERT sim. Score: 0.4010789692401886

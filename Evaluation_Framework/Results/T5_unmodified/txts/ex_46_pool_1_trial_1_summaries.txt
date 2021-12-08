@@ -1,0 +1,21 @@
+Document:
+montana
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The economy is primarily based on agriculture, including ranching and cereal grain farming. Other significant economic resources include oil, gas, coal, mining, and lumber. The health care, service, and government sectors also are significant to the state's economy. The war created a boom for Montana mining, lumber, and farming interests, as demand for war materials and food increased. The wheat farms in eastern Montana make the state a major producer; the wheat has a relatively high protein content, thus commands premium prices. Significant industries exist for lumber and mineral extraction; the state's resources include gold, coal, silver, talc, and vermiculite.
+\Predicted Summary:
+Montana Territory was added in 1863 to a bill by the United States House Committee on Territories . the name Montana comes from the Latin word montaa, meaning "mountain" or more broadly "mountainous country" the name Montana comes from the Latin word montanea, meaning "mountain" or "mountainous country"
+
+GT:
+The economy is primarily based on agriculture, including ranching and cereal grain farming. Other significant economic resources include oil, gas, coal, mining, and lumber. The health care, service, and government sectors also are significant to the state's economy. Montana's fastest-growing sector is tourism; nearly 13 million annual tourists visit Glacier National Park, Yellowstone National Park, Beartooth Highway, Flathead Lake, Big Sky Resort, and other attractions. Montana is a relative hub of beer microbrewing, ranking third in the nation in number of craft breweries per capita in 2011. Significant industries exist for lumber and mineral extraction; the state's resources include gold, coal, silver, talc, and vermiculite. Ecotaxes on resource extraction are numerous. Tourism is also important to the economy, with more than ten million visitors a year to Glacier National Park, Flathead Lake, the Missouri River headwaters, the site of the Battle of Little Bighorn, and three of the five entrances to Yellowstone National Park.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08227848101265822, 0.2765957446808511, 0.12682926829268293, 0.07926829268292683]
+[0.0, 0.0, 0.0, 0.0]
+[0.056962025316455694, 0.19148936170212766, 0.0878048780487805, 0.0548780487804878]
+
+
+SBERT sim. Score: 0.28093212842941284

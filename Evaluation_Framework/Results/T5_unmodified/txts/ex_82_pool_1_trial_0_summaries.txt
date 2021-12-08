@@ -1,0 +1,21 @@
+Document:
+iowa
+
+Intent:
+What drives the economy in this state?
+
+Input:
+In the latter half of the 20th century, Iowa's agricultural economy made the transition to a diversified economy of advanced manufacturing, processing, financial services, information technology, biotechnology, and green energy production. CNBC's list of "Top States for Business in 2010" has recognized Iowa as the sixth best state in the nation. If measured by gross state product, for 2005 it was $113.5 billion. Manufacturing is the largest sector of Iowa's economy, with $20.8 billion (21%) of Iowa's 2003 gross state product. Major manufacturing sectors include food processing, heavy machinery, and agricultural chemicals. Though industrial-scale, commodity agriculture predominates in much of the state, Iowa has seen growth in the organic farming sector. As of 2007, the direct production and sale of conventional agricultural commodities contributed only about 3.5% of Iowa's gross state product. In 2008, the 92,600 farms in Iowa produced 19% of the nation's corn, 17% of the soybeans, 30% of the hogs, and 14% of the eggs.
+\Predicted Summary:
+is the 26th most extensive in total area and the 30th most populous of the 50 US states . Iowa is bordered by the Mississippi River to the east and the Missouri River and Big Sioux River to the west . Iowa is the only state whose east and west borders are formed almost entirely by rivers .
+
+GT:
+CNBC's list of "Top States for Business in 2010" has recognized Iowa as the sixth best state in the nation. Iowa was also ranked 10th in "Economy", 12th in "Business Friendliness", 16th in "Education", 17th in both "Cost of Living" and "Quality of Life", 20th in "Workforce", 29th in "Technology and Innovation", 32nd in "Transportation" and the lowest ranking was 36th in "Access to Capital". While Iowa is often viewed as a farming state, agriculture is a relatively small portion of the state's diversified economy, with manufacturing, biotechnology, finance and insurance services, and government services contributing substantially to Iowa's economy. If the economy is measured by gross domestic product, in 2005 Iowa's GDP was about $124 billion. Manufacturing is the largest sector of Iowa's economy, with $20.8 billion (21%) of Iowa's 2003 gross state product. Major manufacturing sectors include food processing, heavy machinery, and agricultural chemicals. Food processing is the largest component of manufacturing. Besides processed food, industrial outputs include machinery, electric equipment, chemical products, publishing, and primary metals. Major non-food manufacturing firms with production facilities in Iowa include 3M, Arconic, Amana Corporation, Emerson Electric, The HON Company, SSAB, John Deere, Lennox Manufacturing, Pella Corporation, Procter & Gamble, Vermeer Company, and Winnebago Industries. Iowa ranks fifth in the nation in total number of organic farms.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11261261261261261, 0.45454545454545453, 0.18050541516245489, 0.11281588447653429]
+[0.027149321266968326, 0.1111111111111111, 0.04363636363636363, 0.027272727272727275]
+[0.07657657657657657, 0.3090909090909091, 0.12274368231046931, 0.07671480144404332]
+
+
+SBERT sim. Score: 0.567521870136261

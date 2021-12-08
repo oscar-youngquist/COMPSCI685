@@ -1,0 +1,21 @@
+Document:
+georgia
+
+Intent:
+What drives the economy in this state?
+
+Input:
+If Georgia were a stand-alone country, it would be the 28th largest economy in the world, based on data from 2005. There are 17 Fortune 500 companies and 26 Fortune 1000 companies with headquarters in Georgia, including Home Depot, US Coca-Cola, TSYS, Delta Air Lines, Aflac, Southern Company, Anthem Inc., and SunTrust Banks. For the five years through November 2017, Georgia has been ranked the top state (number 1) in the nation to do business, and has been recognized as number 1 for business and labor climate in the nation, number 1 in business climate in the nation, number 1 in the nation in workforce training and as having a "Best in Class" state economic development agency. Widespread farms produce peanuts, corn, and soybeans across middle and south Georgia. The state is the number one producer of pecans in the world, with the region around Albany in southwest Georgia being the center of Georgia's pecan production. Georgia is in the top five blueberry producers in the United States. Industrial products include textiles and apparel, transportation equipment, food processing, paper products, chemicals and products, and electric equipment. Southern Congressmen have attracted major investment by the US military in the state. The leading area of energy consumption is the industrial sector because Georgia "is a leader in the energy-intensive wood and paper products industry". The state's other top markets are Savannah (95th largest), Augusta (115th largest), and Columbus (127th largest).
+\Predicted Summary:
+,,, the Mississippi Territory, to French Louisiana at the Mississippi River. Georgia is the 9th most populous metropolitan area in the United States . Georgia is the 9th most populous metropolitan area in the United States and contains about 57% of its entire population . Georgia is the 9th most populous metropolitan area in the United States and contains about 57% of the entire population .
+
+GT:
+If Georgia were a stand-alone country, it would be the 28th largest economy in the world, based on data from 2005. There are 17 Fortune 500 companies and 26 Fortune 1000 companies with headquarters in Georgia, including Home Depot, US Coca-Cola, TSYS, Delta Air Lines, Aflac, Southern Company, Anthem Inc., and SunTrust Banks. Atlanta boasts the world's busiest airport, as measured both by passenger traffic and by aircraft traffic. Also, the Port of Savannah is the fourth largest seaport and fastest-growing container seaport in North America, importing and exporting a total of 2.3 million TEUs per year. Atlanta has been the site of growth in finance, insurance, technology, manufacturing, real estate, service, logistics, transportation, film, communications, convention and trade show businesses and industries, while tourism is important to the economy. Atlanta is a global city, also called world city or sometimes alpha city or world center, as a city generally considered to be an important node in the global economic system. For the five years through November 2017, Georgia has been ranked the top state (number 1) in the nation to do business, and has been recognized as number 1 for business and labor climate in the nation, number 1 in business climate in the nation, number 1 in the nation in workforce training and as having a "Best in Class" state economic development agency. The state is the number one producer of pecans in the world, with the region around Albany in southwest Georgia being the center of Georgia's pecan production. Gainesville in northeast Georgia touts itself as the Poultry Capital of the World. Georgia is in the top five blueberry producers in the United States.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0989399293286219, 0.45161290322580644, 0.16231884057971016, 0.10144927536231883]
+[0.031914893617021274, 0.14754098360655737, 0.05247813411078717, 0.03279883381924198]
+[0.07420494699646643, 0.3387096774193548, 0.1217391304347826, 0.07608695652173912]
+
+
+SBERT sim. Score: 0.48783358931541443

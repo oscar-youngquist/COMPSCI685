@@ -1,0 +1,21 @@
+Document:
+nevada
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Amtrak's California Zephyr train uses the Union Pacific's original transcontinental railroad line in daily service from Chicago to Emeryville, California, serving Elko, Winnemucca, and Reno. Amtrak Thruway Motorcoaches provide connecting service from Las Vegas to trains at Needles, California, Los Angeles, and Bakersfield, California; and from Stateline, Nevada, to Sacramento, California. The Union Pacific Railroad has some railroads in the north and south of Nevada. Greyhound Lines provide some bus service to the state. Nevada also is served by several US highways: US 6, US 50, US 93, US 95 and US 395. There are also 189 Nevada state routes. Nevada is one of a few states in the US that do not have a continuous interstate highway linking its two major population centers – the road connection between the Las Vegas and Reno areas is a combination of several different Interstate and US highways. RTC RIDE operates a system of local transit bus service throughout the Reno-Sparks metropolitan area. Other transit systems in the state include Carson City's JAC.
+\Predicted Summary:
+is a state in the Western United States. Nevada is bordered by Oregon to the northwest, Idaho to the northeast, California to the west, and Arizona to the southeast . Nevada is the 7th-most extensive, but the 9th-least densely populated of the US states . Nevada is officially known as the "Silver State" because of the importance of silver to its history and economy .
+
+GT:
+Amtrak's California Zephyr train uses the Union Pacific's original transcontinental railroad line in daily service from Chicago to Emeryville, California, serving Elko, Winnemucca, and Reno. The Union Pacific Railroad has some railroads in the north and south of Nevada. Greyhound Lines provide some bus service to the state. Interstate 15 (I-15) passes through the southern tip of the state, serving Las Vegas and other communities. The state is one of just a few in the country to allow semi-trailer trucks with three trailers – what might be called a "road train" in Australia. RTC Transit is the public transit system in the Las Vegas metropolitan area. The agency is the largest transit agency in the state and operates a network of bus service across the Las Vegas Valley, including the use of The Deuce, double-decker buses, on the Las Vegas Strip and several outlying routes. RTC RIDE operates a system of local transit bus service throughout the Reno-Sparks metropolitan area. Other transit systems in the state include Carson City's JAC. Additionally, a 4-mile (6.4 km) monorail system provides public transportation in the Las Vegas area. McCarran International Airport in Las Vegas is the busiest airport serving Nevada. The Reno-Tahoe International Airport (formerly known as the Reno Cannon International Airport) is the other major airport in the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14601769911504425, 0.515625, 0.22758620689655173, 0.14224137931034483]
+[0.03111111111111111, 0.1111111111111111, 0.048611111111111105, 0.03038194444444444]
+[0.09292035398230089, 0.328125, 0.14482758620689654, 0.09051724137931035]
+
+
+SBERT sim. Score: 0.43123823404312134

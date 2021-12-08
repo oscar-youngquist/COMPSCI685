@@ -1,0 +1,21 @@
+Document:
+texas
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It is the second largest US state by both area (after Alaska) and population (after California). With a growing base of industry, the state leads in many industries, including tourism, agriculture, petrochemicals, energy, computers and electronics, aerospace, and biomedical sciences. Texas has led the US in state export revenue since 2002 and has the second-highest gross state product. This included the Caddoans of Louisiana and Arkansas. Nevertheless, the state also attracted many businessmen and other settlers with more legitimate interests as well. Cotton and lumber became major industries creating new economic booms in various regions of the state. The vast geographic, economic, and cultural diversity within the state itself prohibits easy categorization of the whole state into a recognized region of the United States. These cities are spread out amongst the state. Texas's economy is the second-largest of any country subdivision globally, behind California. Texas's large population, an abundance of natural resources, thriving cities and leading centers of higher education have contributed to a large and diverse economy. The state also leads the nation in production of cotton which is the number one crop grown in the state in terms of value.
+\Predicted Summary:
+, Texas is the second largest state in the US, and the second largest in the US . Texas is the second largest state by both area (after Alaska) and population (after California). Texas shares borders with the states of Louisiana to the east, Arkansas to the northeast, Oklahoma to the north, New Mexico to the west, and the Mexican states of Chihuahua, Coahuila, Nuevo León, and Tamaulipas to the south and southwest .
+
+GT:
+As of 2019, Texas had a gross state product (GSP) of $1.9 trillion, the second highest in the US Its GSP is greater than the GDPs of Brazil, Canada, Russia, South Korea and Spain, which are the world's 9th-, 10th-, 11th-, 12th- and 13th-largest economies, respectively. Texas's economy is the second-largest of any country subdivision globally, behind California. Texas's large population, an abundance of natural resources, thriving cities and leading centers of higher education have contributed to a large and diverse economy. Since oil was discovered, the state's economy has reflected the state of the petroleum industry. In 2010, Site Selection Magazine ranked Texas as the most business-friendly state in the nation, in part because of the state's three-billion-dollar Texas Enterprise Fund. Texas has the joint-highest number of Fortune 500 company headquarters in the United States, along with California. Texas has a "low taxes, low services" reputation. According to the Tax Foundation, Texans' state and local tax burdens rank among the lowest in the nation, 7th lowest nationally; state and local taxes cost $3,580 per capita, or 8.4 percent of resident incomes. Texas is one of seven states that lack a state income tax. Texas has the most farms and the highest acreage in the United States. Texas leads the nation in the production of cattle, horses, sheep, goats, wool, mohair and hay. The state also leads the nation in production of cotton which is the number one crop grown in the state in terms of value. The state grows significant amounts of cereal crops and produce. Texas has a large commercial fishing industry. With mineral resources, Texas leads in creating cement, crushed stone, lime, salt, sand and gravel. Ever since the discovery of oil at Spindletop, energy has been a dominant force politically and economically within the state. Many high-tech companies are located in or have their headquarters in Texas (and Austin in particular), including Dell, Inc., Borland, Forcepoint, Indeed.com, Texas Instruments, Perot Systems, Rackspace and AT&T. Texas's affluence stimulates a strong commercial sector consisting of retail, wholesale, banking and insurance, and construction industries.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11294765840220386, 0.5694444444444444, 0.18850574712643678, 0.11781609195402298]
+[0.04143646408839779, 0.2112676056338028, 0.06928406466512702, 0.04330254041570439]
+[0.08539944903581267, 0.4305555555555556, 0.1425287356321839, 0.08908045977011494]
+
+
+SBERT sim. Score: 0.6735215187072754

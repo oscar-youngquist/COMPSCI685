@@ -1,0 +1,21 @@
+Document:
+ohio
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Of the fifty states, it is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated. Ohio was the first post-colonial free state admitted to the union, and became one of the earliest and most influential industrial powerhouses in the 20th century; although it has transitioned to a more information and service based economy in the 21st century, Ohio remains an industrial state, ranking seventh in GDP as of 2019, with the third largest manufacturing sector and second largest automobile production. Ohio's geographic location has proven to be an asset for economic growth and expansion. While 1/3 of Ohio's land mass is part of the federally defined Appalachian region, only 12.8% of Ohioans live there (1.476 million people.) The rivers in the northern part of the state drain into the northern Atlantic Ocean via Lake Erie and the St. Lawrence River, and the rivers in the southern part of the state drain into the Gulf of Mexico via the Ohio River and then the Mississippi. It encompassed what became Ohio, Indiana, Illinois, Michigan, Wisconsin and part of Minnesota. The industry of Ohio made the state one of the most important states in the Union during the Civil war. This ranks Ohio's economy as the seventh-largest of all fifty states and the District of Columbia. Ohio has the third largest manufacturing workforce behind California and Texas. Ohio has the largest bioscience sector in the Midwest, and is a national leader in the "green" economy. Ohio's manufacturing sector is the third-largest of all fifty United States states in terms of gross domestic product. Substantively, Ohio's system is similar to those found in other states.
+\Predicted Summary:
+the first post-colonial free state admitted to the union on March 1, 1803 . Ohio is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated . Ohio is known for its status as both a swing state and a bellwether in national elections .
+
+GT:
+Ohio is bordered by Lake Erie to the north, Pennsylvania to the east, West Virginia to the southeast, Kentucky to the southwest, Indiana to the west, and Michigan to the northwest. Summers are typically hot and humid throughout the state, while winters generally range from cool to cold. Akron, Canton, Cleveland, Mansfield, and Youngstown are in the Northeast, known for major industrial companies Goodyear Tire and Rubber and Timken, top ranked colleges Case Western Reserve University and Kent State University, the Cleveland Clinic, and cultural attractions including the Cleveland Museum of Art, Big Five group Cleveland Orchestra, Playhouse Square, the Pro Football Hall of Fame, and the Rock and Roll Hall of Fame. Ohio has five of the top 115 colleges in the nation, according to US News and World Report's 2010 rankings, and was ranked No. Ohio's unemployment rate stands at 4.5% as of February 2018, down from 10.7% in May 2010. The Ohio Lottery has contributed over $15.5 billion to public education in its 34-year history. Ohio also is home to 228 miles (367 km) of the Historic National Road, now US Route 40. The Rock and Roll Hall of Fame and the Rhythm and Blues Music Hall of Fame are both located in Cleveland. Playhouse Square in downtown Cleveland is the second largest performing arts center in the United States, home to ten theaters. Ohio is home to 30 art institutions, including the Columbus Museum of Art, Cincinnati Art Museum, Cleveland Museum of Art, and other entities.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1015625, 0.45614035087719296, 0.16613418530351437, 0.10383386581469647]
+[0.0196078431372549, 0.08928571428571429, 0.03215434083601286, 0.02009646302250804]
+[0.05859375, 0.2631578947368421, 0.09584664536741214, 0.05990415335463259]
+
+
+SBERT sim. Score: 0.47075438499450684

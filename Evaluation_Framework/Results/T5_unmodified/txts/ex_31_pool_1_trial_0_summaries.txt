@@ -1,0 +1,21 @@
+Document:
+iowa
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+It is home to the Iowa State Capitol, the State Historical Society of Iowa Museum, Drake University, Des Moines Art Center, Greater Des Moines Botanical Garden, Principal Riverwalk, the Iowa State Fair, Terrace Hill, and the World Food Prize. Because of the extraordinary history in the teaching and sponsoring of creative writing that emanated from the Iowa Writers' Workshop and related programs, Iowa City was the first American city designated by the United Nations as a "City of Literature" in the UNESCO Creative Cities Network. Davenport boasts the Figge Art Museum, River Music Experience, Putnam Museum, Davenport Skybridge, Quad City Symphony Orchestra, Ballet Quad Cities, and plays host to the annual Bix Beiderbecke Memorial Jazz Festival, and the Quad City Air Show, which is the largest airshow in the state. Sioux City boasts a revitalized downtown and includes attractions such as the Hard Rock Hotel and Casino, Sergeant Floyd Monument, Sergeant Floyd River Museum, the Tyson Events Center, Southern Hills Mall, the Orpheum Theater, and more. The historic downtown area is also filled with multiple restaurants, bars, and other entertainment venues. With three casino resorts, the city also includes such cultural attractions as the Western Hills Trails Center, Union Pacific Railroad Museum, the Grenville M. Dodge House, and the Lewis and Clark Monument, with clear views of the Downtown Omaha skyline found throughout the city. The Sanford Museum and Planetarium in Cherokee, Grotto of the Redemption in West Bend, The Danish Immigrant Museum in Elk Horn, and the Fort Museum and Frontier Village in Fort Dodge are other regional destinations. Other communities with vibrant historic downtown areas include Decorah, McGregor, Mason City, Elkader, Bellevue, Guttenberg, Algona, Spillville, Charles City, and Independence.
+\Predicted Summary:
+is the 26th most extensive in total area and the 30th most populous of the 50 US states . Iowa is bordered by the Mississippi River to the east and the Missouri River and Big Sioux River to the west . Iowa is the only state whose east and west borders are formed almost entirely by rivers .
+
+GT:
+The Clint Eastwood movie The Bridges of Madison County, based on the popular novel of the same name, took place and was filmed in Madison County. Slipknot, a heavy metal band, was formed in Des Moines in 1995. In 1992, Corey Taylor future co-founder of Slipknot formed Stone Sour in Des Moines. The band lasted until 1997. Notable writers, artists, and news personalities from Iowa include Bill Bryson, George Gallup, Susan Glaspell, Mauricio Lasansky, Tomas Lasansky, Harry Reasoner, and Grant Wood. Musicians, actors, and entertainers from Iowa include Tom Arnold, Julia Michaels, Bix Beiderbecke, Johnny Carson, Buffalo Bill Cody, Simon Estes, Nathan Jonas Jordison, Corey Taylor, Shawn Crahan, William Frawley, Charlie Haden, Ashton Kutcher, Cloris Leachman, Glenn Miller, Kate Mulgrew, Eric Christian Olsen, Donna Reed, George Reeves, Brandon Routh, Jean Seberg, John Wayne, Brooks Wheelan, Andy Williams, Meredith Willson, Elijah Wood and Jason Momoa.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09655172413793103, 0.2545454545454545, 0.13999999999999999, 0.0875]
+[0.006944444444444444, 0.018518518518518517, 0.0101010101010101, 0.006313131313131314]
+[0.06896551724137931, 0.18181818181818182, 0.1, 0.06250000000000001]
+
+
+SBERT sim. Score: 0.24639418721199036

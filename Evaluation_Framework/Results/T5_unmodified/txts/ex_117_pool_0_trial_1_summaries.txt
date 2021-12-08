@@ -1,0 +1,21 @@
+Document:
+north_dakota
+
+Intent:
+How is the government structured in this state?
+
+Input:
+As with the federal government of the United States, political power in North Dakota state government is divided into three branches: executive, legislative, and judicial. The executive branch is headed by the elected governor. The offices of governor and lieutenant governor have four-year terms, which are next up for election in 2024. The governor has a cabinet consisting of appointed leaders of various state government agencies, called commissioners. The other elected constitutional offices are secretary of state, attorney general, state auditor, and state treasurer. The North Dakota Legislative Assembly is a bicameral body consisting of the Senatorte and the House of Representatives. The state has 47 districts, each with one senator and two representatives. As of 2007, the Constitution Party and the Libertarian Party are also organized parties in the state. At the state level, the governorship has been held by the Republican Party since 1992, along with a majority of the state legislature and statewide officers.
+\Predicted Summary:
+, the largest city of North Dakota. North Dakota is the capital of Bismarck, and its largest city is Fargo . North Dakota is the nineteenth largest in area, the fourth least populous, and the fourth most sparsely populated of the 50 states . North Dakota is home to the tallest man-made structure in the Western Hemisphere, the KVLY-TV mast .
+
+GT:
+As with the federal government of the United States, political power in North Dakota state government is divided into three branches: executive, legislative, and judicial. The Constitution of North Dakota and the North Dakota Century Code form the formal law of the state The executive branch is headed by the elected governor. The offices of governor and lieutenant governor have four-year terms, which are next up for election in 2024. The governor has a cabinet consisting of appointed leaders of various state government agencies, called commissioners. The other elected constitutional offices are secretary of state, attorney general, state auditor, and state treasurer. The North Dakota Legislative Assembly is a bicameral body consisting of the Senatorte and the House of Representatives. Both senators and representatives are elected to four-year terms. North Dakota's court system has four levels. Municipal courts serve the cities, and most cases start in the district courts, which are courts of general jurisdiction. There are 42 district court judges in seven judicial districts. Appeals from the trial courts and challenges to certain governmental decisions are heard by the North Dakota Court of Appeals, consisting of three-judge panels. The five-justice North Dakota Supreme Court hears all appeals from the district courts and the Court of Appeals.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14622641509433962, 0.5254237288135594, 0.22878228782287824, 0.1429889298892989]
+[0.037914691943127965, 0.13793103448275862, 0.05947955390334573, 0.03717472118959108]
+[0.12264150943396226, 0.4406779661016949, 0.19188191881918817, 0.1199261992619926]
+
+
+SBERT sim. Score: 0.42351239919662476

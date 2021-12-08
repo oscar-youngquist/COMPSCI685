@@ -1,0 +1,21 @@
+Document:
+north_carolina
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+In mid-century, the state's rural and commercial areas were connected by the construction of a 129 mi (208 km) wooden plank road, known as a "farmer's railroad", from Fayetteville in the east to Bethania (northwest of Winston-Salem). During the Civil War, the Wilmington-to-Raleigh stretch of the railroad would be vital to the Confederate war effort; supplies shipped into Wilmington would be moved by rail through Raleigh to the Confederate capital of Richmond, Virginia. Railroads were built to connect the new industrializing cities. Transportation systems in North Carolina consist of air, water, road, rail, and public transportation including intercity rail via Amtrak and light rail in Charlotte. North Carolina has the second-largest state highway system in the country as well as the largest ferry system on the east coast. North Carolina's airports serve destinations throughout the United States and international destinations in Canada, Europe, Central America, and the Caribbean. In 2013 Charlotte Douglas International Airport, which serves as the second busiest hub for American Airlines, ranked as the 23rd busiest airport in the world. North Carolina has a growing passenger rail system with Amtrak serving most major cities. A county may have one or more systems within it. Numerous other tracks around North Carolina host races from low-tier NASCAR circuits as well. Seagrove, in the central portion of the state, attracts many tourists along Pottery Highway (NC Hwy 705).
+\Predicted Summary:
+the first controlled, sustained flight of a powered, heavier-than-air aircraft . North Carolina is the 28th largest and 9th-most populous of the 50 United States . North Carolina is the largest metropolitan area in the state, with an estimated population of 1,362,540 in 2018, .
+
+GT:
+In 1849, the North Carolina Railroad was created by act of the legislature to extend that railroad west to Greensboro, High Point, and Charlotte. Transportation systems in North Carolina consist of air, water, road, rail, and public transportation including intercity rail via Amtrak and light rail in Charlotte. North Carolina has the second-largest state highway system in the country as well as the largest ferry system on the east coast. North Carolina's airports serve destinations throughout the United States and international destinations in Canada, Europe, Central America, and the Caribbean. North Carolina has a growing passenger rail system with Amtrak serving most major cities. Charlotte is also home to North Carolina's only light rail system known as the Lynx. One of the busiest air stations in the United States Coast Guard is located at the Coast Guard Air Station in Elizabeth City.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1793103448275862, 0.5531914893617021, 0.2708333333333333, 0.16927083333333331]
+[0.041666666666666664, 0.13043478260869565, 0.06315789473684211, 0.039473684210526314]
+[0.12413793103448276, 0.3829787234042553, 0.1875, 0.11718749999999999]
+
+
+SBERT sim. Score: 0.5533924698829651

@@ -1,0 +1,21 @@
+Document:
+tennessee
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Tennessee's major industries include agriculture, manufacturing, and tourism. Major outputs for the state include textiles, cotton, cattle, and electrical power. It is one of nine states that do not have a general income tax The state's sales and use tax rate for most items is 7%, the second-highest in the nation, along with Mississippi, Rhode Island, New Jersey, and Indiana. Tourism contributes billions of dollars every year to the state's economy, and Tennessee is ranked among the Top 10 destinations in the nation. In 2014 a record 100 million people visited the state resulting in $17.7 billion in tourism related spending within the state, an increase of 6.3% over 2013; tax revenue from tourism equaled $1.5 billion. In addition a number of private colleges and universities are located throughout the state.
+\Predicted Summary:
+the Confederacy in 1861. Tennessee was the first state to leave the Union at the end of the war . Tennessee was the last state to leave the Union at the outbreak of the American Civil War in 1861 . Tennessee was the first state to join the Confederacy at the outbreak of the American Civil War .
+
+GT:
+Large corporations with headquarters in Tennessee include FedEx, AutoZone and International Paper, all based in Memphis; Pilot Corporation and Regal Entertainment Group, based in Knoxville; Eastman Chemical Company, based in Kingsport; Hospital Corporation of America and Caterpillar Financial, based in Nashville; and Unum, based in Chattanooga. Tennessee is also a major hub for the automotive industry. Four automobile manufacturers have factories in Tennessee: Nissan in Smyrna, General Motors in Spring Hill, Van Hool in Morristown, and Volkswagen in Chattanooga. Tennessee has a reputation as low-tax state and is usually ranked as one of the five states with the lowest tax burden on residents. Tourism contributes billions of dollars every year to the state's economy, and Tennessee is ranked among the Top 10 destinations in the nation. Tennessee has played a critical role in the development of many forms of American popular music, including rock and roll, blues, country, and rockabilly.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13157894736842105, 0.36363636363636365, 0.1932367149758454, 0.12077294685990338]
+[0.006622516556291391, 0.018518518518518517, 0.00975609756097561, 0.006097560975609757]
+[0.10526315789473684, 0.2909090909090909, 0.15458937198067632, 0.0966183574879227]
+
+
+SBERT sim. Score: 0.32382872700691223

@@ -1,0 +1,21 @@
+Document:
+iowa
+
+Intent:
+How is the government structured in this state?
+
+Input:
+Iowa has 99 counties, but 100 county seats because Lee County has two. The state has a great number of Reformed denominations. As of 2018, the 43rd and current Governor of Iowa is Kim Reynolds (R). Other statewide elected officials are: It is periodically updated by the Iowa Legislative Service Bureau, with a new edition published in odd-numbered years and a supplement published in even-numbered years. Senatortors: Representatives: As a result of the 2010 elections, each party controlled one house of the Iowa General Assembly: the House had a Republican majority, while the Senatorte had a Democratic majority. The state gets considerable attention every four years because the Iowa caucus, gatherings of voters to select delegates to the state conventions, is the first presidential caucus in the country. The Iowa Board of Regents is composed of nine citizen volunteers appointed by the governor to provide policymaking, coordination, and oversight of the state's three public universities, two special K–12 schools, and affiliated centers.
+\Predicted Summary:
+is the 26th most extensive in total area and the 30th most populous of the 50 US states . Iowa is bordered by the Mississippi River to the east and the Missouri River and Big Sioux River to the west . Iowa is the only state whose east and west borders are formed almost entirely by rivers .
+
+GT:
+As of 2018, the 43rd and current Governor of Iowa is Kim Reynolds (R). The Code of Iowa contains Iowa's statutory laws. It is periodically updated by the Iowa Legislative Service Bureau, with a new edition published in odd-numbered years and a supplement published in even-numbered years. The two US Senatortors: The four US Representatives:
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.25862068965517243, 0.2727272727272727, 0.26548672566371684, 0.16592920353982304]
+[0.03508771929824561, 0.037037037037037035, 0.036036036036036036, 0.02252252252252252]
+[0.1896551724137931, 0.2, 0.19469026548672566, 0.12168141592920355]
+
+
+SBERT sim. Score: 0.5007557272911072

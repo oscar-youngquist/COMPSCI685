@@ -1,0 +1,21 @@
+Document:
+colorado
+
+Intent:
+How is the government structured in this state?
+
+Input:
+It is the 8th most extensive and 21st most populous US state. Like the federal government and all other US states, Colorado's state constitution provides for three branches of government: the legislative, the executive, and the judicial branches. The Governor of Colorado heads the state's executive branch. Colorado's other statewide elected executive officers are the Lieutenant Governor of Colorado (elected on a ticket with the Governor), Secretary of State of Colorado, Colorado State Treasurer, and Attorney General of Colorado, all of whom serve four-year terms. The Colorado Court of Appeals, with 22 judges, sits in divisions of three judges each. Colorado is divided into 22 judicial districts, each of which has a district court and a county court with limited jurisdiction. The state also has a water court, which sits in seven distinct divisions around the state and which decides matters relating to water rights and the use and administration of water. The state legislative body is the Colorado General Assembly, which is made up of two houses - the House of Representatives and the Senatorte. The State of Colorado is divided into 64 counties. The state of Colorado has more than 3,000 districts with taxing authority.
+\Predicted Summary:
+, the Colorado River, which early Spanish explorers named the Ro Colorado ("Red River") for the ruddy silt the river carried from the mountains . Colorado is the 8th most extensive and 21st most populous US state . the estimated population of Colorado is 5,758,736 as of 2019, an increase of 14.5% since the 2010 United States Census .
+
+GT:
+Like the federal government and all other US states, Colorado's state constitution provides for three branches of government: the legislative, the executive, and the judicial branches. The Governor of Colorado heads the state's executive branch. Colorado's other statewide elected executive officers are the Lieutenant Governor of Colorado (elected on a ticket with the Governor), Secretary of State of Colorado, Colorado State Treasurer, and Attorney General of Colorado, all of whom serve four-year terms. The seven-member Colorado Supreme Court is the state's highest court, with seven justices. The Colorado Court of Appeals, with 22 judges, sits in divisions of three judges each. Colorado is divided into 22 judicial districts, each of which has a district court and a county court with limited jurisdiction. The state also has a water court, which sits in seven distinct divisions around the state and which decides matters relating to water rights and the use and administration of water. The state legislative body is the Colorado General Assembly, which is made up of two houses - the House of Representatives and the Senatorte. The House has 65 members and the Senatorte has 35. Tax is collected by the Colorado Department of Revenue. The State of Colorado is divided into 64 counties. Counties are important units of government in Colorado since the state has no secondary civil subdivisions such as townships. The state of Colorado currently has 271 active incorporated municipalities, including 196 towns, 73 cities, and two consolidated city and county governments. Colorado municipalities operate under one of five types of municipal governing authority. Colorado has one town with a territorial charter, 160 statutory towns, 12 statutory cities, 96 home rule municipalities (61 cities and 35 towns), and two consolidated city and county governments. In addition to its 271 municipalities, Colorado has 187 unincorporated Census Designated Places and many other small communities.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08681672025723473, 0.46551724137931033, 0.14634146341463417, 0.09146341463414635]
+[0.02258064516129032, 0.12280701754385964, 0.03814713896457765, 0.023841961852861034]
+[0.0707395498392283, 0.3793103448275862, 0.11924119241192412, 0.07452574525745256]
+
+
+SBERT sim. Score: 0.49812495708465576

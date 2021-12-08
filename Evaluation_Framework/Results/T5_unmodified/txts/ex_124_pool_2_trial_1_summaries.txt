@@ -1,0 +1,21 @@
+Document:
+florida
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Florida's $1.0 trillion economy is the fourth-largest of any US state, and if it were a country, Florida would be the 16th-largest economy in the world. The state's economy relies mainly on tourism, agriculture, and transportation, which developed in the late 19th century. This was the sixth highest percentage of any US state. As of 2018, the gross state product (GSP) is about $1.0 trillion, the fourth largest economy in the United States. In the 20th century, tourism, industry, construction, international banking, biomedical and life sciences, healthcare research, simulation training, aerospace and defense, and commercial space travel have contributed to the state's economic development. The five largest sectors of employment in Florida are: trade, transportation, and utilities; government; professional and business services; education and health services; and leisure and hospitality. In output, the five largest sectors are: finance, insurance, real estate, rental, and leasing, followed by professional and business services; government and government enterprises; educational services, health care, and social assistance; and retail trade. In 2004, they had a combined total of 95.7% of the state's domestic product. Many coastal cities include some of the wealthiest per-capita areas in the United States. This personal income ranked 4th in the United States. Tourism makes up one of the largest sectors of the state economy, with nearly 1.4 million people employed in the tourism industry in 2016 (a record for the state, surpassing the 1.2 million employment from 2015). Agriculture is the second largest industry in the state. Phosphate mining, concentrated in the Bone Valley, is the state's third-largest industry. Another major economic engine in Florida is the United States military.
+\Predicted Summary:
+is the second largest state in the world. Florida is the third-most populous and the 22nd-most extensive of the 50 United States. Florida is the third-most populous state in the southeastern region of the United States. Florida is the principal location of the Seminole Wars (1816 – 1858), the longest and most extensive of Indian Wars in United States history. Florida was restored to the Union on January 10, 1861.
+
+GT:
+The state's economy relies mainly on tourism, agriculture, and transportation, which developed in the late 19th century. Florida is also renowned for amusement parks, orange crops, winter vegetables, the Kennedy Space Center, and as a popular destination for retirees. Historically, Florida's economy has been based primarily upon agricultural products such as cattle, sugar cane, citrus fruits, tomatoes, and strawberries. In 1925, the Seaboard Air Line broke the FEC's southeast Florida monopoly and extended its freight and passenger service to West Palm Beach; two years later it extended passenger service to Miami. In the 20th century, tourism, industry, construction, international banking, biomedical and life sciences, healthcare research, simulation training, aerospace and defense, and commercial space travel have contributed to the state's economic development. The five largest sectors of employment in Florida are: trade, transportation, and utilities; government; professional and business services; education and health services; and leisure and hospitality. In output, the five largest sectors are: finance, insurance, real estate, rental, and leasing, followed by professional and business services; government and government enterprises; educational services, health care, and social assistance; and retail trade. In 2017, Florida became the United States' eighth largest exporter of trade goods.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1457286432160804, 0.4027777777777778, 0.2140221402214022, 0.13376383763837638]
+[0.030303030303030304, 0.08450704225352113, 0.04460966542750929, 0.027881040892193308]
+[0.11055276381909548, 0.3055555555555556, 0.16236162361623616, 0.1014760147601476]
+
+
+SBERT sim. Score: 0.45964720845222473

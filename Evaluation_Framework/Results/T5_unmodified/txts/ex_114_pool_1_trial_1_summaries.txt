@@ -1,0 +1,21 @@
+Document:
+louisiana
+
+Intent:
+How is the government structured in this state?
+
+Input:
+Louisiana is the only US state with political subdivisions termed parishes, which are equivalent to counties. It was grouped with Texas in what was administered as the Fifth Military District. The state also has a use tax, which includes 4% to be distributed by the Department of Revenue to local governments. Most parishes have an elected government known as the Police Jury, dating from the colonial days. It is the legislative and executive government of the parish, and is elected by the voters. A more limited number of parishes operate under home rule charters, electing various forms of government. Louisiana is unique among US states in using a system for its state and local elections similar to that of modern France. All other states (except Washington, California, and Maine) use single-party primaries followed by a general election between party candidates, each conducted by either a plurality voting system or runoff voting, to elect senators, representatives, and statewide officials. Its troopers have statewide jurisdiction with power to enforce all laws of the state, including city and parish ordinances.
+\Predicted Summary:
+,, and African cultures. Louisiana is the 19th-smallest by area and the 25th most populous of the 50 US states. Louisiana is the 19th-smallest by area and the 25th most populous of the 50 US states. Louisiana is bordered by the state of Texas to the west, Arkansas to the north, Mississippi to the east, and the Gulf of Mexico to the south.
+
+GT:
+The current Louisiana governor is Democrat John Bel Edwards. The current United States senators are Republicans John Neely Kennedy and Bill Cassidy. Louisiana has six congressional districts and is represented in the US House of Representatives by five Republicans and one Democrat. Louisiana had eight votes in the Electoral College for the 2012 election. Louisiana is divided into 64 parishes (the equivalent of counties in most other states). Most parishes have an elected government known as the Police Jury, dating from the colonial days. A more limited number of parishes operate under home rule charters, electing various forms of government. The Louisiana political and legal structure has maintained several elements from the times of French and Spanish governance. One is the use of the term "parish" (from the French: paroisse) in place of "county" for administrative subdivision. Another is the legal system of civil law based on French, German, and Spanish legal codes and ultimately Roman law, as opposed to English common law. Louisiana's civil law system is what the majority of nations in the world use, especially in Europe and its former colonies, excluding those that derive from the British Empire. In 1997, Louisiana became the first state to offer the option of a traditional marriage or a covenant marriage.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1650943396226415, 0.546875, 0.25362318840579706, 0.15851449275362317]
+[0.018957345971563982, 0.06349206349206349, 0.029197080291970802, 0.01824817518248175]
+[0.12264150943396226, 0.40625, 0.18840579710144928, 0.11775362318840579]
+
+
+SBERT sim. Score: 0.5337698459625244

@@ -1,0 +1,21 @@
+Document:
+new_jersey
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+This was the fourth-highest percentage of any state in the country. For further information on various ethnoracial groups and neighborhoods prominently featured within New Jersey, see the following articles: Like every state, New Jersey has its own cuisine, religious communities, museums, and halls of fame. The state is home to many diner manufacturers and has over 600 diners, more than any other place in the world. (The others are Kentucky, Louisiana, Mississippi, and Virginia.) Visitors and residents take advantage of and contribute to performances at the numerous music, theater, and dance companies and venues located throughout the state, including:
+\Predicted Summary:
+,, New Jersey, and Newark, New Jersey, helped drive the nation's Industrial Revolution . New Jersey was first inhabited by Native Americans for at least 2,800 years . New Jersey was the second-wealthest state by median household income .
+
+GT:
+As of 2020, New Jersey was home to the highest number of millionaires per capita of all US states, with 9.76% of households—more than 323,000 of 3.3 million statewide—meeting the criteria. New Jersey is the birthplace of modern inventions such as: FM radio, the motion picture camera, the lithium battery, the light bulb, transistors, and the electric train. Other New Jersey creations include: the drive-in movie, the cultivated blueberry, cranberry sauce, the postcard, the boardwalk, the zipper, the phonograph, saltwater taffy, the dirigible, the seedless watermelon, the first use of a submarine in warfare, and the ice cream cone. The state is home to many diner manufacturers and has over 600 diners, more than any other place in the world. New Jersey is frequently the target of jokes in American culture, especially from New York City-based television shows, such as Saturday Night Live. New Jersey is known for several foods developed within the region, including Taylor Ham (also known as pork roll), cheesesteaks, and scrapple.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10465116279069768, 0.47368421052631576, 0.17142857142857143, 0.10714285714285715]
+[0.029239766081871343, 0.13513513513513514, 0.04807692307692307, 0.03004807692307692]
+[0.0755813953488372, 0.34210526315789475, 0.12380952380952381, 0.0773809523809524]
+
+
+SBERT sim. Score: 0.44813457131385803
