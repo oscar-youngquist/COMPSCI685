@@ -1,0 +1,21 @@
+Document:
+massachusetts
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+The state has been ranked as one of the top states in the United States for citizens to live in, as well as one of the most expensive. In 2018, Massachusetts's overall educational system was ranked the top among all fifty US states by US News & World Report. The per capita personal income in 2012 was $53,221, making it the third-highest state in the nation. CNBC's list of "Top States for Business for 2014" has recognized Massachusetts as the 25th-best state in the nation for business, and for the second year in a row the state was ranked by Bloomberg as the most innovative state in America. According to a 2013 study by Phoenix Marketing International, Massachusetts had the sixth-largest number of millionaires per capita in the United States, with a ratio of 6.73 percent. In February 2017, US News & World Report ranked Massachusetts the best state in the United States based upon 60 metrics including healthcare, education, crime, infrastructure, opportunity, economy, and government.
+\Predicted Summary:
+, the capital of Massachusetts, is the capital of Massachusetts. Massachusetts is the most populous state in the New England region of the Northeastern United States. it borders on the Atlantic Ocean to the east, the states of Connecticut and Rhode Island to the south, New Hampshire and New York to the west. Massachusetts is the capital of Massachusetts, which is also home to the greater Boston metropolitan area.
+
+GT:
+Modern Massachusetts is a global leader in biotechnology, engineering, higher education, finance, and maritime trade. The entire Commonwealth of Massachusetts has played a powerful scientific, commercial, and cultural role in the history of the United States. Harvard University in Cambridge is the oldest institution of higher learning in the United States, with the largest financial endowment of any university, and Harvard Law School has educated a contemporaneous majority of Justices of the Supreme Court of the United States. Kendall Square in Cambridge has been called "the most innovative square mile on the planet", in reference to the high concentration of entrepreneurial start-ups and quality of innovation which have emerged in the vicinity of the square since 2010. Both Harvard and MIT, also in Cambridge, have been ranked among the most highly regarded academic institutions in the world. Massachusetts' public-school students place among the top tier in the world in academic performance. The state has been ranked as one of the top states in the United States for citizens to live in, as well as one of the most expensive.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.19337016574585636, 0.5147058823529411, 0.28112449799196787, 0.1757028112449799]
+[0.06111111111111111, 0.16417910447761194, 0.08906882591093118, 0.055668016194331975]
+[0.14917127071823205, 0.39705882352941174, 0.21686746987951808, 0.1355421686746988]
+
+
+SBERT sim. Score: 0.5385267734527588

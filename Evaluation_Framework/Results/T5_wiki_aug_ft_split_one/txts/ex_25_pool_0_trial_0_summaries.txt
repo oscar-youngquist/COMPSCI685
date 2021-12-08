@@ -1,0 +1,21 @@
+Document:
+indiana
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+The major US Interstate highways in Indiana are I-64, I-65, I-265, I-465, I-865, I-69, I-469, I-70, I-74, I-80, I-90, I-94, and I-275. There are also many US routes and state highways maintained by the Indiana Department of Transportation. Highways. For example, I-64 and Indiana State Road 64 both exist (rather close to each other) in Indiana, but are two distinct roads with no relation to one another. When complete, I-69 will traverse an additional 142 miles (229 km) through the state. The remaining miles are operated by 37 regional, local, and switching and terminal railroads. More than half of Indiana's border is water, which includes 400 miles (640 km) of direct access to two major freight transportation arteries: the Great Lakes/St. Lawrence Seaway (via Lake Michigan) and the Inland Waterway System (via the Ohio River).
+\Predicted Summary:
+Indiana is a state that is the 38th-largest by area and the 17th-most populous of the 50  United States . Indiana is the largest city and capital of the state . it is home to professional sports teams, including the Indianapolis Colts .
+
+GT:
+Indianapolis International Airport serves the greater Indianapolis area. It opened in November 2008 and offers a midfield passenger terminal, concourses, air traffic control tower, parking garage, and airfield and apron improvements. Other major airports include Evansville Regional Airport, Fort Wayne International Airport (which houses the 122d Fighter Wing of the Air National Guard), and South Bend International Airport. No airlines operate out of Terre Haute Regional Airport but it is used for private planes. Louisville International Airport, across the Ohio River in Louisville, Kentucky, serves southern Indiana, as does Cincinnati/Northern Kentucky International Airport in Hebron, Kentucky. The major US Interstate highways in Indiana are I-64, I-65, I-265, I-465, I-865, I-69, I-469, I-70, I-74, I-80, I-90, I-94, and I-275. Most Indiana counties use a grid-based system to identify county roads; this system replaced the older arbitrary system of road numbers and names, and (among other things) makes it much easier to identify the sources of calls placed to the 9-1-1 system. There are also counties in northern portions of the state that have never implemented a grid, or have only partially implemented one. Indiana has more than 4,255 railroad route miles, of which 91 percent are operated by Class I railroads, principally CSX Transportation and the Norfolk Southern Railway. Indiana annually ships more than 70 million tons of cargo by water each year, which ranks 14th among all US states.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09716599190283401, 0.5714285714285714, 0.16608996539792387, 0.10380622837370243]
+[0.024390243902439025, 0.14634146341463414, 0.041811846689895474, 0.02613240418118467]
+[0.05263157894736842, 0.30952380952380953, 0.08996539792387542, 0.05622837370242214]
+
+
+SBERT sim. Score: 0.4533798098564148

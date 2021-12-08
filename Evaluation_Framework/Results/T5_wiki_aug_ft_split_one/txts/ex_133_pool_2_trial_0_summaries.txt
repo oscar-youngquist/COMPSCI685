@@ -1,0 +1,21 @@
+Document:
+illinois
+
+Intent:
+How is the government structured in this state?
+
+Input:
+It was scheduled for a 2020 general election ballot vote and required 60 percent voter approval to effectively amend the state constitution. The government of Illinois, under the Constitution of Illinois, has three branches of government: executive, legislative and judicial. The executive branch is split into several statewide elected offices, with the governor as chief executive. Legislative functions are granted to the Illinois General Assembly. The judiciary is composed of the Supreme Court and lower courts. The Illinois General Assembly is the state legislature, composed of the 118-member Illinois House of Representatives and the 59-member Illinois Senatorte. The executive branch is composed of six elected officers and their offices as well as numerous other departments. The six elected officers are: Governor, Lieutenant Governor, Attorney General, Secretary of State, Comptroller, and Treasurer. The Judiciary of Illinois is the unified court system of Illinois. It consists of the Supreme Court, Appellate Court, and Circuit Courts. The Supreme Court oversees the administration of the court system. Municipal governments are the cities, villages, and incorporated towns. Some localities possess home rule, which allows them to govern themselves to a certain extent. District territories are often complex in structure. Many areas in the state are actually located in two school districts—one for high school, the other for elementary and middle schools.
+\Predicted Summary:
+, the Great Lakes and the Mississippi River valley, through the Illinois Waterway. Illinois has long been a microcosm of the entire state. Illinois has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all all states. Illinois is the capital of the state. Illinois has been noted as a microcosm of the entire United States.
+
+GT:
+The government of Illinois, under the Constitution of Illinois, has three branches of government: executive, legislative and judicial. The executive branch is split into several statewide elected offices, with the governor as chief executive. Legislative functions are granted to the Illinois General Assembly. The judiciary is composed of the Supreme Court and lower courts. The Illinois General Assembly is the state legislature, composed of the 118-member Illinois House of Representatives and the 59-member Illinois Senatorte. The members of the General Assembly are elected at the beginning of each even-numbered year. The Illinois Compiled Statutes (ILCS) are the codified statutes of a general and permanent nature. The executive branch is composed of six elected officers and their offices as well as numerous other departments. The six elected officers are: Governor, Lieutenant Governor, Attorney General, Secretary of State, Comptroller, and Treasurer. The government of Illinois has numerous departments, agencies, boards and commissions, but the so-called code departments provide most of the state's services. The Judiciary of Illinois is the unified court system of Illinois. It consists of the Supreme Court, Appellate Court, and Circuit Courts. The Supreme Court oversees the administration of the court system. The administrative divisions of Illinois are counties, townships, precincts, cities, towns, villages, and special-purpose districts. The basic subdivision of Illinois are the 102 counties. Eighty-five of the 102 counties are in turn divided into townships and precincts. Municipal governments are the cities, villages, and incorporated towns. Some localities possess home rule, which allows them to govern themselves to a certain extent. Illinois is a Democratic stronghold. Illinois has shown a strong presence in presidential elections.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11272727272727273, 0.484375, 0.18289085545722714, 0.11430678466076698]
+[0.040145985401459854, 0.1746031746031746, 0.06528189910979228, 0.04080118694362018]
+[0.08727272727272728, 0.375, 0.1415929203539823, 0.08849557522123894]
+
+
+SBERT sim. Score: 0.47892242670059204

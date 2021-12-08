@@ -1,0 +1,21 @@
+Document:
+idaho
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Idaho is among the few states in the nation without a major freeway linking its two largest metropolitan areas, Boise in the south and Coeur d'Alene in the north. US-95 links the two ends of the state, but like many other highways in Idaho, it is badly in need of repair and upgrade. I-84 is the main highway linking the southeast and southwest portions of the state, along with I-86 and I-15. Idaho is served by three transcontinental railroads. The Burlington Northern Santa Fe (BNSF) connects the Idaho Panhandle with Seattle, Portland, and Spokane to the west, and Minneapolis and Chicago to the east. Canadian Pacific Railway uses Union Pacific Railroad tracks in North Idaho carrying products from Alberta to Spokane and Portland, Oregon. Amtrak's Empire Builder crosses northern Idaho, with its only stop being in Sandpoint. Montana Rail Link also operates between Billings, Montana and Sandpoint, Idaho The Union Pacific Railroad also crosses southern Idaho traveling between Portland, Oregon, Green River, Wyoming, and Ogden, Utah and serves Boise, Nampa, Twin Falls, and Pocatello.
+\Predicted Summary:
+is the 14th largest, the 12th least populous and the 7th least densely populated of the 50 US states . Idaho is the 14th largest, the 12th least populous and the 7th least densely populated of the 50 states . Idaho is the most densely populated state in the world, and is a part of the Pacific Northwest region .
+
+GT:
+Idaho is among the few states in the nation without a major freeway linking its two largest metropolitan areas, Boise in the south and Coeur d'Alene in the north. Major airports include the Boise International Airport which serves the southwest region of Idaho and the Spokane International Airport (in Spokane, Washington) which serves northern Idaho. Idaho is served by three transcontinental railroads. The Burlington Northern Santa Fe (BNSF) connects the Idaho Panhandle with Seattle, Portland, and Spokane to the west, and Minneapolis and Chicago to the east. The BNSF travels through Kootenai, Bonner, and Boundary counties. The Union Pacific Railroad crosses North Idaho entering from Canada through Boundary and Bonner, and proceeding to Spokane. Canadian Pacific Railway uses Union Pacific Railroad tracks in North Idaho carrying products from Alberta to Spokane and Portland, Oregon. Amtrak's Empire Builder crosses northern Idaho, with its only stop being in Sandpoint. Montana Rail Link also operates between Billings, Montana and Sandpoint, Idaho The Port of Lewiston is the farthest inland Pacific port on the west coast. A series of dams and locks on the Snake River and Columbia River facilitate barge travel from Lewiston to Portland, where goods are loaded on ocean-going vessels.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13861386138613863, 0.49122807017543857, 0.21621621621621626, 0.13513513513513514]
+[0.029850746268656716, 0.10714285714285714, 0.04669260700389106, 0.029182879377431904]
+[0.10891089108910891, 0.38596491228070173, 0.16988416988416988, 0.10617760617760619]
+
+
+SBERT sim. Score: 0.4342227876186371

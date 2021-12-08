@@ -1,0 +1,21 @@
+Document:
+pennsylvania
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+At the time it was the most ethnically and religiously diverse of the thirteen States. The new state Capitol drew rave reviews. Of the black population, the vast majority in the state are African American, being descendants of African slaves brought to the US south during the colonial era. The Commonwealth boasts some of the finest museums in the country, including the Carnegie Museums in Pittsburgh, the Philadelphia Museum of Art, and several others. There are also notable music festivals that take place in Pennsylvania. These include Musikfest and NEARfest in Bethlehem, the Philadelphia Folk Festival, Creation Festival, the Great Allentown Fair, and Purple Door. Soccer is gaining popularity within the state as well. Other notable companies include Just Born in Bethlehem, Pennsylvania, makers of Hot Tamales, Mike and Ikes, the Easter favorite marshmallow Peeps, and Boyer Brothers of Altoona, Pennsylvania, which is well known for its Mallo Cups.
+\Predicted Summary:
+is the third state in the United States, and the state's capital is Pennsylvania (the PEN-sl-VAY-nee-) (Pennsylvania) is the fifth-largest state by area . Pennsylvania is the 9th-most populous state by area . Pennsylvania has 140 miles (225 km) of waterfront along Lake Erie and the Delaware River .
+
+GT:
+The Commonwealth boasts some of the finest museums in the country, including the Carnegie Museums in Pittsburgh, the Philadelphia Museum of Art, and several others. One unique museum is the Houdini Museum in Scranton, the only building in the world devoted to the legendary magician. There are also notable music festivals that take place in Pennsylvania. These include Musikfest and NEARfest in Bethlehem, the Philadelphia Folk Festival, Creation Festival, the Great Allentown Fair, and Purple Door. Author Sharon Hernes Silverman calls Pennsylvania the snack food capital of the world. It leads all other states in the manufacture of pretzels and potato chips. Among the regional foods associated with Philadelphia are cheesesteaks, hoagie, soft pretzels, Italian water ice, Irish potato candy, scrapple, Tastykake, and strombolis.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12903225806451613, 0.3076923076923077, 0.18181818181818182, 0.11363636363636365]
+[0.032520325203252036, 0.0784313725490196, 0.04597701149425287, 0.02873563218390805]
+[0.11290322580645161, 0.2692307692307692, 0.1590909090909091, 0.09943181818181818]
+
+
+SBERT sim. Score: 0.3708434998989105

@@ -1,0 +1,21 @@
+Document:
+utah
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+The state has a highly diversified economy, with major sectors including transportation, education, information technology and research, government services, mining; it is also a major tourist destination for outdoor recreation. Utah also has the 14th-highest median average income and the least income inequality of any US state. A 2012 Gallup national survey found Utah overall to be the "best state to live in the future" based on 13 forward-looking measurements including various economic, lifestyle, and health-related outlook metrics. In addition, it had the highest average weekly church attendance of any state, at 51%. According to the 2007 State New Economy Index, Utah is ranked the top state in the nation for Economic Dynamism, determined by "the degree to which state economies are knowledge-based, globalized, entrepreneurial, information technology-driven and innovation-based". In 2014, Utah was ranked number one in Forbes' list of "Best States For Business". According to the 2010 Census, Utah was the second fastest-growing state (at 23.8 percent) in the United States between 2000 and 2010 (behind Nevada).
+\Predicted Summary:
+,, is the 30th-most-populous and 11th-least-densely populated state. Utah ( YOO-tah, (listen) YOO-taw) is a state in the western United States . it is bordered by Wyoming to the northeast, Idaho to the north, Idaho to the north, and Arizona to the south . a corner of New Mexico in the southeast is home to the capital city of Salt Lake City . Utah is the 13
+
+GT:
+In 2013, the US Census Bureau estimated that Utah had the second-fastest-growing population of any state. Utah also has the 14th-highest median average income and the least income inequality of any US state. A 2012 Gallup national survey found Utah overall to be the "best state to live in the future" based on 13 forward-looking measurements including various economic, lifestyle, and health-related outlook metrics. Utah is known for its natural diversity and is home to features ranging from arid deserts with sand dunes to thriving pine forests in mountain valleys. Utah features a dry, semi-arid to desert climate, although its many mountains feature a large variety of climates, with the highest points in the Uinta Mountains being above the timberline. Utah has the lowest child poverty rate in the country, despite its young demographics. Utah has the highest total birth rate and accordingly, the youngest population of any US state. Same-sex marriage became legal in Utah on December 20, 2013 when judge Robert J. Shelby of the United States District Court for the District of Utah issued a ruling in Kitchen v. Herbert.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.18421052631578946, 0.5147058823529411, 0.2713178294573643, 0.16957364341085268]
+[0.037037037037037035, 0.1044776119402985, 0.0546875, 0.0341796875]
+[0.11578947368421053, 0.3235294117647059, 0.17054263565891473, 0.10658914728682173]
+
+
+SBERT sim. Score: 0.617939829826355

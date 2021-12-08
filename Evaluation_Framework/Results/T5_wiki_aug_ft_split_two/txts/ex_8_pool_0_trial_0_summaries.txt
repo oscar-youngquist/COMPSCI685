@@ -1,0 +1,21 @@
+Document:
+alaska
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined, and the seventh-largest subnational division in the world. While it has one of the smallest state economies in the country, Alaska's per capita income is among the highest, owing to a diversified economy dominated by fishing, natural gas, and oil, all of which it has in abundance. United States armed forces bases and tourism are also a significant part of the economy; more than half the state is federally owned public land, including a multitude of national forests, parks, and wildlife refuges. Alaska is by far the largest US state by area, and the tenth wealthiest (per capita income). The 2018 gross state product was $55 billion, 48th in the nation. The oil and gas industry dominates the Alaskan economy, with more than 80% of the state's revenues derived from petroleum extraction. Agricultural production is primarily for consumption within the state and includes nursery stock, dairy products, vegetables, and livestock. Federal subsidies are also an important part of the economy, allowing the state to keep taxes low. Alaskan agriculture has experienced a surge in growth of market gardeners, small farms and farmers' markets in recent years, with the highest percentage increase (46%) in the nation in growth in farmers' markets in 2011, compared to 17% nationwide.
+\Predicted Summary:
+s,, Alaska is the largest state by area, with a population of 738,432 . Approximately half of the state's residents live within Anchorage metropolitan area . Alaska is the third-least populous and the sparsest subnational division in the world .
+
+GT:
+Alaska ( (listen); Aleut: Alax̂sxax̂; Inupiaq: Alaasikaq; Pacific Gulf Yupik: Alas'kaaq; Tlingit: Anáaski) is a US state on the northwest extremity of the country's West Coast, just across the Bering Strait. Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined, and the seventh-largest subnational division in the world. The state is bordered by Canada's Yukon and British Columbia to the east (making it the only state to border a Canadian territory), the Gulf of Alaska and the Pacific Ocean to the south and southwest, the Bering Sea, Bering Strait, and Chukchi Sea to the west and the Arctic Ocean to the north. The 1968 discovery of oil at Prudhoe Bay and the 1977 completion of the Trans-Alaska Pipeline System led to an oil boom. Royalty revenues from oil have funded large state budgets from 1980 onward. The 2018 gross state product was $55 billion, 48th in the nation. The oil and gas industry dominates the Alaskan economy, with more than 80% of the state's revenues derived from petroleum extraction. Alaska's main export product (excluding oil and natural gas) is seafood, primarily salmon, cod, Pollock and crab. Agriculture represents a very small fraction of the Alaskan economy. Alaska has vast energy resources, although its oil reserves have been largely depleted. Major oil and gas reserves were found in the Alaska North Slope (ANS) and Cook Inlet basins, but according to the Energy Information Administration, by February 2014 Alaska had fallen to fourth place in the nation in crude oil production after Texas, North Dakota, and California. Alaska's economy depends heavily on increasingly expensive diesel fuel for heating, transportation, electric power and light.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08783783783783784, 0.65, 0.15476190476190477, 0.09672619047619048]
+[0.04406779661016949, 0.3333333333333333, 0.0778443113772455, 0.04865269461077844]
+[0.07094594594594594, 0.525, 0.125, 0.078125]
+
+
+SBERT sim. Score: 0.5283960700035095

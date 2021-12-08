@@ -1,0 +1,21 @@
+Document:
+utah
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+The state has a highly diversified economy, with major sectors including transportation, education, information technology and research, government services, mining; it is also a major tourist destination for outdoor recreation. Approximately 75 percent of the state's population lives in this corridor, and population growth is rapid. In addition, it had the highest average weekly church attendance of any state, at 51%. In 2010, the state's population was 50.2% male and 49.8% female. Between 2000 and 2010, Saratoga Springs (1,673%), Herriman (1,330%), Eagle Mountain (893%), Cedar Hills (217%), South Willard (168%), Nibley (166%), Syracuse (159%), West Haven (158%), Lehi (149%), Washington (129%), and Stansbury Park (116%) all at least doubled in population.  This article incorporates public domain material from the website of the Division of Utah State Parks and Recreation.
+\Predicted Summary:
+Utah is the 30th-most-populous and 11th-least-densely populated state . Utah is the only state in the western United States; with a population over three million, it is the 30th-most-populous . a little more than half of all Utahns are Mormons, the vast majority of whom are members of the Church of Jesus Christ of Latter-day Saints .
+
+GT:
+About 80% of Utah's Legislature are members of The Church of Jesus Christ of Latter-day Saints, while members account for 61 percent of the population. Since becoming a state in 1896, Utah has had only two non-Mormon governors. In 2006, the legislature passed legislation aimed at banning joint-custody for a non-biological parent of a child. The custody measure passed the legislature and was vetoed by the governor, a reciprocal benefits supporter. Utah is the setting of or the filming location for many books, films, television series, music videos, and video games. Utah's capitol Salt Lake City is the final location in the video game The Last of Us.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2719298245614035, 0.5081967213114754, 0.35428571428571426, 0.22142857142857142]
+[0.1415929203539823, 0.26666666666666666, 0.18497109826589594, 0.11560693641618497]
+[0.13157894736842105, 0.2459016393442623, 0.1714285714285714, 0.10714285714285712]
+
+
+SBERT sim. Score: 0.6296237707138062

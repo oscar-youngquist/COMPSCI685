@@ -1,0 +1,21 @@
+Document:
+missouri
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Many from Virginia, Kentucky and Tennessee settled in the Boonslick area of Mid-Missouri. Missouri's culture blends elements from the Midwestern and Southern United States. The musical styles of ragtime, Kansas City jazz and St. Louis blues developed in Missouri. Beginning before 1000 CE, there arose the complex Mississippian culture, whose people created regional political centers at present-day St. Louis and across the Mississippi River at Cahokia, near present-day Collinsville, Illinois. The Mississippian culture left mounds throughout the middle Mississippi and Ohio river valleys, extending into the southeast and the upper river. A notable Cherokee Indian population exists in Missouri. Many well-known musicians were born or have lived in Missouri. Country singers from Missouri include Perryville native Chris Janson, New Franklin native Sara Evans, Cantwell native Ferlin Husky, West Plains native Porter Wagoner, Tyler Farr of Garden City, and Mora native Leroy Van Dyke, along with bluegrass musician Rhonda Vincent, a native of Greentop.
+\Predicted Summary:
+, a part of the French, and founded St. Louis in 1764. Missouri is the 18th-most extensive state in area . the state is the 18th-most extensive in area; the state is divided into 114 counties . the state is a state in the midwestern United States .
+
+GT:
+The Kansas City Symphony and the St. Louis Symphony Orchestra are the state's major orchestras. The latter is the nation's second-oldest symphony orchestra and achieved prominence in recent years under conductor Leonard Slatkin. Branson is well-known for its music theaters, most of which bear the name of a star performer or musical group. Missouri is the native state of Mark Twain. His novels The Adventures of Tom Sawyer and The Adventures of Huckleberry Finn are set in his boyhood hometown of Hannibal. Novelist Daniel Woodrell, known for depicting life in the Missouri Ozarks, was born in Springfield and lives in West Plains.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2169811320754717, 0.5, 0.3026315789473684, 0.18914473684210525]
+[0.05714285714285714, 0.13333333333333333, 0.08, 0.049999999999999996]
+[0.1509433962264151, 0.34782608695652173, 0.2105263157894737, 0.13157894736842107]
+
+
+SBERT sim. Score: 0.37039339542388916

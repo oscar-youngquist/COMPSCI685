@@ -1,0 +1,21 @@
+Document:
+kentucky
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Around 900 CE, a Mississippian culture took root in western and central Kentucky; by contrast, a Fort Ancient culture appeared in eastern Kentucky. The Shawnee from the northwest and Cherokee from the south also sent parties into the area regularly for hunting. Key attractions include horse racing with events like the Kentucky Derby and the Keeneland Fall and Spring Meets, bourbon distillery tours and natural attractions such as the state's many lakes and parks to include Mammoth Cave, Lake Cumberland and Red River Gorge. The state also has several religious destinations such as the Creation Museum and Ark Encounter of Answers in Genesis. Although Kentucky's culture is generally considered to be Southern, it is unique in that it is also influenced by the Midwest and Southern Appalachia in certain areas of the state. Kentucky has played a major role in Southern and American literature, producing works that often celebrate the working class, rural life, nature, and explore issues of class, extractive economy, and family. Also, western Kentucky is known for its own regional style of barbecue. As in many states, especially those without major league professional sport teams, college athletics are prominent.
+\Predicted Summary:
+,, Kentucky is the 37th most extensive and the 26th most populous of the 50 United States. Kentucky is a state in the southern United States, bordered by Illinois, Indiana, and Ohio to the north; and Tennessee to the south; and Missouri to the west. Kentucky is the 37th most extensive and the 26th most populous of the 50 United States. Kentucky is also known for horse racing, bourbon, moonshine, coal, "My Old Kentucky Home" historic state park, automobile basketball
+
+GT:
+Key attractions include horse racing with events like the Kentucky Derby and the Keeneland Fall and Spring Meets, bourbon distillery tours and natural attractions such as the state's many lakes and parks to include Mammoth Cave, Lake Cumberland and Red River Gorge. The state also has several religious destinations such as the Creation Museum and Ark Encounter of Answers in Genesis. Churchill Downs, the home of the Derby, is a large venue with a capacity exceeding 165,000. Although Kentucky's culture is generally considered to be Southern, it is unique in that it is also influenced by the Midwest and Southern Appalachia in certain areas of the state. The state is known for bourbon and whiskey distilling, tobacco, horse racing, and college basketball. The Derby Festival features many events, including Thunder Over Louisville, the Pegasus Parade, the Great Steamboat Race, Fest-a-Ville, the Chow Wagon, BalloonFest, BourbonVille, and many others leading up to the big race. The fourth-largest city, Owensboro, gives credence to its nickname of "Barbecue Capital of the World" by hosting the annual International Bar-B-Q Festival. Hodgenville, the birthplace of Abraham Lincoln, hosts the annual Lincoln Days Celebration, and also hosted the kick-off for the National Abraham Lincoln Bicentennial Celebration in February 2008. Renfro Valley, Kentucky is home to Renfro Valley Entertainment Center and the Kentucky Music Hall of Fame and is known as "Kentucky's Country Music Capital", a designation given it by the Kentucky State Legislature in the late 1980s. However, its depth lies in its signature sound – Bluegrass music. Kentucky has played a major role in Southern and American literature, producing works that often celebrate the working class, rural life, nature, and explore issues of class, extractive economy, and family.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16095890410958905, 0.5949367088607594, 0.2533692722371968, 0.158355795148248]
+[0.037800687285223365, 0.14102564102564102, 0.05962059620596205, 0.03726287262872628]
+[0.0958904109589041, 0.35443037974683544, 0.1509433962264151, 0.09433962264150943]
+
+
+SBERT sim. Score: 0.4059287905693054

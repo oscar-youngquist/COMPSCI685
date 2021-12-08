@@ -1,0 +1,21 @@
+Document:
+new_hampshire
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Numerous mills were located along various rivers in the state, especially the Merrimack and Connecticut rivers. Manufacturing centers such as Manchester, Nashua and Berlin were hit hard in the 1930s–1940s as major manufacturing industries left New England and moved to the Southern United States or overseas, reflecting nationwide trends. It is the state with the highest percentage of timberland area in the country. It contains less than 5% of the state's population, suffers relatively high poverty, and is steadily losing population as the logging and paper industries decline. The northern parts of the state produced lumber, and the mountains provided tourist attractions. Its agricultural outputs are dairy products, nursery stock, cattle, apples and eggs. Its industrial outputs are machinery, electric equipment, rubber and plastic products, and tourism is a major component of the economy. Today, of the state's total manufacturing dollar value, these sectors contribute only two percent for textiles, two percent for leather goods, and nine percent for machining. The state's largest economic sectors in 2018, based on contribution to GDP, are: 15% real estate and rental and leasing; 13% professional business services; 12% manufacturing; 10% government and government services; and 9% health care and social services. Efforts to diversify the state's general economy have been ongoing.
+\Predicted Summary:
+New Hampshire (New Hampshire) is a state in the Northeastern United States . New Hampshire is the 5th smallest by area and the 10th most populous state . the state is home to a number of a number of industrial and industrial industries .
+
+GT:
+After 1960, the textile industry collapsed, but the economy rebounded as a center of high technology and as a service provider. Its agricultural outputs are dairy products, nursery stock, cattle, apples and eggs. Its industrial outputs are machinery, electric equipment, rubber and plastic products, and tourism is a major component of the economy. The state's largest economic sectors in 2018, based on contribution to GDP, are: 15% real estate and rental and leasing; 13% professional business services; 12% manufacturing; 10% government and government services; and 9% health care and social services. The Seabrook Station Nuclear Power Plant, near Portsmouth, is the largest nuclear reactor in New England and provided 57% of New Hampshire's electricity generation and 27% of its electricity consumption in 2017. New Hampshire's state government employs approximately 6,100 people. Additionally, the US Department of State employs approximately 1,600 people at the National Visa Center in Portsmouth, which processes United States immigrant visa petitions.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16875, 0.6585365853658537, 0.26865671641791045, 0.16791044776119401]
+[0.03773584905660377, 0.15, 0.06030150753768844, 0.03768844221105527]
+[0.075, 0.2926829268292683, 0.11940298507462686, 0.07462686567164178]
+
+
+SBERT sim. Score: 0.5764384269714355

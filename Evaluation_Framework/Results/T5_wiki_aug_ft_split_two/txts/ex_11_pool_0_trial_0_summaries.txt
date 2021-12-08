@@ -1,0 +1,21 @@
+Document:
+west_virginia
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+West Virginia was one of only ten states in 2009 that grew economically. Through the first half of 2010, exports from West Virginia topped $3 billion, growing 39.5% over the same period from the previous year and ahead of the national average by 15.7%. The US Bureau of Economic Analysis reported that in 2014 West Virginia's economy grew twice as fast as the next fastest growing state east of the Mississippi River, ranking third alongside Wyoming and just behind North Dakota and Texas among the fastest growing states in the United States. West Virginia ranked 48th in the CNBC "Top States for Business 2013" based on measures of competitiveness such as economy, workforce and cost of living—ranking among the bottom five states for the last six years running. West Virginia ranked 49th in the 2014 State New Economy Index, and has ranked in the bottom three states since 1999. Personal income growth in West Virginia during 2013 was only 1.5%—the lowest in the nation—and about half the national average (2.6%). Overall income growth in West Virginia in the last thirty years has been only 13%—about a third the national average (37%). West Virginia's poverty rate is one of the highest in the nation. 2017 estimates indicate that 19% of the state's population lives in poverty, exceeding the national average of 13%. Wisconsin Population Health Institute annual "Health Rankings" for 2012 showed West Virginia spends $9,671 per capita on health care annually. West Virginia, however, ranked last with a 3% increase in birth rates for teenagers.
+\Predicted Summary:
+is the only state in the state that is a member of the Appalachian region . West Virginia is bordered by the Appalachian and Mid-Atlantic regions of the Southern United States . it is a state that is often incorporated in several other states, including the Mid-Atlantic, the Mid-Atlantic, and the South of the United States .
+
+GT:
+West Virginia is the least populous southeastern state. It also has the lowest percentage of residents who speak a language other than English in the home (2.6%). The economy of West Virginia nominally would be the 62nd largest economy globally behind Iraq and ahead of Croatia according to 2009 World Bank projections, and the 64th largest behind Iraq and ahead of Libya according to 2009 International Monetary Fund projections. The real GDP growth of the state in 2009 of .7% was the 7th best in the country. West Virginia was one of only ten states in 2009 that grew economically. While per capita income fell 2.6% nationally in 2009, West Virginia's grew at 1.8%. Morgantown was ranked by Forbes as the #10 best small city in the nation to conduct business in 2010. The city is also home to West Virginia University, the 95th best public university according to US News & World Report in 2011. The US Bureau of Economic Analysis reported that in 2014 West Virginia's economy grew twice as fast as the next fastest growing state east of the Mississippi River, ranking third alongside Wyoming and just behind North Dakota and Texas among the fastest growing states in the United States. Tourism contributed $4.27 billion to the state's economy and employed 44,400 people in 2010, making it one of the state's largest industries. In addition to such outdoor recreation opportunities, the state offers a number of historic and cultural attractions. Harpers Ferry National Historical Park is a historic town situated at the confluence of the Shenandoah and Potomac rivers. West Virginia is the site of the National Radio Astronomy Observatory, which features the Green Bank Telescope. As of 2017, the coal industry accounted for 2% of state employment. West Virginia has the potential to generate 4,952 GWh/year from 1,883 MW of wind power, using 80 meter high wind turbines, or 8,627 GWh/year from 2,772 MW of 100 meter wind turbines, and 60,000 GWh from 40,000 MW of photovoltaics, including 3,810 MW of rooftop photovoltaics.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10734463276836158, 0.6666666666666666, 0.18491484184914841, 0.11557177615571776]
+[0.039660056657223795, 0.25, 0.0684596577017115, 0.042787286063569685]
+[0.07627118644067797, 0.47368421052631576, 0.13138686131386862, 0.0821167883211679]
+
+
+SBERT sim. Score: 0.5659537315368652

@@ -1,0 +1,21 @@
+Document:
+south_carolina
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Also in this area is Caesars Head State Park. They are geographically comprehensive With urbanization, their governments have become increasingly important in the state. It was the first European settlement in what is now the contiguous United States. Columbia, the new state capital was founded in the center of the state, and the State Legislature first met there in 1790. The state also converted its agricultural base from cotton to more profitable crops; attracted large military bases through its powerful Democratic congressional delegation, part of the one-party South following disfranchisement of blacks at the turn of the century; and created tourism industries. South Carolina has many venues for visual and performing arts. There are also numerous historic sites and museums scattered throughout the state paying homage to many events and periods in the state's history from Native American inhabitation to the present day. South Carolina also has performing art venues including the Peace Center in Greenville, the Koger Center for the Arts in Columbia, and the Newberry Opera House, among others to bring local, national, and international talent to the stages of South Carolina. Several large venues can house major events, including Colonial Life Arena in Columbia, Bon Secours Wellness Arena in Greenville, and North Charleston Coliseum. There are also countless local festivals throughout the state highlighting many cultural traditions, historical events, and folklore. The state is also home to numerous minor league professional teams. South Carolina is also a top destination for golf and water sports. Major agricultural outputs of the state are tobacco, poultry, cotton, cattle, dairy products, soybeans, hay, rice, and swine. Markets in which the stations are located include Columbia, Florence, Allendale, Myrtle Beach, Greenville, Charleston, Conway, Beaufort, Hardeeville, Spartanburg, Greenwood, Anderson and Sumter.
+\Predicted Summary:
+of England and was named in honor of King Charles I of England, who first formed the colony . South Carolina is a state in the Deep South region of the Southern United States . the state is divided into three natural areas which can be subdivided into five distinct cultural regions .
+
+GT:
+South Carolina has many venues for visual and performing arts. The Gibbes Museum of Art in Charleston, the Greenville County Museum of Art, the Columbia Museum of Art, Spartanburg Art Museum, and the South Carolina State Museum in Columbia among others provide access to visual arts to the state. There are also numerous historic sites and museums scattered throughout the state paying homage to many events and periods in the state's history from Native American inhabitation to the present day. South Carolina also has performing art venues including the Peace Center in Greenville, the Koger Center for the Arts in Columbia, and the Newberry Opera House, among others to bring local, national, and international talent to the stages of South Carolina. Several large venues can house major events, including Colonial Life Arena in Columbia, Bon Secours Wellness Arena in Greenville, and North Charleston Coliseum. One of the nation's major performing arts festivals, Spoleto Festival USA, is held annually in Charleston. According to the South Carolina Arts Commission, creative industries generate $9.2 billion annually and support over 78,000 jobs in the state. A 2009 statewide poll by the University of South Carolina Institute for Public Service and Policy Research found that 67% of residents had participated in the arts in some form during the past year and on average citizens had participated in the arts 14 times in the previous year.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09401709401709402, 0.44, 0.1549295774647887, 0.09683098591549294]
+[0.017167381974248927, 0.08163265306122448, 0.028368794326241134, 0.01773049645390071]
+[0.0641025641025641, 0.3, 0.1056338028169014, 0.06602112676056338]
+
+
+SBERT sim. Score: 0.412562757730484

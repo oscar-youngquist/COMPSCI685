@@ -1,0 +1,21 @@
+Document:
+west_virginia
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The governor, lieutenant governor, the judiciary, sheriffs, and other county officers were to be elected by public vote. The West Virginia Legislature is bicameral. It consists of the House of Delegates and the Senatorte, both housed in the West Virginia State Capitol. It is a citizen's legislature, meaning that legislative office is not a full-time occupation, but rather a part-time position. Legislators also gather periodically for 'special' sessions when called by the governor. The title of Lieutenant Governor is assigned by statute to the senate president. The title of Lieutenant Governor is assigned by statute to the senate president. For the purpose of courts of general jurisdiction, the state is divided into 31 judicial circuits. Circuit judges are elected in non-partisan elections to serve eight-year terms. The Supreme Court is made up of five justices, elected in non-partisan elections to 12-year terms. After the 2014 midterm elections Democrats controlled the governorship, the majority of statewide offices, and one US Senatorte seat, while Republicans held one US Senatorte seat, all three of the state's US House seats, and a majority in both houses of the West Virginia Legislature.
+\Predicted Summary:
+, and, the first state to separate from a Confederate state during the American Civil War . West Virginia is the 41st-largest state in the southern United States . West Virginia is bordered by Pennsylvania to the northeast, Maryland to the east and northeast .
+
+GT:
+The West Virginia Legislature is bicameral. It consists of the House of Delegates and the Senatorte, both housed in the West Virginia State Capitol. It is a citizen's legislature, meaning that legislative office is not a full-time occupation, but rather a part-time position. The governor, elected every four years on the same day as the US presidential election, is sworn in during the following January. Governors of West Virginia can serve two consecutive terms but must sit out a term before serving a third term in office. For the purpose of courts of general jurisdiction, the state is divided into 31 judicial circuits. Each circuit is made up of one or more counties. Circuit judges are elected in non-partisan elections to serve eight-year terms. West Virginia's highest court is the Supreme Court of Appeals. The Supreme Court is made up of five justices, elected in non-partisan elections to 12-year terms.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12658227848101267, 0.47619047619047616, 0.2, 0.125]
+[0.03821656050955414, 0.14634146341463414, 0.0606060606060606, 0.03787878787878788]
+[0.10126582278481013, 0.38095238095238093, 0.16, 0.1]
+
+
+SBERT sim. Score: 0.5223403573036194

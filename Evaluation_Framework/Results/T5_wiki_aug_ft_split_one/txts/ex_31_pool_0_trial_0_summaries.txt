@@ -1,0 +1,21 @@
+Document:
+mississippi
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Their large earthworks, which expressed their cosmology of political and religious concepts, still stand throughout the Mississippi and Ohio River valleys. Blacks and whites in Mississippi generated rich, quintessentially American music traditions: gospel music, country music, jazz, blues and rock and roll. While Mississippi has been especially known for its music and literature, it has embraced other forms of art. Its strong religious traditions have inspired striking works by outsider artists who have been shown nationally. The Magnolia Independent Film Festival, still held annually in Starkville, is the first and oldest in the state. Their friendship and respect is an important example of Mississippi's musical legacy. The Delta Blues Museum there is visited by tourists from all over the world. and Afroman, Mississippi musicians have been significant in all genres.
+\Predicted Summary:
+,, and the 1960s, movement. Mississippi is the 32nd largest and 34th-most populous state admitted to the Union . Mississippi is bordered to the east by Tennessee; to the east by the Alabama; to the southwest by the Mississippi Gulf of Mexico; and to the northwest by Arkansas .
+
+GT:
+While Mississippi has been especially known for its music and literature, it has embraced other forms of art. Its strong religious traditions have inspired striking works by outsider artists who have been shown nationally. Jackson established the USA International Ballet Competition, which is held every four years. This ballet competition attracts the most talented young dancers from around the world. Musicians of the state's Delta region were historically significant to the development of the blues. While the state has had a reputation for being racist, Mississippi musicians created new forms by combining and creating variations on musical traditions from Africa, African American traditions, and the musical traditions of white Southerners strongly shaped by Scots-Irish and other styles. The Delta Blues Museum there is visited by tourists from all over the world. From opera star Leontyne Price to the alternative rock band 3 Doors Down, to gulf and western singer Jimmy Buffett, modern rock/jazz/world music guitarist-producer Clifton Hyde, to rappers David Banner, Big K.R.I.T. and Afroman, Mississippi musicians have been significant in all genres.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16022099447513813, 0.6170212765957447, 0.2543859649122807, 0.15899122807017543]
+[0.016666666666666666, 0.06521739130434782, 0.026548672566371685, 0.016592920353982302]
+[0.10497237569060773, 0.40425531914893614, 0.16666666666666666, 0.10416666666666667]
+
+
+SBERT sim. Score: 0.4451654851436615

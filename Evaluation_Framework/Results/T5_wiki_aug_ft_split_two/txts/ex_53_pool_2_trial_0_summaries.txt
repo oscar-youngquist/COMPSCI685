@@ -1,0 +1,21 @@
+Document:
+north_dakota
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It is the base of the state's great agricultural wealth. North Dakota's economy is based more heavily on farming than the economies of most other states. Many of the state's merchants also rely on agriculture. This makes North Dakota the US state with the largest percentage in population growth since 2011. The state has recorded the highest personal income growth among all states for the sixth time since 2007. The share of people in the state employed in agriculture is comparatively high: as of 2008, only two to three percent of the population of the United States is directly employed in agriculture. The Tax Foundation ranks North Dakota as the state with the 20th most "business friendly" tax climate in the nation.
+\Predicted Summary:
+, the largest city in North Dakota, and the largest city is Bismarck . North Dakota is named after the Lakota and Dakota Sioux Native American tribes, who comprise large portions of the population . North Dakota is located in the Upper Midwest region of the United States .
+
+GT:
+Agriculture is North Dakota's largest industry, although petroleum, food processing, and technology are also major industries. According to Gallup data, North Dakota led the US in job creation in 2013 and has done so since 2009. As of December 2019, the state's unemployment rate is among the lowest in the nation at 2.4 percent. At end of 2010, the state per capita income was ranked 17th in the nation, the biggest increase of any state in a decade from rank 38th. North Dakota has six level-II trauma centers, 44 hospitals, 52 rural health clinics, and 80 nursing homes. North Dakota expanded Medicaid in 2014, and its health insurance exchange is the federal site, HealthCare.gov. North Dakota law requires pharmacies, other than hospital dispensaries and pre-existing stores, to be majority-owned by pharmacists. The North Dakota Department of Emergency Services provides 24/7 communication and coordination for more than 50 agencies.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15384615384615385, 0.5333333333333333, 0.23880597014925373, 0.1492537313432836]
+[0.025806451612903226, 0.09090909090909091, 0.04020100502512563, 0.02512562814070352]
+[0.09615384615384616, 0.3333333333333333, 0.14925373134328357, 0.09328358208955223]
+
+
+SBERT sim. Score: 0.46145105361938477

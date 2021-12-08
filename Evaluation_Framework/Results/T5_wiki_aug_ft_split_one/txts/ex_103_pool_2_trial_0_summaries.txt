@@ -1,0 +1,21 @@
+Document:
+california
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+As a result of the state's diversity and migration, California integrates foods, languages, and traditions from other areas across the country and around the globe. The state's diverse geography ranges from the Pacific Coast in the west to the Sierra Nevada mountain range in the east, and from the redwood and Douglas fir forests in the northwest to the Mojave Desert in the southeast. The Central Valley, a major agricultural area, dominates the state's center. As a result of these efforts, California is regarded as a world center of the entertainment and music industries, of technology, engineering, and the aerospace industry, and as the United States center of agricultural production. This includes the relatively cool summers of the Humboldt Bay region around Eureka, the extreme heat of Death Valley, and the mountain climate of Mammoth in the Sierra Nevada. California is also the birthplace of several international music genres, including the Bakersfield sound, Bay Area thrash metal, g-funk, nu metal, stoner rock, surf music, West Coast hip hop, and West Coast jazz. California has nineteen major professional sports league franchises, far more than any other state. San Diego and Sacramento each have one major league team. California has long had many respected collegiate sports programs. As of the 2016 presidential election, California was the second most Democratic state behind Hawaii.
+\Predicted Summary:
+, the second-most-populous city, and the city of San Francisco Bay Area, is the nation's second- and fifth-largest urban economies . California is the fifth-largest subnational economy in the world, and the 37th-most populous as of 2020 . California is considered the origin of the hippie counterculture, beach and car culture, the Internet, the tv, and the internet .
+
+GT:
+The culture of California is a Western culture and most clearly has its modern roots in the culture of the United States, but also, historically, many Hispanic Californio and Mexican influences. As a border and coastal state, Californian culture has been greatly influenced by several large immigrant populations, especially those from Latin America and Asia. In the early 20th century, fueled by the efforts of state and local boosters, many Americans saw the Golden State as an ideal resort destination, sunny and dry all year round with easy access to the ocean and mountains. The California Gold Rush of the 1850s is still seen as a symbol of California's economic style, which tends to generate technology, social, entertainment, and economic fads and booms and related busts. Hollywood and the rest of the Los Angeles area is a major global center for entertainment, with the US film industry's "Big Five" major film studios (Columbia, Disney, Paramount, Universal, and Warner Bros.) being based in or around the area. The San Francisco Bay Area is home to several prominent internet media and social media companies, including three of the "Big Five" technology companies (Apple, Facebook, and Google) as well as other services such as Netflix, Pandora Radio, Twitter, Yahoo!, and YouTube. One of the oldest radio stations in the United States still in existence, KCBS (AM) in the Bay Area, was founded in 1909. California has nineteen major professional sports league franchises, far more than any other state. The San Francisco Bay Area has six major league teams spread in its three major cities: San Francisco, San Jose, and Oakland, while the Greater Los Angeles Area is home to ten major league franchises. California is the only US state to have hosted both the Summer and Winter Olympics. The 1932 and 1984 summer games were held in Los Angeles. Squaw Valley Ski Resort in the Lake Tahoe region hosted the 1960 Winter Olympics. Los Angeles will host the 2028 Summer Olympics, marking the fourth time that California will have hosted the Olympic Games.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10526315789473684, 0.5901639344262295, 0.17866004962779156, 0.11166253101736973]
+[0.02932551319648094, 0.16666666666666666, 0.04987531172069826, 0.03117206982543641]
+[0.07602339181286549, 0.4262295081967213, 0.12903225806451613, 0.08064516129032258]
+
+
+SBERT sim. Score: 0.6454801559448242

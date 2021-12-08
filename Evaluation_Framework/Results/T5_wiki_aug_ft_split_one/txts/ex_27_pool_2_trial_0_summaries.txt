@@ -1,0 +1,21 @@
+Document:
+california
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Although it accounts for only 1.5% of the state's economy, California's agriculture industry has the highest output of any US state. The state's diverse geography ranges from the Pacific Coast in the west to the Sierra Nevada mountain range in the east, and from the redwood and Douglas fir forests in the northwest to the Mojave Desert in the southeast. Much of the state was extremely well suited to fruit cultivation and agriculture in general. California contains more forestland than any other state except Alaska. California is one of the richest and most diverse parts of the world, and includes some of the most endangered ecological communities. Because it is the most populous state in the United States, California is one of the country's largest users of energy. However because of its high energy rates, conservation mandates, mild weather in the largest population centers and strong environmental movement, its per capita energy use is one of the smallest of any state in the United States. Due to the high electricity demand, California imports more electricity than any other state, primarily hydroelectric power from states in the Pacific Northwest (via Path 15 and Path 66) and coal- and natural gas-fired production from the desert Southwest via Path 46. As of the 2016 presidential election, California was the second most Democratic state behind Hawaii.
+\Predicted Summary:
+, the state of California is the third-most populous, after New York City . California is considered a global trendsetter in popular culture, communication, innovation, politics, and entertainment . it is considered the origin of hippie counterculture, . coffee, coffee, the internet, the hippie culture, the internet, the hippie counterculture, the .
+
+GT:
+California is considered a global trendsetter in popular culture, communication, information, innovation, environmentalism, economics, politics, and entertainment. As a result of the state's diversity and migration, California integrates foods, languages, and traditions from other areas across the country and around the globe. California's economy is very diverse: 58% of it is based on finance, government, real estate services, technology, and professional, scientific, and technical business services. The state's diverse geography ranges from the Pacific Coast in the west to the Sierra Nevada mountain range in the east, and from the redwood and Douglas fir forests in the northwest to the Mojave Desert in the southeast. Although California is well-known for its warm Mediterranean climate and monsoon seasonal weather, the large size of the state results in climates that vary from moist temperate rainforest in the north to arid desert in the interior, as well as snowy alpine in the mountains. California is one of the richest and most diverse parts of the world, and includes some of the most endangered ecological communities. As a result of the state's strong environmental movement, California has some of the most aggressive renewable energy goals in the United States, with a target for California to obtain a third of its electricity from renewables by 2020.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14351851851851852, 0.6458333333333334, 0.23484848484848486, 0.14678030303030304]
+[0.06511627906976744, 0.2978723404255319, 0.10687022900763357, 0.06679389312977099]
+[0.10648148148148148, 0.4791666666666667, 0.17424242424242425, 0.10890151515151517]
+
+
+SBERT sim. Score: 0.5657047033309937

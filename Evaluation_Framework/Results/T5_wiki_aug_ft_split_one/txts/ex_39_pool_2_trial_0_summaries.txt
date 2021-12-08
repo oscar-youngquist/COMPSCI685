@@ -1,0 +1,21 @@
+Document:
+california
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Although it accounts for only 1.5% of the state's economy, California's agriculture industry has the highest output of any US state. California is the third-largest state in the United States in area, after Alaska and Texas. California contains more forestland than any other state except Alaska. However because of its high energy rates, conservation mandates, mild weather in the largest population centers and strong environmental movement, its per capita energy use is one of the smallest of any state in the United States. The Reason Foundation's 19th Annual Report on the Performance of State Highway Systems ranked California's highways the third-worst of any state, with Alaska second, and Rhode Island first. As of the 2016 presidential election, California was the second most Democratic state behind Hawaii. Among the political idiosyncrasies and trendsetting, California was the second state to recall their state governor, the second state to legalize abortion, and the only state to ban marriage for gay couples twice by vote (including Proposition 8 in 2008). The Democrats also now hold a supermajority in both houses of the state legislature.
+\Predicted Summary:
+, and is the third-most populous city in the world, and the third-largest subnational entity in the world . California is considered a global trendsetter in popular culture, communication, information, information, and culture . California is considered a global trendetter in popular culture, communication, information, information, information, and environmentalism . California is considered a global . global economyetter in popular culture, communication, information, information, and culture .
+
+GT:
+California also has the nation's most populous county, Los Angeles County, and its largest county by area, San Bernardino County. California's economy, with a gross state product of $3.2 trillion as of 2019, is the largest sub-national economy in the world. The San Francisco Bay Area Combined Statistical Area had the nation's highest gross domestic product per capita in 2018 ($106,757) among large primary statistical areas, and is home to four of the world's ten largest companies by market capitalization and four of the world's ten richest people. California is considered a global trendsetter in popular culture, communication, information, innovation, environmentalism, economics, politics, and entertainment. As a result of the state's diversity and migration, California integrates foods, languages, and traditions from other areas across the country and around the globe. It is considered the origin of the hippie counterculture, beach and car culture, the Internet, and the personal computer, among others. California's economy is very diverse: 58% of it is based on finance, government, real estate services, technology, and professional, scientific, and technical business services. California is one of the richest and most diverse parts of the world, and includes some of the most endangered ecological communities. In 2016, California's K–12 public school per-pupil spending was ranked 22nd in the nation ($11,500 per student vs. $11,800 for the US average). For 2012, California's K–12 public schools ranked 48th in the number of employees per student, at 0.102 (the US average was 0.137), while paying the 7th most per employee, $49,000 (the US average was $39,000). The five largest sectors of employment in California are trade, transportation, and utilities; government; professional and business services; education and health services; and leisure and hospitality.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13245033112582782, 0.6349206349206349, 0.21917808219178084, 0.13698630136986303]
+[0.06976744186046512, 0.3387096774193548, 0.11570247933884296, 0.07231404958677685]
+[0.10596026490066225, 0.5079365079365079, 0.17534246575342466, 0.10958904109589042]
+
+
+SBERT sim. Score: 0.6956774592399597

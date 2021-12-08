@@ -1,0 +1,21 @@
+Document:
+new_hampshire
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+It is the state with the highest percentage of timberland area in the country. Much of the state, in particular the White Mountains, is covered by the conifers and northern hardwoods of the New England-Acadian forests. The northern parts of the state produced lumber, and the mountains provided tourist attractions. The center of population has moved south 12 miles (19 km) since 1950, a reflection of the fact the state's fastest growth has been along its southern border, which is within commuting range of Boston and other Massachusetts cities. The four counties covering these two areas account for 72% of the state population, and one (Hillsborough) has nearly 30% of the state population, as well as the two most populous communities, Manchester and Nashua. New Hampshire has the highest percentage (22.9%) of residents with French/French-Canadian/Acadian ancestry of any US state. The Democratic Party and the Republican Party are the two largest parties in the state. Tourist railroads include the Conway Scenic Railroad, Hobo-Winnipesaukee Railroad, and the Mount Washington Cog Railway. The following sports teams are based in New Hampshire: Other motor racing venues include Star Speedway and New England Dragway in Epping, Lee Speedway in Lee, Twin State Speedway in Claremont, Monadnock Speedway in Winchester and Canaan Fair Speedway in Canaan. Annually since 2002, high-school statewide all-stars compete against Vermont in ten sports during "Twin State" playoffs.
+\Predicted Summary:
+, and the smallest by area, the 10th smallest by region and the 10th most populous state . New Hampshire is the state capital, while Manchester is the largest city . in the 1980s, it became the first state to ratify the united states constitution . it is the first of the first of the British North American colonies to establish a government independent of the Kingdom of Great Britain .
+
+GT:
+The New Hampshire Motor Speedway in Loudon is an oval track and road course which has been visited by national motorsport championship series such as the NASCAR Cup Series, the NASCAR Xfinity Series, the NASCAR Camping World Truck Series, NASCAR Whelen Modified Tour, American Canadian Tour (ACT), the Champ Car and the IndyCar Series. New Hampshire has two universities competing at the NCAA Division I in all collegiate sports: the Dartmouth Big Green (Ivy League) and the New Hampshire Wildcats (America East Conference), as well as three NCAA Division II teams: Franklin Pierce Ravens, Saint Anselm Hawks and Southern New Hampshire Penmen (Northeast-10 Conference). Annually since 2002, high-school statewide all-stars compete against Vermont in ten sports during "Twin State" playoffs. In the spring, New Hampshire's many sap houses hold sugaring-off open houses. In summer and early autumn, New Hampshire is home to many county fairs, the largest being the Hopkinton State Fair, in Contoocook. New Hampshire's Lakes Region is home to many summer camps, especially around Lake Winnipesaukee, and is a popular tourist destination. In September, New Hampshire is host to the New Hampshire Highland Games. New Hampshire has also registered an official tartan with the proper authorities in Scotland, used to make kilts worn by the Lincoln Police Department while its officers serve during the games. In the winter, New Hampshire's ski areas and snowmobile trails attract visitors from a wide area. After the lakes freeze over they become dotted with ice fishing ice houses, known locally as bobhouses.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1245136186770428, 0.48484848484848486, 0.19814241486068113, 0.12383900928792571]
+[0.0234375, 0.09230769230769231, 0.037383177570093455, 0.02336448598130841]
+[0.08171206225680934, 0.3181818181818182, 0.13003095975232198, 0.08126934984520125]
+
+
+SBERT sim. Score: 0.329540491104126

@@ -1,0 +1,21 @@
+Document:
+west_virginia
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Through the first half of 2010, exports from West Virginia topped $3 billion, growing 39.5% over the same period from the previous year and ahead of the national average by 15.7%. The US Bureau of Economic Analysis reported that in 2014 West Virginia's economy grew twice as fast as the next fastest growing state east of the Mississippi River, ranking third alongside Wyoming and just behind North Dakota and Texas among the fastest growing states in the United States. Tourism contributed $4.27 billion to the state's economy and employed 44,400 people in 2010, making it one of the state's largest industries. One of the major resources in West Virginia's economy is coal. As of 2017, the coal industry accounted for 2% of state employment. West Virginia produces a surplus of electricity and leads the Nation in net interstate electricity exports. West Virginia ranked 48th in the CNBC "Top States for Business 2013" based on measures of competitiveness such as economy, workforce and cost of living—ranking among the bottom five states for the last six years running. West Virginia ranked 49th in the 2014 State New Economy Index, and has ranked in the bottom three states since 1999. In 2012, West Virginia's Gross Domestic Product (GDP) grew by 3.3%. In West Virginia during the same time period, its real GDP increased about 11%, while total employment decreased by 1,000 jobs from 746,000 to 745,000. This is expected to also help bring economic growth to the southern half of the state.
+\Predicted Summary:
+by area, with around 1.791 million residents. West Virginia is a state in the Appalachian and Mid-Atlantic regions of the Southern United States. West Virginia is the 41st-largest by area and ranks 38th in population . it is bordered by Pennsylvania to the northeast, Maryland to the east and northeast, Virginia to the southeast, and Ohio to the northwest .
+
+GT:
+Through the first half of 2010, exports from West Virginia topped $3 billion, growing 39.5% over the same period from the previous year and ahead of the national average by 15.7%. Morgantown was ranked by Forbes as the #10 best small city in the nation to conduct business in 2010. Tourism contributed $4.27 billion to the state's economy and employed 44,400 people in 2010, making it one of the state's largest industries. One of the major resources in West Virginia's economy is coal. West Virginia is located in the heart of the Marcellus Shale Natural Gas Bed, which stretches from Tennessee north to New York in the middle of Appalachia. West Virginia produces a surplus of electricity and leads the Nation in net interstate electricity exports. Farming is also practiced in West Virginia, but on a limited basis because of the mountainous terrain over much of the state. West Virginia coal exports declined 40% in 2013—a loss of $2.9 billion and overall total exports declined 26%. In 2012, West Virginia's Gross Domestic Product (GDP) grew by 3.3%. The state issued a report highlighting the state's GDP as indicating a fast-growing economy, but did not address employment indicators. The state lost 5,600 jobs in its labor force in four critical economic sectors: construction (1,900), manufacturing (1,100), retail (1,800), and education (800), while gaining just 400 in mining and logging.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14285714285714285, 0.5737704918032787, 0.22875816993464054, 0.14297385620915032]
+[0.028688524590163935, 0.11666666666666667, 0.046052631578947366, 0.0287828947368421]
+[0.08571428571428572, 0.3442622950819672, 0.13725490196078433, 0.0857843137254902]
+
+
+SBERT sim. Score: 0.6268784999847412

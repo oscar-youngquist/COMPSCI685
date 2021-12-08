@@ -1,0 +1,21 @@
+Document:
+idaho
+
+Intent:
+How is the government structured in this state?
+
+Input:
+Notably, the state constitution presently requires the state government to maintain a balanced budget. The constitution of Idaho provides for three branches of government: the executive, legislative and judicial branches. Idaho has a bicameral legislature, elected from 35 legislative districts, each represented by one senator and two representatives. Since 1946, statewide elected constitutional officers have been elected to four-year terms. They include: Governor, Lieutenant Governor, Secretary of State, Idaho state controller (Auditor before 1994), Treasurer, Attorney General, and Superintendent of Public Instruction. The governor of Idaho serves a four-year term, and is elected during what is nationally referred to as midterm elections. Idaho's legislature is part-time. Because of this, Idaho's legislators are considered "citizen legislators", meaning their position as a legislator is not their main occupation. Terms for both the Senatorte and House of Representatives are two years. Legislative elections occur every even numbered year. The Idaho Legislature has been continuously controlled by the Republican Party since the late 1950s, although Democratic legislators are routinely elected from Boise, Pocatello, Blaine County and the northern Panhandle. The state's District Courts serve seven judicial districts. Idaho is divided into political jurisdictions designated as counties. In contrast, most of the territorial governors were appointed by Republican presidents and were Republicans. Several Idaho Democrats have had electoral success in the House over the years, but the Senatorte delegation has been a Republican stronghold for decades. However, Democrats picked up several seats in the Idaho Legislature, notably in the Boise area. Every Republican candidate running won their respective race and Idaho residents voted overwhelmingly to retain Republican judges.
+\Predicted Summary:
+is the Pacific Northwest region of the United States. Idaho is a state in the Pacific Northwest with a population of approximately 1.7 million . Idaho is the 14th largest, the 7th least densely populated state . Idaho is a state in the Pacific Northwest region of the United States .
+
+GT:
+The constitution of Idaho is roughly modeled on the national constitution with several additions. The constitution defines the form and functions of the state government, and may be amended through plebiscite. Notably, the state constitution presently requires the state government to maintain a balanced budget. As result, Idaho has limited debt (construction bonds, etc. All of Idaho's state laws are contained in the Idaho Code and Statutes. The code is amended through the legislature with the approval of the governor. Idaho still operates under its original (1889) state constitution. The constitution of Idaho provides for three branches of government: the executive, legislative and judicial branches. Idaho has a bicameral legislature, elected from 35 legislative districts, each represented by one senator and two representatives. Since 1946, statewide elected constitutional officers have been elected to four-year terms. They include: Governor, Lieutenant Governor, Secretary of State, Idaho state controller (Auditor before 1994), Treasurer, Attorney General, and Superintendent of Public Instruction. The governor of Idaho serves a four-year term, and is elected during what is nationally referred to as midterm elections. As such, the governor is not elected in the same election year as the president of the United States. Idaho's legislature is part-time. However, the session may be extended if necessary, and often is. Because of this, Idaho's legislators are considered "citizen legislators", meaning their position as a legislator is not their main occupation. The highest court in Idaho is the Idaho Supreme Court. Idaho is divided into political jurisdictions designated as counties.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11328125, 0.5918367346938775, 0.1901639344262295, 0.11885245901639345]
+[0.047058823529411764, 0.25, 0.07920792079207921, 0.04950495049504951]
+[0.08984375, 0.46938775510204084, 0.15081967213114753, 0.0942622950819672]
+
+
+SBERT sim. Score: 0.5501856803894043

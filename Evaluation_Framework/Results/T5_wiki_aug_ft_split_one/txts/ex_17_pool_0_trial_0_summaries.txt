@@ -1,0 +1,21 @@
+Document:
+arizona
+
+Intent:
+What drives the economy in this state?
+
+Input:
+It is the 6th largest and the 14th most populous of the 50 states. The boom and bust economy of mining also left hundreds of ghost towns across the territory, but copper mining continued to prosper with the territory producing more copper than any other state by 1907, which earned Arizona the nickname "the Copper State" at the time of statehood. The state continues to produce half of the nation's newly mined copper. Cotton farming and copper mining, two of Arizona's most important statewide industries, suffered heavily during the Great Depression. This figure gives Arizona a larger economy than such countries as Ireland, Finland, and New Zealand. The composition of the state's economy is moderately diverse; although health care, transportation and the government remain the largest sectors. Early in its history, Arizona's economy relied on the "five C's": copper (see Copper mining in Arizona), cotton, cattle, citrus, and climate (tourism). Copper is still extensively mined from many expansive open-pit and underground mines, accounting for two-thirds of the nation's output.
+\Predicted Summary:
+s, derived from the name al onak, meaning "small spring" in the state. Arizona is known for its desert climate, with hot summers and mild winters . Arizona is the 48th state and last of the contiguous states to be admitted to the Union . About one-quarter of the state is made up of Indian reservations .
+
+GT:
+Cotton farming and copper mining, two of Arizona's most important statewide industries, suffered heavily during the Great Depression. The composition of the state's economy is moderately diverse; although health care, transportation and the government remain the largest sectors. Early in its history, Arizona's economy relied on the "five C's": copper (see Copper mining in Arizona), cotton, cattle, citrus, and climate (tourism). Copper is still extensively mined from many expansive open-pit and underground mines, accounting for two-thirds of the nation's output. The state government is Arizona's largest employer, while Banner Health is the state's largest private employer, with more than 39,000 employees (2016). The fiscal year 2006–07 general fund budget, approved by the Arizona Legislature in June 2006, was slightly less than $10 billion. Besides the money spent on state agencies, it also included more than $500 million in income and property tax cuts, pay raises for government employees, and additional funding for the K–12 education system.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16071428571428573, 0.4909090909090909, 0.24215246636771298, 0.15134529147982062]
+[0.029940119760479042, 0.09259259259259259, 0.04524886877828054, 0.028280542986425343]
+[0.09523809523809523, 0.2909090909090909, 0.14349775784753363, 0.0896860986547085]
+
+
+SBERT sim. Score: 0.4569253921508789

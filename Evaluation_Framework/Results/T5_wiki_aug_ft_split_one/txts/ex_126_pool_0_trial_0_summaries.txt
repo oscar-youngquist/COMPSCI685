@@ -1,0 +1,21 @@
+Document:
+massachusetts
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The Government of Massachusetts is divided into three branches: executive, legislative, and judicial. The governor of Massachusetts heads the executive branch; duties of the governor include signing or vetoing legislation, filling judicial and agency appointments, granting pardons, preparing an annual budget, and commanding the Massachusetts National Guard. Each branch consists of several committees. The Massachusetts Supreme Judicial Court (a chief justice and six associates) are appointed by the governor and confirmed by the executive council, as are all other judges in the state. Both houses of the legislature have had Democratic majorities since the 1950s. The voters of these now-defunct counties elect only Sheriffs and Registers of Deeds, who are part of the state government.
+\Predicted Summary:
+Massachusetts, Massachusetts, is the most populous state in the Northeastern United States . Massachusetts is the capital of Massachusetts, which is home to the Greater Boston metropolitan area . Massachusetts is the most populous state in the Northeastern United States .
+
+GT:
+The Government of Massachusetts is divided into three branches: executive, legislative, and judicial. The governor of Massachusetts heads the executive branch; duties of the governor include signing or vetoing legislation, filling judicial and agency appointments, granting pardons, preparing an annual budget, and commanding the Massachusetts National Guard. The House consists of 160 members while the Senatorte has 40 members. The Massachusetts Supreme Judicial Court (a chief justice and six associates) are appointed by the governor and confirmed by the executive council, as are all other judges in the state. The Congressional delegation from Massachusetts is entirely Democratic. Federal court cases are heard in the United States District Court for the District of Massachusetts, and appeals are heard by the United States Court of Appeals for the First Circuit. Massachusetts has gradually shifted from a Republican-leaning state to one largely dominated by Democrats; the 1952 victory of John F. Kennedy over incumbent Senatortor Henry Cabot Lodge, Jr. is seen as a watershed moment in this transformation.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14457831325301204, 0.631578947368421, 0.2352941176470588, 0.14705882352941177]
+[0.04242424242424243, 0.1891891891891892, 0.06930693069306931, 0.04331683168316832]
+[0.0963855421686747, 0.42105263157894735, 0.15686274509803924, 0.09803921568627451]
+
+
+SBERT sim. Score: 0.4346720278263092

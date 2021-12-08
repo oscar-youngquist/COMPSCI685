@@ -1,0 +1,21 @@
+Document:
+kansas
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The state is divided into 105 counties with 628 cities, with its largest county by area being Butler County. By state statute, cities are divided into three classes as determined by the population obtained "by any census of enumeration". All sales tax collected is remitted to the state department of revenue, and local taxes are then distributed to the various taxing agencies. This is because of the high number of counties and county seats (105) and their intertwining. Executive branch: The executive branch consists of one officer and five elected officers. The governor and lieutenant governor are elected on the same ticket. The attorney general, secretary of state, state treasurer, and state insurance commissioner are each elected separately. Legislative branch: The bicameral Kansas Legislature consists of the Kansas House of Representatives, with 125 members serving two-year terms, and the Kansas Senatorte, with 40 members serving four-year terms. Judicial branch: The judicial branch of the state government is headed by the Kansas Supreme Court. The court has seven judges. A vacancy is filled by the Governor picking one of three nominees selected by the nine-member Kansas Supreme Court Nominating Commission. The board consists of five Kansas lawyers elected by other Kansas lawyers and four members selected by the governor. In 2010, Sam Brownback was elected governor with 63 percent of the state vote. He was sworn in as governor in 2011, Kansas's first Republican governor in eight years. Brownback had established himself as a conservative member of the US Senatorte in years prior, but since becoming governor has made several controversial decisions, leading to a 23% approval rating among registered voters, the lowest of any governor in the United States. The state's current delegation to the Congress of the United States includes Republican Senatortors Pat Roberts of Dodge City and Jerry Moran of Manhattan; and Republican Representatives Roger Marshall of Great Bend (District 1), Steve Watkins (District 2), Ron Estes of Wichita (District 4), and Democratic Representative Sharice Davids (District 3). This is the longest Senatorte losing streak for either party in a single state.
+\Predicted Summary:
+Kansas, and is the 34th most-populous state by area. Kansas is the 34th most-populous state by area. Kansas was first opened to the US in 1861, and was once a slave state . By 2015, Kansas was home to numerous and diverse Native American tribes.
+
+GT:
+Executive branch: The executive branch consists of one officer and five elected officers. The governor and lieutenant governor are elected on the same ticket. The attorney general, secretary of state, state treasurer, and state insurance commissioner are each elected separately. Legislative branch: The bicameral Kansas Legislature consists of the Kansas House of Representatives, with 125 members serving two-year terms, and the Kansas Senatorte, with 40 members serving four-year terms. Judicial branch: The judicial branch of the state government is headed by the Kansas Supreme Court. The court has seven judges. A vacancy is filled by the Governor picking one of three nominees selected by the nine-member Kansas Supreme Court Nominating Commission. The board consists of five Kansas lawyers elected by other Kansas lawyers and four members selected by the governor.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14285714285714285, 0.41304347826086957, 0.2122905027932961, 0.13268156424581004]
+[0.0, 0.0, 0.0, 0.0]
+[0.10526315789473684, 0.30434782608695654, 0.1564245810055866, 0.09776536312849163]
+
+
+SBERT sim. Score: 0.37894967198371887

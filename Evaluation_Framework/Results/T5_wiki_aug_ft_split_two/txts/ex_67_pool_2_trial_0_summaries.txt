@@ -1,0 +1,21 @@
+Document:
+colorado
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It is the 8th most extensive and 21st most populous US state. In 1849, the Mormons of the Salt Lake Valley organized the extralegal State of Deseret, claiming the entire Great Basin and all lands drained by the rivers Green, Grand, and Colorado. Racial composition of the state's population was: A number of film productions have shot on location in Colorado, especially prominent Westerns like True Grit, The Searchers, and Butch Cassidy and the Sundance Kid. Colorado now also has the largest annual production of beer of any state. It connects Grand Junction and the mountain communities with Denver, and enters Utah and Kansas.
+\Predicted Summary:
+the of the United States Declaration of Independence. Colorado is a state in the western United States, ranking 8th in household income in 2016 . Colorado is a state encompassing most of the southern Rocky Mountains and the western edge of the Great Plains . Colorado is known for its diverse geography, including alpine mountains, mountains, high plains, mesas, canyons, and desert lands . Colorado is a state in the western and southwestern United States .
+
+GT:
+In 2006 voters passed Amendment 43, which purported to ban gay marriage in Colorado. That initiative was nullified by the US Supreme Court's 2015 decision in Obergefell v. Hodges. In 2012, voters amended the state constitution protecting "personal use" of marijuana for adults, establishing a framework to regulate cannabis in a manner similar to alcohol. The first recreational marijuana shops in Colorado, and by extension the United States, opened their doors on January 1, 2014. On May 29, 2019, Governor Jared Polis signed House Bill 1124 immediately prohibiting law enforcement officials in Colorado from holding undocumented immigrants solely on the basis of a request from US Immigration and Customs Enforcement. Colorado is home to 4 national parks, 8 national monuments, 2 national recreation areas, 2 national historic sites, 3 national historic trails, a national scenic trail, 11 national forests, 2 national grasslands, 42 national wilderness areas, 2 national conservation areas, 8 national wildlife refuges, 44 state parks, 307 state wildlife areas, and numerous other scenic, historic, and recreational areas.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16470588235294117, 0.3888888888888889, 0.23140495867768593, 0.1446280991735537]
+[0.01775147928994083, 0.04225352112676056, 0.025, 0.015625000000000003]
+[0.11176470588235295, 0.2638888888888889, 0.15702479338842976, 0.0981404958677686]
+
+
+SBERT sim. Score: 0.4297170042991638

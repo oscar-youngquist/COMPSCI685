@@ -1,0 +1,21 @@
+Document:
+california
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The capital of California is located within Sacramento.The state is organized into three branches of government—the executive branch consisting of the governor and the other independently elected constitutional officers The California executive branch consists of the governor and seven other elected constitutional officers: lieutenant governor, attorney general, secretary of state, state controller, state treasurer, insurance commissioner, and state superintendent of public instruction. They serve four-year terms and may be re-elected only once. Justices of the Supreme Court and Courts of Appeal are appointed by the governor, but are subject to retention by the electorate every 12 years. The administration of the state's court system is controlled by the Judicial Council, composed of the chief justice of the California Supreme Court, 14 judicial officers, four representatives from the State Bar of California, and one member from each house of the state legislature. Each county is governed by an elected board of supervisors. Some larger cities have a directly-elected mayor who oversees the city government. The state of California sends 53 members to the House of Representatives, the nation's largest congressional state delegation. The Democrats also now hold a supermajority in both houses of the state legislature.
+\Predicted Summary:
+,s, and the city of San Francisco Bay Area is the nation's second-most-populous urban region, with more than 9.6 million residents . California is the nation's second-most-populous county, and the country's second-most-populous county, after New York City . the Greater Los Angeles area and the San Francisco Bay Area are the nation's second-most populous urban regions .
+
+GT:
+California is divided into 58 counties. The county government provides countywide services such as law enforcement, jails, elections and voter registration, vital records, property assessment and records, tax collection, public health, health care, social services, libraries, flood control, fire protection, animal control, agricultural regulations, building inspections, ambulance services, and education departments in charge of maintaining statewide standards. Each county is governed by an elected board of supervisors. Incorporated cities and towns in California are either charter or general-law municipalities. General-law municipalities owe their existence to state law and are consequently governed by it Municipalities incorporated in the 19th century tend to be charter municipalities. All ten of the state's most populous cities are charter cities. The Government of San Francisco is the only consolidated city-county in California, where both the city and county governments have been merged into one unified jurisdiction. The state of California sends 53 members to the House of Representatives, the nation's largest congressional state delegation.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15853658536585366, 0.3939393939393939, 0.22608695652173913, 0.14130434782608695]
+[0.05521472392638037, 0.13846153846153847, 0.07894736842105263, 0.049342105263157895]
+[0.10365853658536585, 0.25757575757575757, 0.14782608695652175, 0.09239130434782611]
+
+
+SBERT sim. Score: 0.6588843464851379

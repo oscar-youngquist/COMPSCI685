@@ -1,0 +1,21 @@
+Document:
+alaska
+
+Intent:
+How is the government structured in this state?
+
+Input:
+Various private interests own the remaining land, totaling about one percent of the state. Like all other US states, Alaska is governed as a republic, with three branches of government: an executive branch consisting of the governor of Alaska and his or her appointees which head executive departments; a legislative branch consisting of the Alaska House of Representatives and Alaska Senatorte; and a judicial branch consisting of the Alaska Supreme Court and lower courts. The Alaska Legislature consists of a 40-member House of Representatives and a 20-member Senatorte. Senatortors serve four-year terms and House members two. The lieutenant governor runs separately from the governor in the primaries, but during the general election, the nominee for governor and nominee for lieutenant governor run together on the same ticket. Alaska's court system has four levels: the Alaska Supreme Court, the Alaska Court of Appeals, the superior courts and the district courts. The Supreme Court and the Court of Appeals are appellate courts. Six Republicans and four Democrats have served as governor of Alaska. The Department also issues an annual summary of its operations, including new state laws that directly affect the tax division. Since 1972, however, Republicans have carried the state by large margins. The measure also establishes non-partisan blanket primaries for statewide elections (like in Washington state and California) and ranked-choice voting (like in Maine). Alaska is the third state with jungle primaries for all statewide races, the second state with ranked voting, and the only state with both. The state is divided into 34 recording districts which are centrally administered under a State Recorder. Whereas many US states use a three-tiered system of decentralization—state/county/township—most of Alaska uses only two tiers—state/borough.
+\Predicted Summary:
+of the US is the state of Alaska's third-least populous state by area . Alaska is the largest state by area, comprising more than the next three largest states . Texas, California, and Montana combined .
+
+GT:
+Like all other US states, Alaska is governed as a republic, with three branches of government: an executive branch consisting of the governor of Alaska and his or her appointees which head executive departments; a legislative branch consisting of the Alaska House of Representatives and Alaska Senatorte; and a judicial branch consisting of the Alaska Supreme Court and lower courts. The state of Alaska employs approximately 16,000 people statewide. The Alaska Legislature consists of a 40-member House of Representatives and a 20-member Senatorte. Senatortors serve four-year terms and House members two. The governor of Alaska serves four-year terms. The lieutenant governor runs separately from the governor in the primaries, but during the general election, the nominee for governor and nominee for lieutenant governor run together on the same ticket. Alaska's court system has four levels: the Alaska Supreme Court, the Alaska Court of Appeals, the superior courts and the district courts. The superior and district courts are trial courts. Superior courts are courts of general jurisdiction, while district courts hear only certain types of cases, including misdemeanor criminal cases and civil cases valued up to $100,000. The Supreme Court and the Court of Appeals are appellate courts. The Court of Appeals is required to hear appeals from certain lower-court decisions, including those regarding criminal prosecutions, juvenile delinquency, and habeas corpus. The Supreme Court hears civil appeals and may in its discretion hear criminal appeals.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.06611570247933884, 0.45714285714285713, 0.11552346570397114, 0.07220216606498195]
+[0.024896265560165973, 0.17647058823529413, 0.04363636363636363, 0.02727272727272727]
+[0.045454545454545456, 0.3142857142857143, 0.07942238267148014, 0.049638989169675095]
+
+
+SBERT sim. Score: 0.5050614476203918

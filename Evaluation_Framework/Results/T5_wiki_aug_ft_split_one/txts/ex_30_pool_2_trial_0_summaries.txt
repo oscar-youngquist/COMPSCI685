@@ -1,0 +1,21 @@
+Document:
+arizona
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It is also part of the Western and the Mountain states. It is the 6th largest and the 14th most populous of the 50 states. Arizona is the sixth largest state by area, ranked after New Mexico and before Nevada. Due to its large area and variations in elevation, the state has a wide variety of localized climate conditions. The composition of the state's economy is moderately diverse; although health care, transportation and the government remain the largest sectors. The state's per capita income is $40,828, ranking 39th in the US College sports are also prevalent in Arizona.
+\Predicted Summary:
+, onak, a Spanish name that originally originated only to an area near the silver mining camp of Planchas de Plata, Sonora . Historically part of the state in New Spain, it became part of independent Mexico in 1821 .
+
+GT:
+The population of metropolitan Phoenix increased by 45.3% from 1991 through 2001, helping to make Arizona the second fastest-growing state in the US in the 1990s (the fastest was Nevada). Hispanics or Latinos of any race made up 29.6% of the state's population. The state government is Arizona's largest employer, while Banner Health is the state's largest private employer, with more than 39,000 employees (2016). The state of Arizona does not levy a state tax on food for home consumption or on drugs prescribed by a licensed physician or dentist. Phoenix Art Museum, on the historic Central Avenue Corridor in Phoenix, is the Southwest's largest collection of visual art from across the world. The museum displays international exhibitions alongside the museum's collection of more than 18,000 works of American, Asian, European, Latin American, Western American, modern and contemporary art, and fashion design.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07236842105263158, 0.2972972972972973, 0.11640211640211641, 0.07275132275132276]
+[0.019867549668874173, 0.08333333333333333, 0.03208556149732621, 0.020053475935828877]
+[0.05263157894736842, 0.21621621621621623, 0.08465608465608465, 0.05291005291005291]
+
+
+SBERT sim. Score: 0.06040637195110321

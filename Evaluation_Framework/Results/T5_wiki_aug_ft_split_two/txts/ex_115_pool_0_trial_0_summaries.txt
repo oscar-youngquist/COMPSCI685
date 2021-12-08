@@ -1,0 +1,21 @@
+Document:
+maine
+
+Intent:
+What drives the economy in this state?
+
+Input:
+As of 2010, Maine was also the most rural state in the Union, with only 38.7% of the state's population living within urban areas. Maine's agricultural outputs include poultry, eggs, dairy products, cattle, wild blueberries, apples, maple syrup, and maple sugar. Commercial fishing, once a mainstay of the state's economy, maintains a presence, particularly lobstering and groundfishing. In 2015, 14% of the Northeast's total oyster supply came from Maine. Maine's industrial outputs consist chiefly of paper, lumber and wood products, electronic equipment, leather products, food products, textiles, and bio-technology. The largest toothpick manufacturing plant in the United States used to be located in Strong, Maine. Maine has very few large companies that maintain headquarters in the state, and that number has fallen due to consolidations and mergers, particularly in the pulp and paper industry. Some of the larger companies that do maintain headquarters in Maine include Fairchild Semiconductor in South Portland; IDEXX Laboratories, in Westbrook; Hannaford Bros. Co. in Scarborough; TD Bank in Portland; L.L.Bean in Freeport; and Cole Haan in Yarmouth. During the 18th and 19th centuries, wooden shipbuilding of this sort made up a sizable portion of the economy. Prior to colonization, Wabanaki nations farmed large crops of corn and other produce in southern Maine. The state is a major producer of potatoes, wild blueberries, apples, maple syrup and sweet corn. Dairy products and chicken's eggs are other major industries. Maine has many vegetable farms and other small, diversified farms. Maine has a smaller number of commodity farms and confined animal feeding operations.
+\Predicted Summary:
+colony, the 9th-smallest by area, 9th-least populous, and 13th-least densely populated of the 50 US states . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states . Maine is the 12th-smallest by area, the 9th-least populous, and the only state to border only one other state .
+
+GT:
+Maine's agricultural outputs include poultry, eggs, dairy products, cattle, wild blueberries, apples, maple syrup, and maple sugar. Commercial fishing, once a mainstay of the state's economy, maintains a presence, particularly lobstering and groundfishing. Maine's industrial outputs consist chiefly of paper, lumber and wood products, electronic equipment, leather products, food products, textiles, and bio-technology. Naval shipbuilding and construction remain key as well, with Bath Iron Works in Bath and Portsmouth Naval Shipyard in Kittery. Maine is the number one US producer of low-bush blueberries (Vaccinium angustifolium). Tourism and outdoor recreation play a major and increasingly important role in Maine's economy. Historically, Maine ports played a key role in national transportation.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11304347826086956, 0.20967741935483872, 0.14689265536723164, 0.09180790960451977]
+[0.02631578947368421, 0.04918032786885246, 0.03428571428571429, 0.02142857142857143]
+[0.08695652173913043, 0.16129032258064516, 0.11299435028248588, 0.07062146892655367]
+
+
+SBERT sim. Score: 0.4225480556488037

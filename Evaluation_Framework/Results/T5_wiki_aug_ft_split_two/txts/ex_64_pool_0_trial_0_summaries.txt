@@ -1,0 +1,21 @@
+Document:
+maryland
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Before its coastline was explored by Europeans in the 16th century, Maryland was inhabited by several groups of Native Americans, mostly by the Algonquin, and to a lesser degree by the Iroquois and Sioux. The state's central role in US history is reflected by its hosting of some of the highest numbers of historic landmarks per capita. This population, however, still remains culturally very active and yearly festivals are held. Hispanic immigrants of the later 20th century have settled in Aspen Hill, Hyattsville/Langley Park, Glenmont/Wheaton, Bladensburg, Riverdale Park, Gaithersburg, as well as Highlandtown and Greektown in East Baltimore. Numerous Indian Americans live across the state, especially in central Maryland. The state as a whole is heavily industrialized, with a booming economy and influential technology centers. Tourism is popular in Maryland.
+\Predicted Summary:
+Maryland is a state in the Mid-Atlantic region of the Southern United States . It is known as the Chesapeake Bay State, and the Chesapeake Bay estuary . it is the state's largest city, and its capital is Annapolis . Among its occasional nicknames are Old Line State, the Free State, and the Chesapeake Bay State .
+
+GT:
+African Americans form a sizable portion of the state's population, nearly 30 percent in 2010. Most are descendants of people transported to the area as slaves from West Africa, and many are of mixed race, including European and Native American ancestry. Concentrations of African Americans live in Baltimore City, Prince George's County, a suburb of Washington, D.C., where many work; Charles County, western parts of Baltimore County, and the southern Eastern Shore. The Ethiopian community of Greater DC was historically based in Washington, D.C.'s Adams Morgan and Shaw neighborhoods, but as the community has grown, many Ethiopians have settled in Silver Spring. Smaller but much older Irish populations can be found in Southern Maryland, with some roots dating as far back as the early Maryland colony. This population, however, still remains culturally very active and yearly festivals are held. Large ethnic minorities include Eastern Europeans such as Croatians, Belarusians, Russians and Ukrainians. Following the dissolution of the Soviet Union, Yugoslavia, and Czechoslovakia, many immigrants from Eastern Europe came to the United States—12 percent of whom currently reside in Maryland. The state capital of Annapolis offers sites such as the state capitol building, the historic district, and the waterfront.Maryland also has several sites of interest to military history, given Maryland's role in the American Civil War and in the War of 1812. Other attractions include the historic and picturesque towns along the Chesapeake Bay, such as Saint Mary's, Maryland's first colonial settlement and original capital.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11023622047244094, 0.509090909090909, 0.18122977346278316, 0.11326860841423947]
+[0.043478260869565216, 0.2037037037037037, 0.07166123778501629, 0.04478827361563518]
+[0.08267716535433071, 0.38181818181818183, 0.1359223300970874, 0.08495145631067962]
+
+
+SBERT sim. Score: 0.5128512382507324

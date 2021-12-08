@@ -1,0 +1,21 @@
+Document:
+maine
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The Maine Constitution structures Maine's state government, composed of three co-equal branches—the executive, legislative, and judicial branches. The state of Maine also has three Constitutional Officers (the Secretary of State, the State Treasurer, and the State Attorney General) and one Statutory Officer (the State Auditor). The legislative branch is the Maine Legislature, a bicameral body composed of the Maine House of Representatives, with 151 members, and the Maine Senatorte, with 35 members. The executive branch is responsible for the execution of the laws created by the Legislature and is headed by the Governor of Maine (currently Janet Mills). They captured the governor's office as well as majorities in both chambers of the state legislature for the first time since the early 1970s. Administration, services, licensing, and ordinances are handled by the state government as well as by respective county governments who have townships within each county's bounds.
+\Predicted Summary:
+settlement was established by the French in 1607 on Saint Croix Island . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states . Maine is the 12th-smallest by area, and the 13th-least populous of the US states .
+
+GT:
+The Maine Constitution structures Maine's state government, composed of three co-equal branches—the executive, legislative, and judicial branches. The state of Maine also has three Constitutional Officers (the Secretary of State, the State Treasurer, and the State Attorney General) and one Statutory Officer (the State Auditor). The legislative branch is the Maine Legislature, a bicameral body composed of the Maine House of Representatives, with 151 members, and the Maine Senatorte, with 35 members. The executive branch is responsible for the execution of the laws created by the Legislature and is headed by the Governor of Maine (currently Janet Mills). The Governor is elected every four years The judicial branch is responsible for interpreting state laws.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17094017094017094, 0.4, 0.23952095808383236, 0.14970059880239525]
+[0.05172413793103448, 0.12244897959183673, 0.07272727272727272, 0.045454545454545456]
+[0.1452991452991453, 0.34, 0.2035928143712575, 0.12724550898203596]
+
+
+SBERT sim. Score: 0.33391982316970825

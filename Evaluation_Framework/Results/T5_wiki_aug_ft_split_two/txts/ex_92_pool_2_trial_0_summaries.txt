@@ -1,0 +1,21 @@
+Document:
+maine
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Maine's agricultural outputs include poultry, eggs, dairy products, cattle, wild blueberries, apples, maple syrup, and maple sugar. Commercial fishing, once a mainstay of the state's economy, maintains a presence, particularly lobstering and groundfishing. In 2017, the production of Maine's seaweed industry was estimated at $20 million per year. Maine's industrial outputs consist chiefly of paper, lumber and wood products, electronic equipment, leather products, food products, textiles, and bio-technology. During the 18th and 19th centuries, wooden shipbuilding of this sort made up a sizable portion of the economy. The state is a major producer of potatoes, wild blueberries, apples, maple syrup and sweet corn. Dairy products and chicken's eggs are other major industries.
+\Predicted Summary:
+settlement was the settlement in Maine, which was established by the French in 1604 on Saint Croix Island . The first European settlement in the area was by the French in 1604 on Saint Croix Island, by Pierre Dugua, Sieur de Mons. The first European settlement in the area was by the French in 1604 on Saint Croix Island, and the Atlantic Ocean to the southeast . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least dense
+
+GT:
+Maine's agricultural outputs include poultry, eggs, dairy products, cattle, wild blueberries, apples, maple syrup, and maple sugar. Commercial fishing, once a mainstay of the state's economy, maintains a presence, particularly lobstering and groundfishing. In 2015, 14% of the Northeast's total oyster supply came from Maine. Maine's industrial outputs consist chiefly of paper, lumber and wood products, electronic equipment, leather products, food products, textiles, and bio-technology. Tourism and outdoor recreation play a major and increasingly important role in Maine's economy. The state is a popular destination for sport hunting (particularly deer, moose and bear), sport fishing, snowmobiling, skiing, boating, camping and hiking, among other activities.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09090909090909091, 0.12345679012345678, 0.10471204188481675, 0.06544502617801047]
+[0.009174311926605505, 0.0125, 0.010582010582010581, 0.006613756613756613]
+[0.07272727272727272, 0.09876543209876543, 0.0837696335078534, 0.05235602094240838]
+
+
+SBERT sim. Score: 0.27458763122558594

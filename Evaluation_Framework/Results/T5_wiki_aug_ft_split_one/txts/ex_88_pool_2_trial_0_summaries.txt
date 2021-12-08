@@ -1,0 +1,21 @@
+Document:
+new_york
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+The state has a maritime border with Rhode Island, east of Long Island, as well as an international border with the Canadian provinces of Quebec to the north and Ontario to the northwest. It also connected the burgeoning agricultural production of the Midwest and shipping on the Great Lakes, with the port of New York City. It was chosen due its relative isolation with proximity to New York City and the rail lines of Jersey City, New Jersey, via a short ferry ride. The state operates numerous campgrounds, and there are over 300 miles (480 km) of multi-use trails in the Park. The major cities of the state developed along the key transportation and trade routes of the early 19th century, including the Erie Canal and railroads paralleling it. New York has one of the most extensive and one of the oldest transportation infrastructures in the country. In addition to the well known New York City Subway system—which is confined within New York City—four suburban commuter railroad systems enter and leave the city: the Long Island Rail Road, Metro-North Railroad, Port Authority Trans-Hudson, and five of New Jersey Transit's rail lines. Other cities and towns in New York have urban and regional public transportation. One of the most notable examples is AirTrain JFK which allows rail passengers to travel directly to terminals at John F. Kennedy International Airport as well as to the underground New York City Subway system.
+\Predicted Summary:
+is the state of New York City, the largest city in the world. New York is the most populous city in the world. New York is the most populous city in the world. New York is home to the United Nations Headquarters. New York is the most populous city in the world. New York is the most populous city in the world. New York is home to the United Nations Headquarters. New York has an estimated population of 8.34 million in 2019, the most populous city in the world. New York is the capital of the world
+
+GT:
+Today, the New York Thruway acts as a modern counterpart to commercial water routes. The New York State Department of Transportation (NYSDOT) is the department of the government of New York responsible for the development and operation of highways, railroads, mass transit systems, ports, waterways, and aviation facilities within New York State. The Port Authority of New York and New Jersey (PANYNJ) is a joint venture between the States of New York and New Jersey and authorized by the US Congress, established in 1921 through an interstate compact, that oversees much of the regional transportation infrastructure, including bridges, tunnels, airports, and seaports, within the geographical jurisdiction of the Port of New York and New Jersey. In addition to the well known New York City Subway system—which is confined within New York City—four suburban commuter railroad systems enter and leave the city: the Long Island Rail Road, Metro-North Railroad, Port Authority Trans-Hudson, and five of New Jersey Transit's rail lines. Other cities and towns in New York have urban and regional public transportation. In Buffalo, the Niagara Frontier Transportation Authority runs the Buffalo Metro Rail light-rail system; in Rochester, the Rochester Subway operated from 1927 until 1956, but fell into disuse as state and federal investment went to highways. Portions of the transportation system are intermodal, allowing travelers to switch easily from one mode of transportation to another. One of the most notable examples is AirTrain JFK which allows rail passengers to travel directly to terminals at John F. Kennedy International Airport as well as to the underground New York City Subway system.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2126865671641791, 0.5816326530612245, 0.3114754098360656, 0.19467213114754098]
+[0.07116104868913857, 0.1958762886597938, 0.1043956043956044, 0.06524725274725274]
+[0.1455223880597015, 0.3979591836734694, 0.21311475409836064, 0.1331967213114754]
+
+
+SBERT sim. Score: 0.33069002628326416

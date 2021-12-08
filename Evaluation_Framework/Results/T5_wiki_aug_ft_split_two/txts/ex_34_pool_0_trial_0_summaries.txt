@@ -1,0 +1,21 @@
+Document:
+south_dakota
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+The growth in these areas has compensated for losses in the rest of the state. The per capita personal income was $38,865 in 2010, ranked 25th in the US, and 12.5% of the population was below the poverty line in 2008.CNBC's list of "Top States for Business for 2010" has recognized South Dakota as the seventh best state in the nation. The service industry is the largest economic contributor in South Dakota. Government spending is another important segment of the state's economy, providing over ten percent of the gross state product. Agriculture-related industries such as meat packing and ethanol production also have a considerable economic impact on the state. In 2006, tourism provided an estimated 33,000 jobs in the state and contributed over two billion dollars to the economy of South Dakota.
+\Predicted Summary:
+Dakota Territory. South Dakota is a state in the Midwestern region of the United States. South Dakota is a state that is named after the Lakota and Dakota Sioux Native American tribes. South Dakota is the seventeenth largest by area, but the 5th least populous, and the 5th most densely populated of the 50 states. South Dakota is bordered by the states of North Dakota (to the north), Minnesota (to the south), Nebraska (to the south), Wyoming (to the west), and Montana
+
+GT:
+South Dakota has several sites administered by the National Park Service. Two national parks have been established in the state, both in its southwestern region. The service industry is the largest economic contributor in South Dakota. Another important sector in South Dakota's economy is tourism. Many travel to view the attractions of the state, particularly those in the Black Hills region, such as historic Deadwood, Mount Rushmore, and the nearby state and national parks. As of 2005, South Dakota has the lowest per capita total state tax rate in the United States. The state does not levy personal or corporate income taxes, inheritance taxes, or taxes on intangible personal property. The state sales tax rate is 4.5 percent. Fishing and hunting are popular outdoor activities in South Dakota.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3153846153846154, 0.5, 0.38679245283018865, 0.2417452830188679]
+[0.09302325581395349, 0.14814814814814814, 0.11428571428571428, 0.07142857142857142]
+[0.19230769230769232, 0.3048780487804878, 0.2358490566037736, 0.14740566037735847]
+
+
+SBERT sim. Score: 0.6129586100578308

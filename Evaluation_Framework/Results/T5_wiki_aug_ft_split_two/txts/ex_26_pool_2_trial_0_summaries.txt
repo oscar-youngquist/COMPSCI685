@@ -1,0 +1,21 @@
+Document:
+ohio
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The government of Ohio is composed of the executive branch, led by the governor; the legislative branch, consisting of the bicameral Ohio General Assembly; and the judicial branch, led by the state Supreme Court. The state is known for its status as both a swing state and a bellwether in national elections. The state government of Ohio consists of the executive, judicial, and legislative branches. The other elected constitutional offices in the executive branch are the secretary of state (Frank LaRose), auditor (Keith Faber), treasurer (Robert Sprague), and attorney general (Dave Yost). The governor, Mike DeWine, is Republican, as well as all other non-judicial statewide elected officials, including Lieutenant Governor Jon A. Husted, Attorney General Dave Yost, State Auditor Keith Faber, Secretary of State Frank LaRose and State Treasurer Robert Sprague. In the Ohio State Senatorte the Republicans are the majority, 24–9, and in the Ohio House of Representatives the Republicans control the delegation 61–38.
+\Predicted Summary:
+the 17th state admitted to the Union on March 1, 1803, and the first under the Northwest Ordinance . Ohio (listen) is the state's capital and largest city is Columbus . of the fifty states, it is the 34th-largest by area, and with a population nearly 11.7 million, is the seventh-most populous and tenth-most densely populated .
+
+GT:
+The state government of Ohio consists of the executive, judicial, and legislative branches. The executive branch is headed by the governor of Ohio. A lieutenant governor succeeds the governor in the event of any removal from office, and performs any duties assigned by the governor. There are three levels of the Ohio state judiciary. The lowest level is the court of common pleas: each county maintains its own constitutionally mandated court of common pleas, which maintain jurisdiction over "all justiciable matters". The state's highest-ranking court is the Ohio Supreme Court. The Ohio General Assembly is a bicameral legislature consisting of the Senatorte and House of Representatives.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.21296296296296297, 0.3898305084745763, 0.2754491017964072, 0.17215568862275452]
+[0.04672897196261682, 0.08620689655172414, 0.06060606060606061, 0.03787878787878788]
+[0.16666666666666666, 0.3050847457627119, 0.2155688622754491, 0.13473053892215567]
+
+
+SBERT sim. Score: 0.4070260524749756

@@ -1,0 +1,21 @@
+Document:
+florida
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+The state's close proximity to the ocean influences many aspects of Florida culture and daily life. This is the third-most diverse state in the union, behind California and Texas, both larger states. Most of this is in Bone Valley. Many of these were of English or Scotch-Irish descent; however, their families have lived in the state for so long they choose to identify as having "American" ancestry or do not know their ancestry. Those of English and Irish ancestry are present in large numbers in all the urban/suburban areas across the state. Like whites in most other states of the southern US, they descend mainly from English and Scots-Irish settlers, as well as some other British American settlers. Conversely, large numbers of northern whites moved to the state. Some sections of the state feature architectural styles including Spanish revival, Florida vernacular, and Mediterranean Revival.
+\Predicted Summary:
+, Florida is the fourth-most populous and the 22nd-most populous in the United States . Florida is bordered to the west by the Gulf of Mexico, to the northwest by Alabama, to the north by the Atlantic Ocean . Florida is the fourth-largest state in the world, and the second-most populous in the world .
+
+GT:
+Today, Florida is distinctive for its large Cuban expatriate community and high population growth, as well as for its increasing environmental issues. The state's close proximity to the ocean influences many aspects of Florida culture and daily life. Florida is a reflection of influences and multiple inheritance; African, European, indigenous, Latino, and Asian heritages can be found in the architecture and cuisine. Florida has attracted many writers such as Marjorie Kinnan Rawlings, Ernest Hemingway and Tennessee Williams, and continues to attract celebrities and athletes. Twenty percent of the population speak Spanish as their first language. Twenty-seven percent of Florida's population reports speaking a mother language other than English, and more than 200 first languages other than English are spoken at home in the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.18110236220472442, 0.41818181818181815, 0.2527472527472528, 0.157967032967033]
+[0.03968253968253968, 0.09259259259259259, 0.05555555555555555, 0.03472222222222222]
+[0.14173228346456693, 0.32727272727272727, 0.19780219780219782, 0.12362637362637362]
+
+
+SBERT sim. Score: 0.5822128057479858

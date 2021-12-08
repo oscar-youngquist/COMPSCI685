@@ -1,0 +1,21 @@
+Document:
+maine
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Most of them are of Canadian origin, but in some cases have been living there since prior to the American Revolutionary War. Commercial fishing, once a mainstay of the state's economy, maintains a presence, particularly lobstering and groundfishing. The state is a popular destination for sport hunting (particularly deer, moose and bear), sport fishing, snowmobiling, skiing, boating, camping and hiking, among other activities. Maine has a long-standing tradition of being home to many shipbuilding companies. There are many such population clusters throughout Maine, but some examples from the municipalities appearing in the above listing are: The state is a major producer of potatoes, wild blueberries, apples, maple syrup and sweet corn. Maine has many vegetable farms and other small, diversified farms. Since the 1980s, the state has gotten a reputation for its local food and restaurant meals.
+\Predicted Summary:
+in Maine,, in 1620s, but the coastal region is Portland, Maine, and the 13th-least densely populated of the state. Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 states. Maine is the most populous city of Portland, and its capital is Augusta .
+
+GT:
+The state is a major producer of potatoes, wild blueberries, apples, maple syrup and sweet corn. Dairy products and chicken's eggs are other major industries. Maine has many vegetable farms and other small, diversified farms. In the 1960s and 1970s, the book "Living the Good Life" by Helen Nearing and Scott Nearing caused many young people to move to Maine and engage in small-scale farming and homesteading. Maine has a smaller number of commodity farms and confined animal feeding operations. Maine is home to the Maine Organic Farmers and Gardeners Association and had 535 certified organic farms in 2019. Since the 1980s, the state has gotten a reputation for its local food and restaurant meals. Portland was named Bon Appetit magazine's Restaurant City of the Year in 2018.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.21374045801526717, 0.5185185185185185, 0.30270270270270266, 0.18918918918918917]
+[0.038461538461538464, 0.09433962264150944, 0.054644808743169404, 0.03415300546448088]
+[0.11450381679389313, 0.2777777777777778, 0.16216216216216217, 0.10135135135135136]
+
+
+SBERT sim. Score: 0.48845890164375305

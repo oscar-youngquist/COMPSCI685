@@ -1,0 +1,21 @@
+Document:
+connecticut
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Geographically the state is part of New England, and although its cultural history stems from the region, in the modern age large sections of it are increasingly connected to and associated with the tri-state area with New York and New Jersey. It is known as the "Constitution State", the "Nutmeg State", the "Provisions State", and the "Land of Steady Habits". Despite Connecticut's relatively small size, it features wide regional variations in its landscape; for example, in the northwestern Litchfield Hills, it features rolling mountains and horse farms, whereas in areas to the east of New Haven along the coast, the landscape features coastal marshes, beaches, and large scale maritime activities. Far southern and coastal areas, however, have more oak and hickory trees (and fewer maples) and are often less colorful than areas to the north. Coastal Connecticut is the broad transition zone where more southern and subtropical plants are cultivated. The state prospered during the era following the American Revolution, as mills and textile factories were built and seaports flourished from trade and fisheries. This affected the agricultural economy in the state. This includes a natural increase since the last census of 67,427 (222,222 births minus 154,795 deaths) and an increase due to net migration of 41,718 people into the state. Most of western and southern Connecticut (particularly the Gold Coast) is strongly associated with New York City Foxwoods Resort Casino and Mohegan Sun are the two biggest tourist draws and number among the state's largest employers The state hosts several major sporting events.
+\Predicted Summary:
+was the first European settlement in the 16th century, and was a colony in the mid-19th century . Connecticut is the southernmost state in the northeastern United States . it has the highest per-capita income, Human Development Index (0.962) and median household income in the United States . Connecticut is the 29th most populous, and the fourth most densely populated of the fifty states .
+
+GT:
+As of the 2010 Census, it has the highest per-capita income, Human Development Index (0.962), and median household income in the United States. The Connecticut River, Thames River, and ports along Long Island Sound have given Connecticut a strong maritime tradition which continues today. The state also has a long history of hosting the financial services industry, including insurance companies in Hartford and hedge funds in Fairfield County. Forests consist of a mix of Northeastern coastal forests of Oak in southern areas of the state, to the upland New England-Acadian forests in the northwestern parts of the state. Connecticut's per capita personal income in 2019 was estimated at $79,087, the highest of any state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.35294117647058826, 0.65625, 0.45901639344262296, 0.28688524590163933]
+[0.1864406779661017, 0.3492063492063492, 0.2430939226519337, 0.15193370165745854]
+[0.23529411764705882, 0.4375, 0.3060109289617486, 0.19125683060109291]
+
+
+SBERT sim. Score: 0.6370436549186707

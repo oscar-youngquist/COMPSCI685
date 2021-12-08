@@ -1,0 +1,21 @@
+Document:
+arkansas
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Several main corridors pass through Little Rock, including Interstate 30 (I-30) and I-40 (the nation's 3rd-busiest trucking corridor). The state maintains a large system of state highways today, in addition to eight Interstates and 20 US The state also has the 13th largest state highway system in the nation. Arkansas is served by 2,750 miles (4,430 km) of railroad track divided among twenty-six railroad companies including three Class I railroads. Freight railroads are concentrated in southeast Arkansas to serve the industries in the region. There are four airports with commercial service: Clinton National Airport (formerly Little Rock National Airport or Adams Field), Northwest Arkansas Regional Airport, Fort Smith Regional Airport, and Texarkana Regional Airport, with dozens of smaller airports in the state.
+\Predicted Summary:
+,, to reapportion the legislature. The Supreme Court overturned rural domination . The state's rural domination in the state's southeastern part is Pine Bluff . Arkansas () is a state in the south central United States, home to more than three million people as of 2018 . Arkansas () is a state in the south central United States, home to more than three million people . Arkansas () is the 29th largest by area and the 33rd most populous state .
+
+GT:
+Several main corridors pass through Little Rock, including Interstate 30 (I-30) and I-40 (the nation's 3rd-busiest trucking corridor). Arkansas is served by 2,750 miles (4,430 km) of railroad track divided among twenty-six railroad companies including three Class I railroads. The Texas Eagle, an Amtrak passenger train, serves five stations in the state Walnut Ridge, Little Rock, Malvern, Arkadelphia, and Texarkana. Arkansas also benefits from the use of its rivers for commerce. There are four airports with commercial service: Clinton National Airport (formerly Little Rock National Airport or Adams Field), Northwest Arkansas Regional Airport, Fort Smith Regional Airport, and Texarkana Regional Airport, with dozens of smaller airports in the state. Public transit and community transport services for the elderly or those with developmental disabilities are provided by agencies such as the Central Arkansas Transit Authority and the Ozark Regional Transit, organizations that are part of the Arkansas Transit Association.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15483870967741936, 0.32432432432432434, 0.20960698689956334, 0.13100436681222707]
+[0.03896103896103896, 0.0821917808219178, 0.05286343612334801, 0.03303964757709251]
+[0.1032258064516129, 0.21621621621621623, 0.13973799126637557, 0.08733624454148473]
+
+
+SBERT sim. Score: 0.36977893114089966

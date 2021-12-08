@@ -1,0 +1,21 @@
+Document:
+north_carolina
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Its largest city was Cahokia, which had numerous mounds for different purposes, a highly stratified society, and was located in present-day southwestern Illinois near the Mississippi River. Area attractions include Carolina Panthers NFL football team and Charlotte Hornets basketball team, Carowinds amusement park, Charlotte Motor Speedway, US National Whitewater Center, Discovery Place, Great Wolf Lodge, Sea Life Aquarium, Bechtler Museum of Modern Art, Billy Graham Library, Carolinas Aviation Museum, Harvey B. Gantt Center for African-American Arts + Culture, Levine Museum of the New South, McColl Center for Art + Innovation, Mint Museum, and the NASCAR Hall of Fame. North Carolina has traditions in art, music, and cuisine. Also see this list of museums in North Carolina. One of the more famous arts communities in the state is Seagrove, the handmade-pottery capital of the US, where artisans create handcrafted pottery inspired by the same traditions that began in this community more than two hundred years ago. The state boasts three performing arts centers: DPAC in Durham, Duke Energy Center for the Performing Arts in Raleigh, and the Blumenthal Performing Art Centers in Charlotte. Also, see the North Carolina Music Hall of Fame.
+\Predicted Summary:
+, the first North Carolina, the largest metropolitan area in the state. North Carolina is the most-populous and 9th-most populous of the 50 states. North Carolina is the 23rd-most populous nation in the nation . North Carolina is the most-populous state in the state . the state is home to the largest banking center in the nation after New York City . North Carolina is the most-populated and 9th-most populous nation in the nation .
+
+GT:
+One of the more famous arts communities in the state is Seagrove, the handmade-pottery capital of the US, where artisans create handcrafted pottery inspired by the same traditions that began in this community more than two hundred years ago. North Carolina boasts a large number of noteworthy jazz musicians, some among the most important in the history of the genre. These include: John Coltrane, (Hamlet, High Point); Thelonious Monk (Rocky Mount); Billy Taylor (Greenville); Woody Shaw (Laurinburg); Lou Donaldson (Durham); Max Roach (Newland); Tal Farlow (Greensboro); Albert, Jimmy and Percy Heath (Wilmington); Nina Simone (Tryon); and Billy Strayhorn (Hillsborough). Musicians such as the North Carolina Ramblers helped solidify the sound of country music in the late 1920s, while the influential bluegrass musician Doc Watson also hailed from North Carolina. Both North and South Carolina are hotbeds for traditional rural blues, especially the style known as the Piedmont blues. The Research Triangle area has long been a well-known center for folk, rock, metal, jazz and punk. James Taylor grew up around Chapel Hill, and his 1968 song "Carolina in My Mind" has been called an unofficial anthem for the state. In the mountains, the Brevard Music Center hosts choral, operatic, orchestral, and solo performances during its annual summer schedule. The state boasts three performing arts centers: DPAC in Durham, Duke Energy Center for the Performing Arts in Raleigh, and the Blumenthal Performing Art Centers in Charlotte. They feature concerts, operas, recitals, and traveling Broadway musicals.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15447154471544716, 0.5, 0.2360248447204969, 0.14751552795031056]
+[0.061224489795918366, 0.2, 0.09375, 0.05859375]
+[0.11382113821138211, 0.3684210526315789, 0.17391304347826084, 0.10869565217391304]
+
+
+SBERT sim. Score: 0.24801485240459442

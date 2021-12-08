@@ -1,0 +1,21 @@
+Document:
+florida
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The state government consists of three separate branches: judicial, executive, and legislative. The legislature enacts bills, which, if signed by the governor, become law. The Florida Legislature comprises the Florida Senatorte, which has 40 members, and the Florida House of Representatives, which has 120 members. Because of this, the area has consistently voted as one of the most Democratic areas of the state. The political make-up of congressional and legislative districts has enabled Republicans to control the governorship and most statewide elective offices, and 17 of the state's 27 seats in the 2012 House of Representatives. In the 2010 elections, Republicans solidified their dominance statewide, by winning the governor's mansion, and maintaining firm majorities in both houses of the state legislature.
+\Predicted Summary:
+,, Florida is a state located in the southeastern region of the United States . Florida is the third-most populous state in the world, and the second most populous in the world . Florida is renowned for its large expatriate community and high population growth .
+
+GT:
+The basic structure, duties, function, and operations of the government of the State of Florida are defined and established by the Florida Constitution, which establishes the basic law of the state and guarantees various rights and freedoms of the people. The state government consists of three separate branches: judicial, executive, and legislative. The Florida Legislature comprises the Florida Senatorte, which has 40 members, and the Florida House of Representatives, which has 120 members. Florida has 67 counties. There are 379 cities in Florida (out of 411) that report regularly to the Florida Department of Revenue, but there are other incorporated municipalities that do not. Florida does not impose a personal income tax. The primary revenue source for cities and counties is property tax; unpaid taxes are subject to tax sales, which are held (at the county level) in May and (due to the extensive use of online bidding sites) are highly popular.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13157894736842105, 0.46511627906976744, 0.20512820512820512, 0.12820512820512817]
+[0.013245033112582781, 0.047619047619047616, 0.02072538860103627, 0.01295336787564767]
+[0.09868421052631579, 0.3488372093023256, 0.15384615384615388, 0.09615384615384617]
+
+
+SBERT sim. Score: 0.49708712100982666

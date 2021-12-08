@@ -1,0 +1,21 @@
+Document:
+missouri
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The state is the 21st-most extensive in area. However, the elected legislative body was split between pro-Union and pro-Confederate. With the elected governor absent from the capital and the legislators largely dispersed, the state convention was reassembled with most of its members present, save twenty who fled south with Jackson's forces. Missouri is landlocked and borders eight different states, a figure equaled only by its neighbor, Tennessee. Missouri is bounded by Iowa on the north; by Illinois, Kentucky, and Tennessee across the Mississippi River on the east; on the south by Arkansas; and by Oklahoma, Kansas, and Nebraska (the last across the Missouri River) on the west. North of the Missouri River, the state is primarily rolling hills of the Great Plains, whereas south of the Missouri River, the state is dominated by the Oak-Hickory Central US hardwood forest. It provides for three branches of government: the legislative, judicial, and executive branches. The legislative branch consists of two bodies: the House of Representatives and the Senatorte. The Senatorte consists of 34 members from districts of approximately equal populations. The judicial department comprises the Supreme Court of Missouri, which has seven judges, the Missouri Court of Appeals (an intermediate appellate court divided into three districts), sitting in Kansas City, St. Louis, and Springfield, and 45 Circuit Courts which function as local trial courts. The executive branch is headed by the Governor of Missouri and includes five other statewide elected offices. At the state level, both Democratic Senatortor Claire McCaskill and Democratic Governor Jay Nixon were re-elected. The Missouri State Board of Education has general authority over all public education in the state of Missouri. It is made up of eight citizens appointed by the governor and confirmed by the Missouri Senatorte. District territories are often complex in structure.
+\Predicted Summary:
+in 1735 and 1764. The French established the Missouri River, after which the state is named . Missouri is a state in the midwestern United States, with more than six million residents . Missouri is a state in the midwestern United States, with more than six million residents .
+
+GT:
+The current Constitution of Missouri, the fourth constitution for the state, was adopted in 1945. It provides for three branches of government: the legislative, judicial, and executive branches. The legislative branch consists of two bodies: the House of Representatives and the Senatorte. These bodies comprise the Missouri General Assembly. The House of Representatives has 163 members apportioned based on the last decennial census. The Senatorte consists of 34 members from districts of approximately equal populations. The judicial department comprises the Supreme Court of Missouri, which has seven judges, the Missouri Court of Appeals (an intermediate appellate court divided into three districts), sitting in Kansas City, St. Louis, and Springfield, and 45 Circuit Courts which function as local trial courts. The executive branch is headed by the Governor of Missouri and includes five other statewide elected offices. Following the death of State Auditor Tom Schweich in 2015, only one of Missouri's statewide elected offices is held by a Democrat Nicole Galloway. Missouri was widely regarded as a bellwether in American politics, often making it a swing state. The state had a longer stretch of supporting the winning presidential candidate than any other state, having voted with the nation in every election from 1904 to 2004 with a single exception: 1956 when Democratic candidate Adlai Stevenson of neighboring Illinois lost the election despite carrying Missouri.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11160714285714286, 0.5434782608695652, 0.18518518518518517, 0.11574074074074074]
+[0.008968609865470852, 0.044444444444444446, 0.01492537313432836, 0.009328358208955223]
+[0.08035714285714286, 0.391304347826087, 0.13333333333333336, 0.08333333333333334]
+
+
+SBERT sim. Score: 0.5616849660873413

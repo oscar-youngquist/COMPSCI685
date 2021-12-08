@@ -1,0 +1,21 @@
+Document:
+connecticut
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+As of the 2010 Census, it has the highest per-capita income, Human Development Index (0.962), and median household income in the United States. Geographically the state is part of New England, and although its cultural history stems from the region, in the modern age large sections of it are increasingly connected to and associated with the tri-state area with New York and New Jersey. It is known as the "Constitution State", the "Nutmeg State", the "Provisions State", and the "Land of Steady Habits". This affected the agricultural economy in the state. This includes a natural increase since the last census of 67,427 (222,222 births minus 154,795 deaths) and an increase due to net migration of 41,718 people into the state. Most of western and southern Connecticut (particularly the Gold Coast) is strongly associated with New York City The state hosts several major sporting events.
+\Predicted Summary:
+Connecticut was the first state of Connecticut, and the second largest state by area . Connecticut is the southernmost state in the northeast of the northeastern united states . Connecticut ( (listen)) is the 29th most populated state by area, the fourth most densely populated of the fifty states .
+
+GT:
+As of the 2010 Census, it has the highest per-capita income, Human Development Index (0.962), and median household income in the United States. Connecticut's economic output in 2019 as measured by gross domestic product was $289 billion, up from $277.9 billion in 2018. According to a 2018 study by Phoenix Marketing International, Connecticut had the third-largest number of millionaires per capita in the United States, with a ratio of 7.75%. The median home sold in 2019 recorded a transaction amount of $260,000, up 0.4 percent from 2018. Finance, insurance and real estate was Connecticut's largest industry in 2018 as ranked by gross domestic product, generating $75.7 billion in GDP that year. Major financial industry employers include The Hartford, Travelers, Cigna, the Aetna subsidiary of CVS Health, Mass Mutual, People's United Financial, Bank of America, Realogy, Bridgewater Associates, GE Capital, William Raveis Real Estate, and Berkshire Hathaway through reinsurance and residential real estate subsidiaries.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1402439024390244, 0.5, 0.21904761904761907, 0.13690476190476192]
+[0.024539877300613498, 0.08888888888888889, 0.038461538461538464, 0.02403846153846154]
+[0.09146341463414634, 0.32608695652173914, 0.14285714285714288, 0.08928571428571427]
+
+
+SBERT sim. Score: 0.4654560983181

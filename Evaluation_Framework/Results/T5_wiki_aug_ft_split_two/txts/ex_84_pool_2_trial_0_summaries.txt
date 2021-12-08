@@ -1,0 +1,21 @@
+Document:
+mississippi
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+They also took advantage of new railroads sponsored by the state. Most migrants from Mississippi took trains directly north to Chicago and often settled near former neighbors. A proportion of federal spending in Mississippi is directed toward large federal installations such as Camp Shelby, John C. Stennis Space Center, Meridian Naval Air Station, Columbus Air Force Base, and Keesler Air Force Base. Mississippi has six airports with commercial passenger service, the busiest in Jackson (Jackson-Evers International Airport) and one in Gulfport (Gulfport-Biloxi International Airport) Mississippi is served by nine interstate highways: as well as a system of State Highways. Amtrak provides scheduled passenger service along two routes, the Crescent and City of New Orleans. All but two of the United States Class I railroads serve Mississippi (the exceptions are the Union Pacific and Canadian Pacific):
+\Predicted Summary:
+,, the largest metropolitan area of the United States. By 1860, Mississippi was the nation's top cotton-producing state . By 1860, Mississippi was the nation's top cotton-producing state . Mississippi is the 32nd largest and 34th-most populous of the 50 US states .
+
+GT:
+Mississippi has six airports with commercial passenger service, the busiest in Jackson (Jackson-Evers International Airport) and one in Gulfport (Gulfport-Biloxi International Airport) Mississippi is served by nine interstate highways: and fourteen main US Routes: as well as a system of State Highways. Amtrak provides scheduled passenger service along two routes, the Crescent and City of New Orleans. All but two of the United States Class I railroads serve Mississippi (the exceptions are the Union Pacific and Canadian Pacific):
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2125, 0.38636363636363635, 0.27419354838709675, 0.1713709677419355]
+[0.05063291139240506, 0.09302325581395349, 0.06557377049180328, 0.04098360655737705]
+[0.1125, 0.20454545454545456, 0.14516129032258066, 0.0907258064516129]
+
+
+SBERT sim. Score: 0.3692958950996399

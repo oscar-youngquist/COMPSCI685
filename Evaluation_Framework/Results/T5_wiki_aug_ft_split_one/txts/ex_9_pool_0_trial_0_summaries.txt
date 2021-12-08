@@ -1,0 +1,21 @@
+Document:
+texas
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+These cities are spread out amongst the state. The state is an important transportation hub. In traffic, DFW airport is the busiest in the state, the fourth busiest in the United States, and sixth worldwide. The next five largest airports in the state all serve more than three million passengers annually; they include Austin-Bergstrom International Airport, William P. Hobby Airport, San Antonio International Airport, Dallas Love Field and El Paso International Airport. In the Austin area, Capital Metropolitan Transportation Authority operates a commuter rail service known as Capital MetroRail to the northwestern suburbs. Three scheduled routes serve the state: the daily Texas Eagle (Chicago–San Antonio); the tri-weekly Sunset Limited (New Orleans–Los Angeles), with stops in Texas; and the daily Heartland Flyer (Fort Worth–Oklahoma City).
+\Predicted Summary:
+,,, the "Lone Star State" on the Texas state flag and on the Texas state seal . Texas is the second largest state by both the US and the US southwestern . Texas is the second largest state by both area (after Alaska) and population (after California) Texas is the second largest state by both area (after Alaska) and population (after California) .
+
+GT:
+Texas has compensated by building America's largest highway and railway systems. The regulatory authority, the Texas Department of Transportation (TxDOT), maintains the state's immense highway system, regulates aviation, and public transportation systems. As of 2005, 79,535 miles (127,999 km) of public highway crisscrossed Texas (up from 71,000 miles (114,263 km) in 1984). Texas has 730 airports, second-most of any state in the nation. Around 1,150 seaports dot Texas's coast with over 1,000 miles (1,600 km) of channels. Texas ports connect with the rest of the US Atlantic seaboard with the Gulf section of the Intracoastal Waterway. Since 1911, Texas has led the nation in length of railroad miles within the state. In the Dallas–Fort Worth area, three public transit agencies provide rail service: Dallas Area Rapid Transit (DART), Denton County Transportation Authority (DCTA), and Trinity Metro. The Trinity Railway Express (TRE) commuter rail service, which connects Fort Worth and Dallas, is provided by Trinity Metro and DART. Trinity Metro also operates the TEXRail commuter rail line, connecting downtown Fort Worth and Northeast Tarrant County to DFW Airport. The A-train commuter rail line, operated by DCTA, acts as an extension of the DART Green line into Denton County. In the Austin area, Capital Metropolitan Transportation Authority operates a commuter rail service known as Capital MetroRail to the northwestern suburbs. The Metropolitan Transit Authority of Harris County, Texas (METRO) operates light rail lines in the Houston area. Amtrak provides Texas with limited intercity passenger rail service.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11284046692607004, 0.4915254237288136, 0.18354430379746833, 0.11471518987341772]
+[0.0078125, 0.034482758620689655, 0.012738853503184714, 0.007961783439490446]
+[0.08171206225680934, 0.3559322033898305, 0.1329113924050633, 0.08306962025316456]
+
+
+SBERT sim. Score: 0.5018459558486938

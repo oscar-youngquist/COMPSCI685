@@ -1,0 +1,21 @@
+Document:
+california
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Although it accounts for only 1.5% of the state's economy, California's agriculture industry has the highest output of any US state. Much of the state was extremely well suited to fruit cultivation and agriculture in general. As a result of these efforts, California is regarded as a world center of the entertainment and music industries, of technology, engineering, and the aerospace industry, and as the United States center of agricultural production. California's economy ranks among the largest in the world. The five largest sectors of employment in California are trade, transportation, and utilities; government; professional and business services; education and health services; and leisure and hospitality. In output, the five largest sectors are financial services, followed by trade, transportation, and utilities; education and health services; government; and manufacturing. Agriculture is an important sector in California's economy. In 2008, California's 81,500 farms and ranches generated $36.2 billion products revenue. The Agriculture sector accounts for two percent of the state's GDP and employs around three percent of its total workforce. Many coastal cities include some of the wealthiest per-capita areas in the United States.
+\Predicted Summary:
+, with more than 9.6 million residents, and the nation's second-most populous city, San Francisco County . California is considered a global trendsetter in popular culture, communication, innovation, innovation, environmentalism, economics . California's economy, with a gross state product of $3.2 trillion as of of 2019 is the largest subnational economy in the world . California is considered the most populous US state and third-largest by area .
+
+GT:
+California's economy, with a gross state product of $3.2 trillion as of 2019, is the largest sub-national economy in the world. If it were a country, California would be the fifth-largest economy in the world, and the 37th-most populous as of 2020. California's economy is larger than Africa and Australia and is almost as large as South America. The five largest sectors of employment in California are trade, transportation, and utilities; government; professional and business services; education and health services; and leisure and hospitality. In output, the five largest sectors are financial services, followed by trade, transportation, and utilities; education and health services; government; and manufacturing. California's economy is dependent on trade and international related commerce accounts for about one-quarter of the state's economy. In 2008, California exported $144 billion worth of goods, up from $134 billion in 2007 and $127 billion in 2006.Computers and electronic products are California's top export, accounting for 42 percent of all the state's exports in 2008. Agriculture is an important sector in California's economy. The Agriculture sector accounts for two percent of the state's GDP and employs around three percent of its total workforce. According to the USDA in 2011, the three largest California agricultural products by value were milk and cream, shelled almonds, and grapes.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.18141592920353983, 0.5942028985507246, 0.27796610169491526, 0.17372881355932204]
+[0.09777777777777778, 0.3235294117647059, 0.1501706484641638, 0.0938566552901024]
+[0.13274336283185842, 0.43478260869565216, 0.2033898305084746, 0.1271186440677966]
+
+
+SBERT sim. Score: 0.8092865347862244

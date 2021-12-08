@@ -1,0 +1,21 @@
+Document:
+california
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+There are about a dozen important commercial airports and many more general aviation airports throughout the state. Inter-city rail travel is provided by Amtrak California; the three routes, the Capitol Corridor, Pacific Surfliner, and San Joaquin, are funded by Caltrans. These services are the busiest intercity rail lines in the United States outside the Northeast Corridor and ridership is continuing to set records. The routes are becoming increasingly popular over flying, especially on the LAX-SFO route. Integrated subway and light rail networks are found in Los Angeles (Metro Rail) and San Francisco (MUNI Metro). Furthermore, commuter rail networks serve the San Francisco Bay Area (ACE, BART, Caltrain, SMART), Greater Los Angeles (Metrolink), and San Diego County (Coaster). Intercity bus travel is provided by Greyhound, Megabus, and Amtrak Thruway Motorcoach.
+\Predicted Summary:
+,, and, and the second-largest subnational entity in the world. California is considered a global trendsetter in popular culture, communication, information, innovation, environmentalism, economics, politics, and culture. California is considered the origin of the hippie counterculture, beach and car culture, the Internet, the internet, and more. California is a subnational entity in the world. California is considered a global trendsetter in social media, information, information, and culture.
+
+GT:
+California's vast terrain is connected by an extensive system of controlled-access highways ('freeways'), limited-access roads ('expressways'), and highways. Los Angeles International Airport (LAX), the 4th busiest airport in the world in 2018, and San Francisco International Airport (SFO), the 25th busiest airport in the world in 2018, are major hubs for trans-Pacific and transcontinental traffic. There are about a dozen important commercial airports and many more general aviation airports throughout the state. California also has several important seaports. Inter-city rail travel is provided by Amtrak California; the three routes, the Capitol Corridor, Pacific Surfliner, and San Joaquin, are funded by Caltrans. Nearly all counties operate bus lines, and many cities operate their own city bus lines as well.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.21951219512195122, 0.40298507462686567, 0.2842105263157894, 0.17763157894736842]
+[0.03278688524590164, 0.06060606060606061, 0.042553191489361694, 0.026595744680851064]
+[0.13008130081300814, 0.23880597014925373, 0.16842105263157894, 0.10526315789473685]
+
+
+SBERT sim. Score: 0.39476442337036133

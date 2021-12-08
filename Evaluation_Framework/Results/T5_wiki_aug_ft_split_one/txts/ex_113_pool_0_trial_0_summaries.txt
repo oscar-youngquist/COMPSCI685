@@ -1,0 +1,21 @@
+Document:
+arizona
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It is also part of the Western and the Mountain states. It is the 6th largest and the 14th most populous of the 50 states. Arizona is the sixth largest state by area, ranked after New Mexico and before Nevada. The remaining area is public forest and park land, state trust land and Native American reservations. The state is less well known for its pine-covered north-central portion of the high country of the Colorado Plateau (see Arizona Mountains forests). Like other states of the Southwest United States, Arizona has an abundance of mountains and plateaus. (The large Navajo Nation in the state's northeastern region does.) Due to its large area and variations in elevation, the state has a wide variety of localized climate conditions. With 212,635 residents, this cluster of towns is the state's third largest metropolitan area. Flagstaff has a strong tourism sector, due to its proximity to numerous tourist attractions including: Grand Canyon National Park, Sedona, and Oak Creek Canyon. The composition of the state's economy is moderately diverse; although health care, transportation and the government remain the largest sectors. The state's per capita income is $40,828, ranking 39th in the US The state had a median household income of $50,448, making it 22nd in the country and just below the US national mean. While the state normally supports Republicans at the federal level, Democrats are often competitive in statewide elections. They also elect a substantial majority of the state legislature.
+\Predicted Summary:
+, Arizona is the 48th state and the 14th most populous of the 50 states . the state is also part of the Western and the Mountain states . it is the 6th largest and the 14th most populous of the 50 states . the state is made up of Indian reservations that serve as the home of 27 federally recognized Native Americans .
+
+GT:
+There are 24 National Park Service maintained sites in Arizona, including the three national parks of Grand Canyon National Park, Saguaro National Park, and the Petrified Forest National Park. Despite the state's aridity, 27% of Arizona is forest, a percentage comparable to modern-day Romania or Greece. Generally, Arizona is at low risk of earthquakes, except for the southwestern portion which is at moderate risk due to its proximity to southern California. Due to its large area and variations in elevation, the state has a wide variety of localized climate conditions. It is rare for tornadoes or hurricanes to occur in Arizona. In 1980, the Census Bureau reported Arizona's population as 16.2% Hispanic, 5.6% Native American, and 74.5% non-Hispanic white. Arizona collects personal income taxes in five brackets: 2.59%, 2.88%, 3.36%, 4.24% and 4.54%. In 2020, Arizona voters approved Proposition 208 to create an additional income tax bracket of 8% for incomes over $250,000 (single filers) and $500,000 (joint filers). On October 17, 2014, Arizona Attorney General Tom Horne announced his office would no longer object to same-sex marriage, in response to a US District Court Ruling on Arizona Proposition 102. Phoenix Art Museum, on the historic Central Avenue Corridor in Phoenix, is the Southwest's largest collection of visual art from across the world. With a community education mandate since 1951, Phoenix Art Museum holds a year-round program of festivals, live performances, independent art films and educational programs. The museum also has PhxArtKids, an interactive space for children; photography exhibitions through the museum's partnership with the Center for Creative Photography; the landscaped Sculpture Garden and dining at Arcadia Farms. Arizona is a recognized center of Native American art, with a number of galleries showcasing historical and contemporary works.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11475409836065574, 0.5932203389830508, 0.1923076923076923, 0.1201923076923077]
+[0.023026315789473683, 0.1206896551724138, 0.03867403314917126, 0.02417127071823204]
+[0.08196721311475409, 0.423728813559322, 0.13736263736263735, 0.08585164835164834]
+
+
+SBERT sim. Score: 0.5727192759513855

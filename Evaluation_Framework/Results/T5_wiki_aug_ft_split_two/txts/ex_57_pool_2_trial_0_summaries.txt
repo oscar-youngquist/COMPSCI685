@@ -1,0 +1,21 @@
+Document:
+indiana
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It is the 38th-largest by area and the 17th-most populous of the 50 United States. It has several metropolitan areas with populations greater than 100,000 and a number of smaller industrial cities and towns. The state includes two natural regions of the United States: the Central Lowlands and the Interior Low Plateaus. As of 2010, the state includes 16 metropolitan and 25 micropolitan statistical areas, 117 incorporated cities, 450 towns, and several other smaller divisions and statistical areas. The table below lists the state's twenty largest municipalities based on the 2019 United States Census Estimate. Since 2000, Fishers has seen the largest population rise amongst the state's twenty largest cities with an increase of 100 percent. Muncie has produced the most per capita of any American city, with two other Indiana cities in the top ten. The total gross state product in 2016 was $347.2 billion. According to the Bureau of Labor Statistics, nearly 17 percent of the state's non-farm workforce is employed in manufacturing, the highest of any state in the US Overall, Indiana ranks fifth among all US states in total sales and shipments of pharmaceutical products and second highest in the number of biopharmaceutical related jobs. In 2011 Indiana was ranked first in the Midwest and sixth in the country for best places to do business according to CEO magazine. The state has several universities ranked among the best in 2013 rankings of the US News & World Report.
+\Predicted Summary:
+is the state of Indiana. Indiana is a state of the Indians, or simply "Indian Land" it is a state in the midwestern and Great Lakes regions of North America . it borders Lake Michigan to the north, Ohio to the east, and Ohio to the east and the Ohio River . the Ohio River and Kentucky to the east and Wisconsin to the west and the Wabash River and Illinois to the west .
+
+GT:
+Indiana has an extensive history with auto racing. Indianapolis hosts the Indianapolis 500 mile race over Memorial Day weekend at the Indianapolis Motor Speedway every May. The name of the race is usually shortened to "Indy 500" and also goes by the nickname "The Greatest Spectacle in Racing". As of 2013 Indiana has produced more National Basketball Association (NBA) players per capita than any other state. Muncie has produced the most per capita of any American city, with two other Indiana cities in the top ten. It has a rich basketball heritage that reaches back to the sport's formative years. The NBA's Indiana Pacers play their home games at Bankers Life Fieldhouse Indianapolis is home to the Indianapolis Colts. The Colts are members of the South Division of the American Football Conference. Indiana has had great sports success at the collegiate level. In 2017, Indiana had a civilian labor force of nearly 3.4 million, the 15th largest in the US Indiana has an unemployment rate of 3.4 percent, lower than the national average. In 2016, Indiana was home to seven Fortune 500 companies with a combined $142.5 billion in revenue.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15384615384615385, 0.4166666666666667, 0.22471910112359555, 0.1404494382022472]
+[0.020618556701030927, 0.056338028169014086, 0.030188679245283016, 0.018867924528301886]
+[0.10256410256410256, 0.2777777777777778, 0.149812734082397, 0.09363295880149813]
+
+
+SBERT sim. Score: 0.4295901358127594

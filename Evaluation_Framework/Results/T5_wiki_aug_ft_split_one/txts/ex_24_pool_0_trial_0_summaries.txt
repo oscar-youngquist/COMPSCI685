@@ -1,0 +1,21 @@
+Document:
+nevada
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+American Indians of the Paiute, Shoshone, and Washoe tribes inhabited what is now Nevada. Before that, it was a part of Arizona Territory. Mining booms drew many Greek and Eastern European immigrants to Nevada. People in these rural counties tend to be native Nevada residents, unlike in the Las Vegas and Reno areas, where the vast majority of the population was born in another state. Ranching also has a long tradition in rural Nevada. The economy of Nevada is tied to tourism (especially entertainment and gambling related), mining, and cattle ranching. In portions of the state outside of the Las Vegas and Reno metropolitan areas mining plays a major economic role. Due to heavy growth in the southern portion of the state, there is a noticeable divide between the politics of northern and southern Nevada. Resort areas like Las Vegas, Reno, Lake Tahoe, and Laughlin attract visitors from around the nation and world.
+\Predicted Summary:
+is the 7th-most extensive, but the 9th-least densely populated of the US states . Nevada is bordered by Oregon to the northwest, Idaho to the west, California to the west, and the Sierra Nevada to the east . Nevada is the 7th-most extensive, but the 9th-least densely populated of the US states . Nevada is the 7th-least populous, but the 9th-least densely populated of the US states .
+
+GT:
+Nevada is officially known as the "Silver State" because of the importance of silver to its history and economy. The Nevada Test Site, 65 miles (105 km) northwest of the city of Las Vegas, was founded on January 11, 1951, for the testing of nuclear weapons. Resort areas like Las Vegas, Reno, Lake Tahoe, and Laughlin attract visitors from around the nation and world. Nevada has by far the most hotel rooms per capita in the United States. Although prostitution is not a major part of the Nevada economy, employing roughly 300 women as independent contractors, it is a very visible endeavor. Las Vegas has hosted several professional boxing matches, most recently at the MGM Grand Garden Arena with bouts such as Mike Tyson vs. Evander Holyfield, Evander Holyfield vs. Mike Tyson II, Oscar De La Hoya vs. Floyd Mayweather and Oscar De La Hoya vs. Manny Pacquiao and at the newer T-Mobile Arena with Canelo Álvarez vs. Amir Khan. Along with significant rises in popularity in mixed martial arts (MMA), a number of fight leagues such as the UFC have taken interest in Las Vegas as a primary event location due to the number of suitable host venues.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16, 0.45714285714285713, 0.23703703703703707, 0.14814814814814817]
+[0.02512562814070352, 0.07246376811594203, 0.0373134328358209, 0.023320895522388065]
+[0.115, 0.32857142857142857, 0.1703703703703704, 0.1064814814814815]
+
+
+SBERT sim. Score: 0.4281150996685028

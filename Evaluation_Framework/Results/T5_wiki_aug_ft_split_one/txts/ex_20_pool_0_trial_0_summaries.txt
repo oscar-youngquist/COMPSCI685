@@ -1,0 +1,21 @@
+Document:
+georgia
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+The colonial settlement of large numbers of Scottish American, English American and Scotch-Irish Americans in the mountains and piedmont, and coastal settlement by some English Americans and African Americans, have strongly influenced the state's culture in food, language and music. The Georgia Film, Music and Digital Entertainment Office promotes filming in the state. The area is also popular with golfers. There are a number of performing arts venues in the state, among the largest are the Fox Theatre, and the Alliance Theatre at the Woodruff Arts Center, both on Peachtree Street in Midtown Atlanta as well as the Cobb Energy Performing Arts Centre, located in Northwest Atlanta. Production was then moved to Burbank, California. A number of notable musicians in various genres of popular music are from Georgia. Outdoor recreational activities include hiking along the Appalachian Trail
+\Predicted Summary:
+, Georgia is the fourth largest state in the United States and is the largest city in the world . Georgia is a state in the Deep South region of the Southern United States . Georgia is the 24th largest in area and 8th most populous of the 50 united states . the state's northernmost regions include the Blue Ridge Mountains, part of the larger Appalachian Mountain system . Georgia is the southernmost of the original 13 Confederate states .
+
+GT:
+Georgia's major fine art museums include the High Museum of Art and the Michael C. Carlos Museum, both in Atlanta; the Georgia Museum of Art on the campus of the University of Georgia in Athens; Telfair Museum of Art and the SCAD Museum of Art in Savannah; and the Morris Museum of Art in Augusta. The Atlanta Symphony Orchestra is the most widely recognized orchestra and largest arts organization in the southeastern United States. There are a number of performing arts venues in the state, among the largest are the Fox Theatre, and the Alliance Theatre at the Woodruff Arts Center, both on Peachtree Street in Midtown Atlanta as well as the Cobb Energy Performing Arts Centre, located in Northwest Atlanta. Well-known television shows set in Atlanta include, from Tyler Perry Studios, House of Payne and Tyler Perry's Meet the Browns, The Real Housewives of Atlanta, the CBS sitcom Designing Women, Matlock, the popular AMC series The Walking Dead, Lifetime's Drop Dead Diva, Rectify and numerous HGTV original productions. A number of notable musicians in various genres of popular music are from Georgia. The state of Georgia has teams in four major professional leagues—the Atlanta Braves of Major League Baseball, the Atlanta Falcons of the National Football League, the Atlanta Hawks of the National Basketball Association, and Atlanta United FC of Major League Soccer. The Masters golf tournament, the first of the PGA tour's four "majors", is held annually the second weekend of April at the Augusta National Golf Club.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16015625, 0.5466666666666666, 0.24773413897280966, 0.15483383685800606]
+[0.043137254901960784, 0.14864864864864866, 0.06686930091185411, 0.04179331306990882]
+[0.1171875, 0.4, 0.18126888217522658, 0.11329305135951662]
+
+
+SBERT sim. Score: 0.4156494140625

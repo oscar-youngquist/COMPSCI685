@@ -1,0 +1,21 @@
+Document:
+texas
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+With a growing base of industry, the state leads in many industries, including tourism, agriculture, petrochemicals, energy, computers and electronics, aerospace, and biomedical sciences. Texas has led the US in state export revenue since 2002 and has the second-highest gross state product. Nevertheless, the state also attracted many businessmen and other settlers with more legitimate interests as well. Cotton and lumber became major industries creating new economic booms in various regions of the state. These cities are spread out amongst the state. Texas's large population, an abundance of natural resources, thriving cities and leading centers of higher education have contributed to a large and diverse economy. In 2010, Site Selection Magazine ranked Texas as the most business-friendly state in the nation, in part because of the state's three-billion-dollar Texas Enterprise Fund.
+\Predicted Summary:
+is the second largest metropolitan statistical area in the country . Texas is the second largest state by area (after Alaska) and population (after Texas). Texas is nicknamed the "Lone Star State" for its former status as an independent republic .
+
+GT:
+As of 2019, Texas had a gross state product (GSP) of $1.9 trillion, the second highest in the US Its GSP is greater than the GDPs of Brazil, Canada, Russia, South Korea and Spain, which are the world's 9th-, 10th-, 11th-, 12th- and 13th-largest economies, respectively. Texas's large population, an abundance of natural resources, thriving cities and leading centers of higher education have contributed to a large and diverse economy. Texas has a "low taxes, low services" reputation. According to the Tax Foundation, Texans' state and local tax burdens rank among the lowest in the nation, 7th lowest nationally; state and local taxes cost $3,580 per capita, or 8.4 percent of resident incomes. Texas is one of seven states that lack a state income tax. With large universities systems coupled with initiatives like the Texas Enterprise Fund and the Texas Emerging Technology Fund, a wide array of different high tech industries have developed in Texas. Texas has a reputation of very harsh criminal punishment for criminal offenses. As of 2008, Texas had the 4th highest incarceration rate in the US Texas also has strong self defense laws, allowing citizens to use lethal force to defend themselves, their families, or their property.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0966183574879227, 0.5128205128205128, 0.16260162601626016, 0.1016260162601626]
+[0.019417475728155338, 0.10526315789473684, 0.03278688524590164, 0.020491803278688523]
+[0.06763285024154589, 0.358974358974359, 0.1138211382113821, 0.0711382113821138]
+
+
+SBERT sim. Score: 0.5760546922683716

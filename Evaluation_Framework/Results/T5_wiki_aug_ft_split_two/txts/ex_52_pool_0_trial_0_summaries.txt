@@ -1,0 +1,21 @@
+Document:
+north_dakota
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+North Dakota also has enormous mineral resources. The central region of the state is divided into the Drift Prairie and the Missouri Plateau. They soon followed the Cheyennes across Missouri and lived among them south of Cannonball River. Social gatherings known as "powwows" (or wacipis in Lakota/Dakota) continue to be an important part of Native American culture and are held regularly throughout the state. North Dakota's major fine art museums and venues include the Chester Fritz Auditorium, Empire Arts Center, the Fargo Theatre, North Dakota Museum of Art, and the Plains Art Museum. Outdoor activities such as hunting and fishing are hobbies for many North Dakotans. The state is known for the Lewis & Clark Trail and being the winter camp of the Corps of Discovery. Areas popular with visitors include Theodore Roosevelt National Park in the western part of the state.
+\Predicted Summary:
+is the largest city in North Dakota. North Dakota has the second lowest unemployment rate in the nation (after Hawaii) in the midwestern United States . North Dakota is named after the Lakota and Dakota Sioux tribes, who historically dominated the state . North Dakota has large oil reserves, including billions of tons of lignite coal .
+
+GT:
+European Americans settled in Dakota Territory only sparsely until the late 19th century, when railroads opened up the region. Throughout the latter half of the nineteenth century and into the early twentieth century, North Dakota, along with most of the midwest, experienced a mass influx of newcomers from both the eastern United States and immigrants from Europe. The primary historic tribal nations in or around North Dakota, are the Lakota and the Dakota ("The Great Sioux Nation" or "Oceti Sakowin", meaning the seven council fires), the Blackfoot, the Cheyenne, the Chippewa (known as Ojibwe in Canada), and the Mandan. Around 1870 many European immigrants from Norway settled in North Dakota's northeastern corner, especially near the Red River. Ethnic Germans who had settled in Russia for several generations since the reign of Catherine the Great grew dissatisfied in the nineteenth century because of economic problems and because of the revocation of religious freedoms for Mennonites and Hutterites, in particular the revocation of exemption from military service in 1871. North Dakota's major fine art museums and venues include the Chester Fritz Auditorium, Empire Arts Center, the Fargo Theatre, North Dakota Museum of Art, and the Plains Art Museum. The Bismarck-Mandan Symphony Orchestra, Fargo-Moorhead Symphony Orchestra, Greater Grand Forks Symphony Orchestra, Minot Symphony Orchestra and Great Plains Harmony Chorus are full-time professional and semi-professional musical ensembles who perform concerts and offer educational programs to the community. Outdoor attractions like the 144-mile Maah Daah Hey Trail and activities like fishing and hunting attract visitors. The state is known for the Lewis & Clark Trail and being the winter camp of the Corps of Discovery.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11231884057971014, 0.5740740740740741, 0.18787878787878787, 0.11742424242424244]
+[0.03636363636363636, 0.18867924528301888, 0.06097560975609755, 0.038109756097560975]
+[0.07971014492753623, 0.4074074074074074, 0.13333333333333333, 0.08333333333333334]
+
+
+SBERT sim. Score: 0.5396752953529358

@@ -1,0 +1,21 @@
+Document:
+new_york
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+The central part of the state is dominated by the Finger Lakes, a popular vacation and tourist destination. Many landmarks in New York are well known, including four of the world's ten most-visited tourist attractions in 2013: Times Square, Central Park, Niagara Falls, and Grand Central Terminal. In contrast with New York City's urban landscape, the vast majority of the state's geographic area is dominated by meadows, forests, rivers, farms, mountains, and lakes. New York has many state parks and two major forest preserves. New York is the nation's third-largest grape producing state, and second-largest wine producer by volume, behind California. Several US national sports halls of fame are or have been situated in New York.
+\Predicted Summary:
+and is home to the United Nations Headquarters. New York is the largest state in the world. New York is the largest state in the world. New York has a population of more than 19 million as of 2019 makes it the fourth most populous state. New York is home to the United Nations Headquarters. New York is home to the United Nations Headquarters. New York is a global city. New York is home to the United Nations Headquarters. New York has a maritime border with the north of New York to the south and east of New York.
+
+GT:
+Niagara Falls State Park, established in 1885, is the oldest state park in the United States and the first to be created via eminent domain. The Catskill Park was protected in legislation passed in 1885, which declared that its land was to be conserved and never put up for sale or lease. The State of New York is well represented in the National Park System with 22 national parks, which received 16,349,381 visitors in 2011. This constitutes a total LGBT adult population of 570,388 individuals. New York also has two Major League Baseball teams, the New York Yankees (based in the Bronx) and the New York Mets (based in Queens). The National Museum of Racing and Hall of Fame in Saratoga Springs, Saratoga County, honors achievements in the sport of thoroughbred horse racing.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.3088235294117647, 0.42424242424242425, 0.35744680851063826, 0.22340425531914893]
+[0.08148148148148149, 0.11224489795918367, 0.09442060085836909, 0.059012875536480686]
+[0.19852941176470587, 0.2727272727272727, 0.2297872340425532, 0.14361702127659576]
+
+
+SBERT sim. Score: 0.37264400720596313

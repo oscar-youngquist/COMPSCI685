@@ -1,0 +1,21 @@
+Document:
+illinois
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The government of Illinois, under the Constitution of Illinois, has three branches of government: executive, legislative and judicial. The executive branch is split into several statewide elected offices, with the governor as chief executive. Legislative functions are granted to the Illinois General Assembly. The judiciary is composed of the Supreme Court and lower courts. The Illinois General Assembly is the state legislature, composed of the 118-member Illinois House of Representatives and the 59-member Illinois Senatorte. The executive branch is composed of six elected officers and their offices as well as numerous other departments. The six elected officers are: Governor, Lieutenant Governor, Attorney General, Secretary of State, Comptroller, and Treasurer. The Judiciary of Illinois is the unified court system of Illinois. It consists of the Supreme Court, Appellate Court, and Circuit Courts. The Supreme Court oversees the administration of the court system. Municipal governments are the cities, villages, and incorporated towns. Some localities possess home rule, which allows them to govern themselves to a certain extent.
+\Predicted Summary:
+, Illinois has the fifth largest gross domestic product (GDP) and the 25th largest land area . Illinois has been known as a bellwether both in terms of social and cultural terms . Illinois has had a reputation as a bellwether in politics and through the 1980s .
+
+GT:
+The government of Illinois, under the Constitution of Illinois, has three branches of government: executive, legislative and judicial. The executive branch is split into several statewide elected offices, with the governor as chief executive. Legislative functions are granted to the Illinois General Assembly. The judiciary is composed of the Supreme Court and lower courts. The Illinois General Assembly is the state legislature, composed of the 118-member Illinois House of Representatives and the 59-member Illinois Senatorte. The members of the General Assembly are elected at the beginning of each even-numbered year. The Illinois Compiled Statutes (ILCS) are the codified statutes of a general and permanent nature. The executive branch is composed of six elected officers and their offices as well as numerous other departments. The six elected officers are: Governor, Lieutenant Governor, Attorney General, Secretary of State, Comptroller, and Treasurer. The government of Illinois has numerous departments, agencies, boards and commissions, but the so-called code departments provide most of the state's services. The Judiciary of Illinois is the unified court system of Illinois. It consists of the Supreme Court, Appellate Court, and Circuit Courts. The Supreme Court oversees the administration of the court system. The administrative divisions of Illinois are counties, townships, precincts, cities, towns, villages, and special-purpose districts. The basic subdivision of Illinois are the 102 counties. Eighty-five of the 102 counties are in turn divided into townships and precincts. Municipal governments are the cities, villages, and incorporated towns. Some localities possess home rule, which allows them to govern themselves to a certain extent.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.06513409961685823, 0.38636363636363635, 0.11147540983606556, 0.06967213114754098]
+[0.011538461538461539, 0.06976744186046512, 0.019801980198019802, 0.012376237623762377]
+[0.05363984674329502, 0.3181818181818182, 0.09180327868852459, 0.05737704918032787]
+
+
+SBERT sim. Score: 0.4556090235710144

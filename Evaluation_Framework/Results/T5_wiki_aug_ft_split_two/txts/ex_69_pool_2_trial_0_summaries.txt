@@ -1,0 +1,21 @@
+Document:
+north_carolina
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The state mainly continued with an economy based on tobacco, cotton textiles and commodity agriculture. The state has a very diverse economy because of its great availability of hydroelectric power, its pleasant climate, and its wide variety of soils. The state ranks third among the South Atlantic states in population, but leads the region in industry and agriculture. According to a Forbes article written in 2013 Employment in the "Old North State" has gained many different industry sectors. Science, technology, engineering, and math (STEM) industries in the area surrounding North Carolina's capital have grown 17.9 percent since 2001, placing Raleigh-Cary at No. Since 2000, there has been a clear division in the economic growth of North Carolina's urban and rural areas. While North Carolina's urban areas have enjoyed a prosperous economy with steady job growth, low unemployment, and rising wages, many of the state's rural counties have suffered from job loss, rising levels of poverty, and population loss as their manufacturing base has declined. The state's shipping, commercial fishing, and lumber industries are important to its economy.
+\Predicted Summary:
+the North Carolina, North Carolina is the largest urban park in the nation, and the largest banking center in the nation after New York City . North Carolina uses the slogan "First in Flight" on the state license plates to commemorate this achievement . North Carolina is the 23rd-most populous of the 50 United States . North Carolina is the 28th largest and 9th-most populous of the 50 United States .
+
+GT:
+The Charlotte metro has experienced large growth mainly due to its finance, banking, and tech industries. By the 1990s, Charlotte had become a major regional and national banking center. Tourism has also been a boom for the North Carolina economy, as people flock to the Outer Banks coastal areas and the Appalachian Mountains anchored by Asheville. The state has a very diverse economy because of its great availability of hydroelectric power, its pleasant climate, and its wide variety of soils. The state ranks third among the South Atlantic states in population, but leads the region in industry and agriculture. North Carolina leads the nation in the production of tobacco, textiles, and furniture. Charlotte, the state's largest city, is a major textile and trade center. Science, technology, engineering, and math (STEM) industries in the area surrounding North Carolina's capital have grown 17.9 percent since 2001, placing Raleigh-Cary at No. 5 among the 51 largest metro areas in the country where technology is booming. North Carolina is the leading US state in production of flue-cured tobacco and sweet potatoes, and comes second in the farming of pigs and hogs, trout, and turkeys. The state's shipping, commercial fishing, and lumber industries are important to its economy. Service industries, including education, health care, private research, and retail trade, are also important.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.18385650224215247, 0.5942028985507246, 0.2808219178082192, 0.175513698630137]
+[0.05855855855855856, 0.19117647058823528, 0.0896551724137931, 0.05603448275862069]
+[0.12556053811659193, 0.4057971014492754, 0.1917808219178082, 0.11986301369863014]
+
+
+SBERT sim. Score: 0.5831303000450134

@@ -1,0 +1,21 @@
+Document:
+new_york
+
+Intent:
+How is the government structured in this state?
+
+Input:
+Prior to this time, the matter was delegated to the individual states, then via contract between the states and the federal government. It is composed of three branches: executive, legislative, and judicial. The governor is the state's chief executive and is assisted by the lieutenant governor. Additional elected officers include the attorney general and the comptroller. The secretary of state, formerly an elected officer, is currently appointed by the governor. The New York State Legislature is bicameral and consists of the New York State Senatorte and the New York State Assembly. The Legislature is empowered to make laws, subject to the governor's power to veto a bill. The state is divided into counties, cities, towns, and villages, all of which are municipal corporations with respect to their own governments, as well as various corporate entities that serve single purposes that are also local governments, such as school districts, fire districts, and New York state public-benefit corporations, frequently known as authorities or development corporations.
+\Predicted Summary:
+, and the state capital is Albany. New York is home to the United Nations Headquarters . New York is the fourth most populous state in the world . New York City is home to the United Nations, and is home to the world's most powerful city .
+
+GT:
+The Government of New York embodies the governmental structure of the State of New York as established by the New York State Constitution. It is composed of three branches: executive, legislative, and judicial. The governor is the state's chief executive and is assisted by the lieutenant governor. Both are elected on the same ticket. Additional elected officers include the attorney general and the comptroller. The secretary of state, formerly an elected officer, is currently appointed by the governor. The New York State Legislature is bicameral and consists of the New York State Senatorte and the New York State Assembly. The Assembly consists of 150 members, while the Senatorte varies in its number of members, currently having 63. The Legislature is empowered to make laws, subject to the governor's power to veto a bill. However, the veto may be overridden by the legislature if there is a two-thirds majority in favor of overriding in each house. The highest court of appeal in the Unified Court System is the Court of Appeals whereas the primary felony trial court is the County Court (or the Supreme Court in New York City). The Supreme Court also acts as the intermediate appellate court for many cases, and the local courts handle a variety of other matters including small claims, traffic ticket cases, and local zoning matters, and are the starting point for all criminal cases. The state is divided into counties, cities, towns, and villages, all of which are municipal corporations with respect to their own governments, as well as various corporate entities that serve single purposes that are also local governments, such as school districts, fire districts, and New York state public-benefit corporations, frequently known as authorities or development corporations. The state also has 10 Indian reservations. There have been several movements regarding secession from the state of New York. Proposals have included a state of Long Island, consisting of everything on the island outside New York City; a state called Niagara, the western counties of New York state; the northern counties of New York state called Upstate New York; making the city of New York a state; a proposal for a new Peconic County on eastern Long Island; and for the borough of Staten Island to secede from New York City.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07591623036649214, 0.6444444444444445, 0.1358313817330211, 0.08489461358313817]
+[0.026246719160104987, 0.22727272727272727, 0.047058823529411764, 0.029411764705882353]
+[0.060209424083769635, 0.5111111111111111, 0.10772833723653395, 0.06733021077283373]
+
+
+SBERT sim. Score: 0.3499338626861572

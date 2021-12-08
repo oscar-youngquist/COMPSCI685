@@ -1,0 +1,21 @@
+Document:
+oregon
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Beginning in the 1880s, the growth of railroads expanded the state's lumber, wheat, and other agricultural markets, and the rapid growth of its cities. It would earn the nickname "Stumptown", and would later become recognized as one of the most dangerous port cities in the United States due to racketeering and illegal activities at the turn of the 20th century. Bend, near the geographic center of the state, is one of the ten fastest-growing metropolitan areas in the United States. Tourism is also a strong industry in the state. The state's coastal region produces significant tourism as well. The State currently collects the tax for TriMet and the Lane Transit District. Oregon was the nation's "Top Moving Destination" in 2014, with two families moving into the state for every one moving out (66.4% to 33.6%). Oregon was also the top moving destination in 2013, and the second-most popular destination in 2010 through 2012.
+\Predicted Summary:
+, Oregon, is the 26th most populous state in the world, with 4 million people in the country . Oregon is the ninth largest and 27th most populous state . the state is home to many indigenous nations, including the state of Oregon .
+
+GT:
+The Lewis and Clark Expedition travelled through northern Oregon also in search of the Northwest Passage. They built their winter fort in 1805–06 at Fort Clatsop, near the mouth of the Columbia River, staying at the encampment from December until March. In 1811, while working for the North West Company, Thompson became the first European to navigate the entire Columbia River. Starting in 1842–43, the Oregon Trail brought many new American settlers to the Oregon Country. Beginning in the 1880s, the growth of railroads expanded the state's lumber, wheat, and other agricultural markets, and the rapid growth of its cities. In southern Oregon, Medford is a rapidly growing metro area and is home to the Rogue Valley International-Medford Airport, the state's third-busiest airport.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16279069767441862, 0.525, 0.24852071005917162, 0.1553254437869823]
+[0.0390625, 0.1282051282051282, 0.059880239520958084, 0.0374251497005988]
+[0.11627906976744186, 0.375, 0.1775147928994083, 0.11094674556213018]
+
+
+SBERT sim. Score: 0.2740701735019684

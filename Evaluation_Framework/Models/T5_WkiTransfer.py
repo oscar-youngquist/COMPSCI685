@@ -75,11 +75,11 @@ class T5_Wiki(Model):
         self.fine_tune_args = Seq2SeqTrainingArguments(
             output_dir="t5_trainer",
             do_train=True,
-            learning_rate=5e-6,
-            num_train_epochs=20,
+            learning_rate=5e-7,
+            num_train_epochs=50,
             generation_num_beams=1,
             label_smoothing_factor=self.smoothing,
-            per_device_train_batch_size=2,
+            per_device_train_batch_size=3,
             warmup_ratio=0.1,
             save_strategy="no" 
         )
@@ -104,16 +104,15 @@ class T5_Wiki(Model):
           wiki_trasnfer_training(self.wiki_args, self.model, processed_ctr, self.wiki_path,
               self.tokenizer, self.input_token_len, self.device)
 
-        #   fine_tune_model(trainer_args=self.fine_tune_args, model=self.model, tokenizer=self.tokenizer, token_len=self.input_token_len, lr=self.lr, adam_ep=self.adam_ep,
-        #                     batch_size=self.batch_size, epochs=self.finetune_epochs, example_summaries=example_summaries,
-        #                     sentence_prefilter=self.filter_obj.nearest_neighbor_bert_summary_filtering,
-        #                     prefilter_len=int(2*avg_len), df=self.df, device=self.device)
+          fine_tune_model(trainer_args=self.fine_tune_args, model=self.model, tokenizer=self.tokenizer, token_len=self.input_token_len, lr=self.lr, adam_ep=self.adam_ep,
+                            batch_size=self.batch_size, epochs=self.finetune_epochs, example_summaries=example_summaries,
+                            sentence_prefilter=self.filter_obj.nearest_neighbor_bert_summary_filtering,
+                            prefilter_len=int(2*avg_len), df=self.df, device=self.device)
 
-          fine_tune_model_aug(trainer_args=self.fine_tune_args, model=self.model, tokenizer=self.tokenizer, token_len=self.input_token_len, lr=1e-6, adam_ep=self.adam_ep,
-                                batch_size=5, epochs=100, example_summaries=example_summaries,
-                                sentence_prefilter=self.filter_obj.nearest_neighbor_bert_summary_filtering,
-                                prefilter_len=int(2*avg_len), df=self.df, aug_path=self.aug_path, gamma=1, device=self.device, use_wandb=False, num_aug=5)
-                            
+          # fine_tune_model_aug(trainer_args=self.fine_tune_args, model=self.model, tokenizer=self.tokenizer, token_len=self.input_token_len, lr=1e-6, adam_ep=self.adam_ep,
+          #                       batch_size=5, epochs=1, example_summaries=example_summaries,
+          #                       sentence_prefilter=self.filter_obj.nearest_neighbor_bert_summary_filtering,
+          #                       prefilter_len=int(2*avg_len), df=self.df, aug_path=self.aug_path, gamma=1, device=self.device, use_wandb=False, num_aug=5)            
           self.num_pred += 1
         else:
           self.num_pred += 1

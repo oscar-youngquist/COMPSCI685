@@ -1,0 +1,21 @@
+Document:
+wisconsin
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Like neighboring Minnesota, the state remains a center of German American and Scandinavian American culture. Yankees also speculated in real estate, platted towns such as Racine, Beloit, Burlington, and Janesville, and established schools, civic institutions, and Congregationalist churches. Wisconsin's economy also diversified during the early years of statehood. A large part of the state's manufacturing sector includes commercial food processing, including well-known brands such as Oscar Mayer, Tombstone frozen pizza, Johnsonville brats, and Usinger's sausage. Given the large number of lakes and rivers in the state, water recreation is very popular. The varied landscape of Wisconsin makes the state a popular vacation destination for outdoor recreation.
+\Predicted Summary:
+to Wisconsin. The word Wisconsin originates from the name given to the Wisconsin River by a French explorer . French explorer Jacques Marquette was the first European to reach the Wisconsin River . Wisconsin is the 23rd-largest state by total area and the 20th-most populous . Wisconsin is the largest city of Milwaukee, which is on the western shore of Lake Michigan .
+
+GT:
+Tourist destinations such as the House on the Rock near Spring Green, Circus World Museum in Baraboo, and The Dells of the Wisconsin River draw thousands of visitors annually, and festivals such as Summerfest and the EAA Oshkosh Airshow draw international attention, along with hundreds of thousands of visitors. In the North Country, what had been an industrial area focused on timber has largely been transformed into a vacation destination. Popular interest in the environment and environmentalism, added to traditional interests in hunting and fishing, has attracted a large urban audience within driving range. The distinctive Door Peninsula, which extends off the eastern coast of the state, contains one of the state's tourist destinations, Door County. Door County is a popular destination for boaters because of the large number of natural harbors, bays, and boat launches on both the Green Bay and Lake Michigan sides of the peninsula that forms the county. The area draws more than two million visitors yearly to its quaint villages, seasonal cherry picking, and fish boils.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13953488372093023, 0.39344262295081966, 0.2060085836909871, 0.12875536480686695]
+[0.029239766081871343, 0.08333333333333333, 0.04329004329004329, 0.027056277056277056]
+[0.11046511627906977, 0.3114754098360656, 0.16309012875536483, 0.10193133047210301]
+
+
+SBERT sim. Score: 0.419266939163208

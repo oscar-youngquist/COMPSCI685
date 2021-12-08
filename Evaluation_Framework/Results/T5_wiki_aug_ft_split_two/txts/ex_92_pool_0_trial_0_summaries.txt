@@ -1,0 +1,21 @@
+Document:
+indiana
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Indiana has a diverse economy with a gross state product of $359.12 billion in 2017. The auto, steel and pharmaceutical industries topped Indiana's major businesses. The total gross state product in 2016 was $347.2 billion. A high percentage of Indiana's income is from manufacturing. According to the Bureau of Labor Statistics, nearly 17 percent of the state's non-farm workforce is employed in manufacturing, the highest of any state in the US The state's five leading exports were motor vehicles and auto parts, pharmaceutical products, industrial machinery, optical and medical equipment, and electric machinery. Along with corn, soybeans are also a major cash crop.
+\Predicted Summary:
+is the 18th-most US state in the United States. Indiana is the 17th-most populous of the 50 United States . it borders Lake Michigan to the northwest, Michigan to the north, Ohio to the east, Ohio to the Ohio River and Kentucky to the southeast . the Ohio River and the Ohio River to the southeast, and the Wabash River and Illinois to the west. Indiana is the first inhabitants of the state were the Paleo-Indians, who arrived about 8000 BCE in 1816 .
+
+GT:
+A high percentage of Indiana's income is from manufacturing. According to the Bureau of Labor Statistics, nearly 17 percent of the state's non-farm workforce is employed in manufacturing, the highest of any state in the US The state's five leading exports were motor vehicles and auto parts, pharmaceutical products, industrial machinery, optical and medical equipment, and electric machinery. Despite its reliance on manufacturing, Indiana has been less affected by declines in traditional Rust Belt manufactures than many of its neighbors. Northwest Indiana has been the largest steel producing center in the US since 1975 and accounted for 27 percent of American-made steel in 2016. Indiana is within the US Corn Belt and Grain Belt. Along with corn, soybeans are also a major cash crop. Its proximity to large urban centers, such as Indianapolis and Chicago, assure dairying, egg production, and specialty horticulture occur.Other crops include melons, tomatoes, grapes, mint, popping corn, and tobacco in the southern counties.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.18404907975460122, 0.35714285714285715, 0.242914979757085, 0.15182186234817815]
+[0.037037037037037035, 0.07228915662650602, 0.04897959183673469, 0.03061224489795918]
+[0.1165644171779141, 0.2261904761904762, 0.15384615384615385, 0.09615384615384616]
+
+
+SBERT sim. Score: 0.536716639995575

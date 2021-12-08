@@ -1,0 +1,21 @@
+Document:
+missouri
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The state is the 21st-most extensive in area. Some of the largest companies based in the state include Cerner, Express Scripts, Monsanto, Emerson Electric, Edward Jones, HRBlock, Wells Fargo Advisors, Centene Corporation, and O'Reilly Auto Parts. River traffic and trade along the Mississippi were integral to the state's economy. Major industries include aerospace, transportation equipment, food processing, chemicals, printing/publishing, electrical equipment, light manufacturing, financial services and beer. The agriculture products of the state are beef, soybeans, pork, dairy products, hay, corn, poultry, sorghum, cotton, rice, and eggs. Missouri is ranked 6th in the nation for the production of hogs and 7th for cattle. Missouri is ranked in the top five states in the nation for production of soy beans, and it is ranked fourth in the nation for the production of rice. Missouri actively promotes its rapidly growing wine industry. According to the Missouri Partnership, Missouri's agriculture industry contributes $33 billion in GDP to Missouri's economy, and generates $88 billion in sales and more than 378,000 jobs. Missouri produces the most lead of all the states. Missouri also has a growing science, agricultural technology, and biotechnology field. Tourism, services, and wholesale/retail trade follow manufacturing in importance—tourism benefits from the many rivers, lakes, caves, parks, etc., throughout the state.
+\Predicted Summary:
+in 1735. The French established Louisiana in 1735 and St. Louis in 1764. Missouri is the 18th-most populous state of the country . Missouri has more than six million residents and has more than six million residents . Missouri is the 18th-most populous state of the country.
+
+GT:
+Major industries include aerospace, transportation equipment, food processing, chemicals, printing/publishing, electrical equipment, light manufacturing, financial services and beer. The agriculture products of the state are beef, soybeans, pork, dairy products, hay, corn, poultry, sorghum, cotton, rice, and eggs. Missouri is ranked 6th in the nation for the production of hogs and 7th for cattle. Missouri is ranked in the top five states in the nation for production of soy beans, and it is ranked fourth in the nation for the production of rice. According to the Missouri Partnership, Missouri's agriculture industry contributes $33 billion in GDP to Missouri's economy, and generates $88 billion in sales and more than 378,000 jobs. Missouri has vast quantities of limestone. Missouri produces the most lead of all the states. Missouri also has a growing science, agricultural technology, and biotechnology field. Monsanto, formerly one of the largest biotech companies in America, was based in St. Louis until it was acquired by Bayer AG in 2018. Tourism, services, and wholesale/retail trade follow manufacturing in importance—tourism benefits from the many rivers, lakes, caves, parks, etc., throughout the state. In addition to a network of state parks, Missouri is home to Gateway Arch National Park in St. Louis and the Ozark National Scenic Riverways.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12264150943396226, 0.5531914893617021, 0.20077220077220076, 0.12548262548262548]
+[0.03317535545023697, 0.15217391304347827, 0.054474708171206226, 0.034046692607003895]
+[0.08962264150943396, 0.40425531914893614, 0.14671814671814673, 0.0916988416988417]
+
+
+SBERT sim. Score: 0.4694128930568695

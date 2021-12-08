@@ -1,0 +1,21 @@
+Document:
+arizona
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+It is also part of the Western and the Mountain states. It is the 6th largest and the 14th most populous of the 50 states. About one-quarter of the state is made up of Indian reservations that serve as the home of 27 federally recognized Native American tribes, including the Navajo Nation, the largest in the state and the United States, with more than 300,000 citizens. For thousands of years before the modern era, Arizona was home to many Native American tribes. Hohokam, Mogollon and Ancestral Puebloan cultures were among those that flourished throughout the state. The remaining area is public forest and park land, state trust land and Native American reservations. (The large Navajo Nation in the state's northeastern region does.) Arizona is a recognized center of Native American art, with a number of galleries showcasing historical and contemporary works. The Heard Museum, also in Phoenix, is a major repository of Native American art. Sedona, Jerome, and Tubac are known as a budding artist colonies, and small arts scenes exist in the larger cities and near the state universities. Arizona also has many singers and other musicians.
+\Predicted Summary:
+Arizona, Arizona, and Arizona are part of the state, including Arizona. Arizona is the 6th largest and 14th most populous state of the 50 states . it is part of the Western and the Mountain states, and its capital and largest city is Phoenix . Arizona is made up of Indian reservations that serve as the home of 27 Native American tribes, including the Navajo Nation .
+
+GT:
+Arizona is a recognized center of Native American art, with a number of galleries showcasing historical and contemporary works. The Heard Museum, also in Phoenix, is a major repository of Native American art. Sedona, Jerome, and Tubac are known as a budding artist colonies, and small arts scenes exist in the larger cities and near the state universities. Several major Hollywood films, such as Billy Jack, U Turn, Waiting to Exhale, Just One of the Guys, Can't Buy Me Love, Bill & Ted's Excellent Adventure, The Scorpion King, The Banger Sisters, Used Cars, and Raising Arizona have been made there (as have many Westerns). Arizona is prominently featured in the lyrics of many Country and Western songs, such as Jamie O'Neal's hit ballad "There Is No Arizona". George Strait's "Oceanfront Property" uses "ocean front property in Arizona" as a metaphor for a sucker proposition. Arizona's budding music scene is helped by emerging bands, as well as some well-known artists. The Gin Blossoms, Chronic Future, Roger Clyne and the Peacemakers, Jimmy Eat World, Caroline's Spine, and others began their careers in Arizona. Arizona also has many singers and other musicians. Singer, songwriter and guitarist Michelle Branch is from Sedona. Chester Bennington, the former lead vocalist of Linkin Park, and mash-up artist DJ Z-Trip are both from Phoenix. Arizona is also known for its heavy metal scene, which is centered in and around Phoenix. In the early to mid-1990s, it included bands such as Job for a Cowboy, Knights of the Abyss, Greeley Estates, Eyes Set To Kill, blessthefall, The Word Alive, The Dead Rabbitts, and Abigail Williams. American composer Elliott Carter composed his first String Quartet (1950–51) while on sabbatical (from New York) in Arizona. The quartet won a Pulitzer Prize and other awards and is now a staple of the string quartet repertoire. Auto racing is another sport known in the state. Phoenix Raceway in Avondale is home to NASCAR race weekends twice a year. Firebird International Raceway near Chandler is home to drag racing and other motorsport events.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12, 0.65625, 0.2028985507246377, 0.12681159420289856]
+[0.02865329512893983, 0.15873015873015872, 0.04854368932038835, 0.030339805825242722]
+[0.06857142857142857, 0.375, 0.11594202898550726, 0.07246376811594202]
+
+
+SBERT sim. Score: 0.4473729133605957

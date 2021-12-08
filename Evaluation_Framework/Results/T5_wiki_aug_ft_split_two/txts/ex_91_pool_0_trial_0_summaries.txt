@@ -1,0 +1,21 @@
+Document:
+delaware
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Since the turn of the 20th century, Delaware is also a de facto onshore corporate haven, in which by virtue of its corporate laws, the state is the domicile of over 50% of all NYSE-listed business and 60% of the Fortune 500. Delaware is one of five states (Maine, Vermont, West Virginia, Wyoming) that do not have a single city with a population over 100,000 as of the 2010 census. It still has a substantial presence in the state. Delaware's agricultural output consists of poultry, nursery stock, soybeans, dairy products and corn. The state's largest employers are: More than half of all US publicly traded companies, and 63% of the Fortune 500, are incorporated in Delaware. The state's attractiveness as a corporate haven is largely because of its business-friendly corporation law. In Delaware, there are more than a million registered corporations, meaning there are more corporations than people. This is the fewest among all states. The state does, however, impose a tax on the gross receipts of most businesses. Gambling provides significant revenue to the state. Wilmington is the state's most populous city (70,635) and its economic hub. In 2015, tourism in Delaware generated $3.1 billion, which makes up five percent of the state's GDP. Delaware saw 8.5 million visitors in 2015, with the tourism industry employing 41,730 people, making it the 4th largest private employer in the state.
+\Predicted Summary:
+, Delaware was named after Delaware River, named after Thomas West, 3rd Baron De La Warr . Delaware is a state in the mid-Atlantic region of the United States . Delaware is the second-smallest and sixth-most densely populated state . Delaware is the second-smallest and sixth-most populous state, but also the sixth-most densely populated .
+
+GT:
+Since the turn of the 20th century, Delaware is also a de facto onshore corporate haven, in which by virtue of its corporate laws, the state is the domicile of over 50% of all NYSE-listed business and 60% of the Fortune 500. According to a 2013 study by Phoenix Marketing International, Delaware had the ninth-largest number of millionaires per capita in the United States, with a ratio of 6.2 percent. Delaware's agricultural output consists of poultry, nursery stock, soybeans, dairy products and corn. Since the mid-2000s, Delaware has seen the departure of the state's automotive manufacturing industry (General Motors Wilmington Assembly and Chrysler Newark Assembly), the corporate buyout of a major bank holding company (MBNA), the departure of the state's steel industry (Evraz Claymont Steel), the bankruptcy of a fiber mill (National Vulcanized Fibre), and the diminishing presence of AstraZeneca in Wilmington. More than half of all US publicly traded companies, and 63% of the Fortune 500, are incorporated in Delaware. The state's attractiveness as a corporate haven is largely because of its business-friendly corporation law. Franchise taxes on Delaware corporations supply about a fifth of the state's revenue. In Delaware, there are more than a million registered corporations, meaning there are more corporations than people. Rehoboth Beach often bills itself as "The Nation's Summer Capital" because it is a frequent summer vacation destination for Washington, D.C., residents as well as visitors from Maryland, Virginia, and in lesser numbers, Pennsylvania. According to SeaGrant Delaware, the Delaware beaches generate $6.9 billion annually and over $711 million in tax revenue. In 2015, tourism in Delaware generated $3.1 billion, which makes up five percent of the state's GDP. Delaware saw 8.5 million visitors in 2015, with the tourism industry employing 41,730 people, making it the 4th largest private employer in the state.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08227848101265822, 0.4642857142857143, 0.13978494623655913, 0.08736559139784945]
+[0.025396825396825397, 0.14545454545454545, 0.043243243243243246, 0.027027027027027025]
+[0.06329113924050633, 0.35714285714285715, 0.10752688172043012, 0.06720430107526881]
+
+
+SBERT sim. Score: 0.4510224163532257

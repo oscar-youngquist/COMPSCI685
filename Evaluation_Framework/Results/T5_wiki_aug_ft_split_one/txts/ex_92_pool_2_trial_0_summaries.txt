@@ -1,0 +1,21 @@
+Document:
+new_york
+
+Intent:
+How is the government structured in this state?
+
+Input:
+Prior to this time, the matter was delegated to the individual states, then via contract between the states and the federal government. Aside from the five counties of New York City, each of these counties is subdivided into towns and cities, incorporated under state law. It is composed of three branches: executive, legislative, and judicial. The governor is the state's chief executive and is assisted by the lieutenant governor. Additional elected officers include the attorney general and the comptroller. The secretary of state, formerly an elected officer, is currently appointed by the governor. The New York State Legislature is bicameral and consists of the New York State Senatorte and the New York State Assembly. The Legislature is empowered to make laws, subject to the governor's power to veto a bill. The Supreme Court also acts as the intermediate appellate court for many cases, and the local courts handle a variety of other matters including small claims, traffic ticket cases, and local zoning matters, and are the starting point for all criminal cases. The state is divided into counties, cities, towns, and villages, all of which are municipal corporations with respect to their own governments, as well as various corporate entities that serve single purposes that are also local governments, such as school districts, fire districts, and New York state public-benefit corporations, frequently known as authorities or development corporations. Each municipal corporation is granted varying home rule powers as provided by the New York Constitution.
+\Predicted Summary:
+and the United Nations to the north. New York is the fourth most populous state in the world. New York is the most populous state in the state. New York is home to the United Nations Headquarters. New York is home to the United Nations. New York is a state in the northeastern United States. New York has an estimated population of 8.34 million in 2019, and is the world's most populous state. New York is home to the United Nations headquarters.
+
+GT:
+The Government of New York embodies the governmental structure of the State of New York as established by the New York State Constitution. It is composed of three branches: executive, legislative, and judicial. The governor is the state's chief executive and is assisted by the lieutenant governor. Both are elected on the same ticket. Additional elected officers include the attorney general and the comptroller. The New York State Legislature is bicameral and consists of the New York State Senatorte and the New York State Assembly. The Assembly consists of 150 members, while the Senatorte varies in its number of members, currently having 63. The highest court of appeal in the Unified Court System is the Court of Appeals whereas the primary felony trial court is the County Court (or the Supreme Court in New York City). The Supreme Court also acts as the intermediate appellate court for many cases, and the local courts handle a variety of other matters including small claims, traffic ticket cases, and local zoning matters, and are the starting point for all criminal cases. The state is divided into counties, cities, towns, and villages, all of which are municipal corporations with respect to their own governments, as well as various corporate entities that serve single purposes that are also local governments, such as school districts, fire districts, and New York state public-benefit corporations, frequently known as authorities or development corporations. Each municipal corporation is granted varying home rule powers as provided by the New York Constitution. The state also has 10 Indian reservations.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1891891891891892, 0.5833333333333334, 0.28571428571428575, 0.17857142857142863]
+[0.05426356589147287, 0.1686746987951807, 0.08211143695014662, 0.05131964809384164]
+[0.13513513513513514, 0.4166666666666667, 0.20408163265306126, 0.12755102040816327]
+
+
+SBERT sim. Score: 0.40837475657463074

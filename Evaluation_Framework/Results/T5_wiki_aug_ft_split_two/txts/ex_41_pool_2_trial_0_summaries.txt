@@ -1,0 +1,21 @@
+Document:
+alaska
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Denali National Park and Preserve is located here. Also in Southeast were the Haida, now well known for their unique arts. However, a small assortment of state and local fairs (with the Alaska State Fair in Palmer the largest), are held mostly in the late summer. The fairs are mostly located in communities with historic or current agricultural activity, and feature local farmers exhibiting produce in addition to more high-profile commercial activities such as carnival rides, concerts and food. Some of Alaska's popular annual events are the Iditarod Trail Sled Dog Race from Anchorage to Nome, World Ice Art Championships in Fairbanks, the Blueberry Festival and Alaska Hummingbird Festival in Ketchikan, the Sitka Whale Fest, and the Stikine River Garnet Fest in Wrangell. The Alaska Native Heritage Center celebrates the rich heritage of Alaska's 11 cultural groups. The Alaska Native Arts Foundation promotes and markets Native art from all regions and cultures in the State, using the internet. Prominent musicians from Alaska include singer Jewel, traditional Aleut flautist Mary Youngblood, folk singer-songwriter Libby Roderick, Christian music singer-songwriter Lincoln Brewster, metal/post hardcore band 36 Crazyfists and the groups Pamyua and Portugal. There are many established music festivals in Alaska, including the Alaska Folk Festival, the Fairbanks Summer Arts Festival] the Anchorage Folk Festival, the Athabascan Old-Time Fiddling Festival, the Sitka Jazz Festival, and the Sitka Summer Music Festival. The most prominent orchestra in Alaska is the Anchorage Symphony Orchestra, though the Fairbanks Symphony Orchestra and Juneau Symphony are also notable. The Anchorage Opera is currently the state's only professional opera company, though there are several volunteer and semi-professional organizations in the state as well.
+\Predicted Summary:
+Alaska is the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined . the state capital of Juneau is the second-largest state in the country, with an estimated population of 738,432 . Approximately half of Alaska's residents live within the Anchorage metropolitan area .
+
+GT:
+Some of Alaska's popular annual events are the Iditarod Trail Sled Dog Race from Anchorage to Nome, World Ice Art Championships in Fairbanks, the Blueberry Festival and Alaska Hummingbird Festival in Ketchikan, the Sitka Whale Fest, and the Stikine River Garnet Fest in Wrangell. The Stikine River attracts the largest springtime concentration of American bald eagles in the world. The Alaska Native Heritage Center celebrates the rich heritage of Alaska's 11 cultural groups. Influences on music in Alaska include the traditional music of Alaska Natives as well as folk music brought by later immigrants from Russia and Europe. Prominent musicians from Alaska include singer Jewel, traditional Aleut flautist Mary Youngblood, folk singer-songwriter Libby Roderick, Christian music singer-songwriter Lincoln Brewster, metal/post hardcore band 36 Crazyfists and the groups Pamyua and Portugal. There are many established music festivals in Alaska, including the Alaska Folk Festival, the Fairbanks Summer Arts Festival] the Anchorage Folk Festival, the Athabascan Old-Time Fiddling Festival, the Sitka Jazz Festival, and the Sitka Summer Music Festival. The most prominent orchestra in Alaska is the Anchorage Symphony Orchestra, though the Fairbanks Symphony Orchestra and Juneau Symphony are also notable. The Anchorage Opera is currently the state's only professional opera company, though there are several volunteer and semi-professional organizations in the state as well.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09954751131221719, 0.4, 0.15942028985507245, 0.09963768115942029]
+[0.03636363636363636, 0.14814814814814814, 0.0583941605839416, 0.0364963503649635]
+[0.06334841628959276, 0.2545454545454545, 0.10144927536231885, 0.06340579710144928]
+
+
+SBERT sim. Score: 0.37694263458251953

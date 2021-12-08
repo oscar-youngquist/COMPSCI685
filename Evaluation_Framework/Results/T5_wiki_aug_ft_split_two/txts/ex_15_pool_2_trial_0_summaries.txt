@@ -1,0 +1,21 @@
+Document:
+maryland
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The Maryland Department of Transportation oversees most transportation in the state through its various administration-level agencies. The government of Maryland is conducted according to the state constitution. The government of Maryland, like the other 49 state governments, has exclusive authority over matters that lie entirely within the state's borders, except as limited by the Constitution of the United States. Power in Maryland is divided among three branches of government: executive, legislative, and judicial. The Maryland General Assembly is composed of the Maryland House of Delegates and the Maryland Senatorte. Maryland's governor is unique in the United States as the office is vested with significant authority in budgeting. Elections for governor and most statewide offices, as well as most county elections, are held in midterm-election years (even-numbered years not divisible by four). The judicial branch of state government consists of one united District Court of Maryland that sits in every county and Baltimore City, as well as 24 Circuit Courts sitting in each County and Baltimore City, the latter being courts of general jurisdiction for all civil disputes over $30,000, all equitable jurisdiction and major criminal proceedings. The highest educational official in the state is the State Superintendent of Schools, who is appointed by the State Board of Education to a four-year term of office.
+\Predicted Summary:
+,,, MERR--lnd) is a state in the Mid-Atlantic region of the Southern United States . it is named after the English Queen, known in England as the Queen Henrietta Maria . it is named after the English Queen Mary, who was the wife of King Charles I .
+
+GT:
+The government of Maryland is conducted according to the state constitution. The government of Maryland, like the other 49 state governments, has exclusive authority over matters that lie entirely within the state's borders, except as limited by the Constitution of the United States. Power in Maryland is divided among three branches of government: executive, legislative, and judicial. The Maryland General Assembly is composed of the Maryland House of Delegates and the Maryland Senatorte. Elections for governor and most statewide offices, as well as most county elections, are held in midterm-election years (even-numbered years not divisible by four). The judicial branch of state government consists of one united District Court of Maryland that sits in every county and Baltimore City, as well as 24 Circuit Courts sitting in each County and Baltimore City, the latter being courts of general jurisdiction for all civil disputes over $30,000, all equitable jurisdiction and major criminal proceedings. The intermediate appellate court is known as the Court of Special Appeals and the state supreme court is the Court of Appeals. The appearance of the judges of the Maryland Court of Appeals is unique
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09424083769633508, 0.391304347826087, 0.15189873417721522, 0.0949367088607595]
+[0.015789473684210527, 0.06666666666666667, 0.02553191489361702, 0.015957446808510637]
+[0.08376963350785341, 0.34782608695652173, 0.13502109704641352, 0.08438818565400844]
+
+
+SBERT sim. Score: 0.16175563633441925

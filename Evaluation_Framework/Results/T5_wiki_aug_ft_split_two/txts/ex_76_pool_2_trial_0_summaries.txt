@@ -1,0 +1,21 @@
+Document:
+kentucky
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Amtrak, the national passenger rail system, provides service to Ashland, South Portsmouth, Maysville and Fulton. The Cardinal (trains 50 and 51) is the line that offers Amtrak service to Ashland, South Shore, Maysville and South Portsmouth. The City of New Orleans (trains 58 and 59) serve Fulton. Norfolk Southern Railway passes through the Central and Southern parts of the Commonwealth, via its Cincinnati, New Orleans, and Texas Pacific (CNO&TP) subsidiary. Cincinnati/Northern Kentucky International Airport is the largest airport in the state, and is a focus city for passenger airline Delta Air Lines and headquarters of its Delta Private Jets. The airport is one of DHL Aviation's three super-hubs, serving destinations throughout the Americas, Europe, Africa, and Asia, making it the 7th busiest airport in the US and 36th in the world based on passenger and cargo operations. There are also a number of regional airports scattered across the state.
+\Predicted Summary:
+, Kentucky is the 37th most extensive and the 26th most populous of the 50 United States . Kentucky is known as the "Bluegrass State", a species of grass found in many pastures, which has supported the thoroughbred horse industry . Kentucky is known as the "Bluegrass State" and the "Bluegrass State" it is home to the world's longest cave system, including Mammoth Cave National Park .
+
+GT:
+Kentucky is served by six major Interstate highways (I-24, I-64, I-65, I-69, I-71, and I-75), seven parkways, and six bypasses and spurs (I-165, I-169, I-264, I-265, I-275, and I-471). Amtrak, the national passenger rail system, provides service to Ashland, South Portsmouth, Maysville and Fulton. The Cardinal (trains 50 and 51) is the line that offers Amtrak service to Ashland, South Shore, Maysville and South Portsmouth. Norfolk Southern Railway passes through the Central and Southern parts of the Commonwealth, via its Cincinnati, New Orleans, and Texas Pacific (CNO&TP) subsidiary. Kentucky's primary airports include Louisville International Airport (Standiford Field (SDF)) of Louisville, Cincinnati/Northern Kentucky International Airport (CVG) of Cincinnati/Covington, and Blue Grass Airport (LEX) in Lexington. Today, most barge traffic on Kentucky waterways consists of coal that is shipped from both the Eastern and Western Coalfields, about half of which is used locally to power many power plants located directly off the Ohio River, with the rest being exported to other countries, most notably Japan.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17318435754189945, 0.484375, 0.25514403292181076, 0.1594650205761317]
+[0.016853932584269662, 0.047619047619047616, 0.024896265560165973, 0.015560165975103733]
+[0.1005586592178771, 0.28125, 0.14814814814814814, 0.0925925925925926]
+
+
+SBERT sim. Score: 0.39741018414497375

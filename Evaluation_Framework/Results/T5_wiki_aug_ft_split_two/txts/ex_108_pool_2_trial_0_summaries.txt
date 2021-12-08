@@ -1,0 +1,21 @@
+Document:
+alabama
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+The state's economy in the 21st century is based on management, automotive, finance, manufacturing, aerospace, mineral extraction, healthcare, education, retail, and technology. The state has numerous place names of Native American origin. Temperatures tend to be warmer in the southern part of the state with its proximity to the Gulf of Mexico, while the northern parts of the state, especially in the Appalachian Mountains in the northeast, tend to be slightly cooler. The state is usually ranked among the top in nation for its range of overall biodiversity. Residents of the state, along with those in five other states, were least likely in the nation to be physically active during leisure time. As of 2018, Alabama has the sixth highest poverty rate among states in the US According to Business Insider, Alabama ranked 14th in most popular states to visit in 2014. Alabama is one of seven states that levy a tax on food at the same rate as other goods, and one of two states (the other being neighboring Mississippi) which fully taxes groceries without any offsetting relief for low-income families.
+\Predicted Summary:
+, Alabama, is a state in the Deep South region of the Southern United States, bordered by Tennessee to the north; Georgia to the south; Mississippi to the west . Alabama is the largest city by population in the United States and the 24th largest by area . Alabama is the largest city by population in the region, and the largest city by land area is Birmingham . Alabama is the largest urban economy, and the largest city by population is Birmingham . Alabama is the 24th largest by population and the largest city by population is
+
+GT:
+With a total of 1,500 miles (2,400 km) of inland waterways, Alabama has among the most of any state. The state is classified as humid subtropical (Cfa) under the Koppen Climate Classification. Temperatures tend to be warmer in the southern part of the state with its proximity to the Gulf of Mexico, while the northern parts of the state, especially in the Appalachian Mountains in the northeast, tend to be slightly cooler. Summers in Alabama are among the hottest in the US, with high temperatures averaging over 90 °F (32 °C) throughout the summer in some parts of the state. The state is home to various attractions, natural features, parks and events that attract visitors from around the globe, notably the annual Hangout Music Festival, held on the public beaches of Gulf Shores; the Alabama Shakespeare Festival, one of the ten largest Shakespeare festivals in the world; the Robert Trent Jones Golf Trail, a collection of championship caliber golf courses distributed across the state; casinos such as Victoryland; amusement parks such as Alabama Splash Adventure; the Riverchase Galleria, one of the largest shopping centers in the southeast; Guntersville Lake, voted the best lake in Alabama by Southern Living Magazine readers; and the Alabama Museum of Natural History, the oldest museum in the state. Mobile is known for having the oldest organized Mardi Gras celebration in the United States, beginning in 1703. Mardi Gras is an official state holiday in Mobile and Baldwin counties. College football is extremely popular in Alabama, particularly the University of Alabama Crimson Tide and Auburn University Tigers, rivals in the Southeastern Conference.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16791044776119404, 0.4891304347826087, 0.25, 0.15625]
+[0.03745318352059925, 0.10989010989010989, 0.0558659217877095, 0.034916201117318434]
+[0.13059701492537312, 0.3804347826086957, 0.19444444444444445, 0.12152777777777776]
+
+
+SBERT sim. Score: 0.4591258764266968

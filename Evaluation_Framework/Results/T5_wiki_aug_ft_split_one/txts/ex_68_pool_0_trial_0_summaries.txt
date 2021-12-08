@@ -1,0 +1,21 @@
+Document:
+mississippi
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+The state's name is derived from the Mississippi River, which flows along and defines its western boundary. Mississippi is bordered to the north by Tennessee, to the east by Alabama, to the south by Louisiana and a narrow coast on the Gulf of Mexico; and to the west, across the Mississippi River, by Louisiana and Arkansas. (See: Lists of cities, towns and villages, census-designated places, metropolitan areas, micropolitan areas, and counties in Mississippi) Plantations were developed primarily along the major rivers, where the waterfront provided access to the major transportation routes. The relatively low population of the state before the Civil War reflected the fact that land and villages were developed only along the riverfronts, which formed the main transportation corridors. They also took advantage of new railroads sponsored by the state. Most migrants from Mississippi took trains directly north to Chicago and often settled near former neighbors. Mississippi has six airports with commercial passenger service, the busiest in Jackson (Jackson-Evers International Airport) and one in Gulfport (Gulfport-Biloxi International Airport) Mississippi is served by nine interstate highways: Routes: as well as a system of State Highways. Amtrak provides scheduled passenger service along two routes, the Crescent and City of New Orleans. All but two of the United States Class I railroads serve Mississippi (the exceptions are the Union Pacific and Canadian Pacific):
+\Predicted Summary:
+,, and the 1960s, movement. Mississippi is the 32nd largest and 34th-most populous state admitted to the Union . Mississippi is bordered to the east by Tennessee; to the east by the Alabama; to the southwest by the Mississippi Alluvial Plain . Mississippi is the largest and most populous state in the south of the state .
+
+GT:
+The relatively low population of the state before the Civil War reflected the fact that land and villages were developed only along the riverfronts, which formed the main transportation corridors. Mississippi has six airports with commercial passenger service, the busiest in Jackson (Jackson-Evers International Airport) and one in Gulfport (Gulfport-Biloxi International Airport) Mississippi is served by nine interstate highways: and fourteen main US Routes: as well as a system of State Highways. Amtrak provides scheduled passenger service along two routes, the Crescent and City of New Orleans. All but two of the United States Class I railroads serve Mississippi (the exceptions are the Union Pacific and Canadian Pacific):
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.23636363636363636, 0.48148148148148145, 0.3170731707317073, 0.19817073170731705]
+[0.03669724770642202, 0.07547169811320754, 0.04938271604938271, 0.0308641975308642]
+[0.14545454545454545, 0.2962962962962963, 0.19512195121951217, 0.12195121951219512]
+
+
+SBERT sim. Score: 0.5156844258308411

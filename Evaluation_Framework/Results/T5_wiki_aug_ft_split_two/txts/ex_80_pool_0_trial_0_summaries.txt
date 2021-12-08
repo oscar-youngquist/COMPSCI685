@@ -1,0 +1,21 @@
+Document:
+ohio
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+The Rock and Roll Hall of Fame and the Rhythm and Blues Music Hall of Fame are both located in Cleveland. Cincinnati is home to the American Classical Music Hall of Fame and Museum. Five Ohio musicians are Rock and Roll Hall of Fame members. The Cleveland Orchestra is one of the historic Big Five orchestras in the US, and is considered one of the best worldwide. Many other Ohio cities are home to their own orchestras, including Akron, Blue Ash, Canton, Cincinnati, Columbus, Dayton, Toledo, and Youngstown. The Columbus Association for the Performing Arts manages seven historic Columbus area theaters. The Cleveland Museum of Art is internationally renowned for its substantial holdings of Asian and Egyptian art, and has a permanent collection of more than 61,000 works from around the world. Youngstown's Butler Institute of American Art was the first museum to be dedicated exclusively to American art.
+\Predicted Summary:
+, Ohio, and Ohio are the earliest industrial states in the 20th century . Ohio is the fourth largest state in the country, with the largest city and largest city . Ohio is the third largest state in the state, with the largest city of Columbus . the state's capital is Columbus, with the state's largest city, and the largest city of Columbus .
+
+GT:
+The Rock and Roll Hall of Fame and the Rhythm and Blues Music Hall of Fame are both located in Cleveland. Cincinnati is home to the American Classical Music Hall of Fame and Museum. Playhouse Square in downtown Cleveland is the second largest performing arts center in the United States, home to ten theaters. The Cleveland Orchestra is one of the historic Big Five orchestras in the US, and is considered one of the best worldwide. Many other Ohio cities are home to their own orchestras, including Akron, Blue Ash, Canton, Cincinnati, Columbus, Dayton, Toledo, and Youngstown. Ohio is home to 30 art institutions, including the Columbus Museum of Art, Cincinnati Art Museum, Cleveland Museum of Art, and other entities. The Cincinnati Art Museum holds over 100,000 works spanning 6,000 years of human history, being among the most comprehensive collections in the Midwest. Among its notable collections are works by Master of San Baudelio, Jorge Ingles, Sandro Botticelli (Judith with Head of Holofernes), Matteo di Giovanni, Domenico Tintoretto (Portrait of Venetian dux Marino Grimani), Mattia Preti, Bernardo Strozzi, Frans Hals, Bartolomé Esteban Murillo (St. Thomas of Villanueva), Peter Paul Rubens (Samson and Delilah) and Aert van der Neer. The Cleveland Museum of Art is internationally renowned for its substantial holdings of Asian and Egyptian art, and has a permanent collection of more than 61,000 works from around the world. It is the fourth-wealthiest art museum in the United States. The Columbus Museum of Art holds nineteenth and early twentieth-century American and European art, including early Cubist paintings by Pablo Picasso and Juan Gris, works by François Boucher, Paul Cézanne, Mary Cassatt, Jean Auguste Dominique Ingres, Edgar Degas, Henri Matisse, Claude Monet, Edward Hopper, and Norman Rockwell, and installations by Mel Chin, Josiah McElheny, Susan Philipsz, and Allan Sekula. Also in Columbus, the Billy Ireland Cartoon Library & Museum collection includes 450,000 original cartoons, 36,000 books, 51,000 serial titles, and 3,000 feet (910 m) of manuscript materials, plus 2.5 million comic strip clippings and tear sheets, making it the largest research library for cartoon art.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10140845070422536, 0.5901639344262295, 0.1730769230769231, 0.10817307692307693]
+[0.02824858757062147, 0.16666666666666666, 0.04830917874396135, 0.030193236714975848]
+[0.07887323943661972, 0.45901639344262296, 0.13461538461538464, 0.08413461538461539]
+
+
+SBERT sim. Score: 0.33552414178848267

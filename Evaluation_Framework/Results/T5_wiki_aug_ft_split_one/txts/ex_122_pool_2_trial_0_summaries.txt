@@ -1,0 +1,21 @@
+Document:
+connecticut
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The state prospered during the era following the American Revolution, as mills and textile factories were built and seaports flourished from trade and fisheries. This affected the agricultural economy in the state. Most of western and southern Connecticut (particularly the Gold Coast) is strongly associated with New York City Finance, insurance and real estate was Connecticut's largest industry in 2018 as ranked by gross domestic product, generating $75.7 billion in GDP that year. The combined educational, health and social services sector was the largest single industry as ranked by employment, with a combined workforce of 342,600 people at the end of 2019, ranking fourth the year before in GDP at $28.3 billion. Manufacturing was the third biggest industry in 2018 with GDP of $30.8 billion, dominated by Raytheon Technologies formed in the March 2020 merger of Hartford-based United Technologies and Waltham, Mass.-based Raytheon Co. As of the merger, Raytheon Technologies employed about 19,000 people in Connecticut through subsidiaries Pratt & Whitney and Collins Aerospace. Other large components of the Connecticut economy in 2018 included wholesale trade ($18.1 billion in GDP); information services ($13.8 billion); retail ($13.7 billion); arts, entertainment and food services ($9.1 billion); and construction ($8.3 billion).
+\Predicted Summary:
+, Connecticut has the southernmost state in the Northeastern United States . Connecticut is the third smallest state by area, the 29th most populous, and fourth most densely populated of fifty states . Connecticut is named for the Connecticut River which includes the Connecticut River .
+
+GT:
+Finance, insurance and real estate was Connecticut's largest industry in 2018 as ranked by gross domestic product, generating $75.7 billion in GDP that year. The combined educational, health and social services sector was the largest single industry as ranked by employment, with a combined workforce of 342,600 people at the end of 2019, ranking fourth the year before in GDP at $28.3 billion. The broad business and professional services sector had the second highest GDP total in Connecticut in 2018 at an estimated $33.7 billion. Manufacturing was the third biggest industry in 2018 with GDP of $30.8 billion, dominated by Raytheon Technologies formed in the March 2020 merger of Hartford-based United Technologies and Waltham, Mass.-based Raytheon Co. As of the merger, Raytheon Technologies employed about 19,000 people in Connecticut through subsidiaries Pratt & Whitney and Collins Aerospace. Lockheed Martin subsidiary Sikorsky Aircraft operates Connecticut's single largest manufacturing plant in Stratford, where it makes helicopters. Other major manufacturers include the Electric Boat division of General Dynamics, which makes submarines in Groton, Boehringer Ingelheim, a pharmaceuticals manufacturer with its US headquarters in Ridgefield, and ASML, which in Wilton makes precision lithography machines used to create circuitry on semiconductors and flat-screen displays. Connecticut historically was a center of gun manufacturing, and four gun-manufacturing firms continued to operate in the state as of December 2012, employing 2,000 people: Colt, Stag, Ruger, and Mossberg. Other large components of the Connecticut economy in 2018 included wholesale trade ($18.1 billion in GDP); information services ($13.8 billion); retail ($13.7 billion); arts, entertainment and food services ($9.1 billion); and construction ($8.3 billion). Foxwoods Resort Casino and Mohegan Sun are the two biggest tourist draws and number among the state's largest employers Connecticut's agricultural production totaled $580 million in 2017, with just over half of that revenue the result of nursery stock production.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.06832298136645963, 0.5238095238095238, 0.12087912087912088, 0.07554945054945054]
+[0.012461059190031152, 0.0975609756097561, 0.022099447513812154, 0.013812154696132596]
+[0.052795031055900624, 0.40476190476190477, 0.09340659340659342, 0.05837912087912088]
+
+
+SBERT sim. Score: 0.29665473103523254

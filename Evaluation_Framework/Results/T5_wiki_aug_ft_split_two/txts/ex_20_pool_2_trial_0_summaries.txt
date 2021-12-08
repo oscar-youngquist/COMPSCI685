@@ -1,0 +1,21 @@
+Document:
+washington
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+The state's various areas of wilderness offer sanctuary, with substantially large populations of shorebirds and marine mammals. Prominent among their industries were salmon fishing and, notably among the Makah, whale hunting. Early prominent industries in the state included agriculture and lumber. Other industries that developed in the state included fishing, salmon canning and mining. Significant business within the state include the design and manufacture of aircraft (Boeing), automotive (Paccar), computer software development (Microsoft, Bungie, Amazon, Nintendo of America, Valve, ArenaNet), telecom (T-Mobile US), electronics, biotechnology, aluminum production, lumber and wood products (Weyerhaeuser), mining, beverages (Starbucks, Jones Soda), real estate (John L. Scott, Colliers International, Windermere Real Estate, Kidder Mathews), retail (Nordstrom, Eddie Bauer, Car Toys, Costco, R.E.I. Washington is a leading agricultural state. Pacific Raceways is a motorsports venue which has hosted the Northwest Nationals of the NHRA Mello Yello Drag Racing Series and a round of the Trans-Am Series. The state song is "Washington, My Home", the state bird is the American goldfinch, the state fruit is the apple, and the state vegetable is the Walla Walla sweet onion.
+\Predicted Summary:
+, Washington, D.C. Washington is the second most populous state in the country . Washington, a state in the Pacific Northwest region, is a state in the United States . Washington is the largest producer of apple, pears, pears, fir, and spruce oil .
+
+GT:
+The Seattle Open Invitational golf tournament was part of the PGA Tour from the 1930s to the 1960s. The GTE Northwest Classic was part of the Senatoror PGA Tour from 1986 to 1995, and the Boeing Classic since 2005. In addition, the 2015 US Open was held at Chambers Bay, and several major tournaments were held at Sahalee Country Club. Pacific Raceways is a motorsports venue which has hosted the Northwest Nationals of the NHRA Mello Yello Drag Racing Series and a round of the Trans-Am Series. The WTA Seattle tennis tournament was part of the WTA Tour from 1977 to 1982. The Climate Pledge Arena has hosted several mixed martial arts events, such as UFC Fight Night: Nogueira vs. Davis, UFC on Fox: Henderson vs. Diaz, and UFC on Fox: Johnson vs. Moraga.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1037037037037037, 0.34146341463414637, 0.1590909090909091, 0.09943181818181818]
+[0.007462686567164179, 0.025, 0.011494252873563218, 0.0071839080459770105]
+[0.08888888888888889, 0.2926829268292683, 0.13636363636363635, 0.08522727272727273]
+
+
+SBERT sim. Score: 0.138579323887825

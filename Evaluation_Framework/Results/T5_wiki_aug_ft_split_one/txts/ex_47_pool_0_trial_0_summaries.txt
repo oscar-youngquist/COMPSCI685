@@ -1,0 +1,21 @@
+Document:
+florida
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+In the pre-automobile era, railroads played a key role in the state's development, particularly in coastal areas. Numerous other railroads were built all over the interior of the state. Much of the state is at or near sea level. The fast-growing I-4 corridor area, which runs through Central Florida and connects the cities of Daytona Beach, Orlando, and Tampa/St. The area is often seen as a merging point of the conservative northern portion of the state and the liberal southern portion, making it the biggest swing area in the state. Florida has many seaports that serve container ships, tank ships, and cruise lines. The world's top three busiest cruise ports are found in Florida with PortMiami as the busiest and Port Canaveral and Port Everglades as the second and third busiest. Port Tampa Bay meanwhile is the largest in the state, having the most tonnage. Florida's highway system contains 1,495 mi (2,406 km) of interstate highway, and 10,601 mi (17,061 km) of non-interstate highway, such as state highways and US Highways. Florida's interstates, state highways, and US Highways are maintained by the Florida Department of Transportation. Intercity bus travel, which utilizes Florida's highway system, is provided by Greyhound, Megabus, and Amtrak Thruway Motorcoach. Florida's primary interstate routes include: Florida's seven large hub and medium hub airports, as classified by the FAA, are the following:
+\Predicted Summary:
+, Florida is the fourth-most populous and the 22nd-most populous in the United States . Florida is bordered to the west by the Gulf of Mexico, to the northwest by Alabama, to the north by the Atlantic Ocean . Florida is the fourth-largest state in the world, and the second-most populous in the world .
+
+GT:
+Florida's highway system contains 1,495 mi (2,406 km) of interstate highway, and 10,601 mi (17,061 km) of non-interstate highway, such as state highways and US Highways. Intercity bus travel, which utilizes Florida's highway system, is provided by Greyhound, Megabus, and Amtrak Thruway Motorcoach. Before the construction of routes under the Federal Aid Highway Act of 1956, Florida began construction of a long cross-state toll road, Florida's Turnpike. Florida has 131 public airports. Florida's seven large hub and medium hub airports, as classified by the FAA, are the following:
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15306122448979592, 0.2727272727272727, 0.19607843137254902, 0.12254901960784315]
+[0.010309278350515464, 0.018518518518518517, 0.013245033112582781, 0.008278145695364239]
+[0.14285714285714285, 0.2545454545454545, 0.18300653594771238, 0.11437908496732024]
+
+
+SBERT sim. Score: 0.4256746470928192

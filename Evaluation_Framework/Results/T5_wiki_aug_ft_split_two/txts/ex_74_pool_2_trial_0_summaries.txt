@@ -1,0 +1,21 @@
+Document:
+new_mexico
+
+Intent:
+How is the government structured in this state?
+
+Input:
+It included most of the present-day states of Arizona and New Mexico, and part of Colorado. The executive branch of government is fragmented as outlined in the state constitution. The executive is composed of the governor and other statewide elected officials including the lieutenant governor (elected on the same ticket as the governor), attorney general, secretary of state, state auditor, state treasurer, and commissioner of public lands. The governor appoints a cabinet who lead agencies statutorily designated under their jurisdiction. The New Mexico Legislature consists of the House of Representatives and Senatorte. The judiciary is composed of the New Mexico Supreme Court and lower courts. There is also local government, consisting of counties, municipalities and special districts. Currently, both chambers of the New Mexico State Legislature have Democratic majorities. The Apache and some Ute live on federal reservations within the state.
+\Predicted Summary:
+,, and its capital is Santa Fe, which was founded in 1610 as capital of Nuevo México (listen); Navajo: Yootó Hahotso]) is a state in the Southwestern region of the United States of America . New Mexico is the 36th largest state by population . New Mexico is the 36th largest by population .
+
+GT:
+New Mexico law allows governments to provide land, buildings, and infrastructure to businesses to promote job creation. New Mexico imposes a Gross Receipts Tax (GRT) on many transactions, which may even include some governmental receipts. Rural and intercity public transportation by road is provided by Americanos USA, LLC, Greyhound Lines and several government operators. The Constitution of New Mexico established New Mexico's governmental structure. The executive branch of government is fragmented as outlined in the state constitution. The New Mexico Legislature consists of the House of Representatives and Senatorte. There is also local government, consisting of counties, municipalities and special districts. Currently, both chambers of the New Mexico State Legislature have Democratic majorities. There are 26 Democrats and 16 Republicans in the Senatorte, and 47 Democrats and 23 Republicans in the House of Representatives. Democrats in the state are usually strongest in the Santa Fe Area, various areas of the Albuquerque Metro Area (such as the southeast and central areas, including the affluent Nob Hill neighborhood and the vicinity of the University of New Mexico), Northern and West Central New Mexico, and most of the Native American reservations, particularly the Navajo Nation. While registered Democrats outnumber registered Republicans by nearly 200,000, New Mexico voters have favored moderate to conservative candidates of both parties at the state and federal levels.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12669683257918551, 0.5490196078431373, 0.20588235294117646, 0.12867647058823528]
+[0.022727272727272728, 0.1, 0.037037037037037035, 0.02314814814814815]
+[0.08597285067873303, 0.37254901960784315, 0.13970588235294118, 0.08731617647058824]
+
+
+SBERT sim. Score: 0.521500289440155

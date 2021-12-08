@@ -1,0 +1,21 @@
+Document:
+missouri
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Two of the nation's three busiest rail centers are in Missouri. Like Kansas City, St. Louis is a major destination for train freight. Amtrak passenger trains serve Kansas City, La Plata, Jefferson City, St. Louis, Lee's Summit, Independence, Warrensburg, Hermann, Washington, Kirkwood, Sedalia, and Poplar Bluff. The Gateway Multimodal Transportation Center in St. Louis is the largest active multi-use transportation center in the state. It serves as a hub center/station for MetroLink, the MetroBus regional bus system, Greyhound, Amtrak, and taxi services. Greyhound and Trailways provide inter-city bus service in Missouri. Megabus serves St. Louis, but discontinued service to Columbia and Kansas City in 2015.
+\Predicted Summary:
+Missouri was a slave state in the midwestern United States. Missouri is the 21st-most extensive state of the country. Missouri is divided into eight states (tied for the most with Tennessee): Iowa to the north, Illinois, Kentucky and Tennessee (via the Mississippi River) to the east, Arkansas to the south, and Oklahoma to the south. Oklahoma to the south; Oklahoma to the south; and Kansas to the south; the capital is Jefferson City. Missouri is the largest urban area in the state. Missouri is divided into 114
+
+GT:
+Missouri has two major airport hubs: St. Louis Lambert International Airport and Kansas City International Airport. Kansas City is a major railroad hub for BNSF Railway, Norfolk Southern Railway, Kansas City Southern Railway, and Union Pacific Railroad, and every class 1 railroad serves Missouri. Amtrak passenger trains serve Kansas City, La Plata, Jefferson City, St. Louis, Lee's Summit, Independence, Warrensburg, Hermann, Washington, Kirkwood, Sedalia, and Poplar Bluff. The only urban light rail/subway system operating in Missouri is MetroLink, which connects the city of St. Louis with suburbs in Illinois and St. Louis County. Many cities have regular fixed-route systems, and many rural counties have rural public transit services. The Mississippi River and Missouri River are commercially navigable over their entire lengths in Missouri. Following the passage of Amendment 3 in late 2004, the Missouri Department of Transportation (MoDOT) began its Smoother, Safer, Sooner road-building program with a goal of bringing 2,200 miles (3,500 km) of highways up to good condition by December 2007.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17159763313609466, 0.32954545454545453, 0.22568093385214005, 0.14105058365758752]
+[0.02976190476190476, 0.05747126436781609, 0.0392156862745098, 0.02450980392156863]
+[0.11242603550295859, 0.2159090909090909, 0.14785992217898833, 0.09241245136186771]
+
+
+SBERT sim. Score: 0.591075599193573

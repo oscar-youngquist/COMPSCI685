@@ -1,0 +1,21 @@
+Document:
+utah
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The state has a highly diversified economy, with major sectors including transportation, education, information technology and research, government services, mining; it is also a major tourist destination for outdoor recreation. This is symbolized by the beehive on the Utah flag, and the state's motto, "Industry". Economies are dominated by mining, oil shale, oil, and natural gas-drilling, ranching, and recreation. According to the Bureau of Economic Analysis, the gross state product of Utah in 2012 was US$130.5 billion, or 0.87% of the total United States GDP of US$14.991 trillion for the same year. Major industries of Utah include: mining, cattle ranching, salt production, and government services. According to the 2007 State New Economy Index, Utah is ranked the top state in the nation for Economic Dynamism, determined by "the degree to which state economies are knowledge-based, globalized, entrepreneurial, information technology-driven and innovation-based". In 2014, Utah was ranked number one in Forbes' list of "Best States For Business". In eastern Utah petroleum production is a major industry. The state sales tax has a base rate of 6.45 percent, with cities and counties levying additional local sales taxes that vary among the municipalities. Tourism is a major industry in Utah. Since the days of the Utah Territory mining has played a major role in Utah's economy. Today mining activity still plays a major role in the state's economy. According to the 2010 Census, Utah was the second fastest-growing state (at 23.8 percent) in the United States between 2000 and 2010 (behind Nevada).
+\Predicted Summary:
+Utah is the 13th largest state by area; with a population over three million, it is the 30th-most-populous and 11th-least-dense populated . most of the western half of the state is Mormons, the vast majority belong to a single church . Utah is the only state in the country where a majority of the population belongs to a single church .
+
+GT:
+The state has a highly diversified economy, with major sectors including transportation, education, information technology and research, government services, mining; it is also a major tourist destination for outdoor recreation. Economies are dominated by mining, oil shale, oil, and natural gas-drilling, ranching, and recreation. In eastern Utah petroleum production is a major industry. Near Salt Lake City, petroleum refining is done by a number of oil companies. In central Utah, coal production accounts for much of the mining activity. Utah collects personal income tax The state sales tax has a base rate of 6.45 percent, with cities and counties levying additional local sales taxes that vary among the municipalities. Tourism is a major industry in Utah. Since the days of the Utah Territory mining has played a major role in Utah's economy. Today mining activity still plays a major role in the state's economy. Minerals mined in Utah include copper, gold, silver, molybdenum, zinc, lead, and beryllium. Fossil fuels including coal, petroleum, and natural gas continue to play a large role in Utah's economy, especially in the eastern part of the state in counties such as Carbon, Emery, Grand, and Uintah.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16326530612244897, 0.5161290322580645, 0.24806201550387597, 0.15503875968992248]
+[0.041025641025641026, 0.13114754098360656, 0.0625, 0.0390625]
+[0.10204081632653061, 0.3225806451612903, 0.1550387596899225, 0.09689922480620156]
+
+
+SBERT sim. Score: 0.5778708457946777

@@ -1,0 +1,21 @@
+Document:
+new_jersey
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+This toll road, which overlaps with Interstate 95 for much of its length, carries traffic between Delaware and New York, and up and down the East Coast in general. It connects Fort Lee, New Jersey to the Washington Heights neighborhood of Upper Manhattan, and carries Interstate 95 and US Route 1/9 across the Hudson River. The adjacent Newark Airport railroad station provides access to Amtrak and NJ Transit trains along the Northeast Corridor Line. NJ Transit operates extensive rail and bus service throughout the state. Today, NJ Transit has eleven commuter rail lines that run through different parts of the state. NJ Transit also operates three light rail systems in the state. The PATH is a rapid transit system consisting of four lines operated by the Port Authority of New York and New Jersey.
+\Predicted Summary:
+, the state of New Jersey, a state in the mid-Atlantic, the northeastern United States . New Jersey is the fourth-smallest state by area, but the state is the 11th-most populous . New Jersey is the fifth-smallest state by area, with 8,722.58 square miles .
+
+GT:
+Newark Liberty International Airport (EWR) is one of the busiest airports in the United States. NJ Transit operates extensive rail and bus service throughout the state. NJ Transit also operates three light rail systems in the state. The Hudson-Bergen Light Rail connects Bayonne to North Bergen, through Hoboken and Jersey City. The Newark Light Rail is partially underground, and connects downtown Newark with other parts of the city and its suburbs, Belleville and Bloomfield. The PATH is a rapid transit system consisting of four lines operated by the Port Authority of New York and New Jersey. Amtrak operates numerous long-distance passenger trains in New Jersey, both to and from neighboring states and around the country. Some private bus carriers still remain in New Jersey. New York Waterway has ferry terminals at Belford, Jersey City, Hoboken, Weehawken, and Edgewater, with service to different parts of Manhattan. The Delaware River and Bay Authority operates the Cape May–Lewes Ferry on Delaware Bay, carrying both passengers and vehicles between New Jersey and Delaware.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1511627906976744, 0.5531914893617021, 0.23744292237442924, 0.14840182648401828]
+[0.04678362573099415, 0.17391304347826086, 0.07373271889400922, 0.046082949308755755]
+[0.09302325581395349, 0.3404255319148936, 0.1461187214611872, 0.091324200913242]
+
+
+SBERT sim. Score: 0.4651893973350525

@@ -1,0 +1,21 @@
+Document:
+delaware
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Since the turn of the 20th century, Delaware is also a de facto onshore corporate haven, in which by virtue of its corporate laws, the state is the domicile of over 50% of all NYSE-listed business and 60% of the Fortune 500. Delaware's agricultural output consists of poultry, nursery stock, soybeans, dairy products and corn. The state's largest employers are: More than half of all US publicly traded companies, and 63% of the Fortune 500, are incorporated in Delaware. The state's attractiveness as a corporate haven is largely because of its business-friendly corporation law. Franchise taxes on Delaware corporations supply about a fifth of the state's revenue. In Delaware, there are more than a million registered corporations, meaning there are more corporations than people. The state does, however, impose a tax on the gross receipts of most businesses. Gambling provides significant revenue to the state. In 2015, tourism in Delaware generated $3.1 billion, which makes up five percent of the state's GDP. Delaware saw 8.5 million visitors in 2015, with the tourism industry employing 41,730 people, making it the 4th largest private employer in the state.
+\Predicted Summary:
+, Delaware was named after Delaware River, named after Thomas West, 3rd Baron De La Warr . Delaware is a state in the mid-Atlantic region of the United States . Delaware is the second-smallest and sixth-most densely populated state . Delaware is the second-smallest and sixth-most populous state, but also the sixth-most densely populated .
+
+GT:
+Delaware's agricultural output consists of poultry, nursery stock, soybeans, dairy products and corn. Franchise taxes on Delaware corporations supply about a fifth of the state's revenue. The state does, however, impose a tax on the gross receipts of most businesses. Business and occupational license tax rates range from 0.096% to 1.92%, depending on the category of business activity. Real estate is subject to county property taxes, school district property taxes, vocational school district taxes, and, if located within an incorporated area, municipal property taxes. Gambling provides significant revenue to the state. In June 2018, Delaware became the first US state to legalize sports betting following the Supreme Court ruling to repeal The Professional and Amateur Sports Protection Act (PASPA). According to SeaGrant Delaware, the Delaware beaches generate $6.9 billion annually and over $711 million in tax revenue. In 2015, tourism in Delaware generated $3.1 billion, which makes up five percent of the state's GDP.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13043478260869565, 0.375, 0.19354838709677416, 0.12096774193548386]
+[0.0125, 0.03636363636363636, 0.0186046511627907, 0.011627906976744186]
+[0.09316770186335403, 0.26785714285714285, 0.13824884792626727, 0.08640552995391704]
+
+
+SBERT sim. Score: 0.4714215397834778

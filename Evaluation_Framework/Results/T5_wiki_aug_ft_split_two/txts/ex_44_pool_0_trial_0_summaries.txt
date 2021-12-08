@@ -1,0 +1,21 @@
+Document:
+delaware
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+In a similar vein to Maryland, Delaware's geography, culture, and history combine elements of the Mid-Atlantic, Northeastern, and Southern regions of the country. Delaware is one of five states (Maine, Vermont, West Virginia, Wyoming) that do not have a single city with a population over 100,000 as of the 2010 census. It still has a substantial presence in the state. The state's attractiveness as a corporate haven is largely because of its business-friendly corporation law. This was a successor to the Del-Mar-Va Express and Cavalier, which had run from Philadelphia through the state's interior, to the end of the Delmarva Peninsula until the mid-1950s. Gambling provides significant revenue to the state. Delaware is home to First State National Historical Park, a National Park Service unit composed of historic sites across the state including the New Castle Court House, Green, and Sheriff's House, Dover Green, Beaver Valley, Fort Christina, Old Swedes' Church, John Dickinson Plantation, and the Ryves Holt House. Delaware has several museums, wildlife refuges, parks, houses, lighthouses, and other historic places. Delaware is home to several festivals, fairs, and events. Some of the more notable festivals are the Riverfest held in Seaford, the World Championship Punkin Chunkin formerly held at various locations throughout the state since 1986, the Rehoboth Beach Chocolate Festival, the Bethany Beach Jazz Funeral to mark the end of summer, the Apple Scrapple Festival held in Bridgeville, the Clifford Brown Jazz Festival in Wilmington, the Rehoboth Beach Jazz Festival, the Sea Witch Halloween Festival and Parade in Rehoboth Beach, the Rehoboth Beach Independent Film Festival, the Nanticoke Indian Pow Wow in Oak Orchard, Firefly Music Festival, and the Return Day Parade held after every election in Georgetown. Delaware is also home to two large sporting venues. In the WNBA, the Washington Mystics enjoy a major following due to the presence of Wilmington native and University of Delaware product Elena Delle Donne. Delaware's official state sport is bicycling.
+\Predicted Summary:
+, Delaware was named after Delaware River, named after Thomas West, 3rd Baron De La Warr . Delaware is a state in the mid-Atlantic region of the United States . Delaware is the second-smallest and sixth-most densely populated state . Delaware is the second-smallest and sixth-most populous state, but also the sixth-most densely populated .
+
+GT:
+In the WNBA, the Washington Mystics enjoy a major following due to the presence of Wilmington native and University of Delaware product Elena Delle Donne. The University of Delaware's football team has a large following throughout the state, with the Delaware State University and Wesley College teams also enjoying a smaller degree of support. Delaware is home to Dover International Speedway and Dover Downs. DIS, also known as the Monster Mile, is one of only 10 tracks in the nation to have hosted 100 or more NASCAR Cup Series races. Dover Downs is a popular harness racing facility. Delaware is represented in rugby by the Delaware Black Foxes, a 2015 expansion club. Delaware has been home to professional wrestling outfit Combat Zone Wrestling (CZW). Delaware's official state sport is bicycling.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16666666666666666, 0.39285714285714285, 0.2340425531914893, 0.14627659574468083]
+[0.030534351145038167, 0.07272727272727272, 0.04301075268817204, 0.026881720430107527]
+[0.09848484848484848, 0.23214285714285715, 0.13829787234042554, 0.08643617021276598]
+
+
+SBERT sim. Score: 0.384538859128952

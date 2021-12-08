@@ -1,0 +1,21 @@
+Document:
+utah
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The state has a highly diversified economy, with major sectors including transportation, education, information technology and research, government services, mining; it is also a major tourist destination for outdoor recreation. Economies are dominated by mining, oil shale, oil, and natural gas-drilling, ranching, and recreation. Major industries of Utah include: mining, cattle ranching, salt production, and government services. According to the 2007 State New Economy Index, Utah is ranked the top state in the nation for Economic Dynamism, determined by "the degree to which state economies are knowledge-based, globalized, entrepreneurial, information technology-driven and innovation-based". In 2014, Utah was ranked number one in Forbes' list of "Best States For Business". In eastern Utah petroleum production is a major industry. Since the days of the Utah Territory mining has played a major role in Utah's economy. Today mining activity still plays a major role in the state's economy.
+\Predicted Summary:
+, Utah, is a state in the western United States. Utah is the only state where a majority of the population belongs to a single church . the state is the 13th-largest by area; with a population over three million, it is the 30th-most-popularous and 11th-least-densely populated .
+
+GT:
+Major industries of Utah include: mining, cattle ranching, salt production, and government services. In terms of "small business friendliness", in 2014 Utah emerged as number one, based on a study drawing upon data from more than 12,000 small business owners. In eastern Utah petroleum production is a major industry. In central Utah, coal production accounts for much of the mining activity. Tourism is a major industry in Utah. With five national parks (Arches, Bryce Canyon, Canyonlands, Capitol Reef, and Zion), Utah has the third most national parks of any state after Alaska and California. Utah has seen an increase in tourism since the 2002 Winter Olympics.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1588785046728972, 0.34, 0.21656050955414013, 0.1353503184713376]
+[0.02830188679245283, 0.061224489795918366, 0.03870967741935484, 0.024193548387096774]
+[0.1308411214953271, 0.28, 0.17834394904458598, 0.11146496815286623]
+
+
+SBERT sim. Score: 0.6013438105583191

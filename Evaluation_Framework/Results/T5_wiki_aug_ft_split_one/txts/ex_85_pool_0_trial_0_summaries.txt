@@ -1,0 +1,21 @@
+Document:
+arizona
+
+Intent:
+What drives the economy in this state?
+
+Input:
+It is also part of the Western and the Mountain states. It is the 6th largest and the 14th most populous of the 50 states. The boom and bust economy of mining also left hundreds of ghost towns across the territory, but copper mining continued to prosper with the territory producing more copper than any other state by 1907, which earned Arizona the nickname "the Copper State" at the time of statehood. The state continues to produce half of the nation's newly mined copper. Cotton farming and copper mining, two of Arizona's most important statewide industries, suffered heavily during the Great Depression. Arizona is the sixth largest state by area, ranked after New Mexico and before Nevada. The remaining area is public forest and park land, state trust land and Native American reservations. Due to its large area and variations in elevation, the state has a wide variety of localized climate conditions. Arizona's continued population growth puts an enormous stress on the state's water supply. Flagstaff has a strong tourism sector, due to its proximity to numerous tourist attractions including: Grand Canyon National Park, Sedona, and Oak Creek Canyon. This figure gives Arizona a larger economy than such countries as Ireland, Finland, and New Zealand. The composition of the state's economy is moderately diverse; although health care, transportation and the government remain the largest sectors. Early in its history, Arizona's economy relied on the "five C's": copper (see Copper mining in Arizona), cotton, cattle, citrus, and climate (tourism). Copper is still extensively mined from many expansive open-pit and underground mines, accounting for two-thirds of the nation's output. The largest employment sectors in Arizona are (August 2020, Nonfarm Employment):
+\Predicted Summary:
+, Arizona is the 48th state and the 14th most populous of the 50 states . the state is also part of the Western and the Mountain states . it is the 6th largest and the 14th most populous of the 50 states . the state is made up of Indian reservations that serve as the home of 27 federally recognized Native Americans .
+
+GT:
+There are ski resorts in the areas of Flagstaff, Alpine, and Tucson. In addition to the internationally known Grand Canyon National Park, which is one of the world's seven natural wonders, there are several national forests, national parks, and national monuments. The boom and bust economy of mining also left hundreds of ghost towns across the territory, but copper mining continued to prosper with the territory producing more copper than any other state by 1907, which earned Arizona the nickname "the Copper State" at the time of statehood. The composition of the state's economy is moderately diverse; although health care, transportation and the government remain the largest sectors. Early in its history, Arizona's economy relied on the "five C's": copper (see Copper mining in Arizona), cotton, cattle, citrus, and climate (tourism). Copper is still extensively mined from many expansive open-pit and underground mines, accounting for two-thirds of the nation's output. The state government is Arizona's largest employer, while Banner Health is the state's largest private employer, with more than 39,000 employees (2016).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17032967032967034, 0.5254237288135594, 0.2572614107883818, 0.1607883817427386]
+[0.03867403314917127, 0.1206896551724138, 0.05857740585774058, 0.03661087866108787]
+[0.12637362637362637, 0.3898305084745763, 0.19087136929460577, 0.11929460580912862]
+
+
+SBERT sim. Score: 0.5710305571556091

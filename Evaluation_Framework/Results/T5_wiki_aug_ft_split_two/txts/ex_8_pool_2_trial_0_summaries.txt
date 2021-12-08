@@ -1,0 +1,21 @@
+Document:
+massachusetts
+
+Intent:
+What drives the economy in this state?
+
+Input:
+During the 20th century, Massachusetts's economy shifted from manufacturing to services. The state has been ranked as one of the top states in the United States for citizens to live in, as well as one of the most expensive. By the 1920s, competition from the South and Midwest, followed by the Great Depression, led to the collapse of the three main industries in Massachusetts: textiles, shoemaking, and precision mechanics. In Eastern Massachusetts, following World War II, the economy was transformed from one based on heavy industry into a service-based economy. CNBC's list of "Top States for Business for 2014" has recognized Massachusetts as the 25th-best state in the nation for business, and for the second year in a row the state was ranked by Bloomberg as the most innovative state in America. Sectors vital to the Massachusetts economy include higher education, biotechnology, information technology, finance, health care, tourism, manufacturing, and defense. While manufacturing comprised less than 10% of Massachusetts's gross state product in 2016, the Commonwealth ranked 16th in the nation in total manufacturing output in the United States. Particular agricultural products of note include green house products making up more than one third of the state's agricultural output, cranberries, sweet corn and apples are also large sectors of production. Massachusetts is the second-largest cranberry-producing state in the union after Wisconsin.
+\Predicted Summary:
+, the Massachusetts Commonwealth of Massachusetts is the most populous state in the northeastern United States . Massachusetts is the most populous state in the northeastern United states . it borders on the Atlantic Ocean to the east, the states of New Hampshire and Rhode Island to the north .
+
+GT:
+Massachusetts ( (listen), ), officially known as the Commonwealth of Massachusetts, is the most populous state in the New England region of the Northeastern United States. During the 20th century, Massachusetts's economy shifted from manufacturing to services. Modern Massachusetts is a global leader in biotechnology, engineering, higher education, finance, and maritime trade. The economy transformed from one based primarily on agriculture to an industrial one, initially making use of water-power and later the steam engine to power factories. Sectors vital to the Massachusetts economy include higher education, biotechnology, information technology, finance, health care, tourism, manufacturing, and defense. In recent years tourism has played an ever-important role in the state's economy, with Boston and Cape Cod being the leading destinations. Massachusetts is the sixth-most popular tourist destination for foreign travelers. The Bay State ranked number one in education, number two in healthcare, and number five in the handling of the economy.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.21568627450980393, 0.717391304347826, 0.3316582914572864, 0.20728643216080403]
+[0.11842105263157894, 0.4, 0.18274111675126903, 0.11421319796954313]
+[0.16993464052287582, 0.5652173913043478, 0.2613065326633166, 0.1633165829145729]
+
+
+SBERT sim. Score: 0.7404763698577881

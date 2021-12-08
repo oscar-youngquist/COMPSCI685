@@ -1,0 +1,21 @@
+Document:
+arizona
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It is the 6th largest and the 14th most populous of the 50 states. Arizona is the sixth largest state by area, ranked after New Mexico and before Nevada. The state is less well known for its pine-covered north-central portion of the high country of the Colorado Plateau (see Arizona Mountains forests). Due to its large area and variations in elevation, the state has a wide variety of localized climate conditions. The composition of the state's economy is moderately diverse; although health care, transportation and the government remain the largest sectors. The state's per capita income is $40,828, ranking 39th in the US As of August 2020, the state's unemployment rate was 5.9%.
+\Predicted Summary:
+is the southernmost state in the world, and is part of the western and the Mountain states . Arizona is the 48th state and last of the contiguous states to be admitted to the Union . it is also part of the Western and the Mountain states; it is also part of the west and the Mountain states; its other neighboring states are Nevada and California to the west .
+
+GT:
+In addition to the internationally known Grand Canyon National Park, which is one of the world's seven natural wonders, there are several national forests, national parks, and national monuments. Hinduism became the largest non-Christian religion (when combining all denominations) in 2010 with more than 32,000 adherents, followed by Judaism with more than 20,000 and Buddhism with more than 19,000. The composition of the state's economy is moderately diverse; although health care, transportation and the government remain the largest sectors. The state transaction privilege tax is 5.6%; however, county and municipal sales taxes generally add an additional 2%. The state of Arizona does not levy a state tax on food for home consumption or on drugs prescribed by a licensed physician or dentist. The Phoenix and Tucson metropolitan areas are served by public bus transit systems.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2112676056338028, 0.44776119402985076, 0.28708133971291866, 0.17942583732057416]
+[0.03546099290780142, 0.07575757575757576, 0.04830917874396136, 0.030193236714975844]
+[0.14788732394366197, 0.31343283582089554, 0.20095693779904306, 0.1255980861244019]
+
+
+SBERT sim. Score: 0.37623894214630127

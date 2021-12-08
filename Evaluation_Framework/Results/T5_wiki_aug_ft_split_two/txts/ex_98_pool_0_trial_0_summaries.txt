@@ -1,0 +1,21 @@
+Document:
+delaware
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It is the second-smallest and sixth-least populous state, but also the sixth-most densely populated. In a similar vein to Maryland, Delaware's geography, culture, and history combine elements of the Mid-Atlantic, Northeastern, and Southern regions of the country. Moderated by the Atlantic Ocean and Delaware Bay, the southern portion of the state has a milder climate and a longer growing season than the northern portion of the state. In the northern third of the state are found Northeastern coastal forests and mixed oak forests typical of the northeastern United States. Delaware's history as a border state has led it to exhibit characteristics of both the Northern and the Southern regions of the United States. Delaware is the sixth most densely populated state, with a population density of 442.6 people per square mile, 356.4 per square mile more than the national average, and ranking 45th in population. Delaware is one of five states (Maine, Vermont, West Virginia, Wyoming) that do not have a single city with a population over 100,000 as of the 2010 census. It still has a substantial presence in the state. The state's largest employers are: The state's attractiveness as a corporate haven is largely because of its business-friendly corporation law. This is the fewest among all states. Gambling provides significant revenue to the state. Wilmington is the state's most populous city (70,635) and its economic hub. In 2015, tourism in Delaware generated $3.1 billion, which makes up five percent of the state's GDP.
+\Predicted Summary:
+, the state is known as Delaware. Delaware is a state in the Mid-Atlantic region of the United States . Delaware is the second-smallest and sixth-east populous state . Delaware is a state in the Mid-Atlantic region of the United States . it is the home of over 50% of all NYSE-listed business and 60% of the Fortune 500 .
+
+GT:
+Delaware ( (listen) DEL-ə-wair) is a state in the Mid-Atlantic region of the United States, bordering Maryland to its south and west; Pennsylvania to its north; and New Jersey and the Atlantic Ocean to its east. The state takes its name from the nearby Delaware River named after Thomas West, 3rd Baron De La Warr, an English nobleman and Virginia's first colonial governor. Delaware occupies the northeastern portion of the Delmarva Peninsula and some islands and territory within the Delaware River. It is the second-smallest and sixth-least populous state, but also the sixth-most densely populated. According to a 2013 study by Phoenix Marketing International, Delaware had the ninth-largest number of millionaires per capita in the United States, with a ratio of 6.2 percent. Delaware's agricultural output consists of poultry, nursery stock, soybeans, dairy products and corn. As of October 2019, the state's unemployment rate was 3.7%. More than half of all US publicly traded companies, and 63% of the Fortune 500, are incorporated in Delaware. The state's attractiveness as a corporate haven is largely because of its business-friendly corporation law. Franchise taxes on Delaware corporations supply about a fifth of the state's revenue. Delaware has six different income tax brackets, ranging from 2.2% to 5.95%. The state does not assess sales tax on consumers. Delaware does not assess a state-level tax on real or personal property. Delaware is home to First State National Historical Park, a National Park Service unit composed of historic sites across the state including the New Castle Court House, Green, and Sheriff's House, Dover Green, Beaver Valley, Fort Christina, Old Swedes' Church, John Dickinson Plantation, and the Ryves Holt House. Delaware has several museums, wildlife refuges, parks, houses, lighthouses, and other historic places.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16776315789473684, 0.85, 0.28021978021978017, 0.17513736263736263]
+[0.09570957095709572, 0.4915254237288136, 0.1602209944751381, 0.10013812154696132]
+[0.11842105263157894, 0.6, 0.1978021978021978, 0.1236263736263736]
+
+
+SBERT sim. Score: 0.7996670007705688

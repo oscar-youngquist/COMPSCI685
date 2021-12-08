@@ -1,0 +1,21 @@
+Document:
+rhode_island
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The charter apportioned legislative seats equally among the state's towns, over-representing rural areas and under-representing the growing industrial centers. See List of Rhode Island Governors. The state legislature is the Rhode Island General Assembly, consisting of the 75-member House of Representatives and the 38-member Senatorte. Both houses of the bicameral body are currently dominated by the Democratic Party; the presence of the Republican Party is minor in the state government, with Republicans holding a handful of seats in both the Senatorte and House of Representatives. Rhode Island is divided into five counties but it has no county governments. The entire state is divided into municipalities, which handle all local government affairs.
+\Predicted Summary:
+was the first of the Thirteen Colonies to ratify the Articles of Confederation . Despite its name, most of the state is located on the mainland .
+
+GT:
+The capital of Rhode Island is Providence. Rhode Island is one of a few states that do not have an official governor's residence. The state legislature is the Rhode Island General Assembly, consisting of the 75-member House of Representatives and the 38-member Senatorte. Both houses of the bicameral body are currently dominated by the Democratic Party; the presence of the Republican Party is minor in the state government, with Republicans holding a handful of seats in both the Senatorte and House of Representatives. Rhode Island's population barely crosses the threshold beyond the minimum of three for additional votes in both the federal House of Representatives and Electoral College; it is well represented relative to its population, with the eighth-highest number of electoral votes and second-highest number of House Representatives per resident. Federally, Rhode Island is a reliably Democratic state during presidential elections, usually supporting the Democratic presidential nominee.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.07792207792207792, 0.48, 0.1340782122905028, 0.08379888268156424]
+[0.0196078431372549, 0.125, 0.03389830508474576, 0.021186440677966104]
+[0.06493506493506493, 0.4, 0.11173184357541897, 0.06983240223463687]
+
+
+SBERT sim. Score: 0.2481537014245987

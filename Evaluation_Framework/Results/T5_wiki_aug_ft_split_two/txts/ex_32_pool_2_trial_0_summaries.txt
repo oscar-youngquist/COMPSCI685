@@ -1,0 +1,21 @@
+Document:
+oregon
+
+Intent:
+How is the government structured in this state?
+
+Input:
+Doctor Ira Babcock of Jason Lee's Methodist Mission was elected supreme judge. Oregon state government has a separation of powers similar to the federal government. It has three branches: Governors in Oregon serve four-year terms and are limited to two consecutive terms, but an unlimited number of total terms. Oregon has no lieutenant governor; in the event that the office of governor is vacated, Article V, Section 8a of the Oregon Constitution specifies that the Secretary of State is first in line for succession. The other statewide officers are Treasurer, Attorney General, Superintendent, and Labor Commissioner. The biennial Oregon Legislative Assembly consists of a thirty-member Senatorte and a sixty-member House. The state supreme court has seven elected justices, currently including the only two openly gay state supreme court justices in the nation. They choose one of their own to serve a six-year term as Chief Justice. Recent legislatures have had to be called into special session repeatedly to address revenue shortfalls resulting from economic downturns, bringing to a head the need for more frequent legislative sessions. In 2004 and 2006, Democrats won control of the state Senatorte, and then the House. Since 2009, the state has had two Democratic US senators, Ron Wyden and Jeff Merkley. Like all US states, Oregon is represented by two senators. A detailed list of the past and present Congressional delegations from Oregon is available. It remains one of just two states, the other being Washington, where voting by mail is the only method of voting.
+\Predicted Summary:
+, Oregon became the 33rd state of the US in 1859 . Oregon is a state in the Pacific Northwest, which is a state in the Pacific Northwest . Oregon is a state in the Pacific Northwest region on the west coast of the u.s., with a population of 2,427,018 residents .
+
+GT:
+Oregon state government has a separation of powers similar to the federal government. It has three branches: Governors in Oregon serve four-year terms and are limited to two consecutive terms, but an unlimited number of total terms. Oregon has no lieutenant governor; in the event that the office of governor is vacated, Article V, Section 8a of the Oregon Constitution specifies that the Secretary of State is first in line for succession. The other statewide officers are Treasurer, Attorney General, Superintendent, and Labor Commissioner. The biennial Oregon Legislative Assembly consists of a thirty-member Senatorte and a sixty-member House. The state supreme court has seven elected justices, currently including the only two openly gay state supreme court justices in the nation. They choose one of their own to serve a six-year term as Chief Justice.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1956521739130435, 0.5294117647058824, 0.28571428571428575, 0.17857142857142858]
+[0.021897810218978103, 0.06, 0.03208556149732621, 0.020053475935828877]
+[0.13768115942028986, 0.37254901960784315, 0.2010582010582011, 0.12566137566137564]
+
+
+SBERT sim. Score: 0.49338310956954956

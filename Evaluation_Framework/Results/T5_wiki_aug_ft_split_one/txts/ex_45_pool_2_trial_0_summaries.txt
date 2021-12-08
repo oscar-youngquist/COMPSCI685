@@ -1,0 +1,21 @@
+Document:
+new_york
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Farm products came in from the Midwest, and finished manufactured goods moved west. It also connected the burgeoning agricultural production of the Midwest and shipping on the Great Lakes, with the port of New York City. Nearly half of the state's exports were related to cotton. The state also has a large manufacturing sector that includes printing and the production of garments, mainly in New York City; and furs, railroad equipment, automobile parts, and bus line vehicles, concentrated in Upstate regions. In 2012, New York had 320 wineries and 37,000 grape bearing acres, generating full-time employment for nearly 25,000 and annual wages over $1.1 billion, and yielding $4.8 billion in direct economic impact from New York grapes, grape juice, and wine and grape products. The New York Agriculture industry is a major producer overall, ranking among the top five states for agricultural products including maple syrup, apples, cherries, cabbage, dairy products, onions, and potatoes. The state has about a quarter of its land in farms and produced $3.4 billion in agricultural products in 2001. Upstate regions produced 50% of that amount.
+\Predicted Summary:
+, New York is home to the United Nations and the world's most populous cities . New York is a state in the northeastern United States, and is home to the most populous city . New York is the most populous city in the world. New York is home to the United Nations Headquarters, and is home to the United Nations .
+
+GT:
+New York's gross state product in 2018 was $1.7 trillion. If New York State were an independent nation, it would rank as the 11th largest economy in the world. Anchored by Wall Street in the Financial District of Lower Manhattan, New York City has been called both the most economically powerful city and the leading financial center of the world. Lower Manhattan is the third-largest central business district in the United States and is home to the New York Stock Exchange, on Wall Street, and the NASDAQ, at 165 Broadway, representing the world's largest and second largest stock exchanges, respectively, as measured both by overall average daily trading volume and by total market capitalization of their listed companies in 2013. New York City remains the largest global center for trading in public equity and debt capital markets, driven in part by the size and financial development of the US economy. Many of the world's largest media conglomerates are also based in the city. Silicon Alley, centered in New York City, has evolved into a metonym for the sphere encompassing the New York City metropolitan region's high technology and entrepreneurship ecosystem; in 2015, Silicon Alley generated over $7.3 billion in venture capital investment. In December 2014, New York State announced a $50 million venture-capital fund to encourage enterprises working in biotechnology and advanced materials; according to Governor Andrew Cuomo, the seed money would facilitate entrepreneurs in bringing their research into the marketplace. The filmed entertainment industry has been growing in New York, contributing nearly $9 billion to the New York City economy alone as of 2015. I Love New York (stylized I ❤ NY) is a slogan, a logo and state song that are the basis of an advertising campaign and has been used since 1977 to promote tourism in the state of New York, including New York City. New York exports a wide variety of goods such as prepared foods, computers and electronics, cut diamonds, and other commodities. New York's largest imports are oil, gold, aluminum, natural gas, electricity, rough diamonds, and lumber. The New York Agriculture industry is a major producer overall, ranking among the top five states for agricultural products including maple syrup, apples, cherries, cabbage, dairy products, onions, and potatoes.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11023622047244094, 0.711864406779661, 0.1909090909090909, 0.11931818181818182]
+[0.05789473684210526, 0.3793103448275862, 0.1004566210045662, 0.06278538812785388]
+[0.08398950131233596, 0.5423728813559322, 0.14545454545454545, 0.09090909090909091]
+
+
+SBERT sim. Score: 0.4672819674015045

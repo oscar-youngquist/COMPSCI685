@@ -1,0 +1,21 @@
+Document:
+west_virginia
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Airports, railroads, and rivers complete the commercial transportation modes for West Virginia. The cities of Charleston, Huntington, Beckley, Wheeling, Morgantown, Clarksburg, Parkersburg and Fairmont have bus-based public transit systems. West Virginia University in Morgantown boasts the PRT (personal rapid transit) system, the state's only single-rail public transit system. West Virginia is crossed by seven Interstate Highways. Corridor D, carrying US 50, runs from the Ohio River, and I-77, at Parkersburg to I-79 at Clarksburg. Rail lines in the state used to be more prevalent, but many lines have been discontinued because of increased automobile traffic. Amtrak's Cardinal roughly parallels I-64's path through the state.
+\Predicted Summary:
+,,, and the,,, and its political and labor history. West Virginia is a state in the Appalachian and Mid-Atlantic regions of the Southern United States . West Virginia is the 41st-largest state by area and ranks 38th in population . West Virginia is the capital and largest city is Charleston .
+
+GT:
+Highways form the backbone of transportation systems in West Virginia, with over 37,300 miles (60,000 km) of public roads in the state. Airports, railroads, and rivers complete the commercial transportation modes for West Virginia. Commercial air travel is facilitated by airports in Charleston, Huntington, Morgantown, Beckley, Lewisburg, Clarksburg, and Parkersburg. The cities of Charleston, Huntington, Beckley, Wheeling, Morgantown, Clarksburg, Parkersburg and Fairmont have bus-based public transit systems. West Virginia University in Morgantown boasts the PRT (personal rapid transit) system, the state's only single-rail public transit system. Recreational transportation opportunities abound in West Virginia, including hiking trails, rail trails, ATV off-road trails, white water rafting rivers, and two tourist railroads, the Cass Scenic Railroad and the Potomac Eagle Scenic Railroad. West Virginia is crossed by seven Interstate Highways.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.19548872180451127, 0.5306122448979592, 0.2857142857142857, 0.17857142857142855]
+[0.045454545454545456, 0.125, 0.06666666666666667, 0.041666666666666664]
+[0.13533834586466165, 0.3673469387755102, 0.1978021978021978, 0.1236263736263736]
+
+
+SBERT sim. Score: 0.5646141767501831

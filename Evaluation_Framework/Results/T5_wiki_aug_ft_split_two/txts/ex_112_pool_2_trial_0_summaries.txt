@@ -1,0 +1,21 @@
+Document:
+kansas
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+By 2015, Kansas was one of the most productive agricultural states, producing high yields of wheat, corn, sorghum, and soybeans. The eastern two-thirds of the state (especially the northeastern portion) has a humid continental climate, with cool to cold winters and hot, often humid summers. Some features of all three climates can be found in most of the state, with droughts and changeable weather between dry and humid not uncommon, and both warm and cold spells in the winter. Western Kansas is as sunny as parts of California and Arizona. Kansas's record high of 121 °F (49.4 °C) ties with North Dakota for the fifth-highest record high in an American state, behind California (134 °F or 56.7 °C), Arizona (128 °F or 53.3 °C), Nevada (125 °F or 51.7 °C), and New Mexico (122 °F or 50 °C). The cities of Olathe, Shawnee, De Soto and Gardner have some of the state's fastest growing populations. By far, the most significant agricultural crop in the state is wheat. The state's economy is also heavily influenced by the aerospace industry. Kansas also has the country's third largest state highway system after Texas and California. Since the mid-20th century, Kansas has remained one of the most socially conservative states in the nation.
+\Predicted Summary:
+Kansas was first settled by the US in 1854 with the establishment of Fort Leavenworth . Kansas is the 15th-largest state by area and is the 34th most-populous of the 50 states . by 2015, Kansas entered the Union as a free state, hence the unofficial nickname "The Free State"
+
+GT:
+According to the Köppen climate classification, Kansas's climate can be characterized in terms of three types: it has humid continental, semi-arid steppe, and humid subtropical. Chinook winds in the winter can warm western Kansas all the way into the 80 degrees Fahrenheit (27 degrees Celsius) range. Routes 83 and 81, as well as the southwestern portion of the state along and south of US 50, reach 90 °F (32 °C) or above on most days of June, July, and August. As of 2011, 35.0% of Kansas's population younger than one year of age belonged to minority groups (i.e., did not have two parents of non-Hispanic white ancestry). Located midway between Kansas City, Topeka, and Wichita in the heart of the Bluestem Region of the Flint Hills, the city of Emporia has several nationally registered historic places and is the home of Emporia State University, well known for its Teachers College. Kansas has been the setting of many award-winning and popular American films, as well as being the home of some of the oldest operating cinemas in the world.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12365591397849462, 0.46, 0.19491525423728812, 0.12182203389830508]
+[0.016216216216216217, 0.061224489795918366, 0.02564102564102564, 0.016025641025641024]
+[0.0913978494623656, 0.34, 0.1440677966101695, 0.09004237288135594]
+
+
+SBERT sim. Score: 0.3542860448360443

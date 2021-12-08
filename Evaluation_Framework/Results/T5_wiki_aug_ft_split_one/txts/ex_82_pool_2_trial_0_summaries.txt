@@ -1,0 +1,21 @@
+Document:
+illinois
+
+Intent:
+What drives the economy in this state?
+
+Input:
+It has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all US states. With Chicago in northeastern Illinois, small industrial cities and immense agricultural productivity in the north and center of the state, and natural resources such as coal, timber, and petroleum in the south, Illinois has a diverse economic base, and is a major transportation hub. The dollar gross state product for Illinois was estimated to be US$909 billion in 2019. The state's 2019 per capita gross state product was estimated to be around $72,000. Illinois is one of the nation's manufacturing leaders, boasting annual value added productivity by manufacturing of over $107 billion in 2006. As of 2011, Illinois is ranked as the 4th-most productive manufacturing state in the country, behind California, Texas, and Ohio. As of 2006, the leading manufacturing industries in Illinois, based upon value-added, were chemical manufacturing ($18.3 billion), machinery manufacturing ($13.4 billion), food manufacturing ($12.9 billion), fabricated metal products ($11.5 billion), transportation equipment ($7.4 billion), plastics and rubber products ($7.0 billion), and computer and electronic products ($6.1 billion). Illinois is ranked 14th in oil production among states, with a daily output of approximately 28,000 barrels (4,500 m3) in 2005.
+\Predicted Summary:
+, Illinois has the fifth largest gross domestic product (GDP) and the 25th largest land area . Illinois has been known as a bellwether both in terms of social and cultural terms . Illinois has had a reputation as a bellwether in politics and through the 1980s .
+
+GT:
+Illinois's major agricultural outputs are corn, soybeans, hogs, cattle, dairy products, and wheat. In most years, Illinois is either the first or second state for the highest production of soybeans, with a harvest of 427.7 million bushels (11.64 million metric tons) in 2008, after Iowa's production of 444.82 million bushels (12.11 million metric tons). Illinois ranks second in US corn production with more than 1.5 billion bushels produced annually. With a production capacity of 1.5 billion gallons per year, Illinois is a top producer of ethanol, ranking third in the United States in 2011. Illinois also produces wine, and the state is home to two American viticultural areas. Illinois's universities are actively researching alternative agricultural products as alternative crops. Illinois is one of the nation's manufacturing leaders, boasting annual value added productivity by manufacturing of over $107 billion in 2006. By the early 2000s, Illinois's economy had moved toward a dependence on high-value-added services, such as financial trading, higher education, law, logistics, and medicine.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11299435028248588, 0.45454545454545453, 0.18099547511312217, 0.11312217194570134]
+[0.011363636363636364, 0.046511627906976744, 0.0182648401826484, 0.01141552511415525]
+[0.07909604519774012, 0.3181818181818182, 0.12669683257918551, 0.07918552036199095]
+
+
+SBERT sim. Score: 0.6061563491821289

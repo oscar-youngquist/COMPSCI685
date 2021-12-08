@@ -1,0 +1,21 @@
+Document:
+maine
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The Maine Constitution structures Maine's state government, composed of three co-equal branches—the executive, legislative, and judicial branches. The state of Maine also has three Constitutional Officers (the Secretary of State, the State Treasurer, and the State Attorney General) and one Statutory Officer (the State Auditor). The legislative branch is the Maine Legislature, a bicameral body composed of the Maine House of Representatives, with 151 members, and the Maine Senatorte, with 35 members. The executive branch is responsible for the execution of the laws created by the Legislature and is headed by the Governor of Maine (currently Janet Mills). The Governor is elected every four years As with other state legislatures, the Maine Legislature can by a two-thirds majority vote from both the House and Senatorte override a gubernatorial veto. The judicial branch is responsible for interpreting state laws. All judges except for probate judges serve full-time, are nominated by the Governor and confirmed by the Legislature for terms of seven years. Probate judges serve part-time and are elected by the voters of each county for four-year terms. They captured the governor's office as well as majorities in both chambers of the state legislature for the first time since the early 1970s. Administration, services, licensing, and ordinances are handled by the state government as well as by respective county governments who have townships within each county's bounds.
+\Predicted Summary:
+, established by the Plymouth Company in 1620s. The first English settlement was established by the French in 1604 . a number of English settlements were established along the coast of Maine . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states .
+
+GT:
+An organized municipality has a form of elected local government which administers and provides local services, keeps records, collects licensing fees, and can pass locally binding ordinances, among other responsibilities of self-government. The governmental format of most organized towns and plantations is the town meeting, while the format of most cities is the council-manager form. As of 2013 the organized municipalities of Maine consist of 23 cities, 431 towns, and 34 plantations. Unorganized territory (UT) has no local government. The unorganized territory of Maine consists of more than 400 townships (towns are incorporated, townships are unincorporated), plus many coastal islands that do not lie within any municipal bounds. Only four of Maine's sixteen counties (Androscoggin, Cumberland, Waldo and York) are entirely incorporated, although a few others are nearly so, and most of the unincorporated area is in the vast and sparsely populated Great North Woods of Maine.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12666666666666668, 0.36538461538461536, 0.18811881188118815, 0.1175742574257426]
+[0.020134228187919462, 0.058823529411764705, 0.029999999999999995, 0.01875]
+[0.09333333333333334, 0.2692307692307692, 0.13861386138613863, 0.08663366336633664]
+
+
+SBERT sim. Score: 0.4062945246696472

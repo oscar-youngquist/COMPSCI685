@@ -1,0 +1,21 @@
+Document:
+arkansas
+
+Intent:
+What drives the economy in this state?
+
+Input:
+In the 21st century, its economy is based on service industries, aircraft, poultry, steel, and tourism, along with important commodity crops of cotton, soybeans and rice. Plantation agriculture set the state and region behind the nation for decades. Once a state with a cashless society in the uplands and plantation agriculture in the lowlands, Arkansas's economy has evolved and diversified. Six Fortune 500 companies are based in Arkansas, including the world's #1 retailer, Walmart; Tyson Foods, J.B. Hunt, Dillard's, Murphy USA, and Windstream are also headquartered in the state. The state's agriculture outputs are poultry and eggs, soybeans, sorghum, cattle, cotton, rice, hogs, and milk. According to CNBC, Arkansas ranks as the 20th best state for business, with the 2nd-lowest cost of doing business, 5th-lowest cost of living, 11th best workforce, 20th-best economic climate, 28th-best educated workforce, 31st-best infrastructure and the 32nd-friendliest regulatory environment. Today only about three percent of the population are employed in the agricultural sector, it remains a major part of the state's economy, ranking 13th in the nation in the value of products sold. Arkansas is the nation's largest producer of rice, broilers, and turkeys, and ranks in the top three for cotton, pullets, and aquaculture (catfish). Automobile parts manufacturers have opened factories in eastern Arkansas to support auto plants in other states. Freight railroads are concentrated in southeast Arkansas to serve the industries in the region.
+\Predicted Summary:
+the in 1861, Arkansas was the largest by area and the 33rd most populous state in the state . Arkansas () is a state in the south central United States, home to more than three million people . the capital and most populous city is Little Rock, in the central part of the state . Arkansas is the 29th largest by area and the 33rd most populous US state .
+
+GT:
+In the 21st century, its economy is based on service industries, aircraft, poultry, steel, and tourism, along with important commodity crops of cotton, soybeans and rice. The state's agriculture outputs are poultry and eggs, soybeans, sorghum, cattle, cotton, rice, hogs, and milk. Its industrial outputs are food processing, electric equipment, fabricated metal products, machinery, and paper products. Mines in Arkansas produce natural gas, oil, crushed stone, bromine, and vanadium. According to CNBC, Arkansas ranks as the 20th best state for business, with the 2nd-lowest cost of doing business, 5th-lowest cost of living, 11th best workforce, 20th-best economic climate, 28th-best educated workforce, 31st-best infrastructure and the 32nd-friendliest regulatory environment. Arkansas gained 12 spots in the best state for business rankings since 2011. Today only about three percent of the population are employed in the agricultural sector, it remains a major part of the state's economy, ranking 13th in the nation in the value of products sold. Arkansas is the nation's largest producer of rice, broilers, and turkeys, and ranks in the top three for cotton, pullets, and aquaculture (catfish). Forestry remains strong in the Arkansas Timberlands, and the state ranks fourth nationally and first in the South in softwood lumber production. Automobile parts manufacturers have opened factories in eastern Arkansas to support auto plants in other states. Bauxite was formerly a large part of the state's economy, mined mostly around Saline County. Tourism is also very important to the Arkansas economy; the official state nickname "The Natural State" was created for state tourism advertising in the 1970s, and is still used to this day.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1391941391941392, 0.5846153846153846, 0.22485207100591717, 0.14053254437869822]
+[0.04411764705882353, 0.1875, 0.07142857142857142, 0.044642857142857144]
+[0.10256410256410256, 0.4307692307692308, 0.16568047337278108, 0.10355029585798817]
+
+
+SBERT sim. Score: 0.6146813035011292

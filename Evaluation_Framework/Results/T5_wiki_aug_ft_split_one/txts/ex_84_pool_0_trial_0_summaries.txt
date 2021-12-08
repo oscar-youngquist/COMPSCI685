@@ -1,0 +1,21 @@
+Document:
+florida
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The state's economy relies mainly on tourism, agriculture, and transportation, which developed in the late 19th century. Historically, Florida's economy has been based primarily upon agricultural products such as cattle, sugar cane, citrus fruits, tomatoes, and strawberries. In 2004, they had a combined total of 95.7% of the state's domestic product. Tourism makes up one of the largest sectors of the state economy, with nearly 1.4 million people employed in the tourism industry in 2016 (a record for the state, surpassing the 1.2 million employment from 2015). Agriculture is the second largest industry in the state. The state produces about 75% of the phosphate required by farmers in the United States and 25% of the world supply, with about 95% used for agriculture (90% for fertilizer and 5% for livestock feed supplements) and 5% used for other products.
+\Predicted Summary:
+Florida is the second-most populous state in the world . Florida is the second-largest economy in the world . Florida is the fourth-largest of any US state .
+
+GT:
+Historically, Florida's economy has been based primarily upon agricultural products such as cattle, sugar cane, citrus fruits, tomatoes, and strawberries. In the 20th century, tourism, industry, construction, international banking, biomedical and life sciences, healthcare research, simulation training, aerospace and defense, and commercial space travel have contributed to the state's economic development. The five largest sectors of employment in Florida are: trade, transportation, and utilities; government; professional and business services; education and health services; and leisure and hospitality. In output, the five largest sectors are: finance, insurance, real estate, rental, and leasing, followed by professional and business services; government and government enterprises; educational services, health care, and social assistance; and retail trade. In 2017, Florida became the United States' eighth largest exporter of trade goods. In 2017, Florida became the United States' tenth largest importer of trade goods. The value of Florida's imports equals 3.2% of United States' overall imported products for 2017.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10256410256410256, 0.5714285714285714, 0.17391304347826086, 0.10869565217391304]
+[0.0064516129032258064, 0.037037037037037035, 0.010989010989010988, 0.006868131868131868]
+[0.08974358974358974, 0.5, 0.15217391304347827, 0.09510869565217392]
+
+
+SBERT sim. Score: 0.6404930353164673

@@ -1,0 +1,21 @@
+Document:
+arkansas
+
+Intent:
+What drives the economy in this state?
+
+Input:
+In the 21st century, its economy is based on service industries, aircraft, poultry, steel, and tourism, along with important commodity crops of cotton, soybeans and rice. Plantation agriculture set the state and region behind the nation for decades. Once a state with a cashless society in the uplands and plantation agriculture in the lowlands, Arkansas's economy has evolved and diversified. The state's gross domestic product (GDP) was $119 billion in 2015. The state's agriculture outputs are poultry and eggs, soybeans, sorghum, cattle, cotton, rice, hogs, and milk. According to CNBC, Arkansas ranks as the 20th best state for business, with the 2nd-lowest cost of doing business, 5th-lowest cost of living, 11th best workforce, 20th-best economic climate, 28th-best educated workforce, 31st-best infrastructure and the 32nd-friendliest regulatory environment. Arkansas gained 12 spots in the best state for business rankings since 2011. Today only about three percent of the population are employed in the agricultural sector, it remains a major part of the state's economy, ranking 13th in the nation in the value of products sold. Arkansas is the nation's largest producer of rice, broilers, and turkeys, and ranks in the top three for cotton, pullets, and aquaculture (catfish). Freight railroads are concentrated in southeast Arkansas to serve the industries in the region.
+\Predicted Summary:
+, Arkansas is the second largest by area in the state's eastern part is Little Rock . Arkansas is a state in the south central United States, home to more than three million people . Arkansas is the 29th largest by area and the 33rd most populous city .
+
+GT:
+The state's gross domestic product (GDP) was $119 billion in 2015. Six Fortune 500 companies are based in Arkansas, including the world's #1 retailer, Walmart; Tyson Foods, J.B. Hunt, Dillard's, Murphy USA, and Windstream are also headquartered in the state. The state's agriculture outputs are poultry and eggs, soybeans, sorghum, cattle, cotton, rice, hogs, and milk. Its industrial outputs are food processing, electric equipment, fabricated metal products, machinery, and paper products. Mines in Arkansas produce natural gas, oil, crushed stone, bromine, and vanadium. Today only about three percent of the population are employed in the agricultural sector, it remains a major part of the state's economy, ranking 13th in the nation in the value of products sold. Arkansas is the nation's largest producer of rice, broilers, and turkeys, and ranks in the top three for cotton, pullets, and aquaculture (catfish). Forestry remains strong in the Arkansas Timberlands, and the state ranks fourth nationally and first in the South in softwood lumber production. Tourism is also very important to the Arkansas economy; the official state nickname "The Natural State" was created for state tourism advertising in the 1970s, and is still used to this day. The state maintains 52 state parks and the National Park Service maintains seven properties in Arkansas.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1152073732718894, 0.5434782608695652, 0.19011406844106463, 0.1188212927756654]
+[0.037037037037037035, 0.17777777777777778, 0.06130268199233716, 0.03831417624521073]
+[0.08755760368663594, 0.41304347826086957, 0.1444866920152091, 0.0903041825095057]
+
+
+SBERT sim. Score: 0.5938494801521301

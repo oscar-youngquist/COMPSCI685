@@ -1,0 +1,21 @@
+Document:
+new_hampshire
+
+Intent:
+What drives the economy in this state?
+
+Input:
+It contains less than 5% of the state's population, suffers relatively high poverty, and is steadily losing population as the logging and paper industries decline. The northern parts of the state produced lumber, and the mountains provided tourist attractions. Its agricultural outputs are dairy products, nursery stock, cattle, apples and eggs. Its industrial outputs are machinery, electric equipment, rubber and plastic products, and tourism is a major component of the economy. The state's largest economic sectors in 2018, based on contribution to GDP, are: 15% real estate and rental and leasing; 13% professional business services; 12% manufacturing; 10% government and government services; and 9% health care and social services. Efforts to diversify the state's general economy have been ongoing.
+\Predicted Summary:
+,, New Hampshire was the first state to establish a government independent of the Kingdom of Great Britain's authority . New Hampshire is a state in the Northeastern United States and the 10th most populous state by area . a state in New Hampshire is a state in the northeastern region of the northeastern United States . It is bordered by Massachusetts to the south, Vermont to the west, Maine to the Atlantic Ocean to the east, and the Canadian province of Quebec to the north .
+
+GT:
+Its agricultural outputs are dairy products, nursery stock, cattle, apples and eggs. Its industrial outputs are machinery, electric equipment, rubber and plastic products, and tourism is a major component of the economy. Today, of the state's total manufacturing dollar value, these sectors contribute only two percent for textiles, two percent for leather goods, and nine percent for machining. The state's largest economic sectors in 2018, based on contribution to GDP, are: 15% real estate and rental and leasing; 13% professional business services; 12% manufacturing; 10% government and government services; and 9% health care and social services. New Hampshire's workforce is 90% in nonfarm employment, with 18% employed in trade, transportation, and utilities; 17% in education and health care; 12% in government; 11% in professional and business services; and 10% in leisure and hospitality. According to a 2013 study by Phoenix Marketing International, New Hampshire had the eighth-highest percentage of millionaire households in the United States, at 6.48% of all households.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.18787878787878787, 0.37349397590361444, 0.25, 0.15625]
+[0.042682926829268296, 0.08536585365853659, 0.05691056910569107, 0.03556910569105692]
+[0.12121212121212122, 0.24096385542168675, 0.16129032258064516, 0.10080645161290322]
+
+
+SBERT sim. Score: 0.5238670706748962

@@ -1,0 +1,21 @@
+Document:
+virginia
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Virginia's economy has many sectors: agriculture in the Shenandoah Valley; federal agencies in Northern Virginia, including the headquarters of the US Department of Defense and Central Intelligence Agency; and military facilities in Hampton Roads, the site of the region's main seaport. Virginia's economy has diverse sources of income, including local and federal government, military, farming and high-tech. Additionally, in 2014 a survey of 12,000 small business owners found Virginia to be one of the most friendly states for small businesses. Virginia has the highest concentration of technology workers of any state, and the fourth-highest number of technology workers after California, Texas, and New York. Northern Virginia, once considered the state's dairy capital, now hosts software, communication technology, defense contracting companies, particularly in the Dulles Technology Corridor and Tysons Corner areas. Tourism in Virginia supported an estimated 234,000 jobs in 2018, making tourism the state's fifth largest industry. Though agriculture has declined significantly since 1960 when there were twice as many farms, it remains the largest single industry in Virginia, providing for over 334,000 jobs. Soybeans were the most profitable crop in Virginia in 2017, ahead of corn and cut flowers as other leading agricultural products. Though it is no longer the primary crop, Virginia is still the third-largest producer of tobacco in the United States.
+\Predicted Summary:
+, Virginia, is the most-populous city, and Fairfax County is the most-populous political subdivision . Virginia is the third largest state in the region .
+
+GT:
+Virginia's economy has many sectors: agriculture in the Shenandoah Valley; federal agencies in Northern Virginia, including the headquarters of the US Department of Defense and Central Intelligence Agency; and military facilities in Hampton Roads, the site of the region's main seaport. Virginia's economy has diverse sources of income, including local and federal government, military, farming and high-tech. Tourism in Virginia supported an estimated 234,000 jobs in 2018, making tourism the state's fifth largest industry. It generated $26 billion, an increase 4.4 percent from 2017. Though agriculture has declined significantly since 1960 when there were twice as many farms, it remains the largest single industry in Virginia, providing for over 334,000 jobs. Virginia is also the country's third-largest producer of seafood as of 2018, with sea scallops, oysters, Chesapeake blue crabs, menhaden, and hardshell clams as the largest seafood harvests by value, and France, Canada, and Hong Kong as the top export destinations.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08024691358024691, 0.5416666666666666, 0.13978494623655913, 0.08736559139784945]
+[0.024844720496894408, 0.17391304347826086, 0.043478260869565216, 0.027173913043478257]
+[0.06172839506172839, 0.4166666666666667, 0.10752688172043011, 0.06720430107526881]
+
+
+SBERT sim. Score: 0.5274150967597961
