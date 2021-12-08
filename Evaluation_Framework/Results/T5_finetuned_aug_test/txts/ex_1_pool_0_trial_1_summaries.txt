@@ -1,0 +1,21 @@
+Document:
+alaska
+
+Intent:
+How is the government structured in this state?
+
+Input:
+Various private interests own the remaining land, totaling about one percent of the state. Like all other US states, Alaska is governed as a republic, with three branches of government: an executive branch consisting of the governor of Alaska and his or her appointees which head executive departments; a legislative branch consisting of the Alaska House of Representatives and Alaska Senatorte; and a judicial branch consisting of the Alaska Supreme Court and lower courts. The Alaska Legislature consists of a 40-member House of Representatives and a 20-member Senatorte. Senatortors serve four-year terms and House members two. The lieutenant governor runs separately from the governor in the primaries, but during the general election, the nominee for governor and nominee for lieutenant governor run together on the same ticket. Alaska's court system has four levels: the Alaska Supreme Court, the Alaska Court of Appeals, the superior courts and the district courts. The Supreme Court and the Court of Appeals are appellate courts. Six Republicans and four Democrats have served as governor of Alaska. The Department also issues an annual summary of its operations, including new state laws that directly affect the tax division. Since 1972, however, Republicans have carried the state by large margins. The measure also establishes non-partisan blanket primaries for statewide elections (like in Washington state and California) and ranked-choice voting (like in Maine). Alaska is the third state with jungle primaries for all statewide races, the second state with ranked voting, and the only state with both. The state is divided into 34 recording districts which are centrally administered under a State Recorder. Whereas many US states use a three-tiered system of decentralization—state/county/township—most of Alaska uses only two tiers—state/borough.
+\Predicted Summary:
+,, is a US state on the northwest extremity of the country's West Coast, just across the Bering Strait . Alaska is by far the largest US state by area, comprising more total area than the next three largest states . Alaska is the third-least populous and the most sparsely populated state by area .
+
+GT:
+Like all other US states, Alaska is governed as a republic, with three branches of government: an executive branch consisting of the governor of Alaska and his or her appointees which head executive departments; a legislative branch consisting of the Alaska House of Representatives and Alaska Senatorte; and a judicial branch consisting of the Alaska Supreme Court and lower courts. The state of Alaska employs approximately 16,000 people statewide. The Alaska Legislature consists of a 40-member House of Representatives and a 20-member Senatorte. Senatortors serve four-year terms and House members two. The governor of Alaska serves four-year terms. The lieutenant governor runs separately from the governor in the primaries, but during the general election, the nominee for governor and nominee for lieutenant governor run together on the same ticket. Alaska's court system has four levels: the Alaska Supreme Court, the Alaska Court of Appeals, the superior courts and the district courts. The superior and district courts are trial courts. Superior courts are courts of general jurisdiction, while district courts hear only certain types of cases, including misdemeanor criminal cases and civil cases valued up to $100,000. The Supreme Court and the Court of Appeals are appellate courts. The Court of Appeals is required to hear appeals from certain lower-court decisions, including those regarding criminal prosecutions, juvenile delinquency, and habeas corpus. The Supreme Court hears civil appeals and may in its discretion hear criminal appeals.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.08264462809917356, 0.37735849056603776, 0.13559322033898305, 0.08474576271186442]
+[0.024896265560165973, 0.11538461538461539, 0.040955631399317405, 0.025597269624573378]
+[0.05785123966942149, 0.2641509433962264, 0.09491525423728815, 0.0593220338983051]
+
+
+SBERT sim. Score: 0.49005401134490967

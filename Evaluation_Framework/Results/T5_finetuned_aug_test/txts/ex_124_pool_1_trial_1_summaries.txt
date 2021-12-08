@@ -1,0 +1,21 @@
+Document:
+michigan
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Over the years immigrants and migrants contributed greatly to Detroit's diverse urban culture, including popular music trends. The influential Motown Sound of the 1960s was led by a variety of individual singers and groups. Destinations draw vacationers, hunters, and nature enthusiasts from across the United States and Canada. Other museums include the Detroit Historical Museum, the Charles H. Wright Museum of African American History, museums in the Cranbrook Educational Community, and the Arab American National Museum. The state has numerous historical markers, which can themselves become the center of a tour. Michigan music is known for three music trends: early punk rock, Motown/soul music and techno music. Michigan musicians include Bill Haley & His Comets, The Supremes, The Marvelettes, The Temptations, The Four Tops, Stevie Wonder, Marvin Gaye "The Prince of Soul", Smokey Robinson and the Miracles, Aretha Franklin, Mary Wells, Tommy James and the Shondells, ? and the Mysterians, Al Green, The Spinners, Grand Funk Railroad, The Stooges, the MC5, The Knack, Madonna "The Queen of Pop", Bob Seger, Ray Parker Jr., Aaliyah, Eminem, Kid Rock, Jack White and Meg White (The White Stripes), Big Sean, Alice Cooper, and Del Shannon. The Port Huron to Mackinac Boat Race is also a favorite.
+\Predicted Summary:
+in the 17th century. It was claimed as part of the New France colony . Michigan is the tenth most populous state, the 11th most extensive state by area, and the largest by area east of the Mississippi River . Michigan is the only state to consist of two peninsulas. the Upper Peninsula is shaped like a mitten. Michigan is the largest city in the nation's largest metropolitan economies .
+
+GT:
+Michigan music is known for three music trends: early punk rock, Motown/soul music and techno music. Michigan musicians include Bill Haley & His Comets, The Supremes, The Marvelettes, The Temptations, The Four Tops, Stevie Wonder, Marvin Gaye "The Prince of Soul", Smokey Robinson and the Miracles, Aretha Franklin, Mary Wells, Tommy James and the Shondells, ? and the Mysterians, Al Green, The Spinners, Grand Funk Railroad, The Stooges, the MC5, The Knack, Madonna "The Queen of Pop", Bob Seger, Ray Parker Jr., Aaliyah, Eminem, Kid Rock, Jack White and Meg White (The White Stripes), Big Sean, Alice Cooper, and Del Shannon. Major theaters in Michigan include the Fox Theatre, Music Hall, Gem Theatre, Masonic Temple Theatre, the Detroit Opera House, Fisher Theatre, The Fillmore Detroit, Saint Andrew's Hall, Majestic Theater, and Orchestra Hall. The Nederlander Organization, the largest controller of Broadway productions in New York City, originated in Detroit. Motown Motion Picture Studios with 535,000 square feet (49,700 m2) produces movies in Detroit and the surrounding area based at the Pontiac Centerpoint Business Campus.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.14204545454545456, 0.36764705882352944, 0.20491803278688525, 0.1280737704918033]
+[0.011428571428571429, 0.029850746268656716, 0.01652892561983471, 0.010330578512396693]
+[0.09090909090909091, 0.23529411764705882, 0.13114754098360656, 0.08196721311475412]
+
+
+SBERT sim. Score: 0.3060058057308197

@@ -1,0 +1,21 @@
+Document:
+florida
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The state government consists of three separate branches: judicial, executive, and legislative. The legislature enacts bills, which, if signed by the governor, become law. The Florida Legislature comprises the Florida Senatorte, which has 40 members, and the Florida House of Representatives, which has 120 members. Because of this, the area has consistently voted as one of the most Democratic areas of the state. The political make-up of congressional and legislative districts has enabled Republicans to control the governorship and most statewide elective offices, and 17 of the state's 27 seats in the 2012 House of Representatives. In the 2010 elections, Republicans solidified their dominance statewide, by winning the governor's mansion, and maintaining firm majorities in both houses of the state legislature.
+\Predicted Summary:
+is the second largest state in the world. Florida is the third-most populous state in the world. Florida is the second-largest state in the world. Florida is the second-largest state in the world. Florida is the second-largest state in the world. Florida is the second-largest state in the world.
+
+GT:
+The basic structure, duties, function, and operations of the government of the State of Florida are defined and established by the Florida Constitution, which establishes the basic law of the state and guarantees various rights and freedoms of the people. The state government consists of three separate branches: judicial, executive, and legislative. The Florida Legislature comprises the Florida Senatorte, which has 40 members, and the Florida House of Representatives, which has 120 members. Florida has 67 counties. There are 379 cities in Florida (out of 411) that report regularly to the Florida Department of Revenue, but there are other incorporated municipalities that do not. Florida does not impose a personal income tax. The primary revenue source for cities and counties is property tax; unpaid taxes are subject to tax sales, which are held (at the county level) in May and (due to the extensive use of online bidding sites) are highly popular.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1513157894736842, 0.42592592592592593, 0.22330097087378642, 0.1395631067961165]
+[0.0, 0.0, 0.0, 0.0]
+[0.13815789473684212, 0.3888888888888889, 0.2038834951456311, 0.12742718446601944]
+
+
+SBERT sim. Score: 0.4395110011100769

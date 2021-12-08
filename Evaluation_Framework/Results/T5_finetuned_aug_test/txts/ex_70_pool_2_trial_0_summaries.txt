@@ -1,21 +1,21 @@
 Document:
-ohio
+connecticut
 
 Intent:
-How is the government structured in this state?
+The main reasons why you would like living in this state
 
 Input:
-The government of Ohio is composed of the executive branch, led by the governor; the legislative branch, consisting of the bicameral Ohio General Assembly; and the judicial branch, led by the state Supreme Court. The state is known for its status as both a swing state and a bellwether in national elections. The state government of Ohio consists of the executive, judicial, and legislative branches. The other elected constitutional offices in the executive branch are the secretary of state (Frank LaRose), auditor (Keith Faber), treasurer (Robert Sprague), and attorney general (Dave Yost). The governor, Mike DeWine, is Republican, as well as all other non-judicial statewide elected officials, including Lieutenant Governor Jon A. Husted, Attorney General Dave Yost, State Auditor Keith Faber, Secretary of State Frank LaRose and State Treasurer Robert Sprague. In the Ohio State Senatorte the Republicans are the majority, 24–9, and in the Ohio House of Representatives the Republicans control the delegation 61–38.
+Geographically the state is part of New England, and although its cultural history stems from the region, in the modern age large sections of it are increasingly connected to and associated with the tri-state area with New York and New Jersey. It is known as the "Constitution State", the "Nutmeg State", the "Provisions State", and the "Land of Steady Habits". Despite Connecticut's relatively small size, it features wide regional variations in its landscape; for example, in the northwestern Litchfield Hills, it features rolling mountains and horse farms, whereas in areas to the east of New Haven along the coast, the landscape features coastal marshes, beaches, and large scale maritime activities. This affected the agricultural economy in the state. Most of western and southern Connecticut (particularly the Gold Coast) is strongly associated with New York City Foxwoods Resort Casino and Mohegan Sun are the two biggest tourist draws and number among the state's largest employers The state hosts several major sporting events.
 \Predicted Summary:
-, the first state to be admitted to the Union in the 18th century. Ohio is the 34th-largest by area, with a population of nearly 11.7 million . Ohio is the seventh-most populous and tenth-most densely populated state . the state is known for its historic status as a swing state and a bellwether in national elections .
+,,,, Connecticut,, and founded the Connecticut Colony. Connecticut is the southernmost state in the Northeastern United States. Connecticut is the third smallest state by area, the 29th most populous, and the fourth most densely populated of the fifty states. Connecticut is the "Constitution State", the "Nutmeg State", the "Provisions State" and the "Land of Steady Habits".
 
 GT:
-The state government of Ohio consists of the executive, judicial, and legislative branches. The executive branch is headed by the governor of Ohio. A lieutenant governor succeeds the governor in the event of any removal from office, and performs any duties assigned by the governor. There are three levels of the Ohio state judiciary. The lowest level is the court of common pleas: each county maintains its own constitutionally mandated court of common pleas, which maintain jurisdiction over "all justiciable matters". The state's highest-ranking court is the Ohio Supreme Court. The Ohio General Assembly is a bicameral legislature consisting of the Senatorte and House of Representatives.
+Connecticut's economic output in 2019 as measured by gross domestic product was $289 billion, up from $277.9 billion in 2018. Connecticut's per capita personal income in 2019 was estimated at $79,087, the highest of any state. According to a 2018 study by Phoenix Marketing International, Connecticut had the third-largest number of millionaires per capita in the United States, with a ratio of 7.75%. Connecticut ranked third in the nation for educational performance, according to Education Week's Quality Counts 2018 report. It earned an overall score of 83.5 out of 100 points. On average, the country received a score of 75.2.Connecticut posted a B-plus in the Chance-for-Success category, ranking fourth on factors that contribute to a person's success both within and outside the K-12 education system.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.2037037037037037, 0.3793103448275862, 0.2650602409638554, 0.1656626506024096]
-[0.037383177570093455, 0.07017543859649122, 0.048780487804878044, 0.030487804878048776]
-[0.14814814814814814, 0.27586206896551724, 0.19277108433734938, 0.12048192771084337]
+[0.15714285714285714, 0.4, 0.22564102564102564, 0.14102564102564102]
+[0.02158273381294964, 0.05555555555555555, 0.0310880829015544, 0.019430051813471502]
+[0.12142857142857143, 0.3090909090909091, 0.17435897435897435, 0.10897435897435896]
 
 
-SBERT sim. Score: 0.47467705607414246
+SBERT sim. Score: 0.5300987362861633

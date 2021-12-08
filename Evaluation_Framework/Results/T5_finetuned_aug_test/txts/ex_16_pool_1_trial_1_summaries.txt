@@ -1,0 +1,21 @@
+Document:
+delaware
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Massachusetts and New Hampshire also shared a governor for some time. Delaware is one of five states (Maine, Vermont, West Virginia, Wyoming) that do not have a single city with a population over 100,000 as of the 2010 census. As of 2014, Delaware is mostly Christian. Delaware is home to several festivals, fairs, and events. Delaware is also home to two large sporting venues. Delaware's official state sport is bicycling.
+\Predicted Summary:
+,,,,,, the Delaware River, named after Thomas West (1577–1618) who was the governor of the Colony of Virginia at the time . Delaware is the second-smallest and sixth-least populous state, but also the sixth-most densely populated. Delaware is the second-smallest and sixth-least populous state, but also the sixth-most densely populated. Delaware is the second-smallest and sixth-least populous state, but also the
+
+GT:
+Delaware provides government subsidy support for the clean-up of property "lightly contaminated" by hazardous waste, the proceeds for which come from a tax on wholesale petroleum sales. As of 2000, 91% of Delaware residents of age 5 and older spoke only English at home; 5% spoke Spanish. A 2012 Gallup poll found that Delaware's proportion of lesbian, gay, bisexual, and transgender adults stood at 3.4 percent of the population. This constitutes a total LGBT adult population estimate of 23,698 people. The number of same-sex couple households in 2010 stood at 2,646. This grew by 41.65% from a decade earlier.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1320754716981132, 0.20588235294117646, 0.16091954022988503, 0.10057471264367815]
+[0.009523809523809525, 0.014925373134328358, 0.011627906976744186, 0.007267441860465116]
+[0.12264150943396226, 0.19117647058823528, 0.14942528735632185, 0.09339080459770116]
+
+
+SBERT sim. Score: 0.41233962774276733

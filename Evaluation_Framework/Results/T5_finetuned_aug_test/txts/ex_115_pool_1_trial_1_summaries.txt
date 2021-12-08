@@ -1,0 +1,21 @@
+Document:
+ohio
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Because Ohio links the Northeast to the Midwest, much cargo and business traffic passes through its borders along its well-developed highways. Ohio has the nation's 10th largest highway network and is within a one-day drive of 50% of North America's population and 70% of North America's manufacturing capacity. The rivers in the northern part of the state drain into the northern Atlantic Ocean via Lake Erie and the St. Lawrence River, and the rivers in the southern part of the state drain into the Gulf of Mexico via the Ohio River and then the Mississippi. Many major east–west transportation corridors go through Ohio. Ohio has a highly developed network of roads and interstate highways. Major east-west through routes include the Ohio Turnpike (I-80/I-90) in the north, I-76 through Akron to Pennsylvania, I-70 through Columbus and Dayton, and the Appalachian Highway (State Route 32) running from West Virginia to Cincinnati. Major north–south routes include I-75 in the west through Toledo, Dayton, and Cincinnati, I-71 through the middle of the state from Cleveland through Columbus and Cincinnati into Kentucky, and I-77 in the eastern part of the state from Cleveland through Akron, Canton, New Philadelphia and Marietta south into West Virginia. Ohio also has a highly developed network of signed state bicycle routes. Ohio has extensive railroads, though today most are only utilized by freight companies. Major cities in the north and south of Ohio lie on Amtrak intercity rail lines. Mass transit exists in many forms in Ohio cities, primarily through bus systems, though Cleveland has light and heavy rail through the GCRTA, and Cincinnati reestablished a streetcar line in 2016. Ohio has four international airports, four commercial, and two military.
+\Predicted Summary:
+, the first state admitted to the Union in the 18th century. Ohio is the 34th-largest by area, and with a population of nearly 11.7 million . Ohio is the seventh-most populous and tenth-most densely populated state . the state is known for its status as a bellwether in national elections .
+
+GT:
+Ohio also is home to 228 miles (367 km) of the Historic National Road, now US Route 40. Ohio has a highly developed network of roads and interstate highways. Major east-west through routes include the Ohio Turnpike (I-80/I-90) in the north, I-76 through Akron to Pennsylvania, I-70 through Columbus and Dayton, and the Appalachian Highway (State Route 32) running from West Virginia to Cincinnati. Ohio also has a highly developed network of signed state bicycle routes. Many of them follow rail trails, with conversion ongoing. Ohio has several long-distance hiking trails, the most prominent of which is the Buckeye Trail which extends 1,444 mi (2,324 km) in a loop around the state of Ohio. Ohio has extensive railroads, though today most are only utilized by freight companies. Major cities in the north and south of Ohio lie on Amtrak intercity rail lines. Ohio has four international airports, four commercial, and two military.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16149068322981366, 0.5, 0.24413145539906103, 0.15258215962441316]
+[0.01875, 0.058823529411764705, 0.02843601895734597, 0.017772511848341232]
+[0.08695652173913043, 0.2692307692307692, 0.13145539906103285, 0.08215962441314553]
+
+
+SBERT sim. Score: 0.44376176595687866

@@ -1,21 +1,21 @@
 Document:
-delaware
+mississippi
 
 Intent:
-How is the government structured in this state?
+What about this state's arts and culture attracts you the most?
 
 Input:
-Delaware's fourth and current constitution, adopted in 1897, provides for executive, judicial and legislative branches. The Delaware General Assembly consists of a House of Representatives with 41 members and a Senatorte with 21 members. Representatives are elected to two-year terms, while senators are elected to four-year terms. The Senatorte confirms judicial and other nominees appointed by the governor. The Delaware Constitution establishes a number of courts: Minor non-constitutional courts include the Justice of the Peace Courts and Aldermen's Courts. The executive branch is headed by the Governor of Delaware. The governor presents a "State of the State" speech to a joint session of the Delaware legislature annually. Each county elects its own legislative body (known in New Castle and Sussex counties as County Council, and in Kent County as Levy Court), which deal primarily in zoning and development issues. Currently, Democrats hold all positions of authority in Delaware including Senatorte and House. New Castle County also elects a substantial majority of the legislature
+Their large earthworks, which expressed their cosmology of political and religious concepts, still stand throughout the Mississippi and Ohio River valleys. Blacks and whites in Mississippi generated rich, quintessentially American music traditions: gospel music, country music, jazz, blues and rock and roll. Many musicians carried their music north to Chicago, where they made it the heart of that city's jazz and blues. Gambling towns in Mississippi have attracted increased tourism: they include the Gulf Coast resort towns of Bay St. Louis, Gulfport and Biloxi, and the Mississippi River towns of Tunica (the third largest gaming area in the United States), Greenville, Vicksburg and Natchez. While Mississippi has been especially known for its music and literature, it has embraced other forms of art. Musicians of the state's Delta region were historically significant to the development of the blues. While the state has had a reputation for being racist, Mississippi musicians created new forms by combining and creating variations on musical traditions from Africa, African American traditions, and the musical traditions of white Southerners strongly shaped by Scots-Irish and other styles. and Afroman, Mississippi musicians have been significant in all genres.
 \Predicted Summary:
-, Delaware, and Delaware are the state's largest city, Delaware, and Delaware. Delaware is the second-smallest state in the state, and the sixth-most densely populated . Delaware is the second-smallest state in the state, and is the sixth-most densely populated . Delaware is the first state to ratify the Constitution of the United States .
+, Mississippi is the 32nd largest and 34th-most populous state in the state . Mississippi is bordered to the north by Tennessee; to the east by Alabama; to the south by the Gulf of Mexico; and to the northwest by Arkansas . Mississippi is the site of many prominent events during the civil rights movement .
 
 GT:
-Delaware's fourth and current constitution, adopted in 1897, provides for executive, judicial and legislative branches. The Delaware General Assembly consists of a House of Representatives with 41 members and a Senatorte with 21 members. Representatives are elected to two-year terms, while senators are elected to four-year terms. The Senatorte confirms judicial and other nominees appointed by the governor. The Delaware Constitution establishes a number of courts: Minor non-constitutional courts include the Justice of the Peace Courts and Aldermen's Courts. The executive branch is headed by the Governor of Delaware. The present governor is John Carney (Democrat), who took office January 17, 2017. The lieutenant governor is Bethany Hall-Long. The governor presents a "State of the State" speech to a joint session of the Delaware legislature annually. Tax is collected by the Delaware Division of Revenue.
+While Mississippi has been especially known for its music and literature, it has embraced other forms of art. Its strong religious traditions have inspired striking works by outsider artists who have been shown nationally. The Magnolia Independent Film Festival, still held annually in Starkville, is the first and oldest in the state. Musicians of the state's Delta region were historically significant to the development of the blues. Jimmie Rodgers, a native of Meridian and guitarist/singer/songwriter known as the "Father of Country Music", played a significant role in the development of the blues. The state is creating a Mississippi Blues Trail, with dedicated markers explaining historic sites significant to the history of blues music, such as Clarksdale's Riverside Hotel, where Bessie Smith died after her auto accident on Highway 61. Elvis Presley, who created a sensation in the 1950s as a crossover artist and contributed to rock 'n' roll, was a native of Tupelo.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.22695035460992907, 0.5714285714285714, 0.3248730964467005, 0.2030456852791878]
-[0.014285714285714285, 0.03636363636363636, 0.020512820512820513, 0.01282051282051282]
-[0.15602836879432624, 0.39285714285714285, 0.22335025380710663, 0.13959390862944163]
+[0.1592356687898089, 0.4716981132075472, 0.2380952380952381, 0.1488095238095238]
+[0.03205128205128205, 0.09615384615384616, 0.04807692307692308, 0.030048076923076924]
+[0.11464968152866242, 0.33962264150943394, 0.17142857142857143, 0.10714285714285714]
 
 
-SBERT sim. Score: 0.5386307835578918
+SBERT sim. Score: 0.39765647053718567

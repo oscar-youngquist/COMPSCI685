@@ -1,21 +1,21 @@
 Document:
-south_dakota
+massachusetts
 
 Intent:
-What drives the economy in this state?
+What are the available modes of transport in this state?
 
 Input:
-West of the Missouri River, ranching is the predominant agricultural activity, and the economy is more dependent on tourism and defense spending. In recent decades, South Dakota has been transformed from a state dominated by agriculture to one with a more diversified economy. The growth in these areas has compensated for losses in the rest of the state. The service industry is the largest economic contributor in South Dakota. Government spending is another important segment of the state's economy, providing over ten percent of the gross state product. Agriculture has historically been a key component of the South Dakota economy. Although other industries have expanded rapidly in recent decades, agricultural production is still very important to the state's economy, especially in rural areas. The five most valuable agricultural products in South Dakota are cattle, corn (maize), soybeans, wheat, and hogs. Agriculture-related industries such as meat packing and ethanol production also have a considerable economic impact on the state. Another important sector in South Dakota's economy is tourism. In 2006, tourism provided an estimated 33,000 jobs in the state and contributed over two billion dollars to the economy of South Dakota. Retail, finance, and healthcare have assumed greater importance in Sioux Falls, where the economy was originally centered on agri-business and quarrying.
+Fifteen other regional transit authorities provide public transportation in the form of bus services in the rest of the state. Amtrak operates several inter-city rail lines connecting Massachusetts. Outside of Boston, Amtrak connects several cities across Massachusetts, along the aforementioned Acela, Northeast Regional, Lake Shore Limited, and Downeaster lines, as well as other routes in central and western Massachusetts. This overlaps with the service areas of neighboring regional transportation authorities. Ferry services are operated throughout different regions of the states. Several regional and short line railroads also provide service and connect with other railroads. Routes 1, 3, 6, and 20, and state routes 2, 3, 9, 24, and 128.
 \Predicted Summary:
-is a US state in the Midwestern region of the United States . South Dakota is bisected by the Missouri River, dividing South Dakota into two geographically and socially distinct halves . the state is bisected by the Missouri River, dividing South Dakota into two geographically and socially distinct halves .
+, the,,, and the abolitionist movement, were invented in the western Massachusetts cities of Springfield and Holyoke . Massachusetts is the most populous state in the Northeastern United States . Massachusetts is the capital of Massachusetts, which borders on the Atlantic Ocean to the east .
 
 GT:
-The service industry is the largest economic contributor in South Dakota. This sector includes the retail, finance, and health care industries. Government spending is another important segment of the state's economy, providing over ten percent of the gross state product. Agriculture has historically been a key component of the South Dakota economy. Although other industries have expanded rapidly in recent decades, agricultural production is still very important to the state's economy, especially in rural areas. Another important sector in South Dakota's economy is tourism. In 2006, tourism provided an estimated 33,000 jobs in the state and contributed over two billion dollars to the economy of South Dakota. Fishing contributes over $224 million to South Dakota's economy, and hunting contributes over $303 million.
+The Massachusetts Bay Transportation Authority (MBTA), also known as "The T", operates public transportation in the form of subway, bus, and ferry systems in the Metro Boston area. Fifteen other regional transit authorities provide public transportation in the form of bus services in the rest of the state. Amtrak operates several inter-city rail lines connecting Massachusetts. Amtrak carries more passengers between Boston and New York than all airlines combined (about 54% of market share in 2012), but service between other cities is less frequent. There, more frequent intercity service is provided by private bus carriers, including Peter Pan Bus Lines (headquartered in Springfield), Greyhound Lines, OurBus and BoltBus. MBTA Commuter Rail services run throughout the larger Greater Boston area, including service to Worcester, Fitchburg, Haverhill, Newburyport, Lowell, and Plymouth. Ferry services are operated throughout different regions of the states. As of 2018, a number of freight railroads were operating in Massachusetts, with Class I railroad CSX being the largest carrier, and another Class 1, Norfolk Southern serving the state via its Pan Am Southern joint partnership. Boston Logan International Airport served 33.5 million passengers in 2015 (up from 31.6 million in 2014) through 103 gates. Massachusetts has 39 public-use airfields and more than 200 private landing spots. There are a total of 36,800 miles (59,200 km) of interstates and other highways in Massachusetts.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.18110236220472442, 0.4791666666666667, 0.2628571428571429, 0.1642857142857143]
-[0.047619047619047616, 0.1276595744680851, 0.06936416184971098, 0.04335260115606936]
-[0.14173228346456693, 0.375, 0.20571428571428574, 0.12857142857142856]
+[0.11353711790393013, 0.6190476190476191, 0.19188191881918817, 0.1199261992619926]
+[0.008771929824561403, 0.04878048780487805, 0.01486988847583643, 0.00929368029739777]
+[0.07423580786026202, 0.40476190476190477, 0.12546125461254615, 0.07841328413284133]
 
 
-SBERT sim. Score: 0.4739276170730591
+SBERT sim. Score: 0.43322017788887024

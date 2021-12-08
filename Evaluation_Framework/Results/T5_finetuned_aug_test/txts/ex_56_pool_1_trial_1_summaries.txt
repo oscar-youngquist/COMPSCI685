@@ -1,0 +1,21 @@
+Document:
+montana
+
+Intent:
+What drives the economy in this state?
+
+Input:
+The economy is primarily based on agriculture, including ranching and cereal grain farming. Other significant economic resources include oil, gas, coal, mining, and lumber. The health care, service, and government sectors also are significant to the state's economy. The war created a boom for Montana mining, lumber, and farming interests, as demand for war materials and food increased. The wheat farms in eastern Montana make the state a major producer; the wheat has a relatively high protein content, thus commands premium prices. Significant industries exist for lumber and mineral extraction; the state's resources include gold, coal, silver, talc, and vermiculite.
+\Predicted Summary:
+Montana is a state in the Northwestern United States. It is bordered by Idaho to the west; North Dakota and South Dakota to the east; Wyoming to the south; and the eastern half is characterized by western prairie terrain and badlands . the name Montana comes from the Latin word montaa, meaning "mountain" or more broadly "mountainous country" the name was changed by representatives Henry Wilson (Massachusetts) and Benjamin F. Harding (Oregon) who complained the name
+
+GT:
+The economy is primarily based on agriculture, including ranching and cereal grain farming. Other significant economic resources include oil, gas, coal, mining, and lumber. The health care, service, and government sectors also are significant to the state's economy. Montana's fastest-growing sector is tourism; nearly 13 million annual tourists visit Glacier National Park, Yellowstone National Park, Beartooth Highway, Flathead Lake, Big Sky Resort, and other attractions. Montana is a relative hub of beer microbrewing, ranking third in the nation in number of craft breweries per capita in 2011. Significant industries exist for lumber and mineral extraction; the state's resources include gold, coal, silver, talc, and vermiculite. Ecotaxes on resource extraction are numerous. Tourism is also important to the economy, with more than ten million visitors a year to Glacier National Park, Flathead Lake, the Missouri River headwaters, the site of the Battle of Little Bighorn, and three of the five entrances to Yellowstone National Park.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16455696202531644, 0.3466666666666667, 0.22317596566523606, 0.13948497854077252]
+[0.03184713375796178, 0.06756756756756757, 0.043290043290043295, 0.02705627705627706]
+[0.0949367088607595, 0.2, 0.12875536480686697, 0.08047210300429185]
+
+
+SBERT sim. Score: 0.38238173723220825

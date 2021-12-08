@@ -1,21 +1,21 @@
 Document:
-oregon
+michigan
 
 Intent:
-What are the available modes of transport in this state?
+The main reasons why you would like living in this state
 
 Input:
-Portland, with 647,805, ranks as the 26th among US cities. It would earn the nickname "Stumptown", and would later become recognized as one of the most dangerous port cities in the United States due to racketeering and illegal activities at the turn of the 20th century. Bend, near the geographic center of the state, is one of the ten fastest-growing metropolitan areas in the United States. Tourism is also a strong industry in the state. The state's coastal region produces significant tourism as well. The State currently collects the tax for TriMet and the Lane Transit District. Oregon was the nation's "Top Moving Destination" in 2014, with two families moving into the state for every one moving out (66.4% to 33.6%). Oregon was also the top moving destination in 2013, and the second-most popular destination in 2010 through 2012.
+With almost ten million residents, Michigan is a large and influential state, ranking tenth in population among the fifty states. Manufacturing in the state grew 6.6% from 2001 to 2006, but the high speculative price of oil became a factor for the US auto industry during the economic crisis of 2008 impacting industry revenues. Its research and development, which includes automotive, comprises a higher percentage of the state's overall gross domestic product than for any other US state. The state is an important source of engineering job opportunities. From 1997 to 2004, Michigan was the only state to top the 10,000 mark for the number of major new developments; however, the effects of the late 2000s recession have slowed the state's economy. The state has maintained its early commitment to public education. Hunting and fishing are significant industries in the state. The state has the highest number of golf courses and registered snowmobiles in the nation.
 \Predicted Summary:
-,,,, and a strait,,, and a strait,,, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, Oregon, and Oregon . Oregon is a state in the Pacific Northwest region, with 4 million people . Oregon is the ninth largest state in the country, with 169,798 residents .
+in the 17th century. It was claimed as part of the New France colony . Michigan is the tenth most populous state, the 11th most extensive state by area, and the largest by area east of the Mississippi River . Michigan is the only state to consist of two peninsulas. the Upper Peninsula is shaped like a mitten. Michigan is the largest city in the nation's largest metropolitan economies .
 
 GT:
-The Columbia River, which forms much of Oregon's northern border, also played a major role in the region's geological evolution, as well as its economic and cultural development. The Columbia is one of North America's largest rivers, and one of two rivers to cut through the Cascades (the Klamath River in southern Oregon is the other). Beginning in the 1880s, the growth of railroads expanded the state's lumber, wheat, and other agricultural markets, and the rapid growth of its cities. Industrial expansion began in earnest following the 1933–37 construction of the Bonneville Dam on the Columbia River. Hydroelectric power, food, and lumber provided by Oregon helped fuel the development of the West, although the periodic fluctuations in the US building industry have hurt the state's economy on multiple occasions. Portland in particular experienced a population boom between 1900 and 1930, tripling in size; the arrival of World War II also provided the northwest region of the state with an industrial boom, where Liberty ships and aircraft carriers were constructed.
+Michigan typically ranks third or fourth in overall Research & development (R&D) expenditures in the US. As of 2002, Michigan ranked fourth in the US in high tech employment with 568,000 high tech workers, which includes 70,000 in the automotive industry. In 2008, Michigan placed third in a site selection survey among the states for luring new business which measured capital investment and new job creation per one million population. As leading research institutions, the University of Michigan, Michigan State University, and Wayne State University are important partners in the state's economy and its University Research Corridor. Michigan's workforce is well-educated and highly skilled, making it attractive to companies. Michigan's personal income tax is a flat rate of 4.25%. Michigan's state sales tax is 6%, though items such as food and medication are exempted.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.12, 0.40384615384615385, 0.18502202643171806, 0.11563876651982379]
-[0.028735632183908046, 0.09803921568627451, 0.04444444444444444, 0.027777777777777773]
-[0.08, 0.2692307692307692, 0.12334801762114536, 0.07709251101321586]
+[0.20422535211267606, 0.4264705882352941, 0.2761904761904762, 0.17261904761904762]
+[0.014184397163120567, 0.029850746268656716, 0.019230769230769232, 0.012019230769230768]
+[0.13380281690140844, 0.27941176470588236, 0.18095238095238092, 0.11309523809523811]
 
 
-SBERT sim. Score: 0.4167802631855011
+SBERT sim. Score: 0.5257567763328552

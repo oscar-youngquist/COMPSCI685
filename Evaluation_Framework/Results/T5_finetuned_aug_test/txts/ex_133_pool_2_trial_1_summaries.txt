@@ -1,0 +1,21 @@
+Document:
+washington
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Washington is the second most populous state on the West Coast and in the Western United States, after California. Early prominent industries in the state included agriculture and lumber. Other industries that developed in the state included fishing, salmon canning and mining. In 2018, the state ranked 13th overall in population, and was the third most populous, after California and Texas, west of the Mississippi River. While the population of African Americans in the Pacific Northwest is scarce overall, they are mostly concentrated in the South End and Central District areas of Seattle, and in inner Tacoma. They moved west in the second wave of the Great Migration left a high influence in West Coast rock music and R&B and soul in the 1960s, including Seattle native Jimi Hendrix, a pioneer in hard rock, who was of African American and Cherokee Indian descent. Urban Indian communities formed by the US Bureau of Indian Affairs relocation programs in Seattle since the end of World War II brought a variety of Native American peoples to this diverse metropolis. But it was in the late 20th century, that large-scale Mexican immigration and other Latinos settled in the southern suburbs of Seattle, with limited concentrations in King, Pierce, and Snohomish Counties during the region's real estate construction booms in the 1980s and 1990s. Significant business within the state include the design and manufacture of aircraft (Boeing), automotive (Paccar), computer software development (Microsoft, Bungie, Amazon, Nintendo of America, Valve, ArenaNet), telecom (T-Mobile US), electronics, biotechnology, aluminum production, lumber and wood products (Weyerhaeuser), mining, beverages (Starbucks, Jones Soda), real estate (John L. Scott, Colliers International, Windermere Real Estate, Kidder Mathews), retail (Nordstrom, Eddie Bauer, Car Toys, Costco, R.E.I. Washington is a leading agricultural state. This is especially true of King County, home to Seattle and almost a third of the state's population. The state also has several public arts focused high schools including Tacoma School of the Arts, the Vancouver School of Arts and Academics, and The Center School. The state song is "Washington, My Home", the state bird is the American goldfinch, the state fruit is the apple, and the state vegetable is the Walla Walla sweet onion. The state folk song is "Roll On, Columbia, Roll On" by Woody Guthrie. The unofficial, but popularly accepted, state rock song is Louie Louie. The state fossil is the Columbian mammoth.
+\Predicted Summary:
+,,,, and is the largest producer of apples, hops, pears, red raspberries, spearmint oil, and sweet cherries . Washington is the second most populous state on the west coast and in the Western United States, after California . the state is the second most populous state on the west coast and in the western United States .
+
+GT:
+The Seattle Open Invitational golf tournament was part of the PGA Tour from the 1930s to the 1960s. The GTE Northwest Classic was part of the Senatoror PGA Tour from 1986 to 1995, and the Boeing Classic since 2005. In addition, the 2015 US Open was held at Chambers Bay, and several major tournaments were held at Sahalee Country Club. Pacific Raceways is a motorsports venue which has hosted the Northwest Nationals of the NHRA Mello Yello Drag Racing Series and a round of the Trans-Am Series. The WTA Seattle tennis tournament was part of the WTA Tour from 1977 to 1982. The Climate Pledge Arena has hosted several mixed martial arts events, such as UFC Fight Night: Nogueira vs. Davis, UFC on Fox: Henderson vs. Diaz, and UFC on Fox: Johnson vs. Moraga.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1259259259259259, 0.32075471698113206, 0.1808510638297872, 0.113031914893617]
+[0.0, 0.0, 0.0, 0.0]
+[0.08888888888888889, 0.22641509433962265, 0.12765957446808512, 0.0797872340425532]
+
+
+SBERT sim. Score: 0.14692172408103943

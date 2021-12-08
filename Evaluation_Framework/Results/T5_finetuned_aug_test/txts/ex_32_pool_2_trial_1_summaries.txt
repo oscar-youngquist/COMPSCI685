@@ -1,0 +1,21 @@
+Document:
+florida
+
+Intent:
+How is the government structured in this state?
+
+Input:
+All potable water resources have been controlled by the state government through five regional water authorities since 1972. The state government consists of three separate branches: judicial, executive, and legislative. The legislature enacts bills, which, if signed by the governor, become law. Because of this, the area has consistently voted as one of the most Democratic areas of the state. The political make-up of congressional and legislative districts has enabled Republicans to control the governorship and most statewide elective offices, and 17 of the state's 27 seats in the 2012 House of Representatives. In the 2010 elections, Republicans solidified their dominance statewide, by winning the governor's mansion, and maintaining firm majorities in both houses of the state legislature. In 2010, more than 63% of state voters approved the initiated Amendments 5 and 6 to the state constitution, to ensure more fairness in districting. These have become known as the Fair District Amendments. In 2012, government of all levels was a top employer in all counties in the state, because this classification includes public school teachers and other school staff. School districts are organized within county boundaries. Each school district has an elected Board of Education that sets policy, budget, goals, and approves expenditures.
+\Predicted Summary:
+is the second largest state in the world. Florida is the third-most populous state in the world. Florida is the second-largest state in the world. Florida is the second-largest state in the world. Florida is the second-largest state in the world. Florida is the second-largest state in the world.
+
+GT:
+The basic structure, duties, function, and operations of the government of the State of Florida are defined and established by the Florida Constitution, which establishes the basic law of the state and guarantees various rights and freedoms of the people. The state government consists of three separate branches: judicial, executive, and legislative. The legislature enacts bills, which, if signed by the governor, become law. The Florida Legislature comprises the Florida Senatorte, which has 40 members, and the Florida House of Representatives, which has 120 members. The current governor of Florida is Ron DeSantis.The Florida Supreme Court consists of a chief justice and six justices. Florida has 67 counties. There are 379 cities in Florida (out of 411) that report regularly to the Florida Department of Revenue, but there are other incorporated municipalities that do not. The state government's primary revenue source is sales tax.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1643835616438356, 0.4444444444444444, 0.24, 0.15]
+[0.006896551724137931, 0.018867924528301886, 0.010101010101010102, 0.006313131313131313]
+[0.14383561643835616, 0.3888888888888889, 0.21, 0.13125000000000003]
+
+
+SBERT sim. Score: 0.46637770533561707

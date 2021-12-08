@@ -1,0 +1,21 @@
+Document:
+iowa
+
+Intent:
+What drives the economy in this state?
+
+Input:
+After the Louisiana Purchase, people laid the foundation for an agriculture-based economy in the heart of the Corn Belt. In the latter half of the 20th century, Iowa's agricultural economy made the transition to a diversified economy of advanced manufacturing, processing, financial services, information technology, biotechnology, and green energy production. Beginning with the first industries developed in the 1830s, which were mainly for processing materials grown in the area, Iowa has experienced a gradual increase in the number of business and manufacturing operations. While Iowa is often viewed as a farming state, agriculture is a relatively small portion of the state's diversified economy, with manufacturing, biotechnology, finance and insurance services, and government services contributing substantially to Iowa's economy. Manufacturing is the largest sector of Iowa's economy, with $20.8 billion (21%) of Iowa's 2003 gross state product. Major manufacturing sectors include food processing, heavy machinery, and agricultural chemicals. Though industrial-scale, commodity agriculture predominates in much of the state, Iowa has seen growth in the organic farming sector.
+\Predicted Summary:
+, Iowa is the 26th most extensive in total area and the 30th most populous of the 50 US states. Iowa is the largest metropolitan area fully located within the state. Iowa is the largest metropolitan area in the state. Iowa is the largest metropolitan area in the state. Iowa is the largest metropolitan area in the state.
+
+GT:
+In the latter half of the 20th century, Iowa's agricultural economy made the transition to a diversified economy of advanced manufacturing, processing, financial services, information technology, biotechnology, and green energy production. Since the beginning of the war in 1914, Iowa farmers had experienced economic prosperity, which lasted until the end of the war. The transition from an agricultural economy to a mixed economy happened slowly. After bottoming out in the 1980s, Iowa's economy began to become increasingly less dependent on agriculture. Scored in 10 individual categories, Iowa was ranked 1st when it came to the "Cost of Doing Business"; this includes all taxes, utility costs, and other costs associated with doing business. Iowa was also ranked 10th in "Economy", 12th in "Business Friendliness", 16th in "Education", 17th in both "Cost of Living" and "Quality of Life", 20th in "Workforce", 29th in "Technology and Innovation", 32nd in "Transportation" and the lowest ranking was 36th in "Access to Capital". This economic diversity has helped Iowa weather the late 2000s recession better than most states, with unemployment substantially lower than the rest of the nation.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13043478260869565, 0.42105263157894735, 0.1991701244813278, 0.12448132780082988]
+[0.02185792349726776, 0.07142857142857142, 0.03347280334728034, 0.02092050209205021]
+[0.10869565217391304, 0.3508771929824561, 0.16597510373443983, 0.10373443983402489]
+
+
+SBERT sim. Score: 0.4649706184864044

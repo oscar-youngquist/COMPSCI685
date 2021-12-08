@@ -1,0 +1,21 @@
+Document:
+ohio
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Ohio was the first post-colonial free state admitted to the union, and became one of the earliest and most influential industrial powerhouses in the 20th century; although it has transitioned to a more information and service based economy in the 21st century, Ohio remains an industrial state, ranking seventh in GDP as of 2019, with the third largest manufacturing sector and second largest automobile production. Ohio's geographic location has proven to be an asset for economic growth and expansion. The industry of Ohio made the state one of the most important states in the Union during the Civil war. This ranks Ohio's economy as the seventh-largest of all fifty states and the District of Columbia. The manufacturing and financial activities sectors each compose 18.3% of Ohio's GDP, making them Ohio's largest industries by percentage of GDP. Ohio has the third largest manufacturing workforce behind California and Texas. Ohio has the largest bioscience sector in the Midwest, and is a national leader in the "green" economy. Ohio is the largest producer in the country of plastics, rubber, fabricated metals, electrical equipment, and appliances. Ohio's manufacturing sector is the third-largest of all fifty United States states in terms of gross domestic product.
+\Predicted Summary:
+, the first state admitted to the Union in the 18th century. Ohio is the 34th-largest by area, and with a population of nearly 11.7 million . Ohio is the seventh-most populous and tenth-most densely populated state . the state is known for its status as a bellwether in national elections .
+
+GT:
+Ohio (listen) is a state in the East North Central region of the Midwestern United States. The state takes its name from the Ohio River, whose name in turn originated from the Senatorca word ohiːyo', meaning "good river", "great river", or "large creek". Ohio's geographic location has proven to be an asset for economic growth and expansion. Because Ohio links the Northeast to the Midwest, much cargo and business traffic passes through its borders along its well-developed highways. Ohio has the nation's 10th largest highway network and is within a one-day drive of 50% of North America's population and 70% of North America's manufacturing capacity. Cincinnati anchors Southwest Ohio and is the largest economy in the state. The state has also won three consecutive Governor's Cup awards from the magazine, based on business growth and developments. This ranks Ohio's economy as the seventh-largest of all fifty states and the District of Columbia. The manufacturing and financial activities sectors each compose 18.3% of Ohio's GDP, making them Ohio's largest industries by percentage of GDP. Ohio has the largest bioscience sector in the Midwest, and is a national leader in the "green" economy. Ohio is the largest producer in the country of plastics, rubber, fabricated metals, electrical equipment, and appliances.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13574660633484162, 0.5769230769230769, 0.21978021978021975, 0.13736263736263735]
+[0.04090909090909091, 0.17647058823529413, 0.06642066420664205, 0.041512915129151284]
+[0.09502262443438914, 0.40384615384615385, 0.15384615384615385, 0.09615384615384615]
+
+
+SBERT sim. Score: 0.6535487174987793

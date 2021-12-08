@@ -1,0 +1,21 @@
+Document:
+colorado
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+It is the 8th most extensive and 21st most populous US state. Colorado is a comparatively wealthy state, ranking 8th in household income in 2016, and 11th in per capita income in 2010. Racial composition of the state's population was: CNBC's list of "Top States for Business for 2010" has recognized Colorado as the third-best state in the nation, falling short only to Texas and Virginia. The total state product in 2015 was $318.6 billion. Per capita personal income in 2010 was $51,940, ranking Colorado 11th in the nation. The state's economy is diversified, and is notable for its concentration of scientific research and high-technology industries. Colorado now also has the largest annual production of beer of any state. The state's diverse geography and majestic mountains attract millions of tourists every year, including 85.2 million in 2018. Many counties and cities charge their own rates, in addition to the base state rate. Not counting byproduct uranium from phosphate, Colorado is considered to have the third-largest uranium reserves of any US state, behind Wyoming and New Mexico.
+\Predicted Summary:
+, the, the Colorado River, the Colorado River, which was a major migration route for early peoples . Colorado is the 8th most extensive and 21st most populous state in the United States . Colorado is known for its vivid landscape of mountains, forests, high plains, mesas, canyons, plateaus, rivers and desert lands . Colorado is known for its diverse geography, which includes alpine mountains .
+
+GT:
+The United States Census Bureau estimates that the population of Colorado was 5,758,736 as of 2019, a 14.51% increase since the 2010 United States Census. A number of film productions have shot on location in Colorado, especially prominent Westerns like True Grit, The Searchers, and Butch Cassidy and the Sundance Kid. There are also a number of established film festivals in Colorado, including Aspen Shortsfest, Boulder International Film Festival, Castle Rock Film Festival, Denver Film Festival, Festivus Film Festival (ended in 2013), Mile High Horror Film Festival, Moondance International Film Festival, Mountainfilm in Telluride, Rocky Mountain Women's Film Festival, and Telluride Film Festival. Colorado is known for its Southwest and Rocky Mountain cuisine. Mexican restaurants are prominent throughout the state. Boulder, Colorado was named America's Foodiest Town 2010 by Bon Appétit. Boulder, and Colorado in general, is home to a number of national food and beverage companies, top-tier restaurants and farmers' markets. Boulder, Colorado also has more Master Sommeliers per capita than any other city, including San Francisco and New York. The Food & Wine Classic is held annually each June in Aspen, Colorado. Colorado is home to many nationally praised microbreweries, including New Belgium Brewing Company, Odell Brewing Company, Great Divide Brewing Company, and Bristol Brewing Company. Colorado is open to cannabis (marijuana) tourism. With the adoption of their 64th state amendment in 2013, Colorado became the first state in the union to legalize the medicinal (2000), industrial (2013), and recreational (2014) use of marijuana. Colorado's marijuana industry sold $1.31 billion worth of marijuana in 2016 and $1.26 billion in the first three-quarters of 2017. CNBC's list of "Top States for Business for 2010" has recognized Colorado as the third-best state in the nation, falling short only to Texas and Virginia. According to the Energy Information Administration, Colorado hosts seven of the Nation's hundred largest natural gas fields, and two of its hundred largest oil fields. Conventional and unconventional natural gas output from several Colorado basins typically account for more than five percent of annual US natural gas production.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.09348441926345609, 0.5409836065573771, 0.15942028985507248, 0.09963768115942029]
+[0.028409090909090908, 0.16666666666666666, 0.04854368932038834, 0.030339805825242715]
+[0.059490084985835696, 0.3442622950819672, 0.10144927536231885, 0.0634057971014493]
+
+
+SBERT sim. Score: 0.5253576636314392

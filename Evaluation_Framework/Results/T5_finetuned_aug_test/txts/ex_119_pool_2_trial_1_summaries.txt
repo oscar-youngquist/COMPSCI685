@@ -1,0 +1,21 @@
+Document:
+new_jersey
+
+Intent:
+What drives the economy in this state?
+
+Input:
+This was the fourth-highest percentage of any state in the country. It is also the second wealthiest state according to the US Census Bureau. The US Bureau of Economic Analysis estimates that New Jersey's gross state product in the fourth quarter of 2018 was $639.8 billion. New Jersey's economy is multifaceted, but is centered on the pharmaceutical industry, biotechnology, information technology, the financial industry, chemical development, telecommunications, food processing, electric equipment, printing, publishing, and tourism. New Jersey's agricultural outputs are nursery stock, horses, vegetables, fruits and nuts, seafood, and dairy products. New Jersey ranks second among states in blueberry production, third in cranberries and spinach, and fourth in bell peppers, peaches, and head lettuce. New Jersey has a strong scientific economy and is home to major pharmaceutical and telecommunications firms, drawing on the state's large and well-educated labor pool. There is also a strong service economy in retail sales, education, and real estate, serving residents who work in New York City or Philadelphia. The state is home to many diner manufacturers and has over 600 diners, more than any other place in the world. (The others are Kentucky, Louisiana, Mississippi, and Virginia.)
+\Predicted Summary:
+,,,, of all US states, with 9.76% of households—more than 323,000 of 3.3 million statewide—meeting the criteria . New Jersey was the second-wealthest state by median household income . New Jersey is the fourth-smallest state by area, but the 11th-most populous .
+
+GT:
+At the turn of the 21st century, the state's economy increasingly diversified, while its multicultural populace began reverting toward more urban settings within the state, outpacing the growth in suburbs since 2008. New Jersey's economy is multifaceted, but is centered on the pharmaceutical industry, biotechnology, information technology, the financial industry, chemical development, telecommunications, food processing, electric equipment, printing, publishing, and tourism. New Jersey's agricultural outputs are nursery stock, horses, vegetables, fruits and nuts, seafood, and dairy products. New Jersey ranks second among states in blueberry production, third in cranberries and spinach, and fourth in bell peppers, peaches, and head lettuce. New Jersey has a strong scientific economy and is home to major pharmaceutical and telecommunications firms, drawing on the state's large and well-educated labor pool. There is also a strong service economy in retail sales, education, and real estate, serving residents who work in New York City or Philadelphia. Shipping is a key industry in New Jersey because of the state's strategic geographic location, the Port of New York and New Jersey being the busiest port on the East Coast. New Jersey hosts several business headquarters, including twenty-four Fortune 500 companies. Paramus in Bergen County has become the top retail ZIP code (07652) in the United States, with the municipality generating over US$6 billion in annual retail sales. This accessibility to consumer revenue has enabled seaside resorts such as Atlantic City and the remainder of the Jersey Shore, as well as the state's other natural and cultural attractions, to contribute significantly to the record 111 million tourist visits to New Jersey in 2018, providing US$44.7 billion in tourism revenue, directly supporting 333,860 jobs, sustaining more than 531,000 jobs overall including peripheral impacts, and generating US$5 billion in state and local tax revenue.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.0784313725490196, 0.5217391304347826, 0.13636363636363635, 0.08522727272727272]
+[0.013114754098360656, 0.08888888888888889, 0.022857142857142857, 0.014285714285714287]
+[0.049019607843137254, 0.32608695652173914, 0.08522727272727273, 0.053267045454545456]
+
+
+SBERT sim. Score: 0.5074426531791687

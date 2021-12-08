@@ -1,0 +1,21 @@
+Document:
+south_carolina
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+As of the 2017 census estimate, the racial make up of the state is 68.5% White (63.8% non-Hispanic white), 27.3% Black or African American, 0.5% American Indian and Alaska Native, 1.7% Asian, 0.1% Native Hawaiian and other Pacific Islander, 1.9% from two or more races. Also relevant are the state constitution, law enforcement agencies, federal representation, state finances, and state taxes. They are geographically comprehensive With urbanization, their governments have become increasingly important in the state. Major agricultural outputs of the state are tobacco, poultry, cotton, cattle, dairy products, soybeans, hay, rice, and swine. The state has the fourth largest state-maintained system in the country, consisting of 11 Interstates, numbered highways, state highways, and secondary roads, totalling approximately 41,500 miles.
+\Predicted Summary:
+, the first state to vote in favor of secession from the Union on December 20, 1868. South Carolina is a state in the Deep South region of the Southern United States . South Carolina is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia . South Carolina is the 40th most extensive and 23rd most populous US state .
+
+GT:
+As the 21st century progresses, South Carolina has attracted new business by having a 5% corporate income tax rate, no state property tax, no local income tax, no inventory tax, no sales tax on manufacturing equipment, industrial power or materials for finished products; no wholesale tax, and no unitary tax on worldwide profits. South Carolina has many venues for visual and performing arts. There are also numerous historic sites and museums scattered throughout the state paying homage to many events and periods in the state's history from Native American inhabitation to the present day. Many large corporations have moved their locations to South Carolina. South Carolina also benefits from foreign investment. There are 1,950 foreign-owned firms operating in South Carolina employing almost 135,000 people.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.203125, 0.3880597014925373, 0.26666666666666666, 0.16666666666666666]
+[0.03937007874015748, 0.07575757575757576, 0.05181347150259067, 0.03238341968911917]
+[0.1171875, 0.22388059701492538, 0.15384615384615385, 0.09615384615384616]
+
+
+SBERT sim. Score: 0.4550839960575104

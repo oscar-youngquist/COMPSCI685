@@ -1,21 +1,21 @@
 Document:
-michigan
+utah
 
 Intent:
-What is the state's policy regarding education?
+How is the government structured in this state?
 
 Input:
-Many private colleges were founded as well, and the smaller cities established high schools late in the century. Cities, state universities, and villages are vested with home rule powers of varying degrees. The fifteen state universities have broad power and can do anything within the parameters of their status as educational institutions that is not prohibited by the state constitution. The state has maintained its early commitment to public education. Michigan's education system serves 1.6 million K-12 students in public schools. More than 124,000 students attend private schools and an uncounted number are home-schooled under certain legal requirements. The public school system had a $14.5 billion budget in 2008–09.
+A steady stream of governors appointed by the president quit the position, often citing the traditions of their supposed territorial government. Utah government is divided into three branches: executive, legislative, and judicial. The governor is elected for a four-year term. The Utah State Legislature consists of a Senatorte and a House of Representatives. State senators serve four-year terms and representatives two-year terms. The Utah Legislature meets each year in January for an annual 45-day session. It consists of five justices, who are appointed by the governor, and then subject to retention election. Trial level courts are the district courts and justice courts. All justices and judges, like those on the Utah Supreme Court, are subject to retention election after appointment. Utah is divided into political jurisdictions designated as counties.
 \Predicted Summary:
-in the 17th century, it was claimed as part of the new French colony . Michigan is a state in the Great Lakes and Midwestern regions of the United States . it is the tenth most populous state, the 11th most extensive state by area, and the largest by area . Michigan is the largest metropolitan economy in the world .
+, Utah (YOO-tah, YOO-taw) is a state in the western United States . it is bordered by Colorado to the east, Wyoming to the northeast, Idaho to the north, Arizona to the south and Nevada to the west . Utah is the 13th-largest by area; with a population over three million, it is the 30th-most-populous and 11th-least-densely populated .
 
 GT:
-The Michigan State Normal School, now Eastern Michigan University, was founded in 1849, for the training of teachers. Cities, state universities, and villages are vested with home rule powers of varying degrees. The fifteen state universities have broad power and can do anything within the parameters of their status as educational institutions that is not prohibited by the state constitution. The state has maintained its early commitment to public education. Property taxes are assessed on the local level, but every property owner's local assessment contributes six mills (a rate of $6 per $1000 of property value) to the statutory State Education Tax. Event tourism draws large numbers to occasions like the Tulip Time Festival and the National Cherry Festival.In 2006, the Michigan State Board of Education mandated all public schools in the state hold their first day of school after Labor Day, in accordance with the new Post Labor Day School law. The public school system had a $14.5 billion budget in 2008–09.
+Utah government is divided into three branches: executive, legislative, and judicial. The governor is elected for a four-year term. The Utah State Legislature consists of a Senatorte and a House of Representatives. State senators serve four-year terms and representatives two-year terms. The Utah Legislature meets each year in January for an annual 45-day session. The Utah Supreme Court is the court of last resort in Utah. It consists of five justices, who are appointed by the governor, and then subject to retention election. The Utah Court of Appeals handles cases from the trial courts. Utah is divided into political jurisdictions designated as counties. Since 1918 there have been 29 counties in the state, ranging from 298 to 7,819 square miles (772 to 20,300 km2).
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.16766467065868262, 0.49122807017543857, 0.25, 0.15625]
-[0.018072289156626505, 0.05357142857142857, 0.02702702702702703, 0.016891891891891893]
-[0.11976047904191617, 0.3508771929824561, 0.17857142857142858, 0.11160714285714286]
+[0.2076923076923077, 0.43548387096774194, 0.28125, 0.17578125]
+[0.023255813953488372, 0.04918032786885246, 0.031578947368421054, 0.01973684210526316]
+[0.12307692307692308, 0.25806451612903225, 0.16666666666666666, 0.10416666666666667]
 
 
-SBERT sim. Score: 0.4416680335998535
+SBERT sim. Score: 0.561560869216919

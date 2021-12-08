@@ -1,0 +1,21 @@
+Document:
+michigan
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+It also has 64,980 inland lakes and ponds. The federal government subsidized the construction of interstate highways, which were intended to strengthen military access, but also allowed commuters and business traffic to travel the region more easily. Detroit Metropolitan Airport is one of the nation's most recently expanded and modernized airports with six major runways, and large aircraft maintenance facilities capable of servicing and repairing a Boeing 747 and is a major hub for Delta Air Lines. The state's infrastructure gives it a competitive edge These are augmented by several dozen short line railroads. The vast majority of rail service in Michigan is devoted to freight, with Amtrak and various scenic railroads the exceptions. Amtrak passenger rail services the state, connecting many southern and western Michigan cities to Chicago, Illinois. There are plans for commuter rail for Detroit and its suburbs (see SEMCOG Commuter Rail). The Gerald R. Ford International Airport in Grand Rapids is the next busiest airport in the state, served by eight airlines to 23 destinations. Flint Bishop International Airport is the third largest airport in the state, served by four airlines to several primary hubs. Cherry Capital Airport is in Traverse City. Alpena County Regional Airport services Alpena and the northeastern lower peninsula. Smaller regional and local airports are located throughout the state including on several islands.
+\Predicted Summary:
+in the 17th century. It was claimed as part of the New France colony . Michigan is the tenth most populous state, the 11th most extensive state by area, and the largest by area east of the Mississippi River . Michigan is the only state to consist of two peninsulas. the Upper Peninsula is shaped like a mitten. Michigan is the largest city in the nation's largest metropolitan economies .
+
+GT:
+Michigan is served by four Class I railroads: the Canadian National Railway, the Canadian Pacific Railway, CSX Transportation, and the Norfolk Southern Railway. The Detroit Metropolitan Airport in the western suburb of Romulus, was in 2010 the 16th busiest airfield in North America measured by passenger traffic. Flint Bishop International Airport is the third largest airport in the state, served by four airlines to several primary hubs. Cherry Capital Airport is in Traverse City. Alpena County Regional Airport services Alpena and the northeastern lower peninsula. MBS International Airport serves Midland, Bay City and Saginaw. Smaller regional and local airports are located throughout the state including on several islands.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.26851851851851855, 0.4264705882352941, 0.32954545454545453, 0.2059659090909091]
+[0.04672897196261682, 0.07462686567164178, 0.057471264367816084, 0.035919540229885055]
+[0.14814814814814814, 0.23529411764705882, 0.1818181818181818, 0.11363636363636363]
+
+
+SBERT sim. Score: 0.41494616866111755

@@ -1,0 +1,21 @@
+Document:
+minnesota
+
+Intent:
+What drives the economy in this state?
+
+Input:
+In recent decades its economy has diversified, shifting from traditional industries such as agriculture and resource extraction to services and finance. Once primarily a producer of raw materials, Minnesota's economy has transformed to emphasize finished products and services. Perhaps the most significant characteristic of the economy is its diversity Minnesota's economy had a gross domestic product of $383 billion in 2019, with 33 of the United States' top 1,000 publicly traded companies by revenue headquartered in Minnesota, including Target, UnitedHealth Group, 3M, General Mills, US Bancorp, Ameriprise, Hormel, Land O' Lakes, SuperValu, Best Buy, and Valspar. Although less than one percent of the population is now employed in the agricultural sector, it remains a major part of the state's economy, ranking sixth in the nation in the value of products sold. The state is the nation's largest producer of sugar beets, sweet corn, and peas for processing, and farm-raised turkeys. Minnesota is also a large producer of corn and soybeans, and has the most food cooperatives per capita in the United States. In 2016 the state produced 60 percent of the country's usable iron ore. Tourism has become an important industry, especially in the Lake region. In the North Country, what had been an industrial area focused on mining and timber has largely been transformed into a vacation destination.
+\Predicted Summary:
+,,,,, and settlers settled Minnesota. Many of them came from Scandinavia, Germany, and Central Europe (such as Czechs and Slovaks). Minnesota is a center of the Upper Midwest, Great Lakes, and northern region of the United States .
+
+GT:
+Minnesota's earliest industries were fur trading and agriculture. Minneapolis grew around the flour mills powered by St. Anthony Falls. Although less than one percent of the population is now employed in the agricultural sector, it remains a major part of the state's economy, ranking sixth in the nation in the value of products sold. The state is the nation's largest producer of sugar beets, sweet corn, and peas for processing, and farm-raised turkeys. Minnesota is also a large producer of corn and soybeans, and has the most food cooperatives per capita in the United States. Forestry remains strong, including logging, pulpwood processing and paper production, and forest products manufacturing. Minnesota was famous for its soft-ore mines, which produced a significant portion of the world's iron ore for more than a century. The mining boom created the port of Duluth, which continues to be important for shipping ore, coal, and agricultural products. The manufacturing sector now includes technology and biomedical firms, in addition to the older food processors and heavy industry. Minnesota is one of 45 US states with its own lottery; its games include multi-jurisdiction draws, in-house draws, and other games. Minnesota produces ethanol fuel and is the first to mandate its use, a ten percent mix (E10). Minnesota is ranked in the top ten for wind energy production. The state gets nearly one fifth of all its electrical energy from wind. Xcel Energy is the state's largest utility and is headquartered in the state There are also a number of municipal utilities. As of 2008 Minnesota was ranked 12th in the nation in per capita total state and local taxes. Excise taxes are levied on alcohol, tobacco, and motor fuel.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.05862068965517241, 0.4722222222222222, 0.10429447852760736, 0.06518404907975459]
+[0.01730103806228374, 0.14285714285714285, 0.030864197530864203, 0.019290123456790126]
+[0.04827586206896552, 0.3888888888888889, 0.08588957055214724, 0.05368098159509203]
+
+
+SBERT sim. Score: 0.5249589681625366

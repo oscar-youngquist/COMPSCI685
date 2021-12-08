@@ -1,0 +1,21 @@
+Document:
+new_mexico
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+State tax policy results in low to moderate taxation of resident personal income compared to most US states, with special consideration for military personnel, and gives tax credits and exemptions to favorable industries. Oil and gas production, tourism, and federal government spending are important drivers of the state economy. State government has an elaborate system of tax credits and technical assistance to promote job growth and business investment, especially in new technologies. In 2007, the per capita personal income was $31,474 (ranked 43rd in the nation). New Mexico is currently the second most dependent tax dollar state. New Mexico is one of the largest tax havens in the US, offering numerous economic incentives and tax breaks on personal and corporate income. This resembles a sales tax but, unlike the sales taxes in many states, it applies to services as well as tangible goods.
+\Predicted Summary:
+is a state in the Southwestern region of the United States of America; its capital is Santa Fe, which was founded in 1610 as capital of Nuevo México . New Mexico is the 36th largest state by population; its total area is 121,590 sq mi (314,900 km2) . New Mexico is the fifth-largest and sixth-least densely populated of the 50 states .
+
+GT:
+The economy of New Mexico is dependent on oil drilling, mineral extraction, dryland farming, cattle ranching, acequia and landrace agriculture, lumber milling, retail trade, scientific research laboratories, technological development, as well as the arts, especially textiles and visual arts. As of 2018, its total gross domestic product (GDP) was $101 billion with a GDP per capita of $45,465. State tax policy results in low to moderate taxation of resident personal income compared to most US states, with special consideration for military personnel, and gives tax credits and exemptions to favorable industries. The Santa Fe Trail was the 19th-century territory's vital commercial and military highway link to the Eastern United States. All with termini in Northern New Mexico, the Camino Real, the Santa Fe Trail and the Old Spanish Trail are all recognized as National Historic Trails. Due to its relatively low population, in combination with numerous federally funded research facilities, New Mexico had the highest concentration of PhD holders of any state in 2000.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.18562874251497005, 0.484375, 0.2683982683982684, 0.16774891774891773]
+[0.04216867469879518, 0.1111111111111111, 0.0611353711790393, 0.03820960698689956]
+[0.11377245508982035, 0.296875, 0.1645021645021645, 0.1028138528138528]
+
+
+SBERT sim. Score: 0.5499947667121887

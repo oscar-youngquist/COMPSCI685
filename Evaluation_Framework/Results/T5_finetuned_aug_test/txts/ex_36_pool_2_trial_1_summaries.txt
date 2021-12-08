@@ -1,0 +1,21 @@
+Document:
+kansas
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Spur routes serve as connections between the two major routes. The highway passes through the eastern section of Kansas, traveling through Baxter Springs, Pittsburg, Frontenac, Fort Scott, Louisburg, and the Kansas City area. Kansas also has the country's third largest state highway system after Texas and California. Manhattan Regional Airport in Manhattan offers daily flights to Dallas/Fort Worth International Airport and Chicago's O'Hare International Airport, making it the second-largest commercial airport in the state. The Southwest Chief Amtrak route runs through the state on its route from Chicago to Los Angeles. Kansas is served by four Class I railroads, Amtrak, BNSF, Kansas City Southern, and Union Pacific, as well as many shortline railroads.
+\Predicted Summary:
+,,, and was occupied by the abolitionists in 1854. Kansas is the 15th-largest state by area and is the 34th most-populous of the 50 states . Kansas is bordered by Nebraska to the north Kansas is named after the Kansas River .
+
+GT:
+Kansas is served by two Interstate highways with one beltway, two spur routes, and three bypasses, with over 874 miles (1,407 km) in all. Kansas also has the country's third largest state highway system after Texas and California. The state's only major commercial (Class C) airport is Wichita Dwight D. Eisenhower National Airport, located along US-54 on the western edge of the city. Dotted across the state are smaller regional and municipal airports, including the Lawrence Municipal Airport, which houses many aircraft for the city of Lawrence and the University of Kansas, Miami County Airport, Wamego Airport, Osage City Municipal Airport, which is the headquarters of Skydive Kansas, Garden City Regional Airport, Manhattan Regional Airport, and Dodge City Regional Airport. The Southwest Chief Amtrak route runs through the state on its route from Chicago to Los Angeles. An Amtrak Thruway Motorcoach connects Newton and Wichita to the Heartland Flyer in Oklahoma City, Oklahoma. Kansas is served by four Class I railroads, Amtrak, BNSF, Kansas City Southern, and Union Pacific, as well as many shortline railroads.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.13966480446927373, 0.6097560975609756, 0.22727272727272724, 0.14204545454545453]
+[0.033707865168539325, 0.15, 0.055045871559633024, 0.034403669724770644]
+[0.10614525139664804, 0.4634146341463415, 0.17272727272727273, 0.10795454545454547]
+
+
+SBERT sim. Score: 0.4660157263278961

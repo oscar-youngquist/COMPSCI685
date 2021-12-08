@@ -1,21 +1,21 @@
 Document:
-north_carolina
+california
 
 Intent:
-How is the government structured in this state?
+What drives the economy in this state?
 
 Input:
-Elected in 1862, Governor Zebulon Baird Vance tried to maintain state autonomy against Confederate President Jefferson Davis in Richmond. A Republican Party coalition of black freedmen, northern carpetbaggers and local scalawags controlled state government for three years. The government of North Carolina is divided into three branches: executive, legislative, and judicial. These consist of the Council of State (led by the Governor), the bicameral legislature (called the General Assembly), and the state court system (headed by the North Carolina Supreme Court). The state constitution delineates the structure and function of the state government. North Carolina has 13 seats in the US House of Representatives and two seats in the US Senatorte. In 2012, the state elected a Republican governor (Pat McCrory) and lieutenant governor (Dan Forest) for the first time in more than two decades, while also giving the Republicans veto-proof majorities in both the State House of Representatives and the State Senatorte. In the 2014 mid-term elections, Republican David Rouzer won the state's seventh congressional district seat, increasing the congressional delegation party split to 10–3 in favor of the GOP. Because of gerrymandering in redistricting after the 2010 census, Democrats have been underrepresented in the state and Congressional delegations since 2012, although they have sometimes represented more than half the state's population. The federal court ordered redistricting in 2015. Two suits challenging the state congressional district map were led by "two dozen voters, the state Democratic Party, the state chapter of the League of Women Voters, and the interest group Common Cause". Elementary and secondary public schools are overseen by the North Carolina Department of Public Instruction. In 2009, the board's chairman also became the "chief executive officer" for the state's school system. A county may have one or more systems within it.
+Although it accounts for only 1.5% of the state's economy, California's agriculture industry has the highest output of any US state. California's economy ranks among the largest in the world. In output, the five largest sectors are financial services, followed by trade, transportation, and utilities; education and health services; government; and manufacturing. Agriculture is an important sector in California's economy. In 2008, California's 81,500 farms and ranches generated $36.2 billion products revenue. The Agriculture sector accounts for two percent of the state's GDP and employs around three percent of its total workforce.
 \Predicted Summary:
-North Carolina is the 28th largest and 9th-most populous state in the nation . North Carolina is the largest metropolitan area in the state, with an estimated population of 1,362,540 . North Carolina is the largest metropolitan area in the state, with an estimated population of 1,362,540 . North Carolina is the 28th largest and 9th-most populous of the 50 United States .
+, and the San Francisco Bay Area is the nation's second-most densely populated city . California is considered the origin of the hippie counterculture, beach and car culture, the Internet, and the internet . California is considered the origin of the hippie counterculture, beach and car culture, the Internet, and the internet .
 
 GT:
-The government of North Carolina is divided into three branches: executive, legislative, and judicial. These consist of the Council of State (led by the Governor), the bicameral legislature (called the General Assembly), and the state court system (headed by the North Carolina Supreme Court). The state constitution delineates the structure and function of the state government. North Carolina has 13 seats in the US House of Representatives and two seats in the US Senatorte. North Carolina's party loyalties have undergone a series of important shifts in the last few years: While the 2010 midterms saw Tar Heel voters elect a bicameral Republican majority legislature for the first time in more than a century, North Carolina has also become a Southern swing state in presidential races. Since Southern Democrat Jimmy Carter's comfortable victory in the state in 1976, the state had consistently leaned Republican in presidential elections until Democrat Barack Obama narrowly won the state in 2008.
+California's economy is very diverse: 58% of it is based on finance, government, real estate services, technology, and professional, scientific, and technical business services. Although it accounts for only 1.5% of the state's economy, California's agriculture industry has the highest output of any US state. The five largest sectors of employment in California are trade, transportation, and utilities; government; professional and business services; education and health services; and leisure and hospitality. California's economy is dependent on trade and international related commerce accounts for about one-quarter of the state's economy. In 2008, California exported $144 billion worth of goods, up from $134 billion in 2007 and $127 billion in 2006.Computers and electronic products are California's top export, accounting for 42 percent of all the state's exports in 2008. Agriculture is an important sector in California's economy.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.18354430379746836, 0.4461538461538462, 0.2600896860986547, 0.1625560538116592]
-[0.07643312101910828, 0.1875, 0.1085972850678733, 0.06787330316742082]
-[0.14556962025316456, 0.35384615384615387, 0.20627802690582958, 0.1289237668161435]
+[0.1232876712328767, 0.35294117647058826, 0.18274111675126903, 0.11421319796954314]
+[0.013793103448275862, 0.04, 0.020512820512820513, 0.012820512820512822]
+[0.1095890410958904, 0.3137254901960784, 0.16243654822335027, 0.10152284263959391]
 
 
-SBERT sim. Score: 0.5145778059959412
+SBERT sim. Score: 0.3999401032924652

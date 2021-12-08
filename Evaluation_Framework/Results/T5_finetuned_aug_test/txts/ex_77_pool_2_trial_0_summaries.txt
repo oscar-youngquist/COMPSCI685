@@ -1,21 +1,21 @@
 Document:
-kansas
+idaho
 
 Intent:
-What are the major historical events in this state?
+What about this state's arts and culture attracts you the most?
 
 Input:
-When it was officially opened to settlement by the US government in 1854 with the Kansas–Nebraska Act, abolitionist Free-Staters from New England and pro-slavery settlers from neighboring Missouri rushed to the territory to determine whether Kansas would become a free state or a slave state. Between 1763 and 1803 the territory of Kansas was integrated into Spanish Louisiana. The governor Luis de Unzaga 'le Conciliateur', during that period, promoted expeditions and good relations with the Amerindians peoples, among the explorers were Antoine de Marigny and others who continued trading across the Kansas River, especially at its confluence with the Missouri River, tributaries of the Mississippi River. Southwest Kansas, however, was still a part of Spain, Mexico, and the Republic of Texas until the conclusion of the Mexican–American War in 1848, when these lands were ceded to the United States. Missouri and Arkansas sent settlers into Kansas all along its eastern border. Many African Americans also looked to Kansas as the land of "John Brown" and, led by freedmen like Benjamin "Pap" Singleton, began establishing black colonies in the state.
+The state's south includes the Snake River Plain (which has most of the population and agricultural land). Industries significant for the state economy include manufacturing, agriculture, mining, forestry, and tourism. The official state nickname is the "Gem State", which references Idaho's natural beauty. The states of Washington and Oregon are to the west, Nevada and Utah are to the south, and Montana and Wyoming are to the east. The state has snow-capped mountain ranges, rapids, vast lakes and steep canyons. The new territory included present-day Idaho, Montana, and most of Wyoming. In recent years, Idaho has expanded its commercial base as a tourism and agricultural state to include science and technology industries. Science and technology have become the largest single economic center (over 25% of the state's total revenue) within the state and are greater than agriculture, forestry and mining combined. There are large numbers of Americans of English and German ancestry in Idaho. Other metropolitan areas in order of size are Coeur d'Alene, Idaho Falls, Pocatello and Lewiston. All three varieties of wheat, dark northern spring, hard red, and soft white are grown in the state. Outdoor recreation is a common example ranging from numerous snowmobile and downhill and cross-country ski areas in winter to the evolution of Lewiston as a retirement community based on mild winters, dry, year-round climate and one of the lowest median wind velocities anywhere, combined with the rivers for a wide variety of activities. Four of the world's six welded aluminum jet boat (for running river rapids) manufacturers are in the Lewiston-Clarkston, WA valley. In keeping with this, while there are no large wineries or breweries in Idaho, there are numerous and growing numbers of award-winning boutique wineries and microbreweries in the northern part of the state. These realities have shaped much of the state's energy landscape. Other noted outdoor sites include Hells Canyon, the Salmon River, and its embarkation point of Riggins.
 \Predicted Summary:
-,,, and was occupied by the abolitionists in 1861. Kansas is the 15th-largest state by area and is the 34th most-populous state by area . Kansas was once home to many and diverse Native American tribes, including the kansans . the state was once a free state, and was once a slave state .
+is the 14th largest state in the Pacific Northwest region of the United States . Idaho is the 12th least populous and the 7th least densely populated of the 50 US states . Idaho is the 14th largest, the 12th least populous and the 7th most densely populated state .
 
 GT:
-The first European to set foot in present-day Kansas was the Spanish conquistador Francisco Vázquez de Coronado, who explored the area in 1541. In 1803, most of modern Kansas was acquired by the United States as part of the Louisiana Purchase. In 1827, Fort Leavenworth became the first permanent settlement of white Americans in the future state. Kansas was admitted to the Union as a free state on January 29, 1861, making it the 34th state to join the United States. Many African Americans also looked to Kansas as the land of "John Brown" and, led by freedmen like Benjamin "Pap" Singleton, began establishing black colonies in the state. Leaving southern states in the late 1870s because of increasing discrimination, they became known as Exodusters.
+A Late Upper Paleolithic site was identified at Cooper's Ferry in western Idaho near the town of Cottonwood by archaeologists in 2019. Science and technology have become the largest single economic center (over 25% of the state's total revenue) within the state and are greater than agriculture, forestry and mining combined. In keeping with this, while there are no large wineries or breweries in Idaho, there are numerous and growing numbers of award-winning boutique wineries and microbreweries in the northern part of the state.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.2204724409448819, 0.5384615384615384, 0.3128491620111732, 0.19553072625698326]
-[0.047619047619047616, 0.11764705882352941, 0.06779661016949151, 0.0423728813559322]
-[0.13385826771653545, 0.3269230769230769, 0.18994413407821228, 0.11871508379888267]
+[0.19540229885057472, 0.3617021276595745, 0.2537313432835821, 0.1585820895522388]
+[0.03488372093023256, 0.06521739130434782, 0.045454545454545456, 0.02840909090909091]
+[0.13793103448275862, 0.2553191489361702, 0.17910447761194032, 0.11194029850746269]
 
 
-SBERT sim. Score: 0.5803796648979187
+SBERT sim. Score: 0.5297958850860596

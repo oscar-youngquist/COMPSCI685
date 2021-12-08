@@ -1,0 +1,21 @@
+Document:
+alabama
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+The state's economy in the 21st century is based on management, automotive, finance, manufacturing, aerospace, mineral extraction, healthcare, education, retail, and technology. The state is usually ranked among the top in nation for its range of overall biodiversity. The state has invested in aerospace, education, health care, banking, and various heavy industries, including automobile manufacturing, mineral extraction, steel production and fabrication. According to the US Bureau of Economic Analysis, the 2008 total gross state product was $170 billion, or $29,411 per capita. As of 2018, Alabama has the sixth highest poverty rate among states in the US According to Business Insider, Alabama ranked 14th in most popular states to visit in 2014.
+\Predicted Summary:
+,,,,, a Muskogean-speaking tribe whose members lived just below the confluence of the Coosa and Tallapoosa rivers . Alabama is the 30th largest by area and the 24th-most populous of the US states . Alabama is the largest by area and the most populous of any state . Alabama is the largest by population and the largest city by land area is Huntsville .
+
+GT:
+The average annual temperature is 64 °F (18 °C). Temperatures tend to be warmer in the southern part of the state with its proximity to the Gulf of Mexico, while the northern parts of the state, especially in the Appalachian Mountains in the northeast, tend to be slightly cooler. College football is extremely popular in Alabama, particularly the University of Alabama Crimson Tide and Auburn University Tigers, rivals in the Southeastern Conference. In the 2013 season, Alabama averaged over 100,000 fans per game and Auburn averaged over 80,000—both numbers among the top twenty in the nation. Bryant–Denny Stadium is the home of the Alabama football team, and has a seating capacity of 101,821, and is the fifth largest stadium in America. Jordan-Hare Stadium is the home field of the Auburn football team and seats up to 87,451. Alabama has several professional and semi-professional sports teams, including three minor league baseball teams.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.16981132075471697, 0.4426229508196721, 0.24545454545454545, 0.1534090909090909]
+[0.03164556962025317, 0.08333333333333333, 0.04587155963302752, 0.028669724770642203]
+[0.11949685534591195, 0.3114754098360656, 0.17272727272727276, 0.10795454545454547]
+
+
+SBERT sim. Score: 0.4213016629219055

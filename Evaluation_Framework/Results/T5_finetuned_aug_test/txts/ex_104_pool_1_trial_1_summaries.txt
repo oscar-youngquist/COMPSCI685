@@ -1,0 +1,21 @@
+Document:
+mississippi
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+Mississippi is the 32nd largest and 34th-most populous of the 50 US states. By 1860, Mississippi was the nation's top cotton-producing state and enslaved persons accounted for 55% of the state population. With large areas of agriculture and rural towns, Mississippi frequently ranks low among states in measures of health, education, and development, and high in measures of poverty. Mississippi had the highest rate of obesity of any US state from 2005 to 2008, and also ranks first in the nation for high blood pressure, diabetes, and adult inactivity. Mississippi's rank as one of the poorest states is related to its dependence on cotton agriculture before and after the Civil War, late development of its frontier bottomlands in the Mississippi Delta, repeated natural disasters of flooding in the late 19th and early 20th century that required massive capital investment in levees, and ditching and draining the bottomlands, and slow development of railroads to link bottomland towns and river cities. As of December 2018, the state's unemployment rate was 4.7%, the seventh highest in the country after Arizona (4.9%), Louisiana (4.9%), New Mexico (5.0%), West Virginia (5.1%), District of Columbia (5.4%) and Alaska (6.5%). This ranks the state second-highest nationally, and represents an increase from 1995, when Mississippi received $1.54 per dollar of taxes in federal spending and was 3rd highest nationally.
+\Predicted Summary:
+, Mississippi is the 32nd largest and 34th-most populous state in the state . Mississippi is bordered to the north by Tennessee; to the east by Alabama; to the south by the Gulf of Mexico; and to the northwest by Arkansas . Mississippi is the site of many prominent events during the civil rights movement .
+
+GT:
+Public opinion polls have consistently ranked Mississippi as the most religious state in the United States, with 59% of Mississippians considering themselves "very religious". Mississippi has the largest percentage of African-American same-sex couples among total households. Per capita personal income in 2006 was $26,908, the lowest per capita personal income of any state, but the state also has the nation's lowest living costs. The legislature's 1990 decision to legalize casino gambling along the Mississippi River and the Gulf Coast has led to increased revenues and economic gains for the state. Mississippi collects personal income tax in three tax brackets, ranging from 3% to 5%. Mississippi is the only American state where people in cars may legally consume beer.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.21138211382113822, 0.49056603773584906, 0.29545454545454547, 0.1846590909090909]
+[0.05737704918032787, 0.1346153846153846, 0.08045977011494253, 0.05028735632183908]
+[0.15447154471544716, 0.3584905660377358, 0.2159090909090909, 0.13494318181818182]
+
+
+SBERT sim. Score: 0.5608423352241516

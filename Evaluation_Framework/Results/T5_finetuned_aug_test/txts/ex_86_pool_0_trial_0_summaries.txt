@@ -1,0 +1,21 @@
+Document:
+arkansas
+
+Intent:
+How is the government structured in this state?
+
+Input:
+As with the federal government of the United States, political power in Arkansas is divided into three branches: executive, legislative, and judicial. The six other elected executive positions in Arkansas are lieutenant governor, secretary of state, attorney general, treasurer, auditor, and land commissioner. The governor also appoints the leaders of various state boards, committees, and departments. In Arkansas, the lieutenant governor is elected separately from the governor and thus can be from a different political party. The Arkansas General Assembly is the state's bicameral bodies of legislators, composed of the Senatorte and House of Representatives. These districts are redrawn decennially with each US census, and in election years ending in "2", the entire body is put up for reelection. 25 state district court judges preside over 15 districts, with more districts created in 2013 and 2017. The twelve judges of the Arkansas Court of Appeals are elected from judicial districts to renewable six-year terms. The state has four seats in US House of Representatives.
+\Predicted Summary:
+, Arkansas, is the largest city in the state's eastern part is Pine Bluff . Arkansas is the 29th largest by area and the 33rd most populous state . the state's diverse geography ranges from the mountainous regions of the Ozark and Ouachita Mountains .
+
+GT:
+As with the federal government of the United States, political power in Arkansas is divided into three branches: executive, legislative, and judicial. Each officer's term is four years long. Office holders are term-limited to two full terms plus any partial terms before the first full term. The six other elected executive positions in Arkansas are lieutenant governor, secretary of state, attorney general, treasurer, auditor, and land commissioner. The governor also appoints the leaders of various state boards, committees, and departments. In Arkansas, the lieutenant governor is elected separately from the governor and thus can be from a different political party. The Arkansas General Assembly is the state's bicameral bodies of legislators, composed of the Senatorte and House of Representatives. The Senatorte contains 35 members from districts of approximately equal population. Following the election, half of the seats are designated as two-year seats and are up for reelection again in two years, these "half-terms" do not count against a legislator's term limits. Arkansas House members can serve a maximum of three two-year terms.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.12849162011173185, 0.5348837209302325, 0.2072072072072072, 0.12950450450450451]
+[0.033707865168539325, 0.14285714285714285, 0.05454545454545454, 0.03409090909090909]
+[0.10614525139664804, 0.4418604651162791, 0.1711711711711712, 0.10698198198198201]
+
+
+SBERT sim. Score: 0.4129406809806824

@@ -1,0 +1,21 @@
+Document:
+new_york
+
+Intent:
+What drives the economy in this state?
+
+Input:
+Farm products came in from the Midwest, and finished manufactured goods moved west. Nearly half of the state's exports were related to cotton. The state also has a large manufacturing sector that includes printing and the production of garments, mainly in New York City; and furs, railroad equipment, automobile parts, and bus line vehicles, concentrated in Upstate regions. The New York Agriculture industry is a major producer overall, ranking among the top five states for agricultural products including maple syrup, apples, cherries, cabbage, dairy products, onions, and potatoes. The state has about a quarter of its land in farms and produced $3.4 billion in agricultural products in 2001. Upstate regions produced 50% of that amount.
+\Predicted Summary:
+the first of the thirteen colonies, forming the United States. New York is a state in the northeastern United States. New York is the 27th largest state. New York is the largest city in the world. New York is home to the United Nations Headquarters. New York is the most populous city in the world. New York is home to the United Nations Headquarters. New York is the most populous city in the world. New York is home to the United Nations Headquarters.
+
+GT:
+Anchored by Wall Street in the Financial District of Lower Manhattan, New York City has been called both the most economically powerful city and the leading financial center of the world. Investment banking fees on Wall Street totaled approximately $40 billion in 2012, while in 2013, senior New York City bank officers who manage risk and compliance functions earned as much as $324,000 annually. In fiscal year 2013–14, Wall Street's securities industry generated 19% of New York State's tax revenue. New York is also the principal commercial banking center of the United States. Silicon Alley, centered in New York City, has evolved into a metonym for the sphere encompassing the New York City metropolitan region's high technology and entrepreneurship ecosystem; in 2015, Silicon Alley generated over $7.3 billion in venture capital investment. In 2015, Tech Valley, straddling both sides of the Adirondack Northway and the New York Thruway, generated over $163 million in venture capital investment. The filmed entertainment industry has been growing in New York, contributing nearly $9 billion to the New York City economy alone as of 2015. The Broadway League reported that Broadway shows sold approximately $1.27 billion worth of tickets in the 2013–2014 season, an 11.4% increase from $1.139 billion in the 2012–2013 season. In 2007, the state exported a total of $71.1 billion worth of goods, with the five largest foreign export markets being Canada ($15 billion), the United Kingdom ($6 billion), Switzerland ($5.9 billion), Israel ($4.9 billion), and Hong Kong ($3.4 billion). New York is the nation's third-largest grape producing state, and second-largest wine producer by volume, behind California. In 2012, New York had 320 wineries and 37,000 grape bearing acres, generating full-time employment for nearly 25,000 and annual wages over $1.1 billion, and yielding $4.8 billion in direct economic impact from New York grapes, grape juice, and wine and grape products. The state has about a quarter of its land in farms and produced $3.4 billion in agricultural products in 2001.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15056818181818182, 0.6385542168674698, 0.2436781609195402, 0.15229885057471265]
+[0.05982905982905983, 0.25609756097560976, 0.09699769053117784, 0.06062355658198614]
+[0.11079545454545454, 0.46987951807228917, 0.17931034482758623, 0.11206896551724138]
+
+
+SBERT sim. Score: 0.2486337572336197

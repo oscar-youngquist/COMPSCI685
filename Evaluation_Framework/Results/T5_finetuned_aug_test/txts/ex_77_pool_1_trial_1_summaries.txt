@@ -1,0 +1,21 @@
+Document:
+new_jersey
+
+Intent:
+What about this state's arts and culture attracts you the most?
+
+Input:
+Hope, Mine Hill and the Rockaway Valley Mines created a thriving industry. Northwestern New Jersey is more wooded, rural, and mountainous. It is also the second wealthiest state according to the US Census Bureau. For further information on various ethnoracial groups and neighborhoods prominently featured within New Jersey, see the following articles: New Jersey has continued to play a prominent role as a US cultural nexus. Like every state, New Jersey has its own cuisine, religious communities, museums, and halls of fame. Diners are iconic to New Jersey. The state is home to many diner manufacturers and has over 600 diners, more than any other place in the world. New Jersey has long been an important origin for both rock and rap music. (The others are Kentucky, Louisiana, Mississippi, and Virginia.) There is also a mineral museum Ogdensburg in Sussex County. Visitors and residents take advantage of and contribute to performances at the numerous music, theater, and dance companies and venues located throughout the state, including:
+\Predicted Summary:
+,,,, of all US states, with 9.76% of households—more than 323,000 of 3.3 million statewide—meeting the criteria . New Jersey was the second-wealthest state by median household income . New Jersey is the fourth-smallest state by area, but the 11th-most populous .
+
+GT:
+New Jersey is home to more scientists and engineers per square mile than anywhere else in the world. New Jersey is one of the most ethnically and religiously diverse states in the United States. A diverse collection of languages has since evolved amongst the state's population, given that New Jersey has become cosmopolitan and is home to ethnic enclaves of non-English-speaking communities: New Jersey is known for the quality of its education. In 2015, the state spent more per each public school student than any other US state except New York, Alaska, and Connecticut, amounting to $18,235 spent per pupil; over 50% of the expenditure was allocated to student instruction. Like every state, New Jersey has its own cuisine, religious communities, museums, and halls of fame. New Jersey is the birthplace of modern inventions such as: FM radio, the motion picture camera, the lithium battery, the light bulb, transistors, and the electric train. Other New Jersey creations include: the drive-in movie, the cultivated blueberry, cranberry sauce, the postcard, the boardwalk, the zipper, the phonograph, saltwater taffy, the dirigible, the seedless watermelon, the first use of a submarine in warfare, and the ice cream cone. Diners are iconic to New Jersey. Reality television shows like Jersey Shore and The Real Housewives of New Jersey have reinforced stereotypical views of New Jersey culture, but Rockland cited The Sopranos and the music of Bruce Springsteen as exporting a more positive image. New Jersey is known for several foods developed within the region, including Taylor Ham (also known as pork roll), cheesesteaks, and scrapple. Several states with substantial Italian American populations take credit for the development of submarine sandwiches, including New Jersey. Motion picture technology was developed by Thomas Edison, with much of his early work done at his West Orange laboratory. Edison's Black Maria was the first motion picture studio. Socially, New Jersey is considered one of the more liberal states in the nation. New Jersey also has some of the most stringent gun control laws in the US These include bans on assault firearms, hollow-nose bullets and slingshots. No gun offense in New Jersey is graded less than a felony.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.06575342465753424, 0.5217391304347826, 0.11678832116788321, 0.07299270072992702]
+[0.019230769230769232, 0.15555555555555556, 0.03422982885085575, 0.021393643031784843]
+[0.052054794520547946, 0.41304347826086957, 0.09245742092457421, 0.05778588807785888]
+
+
+SBERT sim. Score: 0.49629077315330505

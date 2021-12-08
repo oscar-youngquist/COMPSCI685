@@ -1,0 +1,21 @@
+Document:
+mississippi
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+Jackson is both the state's capital and largest city. (See: Lists of cities, towns and villages, census-designated places, metropolitan areas, micropolitan areas, and counties in Mississippi) Plantations were developed primarily along the major rivers, where the waterfront provided access to the major transportation routes. They also took advantage of new railroads sponsored by the state. Most migrants from Mississippi took trains directly north to Chicago and often settled near former neighbors. A proportion of federal spending in Mississippi is directed toward large federal installations such as Camp Shelby, John C. Stennis Space Center, Meridian Naval Air Station, Columbus Air Force Base, and Keesler Air Force Base. Mississippi has six airports with commercial passenger service, the busiest in Jackson (Jackson-Evers International Airport) and one in Gulfport (Gulfport-Biloxi International Airport) Mississippi is served by nine interstate highways: Routes: as well as a system of State Highways. Amtrak provides scheduled passenger service along two routes, the Crescent and City of New Orleans. All but two of the United States Class I railroads serve Mississippi (the exceptions are the Union Pacific and Canadian Pacific):
+\Predicted Summary:
+, Mississippi is the 32nd largest and 34th-most populous state in the state . Mississippi is bordered to the north by Tennessee; to the east by Alabama; to the south by the Gulf of Mexico; and to the northwest by Arkansas . Mississippi is the site of many prominent events during the civil rights movement .
+
+GT:
+Mississippi has six airports with commercial passenger service, the busiest in Jackson (Jackson-Evers International Airport) and one in Gulfport (Gulfport-Biloxi International Airport) Some localities have laws restricting the practice. In 2018, the state was ranked number eight in the Union in terms of impaired driving deaths. Mississippi is served by nine interstate highways: and fourteen main US Routes: as well as a system of State Highways. Amtrak provides scheduled passenger service along two routes, the Crescent and City of New Orleans. Prior to severe damage from Hurricane Katrina, the Sunset Limited traversed the far south of the state; the route originated in Los Angeles, California and it terminated in Florida. All but two of the United States Class I railroads serve Mississippi (the exceptions are the Union Pacific and Canadian Pacific):
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.17293233082706766, 0.4339622641509434, 0.24731182795698922, 0.15456989247311825]
+[0.022727272727272728, 0.057692307692307696, 0.03260869565217392, 0.0203804347826087]
+[0.14285714285714285, 0.3584905660377358, 0.2043010752688172, 0.12768817204301075]
+
+
+SBERT sim. Score: 0.499875009059906

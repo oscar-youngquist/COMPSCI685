@@ -1,0 +1,21 @@
+Document:
+michigan
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+The federal government subsidized the construction of interstate highways, which were intended to strengthen military access, but also allowed commuters and business traffic to travel the region more easily. These are augmented by several dozen short line railroads. The vast majority of rail service in Michigan is devoted to freight, with Amtrak and various scenic railroads the exceptions. Amtrak passenger rail services the state, connecting many southern and western Michigan cities to Chicago, Illinois. The Gerald R. Ford International Airport in Grand Rapids is the next busiest airport in the state, served by eight airlines to 23 destinations. Flint Bishop International Airport is the third largest airport in the state, served by four airlines to several primary hubs. Smaller regional and local airports are located throughout the state including on several islands.
+\Predicted Summary:
+in the 17th century. It was claimed as part of the New France colony . Michigan is the tenth most populous state, the 11th most extensive state by area, and the largest by area east of the Mississippi River . Michigan is the only state to consist of two peninsulas. the Upper Peninsula is shaped like a mitten. Michigan is the largest city in the nation's largest metropolitan economies .
+
+GT:
+Michigan has nine international road crossings with Ontario, Canada: Michigan is served by four Class I railroads: the Canadian National Railway, the Canadian Pacific Railway, CSX Transportation, and the Norfolk Southern Railway. Amtrak passenger rail services the state, connecting many southern and western Michigan cities to Chicago, Illinois. The Detroit Metropolitan Airport in the western suburb of Romulus, was in 2010 the 16th busiest airfield in North America measured by passenger traffic. The Gerald R. Ford International Airport in Grand Rapids is the next busiest airport in the state, served by eight airlines to 23 destinations. Flint Bishop International Airport is the third largest airport in the state, served by four airlines to several primary hubs.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.2672413793103448, 0.45588235294117646, 0.33695652173913043, 0.2105978260869565]
+[0.05217391304347826, 0.08955223880597014, 0.06593406593406594, 0.041208791208791215]
+[0.15517241379310345, 0.2647058823529412, 0.1956521739130435, 0.12228260869565216]
+
+
+SBERT sim. Score: 0.4252474009990692

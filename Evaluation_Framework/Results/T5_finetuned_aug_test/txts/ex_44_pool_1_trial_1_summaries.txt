@@ -1,0 +1,21 @@
+Document:
+oklahoma
+
+Intent:
+How is the government structured in this state?
+
+Input:
+The state has 77 counties with jurisdiction over most local government functions within each respective domain, five congressional districts, and a voting base with a plurality in the Republican Party. The Legislature of Oklahoma consists of the Senatorte and the House of Representatives. Judges of those two courts, as well as the Court of Civil Appeals are appointed by the Governor upon the recommendation of the state Judicial Nominating Commission, and are subject to a non-partisan retention vote on a six-year rotating schedule. The executive branch consists of the Governor, their staff, and other elected officials. The state is divided into 77 counties that govern locally, each headed by a three-member council of elected commissioners, a tax assessor, clerk, court clerk, treasurer, and sheriff. While each municipality operates as a separate and independent local government with executive, legislative and judicial power, county governments maintain jurisdiction over both incorporated cities and non-incorporated areas within their boundaries, but have executive power but no legislative or judicial power.
+\Predicted Summary:
+, Oklahoma is the largest state in the United States. Oklahoma is a state in the South Central region of the United States. Oklahoma is a major producer of natural gas, oil, and agricultural products. Oklahoma is a major producer of natural gas, oil, and agricultural products. Oklahoma is a major producer of natural gas, oil, and agricultural products. Oklahoma is a major producer of natural gas, oil, and agricultural products.
+
+GT:
+Oklahoma is a constitutional republic with a government modeled after the Federal government of the United States, with executive, legislative, and judicial branches. The state has 77 counties with jurisdiction over most local government functions within each respective domain, five congressional districts, and a voting base with a plurality in the Republican Party. The Legislature of Oklahoma consists of the Senatorte and the House of Representatives. Oklahoma's judicial branch consists of the Oklahoma Supreme Court, the Oklahoma Court of Criminal Appeals, and 77 District Courts that each serve one county. The executive branch consists of the Governor, their staff, and other elected officials. The state is divided into 77 counties that govern locally, each headed by a three-member council of elected commissioners, a tax assessor, clerk, court clerk, treasurer, and sheriff. Thirty-nine Native American tribal governments are based in Oklahoma, each holding limited powers within designated areas. Oklahoma has 11 substate districts including the two large Councils of Governments, INCOG in Tulsa (Indian Nations Council of Governments) and ACOG (Association of Central Oklahoma Governments).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.1864406779661017, 0.4714285714285714, 0.2672064777327935, 0.16700404858299592]
+[0.03409090909090909, 0.08695652173913043, 0.04897959183673469, 0.03061224489795918]
+[0.12994350282485875, 0.32857142857142857, 0.1862348178137652, 0.11639676113360325]
+
+
+SBERT sim. Score: 0.5103405714035034

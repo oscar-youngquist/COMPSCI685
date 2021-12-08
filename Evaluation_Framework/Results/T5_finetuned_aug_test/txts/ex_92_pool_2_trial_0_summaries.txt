@@ -1,0 +1,21 @@
+Document:
+utah
+
+Intent:
+What are the available modes of transport in this state?
+
+Input:
+It is one of the Four Corners states and is bordered by Idaho in the north, Wyoming in the north and east; by Colorado in the east; at a single point by New Mexico to the southeast; by Arizona in the south; and by Nevada in the west. I-15 and I-80 are the main interstate highways in the state, where they intersect and briefly merge near downtown Salt Lake City. The 103 mi (166 km) stretch from Salina to Green River is the country's longest stretch of interstate without services and, when completed in 1970, was the longest stretch of entirely new highway constructed in the US since the Alaska Highway was completed in 1943. The Green Line begins in West Valley City, passes through downtown Salt Lake City, and ends at Salt Lake City International Airport. The Utah Transit Authority (UTA), which operates TRAX, also operates a bus system that stretches across the Wasatch Front, west into Grantsville, and east into Park City. A commuter rail line known as FrontRunner, also operated by UTA, runs between Ogden and Provo via Salt Lake City. Amtrak's California Zephyr, with one train in each direction daily, runs east–west through Utah with stops in Green River, Helper, Provo, and Salt Lake City. Salt Lake City International Airport is the only international airport in the state and serves as one of the hubs for Delta Air Lines. The airport has non-stop service to more than a hundred destinations throughout the United States, Canada, and Mexico, as well as to Amsterdam, London and Paris. Canyonlands Field (near Moab), Cedar City Regional Airport, Ogden-Hinckley Airport, Provo Municipal Airport, St. George Regional Airport, and Vernal Regional Airport all provide limited commercial air service.
+\Predicted Summary:
+, Utah (YOO-tah, YOO-taw) is a state in the western United States . it is bordered by Colorado to the east, Wyoming to the northeast, Idaho to the north, Arizona to the south and Nevada to the west . Utah is the 13th-largest by area; with a population over three million, it is the 30th-most-populous and 11th-least-densely populated .
+
+GT:
+I-15 and I-80 are the main interstate highways in the state, where they intersect and briefly merge near downtown Salt Lake City. TRAX, a light rail system in the Salt Lake Valley, consists of three lines. The Utah Transit Authority (UTA), which operates TRAX, also operates a bus system that stretches across the Wasatch Front, west into Grantsville, and east into Park City. In addition, UTA provides winter service to the ski resorts east of Salt Lake City, Ogden, and Provo. Several bus companies also provide access to the ski resorts in winter, and local bus companies also serve the cities of Cedar City, Logan, Park City, and St. George. A commuter rail line known as FrontRunner, also operated by UTA, runs between Ogden and Provo via Salt Lake City. Amtrak's California Zephyr, with one train in each direction daily, runs east–west through Utah with stops in Green River, Helper, Provo, and Salt Lake City. Salt Lake City International Airport is the only international airport in the state and serves as one of the hubs for Delta Air Lines. Canyonlands Field (near Moab), Cedar City Regional Airport, Ogden-Hinckley Airport, Provo Municipal Airport, St. George Regional Airport, and Vernal Regional Airport all provide limited commercial air service. A new regional airport at St. George opened on January 12, 2011.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.11210762331838565, 0.4032258064516129, 0.1754385964912281, 0.10964912280701757]
+[0.018018018018018018, 0.06557377049180328, 0.028268551236749116, 0.0176678445229682]
+[0.07623318385650224, 0.27419354838709675, 0.1192982456140351, 0.07456140350877193]
+
+
+SBERT sim. Score: 0.49052485823631287

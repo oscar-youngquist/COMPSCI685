@@ -1,0 +1,21 @@
+Document:
+kansas
+
+Intent:
+The main reasons why you would like living in this state
+
+Input:
+By 2015, Kansas was one of the most productive agricultural states, producing high yields of wheat, corn, sorghum, and soybeans. Out of all the cities in these Midwestern states, 89% have fewer than 3,000 people, and hundreds of those have fewer than 1,000. The cities of Olathe, Shawnee, De Soto and Gardner have some of the state's fastest growing populations. Among cities with at least one thousand residents, Mission Hills has the highest median income in the state. By far, the most significant agricultural crop in the state is wheat. Kansas is also ranked eighth in US natural gas production. The state's economy is also heavily influenced by the aerospace industry. As a percentage of personal income, it was at 3.8%—above the median value of 2.5% for all rated states and having risen from a value of less than 1% in 1992. Kansas also has the country's third largest state highway system after Texas and California.
+\Predicted Summary:
+,,, and was occupied by the abolitionists in 1854. Kansas is the 15th-largest state by area and is the 34th most-populous of the 50 states . Kansas is bordered by Nebraska to the north Kansas is named after the Kansas River .
+
+GT:
+The legal drinking age in Kansas is 21. Education in Kansas is governed at the primary and secondary school level by the Kansas State Board of Education. Twice since 1999 the Board of Education has approved changes in the state science curriculum standards that encouraged the teaching of intelligent design. Kansas has been the setting of many award-winning and popular American films, as well as being the home of some of the oldest operating cinemas in the world. The Kansas State High School Activities Association (KSHSAA) is the organization which oversees interscholastic competition in the state of Kansas at the high school level. The association is perhaps best known for devising the overtime system now used for almost all football games below the professional level (which has also been adopted at all levels of Canadian football).
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.15328467153284672, 0.5121951219512195, 0.2359550561797753, 0.14747191011235955]
+[0.04411764705882353, 0.15, 0.06818181818181818, 0.04261363636363636]
+[0.11678832116788321, 0.3902439024390244, 0.17977528089887643, 0.11235955056179776]
+
+
+SBERT sim. Score: 0.3320739269256592

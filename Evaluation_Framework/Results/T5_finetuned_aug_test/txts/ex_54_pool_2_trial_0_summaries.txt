@@ -1,0 +1,21 @@
+Document:
+georgia
+
+Intent:
+What drives the economy in this state?
+
+Input:
+If Georgia were a stand-alone country, it would be the 28th largest economy in the world, based on data from 2005. For the five years through November 2017, Georgia has been ranked the top state (number 1) in the nation to do business, and has been recognized as number 1 for business and labor climate in the nation, number 1 in business climate in the nation, number 1 in the nation in workforce training and as having a "Best in Class" state economic development agency. Widespread farms produce peanuts, corn, and soybeans across middle and south Georgia. The state is the number one producer of pecans in the world, with the region around Albany in southwest Georgia being the center of Georgia's pecan production. Georgia is in the top five blueberry producers in the United States. Industrial products include textiles and apparel, transportation equipment, food processing, paper products, chemicals and products, and electric equipment. The leading area of energy consumption is the industrial sector because Georgia "is a leader in the energy-intensive wood and paper products industry". The state's other top markets are Savannah (95th largest), Augusta (115th largest), and Columbus (127th largest).
+\Predicted Summary:
+,,,,,, and the Mississippi River. Georgia is the 9th most populous metropolitan area in the United States. Georgia is the 9th most populous metropolitan area in the United States. Georgia is the 9th most populous metropolitan area in the United States. Georgia is the largest city in the nation. Georgia is the largest city in the nation. Georgia is the largest city in the nation.
+
+GT:
+There are 17 Fortune 500 companies and 26 Fortune 1000 companies with headquarters in Georgia, including Home Depot, US Coca-Cola, TSYS, Delta Air Lines, Aflac, Southern Company, Anthem Inc., and SunTrust Banks. Atlanta boasts the world's busiest airport, as measured both by passenger traffic and by aircraft traffic. Also, the Port of Savannah is the fourth largest seaport and fastest-growing container seaport in North America, importing and exporting a total of 2.3 million TEUs per year. Atlanta has been the site of growth in finance, insurance, technology, manufacturing, real estate, service, logistics, transportation, film, communications, convention and trade show businesses and industries, while tourism is important to the economy. Widespread farms produce peanuts, corn, and soybeans across middle and south Georgia. The state is the number one producer of pecans in the world, with the region around Albany in southwest Georgia being the center of Georgia's pecan production. Gainesville in northeast Georgia touts itself as the Poultry Capital of the World. Georgia is in the top five blueberry producers in the United States. Major products in the mineral industry include a variety of clays, stones, sands and the clay palygorskite, known as attapulgite. Industrial products include textiles and apparel, transportation equipment, food processing, paper products, chemicals and products, and electric equipment. Georgia was ranked the number 2 state for infrastructure and global access by Area Development magazine. The Georgia Ports Authority owns and operates four ports in the state: Port of Savannah, Port of Brunswick, Port Bainbridge, and Port Columbus. Hartsfield–Jackson Atlanta International Airport moves over 650,000 tons of cargo annually through three cargo complexes (two million square feet of floor space). The several installations include Moody Air Force Base, Fort Stewart, Hunter Army Airfield, Naval Submarine Base Kings Bay, Fort Benning, Robins Air Force Base, Fort Gordon, Marine Corps Logistics Base Albany, Dobbins Air Reserve Base, Coast Guard Air Station Savannah and Coast Guard Station Brunswick. These installations command numerous jobs and business for related contractors. In the Atlanta area, World of Coke, Georgia Aquarium, Zoo Atlanta and Stone Mountain are important tourist attractions.
+
+Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
+[0.10511363636363637, 0.578125, 0.1778846153846154, 0.11117788461538464]
+[0.03418803418803419, 0.19047619047619047, 0.05797101449275363, 0.036231884057971016]
+[0.07670454545454546, 0.421875, 0.12980769230769232, 0.0811298076923077]
+
+
+SBERT sim. Score: 0.4523339867591858
