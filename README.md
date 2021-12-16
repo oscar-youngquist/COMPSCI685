@@ -7,7 +7,7 @@ The SubSumE folder contains the SubSumE dataset itself (both in the RAW and proc
 To create a new environment for this project: 
 `conda create --name 685 python=3.6
 
-Install requirements using pip: `pip install transformers torch nltk spacy SentencePiece scipy scikit-learn rouge_score numpy pandas matplotlib`
+Install requirements using pip: `pip install transformers torch nltk spacy SentencePiece scipy scikit-learn rouge_score numpy pandas matplotlib sentence-transformers wandb`
 
 Then, run the following commands:
 
