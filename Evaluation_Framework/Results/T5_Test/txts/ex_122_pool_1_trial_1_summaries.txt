@@ -1,21 +1,21 @@
 Document:
-ohio
+delaware
 
 Intent:
-What drives the economy in this state?
+The main reasons why you would like living in this state
 
 Input:
-Of the fifty states, it is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated. Ohio was the first post-colonial free state admitted to the union, and became one of the earliest and most influential industrial powerhouses in the 20th century; although it has transitioned to a more information and service based economy in the 21st century, Ohio remains an industrial state, ranking seventh in GDP as of 2019, with the third largest manufacturing sector and second largest automobile production. Northwest Ohio is known for its glass making industry, and is home to Owens Corning and Owens-Illinois, two Fortune 500 corporations. Cincinnati anchors Southwest Ohio and is the largest economy in the state. This ranks Ohio's economy as the seventh-largest of all fifty states and the District of Columbia. The manufacturing and financial activities sectors each compose 18.3% of Ohio's GDP, making them Ohio's largest industries by percentage of GDP. Ohio has the third largest manufacturing workforce behind California and Texas. Ohio has the largest bioscience sector in the Midwest, and is a national leader in the "green" economy. Ohio's manufacturing sector is the third-largest of all fifty United States states in terms of gross domestic product.
+Delaware is the sixth most densely populated state, with a population density of 442.6 people per square mile, 356.4 per square mile more than the national average, and ranking 45th in population. Delaware is one of five states (Maine, Vermont, West Virginia, Wyoming) that do not have a single city with a population over 100,000 as of the 2010 census. Although Protestants account for almost half of the population, the Catholic Church is the largest single denomination in the state. Dover is the state capital and the second most populous city (38,079). Delaware is home to First State National Historical Park, a National Park Service unit composed of historic sites across the state including the New Castle Court House, Green, and Sheriff's House, Dover Green, Beaver Valley, Fort Christina, Old Swedes' Church, John Dickinson Plantation, and the Ryves Holt House. Rehoboth Beach often bills itself as "The Nation's Summer Capital" because it is a frequent summer vacation destination for Washington, D.C., residents as well as visitors from Maryland, Virginia, and in lesser numbers, Pennsylvania.
 \Predicted Summary:
-the first post-colonial free state admitted to the union on March 1, 1803 . Ohio is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated . Ohio is known for its status as both a swing state and a bellwether in national elections .
+,,,,,, the Delaware River, named after Thomas West, 3rd Baron De La Warr (1577–1618) who was the ruling governor of the Colony of Virginia at the time Europeans first explored the river . Delaware is the second-smallest and sixth-least populous state, but also the sixth-most densely populated . Delaware is the second-smallest and sixth-least populous state, but also the sixth-most densely populated
 
 GT:
-Ohio was the first post-colonial free state admitted to the union, and became one of the earliest and most influential industrial powerhouses in the 20th century; although it has transitioned to a more information and service based economy in the 21st century, Ohio remains an industrial state, ranking seventh in GDP as of 2019, with the third largest manufacturing sector and second largest automobile production. The manufacturing and financial activities sectors each compose 18.3% of Ohio's GDP, making them Ohio's largest industries by percentage of GDP. Ohio has the largest bioscience sector in the Midwest, and is a national leader in the "green" economy. Ohio is the largest producer in the country of plastics, rubber, fabricated metals, electrical equipment, and appliances. By employment, Ohio's largest sector is trade/transportation/utilities, which employs 1,010,000 Ohioans, or 19.4% of Ohio's workforce, while the health care and education sector employs 825,000 Ohioans (15.8%). Government employs 787,000 Ohioans (15.1%), manufacturing employs 669,000 Ohioans (12.9%), and professional and technical services employs 638,000 Ohioans (12.2%). Ohio's manufacturing sector is the third-largest of all fifty United States states in terms of gross domestic product. Fifty-nine of the United States' top 1,000 publicly traded companies (by revenue in 2008) are headquartered in Ohio, including Procter & Gamble, Goodyear Tire & Rubber, AK Steel, Timken, Abercrombie & Fitch, and Wendy's.
+Delaware provides government subsidy support for the clean-up of property "lightly contaminated" by hazardous waste, the proceeds for which come from a tax on wholesale petroleum sales. As of 2000, 91% of Delaware residents of age 5 and older spoke only English at home; 5% spoke Spanish. A 2012 Gallup poll found that Delaware's proportion of lesbian, gay, bisexual, and transgender adults stood at 3.4 percent of the population. This constitutes a total LGBT adult population estimate of 23,698 people. The number of same-sex couple households in 2010 stood at 2,646. This grew by 41.65% from a decade earlier.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.1375, 0.5789473684210527, 0.22222222222222227, 0.1388888888888889]
-[0.0502092050209205, 0.21428571428571427, 0.08135593220338982, 0.05084745762711864]
-[0.1, 0.42105263157894735, 0.16161616161616163, 0.10101010101010101]
+[0.1320754716981132, 0.21212121212121213, 0.1627906976744186, 0.10174418604651163]
+[0.009523809523809525, 0.015384615384615385, 0.011764705882352943, 0.007352941176470589]
+[0.11320754716981132, 0.18181818181818182, 0.13953488372093023, 0.08720930232558138]
 
 
-SBERT sim. Score: 0.586604654788971
+SBERT sim. Score: 0.40018337965011597

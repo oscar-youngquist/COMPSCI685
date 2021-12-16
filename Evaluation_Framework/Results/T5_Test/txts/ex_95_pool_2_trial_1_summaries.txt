@@ -1,21 +1,21 @@
 Document:
-north_carolina
+washington
 
 Intent:
-What drives the economy in this state?
+What about this state's arts and culture attracts you the most?
 
 Input:
-The state mainly continued with an economy based on tobacco, cotton textiles and commodity agriculture. The Piedmont region of central North Carolina is the state's most populous region, containing the six largest cities in the state by population. The state has a very diverse economy because of its great availability of hydroelectric power, its pleasant climate, and its wide variety of soils. The state ranks third among the South Atlantic states in population, but leads the region in industry and agriculture. North Carolina leads the nation in the production of tobacco, textiles, and furniture. Science, technology, engineering, and math (STEM) industries in the area surrounding North Carolina's capital have grown 17.9 percent since 2001, placing Raleigh-Cary at No. North Carolina is the leading US state in production of flue-cured tobacco and sweet potatoes, and comes second in the farming of pigs and hogs, trout, and turkeys. The nonprofit arts and culture industry generates $1.2 billion in direct economic activity in North Carolina, supporting more than 43,600 full-time equivalent jobs and generating $119 million in revenue for local governments and the state of North Carolina. Recognized and marketed brands of beer in North Carolina include Highland Brewing, Duck Rabbit Brewery, Mother Earth Brewery, Weeping Radish Brewery, Big Boss Brewing, Foothills Brewing, Carolina Brewing Company, Lonerider Brewing, and White Rabbit Brewing Company. The state's shipping, commercial fishing, and lumber industries are important to its economy. Service industries, including education, health care, private research, and retail trade, are also important.
+Livestock and livestock products make important contributions to total farm revenue, and the commercial fishing of salmon, halibut, and bottomfish makes a significant contribution to the state's economy. Western Washington also is home of the Olympic Mountains, far west on the Olympic Peninsula, which support dense forests of conifers and areas of temperate rainforest. Common trees and plants in the region are camassia, Douglas fir, hemlock, penstemon, ponderosa pine, western red cedar, and many species of ferns. The state's various areas of wilderness offer sanctuary, with substantially large populations of shorebirds and marine mammals. Because of the wide range of geography, the State of Washington is home to several different ecoregions, which allow for a varied range of bird species. Among these are the Alta Lake State Park, Lake Roosevelt National Recreation Area, San Juan Islands National Wildlife Refuge, as well as three national parks—the Olympic National Park, North Cascades National Park, and Mount Rainier National Park. Prominent among their industries were salmon fishing and, notably among the Makah, whale hunting. There are extensive waterways around Washington's largest cities, including Seattle, Bellevue, Tacoma and Olympia.
 \Predicted Summary:
-the first controlled, sustained flight of a powered, heavier-than-air aircraft . North Carolina is the 28th largest and 9th-most populous of the 50 United States . North Carolina is the largest metropolitan area in the state, with an estimated population of 1,362,540 in 2018, .
+, and is the 13th most populous state, with more than 7.6 million people . Washington is the 18th largest state, with an area of 71,362 square miles (184,827 km2), and the 13th most populous state . the state is the second most populous state on the west coast and in the Western United States, after California .
 
 GT:
-The state has a very diverse economy because of its great availability of hydroelectric power, its pleasant climate, and its wide variety of soils. The state ranks third among the South Atlantic states in population, but leads the region in industry and agriculture. North Carolina leads the nation in the production of tobacco, textiles, and furniture. Charlotte, the state's largest city, is a major textile and trade center. Science, technology, engineering, and math (STEM) industries in the area surrounding North Carolina's capital have grown 17.9 percent since 2001, placing Raleigh-Cary at No. North Carolina is the leading US state in production of flue-cured tobacco and sweet potatoes, and comes second in the farming of pigs and hogs, trout, and turkeys.
+The Seattle Open Invitational golf tournament was part of the PGA Tour from the 1930s to the 1960s. The GTE Northwest Classic was part of the Senatoror PGA Tour from 1986 to 1995, and the Boeing Classic since 2005. In addition, the 2015 US Open was held at Chambers Bay, and several major tournaments were held at Sahalee Country Club. Pacific Raceways is a motorsports venue which has hosted the Northwest Nationals of the NHRA Mello Yello Drag Racing Series and a round of the Trans-Am Series. The WTA Seattle tennis tournament was part of the WTA Tour from 1977 to 1982. The Climate Pledge Arena has hosted several mixed martial arts events, such as UFC Fight Night: Nogueira vs. Davis, UFC on Fox: Henderson vs. Diaz, and UFC on Fox: Johnson vs. Moraga.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.192, 0.5106382978723404, 0.27906976744186046, 0.17441860465116277]
-[0.04838709677419355, 0.13043478260869565, 0.07058823529411765, 0.04411764705882353]
-[0.128, 0.3404255319148936, 0.186046511627907, 0.11627906976744186]
+[0.1037037037037037, 0.24561403508771928, 0.14583333333333334, 0.09114583333333334]
+[0.007462686567164179, 0.017857142857142856, 0.010526315789473684, 0.006578947368421051]
+[0.08148148148148149, 0.19298245614035087, 0.11458333333333334, 0.07161458333333333]
 
 
-SBERT sim. Score: 0.5908100605010986
+SBERT sim. Score: 0.16053836047649384

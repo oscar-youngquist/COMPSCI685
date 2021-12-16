@@ -1,21 +1,21 @@
 Document:
-south_carolina
+ohio
 
 Intent:
-What drives the economy in this state?
+The main reasons why you would like living in this state
 
 Input:
-At that time South Carolina had the largest population of Jews in the sixteen states of the United States, mostly based in Savannah and Charleston, the latter being the country's fifth largest city. The state also converted its agricultural base from cotton to more profitable crops; attracted large military bases through its powerful Democratic congressional delegation, part of the one-party South following disfranchisement of blacks at the turn of the century; and created tourism industries. According to the South Carolina Arts Commission, creative industries generate $9.2 billion annually and support over 78,000 jobs in the state. Industrial outputs include textile goods, chemical products, paper products, machinery, automobiles, automotive products and tourism. Major agricultural outputs of the state are tobacco, poultry, cotton, cattle, dairy products, soybeans, hay, rice, and swine. According to the Bureau of Labor Statistics, as of March 2012, South Carolina had 1,852,700 nonfarm jobs of which 12% are in manufacturing, 11.5% are in leisure and hospitality, 19% are in trade, transportation, and utilities, and 11.8% are in education and health services. The service sector accounts for 83.7% of the South Carolina economy. The state has the fourth largest state-maintained system in the country, consisting of 11 Interstates, numbered highways, state highways, and secondary roads, totalling approximately 41,500 miles.
+Of the fifty states, it is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated. The state is known for its status as both a swing state and a bellwether in national elections. Cincinnati anchors Southwest Ohio and is the largest economy in the state. The industry of Ohio made the state one of the most important states in the Union during the Civil war. Ohio's population growth lags that of the entire United States, and whites are found in a greater density than the US average. This ranks Ohio's economy as the seventh-largest of all fifty states and the District of Columbia. Ohio's manufacturing sector is the third-largest of all fifty United States states in terms of gross domestic product.
 \Predicted Summary:
-, the first state to vote in favor of secession from the Union on December 20, 1868. South Carolina is a state in the Deep South region of the Southern United States . South Carolina is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia . South Carolina is the 40th most extensive and 23rd most populous US state .
+the first post-colonial free state admitted to the union on March 1, 1803 . Ohio is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated . Ohio is known for its status as both a swing state and a bellwether in national elections .
 
 GT:
-Industrial outputs include textile goods, chemical products, paper products, machinery, automobiles, automotive products and tourism. Major agricultural outputs of the state are tobacco, poultry, cotton, cattle, dairy products, soybeans, hay, rice, and swine. According to the Bureau of Labor Statistics, as of March 2012, South Carolina had 1,852,700 nonfarm jobs of which 12% are in manufacturing, 11.5% are in leisure and hospitality, 19% are in trade, transportation, and utilities, and 11.8% are in education and health services. The service sector accounts for 83.7% of the South Carolina economy. Many large corporations have moved their locations to South Carolina. Boeing opened an aircraft manufacturing facility in Charleston in 2011, which serves as one of two final assembly sites for the 787 Dreamliner.
+Ohio was the first post-colonial free state admitted to the union, and became one of the earliest and most influential industrial powerhouses in the 20th century; although it has transitioned to a more information and service based economy in the 21st century, Ohio remains an industrial state, ranking seventh in GDP as of 2019, with the third largest manufacturing sector and second largest automobile production. 10 for best business-friendly tax systems in their Business Tax Index 2009, including a top corporate tax and capital gains rate that were both ranked No. Ohio has five of the top 115 colleges in the nation, according to US News and World Report's 2010 rankings, and was ranked No. Ohio's unemployment rate stands at 4.5% as of February 2018, down from 10.7% in May 2010. Ohio has a highly developed network of roads and interstate highways. Ohio also has a highly developed network of signed state bicycle routes. Ohio has several long-distance hiking trails, the most prominent of which is the Buckeye Trail which extends 1,444 mi (2,324 km) in a loop around the state of Ohio. The system averages an annual enrollment of more than 400,000 students, making it one of the five largest state university systems in the US
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.15873015873015872, 0.29850746268656714, 0.20725388601036268, 0.12953367875647667]
-[0.04, 0.07575757575757576, 0.05235602094240838, 0.032722513089005235]
-[0.12698412698412698, 0.23880597014925373, 0.16580310880829013, 0.10362694300518134]
+[0.16129032258064516, 0.6140350877192983, 0.25547445255474455, 0.15967153284671534]
+[0.046296296296296294, 0.17857142857142858, 0.07352941176470587, 0.045955882352941166]
+[0.11059907834101383, 0.42105263157894735, 0.17518248175182483, 0.10948905109489053]
 
 
-SBERT sim. Score: 0.35077014565467834
+SBERT sim. Score: 0.5724189877510071

@@ -1,21 +1,21 @@
 Document:
-mississippi
+florida
 
 Intent:
-What about this state's arts and culture attracts you the most?
+What drives the economy in this state?
 
 Input:
-In addition to its namesake, major rivers in Mississippi include the Big Black River, the Pearl River, the Yazoo River, the Pascagoula River, and the Tombigbee River. (See: Lists of cities, towns and villages, census-designated places, metropolitan areas, micropolitan areas, and counties in Mississippi) The southeastern part of the state is dominated by longleaf pine, in both uplands and lowland flatwoods and Sarracenia bogs. The rest of the state, primarily north of Interstate 20 not including the prairie regions, consists of mixed pine-hardwood forest, common species being loblolly pine, oaks (e.g., water oak), hickories, sweetgum, and elm. Mississippi is home to 63 crayfish species, including at least 17 endemic species. Americans of Scots-Irish, English and Scottish ancestry are present throughout the state. The Magnolia Independent Film Festival, still held annually in Starkville, is the first and oldest in the state. While the state has had a reputation for being racist, Mississippi musicians created new forms by combining and creating variations on musical traditions from Africa, African American traditions, and the musical traditions of white Southerners strongly shaped by Scots-Irish and other styles.
+The state's economy relies mainly on tourism, agriculture, and transportation, which developed in the late 19th century. Florida's energy production is 6% of the nation's total energy output, while total production of pollutants is lower, with figures of 6% for nitrogen oxide, 5% for carbon dioxide, and 4% for sulfur dioxide. Tourism makes up one of the largest sectors of the state economy, with nearly 1.4 million people employed in the tourism industry in 2016 (a record for the state, surpassing the 1.2 million employment from 2015). Agriculture is the second largest industry in the state. The largest farm category by sales in Florida is the $2.3 billion ornamental industry, which includes nursery, greenhouse, flowers, and sod products. The state produces about 75% of the phosphate required by farmers in the United States and 25% of the world supply, with about 95% used for agriculture (90% for fertilizer and 5% for livestock feed supplements) and 5% used for other products.
 \Predicted Summary:
-, the Mississippi River, which flows along and defines its western boundary . Mississippi is bordered to the north by Tennessee; to the east by Alabama; to the south by the Gulf of Mexico; to the southwest by Louisiana; and to the northwest by Arkansas . Mississippi is the 32nd largest and 34th-most populous of the 50 US states .
+is the second largest state in the world. Florida is the third-most populous and the 22nd-most extensive of the 50 United States. Florida is the third-most populous state in the southeastern region of the United States. Florida is the principal location of the Seminole Wars (1816 – 1858), the longest and most extensive of Indian Wars in United States history. Florida was restored to the Union on January 10, 1861.
 
 GT:
-While Mississippi has been especially known for its music and literature, it has embraced other forms of art. Its strong religious traditions have inspired striking works by outsider artists who have been shown nationally. Jackson established the USA International Ballet Competition, which is held every four years. This ballet competition attracts the most talented young dancers from around the world. Musicians of the state's Delta region were historically significant to the development of the blues. While the state has had a reputation for being racist, Mississippi musicians created new forms by combining and creating variations on musical traditions from Africa, African American traditions, and the musical traditions of white Southerners strongly shaped by Scots-Irish and other styles. The Delta Blues Museum there is visited by tourists from all over the world. From opera star Leontyne Price to the alternative rock band 3 Doors Down, to gulf and western singer Jimmy Buffett, modern rock/jazz/world music guitarist-producer Clifton Hyde, to rappers David Banner, Big K.R.I.T. and Afroman, Mississippi musicians have been significant in all genres.
+Historically, Florida's economy has been based primarily upon agricultural products such as cattle, sugar cane, citrus fruits, tomatoes, and strawberries. In the 20th century, tourism, industry, construction, international banking, biomedical and life sciences, healthcare research, simulation training, aerospace and defense, and commercial space travel have contributed to the state's economic development. The five largest sectors of employment in Florida are: trade, transportation, and utilities; government; professional and business services; education and health services; and leisure and hospitality. In output, the five largest sectors are: finance, insurance, real estate, rental, and leasing, followed by professional and business services; government and government enterprises; educational services, health care, and social assistance; and retail trade. In 2017, Florida became the United States' eighth largest exporter of trade goods. In 2017, Florida became the United States' tenth largest importer of trade goods. The value of Florida's imports equals 3.2% of United States' overall imported products for 2017.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.18232044198895028, 0.5789473684210527, 0.2773109243697479, 0.17331932773109246]
-[0.016666666666666666, 0.05357142857142857, 0.02542372881355932, 0.015889830508474576]
-[0.09392265193370165, 0.2982456140350877, 0.14285714285714285, 0.08928571428571427]
+[0.1858974358974359, 0.4027777777777778, 0.2543859649122807, 0.15899122807017543]
+[0.03870967741935484, 0.08450704225352113, 0.05309734513274336, 0.033185840707964605]
+[0.11538461538461539, 0.25, 0.15789473684210525, 0.09868421052631579]
 
 
-SBERT sim. Score: 0.4154362976551056
+SBERT sim. Score: 0.5149208903312683

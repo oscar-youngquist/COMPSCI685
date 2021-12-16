@@ -1,21 +1,21 @@
 Document:
-ohio
+illinois
 
 Intent:
 The main reasons why you would like living in this state
 
 Input:
-Of the fifty states, it is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated. The state is known for its status as both a swing state and a bellwether in national elections. Akron, Canton, Cleveland, Mansfield, and Youngstown are in the Northeast, known for major industrial companies Goodyear Tire and Rubber and Timken, top ranked colleges Case Western Reserve University and Kent State University, the Cleveland Clinic, and cultural attractions including the Cleveland Museum of Art, Big Five group Cleveland Orchestra, Playhouse Square, the Pro Football Hall of Fame, and the Rock and Roll Hall of Fame. It is home of Miami University and the University of Cincinnati, Cincinnati Union Terminal, Cincinnati Symphony Orchestra, and various Fortune 500 companies including Procter & Gamble, Kroger, Macy's, Inc., and Fifth Third Bank. This ranks Ohio's economy as the seventh-largest of all fifty states and the District of Columbia. Ohio's manufacturing sector is the third-largest of all fifty United States states in terms of gross domestic product. Ohio schools consistently ranking in the top 50 nationally of the US News & World Report of liberal arts colleges are Kenyon College, Oberlin College, and Denison University.
+Illinois has been noted as a microcosm of the entire United States. Agriculture, particularly corn and soybeans, as well as educational institutions and manufacturing centers, figure prominently in Central Illinois. Cities include Peoria; Springfield, the state capital; Quincy; Decatur; Bloomington-Normal; and Champaign-Urbana. Illinois has one of the largest concentrations of Missouri Synod Lutherans in the United States. In most years, Illinois is either the first or second state for the highest production of soybeans, with a harvest of 427.7 million bushels (11.64 million metric tons) in 2008, after Iowa's production of 444.82 million bushels (12.11 million metric tons). Illinois also produces wine, and the state is home to two American viticultural areas. As of 2011, Illinois is ranked as the 4th-most productive manufacturing state in the country, behind California, Texas, and Ohio. Illinois is ranked second in corn production among US states, and Illinois corn is used to produce 40% of the ethanol consumed in the United States. Illinois has the distinction of having the most primary (two-digit) interstates pass through it among all the 50 states with 13. Illinois also ranks third among the fifty states with the most interstate mileage, coming in after California and Texas, which are much bigger states in area.
 \Predicted Summary:
-the first post-colonial free state admitted to the union on March 1, 1803 . Ohio is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated . Ohio is known for its status as both a swing state and a bellwether in national elections .
+,,,,, and the Michigan Canal (1848) made transportation between the Great Lakes and the Mississippi River valley faster and cheaper . The Illinois and Michigan Canal (1848) made transportation between the Great Lakes and the Mississippi River valley faster and cheaper . the state has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all states .
 
 GT:
-In 2010, Ohio was ranked second in the country for best business climate by Site Selection magazine, based on a business-activity database. The state has also won three consecutive Governor's Cup awards from the magazine, based on business growth and developments. As of 2016, Ohio's gross domestic product (GDP) was $626 billion. This ranks Ohio's economy as the seventh-largest of all fifty states and the District of Columbia. The Small Business & Entrepreneurship Council ranked the state No. 10 for best business-friendly tax systems in their Business Tax Index 2009, including a top corporate tax and capital gains rate that were both ranked No. Playhouse Square in downtown Cleveland is the second largest performing arts center in the United States, home to ten theaters. The Cleveland Orchestra is one of the historic Big Five orchestras in the US, and is considered one of the best worldwide.
+Three US presidents have been elected while living in Illinois: Abraham Lincoln, Ulysses S. Grant, and Barack Obama. The southern part of the state, from about Carbondale southward, has a humid subtropical climate (Koppen Cfa), with more moderate winters. Illinois's minimum wage will rise to $15 per hour by 2025, making it one of the highest in the nation. As of 2011, Illinois is ranked as the 4th-most productive manufacturing state in the country, behind California, Texas, and Ohio. About three-quarters of the state's manufacturers are located in the Northeastern Opportunity Return Region, with 38 percent of Illinois's approximately 18,900 manufacturing plants located in Cook County. In the 1980s and 1990s, heavy rock, punk, and hip hop also became popular in Chicago. As one of the United States' major metropolises, all major sports leagues have teams headquartered in Chicago. Many minor league teams also call Illinois their home.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.17218543046357615, 0.45614035087719296, 0.25, 0.15624999999999997]
-[0.02, 0.05357142857142857, 0.029126213592233014, 0.018203883495145633]
-[0.09271523178807947, 0.24561403508771928, 0.1346153846153846, 0.08413461538461538]
+[0.13636363636363635, 0.3387096774193548, 0.19444444444444442, 0.12152777777777776]
+[0.006535947712418301, 0.01639344262295082, 0.009345794392523364, 0.0058411214953271035]
+[0.1038961038961039, 0.25806451612903225, 0.14814814814814814, 0.09259259259259259]
 
 
-SBERT sim. Score: 0.4534740746021271
+SBERT sim. Score: 0.4221782684326172

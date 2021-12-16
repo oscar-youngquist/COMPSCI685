@@ -1,21 +1,21 @@
 Document:
-utah
+north_carolina
 
 Intent:
-How is the government structured in this state?
+What are the available modes of transport in this state?
 
 Input:
-Utah is the only state where every county contains some national forest. Utah government is divided into three branches: executive, legislative, and judicial. The governor is elected for a four-year term. The Utah State Legislature consists of a Senatorte and a House of Representatives. State senators serve four-year terms and representatives two-year terms. It consists of five justices, who are appointed by the governor, and then subject to retention election. Utah is divided into political jurisdictions designated as counties. Utah is one of the most Republican states in the nation. Since becoming a state in 1896, Utah has had only two non-Mormon governors. The state's most Republican areas tend to be Utah County, which is the home to Brigham Young University in the city of Provo, and nearly all the rural counties.
+In mid-century, the state's rural and commercial areas were connected by the construction of a 129 mi (208 km) wooden plank road, known as a "farmer's railroad", from Fayetteville in the east to Bethania (northwest of Winston-Salem). Transportation systems in North Carolina consist of air, water, road, rail, and public transportation including intercity rail via Amtrak and light rail in Charlotte. North Carolina has the second-largest state highway system in the country as well as the largest ferry system on the east coast. North Carolina's airports serve destinations throughout the United States and international destinations in Canada, Europe, Central America, and the Caribbean. North Carolina has a growing passenger rail system with Amtrak serving most major cities. Charlotte is also home to North Carolina's only light rail system known as the Lynx. The largest school systems in North Carolina are the Wake County Public School System, Charlotte-Mecklenburg Schools, Guilford County Schools, Winston-Salem/Forsyth County Schools, and Cumberland County Schools.
 \Predicted Summary:
-is a state in the Western United States. It is bordered by Colorado to the east, Wyoming to the northeast, Idaho to the north, Arizona to the south and Nevada to the west. Utah is the 13th-largest by area; with a population over three million, it is the 30th-most-populous and 11th-least-densely populated. Disputes between the dominant Mormon community and the federal government delayed the state's admission as a state.
+the first controlled, sustained flight of a powered, heavier-than-air aircraft . North Carolina is the 28th largest and 9th-most populous of the 50 United States . North Carolina is the largest metropolitan area in the state, with an estimated population of 1,362,540 in 2018, .
 
 GT:
-Utah government is divided into three branches: executive, legislative, and judicial. The governor is elected for a four-year term. The Utah State Legislature consists of a Senatorte and a House of Representatives. State senators serve four-year terms and representatives two-year terms. The Utah Legislature meets each year in January for an annual 45-day session. The Utah Supreme Court is the court of last resort in Utah. It consists of five justices, who are appointed by the governor, and then subject to retention election. The Utah Court of Appeals handles cases from the trial courts. Trial level courts are the district courts and justice courts. All justices and judges, like those on the Utah Supreme Court, are subject to retention election after appointment. Utah is divided into political jurisdictions designated as counties.
+Transportation systems in North Carolina consist of air, water, road, rail, and public transportation including intercity rail via Amtrak and light rail in Charlotte. North Carolina has the second-largest state highway system in the country as well as the largest ferry system on the east coast. North Carolina's airports serve destinations throughout the United States and international destinations in Canada, Europe, Central America, and the Caribbean. In 2013 Charlotte Douglas International Airport, which serves as the second busiest hub for American Airlines, ranked as the 23rd busiest airport in the world. North Carolina has a growing passenger rail system with Amtrak serving most major cities. Charlotte is also home to North Carolina's only light rail system known as the Lynx.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.22962962962962963, 0.41333333333333333, 0.29523809523809524, 0.1845238095238095]
-[0.014925373134328358, 0.02702702702702703, 0.01923076923076923, 0.012019230769230768]
-[0.13333333333333333, 0.24, 0.17142857142857146, 0.10714285714285714]
+[0.18699186991869918, 0.48936170212765956, 0.27058823529411763, 0.16911764705882354]
+[0.040983606557377046, 0.10869565217391304, 0.059523809523809514, 0.037202380952380945]
+[0.10569105691056911, 0.2765957446808511, 0.15294117647058825, 0.09558823529411765]
 
 
-SBERT sim. Score: 0.48839038610458374
+SBERT sim. Score: 0.6028475761413574

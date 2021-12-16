@@ -1,21 +1,21 @@
 Document:
-maine
+ohio
 
 Intent:
-What drives the economy in this state?
+How is the government structured in this state?
 
 Input:
-Maine's agricultural outputs include poultry, eggs, dairy products, cattle, wild blueberries, apples, maple syrup, and maple sugar. Commercial fishing, once a mainstay of the state's economy, maintains a presence, particularly lobstering and groundfishing. In 2015, 14% of the Northeast's total oyster supply came from Maine. In 2017, the production of Maine's seaweed industry was estimated at $20 million per year. During the 18th and 19th centuries, wooden shipbuilding of this sort made up a sizable portion of the economy. The state is a major producer of potatoes, wild blueberries, apples, maple syrup and sweet corn. Dairy products and chicken's eggs are other major industries.
+The government of Ohio is composed of the executive branch, led by the governor; the legislative branch, consisting of the bicameral Ohio General Assembly; and the judicial branch, led by the state Supreme Court. The state is known for its status as both a swing state and a bellwether in national elections. The state government of Ohio consists of the executive, judicial, and legislative branches. The Ohio General Assembly is a bicameral legislature consisting of the Senatorte and House of Representatives. The governor, Mike DeWine, is Republican, as well as all other non-judicial statewide elected officials, including Lieutenant Governor Jon A. Husted, Attorney General Dave Yost, State Auditor Keith Faber, Secretary of State Frank LaRose and State Treasurer Robert Sprague. In the Ohio State Senatorte the Republicans are the majority, 24–9, and in the Ohio House of Representatives the Republicans control the delegation 61–38.
 \Predicted Summary:
-the Popham Colony, established by the Plymouth Company in 1607 . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states . Maine is known for its jagged, rocky coastline; low, rolling mountains; heavily forested interior; picturesque waterways .
+the first post-colonial free state admitted to the union on March 1, 1803 . Ohio is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated . Ohio is known for its status as both a swing state and a bellwether in national elections .
 
 GT:
-Maine's agricultural outputs include poultry, eggs, dairy products, cattle, wild blueberries, apples, maple syrup, and maple sugar. Commercial fishing, once a mainstay of the state's economy, maintains a presence, particularly lobstering and groundfishing. In 2015, 14% of the Northeast's total oyster supply came from Maine. Maine's industrial outputs consist chiefly of paper, lumber and wood products, electronic equipment, leather products, food products, textiles, and bio-technology. Tourism and outdoor recreation play a major and increasingly important role in Maine's economy. The state is a popular destination for sport hunting (particularly deer, moose and bear), sport fishing, snowmobiling, skiing, boating, camping and hiking, among other activities.
+The state government of Ohio consists of the executive, judicial, and legislative branches. The executive branch is headed by the governor of Ohio. A lieutenant governor succeeds the governor in the event of any removal from office, and performs any duties assigned by the governor. There are three levels of the Ohio state judiciary. The lowest level is the court of common pleas: each county maintains its own constitutionally mandated court of common pleas, which maintain jurisdiction over "all justiciable matters". The state's highest-ranking court is the Ohio Supreme Court. The Ohio General Assembly is a bicameral legislature consisting of the Senatorte and House of Representatives.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.1, 0.22916666666666666, 0.13924050632911394, 0.0870253164556962]
-[0.009174311926605505, 0.02127659574468085, 0.012820512820512822, 0.008012820512820512]
-[0.08181818181818182, 0.1875, 0.1139240506329114, 0.07120253164556961]
+[0.18518518518518517, 0.3508771929824561, 0.24242424242424246, 0.1515151515151515]
+[0.018691588785046728, 0.03571428571428571, 0.02453987730061349, 0.015337423312883434]
+[0.12037037037037036, 0.22807017543859648, 0.1575757575757576, 0.0984848484848485]
 
 
-SBERT sim. Score: 0.40560412406921387
+SBERT sim. Score: 0.4072110056877136

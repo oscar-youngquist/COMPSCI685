@@ -1,21 +1,21 @@
 Document:
-south_dakota
+texas
 
 Intent:
-The main reasons why you would like living in this state
+What are the available modes of transport in this state?
 
 Input:
-South Dakota is the seventeenth largest by area, but the 5th least populous, and the 5th least densely populated of the 50 United States. The state's ecology features species typical of a North American grassland biome. Average annual precipitation in South Dakota ranges from semi-arid conditions in the northwestern part of the state (around 15 inches or 380 mm) to semi-humid around the southeast portion of the state (around 25 inches or 640 mm), although a small area centered on Lead in the Black Hills has the highest precipitation at nearly 30 inches (760 mm) per year. South Dakota has the third-highest proportion of Native Americans of any state, behind Alaska and New Mexico. Although other industries have expanded rapidly in recent decades, agricultural production is still very important to the state's economy, especially in rural areas. Agriculture-related industries such as meat packing and ethanol production also have a considerable economic impact on the state. South Dakota is the sixth leading ethanol-producing state in the nation. In 2006, tourism provided an estimated 33,000 jobs in the state and contributed over two billion dollars to the economy of South Dakota. Several major US highways pass through the state. The next four largest newspapers in the state are the Aberdeen American News, the Watertown Public Opinion, the Huron Plainsman, and the Brookings Register.
+It is the second largest US state by both area (after Alaska) and population (after California). Texas shares borders with the states of Louisiana to the east, Arkansas to the northeast, Oklahoma to the north, New Mexico to the west, and the Mexican states of Chihuahua, Coahuila, Nuevo León, and Tamaulipas to the south and southwest, and has a coastline with the Gulf of Mexico to the southeast. During the spring Texas wildflowers such as the state flower, the bluebonnet, line highways throughout Texas. Three interstate highways—I-35 to the west (Dallas–Fort Worth to San Antonio, with Austin in between), I-45 to the east (Dallas to Houston), and I-10 to the south (San Antonio to Houston) define the Texas Urban Triangle region. The regulatory authority, the Texas Department of Transportation (TxDOT), maintains the state's immense highway system, regulates aviation, and public transportation systems. The state is an important transportation hub. The next five largest airports in the state all serve more than three million passengers annually; they include Austin-Bergstrom International Airport, William P. Hobby Airport, San Antonio International Airport, Dallas Love Field and El Paso International Airport.
 \Predicted Summary:
-is a US state in the Midwestern region of the United States . South Dakota is bisected by the Missouri River, dividing South Dakota into two geographically and socially distinct halves . the state is bisected by the Missouri River, dividing South Dakota into two geographically and socially distinct halves .
+, Texas is the second largest state in the US, and the second largest in the US . Texas is the second largest state by both area (after Alaska) and population (after California). Texas shares borders with the states of Louisiana to the east, Arkansas to the northeast, Oklahoma to the north, New Mexico to the west, and the Mexican states of Chihuahua, Coahuila, Nuevo León, and Tamaulipas to the south and southwest .
 
 GT:
-As of 2005, South Dakota has the lowest per capita total state tax rate in the United States. The state sales tax rate is 4.5 percent. Retail, finance, and healthcare have assumed greater importance in Sioux Falls, where the economy was originally centered on agri-business and quarrying. There are 703 public schools in 168 school districts, giving South Dakota the highest number of schools per capita in the United States. Fishing and hunting are popular outdoor activities in South Dakota. Other sports, such as cycling and running, are also popular in the state.
+Texas has compensated by building America's largest highway and railway systems. The regulatory authority, the Texas Department of Transportation (TxDOT), maintains the state's immense highway system, regulates aviation, and public transportation systems. From the Dallas/Fort Worth area, trucks can reach 93 percent of the nation's population within 48 hours, and 37 percent within 24 hours. Texas has 730 airports, second-most of any state in the nation. Around 1,150 seaports dot Texas's coast with over 1,000 miles (1,600 km) of channels. Since 1911, Texas has led the nation in length of railroad miles within the state. In the Dallas–Fort Worth area, three public transit agencies provide rail service: Dallas Area Rapid Transit (DART), Denton County Transportation Authority (DCTA), and Trinity Metro. Amtrak provides Texas with limited intercity passenger rail service.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.21052631578947367, 0.4166666666666667, 0.2797202797202797, 0.1748251748251748]
-[0.07446808510638298, 0.14893617021276595, 0.09929078014184396, 0.062056737588652475]
-[0.14736842105263157, 0.2916666666666667, 0.19580419580419584, 0.12237762237762238]
+[0.20863309352517986, 0.4027777777777778, 0.27488151658767773, 0.17180094786729858]
+[0.028985507246376812, 0.056338028169014086, 0.038277511961722493, 0.02392344497607656]
+[0.12949640287769784, 0.25, 0.17061611374407584, 0.1066350710900474]
 
 
-SBERT sim. Score: 0.4746839106082916
+SBERT sim. Score: 0.5797343254089355

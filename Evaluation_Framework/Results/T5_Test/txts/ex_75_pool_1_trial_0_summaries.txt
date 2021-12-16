@@ -1,21 +1,21 @@
 Document:
-tennessee
+nevada
 
 Intent:
-The main reasons why you would like living in this state
+What drives the economy in this state?
 
 Input:
-Tennessee's major industries include agriculture, manufacturing, and tourism. Poultry, soybeans, and cattle are the state's primary agricultural products, and major manufacturing exports include chemicals, transportation equipment, and electrical equipment. In this valley are numerous towns and two of the region's three urban areas, Knoxville, the third largest city in the state, and Chattanooga, the fourth largest city in the state. Middle Tennessee is one of the primary state population and transportation centers along with the heart of state government. The state's sales and use tax rate for most items is 7%, the second-highest in the nation, along with Mississippi, Rhode Island, New Jersey, and Indiana. While sales tax remains the main source of state government funding, property taxes are the primary source of revenue for local governments. Tourism contributes billions of dollars every year to the state's economy, and Tennessee is ranked among the Top 10 destinations in the nation.
+The tourism industry remains Nevada's largest employer, with mining continuing as a substantial sector of the economy: Nevada is the fourth-largest producer of gold in the world. Mining plays an important role in the economies of the rural counties, with tourism being less prominent. The economy of Nevada is tied to tourism (especially entertainment and gambling related), mining, and cattle ranching. Nevada's industrial outputs are tourism, entertainment, mining, machinery, printing and publishing, food processing, and electric equipment. In portions of the state outside of the Las Vegas and Reno metropolitan areas mining plays a major economic role. Cattle ranching is a major economic activity in rural Nevada. Nevada's agricultural outputs are cattle, hay, alfalfa, dairy products, onions, and potatoes. The state is ranked just below California, Texas, Florida, and New York in the total number of rooms, but those states have much larger populations.
 \Predicted Summary:
-the Confederacy in 1861. Tennessee was the first state to leave the Union at the end of the war . Tennessee was the last state to leave the Union at the outbreak of the American Civil War in 1861 . Tennessee was the first state to join the Confederacy at the outbreak of the American Civil War .
+is a state in the Western United States. Nevada is bordered by Oregon to the northwest, Idaho to the northeast, California to the west, and Arizona to the southeast . Nevada is the 7th-most extensive, but the 9th-least densely populated of the US states . Nevada is officially known as the "Silver State" because of the importance of silver to its history and economy .
 
 GT:
-Large corporations with headquarters in Tennessee include FedEx, AutoZone and International Paper, all based in Memphis; Pilot Corporation and Regal Entertainment Group, based in Knoxville; Eastman Chemical Company, based in Kingsport; Hospital Corporation of America and Caterpillar Financial, based in Nashville; and Unum, based in Chattanooga. Tennessee is also a major hub for the automotive industry. Four automobile manufacturers have factories in Tennessee: Nissan in Smyrna, General Motors in Spring Hill, Van Hool in Morristown, and Volkswagen in Chattanooga. Tennessee has a reputation as low-tax state and is usually ranked as one of the five states with the lowest tax burden on residents. Tourism contributes billions of dollars every year to the state's economy, and Tennessee is ranked among the Top 10 destinations in the nation. Tennessee has played a critical role in the development of many forms of American popular music, including rock and roll, blues, country, and rockabilly.
+Nevada is officially known as the "Silver State" because of the importance of silver to its history and economy. The tourism industry remains Nevada's largest employer, with mining continuing as a substantial sector of the economy: Nevada is the fourth-largest producer of gold in the world. Mining shaped Nevada's economy for many years (see Silver mining in Nevada). The economy of Nevada is tied to tourism (especially entertainment and gambling related), mining, and cattle ranching. Nevada's industrial outputs are tourism, entertainment, mining, machinery, printing and publishing, food processing, and electric equipment. The economy of Nevada has long been tied to vice industries. "[Nevada was] founded on mining and refounded on sin – beginning with prizefighting and easy divorce a century ago and later extending to gaming and prostitution", said the August 21, 2010 issue of The Economist.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.13157894736842105, 0.36363636363636365, 0.1932367149758454, 0.12077294685990338]
-[0.006622516556291391, 0.018518518518518517, 0.00975609756097561, 0.006097560975609757]
-[0.10526315789473684, 0.2909090909090909, 0.15458937198067632, 0.0966183574879227]
+[0.2714285714285714, 0.59375, 0.37254901960784315, 0.23284313725490194]
+[0.16546762589928057, 0.36507936507936506, 0.2277227722772277, 0.14232673267326731]
+[0.1357142857142857, 0.296875, 0.18627450980392157, 0.11642156862745097]
 
 
-SBERT sim. Score: 0.32382872700691223
+SBERT sim. Score: 0.6807775497436523

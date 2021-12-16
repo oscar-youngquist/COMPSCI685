@@ -1,21 +1,21 @@
 Document:
-kansas
+michigan
 
 Intent:
-The main reasons why you would like living in this state
+What about this state's arts and culture attracts you the most?
 
 Input:
-By 2015, Kansas was one of the most productive agricultural states, producing high yields of wheat, corn, sorghum, and soybeans. Kansas, which has an area of 82,278 square miles (213,100 square kilometers) is the 15th-largest state by area and is the 34th most-populous of the 50 states with a population of 2,913,314. Thus, Kansas is the country's ninth or tenth sunniest state, depending on the source. The cities of Olathe, Shawnee, De Soto and Gardner have some of the state's fastest growing populations. To the north, Kansas City, with the second largest land area in the state, contains a number of diverse ethnic neighborhoods. Kansas is ranked eighth in US petroleum production. Kansas is also ranked eighth in US natural gas production. Kansas also has the country's third largest state highway system after Texas and California. Since the mid-20th century, Kansas has remained one of the most socially conservative states in the nation.
+Other Algonquian tribes in Michigan, in the south and east, were the Mascouten, the Menominee, the Miami, the Sac (or Sauk), and the Meskwaki (Fox). Over the years immigrants and migrants contributed greatly to Detroit's diverse urban culture, including popular music trends. 'ers"), and their speech (the "Yooper dialect") has been heavily influenced by the numerous Scandinavian and Canadian immigrants who settled the area during the lumbering and mining boom of the late 19th century. The state has numerous large islands, the principal ones being the North Manitou and South Manitou, Beaver, and Fox groups in Lake Michigan; Isle Royale and Grande Isle in Lake Superior; Marquette, Bois Blanc, and Mackinac islands in Lake Huron; and Neebish, Sugar, and Drummond islands in St. Mary's River. Large European American groups include those of German, British, Irish, Polish and Belgian ancestry. Other museums include the Detroit Historical Museum, the Charles H. Wright Museum of African American History, museums in the Cranbrook Educational Community, and the Arab American National Museum. Michigan musicians include Bill Haley & His Comets, The Supremes, The Marvelettes, The Temptations, The Four Tops, Stevie Wonder, Marvin Gaye "The Prince of Soul", Smokey Robinson and the Miracles, Aretha Franklin, Mary Wells, Tommy James and the Shondells, ? and the Mysterians, Al Green, The Spinners, Grand Funk Railroad, The Stooges, the MC5, The Knack, Madonna "The Queen of Pop", Bob Seger, Ray Parker Jr., Aaliyah, Eminem, Kid Rock, Jack White and Meg White (The White Stripes), Big Sean, Alice Cooper, and Del Shannon. Major theaters in Michigan include the Fox Theatre, Music Hall, Gem Theatre, Masonic Temple Theatre, the Detroit Opera House, Fisher Theatre, The Fillmore Detroit, Saint Andrew's Hall, Majestic Theater, and Orchestra Hall.
 \Predicted Summary:
-,, was a hotbed of violence and chaos in its early days as these forces collided . Kansas is the 15th-largest state by area and is the 34th most-populous of the 50 states . by 2015, Kansas was one of the most productive agricultural states by area .
+in the 17th century, it was claimed as part of new France colony . It was claimed as part of new France colony . the region was once part of the larger Northwest Territory .
 
 GT:
-The legal drinking age in Kansas is 21. Education in Kansas is governed at the primary and secondary school level by the Kansas State Board of Education. Twice since 1999 the Board of Education has approved changes in the state science curriculum standards that encouraged the teaching of intelligent design. Kansas has been the setting of many award-winning and popular American films, as well as being the home of some of the oldest operating cinemas in the world. The Kansas State High School Activities Association (KSHSAA) is the organization which oversees interscholastic competition in the state of Kansas at the high school level. The association is perhaps best known for devising the overtime system now used for almost all football games below the professional level (which has also been adopted at all levels of Canadian football).
+Michigan music is known for three music trends: early punk rock, Motown/soul music and techno music. Michigan musicians include Bill Haley & His Comets, The Supremes, The Marvelettes, The Temptations, The Four Tops, Stevie Wonder, Marvin Gaye "The Prince of Soul", Smokey Robinson and the Miracles, Aretha Franklin, Mary Wells, Tommy James and the Shondells, ? and the Mysterians, Al Green, The Spinners, Grand Funk Railroad, The Stooges, the MC5, The Knack, Madonna "The Queen of Pop", Bob Seger, Ray Parker Jr., Aaliyah, Eminem, Kid Rock, Jack White and Meg White (The White Stripes), Big Sean, Alice Cooper, and Del Shannon. Major theaters in Michigan include the Fox Theatre, Music Hall, Gem Theatre, Masonic Temple Theatre, the Detroit Opera House, Fisher Theatre, The Fillmore Detroit, Saint Andrew's Hall, Majestic Theater, and Orchestra Hall. The Nederlander Organization, the largest controller of Broadway productions in New York City, originated in Detroit. Motown Motion Picture Studios with 535,000 square feet (49,700 m2) produces movies in Detroit and the surrounding area based at the Pontiac Centerpoint Business Campus.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.1386861313868613, 0.41304347826086957, 0.20765027322404372, 0.1297814207650273]
-[0.022058823529411766, 0.06666666666666667, 0.03314917127071823, 0.020718232044198898]
-[0.0948905109489051, 0.2826086956521739, 0.14207650273224043, 0.08879781420765027]
+[0.045454545454545456, 0.25, 0.07692307692307693, 0.04807692307692308]
+[0.0, 0.0, 0.0, 0.0]
+[0.03409090909090909, 0.1875, 0.05769230769230769, 0.036057692307692304]
 
 
-SBERT sim. Score: 0.37154656648635864
+SBERT sim. Score: -0.06503012031316757

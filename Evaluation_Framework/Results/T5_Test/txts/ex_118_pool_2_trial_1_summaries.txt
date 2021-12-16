@@ -1,21 +1,21 @@
 Document:
-pennsylvania
+maine
 
 Intent:
-What about this state's arts and culture attracts you the most?
+What drives the economy in this state?
 
 Input:
-Cities include Philadelphia, Reading, Lebanon and Lancaster in the southeast, Pittsburgh in the southwest, the tri-cities of Allentown, Bethlehem, and Easton in the central east (known as the Lehigh Valley). Pennsylvania's diverse topography also produces a variety of climates, though the entire state experiences cold winters and humid summers. The Commonwealth boasts some of the finest museums in the country, including the Carnegie Museums in Pittsburgh, the Philadelphia Museum of Art, and several others. Pennsylvania offers a number of notable amusement parks, including Camel Beach, Conneaut Lake Park, Dorney Park & Wildwater Kingdom, Dutch Wonderland, DelGrosso's Amusement Park, Hersheypark, Idlewild Park, Kennywood, Knoebels, Lakemont Park, Sandcastle Waterpark, Sesame Place, Great Wolf Lodge and Waldameer Park. There are also notable music festivals that take place in Pennsylvania. These include Musikfest and NEARfest in Bethlehem, the Philadelphia Folk Festival, Creation Festival, the Great Allentown Fair, and Purple Door. Pennsylvania is home to many major league professional sports teams: the Philadelphia Phillies and Pittsburgh Pirates of Major League Baseball, the Philadelphia 76ers of the National Basketball Association, the Pittsburgh Steelers and Philadelphia Eagles of the National Football League, the Philadelphia Flyers and Pittsburgh Penguins of the National Hockey League, and the Philadelphia Union of Major League Soccer. Among the regional foods associated with Philadelphia are cheesesteaks, hoagie, soft pretzels, Italian water ice, Irish potato candy, scrapple, Tastykake, and strombolis.
+Maine's agricultural outputs include poultry, eggs, dairy products, cattle, wild blueberries, apples, maple syrup, and maple sugar. Commercial fishing, once a mainstay of the state's economy, maintains a presence, particularly lobstering and groundfishing. In 2015, 14% of the Northeast's total oyster supply came from Maine. In 2017, the production of Maine's seaweed industry was estimated at $20 million per year. During the 18th and 19th centuries, wooden shipbuilding of this sort made up a sizable portion of the economy. The state is a major producer of potatoes, wild blueberries, apples, maple syrup and sweet corn. Dairy products and chicken's eggs are other major industries.
 \Predicted Summary:
-, the state's capital and its 13th-largest city is Harrisburg . Pennsylvania is the 33rd-largest state by area, and the 5th-most populous state according to the most recent official US Census count in 2010 . Pennsylvania is the 9th-most densely populated of the 50 states .
+the Popham Colony, established by the Plymouth Company in 1607 . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states . Maine is known for its jagged, rocky coastline; low, rolling mountains; heavily forested interior; picturesque waterways .
 
 GT:
-The Commonwealth boasts some of the finest museums in the country, including the Carnegie Museums in Pittsburgh, the Philadelphia Museum of Art, and several others. One unique museum is the Houdini Museum in Scranton, the only building in the world devoted to the legendary magician. There are also notable music festivals that take place in Pennsylvania. These include Musikfest and NEARfest in Bethlehem, the Philadelphia Folk Festival, Creation Festival, the Great Allentown Fair, and Purple Door. Author Sharon Hernes Silverman calls Pennsylvania the snack food capital of the world. It leads all other states in the manufacture of pretzels and potato chips. Among the regional foods associated with Philadelphia are cheesesteaks, hoagie, soft pretzels, Italian water ice, Irish potato candy, scrapple, Tastykake, and strombolis.
+Maine's agricultural outputs include poultry, eggs, dairy products, cattle, wild blueberries, apples, maple syrup, and maple sugar. Commercial fishing, once a mainstay of the state's economy, maintains a presence, particularly lobstering and groundfishing. In 2015, 14% of the Northeast's total oyster supply came from Maine. Maine's industrial outputs consist chiefly of paper, lumber and wood products, electronic equipment, leather products, food products, textiles, and bio-technology. Tourism and outdoor recreation play a major and increasingly important role in Maine's economy. The state is a popular destination for sport hunting (particularly deer, moose and bear), sport fishing, snowmobiling, skiing, boating, camping and hiking, among other activities.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.12903225806451613, 0.3404255319148936, 0.1871345029239766, 0.11695906432748537]
-[0.024390243902439025, 0.06521739130434782, 0.03550295857988166, 0.02218934911242603]
-[0.10483870967741936, 0.2765957446808511, 0.15204678362573099, 0.09502923976608185]
+[0.1, 0.22916666666666666, 0.13924050632911394, 0.0870253164556962]
+[0.009174311926605505, 0.02127659574468085, 0.012820512820512822, 0.008012820512820512]
+[0.08181818181818182, 0.1875, 0.1139240506329114, 0.07120253164556961]
 
 
-SBERT sim. Score: 0.336057186126709
+SBERT sim. Score: 0.40560412406921387

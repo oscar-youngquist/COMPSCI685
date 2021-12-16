@@ -1,21 +1,21 @@
 Document:
-oklahoma
+alaska
 
 Intent:
-What drives the economy in this state?
+How is the government structured in this state?
 
 Input:
-The state ranks third in the nation for production of natural gas, is the 27th-most agriculturally productive state, and also ranks 5th in production of wheat. Oil accounted for 35 billion dollars in Oklahoma's economy in 2007, and employment in the state's oil industry was outpaced by five other industries in 2007. The state is the top manufacturer of tires in North America and contains one of the fastest-growing biotechnology industries in the nation. Tire manufacturing, meat processing, oil and gas equipment manufacturing, and air conditioner manufacturing are the state's largest manufacturing industries. The 27th-most agriculturally productive state, Oklahoma is fifth in cattle production and fifth in production of wheat. The state had 85,500 farms in 2012, collectively producing $4.3 billion in animal products and fewer than one billion dollars in crop output with more than $6.1 billion added to the state's gross domestic product. Poultry and swine are its second- and third-largest agricultural industries.
+Like all other US states, Alaska is governed as a republic, with three branches of government: an executive branch consisting of the governor of Alaska and his or her appointees which head executive departments; a legislative branch consisting of the Alaska House of Representatives and Alaska Senatorte; and a judicial branch consisting of the Alaska Supreme Court and lower courts. The Alaska Legislature consists of a 40-member House of Representatives and a 20-member Senatorte. Six Republicans and four Democrats have served as governor of Alaska. Alaska regularly supports Republicans in presidential elections and has done so since statehood. Republicans have won the state's electoral college votes in all but one election that it has participated in (1964). Alaska is the third state with jungle primaries for all statewide races, the second state with ranked voting, and the only state with both.
 \Predicted Summary:
-, Oklahoma is the 20th-most extensive and the 28th-most populous of the 50 United States . Oklahoma is a state in the South Central region of the United States, bordered by the state of Texas on the south and west . Oklahoma is the 20th-most extensive and the 28th-most populous of the 50 United States .
+is a US state on the northwest extremity of the country's West Coast, just across the Bering Strait . Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined . Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined, and the seventh-largest subnational division in the world .
 
 GT:
-Though oil has historically dominated the state's economy, a collapse in the energy industry during the 1980s led to the loss of nearly 90,000 energy-related jobs between 1980 and 2000, severely damaging the local economy. The government sector provides the most jobs, with 339,300 in 2011, followed by the transportation and utilities sector, providing 279,500 jobs, and the sectors of education, business, and manufacturing, providing 207,800, 177,400, and 132,700 jobs, respectively. In total, aerospace accounts for more than 10 percent of Oklahoma's industrial output, and it is one of the top 10 states in aerospace engine manufacturing. Oklahoma is the nation's third-largest producer of natural gas, and its fifth-largest producer of crude oil. Ten years later in 2019, 53.5 % of electricity was produced from natural gas and 34.6 % from wind power. The 27th-most agriculturally productive state, Oklahoma is fifth in cattle production and fifth in production of wheat. Approximately 5.5 percent of American beef comes from Oklahoma, while the state produces 6.1 percent of American wheat, 4.2 percent of American pig products, and 2.2 percent of dairy products.
+Like all other US states, Alaska is governed as a republic, with three branches of government: an executive branch consisting of the governor of Alaska and his or her appointees which head executive departments; a legislative branch consisting of the Alaska House of Representatives and Alaska Senatorte; and a judicial branch consisting of the Alaska Supreme Court and lower courts. The Alaska Legislature consists of a 40-member House of Representatives and a 20-member Senatorte. Senatortors serve four-year terms and House members two. Alaska's court system has four levels: the Alaska Supreme Court, the Alaska Court of Appeals, the superior courts and the district courts. Although in its early years of statehood Alaska was a Democratic state, since the early 1970s it has been characterized as Republican-leaning. Six Republicans and four Democrats have served as governor of Alaska.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.16243654822335024, 0.5714285714285714, 0.25296442687747034, 0.15810276679841895]
-[0.05102040816326531, 0.18181818181818182, 0.0796812749003984, 0.04980079681274901]
-[0.10152284263959391, 0.35714285714285715, 0.15810276679841895, 0.09881422924901186]
+[0.1619718309859155, 0.2948717948717949, 0.2090909090909091, 0.1306818181818182]
+[0.028368794326241134, 0.05194805194805195, 0.03669724770642202, 0.02293577981651376]
+[0.11267605633802817, 0.20512820512820512, 0.14545454545454545, 0.09090909090909091]
 
 
-SBERT sim. Score: 0.5589789152145386
+SBERT sim. Score: 0.5012855529785156

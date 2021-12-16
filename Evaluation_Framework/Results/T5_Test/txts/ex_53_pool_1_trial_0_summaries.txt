@@ -1,21 +1,21 @@
 Document:
-new_jersey
+montana
 
 Intent:
-How is the government structured in this state?
+What are the available modes of transport in this state?
 
 Input:
-Until 2010, the governor was the only statewide elected executive official in the state and appointed numerous government officials. A 2005 amendment to the state Constitution prevents the Senatorte President from becoming acting governor in the event of a permanent gubernatorial vacancy without giving up her or his seat in the state Senatorte. Each of the 40 legislative districts elects one state senator and two Assembly members. Assembly members are elected for a two-year term in all odd-numbered years; state senators are elected in the years ending in 1, 3, and 7 and thus serve either four- or two-year terms. New Jersey is one of only five states that elects its state officials in odd-numbered years. All are appointed by the governor with the advice and consent of a majority of the membership of the state senate. Depending on the county, the executive and legislative functions may be performed by the Board of Chosen Freeholders or split into separate branches of government. In the other five counties (Atlantic, Bergen, Essex, Hudson and Mercer), there is a directly elected County Executive who performs the executive functions while the Board of Chosen Freeholders retains a legislative and oversight role. Municipalities can also formulate their own unique form of government and operate under a Special Charter with the approval of the New Jersey Legislature. The state's Democratic strongholds include Camden County, Essex County (typically the state's most Democratic county—it includes Newark, the state's largest city), Hudson County (the second-strongest Democratic county, including Jersey City, the state's second-largest city); Mercer County (especially around Trenton and Princeton), Middlesex County, and Union County (including Elizabeth, the state's fourth-largest city).
+A number of smaller spur lines operated in Montana from 1881 into the 20th century, including the Oregon Short Line, Montana Railroad, and Milwaukee Road. Historically, the state was traversed by the main lines of three east–west transcontinental routes: the Milwaukee Road, the Great Northern, and the Northern Pacific. Today, the BNSF Railway is the state's largest railroad, its main transcontinental route incorporating the former Great Northern main line across the state. In addition, Amtrak's Empire Builder train runs through the north of the state, stopping in Libby, Whitefish, West Glacier, Essex, East Glacier Park, Browning, Cut Bank, Shelby, Havre, Malta, Glasgow, and Wolf Point. Historically, US Route 10 was the primary east–west highway route across Montana, connecting the major cities in the southern half of the state. Still the state's most important east–west travel corridor, the route is today served by Interstate 90 and Interstate 94 which roughly follow the same route as the Northern Pacific. Other major north–south highways include US
 \Predicted Summary:
-,, New Jersey, and Newark, New Jersey, helped drive the nation's Industrial Revolution . New Jersey was first inhabited by Native Americans for at least 2,800 years . New Jersey was the second-wealthest state by median household income .
+Montana Territory was added in 1863 to a bill by the United States House Committee on Territories . the name Montana comes from the Latin word montaa, meaning "mountain" or more broadly "mountainous country" the name Montana comes from the Latin word montanea, meaning "mountain" or "mountainous country"
 
 GT:
-The current version of the New Jersey State Constitution was adopted in 1947. It provides for a bicameral New Jersey Legislature, consisting of an upper house Senatorte of 40 members and a lower house General Assembly of 80 members. Each of the 40 legislative districts elects one state senator and two Assembly members. The New Jersey Supreme Court consists of a chief justice and six associate justices. All are appointed by the governor with the advice and consent of a majority of the membership of the state senate. Most of the day-to-day work in the New Jersey courts is carried out in the Municipal Court, where simple traffic tickets, minor criminal offenses, and small civil matters are heard. More serious criminal and civil cases are handled by the Superior Court for each county. The Superior Court also has an Appellate Division, which functions as the state's intermediate appellate court. There is also a Tax Court, which is a court of limited jurisdiction.
+Railroads have been an important method of transportation in Montana since the 1880s. In addition, Amtrak's Empire Builder train runs through the north of the state, stopping in Libby, Whitefish, West Glacier, Essex, East Glacier Park, Browning, Cut Bank, Shelby, Havre, Malta, Glasgow, and Wolf Point. Bozeman Yellowstone International Airport is the busiest airport in the state of Montana, surpassing Billings Logan International Airport in the spring of 2013. Montana's other major airports include Missoula International Airport, Great Falls International Airport, Glacier Park International Airport, Helena Regional Airport, Bert Mooney Airport and Yellowstone Airport. Historically, US Route 10 was the primary east–west highway route across Montana, connecting the major cities in the southern half of the state. Montana's only north–south Interstate Highway is Interstate 15. Highway 212, the primary paved route between the two, passes through the northeast corner of Wyoming between Montana and South Dakota.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.10303030303030303, 0.4473684210526316, 0.16748768472906403, 0.10467980295566501]
-[0.024390243902439025, 0.10810810810810811, 0.03980099502487563, 0.024875621890547265]
-[0.07272727272727272, 0.3157894736842105, 0.11822660098522166, 0.07389162561576355]
+[0.07947019867549669, 0.2553191489361702, 0.1212121212121212, 0.07575757575757576]
+[0.0, 0.0, 0.0, 0.0]
+[0.06622516556291391, 0.2127659574468085, 0.10101010101010104, 0.06313131313131314]
 
 
-SBERT sim. Score: 0.28193923830986023
+SBERT sim. Score: 0.4021786153316498

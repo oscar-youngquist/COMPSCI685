@@ -1,21 +1,21 @@
 Document:
-minnesota
+mississippi
 
 Intent:
-What drives the economy in this state?
+How is the government structured in this state?
 
 Input:
-Logging, farming and railroads were mainstays of Minnesota's early economy. Once primarily a producer of raw materials, Minnesota's economy has transformed to emphasize finished products and services. Although less than one percent of the population is now employed in the agricultural sector, it remains a major part of the state's economy, ranking sixth in the nation in the value of products sold. The state is the nation's largest producer of sugar beets, sweet corn, and peas for processing, and farm-raised turkeys. Minnesota is also a large producer of corn and soybeans, and has the most food cooperatives per capita in the United States. Forestry remains strong, including logging, pulpwood processing and paper production, and forest products manufacturing.
+As with all other US states and the federal government, Mississippi's government is based on the separation of legislative, executive and judicial power. The lieutenant governor, currently Delbert Hosemann (R), is elected on a separate ballot. Both the governor and lieutenant governor are elected to four-year terms of office. Unlike the federal government, but like many other US States, most of the heads of major executive departments are elected by the citizens of Mississippi rather than appointed by the governor. Mississippi is one of five states that elects its state officials in odd-numbered years (the others are Kentucky, Louisiana, New Jersey and Virginia). Mississippi holds elections for these offices every four years, always in the year preceding presidential elections.
 \Predicted Summary:
-,,, and the North Woods, used for mining, forestry, and recreation. Minnesota is a center of the Upper Midwest, Great Lakes, and northern region of the United States . Minnesota is the 12th largest in area and the 22nd most populous of the US states .
+, the Mississippi River, which flows along and defines its western boundary . Mississippi is bordered to the north by Tennessee; to the east by Alabama; to the south by the Gulf of Mexico; to the southwest by Louisiana; and to the northwest by Arkansas . Mississippi is the 32nd largest and 34th-most populous of the 50 US states .
 
 GT:
-Once primarily a producer of raw materials, Minnesota's economy has transformed to emphasize finished products and services. Although less than one percent of the population is now employed in the agricultural sector, it remains a major part of the state's economy, ranking sixth in the nation in the value of products sold. The state is the nation's largest producer of sugar beets, sweet corn, and peas for processing, and farm-raised turkeys. Minnesota is also a large producer of corn and soybeans, and has the most food cooperatives per capita in the United States. Forestry remains strong, including logging, pulpwood processing and paper production, and forest products manufacturing. Although the high-grade ore is now depleted, taconite mining continues, using processes developed locally to save the industry. In 2016 the state produced 60 percent of the country's usable iron ore.
+As with all other US states and the federal government, Mississippi's government is based on the separation of legislative, executive and judicial power. Executive authority in the state rests with the Governor, currently Tate Reeves (R). The lieutenant governor, currently Delbert Hosemann (R), is elected on a separate ballot. Unlike the federal government, but like many other US States, most of the heads of major executive departments are elected by the citizens of Mississippi rather than appointed by the governor. Mississippi is one of five states that elects its state officials in odd-numbered years (the others are Kentucky, Louisiana, New Jersey and Virginia). Mississippi holds elections for these offices every four years, always in the year preceding presidential elections.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.2013888888888889, 0.6744186046511628, 0.31016042780748665, 0.19385026737967911]
-[0.04895104895104895, 0.16666666666666666, 0.07567567567567567, 0.0472972972972973]
-[0.125, 0.4186046511627907, 0.1925133689839572, 0.12032085561497326]
+[0.21487603305785125, 0.45614035087719296, 0.2921348314606741, 0.18258426966292132]
+[0.03333333333333333, 0.07142857142857142, 0.045454545454545456, 0.02840909090909091]
+[0.14049586776859505, 0.2982456140350877, 0.19101123595505617, 0.1193820224719101]
 
 
-SBERT sim. Score: 0.5954465866088867
+SBERT sim. Score: 0.4808560013771057

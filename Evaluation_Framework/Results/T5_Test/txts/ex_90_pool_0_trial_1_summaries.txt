@@ -1,21 +1,21 @@
 Document:
-maine
+south_dakota
 
 Intent:
-How is the government structured in this state?
+What are the available modes of transport in this state?
 
 Input:
-The Maine Constitution structures Maine's state government, composed of three co-equal branches—the executive, legislative, and judicial branches. The state of Maine also has three Constitutional Officers (the Secretary of State, the State Treasurer, and the State Attorney General) and one Statutory Officer (the State Auditor). The legislative branch is the Maine Legislature, a bicameral body composed of the Maine House of Representatives, with 151 members, and the Maine Senatorte, with 35 members. The executive branch is responsible for the execution of the laws created by the Legislature and is headed by the Governor of Maine (currently Janet Mills). The Governor is elected every four years As with other state legislatures, the Maine Legislature can by a two-thirds majority vote from both the House and Senatorte override a gubernatorial veto. Maine is divided into political jurisdictions designated as counties. The state's two members of the United States House of Representatives are Democrats Chellie Pingree and Jared Golden. An organized municipality has a form of elected local government which administers and provides local services, keeps records, collects licensing fees, and can pass locally binding ordinances, among other responsibilities of self-government. Collectively these 488 organized municipalities cover less than half of the state's territory. Administration, services, licensing, and ordinances are handled by the state government as well as by respective county governments who have townships within each county's bounds.
+Two major interstates pass through South Dakota: Interstate 90, which runs east and west through the southern half of the state; and Interstate 29, running north and south in the eastern portion of the state. Several major US highways pass through the state. BNSF Railway is the largest railroad in South Dakota; the Rapid City, Pierre and Eastern Railroad (formerly the Dakota, Minnesota and Eastern) is the state's other major carrier. Other state carriers include Dakota Southern Railway, Dakota and Iowa Railroad, Ellis and Eastern Railroad, Sunflour Railroad, Canadian Pacific Railway, and the Sisseton Milbank Railroad. Rail transportation in the state is mostly freight, but there are two passenger heritage railroads: the Black Hills Central and the Prairie Village, Herman, and Milwaukee. (South Dakota is the only contiguous state that never had Amtrak—Wyoming used to be served by the San Francisco Zephyr and the Pioneer.) Delta Air Lines, Frontier Airlines, and Allegiant Airlines, as well as commuter airlines using the brand affiliation with major airlines serve the two largest airports. Several other cities in the state also have commercial air service: Aberdeen Regional Airport, Pierre Regional Airport, and Watertown Regional Airport, some of which is subsidized by the Essential Air Service program.
 \Predicted Summary:
-the Popham Colony, established by the Plymouth Company in 1607 . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states . Maine is known for its jagged, rocky coastline; low, rolling mountains; heavily forested interior; picturesque waterways .
+is a US state in the Midwestern region of the United States . South Dakota is bisected by the Missouri River, dividing South Dakota into two geographically and socially distinct halves . the state is bisected by the Missouri River, dividing South Dakota into two geographically and socially distinct halves .
 
 GT:
-The Maine Constitution structures Maine's state government, composed of three co-equal branches—the executive, legislative, and judicial branches. The legislative branch is the Maine Legislature, a bicameral body composed of the Maine House of Representatives, with 151 members, and the Maine Senatorte, with 35 members. The executive branch is responsible for the execution of the laws created by the Legislature and is headed by the Governor of Maine (currently Janet Mills). Maine is one of seven states that do not have a lieutenant governor. The judicial branch is responsible for interpreting state laws. The highest court of the state is the Maine Supreme Judicial Court. The lower courts are the District Court, Superior Court and Probate Court. An organized municipality has a form of elected local government which administers and provides local services, keeps records, collects licensing fees, and can pass locally binding ordinances, among other responsibilities of self-government.
+South Dakota has 83,609 miles (134,556 km) of highways, roads, and streets, along with 679 miles (1,093 km) of interstate highways. Two major interstates pass through South Dakota: Interstate 90, which runs east and west through the southern half of the state; and Interstate 29, running north and south in the eastern portion of the state. Railroads have played an important role in South Dakota transportation since the mid-19th century. Some 4,420 miles (7,110 km) of railroad track were built in South Dakota during the late 19th century and early 20th century, but only 1,839 miles (2,960 km) are active. South Dakota's largest commercial airports in terms of passenger traffic are the Sioux Falls Regional Airport and Rapid City Regional Airport. Delta Air Lines, Frontier Airlines, and Allegiant Airlines, as well as commuter airlines using the brand affiliation with major airlines serve the two largest airports.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.10526315789473684, 0.3333333333333333, 0.16, 0.1]
-[0.033112582781456956, 0.10638297872340426, 0.05050505050505052, 0.03156565656565657]
-[0.08552631578947369, 0.2708333333333333, 0.13, 0.08125]
+[0.12903225806451613, 0.4166666666666667, 0.19704433497536947, 0.12315270935960591]
+[0.03896103896103896, 0.1276595744680851, 0.05970149253731343, 0.0373134328358209]
+[0.0967741935483871, 0.3125, 0.14778325123152708, 0.09236453201970443]
 
 
-SBERT sim. Score: 0.3344437777996063
+SBERT sim. Score: 0.48538243770599365

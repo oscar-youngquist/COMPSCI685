@@ -1,21 +1,21 @@
 Document:
-nevada
+utah
 
 Intent:
-What about this state's arts and culture attracts you the most?
+How is the government structured in this state?
 
 Input:
-Nevada ranks second in the United States by the number of mountains, behind Alaska, and ahead of California, Montana, and Washington. In Douglas, Mineral, and Pershing counties, a plurality of residents are of Mexican ancestry. In Nye County and Humboldt County, residents are mostly of German ancestry; Washoe County has many Irish Americans. Americans of English descent form pluralities in Lincoln County, Churchill County, Lyon County, White Pine County, and Eureka County. The city now has one of America's most prolific Asian American communities, with a mostly Chinese and Taiwanese area known as "Chinatown" west of I-15 on Spring Mountain Road. Native American tribes in Nevada are the Koso, Paiute, Panamint, Shoshoni, Walapi, Washoe and Ute tribes. The culture of these places differs significantly from major metropolitan areas. People in these rural counties tend to be native Nevada residents, unlike in the Las Vegas and Reno areas, where the vast majority of the population was born in another state. The great majority of the state's elected officials are from either Las Vegas or Reno. The state is ranked just below California, Texas, Florida, and New York in the total number of rooms, but those states have much larger populations. The MW, West Coast Conference, and Western Athletic Conference all hold their men's and women's tournaments in the area, and the Pac-12 holds its men's tournament there as well.
+Utah is the only state where every county contains some national forest. Utah government is divided into three branches: executive, legislative, and judicial. The governor is elected for a four-year term. The Utah State Legislature consists of a Senatorte and a House of Representatives. State senators serve four-year terms and representatives two-year terms. It consists of five justices, who are appointed by the governor, and then subject to retention election. Utah is divided into political jurisdictions designated as counties. Utah and Hawaii are the only two states in the United States to outlaw all forms of gambling. Utah is one of the most Republican states in the nation. Three more Republicans—Rob Bishop, Chris Stewart, and John Curtis—represent Utah in the United States House of Representatives. Since becoming a state in 1896, Utah has had only two non-Mormon governors.
 \Predicted Summary:
-is a state in the Western United States. Nevada is bordered by Oregon to the northwest, Idaho to the northeast, California to the west, and Arizona to the southeast . Nevada is the 7th-most extensive, but the 9th-least densely populated of the US states . Nevada is officially known as the "Silver State" because of the importance of silver to its history and economy .
+is a state in the Western United States. It is bordered by Colorado to the east, Wyoming to the northeast, Idaho to the north, Arizona to the south and Nevada to the west. Utah is the 13th-largest by area; with a population over three million, it is the 30th-most-populous and 11th-least-densely populated. Disputes between the dominant Mormon community and the federal government delayed the state's admission as a state.
 
 GT:
-Nevada is the only state where prostitution is legal – in a licensed brothel in a county which has specifically voted to permit it. It is illegal in larger jurisdictions such as Clark County (which contains Las Vegas), Washoe County (which contains Reno), and the independent city of Carson City. In 2009, the Nevada Legislature passed a bill creating a domestic partnership registry which enables gay couples to enjoy the same rights as married couples. Nevada has very liberal alcohol laws. Bars are permitted to remain open 24 hours, with no "last call". Liquor stores, convenience stores and supermarkets may also sell alcohol 24 hours per day and may sell beer, wine and spirits. Resort areas like Las Vegas, Reno, Lake Tahoe, and Laughlin attract visitors from around the nation and world. Prostitution is legal in parts of Nevada in licensed brothels, but only counties with populations under 400,000 have the option to legalize it. Although prostitution is not a major part of the Nevada economy, employing roughly 300 women as independent contractors, it is a very visible endeavor.
+Utah government is divided into three branches: executive, legislative, and judicial. The current governor of Utah is Gary Herbert, who was sworn in on August 11, 2009. The governor is elected for a four-year term. The Utah State Legislature consists of a Senatorte and a House of Representatives. State senators serve four-year terms and representatives two-year terms. The Utah Supreme Court is the court of last resort in Utah. It consists of five justices, who are appointed by the governor, and then subject to retention election. The Utah Court of Appeals handles cases from the trial courts. Trial level courts are the district courts and justice courts. All justices and judges, like those on the Utah Supreme Court, are subject to retention election after appointment.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.16759776536312848, 0.46875, 0.24691358024691357, 0.15432098765432098]
-[0.02247191011235955, 0.06349206349206349, 0.03319502074688797, 0.02074688796680498]
-[0.10614525139664804, 0.296875, 0.15637860082304528, 0.0977366255144033]
+[0.234375, 0.4, 0.29556650246305416, 0.18472906403940886]
+[0.015748031496062992, 0.02702702702702703, 0.01990049751243781, 0.012437810945273632]
+[0.1328125, 0.22666666666666666, 0.16748768472906403, 0.10467980295566501]
 
 
-SBERT sim. Score: 0.48894384503364563
+SBERT sim. Score: 0.48705074191093445

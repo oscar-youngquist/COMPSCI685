@@ -1,21 +1,21 @@
 Document:
-illinois
+mississippi
 
 Intent:
 The main reasons why you would like living in this state
 
 Input:
-Illinois has been noted as a microcosm of the entire United States. Agriculture, particularly corn and soybeans, as well as educational institutions and manufacturing centers, figure prominently in Central Illinois. In most years, Illinois is either the first or second state for the highest production of soybeans, with a harvest of 427.7 million bushels (11.64 million metric tons) in 2008, after Iowa's production of 444.82 million bushels (12.11 million metric tons). With a production capacity of 1.5 billion gallons per year, Illinois is a top producer of ethanol, ranking third in the United States in 2011. As of 2011, Illinois is ranked as the 4th-most productive manufacturing state in the country, behind California, Texas, and Ohio. Illinois is ranked 14th in oil production among states, with a daily output of approximately 28,000 barrels (4,500 m3) in 2005. Illinois is ranked second in corn production among US states, and Illinois corn is used to produce 40% of the ethanol consumed in the United States.
+Mississippi is the 32nd largest and 34th-most populous of the 50 US states. With large areas of agriculture and rural towns, Mississippi frequently ranks low among states in measures of health, education, and development, and high in measures of poverty. The rest of the state, primarily north of Interstate 20 not including the prairie regions, consists of mixed pine-hardwood forest, common species being loblolly pine, oaks (e.g., water oak), hickories, sweetgum, and elm. Mississippi has one of the richest fish faunas in the United States, with 204 native fish species. The state capital, Jackson, ranks tenth in the nation in concentration of African-American same-sex couples. The state ranks fifth in the nation in the percentage of Hispanic same-sex couples among all Hispanic households and ninth in the highest concentration of same-sex couples who are seniors. The state is ranked 50th or last place among all the states for health care, according to the Commonwealth Fund, a nonprofit foundation working to advance performance of the health care system. Mississippi had the highest rate of obesity of any US state from 2005 to 2008, and also ranks first in the nation for high blood pressure, diabetes, and adult inactivity. Mississippi, like the rest of its southern neighbors, is a right-to-work state. Mississippi is one of five states that elects its state officials in odd-numbered years (the others are Kentucky, Louisiana, New Jersey and Virginia).
 \Predicted Summary:
-,,,,, and the Michigan Canal (1848) made transportation between the Great Lakes and the Mississippi River valley faster and cheaper . The Illinois and Michigan Canal (1848) made transportation between the Great Lakes and the Mississippi River valley faster and cheaper . the state has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all states .
+, the Mississippi River, which flows along and defines its western boundary . Mississippi is bordered to the north by Tennessee; to the east by Alabama; to the south by the Gulf of Mexico; to the southwest by Louisiana; and to the northwest by Arkansas . Mississippi is the 32nd largest and 34th-most populous of the 50 US states .
 
 GT:
-Illinois is a leader in music education, having hosted the Midwest Clinic International Band and Orchestra Conference since 1946, as well being home to the Illinois Music Educators Association (IMEA), one of the largest professional music educator's organizations in the country. Each summer since 2004, Southern Illinois University Carbondale has played host to the Southern Illinois Music Festival, which presents dozens of performances throughout the region. Past featured artists include the Eroica Trio and violinist David Kim. As one of the United States' major metropolises, all major sports leagues have teams headquartered in Chicago. The state features 13 athletic programs that compete in NCAA Division I, the highest level of US college sports.
+Mississippi has a humid subtropical climate with long, hot and humid summers, and short, mild winters. The temperature varies little statewide in the summer; however, in winter, the region near Mississippi Sound is significantly warmer than the inland portion of the state. Mississippi is heavily forested, with over half of the state's area covered by wild or cultivated trees. Mississippi has six airports with commercial passenger service, the busiest in Jackson (Jackson-Evers International Airport) and one in Gulfport (Gulfport-Biloxi International Airport) Amtrak provides scheduled passenger service along two routes, the Crescent and City of New Orleans. The state is creating a Mississippi Blues Trail, with dedicated markers explaining historic sites significant to the history of blues music, such as Clarksdale's Riverside Hotel, where Bessie Smith died after her auto accident on Highway 61.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.16666666666666666, 0.3064516129032258, 0.21590909090909088, 0.1349431818181818]
-[0.017699115044247787, 0.03278688524590164, 0.022988505747126436, 0.014367816091954023]
-[0.12280701754385964, 0.22580645161290322, 0.1590909090909091, 0.09943181818181818]
+[0.1678832116788321, 0.40350877192982454, 0.23711340206185563, 0.1481958762886598]
+[0.022058823529411766, 0.05357142857142857, 0.03125, 0.01953125]
+[0.11678832116788321, 0.2807017543859649, 0.16494845360824745, 0.10309278350515465]
 
 
-SBERT sim. Score: 0.15692491829395294
+SBERT sim. Score: 0.4669397175312042

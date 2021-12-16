@@ -1,21 +1,21 @@
 Document:
-south_carolina
+montana
 
 Intent:
-The main reasons why you would like living in this state
+What drives the economy in this state?
 
 Input:
-At that time South Carolina had the largest population of Jews in the sixteen states of the United States, mostly based in Savannah and Charleston, the latter being the country's fifth largest city. There are also countless local festivals throughout the state highlighting many cultural traditions, historical events, and folklore. According to the South Carolina Arts Commission, creative industries generate $9.2 billion annually and support over 78,000 jobs in the state. As of 2010, South Carolina is the American state with the highest per capita proportion of citizens who follow the Baháʼí Faith, with 17,559 adherents, making Baháʼí the second-largest religion in the state. Major agricultural outputs of the state are tobacco, poultry, cotton, cattle, dairy products, soybeans, hay, rice, and swine. The state has the fourth largest state-maintained system in the country, consisting of 11 Interstates, numbered highways, state highways, and secondary roads, totalling approximately 41,500 miles.
+It is the fourth-largest state by area, the eighth-least populous state, and the third-least densely populated state. The economy is primarily based on agriculture, including ranching and cereal grain farming. Other significant economic resources include oil, gas, coal, mining, and lumber. The health care, service, and government sectors also are significant to the state's economy. Montana is a relative hub of beer microbrewing, ranking third in the nation in number of craft breweries per capita in 2011. Significant industries exist for lumber and mineral extraction; the state's resources include gold, coal, silver, talc, and vermiculite. Tourism is also important to the economy, with more than ten million visitors a year to Glacier National Park, Flathead Lake, the Missouri River headwaters, the site of the Battle of Little Bighorn, and three of the five entrances to Yellowstone National Park. The state has robust recreational lake trout and kokanee salmon fisheries in the west, walleye can be found in many parts of the state, while northern pike, smallmouth and largemouth bass fisheries as well as catfish and paddlefish can be found in the waters of eastern Montana.
 \Predicted Summary:
-, the first state to vote in favor of secession from the Union on December 20, 1868. South Carolina is a state in the Deep South region of the Southern United States . South Carolina is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia . South Carolina is the 40th most extensive and 23rd most populous US state .
+Montana Territory was added in 1863 to a bill by the United States House Committee on Territories . the name Montana comes from the Latin word montaa, meaning "mountain" or more broadly "mountainous country" the name Montana comes from the Latin word montanea, meaning "mountain" or "mountainous country"
 
 GT:
-As the 21st century progresses, South Carolina has attracted new business by having a 5% corporate income tax rate, no state property tax, no local income tax, no inventory tax, no sales tax on manufacturing equipment, industrial power or materials for finished products; no wholesale tax, and no unitary tax on worldwide profits. South Carolina has many venues for visual and performing arts. There are also numerous historic sites and museums scattered throughout the state paying homage to many events and periods in the state's history from Native American inhabitation to the present day. Many large corporations have moved their locations to South Carolina. South Carolina also benefits from foreign investment. There are 1,950 foreign-owned firms operating in South Carolina employing almost 135,000 people.
+The economy is primarily based on agriculture, including ranching and cereal grain farming. Other significant economic resources include oil, gas, coal, mining, and lumber. The health care, service, and government sectors also are significant to the state's economy. Montana's fastest-growing sector is tourism; nearly 13 million annual tourists visit Glacier National Park, Yellowstone National Park, Beartooth Highway, Flathead Lake, Big Sky Resort, and other attractions. Cattle ranching has been central to Montana's history and economy since Johnny Grant began wintering cattle in the Deer Lodge Valley in the 1850s and traded cattle fattened in fertile Montana valleys with emigrants on the Oregon Trail. Significant industries exist for lumber and mineral extraction; the state's resources include gold, coal, silver, talc, and vermiculite. Tourism is also important to the economy, with more than ten million visitors a year to Glacier National Park, Flathead Lake, the Missouri River headwaters, the site of the Battle of Little Bighorn, and three of the five entrances to Yellowstone National Park.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.203125, 0.3880597014925373, 0.26666666666666666, 0.16666666666666666]
-[0.03937007874015748, 0.07575757575757576, 0.05181347150259067, 0.03238341968911917]
-[0.1171875, 0.22388059701492538, 0.15384615384615385, 0.09615384615384616]
+[0.08284023668639054, 0.2978723404255319, 0.12962962962962965, 0.08101851851851852]
+[0.0, 0.0, 0.0, 0.0]
+[0.05325443786982249, 0.19148936170212766, 0.08333333333333334, 0.052083333333333336]
 
 
-SBERT sim. Score: 0.4550839960575104
+SBERT sim. Score: 0.3019014000892639

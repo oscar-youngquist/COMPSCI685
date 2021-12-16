@@ -1,21 +1,21 @@
 Document:
-south_dakota
+maine
 
 Intent:
-How is the government structured in this state?
+What about this state's arts and culture attracts you the most?
 
 Input:
-Several major US highways pass through the state. Like other US states, the structure of the government of South Dakota follows the same separation of powers as the federal government, with executive, legislative, and judicial branches. The structure of the state government is laid out in the Constitution of South Dakota, the highest law in the state. The constitution may be amended by a majority vote of both houses of the legislature, or by voter initiative. The Governor of South Dakota occupies the executive branch of the state government. The state constitution gives the governor the power to sign into law or veto bills passed by the state legislature, to serve as commander-in-chief of the South Dakota National Guard, to appoint a cabinet, and to commute criminal sentences or to pardon those convicted of crimes. The state legislature is made up of two bodies, the Senatorte, which has 35 members, and the House of Representatives, with 70 members. The state supreme court, with four justices and a chief justice, is the highest court in the state. Since statehood, Republicans have carried the state's electoral votes in all but five presidential elections: 1896, 1912 (by Theodore Roosevelt's Progressive Party), 1932, 1936 and 1964.
+Maine ( (listen)) is a state in the New England region of the Northeastern United States, bordered by New Hampshire to the west; the Atlantic Ocean to the southeast; and the Canadian provinces of New Brunswick and Quebec to the northeast and northwest, respectively. Maine's Moosehead Lake is the largest lake wholly in New England, since Lake Champlain is located between Vermont, New York and Québec. The state is a popular destination for sport hunting (particularly deer, moose and bear), sport fishing, snowmobiling, skiing, boating, camping and hiking, among other activities. Maine was a center of agriculture before it achieved statehood. The state is a major producer of potatoes, wild blueberries, apples, maple syrup and sweet corn. Since the 1980s, the state has gotten a reputation for its local food and restaurant meals.
 \Predicted Summary:
-is a US state in the Midwestern region of the United States . South Dakota is bisected by the Missouri River, dividing South Dakota into two geographically and socially distinct halves . the state is bisected by the Missouri River, dividing South Dakota into two geographically and socially distinct halves .
+the Popham Colony, established by the Plymouth Company in 1607 . Maine is the 12th-smallest by area, the 9th-least populous, and the 13th-least densely populated of the 50 US states . Maine is known for its jagged, rocky coastline; low, rolling mountains; heavily forested interior; picturesque waterways .
 
 GT:
-While several Democrats have represented South Dakota for multiple terms in both chambers of Congress, the state government is largely controlled by the Republican Party, whose nominees have carried South Dakota in each of the last 13 presidential elections. Government spending is another important segment of the state's economy, providing over ten percent of the gross state product. Like other US states, the structure of the government of South Dakota follows the same separation of powers as the federal government, with executive, legislative, and judicial branches. The structure of the state government is laid out in the Constitution of South Dakota, the highest law in the state. The Governor of South Dakota occupies the executive branch of the state government. The state legislature is made up of two bodies, the Senatorte, which has 35 members, and the House of Representatives, with 70 members. South Dakota is divided into 35 legislative districts, with voters electing two representatives and one senator per district. The judicial branch is made up of several levels.
+Acadia National Park is the only national park in New England. Tourism and outdoor recreation play a major and increasingly important role in Maine's economy. The state is a popular destination for sport hunting (particularly deer, moose and bear), sport fishing, snowmobiling, skiing, boating, camping and hiking, among other activities. On November 6, 2012, Maine, along with Maryland and Washington, became the first state to legalize same-sex marriage at the ballot box. Since the 1980s, the state has gotten a reputation for its local food and restaurant meals. Portland was named Bon Appetit magazine's Restaurant City of the Year in 2018.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.15789473684210525, 0.5625, 0.2465753424657534, 0.1541095890410959]
-[0.052941176470588235, 0.19148936170212766, 0.08294930875576036, 0.051843317972350235]
-[0.12280701754385964, 0.4375, 0.19178082191780824, 0.11986301369863014]
+[0.15384615384615385, 0.3333333333333333, 0.21052631578947367, 0.13157894736842105]
+[0.02912621359223301, 0.06382978723404255, 0.04, 0.024999999999999998]
+[0.10576923076923077, 0.22916666666666666, 0.14473684210526316, 0.09046052631578948]
 
 
-SBERT sim. Score: 0.5536648631095886
+SBERT sim. Score: 0.39635169506073

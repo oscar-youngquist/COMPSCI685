@@ -1,21 +1,21 @@
 Document:
-florida
+illinois
 
 Intent:
-What about this state's arts and culture attracts you the most?
+The main reasons why you would like living in this state
 
 Input:
-The state's capital is Tallahassee and its most populous municipality is Jacksonville. Other urban areas in the state with a population of more than one million are Tampa Bay, Orlando, and Jacksonville. The American alligator, American crocodile, American flamingo, Roseate spoonbill, Florida panther, bottlenose dolphin, and manatee can be found in Everglades National Park in the southern part of the state. Those of English and Irish ancestry are present in large numbers in all the urban/suburban areas across the state. Aside from the dominant Cuban and Puerto Rican populations, there are also large populations of Mexicans, Colombians, and Dominicans, among numerous other groups, as most Latino groups have sizable numbers in the state. Aside from blacks descended from African slaves brought to the southern US, there are also large numbers of blacks of West Indian, recent African, and Afro-Latino immigrant origins, especially in the Miami/South Florida area. Twenty-seven percent of Florida's population reports speaking a mother language other than English, and more than 200 first languages other than English are spoken at home in the state. Amusement parks, especially in the Greater Orlando area, make up a significant portion of tourism.
+Illinois has been noted as a microcosm of the entire United States. Agriculture, particularly corn and soybeans, as well as educational institutions and manufacturing centers, figure prominently in Central Illinois. In most years, Illinois is either the first or second state for the highest production of soybeans, with a harvest of 427.7 million bushels (11.64 million metric tons) in 2008, after Iowa's production of 444.82 million bushels (12.11 million metric tons). With a production capacity of 1.5 billion gallons per year, Illinois is a top producer of ethanol, ranking third in the United States in 2011. As of 2011, Illinois is ranked as the 4th-most productive manufacturing state in the country, behind California, Texas, and Ohio. Illinois is ranked 14th in oil production among states, with a daily output of approximately 28,000 barrels (4,500 m3) in 2005. Illinois is ranked second in corn production among US states, and Illinois corn is used to produce 40% of the ethanol consumed in the United States.
 \Predicted Summary:
-is the second largest state in the world. Florida is the third-most populous and the 22nd-most extensive of the 50 United States. Florida is the third-most populous state in the southeastern region of the United States. Florida is the principal location of the Seminole Wars (1816 – 1858), the longest and most extensive of Indian Wars in United States history. Florida was restored to the Union on January 10, 1861.
+,,,,, and the Michigan Canal (1848) made transportation between the Great Lakes and the Mississippi River valley faster and cheaper . The Illinois and Michigan Canal (1848) made transportation between the Great Lakes and the Mississippi River valley faster and cheaper . the state has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all states .
 
 GT:
-Today, Florida is distinctive for its large Cuban expatriate community and high population growth, as well as for its increasing environmental issues. The state's close proximity to the ocean influences many aspects of Florida culture and daily life. Florida is a reflection of influences and multiple inheritance; African, European, indigenous, Latino, and Asian heritages can be found in the architecture and cuisine. Florida has attracted many writers such as Marjorie Kinnan Rawlings, Ernest Hemingway and Tennessee Williams, and continues to attract celebrities and athletes. Twenty percent of the population speak Spanish as their first language. Twenty-seven percent of Florida's population reports speaking a mother language other than English, and more than 200 first languages other than English are spoken at home in the state.
+Illinois is a leader in music education, having hosted the Midwest Clinic International Band and Orchestra Conference since 1946, as well being home to the Illinois Music Educators Association (IMEA), one of the largest professional music educator's organizations in the country. Each summer since 2004, Southern Illinois University Carbondale has played host to the Southern Illinois Music Festival, which presents dozens of performances throughout the region. Past featured artists include the Eroica Trio and violinist David Kim. As one of the United States' major metropolises, all major sports leagues have teams headquartered in Chicago. The state features 13 athletic programs that compete in NCAA Division I, the highest level of US college sports.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.1889763779527559, 0.3333333333333333, 0.24120603015075376, 0.1507537688442211]
-[0.047619047619047616, 0.08450704225352113, 0.06091370558375634, 0.03807106598984772]
-[0.12598425196850394, 0.2222222222222222, 0.16080402010050251, 0.10050251256281406]
+[0.16666666666666666, 0.3064516129032258, 0.21590909090909088, 0.1349431818181818]
+[0.017699115044247787, 0.03278688524590164, 0.022988505747126436, 0.014367816091954023]
+[0.12280701754385964, 0.22580645161290322, 0.1590909090909091, 0.09943181818181818]
 
 
-SBERT sim. Score: 0.48889079689979553
+SBERT sim. Score: 0.15692491829395294

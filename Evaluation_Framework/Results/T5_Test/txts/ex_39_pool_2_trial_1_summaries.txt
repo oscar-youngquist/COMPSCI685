@@ -1,21 +1,21 @@
 Document:
-south_dakota
+massachusetts
 
 Intent:
-What drives the economy in this state?
+The main reasons why you would like living in this state
 
 Input:
-West of the Missouri River, ranching is the predominant agricultural activity, and the economy is more dependent on tourism and defense spending. The service industry is the largest economic contributor in South Dakota. Although other industries have expanded rapidly in recent decades, agricultural production is still very important to the state's economy, especially in rural areas. The five most valuable agricultural products in South Dakota are cattle, corn (maize), soybeans, wheat, and hogs. Agriculture-related industries such as meat packing and ethanol production also have a considerable economic impact on the state. South Dakota is the sixth leading ethanol-producing state in the nation. In 2006, tourism provided an estimated 33,000 jobs in the state and contributed over two billion dollars to the economy of South Dakota. Several major US highways pass through the state.
+The state has been ranked as one of the top states in the United States for citizens to live in, as well as one of the most expensive. Massachusetts is the 7th-smallest state in the United States. While manufacturing comprised less than 10% of Massachusetts's gross state product in 2016, the Commonwealth ranked 16th in the nation in total manufacturing output in the United States. Massachusetts is the second-largest cranberry-producing state in the union after Wisconsin. The Bay State ranked number one in education, number two in healthcare, and number five in the handling of the economy. Massachusetts generally ranks highly among states in most health and disease prevention categories. The state is home to two Division I FBS teams, Boston College of the Atlantic Coast Conference, and FBS Independent University of Massachusetts at Amherst.
 \Predicted Summary:
-is a US state in the Midwestern region of the United States . South Dakota is bisected by the Missouri River, dividing South Dakota into two geographically and socially distinct halves . the state is bisected by the Missouri River, dividing South Dakota into two geographically and socially distinct halves .
+, the,,, and. Supreme J. Massachusetts, is the most populous state in the Northeastern United States. Massachusetts is the capital of Massachusetts. Massachusetts is the most populous state in the Northeastern United States. Massachusetts borders on the Atlantic Ocean to the east, the states of Connecticut and Rhode Island to the south, and New Hampshire and Vermont to the west. Massachusetts is the capital of Massachusetts.
 
 GT:
-The tourism industry has grown considerably since the completion of the interstate system in the 1960s, with the Black Hills becoming more important as a destination. The financial service industry began to grow in the state as well, with Citibank moving its credit card operations from New York to Sioux Falls in 1981, a move that has been followed by several other financial companies. South Dakota was the first state to eliminate caps on interest rates. The service industry is the largest economic contributor in South Dakota. Government spending is another important segment of the state's economy, providing over ten percent of the gross state product. Another important sector in South Dakota's economy is tourism. In 2006, tourism provided an estimated 33,000 jobs in the state and contributed over two billion dollars to the economy of South Dakota.
+Modern Massachusetts is a global leader in biotechnology, engineering, higher education, finance, and maritime trade. Massachusetts is the fastest-growing state in New England and the 25th fastest-growing state in the United States. Population growth was largely due to a relatively high quality of life and a large higher education system in the state. Foreign immigration is also a factor in the state's population growth, causing the state's population to continue to grow as of the 2010 Census (particularly in Massachusetts gateway cities where costs of living are lower). Massachusetts was the first state in North America to require municipalities to appoint a teacher or establish a grammar school with the passage of the Massachusetts Education Law of 1647, and 19th century reforms pushed by Horace Mann laid much of the groundwork for contemporary universal public education which was established in 1852. In 2013, Massachusetts scored highest of all the states in math and third-highest in reading on the National Assessment of Educational Progress. Massachusetts' public-school students place among the top tier in the world in academic performance. CNBC's list of "Top States for Business for 2014" has recognized Massachusetts as the 25th-best state in the nation for business, and for the second year in a row the state was ranked by Bloomberg as the most innovative state in America. According to a 2013 study by Phoenix Marketing International, Massachusetts had the sixth-largest number of millionaires per capita in the United States, with a ratio of 6.73 percent.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.16312056737588654, 0.4791666666666667, 0.24338624338624343, 0.15211640211640215]
-[0.04285714285714286, 0.1276595744680851, 0.06417112299465241, 0.04010695187165776]
-[0.11347517730496454, 0.3333333333333333, 0.1693121693121693, 0.1058201058201058]
+[0.17898832684824903, 0.7076923076923077, 0.28571428571428575, 0.17857142857142858]
+[0.046875, 0.1875, 0.075, 0.046875]
+[0.11673151750972763, 0.46153846153846156, 0.18633540372670807, 0.11645962732919256]
 
 
-SBERT sim. Score: 0.46555113792419434
+SBERT sim. Score: 0.6422903537750244

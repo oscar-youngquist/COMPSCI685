@@ -1,21 +1,21 @@
 Document:
-hawaii
+florida
 
 Intent:
-What drives the economy in this state?
+The main reasons why you would like living in this state
 
 Input:
-Of the fifty US states, Hawaii is the eighth-smallest in area and the 11th-least populous, but with 1.4 million residents is the 13th-most densely populated. Consequently, the state is a unique melting pot of Southeast Asian, East Asian and North American cultures, in addition to its indigenous Hawaiian culture. Historically dominated by a plantation economy, Hawaii remains a major agricultural exporter due to its fertile soil and uniquely tropical climate in the US Its economy has gradually diversified since the mid 20th century, with tourism and military defense becoming the two largest sectors. The state attracts tourists, surfers, and scientists from around the world with its diverse natural scenery, warm tropical climate, abundance of public beaches, oceanic surroundings, active volcanoes, and clear skies on the Big Island. The history of Hawaii's economy can be traced through a succession of dominant industries: sandalwood, whaling, sugarcane, pineapple, the military, tourism and education. Since statehood in 1959, tourism has been the largest industry, contributing 24.3% of the gross state product (GSP) in 1997, despite efforts to diversify. These industries play a small role in the Hawaiian economy, due to the shipping distance to viable markets, such as the West Coast of the contiguous US The state's food exports include coffee, macadamia nuts, pineapple, livestock, sugarcane and honey. By weight, honey bees may be the state's most valuable export. Some major towns are Hilo
+Other urban areas in the state with a population of more than one million are Tampa Bay, Orlando, and Jacksonville. It is the flattest state in the United States, and Lake Okeechobee is its largest freshwater lake. With a population of more than 18 million, according to the 2010 census, Florida is the most populous state in the southeastern United States and the third-most populous in the United States. Florida is one of the largest states east of the Mississippi River, and only Alaska and Michigan are larger in water area. This is the third-most diverse state in the union, behind California and Texas, both larger states. Those of English and Irish ancestry are present in large numbers in all the urban/suburban areas across the state. Because of this, the area has consistently voted as one of the most Democratic areas of the state.
 \Predicted Summary:
-, Hawaii is the fourth longest in the US, at about 750 miles (1,210 km) of the island of O'ahu, home to the state's capital and largest city, Honolulu . Hawaii is the only state outside North America, the only island state, and the only state in the tropics .
+is the second largest state in the world. Florida is the third-most populous and the 22nd-most extensive of the 50 United States. Florida is the third-most populous state in the southeastern region of the United States. Florida is the principal location of the Seminole Wars (1816 – 1858), the longest and most extensive of Indian Wars in United States history. Florida was restored to the Union on January 10, 1861.
 
 GT:
-Historically dominated by a plantation economy, Hawaii remains a major agricultural exporter due to its fertile soil and uniquely tropical climate in the US Its economy has gradually diversified since the mid 20th century, with tourism and military defense becoming the two largest sectors. Hawaii hosts the US Pacific Fleet, the largest naval command in the world, as well as 75,000 employees of the Defense Department. By weight, honey bees may be the state's most valuable export. According to the Hawaii Agricultural Statistics Service, agricultural sales were US$370.9 million from diversified agriculture, US$100.6 million from pineapple, and US$64.3 million from sugarcane. Hawaii's relatively consistent climate has attracted the seed industry, which is able to test three generations of crops per year on the islands, compared with one or two on the mainland. Tourism is an important part of the Hawaiian economy. In 2003, according to state government data, there were more than 6.4 million visitors, with expenditures of over $10 billion, to the Hawaiian Islands.
+Due to its subtropical and tropical climate, Florida rarely receives measurable snowfall. Florida is host to many types of wildlife including: Florida is a low per capita energy user. Florida's economy ranks among the largest in the world. Tourism makes up one of the largest sectors of the state economy, with nearly 1.4 million people employed in the tourism industry in 2016 (a record for the state, surpassing the 1.2 million employment from 2015). Florida has the largest collection of Art Deco and Streamline Moderne buildings, both in the United States and in the entire world, most of which are located in the Miami metropolitan area, especially Miami Beach's Art Deco District, constructed as the city was becoming a resort destination. Florida overall was ranked the 7th best state in America for educating students at all levels by US News & World Report in 2018. Florida has three NFL teams, two MLB teams, two NBA teams, two NHL teams, and two MLS teams.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.15428571428571428, 0.54, 0.24, 0.15]
-[0.04597701149425287, 0.16326530612244897, 0.07174887892376682, 0.04484304932735426]
-[0.09714285714285714, 0.34, 0.1511111111111111, 0.09444444444444444]
+[0.2289156626506024, 0.5277777777777778, 0.31932773109243695, 0.19957983193277315]
+[0.06060606060606061, 0.14084507042253522, 0.08474576271186442, 0.05296610169491526]
+[0.15060240963855423, 0.3472222222222222, 0.2100840336134454, 0.13130252100840337]
 
 
-SBERT sim. Score: 0.505904495716095
+SBERT sim. Score: 0.5829105377197266

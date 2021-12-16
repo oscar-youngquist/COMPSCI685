@@ -1,21 +1,21 @@
 Document:
-tennessee
+rhode_island
 
 Intent:
-How is the government structured in this state?
+What about this state's arts and culture attracts you the most?
 
 Input:
-This reduced competition in politics in the state until after passage of civil rights legislation in the mid-20th century, although unlike in the Deep South, Tennessee Republicans always expected at least a third of the vote in statewide elections via East Tennessee and Highland Rim Unionists. When a constitutional convention met in 1796 to organize a new state out of the Southwest Territory, it adopted "Tennessee" as the name of the state. The state constitution allows no more than two justices of the five-member Tennessee Supreme Court to be from one Grand Division and a similar rule applies to certain commissions and boards. Similar to the United States Federal Government, Tennessee's government has three parts. The governor is the only official who is elected statewide. Unlike most states, the state does not elect the lieutenant governor directly; the Tennessee Senatorte elects its Speaker, who serves as lieutenant governor. The bicameral Legislative Branch, known as the Tennessee General Assembly, consists of the 33-member Senatorte and the 99-member House of Representatives. The speaker of the state Senatorte also holds the title of lieutenant governor. In the early 1900s, the state legislature approved a form of commission government for cities based on at-large voting for a few positions on a Board of Commission; several cities adopted this as another means to limit African-American political participation. It also required both houses of state legislatures to be based on population for representation and not geographic districts such as counties. Tennessee's Constitution requires that each County have an elected Sheriff.
+Rhode Island was the Democrats' leading state in 1988 and 2000, and second-best in 1968, 1996, and 2004. Additionally, the state also has the highest percentage of Liberian immigrants, with more than 15,000 residing in the state. Notable villages include Kingston in the town of South Kingstown, which houses the University of Rhode Island; Wickford in the town of North Kingstown, the site of an annual international art festival; and Wakefield where the Town Hall is located for the Town of South Kingstown. Second is tourism, supporting 39,000 jobs, with tourism-related sales at $4.56 billion (adjusted to inflation) in the year 2000. Since its construction in 1980, it has been featured in several movies and television shows, and has come to be recognized as a cultural landmark by many locals. From 1930 to 1983, America's Cup races were sailed off Newport, and the extreme-sport X Games and Gravity Games were founded and hosted in the state's capital city.
 \Predicted Summary:
-the Confederacy in 1861. Tennessee was the first state to leave the Union at the end of the war . Tennessee was the last state to leave the Union at the outbreak of the American Civil War in 1861 . Tennessee was the first state to join the Confederacy at the outbreak of the American Civil War .
+, Rhode Island, was the first of the Thirteen Colonies to renounce its allegiance to the British Crown . Rhode Island is the smallest US state by area and the seventh least populous (1,059,361 as of 2019) but is also the second most densely populated behind New Jersey . the state's official name is "The Ocean State", a reference to the large bays and inlets that amount to about 14 percent of its total area .
 
 GT:
-Similar to the United States Federal Government, Tennessee's government has three parts. The Executive Branch is led by Tennessee's governor, who holds office for a four-year term and may serve a maximum of two consecutive terms. Unlike most states, the state does not elect the lieutenant governor directly; the Tennessee Senatorte elects its Speaker, who serves as lieutenant governor. The Executive Branch also includes several agencies, boards and commissions, some of which are under the auspices of one of the cabinet-level departments. The bicameral Legislative Branch, known as the Tennessee General Assembly, consists of the 33-member Senatorte and the 99-member House of Representatives. The highest court in Tennessee is the state Supreme Court. It has a chief justice and four associate justices. A number of local, circuit, and federal courts provide judicial services. Tennessee's current state constitution was adopted in 1870.
+The East Bay Bike Path stretches from Providence to Bristol along the eastern shore of Narragansett Bay, while the Blackstone River Bikeway will eventually link Providence and Worcester. Some Rhode Islanders speak with the distinctive, non-rhotic, traditional Rhode Island accent that many compare to a cross between the New York City and Boston accents (e.g., "water" sounds like "watuh" [ˈwɔəɾə]). Rhode Island, like the rest of New England, has a tradition of clam chowder. A culinary tradition in Rhode Island is the clam cake (also known as a clam fritter outside of Rhode Island), a deep fried ball of buttery dough with chopped bits of clam inside. Submarine sandwiches are called grinders throughout Rhode Island, and the Italian grinder is especially popular, made with cold cuts such as ham, prosciutto, capicola, salami, and Provolone cheese. Additionally, the large number of beaches in Washington County lures many Rhode Islanders south for summer vacation.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.17567567567567569, 0.4727272727272727, 0.2561576354679803, 0.16009852216748768]
-[0.013605442176870748, 0.037037037037037035, 0.01990049751243781, 0.012437810945273629]
-[0.12162162162162163, 0.32727272727272727, 0.17733990147783252, 0.11083743842364534]
+[0.18831168831168832, 0.38666666666666666, 0.2532751091703057, 0.15829694323144108]
+[0.0392156862745098, 0.08108108108108109, 0.05286343612334802, 0.03303964757709252]
+[0.11038961038961038, 0.22666666666666666, 0.148471615720524, 0.09279475982532752]
 
 
-SBERT sim. Score: 0.3504485785961151
+SBERT sim. Score: 0.45026904344558716

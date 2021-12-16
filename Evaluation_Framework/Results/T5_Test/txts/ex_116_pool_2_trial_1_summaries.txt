@@ -1,21 +1,21 @@
 Document:
-ohio
+florida
 
 Intent:
-How is the government structured in this state?
+What are the available modes of transport in this state?
 
 Input:
-The government of Ohio is composed of the executive branch, led by the governor; the legislative branch, consisting of the bicameral Ohio General Assembly; and the judicial branch, led by the state Supreme Court. The state is known for its status as both a swing state and a bellwether in national elections. The state government of Ohio consists of the executive, judicial, and legislative branches. The Ohio General Assembly is a bicameral legislature consisting of the Senatorte and House of Representatives. The governor, Mike DeWine, is Republican, as well as all other non-judicial statewide elected officials, including Lieutenant Governor Jon A. Husted, Attorney General Dave Yost, State Auditor Keith Faber, Secretary of State Frank LaRose and State Treasurer Robert Sprague. In the Ohio State Senatorte the Republicans are the majority, 24–9, and in the Ohio House of Representatives the Republicans control the delegation 61–38.
+The state is bordered to the west by the Gulf of Mexico, to the northwest by Alabama, to the north by Georgia, to the east by the Atlantic Ocean, and to the south by the Straits of Florida. In the pre-automobile era, railroads played a key role in the state's development, particularly in coastal areas. Numerous other railroads were built all over the interior of the state. The Econ River flows through Osceola, Orange, and Seminole counties in Central Florida, just east of the Orlando Metropolitan Area (east of State Road 417). The fast-growing I-4 corridor area, which runs through Central Florida and connects the cities of Daytona Beach, Orlando, and Tampa/St. Florida has many seaports that serve container ships, tank ships, and cruise lines. Major ports in Florida include Port Tampa Bay in Tampa, Port Everglades in Fort Lauderdale, Port of Jacksonville in Jacksonville, PortMiami in Miami, Port Canaveral in Brevard County, Port Manatee in Manatee County, and Port of Palm Beach in Riviera Beach. Florida's highway system contains 1,495 mi (2,406 km) of interstate highway, and 10,601 mi (17,061 km) of non-interstate highway, such as state highways and US Florida's interstates, state highways, and US Highways are maintained by the Florida Department of Transportation. Intercity bus travel, which utilizes Florida's highway system, is provided by Greyhound, Megabus, and Amtrak Thruway Motorcoach.
 \Predicted Summary:
-the first post-colonial free state admitted to the union on March 1, 1803 . Ohio is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated . Ohio is known for its status as both a swing state and a bellwether in national elections .
+is the second largest state in the world. Florida is the third-most populous and the 22nd-most extensive of the 50 United States. Florida is the third-most populous state in the southeastern region of the United States. Florida is the principal location of the Seminole Wars (1816 – 1858), the longest and most extensive of Indian Wars in United States history. Florida was restored to the Union on January 10, 1861.
 
 GT:
-The state government of Ohio consists of the executive, judicial, and legislative branches. The executive branch is headed by the governor of Ohio. A lieutenant governor succeeds the governor in the event of any removal from office, and performs any duties assigned by the governor. There are three levels of the Ohio state judiciary. The lowest level is the court of common pleas: each county maintains its own constitutionally mandated court of common pleas, which maintain jurisdiction over "all justiciable matters". The state's highest-ranking court is the Ohio Supreme Court. The Ohio General Assembly is a bicameral legislature consisting of the Senatorte and House of Representatives.
+In the pre-automobile era, railroads played a key role in the state's development, particularly in coastal areas. Numerous other railroads were built all over the interior of the state. Florida has many seaports that serve container ships, tank ships, and cruise lines. Major ports in Florida include Port Tampa Bay in Tampa, Port Everglades in Fort Lauderdale, Port of Jacksonville in Jacksonville, PortMiami in Miami, Port Canaveral in Brevard County, Port Manatee in Manatee County, and Port of Palm Beach in Riviera Beach. As of 2013, Port Tampa Bay ranks 16th in the United States by tonnage in domestic trade, 32nd in foreign trade, and 22nd in total trade. Florida's highway system contains 1,495 mi (2,406 km) of interstate highway, and 10,601 mi (17,061 km) of non-interstate highway, such as state highways and US Intercity bus travel, which utilizes Florida's highway system, is provided by Greyhound, Megabus, and Amtrak Thruway Motorcoach. Before the construction of routes under the Federal Aid Highway Act of 1956, Florida began construction of a long cross-state toll road, Florida's Turnpike. Florida has 131 public airports. Florida's seven large hub and medium hub airports, as classified by the FAA, are the following:
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.18518518518518517, 0.3508771929824561, 0.24242424242424246, 0.1515151515151515]
-[0.018691588785046728, 0.03571428571428571, 0.02453987730061349, 0.015337423312883434]
-[0.12037037037037036, 0.22807017543859648, 0.1575757575757576, 0.0984848484848485]
+[0.14903846153846154, 0.4305555555555556, 0.22142857142857145, 0.13839285714285712]
+[0.028985507246376812, 0.08450704225352113, 0.04316546762589928, 0.026978417266187053]
+[0.10576923076923077, 0.3055555555555556, 0.15714285714285714, 0.09821428571428571]
 
 
-SBERT sim. Score: 0.4072110056877136
+SBERT sim. Score: 0.4610399007797241

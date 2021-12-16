@@ -1,21 +1,21 @@
 Document:
-florida
+massachusetts
 
 Intent:
-What drives the economy in this state?
+How is the government structured in this state?
 
 Input:
-The state's economy relies mainly on tourism, agriculture, and transportation, which developed in the late 19th century. Florida's energy production is 6% of the nation's total energy output, while total production of pollutants is lower, with figures of 6% for nitrogen oxide, 5% for carbon dioxide, and 4% for sulfur dioxide. Tourism makes up one of the largest sectors of the state economy, with nearly 1.4 million people employed in the tourism industry in 2016 (a record for the state, surpassing the 1.2 million employment from 2015). Agriculture is the second largest industry in the state. The largest farm category by sales in Florida is the $2.3 billion ornamental industry, which includes nursery, greenhouse, flowers, and sod products. The state produces about 75% of the phosphate required by farmers in the United States and 25% of the world supply, with about 95% used for agriculture (90% for fertilizer and 5% for livestock feed supplements) and 5% used for other products.
+The Government of Massachusetts is divided into three branches: executive, legislative, and judicial. The executive branch also includes the Executive Council, which is made up of eight elected councilors and the Lieutenant Governor seat, currently occupied by Karyn Polito, a Republican from Shrewsbury). The Massachusetts Supreme Judicial Court (a chief justice and six associates) are appointed by the governor and confirmed by the executive council, as are all other judges in the state. Despite the state's Democratic-leaning tendency, Massachusetts has generally elected Republicans as Governor: only one Democrat (Deval Patrick) has served as governor since 1991, and among gubernatorial election results from 2002 to 2018, Republican nominees garnered 48.4% of the vote compared to 45.7% for Democratic nominees. In this structure, incorporated towns—as opposed to townships or counties—hold many of the responsibilities and powers of local government. The voters of these now-defunct counties elect only Sheriffs and Registers of Deeds, who are part of the state government.
 \Predicted Summary:
-is the second largest state in the world. Florida is the third-most populous and the 22nd-most extensive of the 50 United States. Florida is the third-most populous state in the southeastern region of the United States. Florida is the principal location of the Seminole Wars (1816 – 1858), the longest and most extensive of Indian Wars in United States history. Florida was restored to the Union on January 10, 1861.
+, the,,, and. Supreme J. Massachusetts, is the most populous state in the Northeastern United States. Massachusetts is the capital of Massachusetts. Massachusetts is the most populous state in the Northeastern United States. Massachusetts borders on the Atlantic Ocean to the east, the states of Connecticut and Rhode Island to the south, and New Hampshire and Vermont to the west. Massachusetts is the capital of Massachusetts.
 
 GT:
-Historically, Florida's economy has been based primarily upon agricultural products such as cattle, sugar cane, citrus fruits, tomatoes, and strawberries. In the 20th century, tourism, industry, construction, international banking, biomedical and life sciences, healthcare research, simulation training, aerospace and defense, and commercial space travel have contributed to the state's economic development. The five largest sectors of employment in Florida are: trade, transportation, and utilities; government; professional and business services; education and health services; and leisure and hospitality. In output, the five largest sectors are: finance, insurance, real estate, rental, and leasing, followed by professional and business services; government and government enterprises; educational services, health care, and social assistance; and retail trade. In 2017, Florida became the United States' eighth largest exporter of trade goods. In 2017, Florida became the United States' tenth largest importer of trade goods. The value of Florida's imports equals 3.2% of United States' overall imported products for 2017.
+The Government of Massachusetts is divided into three branches: executive, legislative, and judicial. The governor of Massachusetts heads the executive branch; duties of the governor include signing or vetoing legislation, filling judicial and agency appointments, granting pardons, preparing an annual budget, and commanding the Massachusetts National Guard. The House consists of 160 members while the Senatorte has 40 members. The Massachusetts Supreme Judicial Court (a chief justice and six associates) are appointed by the governor and confirmed by the executive council, as are all other judges in the state. The Congressional delegation from Massachusetts is entirely Democratic. Federal court cases are heard in the United States District Court for the District of Massachusetts, and appeals are heard by the United States Court of Appeals for the First Circuit. Massachusetts has gradually shifted from a Republican-leaning state to one largely dominated by Democrats; the 1952 victory of John F. Kennedy over incumbent Senatortor Henry Cabot Lodge, Jr. is seen as a watershed moment in this transformation.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.1858974358974359, 0.4027777777777778, 0.2543859649122807, 0.15899122807017543]
-[0.03870967741935484, 0.08450704225352113, 0.05309734513274336, 0.033185840707964605]
-[0.11538461538461539, 0.25, 0.15789473684210525, 0.09868421052631579]
+[0.23493975903614459, 0.6, 0.33766233766233766, 0.21103896103896103]
+[0.05454545454545454, 0.140625, 0.07860262008733625, 0.04912663755458515]
+[0.13855421686746988, 0.35384615384615387, 0.19913419913419914, 0.12445887445887445]
 
 
-SBERT sim. Score: 0.5149208903312683
+SBERT sim. Score: 0.5088699460029602

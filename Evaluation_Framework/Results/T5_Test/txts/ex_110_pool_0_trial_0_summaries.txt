@@ -1,21 +1,21 @@
 Document:
-missouri
+west_virginia
 
 Intent:
-What are the available modes of transport in this state?
+What drives the economy in this state?
 
 Input:
-The expansion of railroads to the West transformed Kansas City into a major transportation hub within the nation. Southern Missouri has the Springfield–Branson National Airport (SGF) with multiple non-stop destinations. Kansas City is a major railroad hub for BNSF Railway, Norfolk Southern Railway, Kansas City Southern Railway, and Union Pacific Railroad, and every class 1 railroad serves Missouri. Kansas City is the second-largest freight rail center in the US (but is first in the amount of tonnage handled). Amtrak passenger trains serve Kansas City, La Plata, Jefferson City, St. Louis, Lee's Summit, Independence, Warrensburg, Hermann, Washington, Kirkwood, Sedalia, and Poplar Bluff. It serves as a hub center/station for MetroLink, the MetroBus regional bus system, Greyhound, Amtrak, and taxi services. Greyhound and Trailways provide inter-city bus service in Missouri.
+West Virginia is the 41st-largest state by area and ranks 38th in population, with around 1.791 million residents. The state is noted for its mountains and rolling hills, its historically significant logging and coal mining industries, and its political and labor history. The native vegetation for most of the state was originally mixed hardwood forest of oak, chestnut, maple, beech, and white pine, with willow and American sycamore along the state's waterways. Tourism contributed $4.27 billion to the state's economy and employed 44,400 people in 2010, making it one of the state's largest industries. In addition to such outdoor recreation opportunities, the state offers a number of historic and cultural attractions. According to the Energy Information Administration, West Virginia is a top coal-producer in the United States, second only to Wyoming. West Virginia produces a surplus of electricity and leads the Nation in net interstate electricity exports. The state lost 5,600 jobs in its labor force in four critical economic sectors: construction (1,900), manufacturing (1,100), retail (1,800), and education (800), while gaining just 400 in mining and logging.
 \Predicted Summary:
-, the French established Louisiana in 1735 and St. Louis in 1764. The French established Louisiana, a part of New France, founding Ste. Genevieve in 1735 and St. Louis in 1764. Missouri is a state in the Midwestern United States. With more than six million residents, it is the 18th-most populous state of the country.
+is a state in the Appalachian and Mid-Atlantic regions of the Southern United States . West Virginia is the 41st-largest state by area and ranks 38th in population . it is bordered by Pennsylvania to the northeast, Maryland to the east and northeast, Kentucky to the southeast, and Ohio to the northwest .
 
 GT:
-Missouri has two major airport hubs: St. Louis Lambert International Airport and Kansas City International Airport. Kansas City is a major railroad hub for BNSF Railway, Norfolk Southern Railway, Kansas City Southern Railway, and Union Pacific Railroad, and every class 1 railroad serves Missouri. Amtrak passenger trains serve Kansas City, La Plata, Jefferson City, St. Louis, Lee's Summit, Independence, Warrensburg, Hermann, Washington, Kirkwood, Sedalia, and Poplar Bluff. The only urban light rail/subway system operating in Missouri is MetroLink, which connects the city of St. Louis with suburbs in Illinois and St. Louis County. Many cities have regular fixed-route systems, and many rural counties have rural public transit services. The Mississippi River and Missouri River are commercially navigable over their entire lengths in Missouri. Following the passage of Amendment 3 in late 2004, the Missouri Department of Transportation (MoDOT) began its Smoother, Safer, Sooner road-building program with a goal of bringing 2,200 miles (3,500 km) of highways up to good condition by December 2007.
+It is also known for a wide range of outdoor recreational opportunities, including skiing, whitewater rafting, fishing, hiking, backpacking, mountain biking, rock climbing, and hunting. The city is also home to West Virginia University, the 95th best public university according to US News & World Report in 2011. Tourism contributed $4.27 billion to the state's economy and employed 44,400 people in 2010, making it one of the state's largest industries. Many tourists, especially in the eastern mountains, are drawn to the region's notable opportunities for outdoor recreation. In addition to such outdoor recreation opportunities, the state offers a number of historic and cultural attractions. According to the Energy Information Administration, West Virginia is a top coal-producer in the United States, second only to Wyoming. As of 2017, the coal industry accounted for 2% of state employment.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.13609467455621302, 0.41818181818181815, 0.20535714285714288, 0.1283482142857143]
-[0.02976190476190476, 0.09259259259259259, 0.04504504504504504, 0.02815315315315315]
-[0.09467455621301775, 0.2909090909090909, 0.14285714285714285, 0.08928571428571429]
+[0.2127659574468085, 0.5769230769230769, 0.31088082901554404, 0.19430051813471502]
+[0.07142857142857142, 0.19607843137254902, 0.10471204188481675, 0.06544502617801046]
+[0.14184397163120568, 0.38461538461538464, 0.20725388601036268, 0.1295336787564767]
 
 
-SBERT sim. Score: 0.3973553478717804
+SBERT sim. Score: 0.613158106803894

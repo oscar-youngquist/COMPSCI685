@@ -1,21 +1,21 @@
 Document:
-south_dakota
+michigan
 
 Intent:
 What drives the economy in this state?
 
 Input:
-West of the Missouri River, ranching is the predominant agricultural activity, and the economy is more dependent on tourism and defense spending. The service industry is the largest economic contributor in South Dakota. Although other industries have expanded rapidly in recent decades, agricultural production is still very important to the state's economy, especially in rural areas. The five most valuable agricultural products in South Dakota are cattle, corn (maize), soybeans, wheat, and hogs. Agriculture-related industries such as meat packing and ethanol production also have a considerable economic impact on the state. In 2006, tourism provided an estimated 33,000 jobs in the state and contributed over two billion dollars to the economy of South Dakota. Fishing contributes over $224 million to South Dakota's economy, and hunting contributes over $303 million.
+Michigan is the leading auto-producing state in the US, with the industry primarily located throughout the Midwestern United States; Ontario, Canada; and the Southern United States. Agriculture also serves a significant role, making the state a leading grower of fruit in the US, including blueberries, cherries, apples, grapes, and peaches. A wide variety of commodity crops, fruits, and vegetables are grown in Michigan, making it second only to California among US states in the diversity of its agriculture. Leading crops include corn, soybeans, flowers, wheat, sugar beets, and potatoes. Livestock in the state included 78,000 sheep, a million cattle, a million hogs, and more than three million chickens. Michigan is a leading grower of fruit in the US, including blueberries, tart cherries, apples, grapes, and peaches. Products grown there include corn, sugar beets, navy beans, and soybeans. Hunting and fishing are significant industries in the state. The forest products industry and recreational users contribute $12 billion and 200,000 associated jobs annually to the state's economy.
 \Predicted Summary:
-is a US state in the Midwestern region of the United States . South Dakota is bisected by the Missouri River, dividing South Dakota into two geographically and socially distinct halves . the state is bisected by the Missouri River, dividing South Dakota into two geographically and socially distinct halves .
+in the 17th century, it was claimed as part of new France colony . It was claimed as part of new France colony . the region was once part of the larger Northwest Territory .
 
 GT:
-The service industry is the largest economic contributor in South Dakota. Government spending is another important segment of the state's economy, providing over ten percent of the gross state product. Ellsworth Air Force Base, near Rapid City, is the second-largest single employer in the state. Agriculture has historically been a key component of the South Dakota economy. Agriculture-related industries such as meat packing and ethanol production also have a considerable economic impact on the state. South Dakota is the sixth leading ethanol-producing state in the nation. Another important sector in South Dakota's economy is tourism. One of the largest tourist events in the state is the annual Sturgis Motorcycle Rally.
+Although Michigan developed a diverse economy, it is widely known as the center of the US automotive industry, which developed as a major economic force in the early 20th century. It is home to the country's three major automobile companies (whose headquarters are all in Metro Detroit). Michigan's economy underwent a transformation at the turn of the 20th century. Ford's development of the moving assembly line in Highland Park marked a new era in transportation. Automobile production became the major industry of Detroit and Michigan, and permanently altered the socio-economic life of the United States and much of the world. Grand Rapids, the second-largest city in Michigan, is also an important center of manufacturing. In the 21st century, it is home to five of the world's leading office furniture companies. Grand Rapids is home to a number of major companies including Steelcase, Amway, and Meijer. Agriculture also serves a significant role, making the state a leading grower of fruit in the US, including blueberries, cherries, apples, grapes, and peaches. Products and services include automobiles, food products, information technology, aerospace, military equipment, furniture, and mining of copper and iron ore. Michigan is the third leading grower of Christmas trees with 60,520 acres (245 km2) of land dedicated to Christmas tree farming. Michigan typically ranks third or fourth in overall research and development (R&D) expenditures in the United States. The domestic auto industry accounts directly and indirectly for one of every ten jobs in the US As leading research institutions, the University of Michigan, Michigan State University, and Wayne State University are important partners in the state's economy and its University Research Corridor. Detroit Metropolitan Airport is one of the nation's most recently expanded and modernized airports with six major runways, and large aircraft maintenance facilities capable of servicing and repairing a Boeing 747 and is a major hub for Delta Air Lines.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.1826086956521739, 0.4375, 0.2576687116564417, 0.1610429447852761]
-[0.08771929824561403, 0.2127659574468085, 0.12422360248447203, 0.07763975155279502]
-[0.14782608695652175, 0.3541666666666667, 0.20858895705521477, 0.13036809815950923]
+[0.040498442367601244, 0.40625, 0.07365439093484419, 0.046033994334277614]
+[0.009375, 0.0967741935483871, 0.017094017094017096, 0.010683760683760684]
+[0.037383177570093455, 0.375, 0.06798866855524079, 0.04249291784702549]
 
 
-SBERT sim. Score: 0.48185163736343384
+SBERT sim. Score: -0.017077814787626266

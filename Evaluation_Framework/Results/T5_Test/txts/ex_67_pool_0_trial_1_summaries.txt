@@ -1,21 +1,21 @@
 Document:
-ohio
+alaska
 
 Intent:
-The main reasons why you would like living in this state
+How is the government structured in this state?
 
 Input:
-Of the fifty states, it is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated. The state is known for its status as both a swing state and a bellwether in national elections. Cincinnati anchors Southwest Ohio and is the largest economy in the state. The industry of Ohio made the state one of the most important states in the Union during the Civil war. Ohio's population growth lags that of the entire United States, and whites are found in a greater density than the US average. This ranks Ohio's economy as the seventh-largest of all fifty states and the District of Columbia. Ohio's manufacturing sector is the third-largest of all fifty United States states in terms of gross domestic product.
+Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined, and the seventh-largest subnational division in the world. Every year, the state legislature takes out 8% from the earnings, puts 3% back into the principal for inflation proofing, and the remaining 5% is distributed to all qualifying Alaskans. Like all other US states, Alaska is governed as a republic, with three branches of government: an executive branch consisting of the governor of Alaska and his or her appointees which head executive departments; a legislative branch consisting of the Alaska House of Representatives and Alaska Senatorte; and a judicial branch consisting of the Alaska Supreme Court and lower courts. The Alaska Legislature consists of a 40-member House of Representatives and a 20-member Senatorte. The governor of Alaska serves four-year terms. Six Republicans and four Democrats have served as governor of Alaska. Alaska regularly supports Republicans in presidential elections and has done so since statehood. Alaska is the third state with jungle primaries for all statewide races, the second state with ranked voting, and the only state with both. Alaska is not divided into counties, as most of the other US states, but it is divided into boroughs. Many of the more densely populated parts of the state are part of Alaska's 16 boroughs, which function somewhat similarly to counties in other states. The tally of cities includes four unified municipalities, essentially the equivalent of a consolidated city–county.
 \Predicted Summary:
-the first post-colonial free state admitted to the union on March 1, 1803 . Ohio is the 34th-largest by area, and with a population of nearly 11.7 million, is the seventh-most populous and tenth-most densely populated . Ohio is known for its status as both a swing state and a bellwether in national elections .
+is a US state on the northwest extremity of the country's West Coast, just across the Bering Strait . Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined . Alaska is by far the largest US state by area, comprising more total area than the next three largest states Texas, California, and Montana combined, and the seventh-largest subnational division in the world .
 
 GT:
-Ohio was the first post-colonial free state admitted to the union, and became one of the earliest and most influential industrial powerhouses in the 20th century; although it has transitioned to a more information and service based economy in the 21st century, Ohio remains an industrial state, ranking seventh in GDP as of 2019, with the third largest manufacturing sector and second largest automobile production. 10 for best business-friendly tax systems in their Business Tax Index 2009, including a top corporate tax and capital gains rate that were both ranked No. Ohio has five of the top 115 colleges in the nation, according to US News and World Report's 2010 rankings, and was ranked No. Ohio's unemployment rate stands at 4.5% as of February 2018, down from 10.7% in May 2010. Ohio has a highly developed network of roads and interstate highways. Ohio also has a highly developed network of signed state bicycle routes. Ohio has several long-distance hiking trails, the most prominent of which is the Buckeye Trail which extends 1,444 mi (2,324 km) in a loop around the state of Ohio. The system averages an annual enrollment of more than 400,000 students, making it one of the five largest state university systems in the US
+Like all other US states, Alaska is governed as a republic, with three branches of government: an executive branch consisting of the governor of Alaska and his or her appointees which head executive departments; a legislative branch consisting of the Alaska House of Representatives and Alaska Senatorte; and a judicial branch consisting of the Alaska Supreme Court and lower courts. The state of Alaska employs approximately 16,000 people statewide. The Alaska Legislature consists of a 40-member House of Representatives and a 20-member Senatorte. Senatortors serve four-year terms and House members two. The governor of Alaska serves four-year terms. Alaska's court system has four levels: the Alaska Supreme Court, the Alaska Court of Appeals, the superior courts and the district courts. Although in its early years of statehood Alaska was a Democratic state, since the early 1970s it has been characterized as Republican-leaning.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.16129032258064516, 0.6140350877192983, 0.25547445255474455, 0.15967153284671534]
-[0.046296296296296294, 0.17857142857142858, 0.07352941176470587, 0.045955882352941166]
-[0.11059907834101383, 0.42105263157894735, 0.17518248175182483, 0.10948905109489053]
+[0.1610738255033557, 0.3076923076923077, 0.21145374449339205, 0.13215859030837004]
+[0.02702702702702703, 0.05194805194805195, 0.035555555555555556, 0.022222222222222223]
+[0.12080536912751678, 0.23076923076923078, 0.15859030837004406, 0.09911894273127754]
 
 
-SBERT sim. Score: 0.5724189877510071
+SBERT sim. Score: 0.5264649391174316

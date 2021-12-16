@@ -1,21 +1,21 @@
 Document:
-tennessee
+illinois
 
 Intent:
-What drives the economy in this state?
+The main reasons why you would like living in this state
 
 Input:
-Tennessee's major industries include agriculture, manufacturing, and tourism. Poultry, soybeans, and cattle are the state's primary agricultural products, and major manufacturing exports include chemicals, transportation equipment, and electrical equipment. In this valley are numerous towns and two of the region's three urban areas, Knoxville, the third largest city in the state, and Chattanooga, the fourth largest city in the state. Major outputs for the state include textiles, cotton, cattle, and electrical power. The state's sales and use tax rate for most items is 7%, the second-highest in the nation, along with Mississippi, Rhode Island, New Jersey, and Indiana. Tourism contributes billions of dollars every year to the state's economy, and Tennessee is ranked among the Top 10 destinations in the nation.
+Illinois has one of the largest concentrations of Missouri Synod Lutherans in the United States. In most years, Illinois is either the first or second state for the highest production of soybeans, with a harvest of 427.7 million bushels (11.64 million metric tons) in 2008, after Iowa's production of 444.82 million bushels (12.11 million metric tons). As of 2011, Illinois is ranked as the 4th-most productive manufacturing state in the country, behind California, Texas, and Ohio. Illinois is ranked 14th in oil production among states, with a daily output of approximately 28,000 barrels (4,500 m3) in 2005. Illinois is ranked second in corn production among US states, and Illinois corn is used to produce 40% of the ethanol consumed in the United States. Illinois has the distinction of having the most primary (two-digit) interstates pass through it among all the 50 states with 13. Illinois also ranks third among the fifty states with the most interstate mileage, coming in after California and Texas, which are much bigger states in area.
 \Predicted Summary:
-the Confederacy in 1861. Tennessee was the first state to leave the Union at the end of the war . Tennessee was the last state to leave the Union at the outbreak of the American Civil War in 1861 . Tennessee was the first state to join the Confederacy at the outbreak of the American Civil War .
+,,,,, and the Michigan Canal (1848) made transportation between the Great Lakes and the Mississippi River valley faster and cheaper . The Illinois and Michigan Canal (1848) made transportation between the Great Lakes and the Mississippi River valley faster and cheaper . the state has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all states .
 
 GT:
-Major outputs for the state include textiles, cotton, cattle, and electrical power. Tennessee has more than 82,000 farms, roughly 59 percent of which accommodate beef cattle. Although cotton was an early crop in Tennessee, large-scale cultivation of the fiber did not begin until the 1820s with the opening of the land between the Tennessee and Mississippi Rivers. Soybeans are also heavily planted in West Tennessee, focusing on the northwest corner of the state. Large corporations with headquarters in Tennessee include FedEx, AutoZone and International Paper, all based in Memphis; Pilot Corporation and Regal Entertainment Group, based in Knoxville; Eastman Chemical Company, based in Kingsport; Hospital Corporation of America and Caterpillar Financial, based in Nashville; and Unum, based in Chattanooga. Tennessee is also a major hub for the automotive industry. Four automobile manufacturers have factories in Tennessee: Nissan in Smyrna, General Motors in Spring Hill, Van Hool in Morristown, and Volkswagen in Chattanooga. Other major manufacturers include a $2 billion polysilicon production facility owned by Wacker Chemie in Bradley County and a $1.2 billion polysilicon production facility owned by Hemlock Semiconductor in Clarksville. Tennessee is a right to work state, as are most of its Southern neighbors.
+As of February 2019, the unemployment rate in Illinois reached 4.2%. Illinois's minimum wage will rise to $15 per hour by 2025, making it one of the highest in the nation. Illinois is one of the nation's manufacturing leaders, boasting annual value added productivity by manufacturing of over $107 billion in 2006. As of 2011, Illinois is ranked as the 4th-most productive manufacturing state in the country, behind California, Texas, and Ohio. By the early 2000s, Illinois's economy had moved toward a dependence on high-value-added services, such as financial trading, higher education, law, logistics, and medicine. Illinois is a net importer of fuels for energy, despite large coal resources and some minor oil production. Illinois is ranked second in corn production among US states, and Illinois corn is used to produce 40% of the ethanol consumed in the United States. In 1990, that rate was set at 3%, but in 2010, the General Assembly voted for a temporary increase in the rate to 5%; the new rate went into effect on January 1, 2011; the personal income rate partially sunset on January 1, 2015, to 3.75%, while the corporate income tax fell to 5.25%.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.11055276381909548, 0.4, 0.1732283464566929, 0.10826771653543307]
-[0.015151515151515152, 0.05555555555555555, 0.023809523809523808, 0.014880952380952382]
-[0.08542713567839195, 0.3090909090909091, 0.13385826771653542, 0.08366141732283464]
+[0.09359605911330049, 0.3064516129032258, 0.14339622641509434, 0.08962264150943396]
+[0.0, 0.0, 0.0, 0.0]
+[0.06896551724137931, 0.22580645161290322, 0.10566037735849057, 0.0660377358490566]
 
 
-SBERT sim. Score: 0.3167162239551544
+SBERT sim. Score: 0.4780290722846985

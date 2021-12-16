@@ -1,21 +1,21 @@
 Document:
-texas
+arkansas
 
 Intent:
 What drives the economy in this state?
 
 Input:
-With a growing base of industry, the state leads in many industries, including tourism, agriculture, petrochemicals, energy, computers and electronics, aerospace, and biomedical sciences. Cotton and lumber became major industries creating new economic booms in various regions of the state. Causes of the state's vast greenhouse gas emissions include the state's large number of coal power plants and the state's refining and manufacturing industries. At $7.4 billion or 56.7 percent of Texas's annual agricultural cash receipts, beef cattle production represents the largest single segment of Texas agriculture. Texas leads the nation in the production of cattle, horses, sheep, goats, wool, mohair and hay. The state also leads the nation in production of cotton which is the number one crop grown in the state in terms of value. The state is a leader in renewable energy commercialization
+Arkansas is the 29th largest by area and the 33rd most populous US state. In the 21st century, its economy is based on service industries, aircraft, poultry, steel, and tourism, along with important commodity crops of cotton, soybeans and rice. Six Fortune 500 companies are based in Arkansas, including the world's #1 retailer, Walmart; Tyson Foods, J.B. Hunt, Dillard's, Murphy USA, and Windstream are also headquartered in the state. The state's agriculture outputs are poultry and eggs, soybeans, sorghum, cattle, cotton, rice, hogs, and milk. Its industrial outputs are food processing, electric equipment, fabricated metal products, machinery, and paper products. According to CNBC, Arkansas ranks as the 20th best state for business, with the 2nd-lowest cost of doing business, 5th-lowest cost of living, 11th best workforce, 20th-best economic climate, 28th-best educated workforce, 31st-best infrastructure and the 32nd-friendliest regulatory environment. Arkansas's earliest industries were fur trading and agriculture, with development of cotton plantations in the areas near the Mississippi River. Today only about three percent of the population are employed in the agricultural sector, it remains a major part of the state's economy, ranking 13th in the nation in the value of products sold. Arkansas is the nation's largest producer of rice, broilers, and turkeys, and ranks in the top three for cotton, pullets, and aquaculture (catfish). Forestry remains strong in the Arkansas Timberlands, and the state ranks fourth nationally and first in the South in softwood lumber production.
 \Predicted Summary:
-, Texas is the second largest state in the US, and the second largest in the US . Texas is the second largest state by both area (after Alaska) and population (after California). Texas shares borders with the states of Louisiana to the east, Arkansas to the northeast, Oklahoma to the north, New Mexico to the west, and the Mexican states of Chihuahua, Coahuila, Nuevo León, and Tamaulipas to the south and southwest .
+, Arkansas, is a state in the south central United States, home to more than three million people . Arkansas () is a state in the south central United States, home to more than three million people as of 2018 . it is home to more than three million people as of 2018 .
 
 GT:
-Texas developed a diversified economy and high tech industry in the mid-20th century. With a growing base of industry, the state leads in many industries, including tourism, agriculture, petrochemicals, energy, computers and electronics, aerospace, and biomedical sciences. Texas's economy is the second-largest of any country subdivision globally, behind California. Its per capita personal income in 2009 was $36,484, ranking 29th in the nation. Texas's large population, an abundance of natural resources, thriving cities and leading centers of higher education have contributed to a large and diverse economy. Since oil was discovered, the state's economy has reflected the state of the petroleum industry.
+Six Fortune 500 companies are based in Arkansas, including the world's #1 retailer, Walmart; Tyson Foods, J.B. Hunt, Dillard's, Murphy USA, and Windstream are also headquartered in the state. The state's agriculture outputs are poultry and eggs, soybeans, sorghum, cattle, cotton, rice, hogs, and milk. Its industrial outputs are food processing, electric equipment, fabricated metal products, machinery, and paper products. Mines in Arkansas produce natural gas, oil, crushed stone, bromine, and vanadium. Today only about three percent of the population are employed in the agricultural sector, it remains a major part of the state's economy, ranking 13th in the nation in the value of products sold. Arkansas is the nation's largest producer of rice, broilers, and turkeys, and ranks in the top three for cotton, pullets, and aquaculture (catfish). Forestry remains strong in the Arkansas Timberlands, and the state ranks fourth nationally and first in the South in softwood lumber production. Bauxite was formerly a large part of the state's economy, mined mostly around Saline County. Tourism is also very important to the Arkansas economy; the official state nickname "The Natural State" was created for state tourism advertising in the 1970s, and is still used to this day.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.26851851851851855, 0.4027777777777778, 0.3222222222222223, 0.20138888888888892]
-[0.06542056074766354, 0.09859154929577464, 0.07865168539325842, 0.04915730337078651]
-[0.17592592592592593, 0.2638888888888889, 0.2111111111111111, 0.13194444444444445]
+[0.11219512195121951, 0.46938775510204084, 0.18110236220472442, 0.11318897637795275]
+[0.0196078431372549, 0.08333333333333333, 0.031746031746031744, 0.01984126984126984]
+[0.07317073170731707, 0.30612244897959184, 0.11811023622047243, 0.07381889763779527]
 
 
-SBERT sim. Score: 0.6932042241096497
+SBERT sim. Score: 0.5225816369056702

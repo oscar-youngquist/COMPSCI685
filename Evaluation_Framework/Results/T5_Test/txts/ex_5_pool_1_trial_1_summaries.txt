@@ -1,21 +1,21 @@
 Document:
-indiana
+alabama
 
 Intent:
-What about this state's arts and culture attracts you the most?
+The main reasons why you would like living in this state
 
 Input:
-Indiana is home to professional sports teams, including the NFL's Indianapolis Colts and the NBA's Indiana Pacers, and hosts several notable competitive events, including the Indianapolis 500. Corydon, a town in the far southern part of Indiana, was named the second capital of the Indiana Territory in May 1813 in order to decrease the threat of Native American raids following the Battle of Tippecanoe. Some counties within this area, particularly Floyd, Clark, and Harrison counties near Louisville, Kentucky, and Ohio and Dearborn counties near Cincinnati, Ohio, unofficially observed DST by local custom. Other cities that have seen extensive growth since 2000 are Greenwood (81 percent), Noblesville (39.4 percent), Carmel (21.4 percent) and Lawrence (9.3 percent). Towns are governed by a town council and townships are governed by a township trustee and advisory board. Indiana was home to two charter members of the National Football League teams, the Hammond Pros and the Muncie Flyers. Its proximity to large urban centers, such as Indianapolis and Chicago, assure dairying, egg production, and specialty horticulture occur.Other crops include melons, tomatoes, grapes, mint, popping corn, and tobacco in the southern counties. The University of Notre Dame, Marian University, and the University of Saint Francis are popular Roman Catholic schools. Universities affiliated with Protestant denominations include Anderson University, Butler University, Huntington University, Manchester University, Indiana Wesleyan University, Taylor University, Franklin College, Hanover College, DePauw University, Earlham College, Valparaiso University, University of Indianapolis, and University of Evansville.
+Alabama is the 30th largest by area and the 24th-most populous of the US states. The state is usually ranked among the top in nation for its range of overall biodiversity. As of 2018, Alabama has the sixth highest poverty rate among states in the US Although known as "The Cotton State", Alabama ranks between eighth and tenth in national cotton production, according to various reports, with Texas, Georgia and Mississippi comprising the top three. Alabama currently ranks 4th in the nation for vehicle exports. The state is home to various attractions, natural features, parks and events that attract visitors from around the globe, notably the annual Hangout Music Festival, held on the public beaches of Gulf Shores; the Alabama Shakespeare Festival, one of the ten largest Shakespeare festivals in the world; the Robert Trent Jones Golf Trail, a collection of championship caliber golf courses distributed across the state; casinos such as Victoryland; amusement parks such as Alabama Splash Adventure; the Riverchase Galleria, one of the largest shopping centers in the southeast; Guntersville Lake, voted the best lake in Alabama by Southern Living Magazine readers; and the Alabama Museum of Natural History, the oldest museum in the state.
 \Predicted Summary:
-, Indiana was admitted to the United States as the 19th state on December 11, 1816 . Indiana is a US state in the Midwestern and Great Lakes regions of North America . it borders Lake Michigan to the northwest, Michigan to the north, Ohio to the east, the Ohio River and Kentucky to the east .
+,,,,, a Muskogean-speaking tribe whose members lived just below the confluence of the Coosa and Tallapoosa rivers . Alabama is a state in the Deep South region of the Southern United States, bordered by Tennessee to the north; Georgia to the east; Florida and the Gulf of Mexico to the west . Alabama is the 30th largest by area and the 24th-most populous of the US states .
 
 GT:
-Indiana has an extensive history with auto racing. Indianapolis hosts the Indianapolis 500 mile race over Memorial Day weekend at the Indianapolis Motor Speedway every May. The name of the race is usually shortened to "Indy 500" and also goes by the nickname "The Greatest Spectacle in Racing". The track also hosts the Brickyard 400 (NASCAR) and the Red Bull Indianapolis Grand Prix. Indiana features the world's largest and most prestigious drag race, the NHRA Mac Tools US Nationals, held each Labor Day weekend at Lucas Oil Raceway at Indianapolis in Clermont, Indiana. Indiana is also host to a major unlimited hydroplane racing power boat race circuits in the major H1 Unlimited league, the Madison Regatta (Madison, Indiana).
+The average annual temperature is 64 °F (18 °C). Temperatures tend to be warmer in the southern part of the state with its proximity to the Gulf of Mexico, while the northern parts of the state, especially in the Appalachian Mountains in the northeast, tend to be slightly cooler. College football is extremely popular in Alabama, particularly the University of Alabama Crimson Tide and Auburn University Tigers, rivals in the Southeastern Conference. In the 2013 season, Alabama averaged over 100,000 fans per game and Auburn averaged over 80,000—both numbers among the top twenty in the nation. Bryant–Denny Stadium is the home of the Alabama football team, and has a seating capacity of 101,821, and is the fifth largest stadium in America. Jordan-Hare Stadium is the home field of the Auburn football team and seats up to 87,451. Alabama has several professional and semi-professional sports teams, including three minor league baseball teams.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.15966386554621848, 0.3584905660377358, 0.2209302325581395, 0.13808139534883718]
-[0.01694915254237288, 0.038461538461538464, 0.023529411764705882, 0.014705882352941178]
-[0.1092436974789916, 0.24528301886792453, 0.1511627906976744, 0.09447674418604653]
+[0.20754716981132076, 0.5, 0.2933333333333334, 0.18333333333333335]
+[0.06329113924050633, 0.15384615384615385, 0.08968609865470852, 0.056053811659192834]
+[0.13836477987421383, 0.3333333333333333, 0.19555555555555554, 0.1222222222222222]
 
 
-SBERT sim. Score: 0.35054731369018555
+SBERT sim. Score: 0.4377577602863312

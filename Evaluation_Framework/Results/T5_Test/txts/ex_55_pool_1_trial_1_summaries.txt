@@ -1,21 +1,21 @@
 Document:
-montana
+hawaii
 
 Intent:
 What drives the economy in this state?
 
 Input:
-It is the fourth-largest state by area, the eighth-least populous state, and the third-least densely populated state. The economy is primarily based on agriculture, including ranching and cereal grain farming. Other significant economic resources include oil, gas, coal, mining, and lumber. The health care, service, and government sectors also are significant to the state's economy. Significant industries exist for lumber and mineral extraction; the state's resources include gold, coal, silver, talc, and vermiculite. The state has robust recreational lake trout and kokanee salmon fisheries in the west, walleye can be found in many parts of the state, while northern pike, smallmouth and largemouth bass fisheries as well as catfish and paddlefish can be found in the waters of eastern Montana.
+Of the fifty US states, Hawaii is the eighth-smallest in area and the 11th-least populous, but with 1.4 million residents is the 13th-most densely populated. Consequently, the state is a unique melting pot of Southeast Asian, East Asian and North American cultures, in addition to its indigenous Hawaiian culture. Historically dominated by a plantation economy, Hawaii remains a major agricultural exporter due to its fertile soil and uniquely tropical climate in the US Its economy has gradually diversified since the mid 20th century, with tourism and military defense becoming the two largest sectors. The state attracts tourists, surfers, and scientists from around the world with its diverse natural scenery, warm tropical climate, abundance of public beaches, oceanic surroundings, active volcanoes, and clear skies on the Big Island. The history of Hawaii's economy can be traced through a succession of dominant industries: sandalwood, whaling, sugarcane, pineapple, the military, tourism and education. Since statehood in 1959, tourism has been the largest industry, contributing 24.3% of the gross state product (GSP) in 1997, despite efforts to diversify. These industries play a small role in the Hawaiian economy, due to the shipping distance to viable markets, such as the West Coast of the contiguous US The state's food exports include coffee, macadamia nuts, pineapple, livestock, sugarcane and honey. By weight, honey bees may be the state's most valuable export. Some major towns are Hilo
 \Predicted Summary:
-Montana Territory was added in 1863 to a bill by the United States House Committee on Territories . the name Montana comes from the Latin word montaa, meaning "mountain" or more broadly "mountainous country" the name Montana comes from the Latin word montanea, meaning "mountain" or "mountainous country"
+, Hawaii is the fourth longest in the US, at about 750 miles (1,210 km) of the island of O'ahu, home to the state's capital and largest city, Honolulu . Hawaii is the only state outside North America, the only island state, and the only state in the tropics .
 
 GT:
-The economy is primarily based on agriculture, including ranching and cereal grain farming. Other significant economic resources include oil, gas, coal, mining, and lumber. The health care, service, and government sectors also are significant to the state's economy. Montana's fastest-growing sector is tourism; nearly 13 million annual tourists visit Glacier National Park, Yellowstone National Park, Beartooth Highway, Flathead Lake, Big Sky Resort, and other attractions. Montana is a relative hub of beer microbrewing, ranking third in the nation in number of craft breweries per capita in 2011. Significant industries exist for lumber and mineral extraction; the state's resources include gold, coal, silver, talc, and vermiculite. Ecotaxes on resource extraction are numerous. Tourism is also important to the economy, with more than ten million visitors a year to Glacier National Park, Flathead Lake, the Missouri River headwaters, the site of the Battle of Little Bighorn, and three of the five entrances to Yellowstone National Park.
+Historically dominated by a plantation economy, Hawaii remains a major agricultural exporter due to its fertile soil and uniquely tropical climate in the US Its economy has gradually diversified since the mid 20th century, with tourism and military defense becoming the two largest sectors. Hawaii hosts the US Pacific Fleet, the largest naval command in the world, as well as 75,000 employees of the Defense Department. By weight, honey bees may be the state's most valuable export. According to the Hawaii Agricultural Statistics Service, agricultural sales were US$370.9 million from diversified agriculture, US$100.6 million from pineapple, and US$64.3 million from sugarcane. Hawaii's relatively consistent climate has attracted the seed industry, which is able to test three generations of crops per year on the islands, compared with one or two on the mainland. Tourism is an important part of the Hawaiian economy. In 2003, according to state government data, there were more than 6.4 million visitors, with expenditures of over $10 billion, to the Hawaiian Islands.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.08227848101265822, 0.2765957446808511, 0.12682926829268293, 0.07926829268292683]
-[0.0, 0.0, 0.0, 0.0]
-[0.056962025316455694, 0.19148936170212766, 0.0878048780487805, 0.0548780487804878]
+[0.15428571428571428, 0.54, 0.24, 0.15]
+[0.04597701149425287, 0.16326530612244897, 0.07174887892376682, 0.04484304932735426]
+[0.09714285714285714, 0.34, 0.1511111111111111, 0.09444444444444444]
 
 
-SBERT sim. Score: 0.28093212842941284
+SBERT sim. Score: 0.505904495716095

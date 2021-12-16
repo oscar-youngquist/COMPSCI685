@@ -1,21 +1,21 @@
 Document:
-new_jersey
+north_dakota
 
 Intent:
-What are the available modes of transport in this state?
+The main reasons why you would like living in this state
 
 Input:
-This toll road, which overlaps with Interstate 95 for much of its length, carries traffic between Delaware and New York, and up and down the East Coast in general. The Port Authority of New York and New Jersey, the Delaware River Port Authority (with Pennsylvania), the Delaware River Joint Toll Bridge Commission (with Pennsylvania), and the Delaware River and Bay Authority (with Delaware) operate most of the major transportation routes in and out of the state. Operated by the Port Authority of New York and New Jersey, it is one of the three main airports serving the New York metropolitan area. Two smaller commercial airports, Atlantic City International Airport and rapidly growing Trenton-Mercer Airport, also operate in other parts of the state. One line provides service between Atlantic City and Philadelphia, Pennsylvania. NJ Transit also operates three light rail systems in the state. New York Waterway has ferry terminals at Belford, Jersey City, Hoboken, Weehawken, and Edgewater, with service to different parts of Manhattan.
+In recent years, the state has had lower rates of unemployment than the national average, and increased job and population growth. North Dakota is the fourth least-populous state in the country; only Alaska, Vermont, and Wyoming have fewer residents. North Dakota has the most churches per capita of any state. At end of 2010, the state per capita income was ranked 17th in the nation, the biggest increase of any state in a decade from rank 38th. The state is also the largest producer of honey, dry edible peas and beans, lentils, and the third-largest producer of potatoes. The other elected constitutional offices are secretary of state, attorney general, state auditor, and state treasurer. The state has 11 public colleges and universities, five tribal community colleges, and four private schools.
 \Predicted Summary:
-,, New Jersey, and Newark, New Jersey, helped drive the nation's Industrial Revolution . New Jersey was first inhabited by Native Americans for at least 2,800 years . New Jersey was the second-wealthest state by median household income .
+, the largest city of North Dakota. North Dakota is the capital of Bismarck, and its largest city is Fargo . North Dakota is the nineteenth largest in area, the fourth least populous, and the fourth most sparsely populated of the 50 states . North Dakota is home to the tallest man-made structure in the Western Hemisphere, the KVLY-TV mast .
 
 GT:
-The New Jersey Turnpike is one of the most prominent and heavily trafficked roadways in the United States. The Garden State Parkway, or simply "the Parkway", carries relatively more in-state traffic than interstate traffic and runs from New Jersey's northern border to its southernmost tip at Cape May. New Jersey is connected to New York City via various key bridges and tunnels. Newark Liberty International Airport (EWR) is one of the busiest airports in the United States. Two smaller commercial airports, Atlantic City International Airport and rapidly growing Trenton-Mercer Airport, also operate in other parts of the state. NJ Transit operates extensive rail and bus service throughout the state. NJ Transit also operates three light rail systems in the state. The PATH is a rapid transit system consisting of four lines operated by the Port Authority of New York and New Jersey. Amtrak operates numerous long-distance passenger trains in New Jersey, both to and from neighboring states and around the country. The Southeastern Pennsylvania Transportation Authority, or SEPTA, has two commuter rail lines that operate into New Jersey. AirTrain Newark is a monorail connecting the Amtrak/NJ Transit station on the Northeast Corridor to the airport's terminals and parking lots. New York Waterway has ferry terminals at Belford, Jersey City, Hoboken, Weehawken, and Edgewater, with service to different parts of Manhattan. Liberty Water Taxi in Jersey City has ferries from Paulus Hook and Liberty State Park to Battery Park City in Manhattan. Statue Cruises offers service from Liberty State Park to the Statue of Liberty National Monument, including Ellis Island. The Delaware River and Bay Authority operates the Cape May–Lewes Ferry on Delaware Bay, carrying both passengers and vehicles between New Jersey and Delaware.
+Agriculture is North Dakota's largest industry, although petroleum, food processing, and technology are also major industries. According to Gallup data, North Dakota led the US in job creation in 2013 and has done so since 2009. As of December 2019, the state's unemployment rate is among the lowest in the nation at 2.4 percent. At end of 2010, the state per capita income was ranked 17th in the nation, the biggest increase of any state in a decade from rank 38th. North Dakota has six level-II trauma centers, 44 hospitals, 52 rural health clinics, and 80 nursing homes. North Dakota expanded Medicaid in 2014, and its health insurance exchange is the federal site, HealthCare.gov. North Dakota law requires pharmacies, other than hospital dispensaries and pre-existing stores, to be majority-owned by pharmacists. The North Dakota Department of Emergency Services provides 24/7 communication and coordination for more than 50 agencies.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.05862068965517241, 0.4473684210526316, 0.10365853658536586, 0.06478658536585366]
-[0.01730103806228374, 0.13513513513513514, 0.030674846625766878, 0.0191717791411043]
-[0.04482758620689655, 0.34210526315789475, 0.07926829268292683, 0.04954268292682927]
+[0.21153846153846154, 0.559322033898305, 0.3069767441860465, 0.19186046511627905]
+[0.04516129032258064, 0.1206896551724138, 0.06572769953051644, 0.04107981220657277]
+[0.12179487179487179, 0.3220338983050847, 0.17674418604651163, 0.11046511627906976]
 
 
-SBERT sim. Score: 0.32675701379776
+SBERT sim. Score: 0.4705592691898346

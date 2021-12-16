@@ -1,21 +1,21 @@
 Document:
-indiana
+illinois
 
 Intent:
-What drives the economy in this state?
+How is the government structured in this state?
 
 Input:
-Indiana has a diverse economy with a gross state product of $359.12 billion in 2017. Indiana manufactured 4.5 percent of total United States military armaments produced during World War II, ranking eighth among the 48 states. A high percentage of Indiana's income is from manufacturing. According to the Bureau of Labor Statistics, nearly 17 percent of the state's non-farm workforce is employed in manufacturing, the highest of any state in the US The state's five leading exports were motor vehicles and auto parts, pharmaceutical products, industrial machinery, optical and medical equipment, and electric machinery. Overall, Indiana ranks fifth among all US states in total sales and shipments of pharmaceutical products and second highest in the number of biopharmaceutical related jobs. Its proximity to large urban centers, such as Indianapolis and Chicago, assure dairying, egg production, and specialty horticulture occur.Other crops include melons, tomatoes, grapes, mint, popping corn, and tobacco in the southern counties.
+Three US presidents have been elected while living in Illinois: Abraham Lincoln, Ulysses S. Grant, and Barack Obama. The government of Illinois, under the Constitution of Illinois, has three branches of government: executive, legislative and judicial. The executive branch is split into several statewide elected offices, with the governor as chief executive. The administrative divisions of Illinois are counties, townships, precincts, cities, towns, villages, and special-purpose districts. Municipal governments are the cities, villages, and incorporated towns. The Illinois State Board of Education (ISBE) is autonomous of the governor and the state legislature, and administers public education in the state.
 \Predicted Summary:
-, Indiana was admitted to the United States as the 19th state on December 11, 1816 . Indiana is a US state in the Midwestern and Great Lakes regions of North America . it borders Lake Michigan to the northwest, Michigan to the north, Ohio to the east, the Ohio River and Kentucky to the east .
+,,,,, and the Michigan Canal (1848) made transportation between the Great Lakes and the Mississippi River valley faster and cheaper . The Illinois and Michigan Canal (1848) made transportation between the Great Lakes and the Mississippi River valley faster and cheaper . the state has the fifth largest gross domestic product (GDP),the sixth largest population, and the 25th largest land area of all states .
 
 GT:
-A high percentage of Indiana's income is from manufacturing. According to the Bureau of Labor Statistics, nearly 17 percent of the state's non-farm workforce is employed in manufacturing, the highest of any state in the US The state's five leading exports were motor vehicles and auto parts, pharmaceutical products, industrial machinery, optical and medical equipment, and electric machinery. Despite its reliance on manufacturing, Indiana has been less affected by declines in traditional Rust Belt manufactures than many of its neighbors. Northwest Indiana has been the largest steel producing center in the US since 1975 and accounted for 27 percent of American-made steel in 2016. Indiana is within the US Corn Belt and Grain Belt. Along with corn, soybeans are also a major cash crop. Its proximity to large urban centers, such as Indianapolis and Chicago, assure dairying, egg production, and specialty horticulture occur.Other crops include melons, tomatoes, grapes, mint, popping corn, and tobacco in the southern counties.
+The government of Illinois, under the Constitution of Illinois, has three branches of government: executive, legislative and judicial. The Illinois General Assembly is the state legislature, composed of the 118-member Illinois House of Representatives and the 59-member Illinois Senatorte. The members of the General Assembly are elected at the beginning of each even-numbered year. The executive branch is composed of six elected officers and their offices as well as numerous other departments. The Judiciary of Illinois is the unified court system of Illinois. It consists of the Supreme Court, Appellate Court, and Circuit Courts. Illinois is a Democratic stronghold.
 
 Rouge-1, Rouge-2, Rouge-L: [p, r, f1, f2]:
-[0.15337423312883436, 0.4716981132075472, 0.23148148148148148, 0.14467592592592593]
-[0.024691358024691357, 0.07692307692307693, 0.03738317757009346, 0.02336448598130841]
-[0.11042944785276074, 0.33962264150943394, 0.16666666666666666, 0.10416666666666669]
+[0.17647058823529413, 0.2903225806451613, 0.21951219512195125, 0.13719512195121955]
+[0.0297029702970297, 0.04918032786885246, 0.037037037037037035, 0.023148148148148147]
+[0.14705882352941177, 0.24193548387096775, 0.18292682926829268, 0.11432926829268293]
 
 
-SBERT sim. Score: 0.47464391589164734
+SBERT sim. Score: 0.2602817416191101
