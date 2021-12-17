@@ -15,6 +15,15 @@ sys.path.append(parentdir)
 from ExperimentRunner import ExperimentRunner
 from utils.UserDataReader import UserDataReader
 
+parser = ArgumentParser(description="Experiment runner for pegasus base and fine-tuned pegasus")
+parser.add_argument('--finetune_basic', action='store_false')
+parser.add_argument('--finetune_augmented', action='store_false')
+
+args = parser.parse_args()
+finetune_basic = args.finetune_basic
+finetune_augmented = args.finetune_augmented
+
+
 ##############
 ### TODO #####
 ##############
@@ -25,7 +34,14 @@ from Models.T5_WkiTransfer import T5_Wiki
 ### TODO #####
 ##############
 # add your model names here
-model_name = "T5_wiki_aug_ft_split_two"
+model_name = "T5_wiki_ft_test"
+
+if (finetune_basic):
+    model_name = "T5_wiki_basic_ft_test"
+
+if (finetune_augmented):
+    model_name = "T5_wiki_aug_ft_test"
+
 
 ###
 #    Helper function used to replaces sys.excepthook to log exceptions to 
@@ -49,7 +65,15 @@ if not exists(join(cwd, "Logs/")):
 ### TODO #####
 ##############
 # TODO: add your own log file name
-log_file = join(cwd, "Logs/", "Wiki_aug_ft_split_two.log")
+log_file = join(cwd, "Logs/", "Wiki_ft.log")
+
+if (finetune_basic):
+   log_file = join(cwd, "Logs/", "Wiki_ft_basic.log")
+
+if (finetune_basic):
+   log_file = join(cwd, "Logs/", "Wiki_ft_augmented.log") 
+
+
 
 # set up logger
 root = logging.getLogger()
